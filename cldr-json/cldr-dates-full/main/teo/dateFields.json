@@ -2,9 +2,6 @@
   "main": {
     "teo": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "teo"
       },
       "dates": {

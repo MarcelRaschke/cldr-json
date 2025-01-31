@@ -2,9 +2,6 @@
   "main": {
     "or": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "or"
       },
       "localeDisplayNames": {

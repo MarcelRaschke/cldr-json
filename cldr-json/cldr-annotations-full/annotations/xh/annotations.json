@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "xh"
     },
     "annotations": {
@@ -4219,14 +4216,6 @@
           "isibini esinentliziyo"
         ]
       },
-      "👪": {
-        "default": [
-          "usapho"
-        ],
-        "tts": [
-          "usapho"
-        ]
-      },
       "🗣": {
         "default": [
           "i-silhouette",
@@ -4258,6 +4247,14 @@
         ],
         "tts": [
           "imifanekiso eqingqiweyo yentloko namagxa"
+        ]
+      },
+      "👪": {
+        "default": [
+          "usapho"
+        ],
+        "tts": [
+          "usapho"
         ]
       },
       "👣": {
@@ -5014,6 +5011,37 @@
         ],
         "tts": [
           "iqokobhe elijikelezayo"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "I-Cancer",
+          "i-zodiac",
+          "unonkala"
+        ],
+        "tts": [
+          "unonkala"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "encinane",
+          "i-shellfish",
+          "inqonci",
+          "ukutya"
+        ],
+        "tts": [
+          "inqonci"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "i-molusc",
+          "i-squid",
+          "ukutya"
+        ],
+        "tts": [
+          "i-squid"
         ]
       },
       "🐌": {
@@ -6030,37 +6058,6 @@
         ],
         "tts": [
           "ibhokisi ye-takeout"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "I-Cancer",
-          "i-zodiac",
-          "unonkala"
-        ],
-        "tts": [
-          "unonkala"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "encinane",
-          "i-shellfish",
-          "inqonci",
-          "ukutya"
-        ],
-        "tts": [
-          "inqonci"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "i-molusc",
-          "i-squid",
-          "ukutya"
-        ],
-        "tts": [
-          "i-squid"
         ]
       },
       "🍦": {

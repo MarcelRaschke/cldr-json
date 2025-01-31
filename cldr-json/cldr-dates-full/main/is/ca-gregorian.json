@@ -2,9 +2,6 @@
   "main": {
     "is": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "is"
       },
       "dates": {
@@ -403,11 +400,11 @@
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
                 "Bh": {
-                  "B": "h B – h B",
+                  "B": "h B – h B",
                   "h": "h–h B"
                 },
                 "Bhm": {
-                  "B": "h:mm B – h:mm B",
+                  "B": "h:mm B – h:mm B",
                   "h": "h:mm–h:mm B",
                   "m": "h:mm–h:mm B"
                 },
@@ -492,8 +489,8 @@
                   "M": "d.M.–d.M."
                 },
                 "MEd": {
-                  "d": "E, d.M. – E, d.M.",
-                  "M": "E, d.M. – E, d.M."
+                  "d": "E, d.M. – E, d.M.",
+                  "M": "E, d.M. – E, d.M."
                 },
                 "MMM": {
                   "M": "MMM–MMM"
@@ -503,7 +500,7 @@
                   "M": "d. MMM – d. MMM"
                 },
                 "MMMEd": {
-                  "d": "E, d. – E, d. MMM",
+                  "d": "E, d. – E, d. MMM",
                   "M": "E, d. MMM – E, d. MMM"
                 },
                 "MMMM": {
@@ -536,7 +533,7 @@
                   "y": "d. MMM y – d. MMM y"
                 },
                 "yMMMEd": {
-                  "d": "E, d. – E, d. MMM y",
+                  "d": "E, d. – E, d. MMM y",
                   "M": "E, d. MMM – E, d. MMM y",
                   "y": "E, d. MMM y – E, d. MMM y"
                 },

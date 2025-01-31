@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "cy"
     },
     "annotations": {
@@ -836,6 +833,8 @@
           "gwthio",
           "llaw yn gwthio i’r chwith",
           "pump uchel",
+          "rhwystro",
+          "seibio",
           "stopio"
         ],
         "tts": [
@@ -851,6 +850,8 @@
           "gwthio",
           "llaw yn gwthio i’r chwith",
           "pump uchel",
+          "rhwystro",
+          "seibio",
           "stopio"
         ],
         "tts": [
@@ -866,6 +867,8 @@
           "gwthio",
           "llaw yn gwthio i’r chwith",
           "pump uchel",
+          "rhwystro",
+          "seibio",
           "stopio"
         ],
         "tts": [
@@ -881,6 +884,8 @@
           "gwthio",
           "llaw yn gwthio i’r chwith",
           "pump uchel",
+          "rhwystro",
+          "seibio",
           "stopio"
         ],
         "tts": [
@@ -896,6 +901,8 @@
           "gwthio",
           "llaw yn gwthio i’r chwith",
           "pump uchel",
+          "rhwystro",
+          "seibio",
           "stopio"
         ],
         "tts": [
@@ -911,6 +918,8 @@
           "i’r dde",
           "llaw yn gwthio i’r dde",
           "pump uchel",
+          "rhwystro",
+          "seibio",
           "stopio"
         ],
         "tts": [
@@ -926,6 +935,8 @@
           "i’r dde",
           "llaw yn gwthio i’r dde",
           "pump uchel",
+          "rhwystro",
+          "seibio",
           "stopio"
         ],
         "tts": [
@@ -941,6 +952,8 @@
           "i’r dde",
           "llaw yn gwthio i’r dde",
           "pump uchel",
+          "rhwystro",
+          "seibio",
           "stopio"
         ],
         "tts": [
@@ -956,6 +969,8 @@
           "i’r dde",
           "llaw yn gwthio i’r dde",
           "pump uchel",
+          "rhwystro",
+          "seibio",
           "stopio"
         ],
         "tts": [
@@ -971,6 +986,8 @@
           "i’r dde",
           "llaw yn gwthio i’r dde",
           "pump uchel",
+          "rhwystro",
+          "seibio",
           "stopio"
         ],
         "tts": [
@@ -1298,7 +1315,7 @@
           "llaw gyda bys mynegai a bawd wedi’i chroesi"
         ],
         "tts": [
-          "llaw gyda bys mynegai a bawd wedi’i chroesi: arlliw croen golau"
+          "llaw gyda bys mynegai a bawd wedi’u croesi: arlliw croen golau"
         ]
       },
       "🫰🏼": {
@@ -1312,7 +1329,7 @@
           "llaw gyda bys mynegai a bawd wedi’i chroesi"
         ],
         "tts": [
-          "llaw gyda bys mynegai a bawd wedi’i chroesi: arlliw croen canolig-golau"
+          "llaw gyda bys mynegai a bawd wedi’u croesi: arlliw croen canolig-golau"
         ]
       },
       "🫰🏽": {
@@ -1326,7 +1343,7 @@
           "llaw gyda bys mynegai a bawd wedi’i chroesi"
         ],
         "tts": [
-          "llaw gyda bys mynegai a bawd wedi’i chroesi: arlliw croen canolog"
+          "llaw gyda bys mynegai a bawd wedi’u croesi: arlliw croen canolog"
         ]
       },
       "🫰🏾": {
@@ -1340,7 +1357,7 @@
           "llaw gyda bys mynegai a bawd wedi’i chroesi"
         ],
         "tts": [
-          "llaw gyda bys mynegai a bawd wedi’i chroesi: arlliw croen canolig-tywyll"
+          "llaw gyda bys mynegai a bawd wedi’u croesi: arlliw croen canolig-tywyll"
         ]
       },
       "🫰🏿": {
@@ -1354,7 +1371,7 @@
           "llaw gyda bys mynegai a bawd wedi’i chroesi"
         ],
         "tts": [
-          "llaw gyda bys mynegai a bawd wedi’i chroesi: arlliw croen tywyll"
+          "llaw gyda bys mynegai a bawd wedi’u croesi: arlliw croen tywyll"
         ]
       },
       "🤟🏻": {
@@ -14404,8 +14421,14 @@
       "🧑🏻‍🎄": {
         "default": [
           "arlliw croen golau",
-          "Claus, nadolig",
-          "mx claus"
+          "Claus",
+          "gwyliau",
+          "het",
+          "mx claus",
+          "nadolig",
+          "nadolig llawen",
+          "person",
+          "sion corn"
         ],
         "tts": [
           "mx claus: arlliw croen golau"
@@ -14414,8 +14437,14 @@
       "🧑🏼‍🎄": {
         "default": [
           "arlliw croen canolig-golau",
-          "Claus, nadolig",
-          "mx claus"
+          "Claus",
+          "gwyliau",
+          "het",
+          "mx claus",
+          "nadolig",
+          "nadolig llawen",
+          "person",
+          "sion corn"
         ],
         "tts": [
           "mx claus: arlliw croen canolig-golau"
@@ -14424,8 +14453,14 @@
       "🧑🏽‍🎄": {
         "default": [
           "arlliw croen canolog",
-          "Claus, nadolig",
-          "mx claus"
+          "Claus",
+          "gwyliau",
+          "het",
+          "mx claus",
+          "nadolig",
+          "nadolig llawen",
+          "person",
+          "sion corn"
         ],
         "tts": [
           "mx claus: arlliw croen canolog"
@@ -14434,8 +14469,14 @@
       "🧑🏾‍🎄": {
         "default": [
           "arlliw croen canolig-tywyll",
-          "Claus, nadolig",
-          "mx claus"
+          "Claus",
+          "gwyliau",
+          "het",
+          "mx claus",
+          "nadolig",
+          "nadolig llawen",
+          "person",
+          "sion corn"
         ],
         "tts": [
           "mx claus: arlliw croen canolig-tywyll"
@@ -14444,8 +14485,14 @@
       "🧑🏿‍🎄": {
         "default": [
           "arlliw croen tywyll",
-          "Claus, nadolig",
-          "mx claus"
+          "Claus",
+          "gwyliau",
+          "het",
+          "mx claus",
+          "nadolig",
+          "nadolig llawen",
+          "person",
+          "sion corn"
         ],
         "tts": [
           "mx claus: arlliw croen tywyll"
@@ -16201,6 +16248,267 @@
           "menyw yn cerdded: arlliw croen tywyll"
         ]
       },
+      "🚶‍➡": {
+        "default": [
+          "cerdded",
+          "dde",
+          "heicio",
+          "i’r",
+          "person yn cerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn cerdded: wynebu i’r dde"
+        ]
+      },
+      "🚶🏻‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "cerdded",
+          "dde",
+          "heicio",
+          "i’r",
+          "person yn cerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn cerdded: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "🚶🏼‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "cerdded",
+          "dde",
+          "heicio",
+          "i’r",
+          "person yn cerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn cerdded: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "🚶🏽‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "cerdded",
+          "dde",
+          "heicio",
+          "i’r",
+          "person yn cerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn cerdded: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "🚶🏾‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "cerdded",
+          "dde",
+          "heicio",
+          "i’r",
+          "person yn cerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn cerdded: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "🚶🏿‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "cerdded",
+          "dde",
+          "heicio",
+          "i’r",
+          "person yn cerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn cerdded: arlliw croen tywyll, wynebu i’r dde"
+        ]
+      },
+      "🚶‍♀‍➡": {
+        "default": [
+          "cerdded",
+          "dde",
+          "heicio",
+          "i’r",
+          "menyw",
+          "menyw yn cerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn cerdded: wynebu i’r dde"
+        ]
+      },
+      "🚶🏻‍♀‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "cerdded",
+          "dde",
+          "heicio",
+          "i’r",
+          "menyw",
+          "menyw yn cerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn cerdded: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "🚶🏼‍♀‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "cerdded",
+          "dde",
+          "heicio",
+          "i’r",
+          "menyw",
+          "menyw yn cerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn cerdded: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "🚶🏽‍♀‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "cerdded",
+          "dde",
+          "heicio",
+          "i’r",
+          "menyw",
+          "menyw yn cerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn cerdded: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "🚶🏾‍♀‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "cerdded",
+          "dde",
+          "heicio",
+          "i’r",
+          "menyw",
+          "menyw yn cerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn cerdded: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "🚶🏿‍♀‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "cerdded",
+          "dde",
+          "heicio",
+          "i’r",
+          "menyw",
+          "menyw yn cerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn cerdded: arlliw croen tywyll, wynebu i’r dde"
+        ]
+      },
+      "🚶‍♂‍➡": {
+        "default": [
+          "cerdded",
+          "dde",
+          "dyn",
+          "dyn yn cerdded",
+          "heicio",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn cerdded: wynebu i’r dde"
+        ]
+      },
+      "🚶🏻‍♂‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "cerdded",
+          "dde",
+          "dyn",
+          "dyn yn cerdded",
+          "heicio",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn cerdded: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "🚶🏼‍♂‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "cerdded",
+          "dde",
+          "dyn",
+          "dyn yn cerdded",
+          "heicio",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn cerdded: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "🚶🏽‍♂‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "cerdded",
+          "dde",
+          "dyn",
+          "dyn yn cerdded",
+          "heicio",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn cerdded: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "🚶🏾‍♂‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "cerdded",
+          "dde",
+          "dyn",
+          "dyn yn cerdded",
+          "heicio",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn cerdded: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "🚶🏿‍♂‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "cerdded",
+          "dde",
+          "dyn",
+          "dyn yn cerdded",
+          "heicio",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn cerdded: arlliw croen tywyll, wynebu i’r dde"
+        ]
+      },
       "🧍🏻": {
         "default": [
           "arlliw croen golau",
@@ -16521,6 +16829,243 @@
           "menyw yn penlinio: arlliw croen tywyll"
         ]
       },
+      "🧎‍➡": {
+        "default": [
+          "dde",
+          "i’r",
+          "penlinio",
+          "person yn penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn penlinio: wynebu i’r dde"
+        ]
+      },
+      "🧎🏻‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "dde",
+          "i’r",
+          "penlinio",
+          "person yn penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn penlinio: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "🧎🏼‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "dde",
+          "i’r",
+          "penlinio",
+          "person yn penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn penlinio: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "🧎🏽‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "dde",
+          "i’r",
+          "penlinio",
+          "person yn penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn penlinio: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "🧎🏾‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "dde",
+          "i’r",
+          "penlinio",
+          "person yn penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn penlinio: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "🧎🏿‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "dde",
+          "i’r",
+          "penlinio",
+          "person yn penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn penlinio: arlliw croen tywyll, wynebu i’r dde"
+        ]
+      },
+      "🧎‍♀‍➡": {
+        "default": [
+          "dde",
+          "i’r",
+          "menyw / penlinio",
+          "menyw yn penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn penlinio: wynebu i’r dde"
+        ]
+      },
+      "🧎🏻‍♀‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "dde",
+          "i’r",
+          "menyw / penlinio",
+          "menyw yn penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn penlinio: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "🧎🏼‍♀‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "dde",
+          "i’r",
+          "menyw / penlinio",
+          "menyw yn penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn penlinio: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "🧎🏽‍♀‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "dde",
+          "i’r",
+          "menyw / penlinio",
+          "menyw yn penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn penlinio: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "🧎🏾‍♀‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "dde",
+          "i’r",
+          "menyw / penlinio",
+          "menyw yn penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn penlinio: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "🧎🏿‍♀‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "dde",
+          "i’r",
+          "menyw / penlinio",
+          "menyw yn penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn penlinio: arlliw croen tywyll, wynebu i’r dde"
+        ]
+      },
+      "🧎‍♂‍➡": {
+        "default": [
+          "dde",
+          "dyn",
+          "dyn yn penlinio",
+          "i’r",
+          "penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn penlinio: wynebu i’r dde"
+        ]
+      },
+      "🧎🏻‍♂‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "dde",
+          "dyn",
+          "dyn yn penlinio",
+          "i’r",
+          "penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn penlinio: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "🧎🏼‍♂‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "dde",
+          "dyn",
+          "dyn yn penlinio",
+          "i’r",
+          "penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn penlinio: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "🧎🏽‍♂‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "dde",
+          "dyn",
+          "dyn yn penlinio",
+          "i’r",
+          "penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn penlinio: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "🧎🏾‍♂‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "dde",
+          "dyn",
+          "dyn yn penlinio",
+          "i’r",
+          "penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn penlinio: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "🧎🏿‍♂‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "dde",
+          "dyn",
+          "dyn yn penlinio",
+          "i’r",
+          "penlinio",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn penlinio: arlliw croen tywyll, wynebu i’r dde"
+        ]
+      },
       "🧑🏻‍🦯": {
         "default": [
           "arlliw croen golau",
@@ -16574,6 +17119,89 @@
         ],
         "tts": [
           "person â ffon gerdded: arlliw croen tywyll"
+        ]
+      },
+      "🧑‍🦯‍➡": {
+        "default": [
+          "dall",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person â ffon gerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "person â ffon gerdded: wynebu i’r dde"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "dall",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person â ffon gerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "person â ffon gerdded: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "🧑🏼‍🦯‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "dall",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person â ffon gerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "person â ffon gerdded: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "dall",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person â ffon gerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "person â ffon gerdded: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "dall",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person â ffon gerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "person â ffon gerdded: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "dall",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person â ffon gerdded",
+          "wynebu"
+        ],
+        "tts": [
+          "person â ffon gerdded: arlliw croen tywyll, wynebu i’r dde"
         ]
       },
       "👨🏻‍🦯": {
@@ -16636,6 +17264,95 @@
           "dyn â ffon wen: arlliw croen tywyll"
         ]
       },
+      "👨‍🦯‍➡": {
+        "default": [
+          "dall",
+          "dde",
+          "dyn",
+          "dyn â ffon wen",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn â ffon wen: wynebu i’r dde"
+        ]
+      },
+      "👨🏻‍🦯‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "dall",
+          "dde",
+          "dyn",
+          "dyn â ffon wen",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn â ffon wen: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "👨🏼‍🦯‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "dall",
+          "dde",
+          "dyn",
+          "dyn â ffon wen",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn â ffon wen: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "👨🏽‍🦯‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "dall",
+          "dde",
+          "dyn",
+          "dyn â ffon wen",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn â ffon wen: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "👨🏾‍🦯‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "dall",
+          "dde",
+          "dyn",
+          "dyn â ffon wen",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn â ffon wen: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "👨🏿‍🦯‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "dall",
+          "dde",
+          "dyn",
+          "dyn â ffon wen",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn â ffon wen: arlliw croen tywyll, wynebu i’r dde"
+        ]
+      },
       "👩🏻‍🦯": {
         "default": [
           "arlliw croen golau",
@@ -16696,6 +17413,95 @@
           "menyw â ffon wen: arlliw croen tywyll"
         ]
       },
+      "👩‍🦯‍➡": {
+        "default": [
+          "dall",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw â ffon wen",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw â ffon wen: wynebu i’r dde"
+        ]
+      },
+      "👩🏻‍🦯‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "dall",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw â ffon wen",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw â ffon wen: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "👩🏼‍🦯‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "dall",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw â ffon wen",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw â ffon wen: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "👩🏽‍🦯‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "dall",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw â ffon wen",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw â ffon wen: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "👩🏾‍🦯‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "dall",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw â ffon wen",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw â ffon wen: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "👩🏿‍🦯‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "dall",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw â ffon wen",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw â ffon wen: arlliw croen tywyll, wynebu i’r dde"
+        ]
+      },
       "🧑🏻‍🦼": {
         "default": [
           "arlliw croen golau",
@@ -16749,6 +17555,89 @@
         ],
         "tts": [
           "person mewn cadair olwyn drydan: arlliw croen tywyll"
+        ]
+      },
+      "🧑‍🦼‍➡": {
+        "default": [
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person mewn cadair olwyn drydan",
+          "wynebu"
+        ],
+        "tts": [
+          "person mewn cadair olwyn drydan: wynebu i’r dde"
+        ]
+      },
+      "🧑🏻‍🦼‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person mewn cadair olwyn drydan",
+          "wynebu"
+        ],
+        "tts": [
+          "person mewn cadair olwyn drydan: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "🧑🏼‍🦼‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person mewn cadair olwyn drydan",
+          "wynebu"
+        ],
+        "tts": [
+          "person mewn cadair olwyn drydan: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "🧑🏽‍🦼‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person mewn cadair olwyn drydan",
+          "wynebu"
+        ],
+        "tts": [
+          "person mewn cadair olwyn drydan: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "🧑🏾‍🦼‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person mewn cadair olwyn drydan",
+          "wynebu"
+        ],
+        "tts": [
+          "person mewn cadair olwyn drydan: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "🧑🏿‍🦼‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person mewn cadair olwyn drydan",
+          "wynebu"
+        ],
+        "tts": [
+          "person mewn cadair olwyn drydan: arlliw croen tywyll, wynebu i’r dde"
         ]
       },
       "👨🏻‍🦼": {
@@ -16811,6 +17700,95 @@
           "dyn mewn cadair olwyn fodur: arlliw croen tywyll"
         ]
       },
+      "👨‍🦼‍➡": {
+        "default": [
+          "cadair olwyn",
+          "dde",
+          "dyn",
+          "dyn mewn cadair olwyn fodur",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn mewn cadair olwyn fodur: wynebu i’r dde"
+        ]
+      },
+      "👨🏻‍🦼‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "cadair olwyn",
+          "dde",
+          "dyn",
+          "dyn mewn cadair olwyn fodur",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn mewn cadair olwyn fodur: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "👨🏼‍🦼‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "cadair olwyn",
+          "dde",
+          "dyn",
+          "dyn mewn cadair olwyn fodur",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn mewn cadair olwyn fodur: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "👨🏽‍🦼‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "cadair olwyn",
+          "dde",
+          "dyn",
+          "dyn mewn cadair olwyn fodur",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn mewn cadair olwyn fodur: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "👨🏾‍🦼‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "cadair olwyn",
+          "dde",
+          "dyn",
+          "dyn mewn cadair olwyn fodur",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn mewn cadair olwyn fodur: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "👨🏿‍🦼‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "cadair olwyn",
+          "dde",
+          "dyn",
+          "dyn mewn cadair olwyn fodur",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn mewn cadair olwyn fodur: arlliw croen tywyll, wynebu i’r dde"
+        ]
+      },
       "👩🏻‍🦼": {
         "default": [
           "arlliw croen golau",
@@ -16871,6 +17849,95 @@
           "menyw mewn cadair olwyn fodur: arlliw croen tywyll"
         ]
       },
+      "👩‍🦼‍➡": {
+        "default": [
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw mewn cadair olwyn fodur",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw mewn cadair olwyn fodur: wynebu i’r dde"
+        ]
+      },
+      "👩🏻‍🦼‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw mewn cadair olwyn fodur",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw mewn cadair olwyn fodur: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "👩🏼‍🦼‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw mewn cadair olwyn fodur",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw mewn cadair olwyn fodur: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "👩🏽‍🦼‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw mewn cadair olwyn fodur",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw mewn cadair olwyn fodur: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "👩🏾‍🦼‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw mewn cadair olwyn fodur",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw mewn cadair olwyn fodur: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "👩🏿‍🦼‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw mewn cadair olwyn fodur",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw mewn cadair olwyn fodur: arlliw croen tywyll, wynebu i’r dde"
+        ]
+      },
       "🧑🏻‍🦽": {
         "default": [
           "arlliw croen golau",
@@ -16924,6 +17991,89 @@
         ],
         "tts": [
           "person mewn cadair olwyn â llaw: arlliw croen tywyll"
+        ]
+      },
+      "🧑‍🦽‍➡": {
+        "default": [
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person mewn cadair olwyn â llaw",
+          "wynebu"
+        ],
+        "tts": [
+          "person mewn cadair olwyn â llaw: wynebu i’r dde"
+        ]
+      },
+      "🧑🏻‍🦽‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person mewn cadair olwyn â llaw",
+          "wynebu"
+        ],
+        "tts": [
+          "person mewn cadair olwyn â llaw: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "🧑🏼‍🦽‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person mewn cadair olwyn â llaw",
+          "wynebu"
+        ],
+        "tts": [
+          "person mewn cadair olwyn â llaw: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "🧑🏽‍🦽‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person mewn cadair olwyn â llaw",
+          "wynebu"
+        ],
+        "tts": [
+          "person mewn cadair olwyn â llaw: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "🧑🏾‍🦽‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person mewn cadair olwyn â llaw",
+          "wynebu"
+        ],
+        "tts": [
+          "person mewn cadair olwyn â llaw: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "🧑🏿‍🦽‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "person mewn cadair olwyn â llaw",
+          "wynebu"
+        ],
+        "tts": [
+          "person mewn cadair olwyn â llaw: arlliw croen tywyll, wynebu i’r dde"
         ]
       },
       "👨🏻‍🦽": {
@@ -16986,6 +18136,95 @@
           "dyn mewn cadair olwyn: arlliw croen tywyll"
         ]
       },
+      "👨‍🦽‍➡": {
+        "default": [
+          "cadair olwyn",
+          "dde",
+          "dyn",
+          "dyn mewn cadair olwyn",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn mewn cadair olwyn: wynebu i’r dde"
+        ]
+      },
+      "👨🏻‍🦽‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "cadair olwyn",
+          "dde",
+          "dyn",
+          "dyn mewn cadair olwyn",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn mewn cadair olwyn: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "👨🏼‍🦽‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "cadair olwyn",
+          "dde",
+          "dyn",
+          "dyn mewn cadair olwyn",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn mewn cadair olwyn: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "👨🏽‍🦽‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "cadair olwyn",
+          "dde",
+          "dyn",
+          "dyn mewn cadair olwyn",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn mewn cadair olwyn: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "👨🏾‍🦽‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "cadair olwyn",
+          "dde",
+          "dyn",
+          "dyn mewn cadair olwyn",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn mewn cadair olwyn: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "👨🏿‍🦽‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "cadair olwyn",
+          "dde",
+          "dyn",
+          "dyn mewn cadair olwyn",
+          "hygyrchedd",
+          "i’r",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn mewn cadair olwyn: arlliw croen tywyll, wynebu i’r dde"
+        ]
+      },
       "👩🏻‍🦽": {
         "default": [
           "arlliw croen golau",
@@ -17044,6 +18283,95 @@
         ],
         "tts": [
           "menyw mewn cadair olwyn: arlliw croen tywyll"
+        ]
+      },
+      "👩‍🦽‍➡": {
+        "default": [
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw mewn cadair olwyn",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw mewn cadair olwyn: wynebu i’r dde"
+        ]
+      },
+      "👩🏻‍🦽‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw mewn cadair olwyn",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw mewn cadair olwyn: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "👩🏼‍🦽‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw mewn cadair olwyn",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw mewn cadair olwyn: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "👩🏽‍🦽‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw mewn cadair olwyn",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw mewn cadair olwyn: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "👩🏾‍🦽‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw mewn cadair olwyn",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw mewn cadair olwyn: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "👩🏿‍🦽‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "cadair olwyn",
+          "dde",
+          "hygyrchedd",
+          "i’r",
+          "menyw",
+          "menyw mewn cadair olwyn",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw mewn cadair olwyn: arlliw croen tywyll, wynebu i’r dde"
         ]
       },
       "🏃🏻": {
@@ -17229,6 +18557,279 @@
         ],
         "tts": [
           "menyw yn rhedeg: arlliw croen tywyll"
+        ]
+      },
+      "🏃‍➡": {
+        "default": [
+          "dde",
+          "i’r",
+          "marathon",
+          "person yn rhedeg",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn rhedeg: wynebu i’r dde"
+        ]
+      },
+      "🏃🏻‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "dde",
+          "i’r",
+          "marathon",
+          "person yn rhedeg",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn rhedeg: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "🏃🏼‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "dde",
+          "i’r",
+          "marathon",
+          "person yn rhedeg",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn rhedeg: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "🏃🏽‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "dde",
+          "i’r",
+          "marathon",
+          "person yn rhedeg",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn rhedeg: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "🏃🏾‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "dde",
+          "i’r",
+          "marathon",
+          "person yn rhedeg",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn rhedeg: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "🏃🏿‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "dde",
+          "i’r",
+          "marathon",
+          "person yn rhedeg",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "person yn rhedeg: arlliw croen tywyll, wynebu i’r dde"
+        ]
+      },
+      "🏃‍♀‍➡": {
+        "default": [
+          "dde",
+          "i’r",
+          "marathon",
+          "menyw",
+          "menyw yn rhedeg",
+          "ras",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn rhedeg: wynebu i’r dde"
+        ]
+      },
+      "🏃🏻‍♀‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "dde",
+          "i’r",
+          "marathon",
+          "menyw",
+          "menyw yn rhedeg",
+          "ras",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn rhedeg: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "🏃🏼‍♀‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "dde",
+          "i’r",
+          "marathon",
+          "menyw",
+          "menyw yn rhedeg",
+          "ras",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn rhedeg: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "🏃🏽‍♀‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "dde",
+          "i’r",
+          "marathon",
+          "menyw",
+          "menyw yn rhedeg",
+          "ras",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn rhedeg: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "🏃🏾‍♀‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "dde",
+          "i’r",
+          "marathon",
+          "menyw",
+          "menyw yn rhedeg",
+          "ras",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn rhedeg: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "🏃🏿‍♀‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "dde",
+          "i’r",
+          "marathon",
+          "menyw",
+          "menyw yn rhedeg",
+          "ras",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "menyw yn rhedeg: arlliw croen tywyll, wynebu i’r dde"
+        ]
+      },
+      "🏃‍♂‍➡": {
+        "default": [
+          "dde",
+          "dyn",
+          "dyn yn rhedeg",
+          "i’r",
+          "marathon",
+          "ras",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn rhedeg: wynebu i’r dde"
+        ]
+      },
+      "🏃🏻‍♂‍➡": {
+        "default": [
+          "arlliw croen golau",
+          "dde",
+          "dyn",
+          "dyn yn rhedeg",
+          "i’r",
+          "marathon",
+          "ras",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn rhedeg: arlliw croen golau, wynebu i’r dde"
+        ]
+      },
+      "🏃🏼‍♂‍➡": {
+        "default": [
+          "arlliw croen canolig-golau",
+          "dde",
+          "dyn",
+          "dyn yn rhedeg",
+          "i’r",
+          "marathon",
+          "ras",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn rhedeg: arlliw croen canolig-golau, wynebu i’r dde"
+        ]
+      },
+      "🏃🏽‍♂‍➡": {
+        "default": [
+          "arlliw croen canolog",
+          "dde",
+          "dyn",
+          "dyn yn rhedeg",
+          "i’r",
+          "marathon",
+          "ras",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn rhedeg: arlliw croen canolog, wynebu i’r dde"
+        ]
+      },
+      "🏃🏾‍♂‍➡": {
+        "default": [
+          "arlliw croen canolig-tywyll",
+          "dde",
+          "dyn",
+          "dyn yn rhedeg",
+          "i’r",
+          "marathon",
+          "ras",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn rhedeg: arlliw croen canolig-tywyll, wynebu i’r dde"
+        ]
+      },
+      "🏃🏿‍♂‍➡": {
+        "default": [
+          "arlliw croen tywyll",
+          "dde",
+          "dyn",
+          "dyn yn rhedeg",
+          "i’r",
+          "marathon",
+          "ras",
+          "rhedeg",
+          "wynebu"
+        ],
+        "tts": [
+          "dyn yn rhedeg: arlliw croen tywyll, wynebu i’r dde"
         ]
       },
       "💃🏻": {
@@ -24120,7 +25721,7 @@
           "baner"
         ],
         "tts": [
-          "baner: y Cenhedloedd Unedig"
+          "baner: Y Cenhedloedd Unedig"
         ]
       },
       "🇺🇸": {

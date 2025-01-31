@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "mi"
     },
     "annotations": {
@@ -4139,14 +4136,6 @@
           "tokorua me te manawa"
         ]
       },
-      "👪": {
-        "default": [
-          "whānau"
-        ],
-        "tts": [
-          "whānau"
-        ]
-      },
       "🗣": {
         "default": [
           "ataata",
@@ -4177,6 +4166,14 @@
         ],
         "tts": [
           "ngā poho rō ataata"
+        ]
+      },
+      "👪": {
+        "default": [
+          "whānau"
+        ],
+        "tts": [
+          "whānau"
         ]
       },
       "👣": {
@@ -4911,6 +4908,37 @@
         ],
         "tts": [
           "anga tōrino"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "Cancer",
+          "pāpaka",
+          "poutiriao"
+        ],
+        "tts": [
+          "pāpaka"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "kai",
+          "kōuraura",
+          "mātaitai",
+          "ririki"
+        ],
+        "tts": [
+          "kōuraura"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "kai",
+          "kota",
+          "ngū"
+        ],
+        "tts": [
+          "ngū"
         ]
       },
       "🐌": {
@@ -5904,37 +5932,6 @@
         ],
         "tts": [
           "pouaka kaweatu"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "Cancer",
-          "pāpaka",
-          "poutiriao"
-        ],
-        "tts": [
-          "pāpaka"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "kai",
-          "kōuraura",
-          "mātaitai",
-          "ririki"
-        ],
-        "tts": [
-          "kōuraura"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "kai",
-          "kota",
-          "ngū"
-        ],
-        "tts": [
-          "ngū"
         ]
       },
       "🍦": {
@@ -10193,7 +10190,6 @@
           "momo moni",
           "moni",
           "monipepa",
-          "monipepa Yen",
           "pēke",
           "pepa",
           "pire",
@@ -11601,8 +11597,7 @@
       "🔙": {
         "default": [
           "hoki",
-          "pere",
-          "pere HOKI"
+          "pere"
         ],
         "tts": [
           "pere HOKI"
@@ -11611,8 +11606,7 @@
       "🔚": {
         "default": [
           "mutunga",
-          "pere",
-          "pere MUTUNGA"
+          "pere"
         ],
         "tts": [
           "pere MUTUNGA"
@@ -11632,8 +11626,7 @@
       "🔜": {
         "default": [
           "ākuanei",
-          "pere",
-          "pere ĀKUANEI"
+          "pere"
         ],
         "tts": [
           "pere ĀKUANEI"
@@ -11643,7 +11636,6 @@
         "default": [
           "ake",
           "pere",
-          "pere RUNGA",
           "runga"
         ],
         "tts": [
@@ -11984,10 +11976,12 @@
       "⏯": {
         "default": [
           "matau",
+          "pātene purei",
           "pātene purei, taihoa rānei",
           "pere",
           "purei",
           "taihoa",
+          "taihoa rānei",
           "tapatoru"
         ],
         "tts": [

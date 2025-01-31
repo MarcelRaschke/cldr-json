@@ -2,9 +2,6 @@
   "main": {
     "so-KE": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "so",
         "territory": "KE"
       },
@@ -13,6 +10,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Ingiriiska",
+          "gbsct": "Skotland",
+          "gbwls": "Waalis"
         },
         "keys": {
           "calendar": "Habeentiris",
@@ -36,9 +38,8 @@
             "hebrew": "Habeentiriska yuhuudda",
             "indian": "Habeentiris Qarameedka Hindiya",
             "islamic": "Habeentiriska islaamka",
-            "islamic-civil": "Taariikhda Islaamiga (tabular, civil epoch)",
-            "islamic-rgsa": "Habeentiriska Islaamka (Sacuudiga, aragtida)",
-            "islamic-tbla": "Taariikhda Islaamiga (tabular, astronomical epoch)",
+            "islamic-civil": "Taariikhda Islaamiga (shax ahaan, waayo madaniyeed)",
+            "islamic-tbla": "Taariikhda Islaamiga (shax ahaan, waayo xiddigeed)",
             "islamic-umalqura": "Taariikhda Islaamiga(Umm al-Qura)",
             "iso8601": "Habeentiriska ISO-8601",
             "japanese": "Habeentiriska jabbaanka",
@@ -59,7 +60,6 @@
             "gb2312han": "Isku hagaajinta Farta shiineeska",
             "phonebook": "Isku hagaajinta foonbuuga",
             "pinyin": "Isku hagaajinta Pinyin",
-            "reformed": "Isku hagaajinta Reformed",
             "search": "Raadinta Guud",
             "searchjl": "Raadinta Shibanaha Hangul",
             "standard": "Amarka Kala Soocidda Caadiga ah",
@@ -119,7 +119,6 @@
             "jpan": "Nidaam Tireedka Jabbaanka",
             "jpanfin": "Nidaam Tireedka Dhaqaalaha Jabbaanka",
             "kali": "Godadka Kayah Li",
-            "kawi": "kawi",
             "khmr": "Godadka Khamer",
             "knda": "Godadka Kanada",
             "lana": "Godadka Tai Tham Hora",
@@ -141,7 +140,6 @@
             "mymr": "Godadka Mayanmaar",
             "mymrshan": "Godadka Myanmar Shan",
             "mymrtlng": "Godadka Myanmar Tai Laing",
-            "nagm": "nagm",
             "nkoo": "Godadka N’Ko",
             "olck": "Godadka Ol Chiki",
             "orya": "Godadka Oodhiya",
@@ -163,7 +161,6 @@
             "thai": "Godka Tirada Thai",
             "tibt": "Godka Tirada Tibetan",
             "tirh": "Godadka Tirhuta",
-            "tnsa": "tnsa",
             "vaii": "Godadka Vai",
             "wara": "Godadka Warang Citi",
             "wcho": "Godadka Wancho"

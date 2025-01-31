@@ -2,9 +2,6 @@
   "main": {
     "tg": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "tg"
       },
       "layout": {

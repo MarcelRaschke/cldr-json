@@ -2,9 +2,6 @@
   "main": {
     "ff-Adlm-BF": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ff",
         "script": "Adlm",
         "territory": "BF"
@@ -120,6 +117,9 @@
               },
               "Chihuahua": {
                 "exemplarCity": "𞤕𞤋𞤱𞤢𞥄𞤱𞤢𞥄"
+              },
+              "Ciudad_Juarez": {
+                "exemplarCity": "Ciudad Juárez"
               },
               "Coral_Harbour": {
                 "exemplarCity": "𞤀𞤼𞤭𞤳𞤮𞥅𞤳𞤢𞤲"
@@ -329,9 +329,6 @@
               "New_York": {
                 "exemplarCity": "𞤐𞤫𞤱-𞤒𞤮𞤪𞤳"
               },
-              "Nipigon": {
-                "exemplarCity": "𞤐𞤭𞤨𞤭𞤺𞤮𞤲"
-              },
               "Nome": {
                 "exemplarCity": "𞤐𞤮𞤱𞤥𞤵"
               },
@@ -355,9 +352,6 @@
               "Panama": {
                 "exemplarCity": "𞤆𞤢𞤲𞤢𞤲𞤥𞤢𞥄"
               },
-              "Pangnirtung": {
-                "exemplarCity": "𞤆𞤢𞤲𞤺"
-              },
               "Paramaribo": {
                 "exemplarCity": "𞤆𞤢𞤪𞤢𞤥𞤢𞤪𞤭𞤦𞤮"
               },
@@ -378,9 +372,6 @@
               },
               "Punta_Arenas": {
                 "exemplarCity": "𞤆𞤵𞤲𞤼𞤢-𞤀𞤪𞤫𞤲𞤢𞥁"
-              },
-              "Rainy_River": {
-                "exemplarCity": "𞤈𞤫𞤲𞤭𞥅-𞤈𞤭𞤾𞤮𞥅"
               },
               "Rankin_Inlet": {
                 "exemplarCity": "𞤈𞤢𞤲𞤳𞤭𞤲 𞤋𞤲𞤤𞤫𞤼"
@@ -410,7 +401,7 @@
                 "exemplarCity": "𞤅𞤢𞥄𞤱-𞤆𞤮𞤤𞤮𞥅"
               },
               "Scoresbysund": {
-                "exemplarCity": "‮𞤋𞤼𞥆𞤮𞤳𞤮𞤪𞤼𞤮𞥅𞤪𞤥𞤭𞥅𞤼"
+                "exemplarCity": "𞤋𞤼𞥆𞤮𞤳𞤮𞤪𞤼𞤮𞥅𞤪𞤥𞤭𞥅𞤼"
               },
               "Sitka": {
                 "exemplarCity": "𞤅𞤭𞤼𞤳𞤢"
@@ -442,9 +433,6 @@
               "Thule": {
                 "exemplarCity": "𞤚𞤵𞤤𞤫"
               },
-              "Thunder_Bay": {
-                "exemplarCity": "𞤚𞤵𞤲𞤣𞤮𞥅 𞤄𞤫𞥅"
-              },
               "Tijuana": {
                 "exemplarCity": "𞤚𞤭𞤶𞤵𞤱𞤢𞥄𞤲𞤢"
               },
@@ -465,9 +453,6 @@
               },
               "Yakutat": {
                 "exemplarCity": "𞤒𞤢𞤳𞤵𞤼𞤢𞤼"
-              },
-              "Yellowknife": {
-                "exemplarCity": "𞤒𞤫𞤤𞤮𞥅𞤲𞤢𞤴𞤬"
               }
             },
             "Atlantic": {
@@ -659,9 +644,6 @@
               "Ulyanovsk": {
                 "exemplarCity": "𞤓𞤤𞤴𞤢𞤲𞤮𞤾𞤮𞤧𞤳𞤵"
               },
-              "Uzhgorod": {
-                "exemplarCity": "𞤓𞥅𞤶𞤢𞤪𞤵𞥅𞤣𞤵"
-              },
               "Vaduz": {
                 "exemplarCity": "𞤜𞤢𞤣𞤵𞥅𞤶𞤵"
               },
@@ -682,9 +664,6 @@
               },
               "Zagreb": {
                 "exemplarCity": "𞤟𞤢𞤺𞤪𞤫𞤦𞤵"
-              },
-              "Zaporozhye": {
-                "exemplarCity": "𞤟𞤢𞤨𞤮𞤪𞤵𞥅𞥁"
               },
               "Zurich": {
                 "exemplarCity": "𞤟𞤵𞤪𞤵𞤳"
@@ -902,9 +881,6 @@
               },
               "Chita": {
                 "exemplarCity": "𞤕𞤭𞥅𞤼𞤢"
-              },
-              "Choibalsan": {
-                "exemplarCity": "𞤕𞤮𞤴𞤦𞤢𞤤𞤧𞤢𞤲"
               },
               "Colombo": {
                 "exemplarCity": "𞤑𞤮𞤤𞤮𞤥𞤦𞤢"
@@ -1144,9 +1120,6 @@
               "Broken_Hill": {
                 "exemplarCity": "𞤄𞤪𞤮𞤳𞤭𞤲-𞤖𞤭𞥅𞤤"
               },
-              "Currie": {
-                "exemplarCity": "𞤑𞤵𞥅𞤪𞤭𞥅"
-              },
               "Darwin": {
                 "exemplarCity": "𞤁𞤢𞥄𞤪𞤱𞤭𞤲"
               },
@@ -1221,9 +1194,6 @@
                   "standard": "𞤑𞤖𞤖",
                   "daylight": "𞤑𞤕𞤖"
                 }
-              },
-              "Johnston": {
-                "exemplarCity": "𞤔𞤮𞤲𞤧𞤼𞤮𞤲"
               },
               "Kanton": {
                 "exemplarCity": "𞤑𞤢𞤲𞤼𞤮𞤲"
@@ -1608,13 +1578,6 @@
                 "daylight": "𞤑𞤭𞤶𞤮𞥅𞤪𞤫 𞤕𞤫𞥅𞤯𞤵 𞤕𞤢𞤴𞤲𞤢"
               }
             },
-            "Choibalsan": {
-              "long": {
-                "generic": "𞤑𞤭𞤶𞤮𞥅𞤪𞤫 𞤅𞤮𞤴𞤦𞤢𞤤𞤧𞤢𞤲",
-                "standard": "𞤑𞤭𞤶𞤮𞥅𞤪𞤫 𞤖𞤢𞤱𞤪𞤭𞤼𞤵𞤲𞥋𞤣𞤫 𞤅𞤮𞤴𞤦𞤢𞤤𞤧𞤢𞤲",
-                "daylight": "𞤑𞤭𞤶𞤮𞥅𞤪𞤫 𞤕𞤫𞥅𞤯𞤵 𞤅𞤮𞤴𞤦𞤢𞤤𞤧𞤢𞤲"
-              }
-            },
             "Christmas": {
               "long": {
                 "standard": "𞤑𞤭𞤶𞤮𞥅𞤪𞤫 𞤅𞤵𞤪𞤭𞥅𞤪𞤫 𞤑𞤭𞤪𞤧𞤭𞤥𞤢𞥄𞤧"
@@ -1911,11 +1874,6 @@
                 "daylight": "𞤑𞤭𞤶𞤮𞥅𞤪𞤫 𞤕𞤫𞥅𞤯𞤵 𞤃𞤢𞤳𞤢𞤱𞤮𞥅"
               }
             },
-            "Macquarie": {
-              "long": {
-                "standard": "𞤑𞤭𞤶𞤮𞥅𞤪𞤫 𞤅𞤵𞤪𞤭𞥅𞤪𞤫 𞤃𞤢𞤳𞤢𞥄𞤪𞤭"
-              }
-            },
             "Magadan": {
               "long": {
                 "generic": "𞤑𞤭𞤶𞤮𞥅𞤪𞤫 𞤃𞤢𞤺𞤢𞤣𞤢𞤲",
@@ -1953,13 +1911,6 @@
             "Mawson": {
               "long": {
                 "standard": "𞤑𞤭𞤶𞤮𞥅𞤪𞤫 𞤃𞤢𞤱𞤧𞤮𞤲"
-              }
-            },
-            "Mexico_Northwest": {
-              "long": {
-                "generic": "𞤑𞤭𞤶𞤮𞥅𞤪𞤫 𞤐𞤢𞤲𞤮-𞤸𞤭𞥅𞤪𞤲𞤢𞥄𞤲𞤺𞤫 𞤃𞤫𞤳𞤧𞤭𞤳𞤮𞥅",
-                "standard": "𞤑𞤭𞤶𞤮𞥅𞤪𞤫 𞤖𞤢𞤱𞤪𞤵𞤲𞥋𞤣𞤫 𞤐𞤢𞤲𞤮-𞤸𞤭𞥅𞤪𞤲𞤢𞥄𞤲𞤺𞤫 𞤃𞤫𞤳𞤧𞤭𞤳𞤮𞥅",
-                "daylight": "𞤑𞤭𞤶𞤮𞥅𞤪𞤫 𞤕𞤫𞥅𞤯𞤵 𞤐𞤢𞤲𞤮-𞤸𞤭𞥅𞤪𞤲𞤢𞥄𞤲𞤺𞤫 𞤃𞤫𞤳𞤧𞤭𞤳𞤮𞥅"
               }
             },
             "Mexico_Pacific": {

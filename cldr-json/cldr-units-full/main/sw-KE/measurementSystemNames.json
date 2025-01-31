@@ -2,9 +2,6 @@
   "main": {
     "sw-KE": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sw",
         "territory": "KE"
       },

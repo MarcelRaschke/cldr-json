@@ -2,9 +2,6 @@
   "main": {
     "sv": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sv"
       },
       "localeDisplayNames": {
@@ -12,6 +9,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "England",
+          "gbsct": "Skottland",
+          "gbwls": "Wales"
         },
         "keys": {
           "calendar": "kalender",
@@ -86,7 +88,6 @@
             "phonebook": "telefonkatalogssorteringsordning",
             "phonetic": "fonetisk sorteringsordning",
             "pinyin": "pinyin-sorteringsordning",
-            "reformed": "reformerad sorteringsordning",
             "search": "allmän sökning",
             "searchjl": "söksorteringsordning för att söka på inledande Hangul-konsonant",
             "standard": "normal sorteringsordning",
@@ -171,7 +172,6 @@
             "jpan": "japanskt stavade tal",
             "jpanfin": "japanskt finansiellt stavade tal",
             "kali": "kayah li-siffror",
-            "kawi": "kawi",
             "khmr": "khmeriska siffror",
             "knda": "kannadiska siffror",
             "lana": "tai tham hora-siffror",
@@ -193,7 +193,6 @@
             "mymr": "burmesiska siffror",
             "mymrshan": "burmesiska shan-siffror",
             "mymrtlng": "burmesiska tai laing-siffror",
-            "nagm": "nagm",
             "native": "språkspecifika siffror",
             "nkoo": "n’ko-siffror",
             "olck": "ol chiki-siffror",
@@ -216,7 +215,6 @@
             "thai": "thailändska siffror",
             "tibt": "tibetanska siffror",
             "tirh": "tirhuta-siffror",
-            "tnsa": "tnsa",
             "traditional": "Traditionella siffror",
             "vaii": "vai-siffror",
             "wara": "varang kshiti-siffror",

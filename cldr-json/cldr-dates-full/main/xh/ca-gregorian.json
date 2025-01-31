@@ -2,9 +2,6 @@
   "main": {
     "xh": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "xh"
       },
       "dates": {
@@ -118,7 +115,7 @@
                   "wed": "Tht",
                   "thu": "Sin",
                   "fri": "Hl",
-                  "sat": "Mgq"
+                  "sat": "Mg"
                 },
                 "short": {
                   "sun": "Caw",
@@ -156,7 +153,7 @@
                   "wed": "St",
                   "thu": "Sin",
                   "fri": "Hl",
-                  "sat": "Mgq"
+                  "sat": "Mg"
                 },
                 "short": {
                   "sun": "Caw",
@@ -253,9 +250,9 @@
             "eras": {
               "eraNames": {
                 "0": "BC",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "Phambi Kwexesha Eliqhelekileyo",
                 "1": "AD",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "Ixesha Eliqhelekileyo"
               },
               "eraAbbr": {
                 "0": "BC",
@@ -334,7 +331,6 @@
                 "MMMd": "MMM d",
                 "MMMEd": "E, MMM d",
                 "MMMMd": "MMMM d",
-                "MMMMW-count-one": "'week' W 'of' MMMM",
                 "MMMMW-count-other": "'week' W 'of' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
@@ -347,7 +343,6 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "'week' w 'of' Y",
                 "yw-count-other": "'week' w 'of' Y"
               },
               "appendItems": {
@@ -366,11 +361,11 @@
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
                 "Bh": {
-                  "B": "h B – h B",
+                  "B": "h B – h B",
                   "h": "h–h B"
                 },
                 "Bhm": {
-                  "B": "h:mm B – h:mm B",
+                  "B": "h:mm B – h:mm B",
                   "h": "h:mm–h:mm B",
                   "m": "h:mm–h:mm B"
                 },
@@ -441,7 +436,7 @@
                   "m": "HH:mm–HH:mm v"
                 },
                 "hv": {
-                  "a": "h a – h a v",
+                  "a": "h a – h a v",
                   "h": "h–h a v"
                 },
                 "Hv": {

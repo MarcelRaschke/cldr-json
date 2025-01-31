@@ -2,9 +2,6 @@
   "main": {
     "en-CA": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "en",
         "territory": "CA"
       },
@@ -42,18 +39,18 @@
                   "12": "12"
                 },
                 "wide": {
-                  "1": "first month",
-                  "2": "second month",
-                  "3": "third month",
-                  "4": "fourth month",
-                  "5": "fifth month",
-                  "6": "sixth month",
-                  "7": "seventh month",
-                  "8": "eighth month",
-                  "9": "ninth month",
-                  "10": "tenth month",
-                  "11": "eleventh month",
-                  "12": "twelfth month"
+                  "1": "First Month",
+                  "2": "Second Month",
+                  "3": "Third Month",
+                  "4": "Fourth Month",
+                  "5": "Fifth Month",
+                  "6": "Sixth Month",
+                  "7": "Seventh Month",
+                  "8": "Eighth Month",
+                  "9": "Ninth Month",
+                  "10": "Tenth Month",
+                  "11": "Eleventh Month",
+                  "12": "Twelfth Month"
                 }
               },
               "stand-alone": {
@@ -86,18 +83,18 @@
                   "12": "12"
                 },
                 "wide": {
-                  "1": "first month",
-                  "2": "second month",
-                  "3": "third month",
-                  "4": "fourth month",
-                  "5": "fifth month",
-                  "6": "sixth month",
-                  "7": "seventh month",
-                  "8": "eighth month",
-                  "9": "ninth month",
-                  "10": "tenth month",
-                  "11": "eleventh month",
-                  "12": "twelfth month"
+                  "1": "First Month",
+                  "2": "Second Month",
+                  "3": "Third Month",
+                  "4": "Fourth Month",
+                  "5": "Fifth Month",
+                  "6": "Sixth Month",
+                  "7": "Seventh Month",
+                  "8": "Eighth Month",
+                  "9": "Ninth Month",
+                  "10": "Tenth Month",
+                  "11": "Eleventh Month",
+                  "12": "Twelfth Month"
                 }
               }
             },
@@ -304,7 +301,7 @@
                 },
                 "narrow": {
                   "midnight": "mid",
-                  "am": "a.m.",
+                  "am": "am",
                   "am-alt-variant": "am",
                   "noon": "noon",
                   "pm": "pm",
@@ -1089,9 +1086,13 @@
             },
             "timeFormats": {
               "full": "h:mm:ss a zzzz",
+              "full-alt-ascii": "h:mm:ss a zzzz",
               "long": "h:mm:ss a z",
+              "long-alt-ascii": "h:mm:ss a z",
               "medium": "h:mm:ss a",
-              "short": "h:mm a"
+              "medium-alt-ascii": "h:mm:ss a",
+              "short": "h:mm a",
+              "short-alt-ascii": "h:mm a"
             },
             "timeSkeletons": {
               "full": "ahmmsszzzz",
@@ -1114,8 +1115,10 @@
                 "EBhms": "E h:mm:ss B",
                 "Ed": "d E",
                 "Ehm": "E h:mm a",
+                "Ehm-alt-ascii": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
+                "Ehms-alt-ascii": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
                 "Gy": "r(U)",
                 "GyMMM": "MMM r",
@@ -1125,10 +1128,13 @@
                 "GyMMMMd": "d MMMM r(U)",
                 "GyMMMMEd": "E, d MMMM r(U)",
                 "h": "h a",
+                "h-alt-ascii": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
+                "hm-alt-ascii": "h:mm a",
                 "Hm": "HH:mm",
                 "hms": "h:mm:ss a",
+                "hms-alt-ascii": "h:mm:ss a",
                 "Hms": "HH:mm:ss",
                 "M": "LL",
                 "Md": "MM-dd",
@@ -1146,7 +1152,6 @@
                 "UMMM": "MMM U",
                 "UMMMd": "MMM d, U",
                 "y": "r(U)",
-                "yMd": "r-MM-dd",
                 "yMd-alt-variant": "d/M/r",
                 "yyyy": "r(U)",
                 "yyyyM": "r-MM",

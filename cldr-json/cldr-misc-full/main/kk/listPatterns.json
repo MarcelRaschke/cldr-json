@@ -2,9 +2,6 @@
   "main": {
     "kk": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "kk"
       },
       "listPatterns": {

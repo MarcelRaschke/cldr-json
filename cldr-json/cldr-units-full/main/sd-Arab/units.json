@@ -2,9 +2,6 @@
   "main": {
     "sd-Arab": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sd",
         "script": "Arab"
       },
@@ -40,6 +37,12 @@
           "10p-24": {
             "unitPrefixPattern": "yocto{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "رونٽو{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "ڪوئيڪٽو{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "deka{0}"
           },
@@ -69,6 +72,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "yotta{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "رونا{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "ڪوئيٽا{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "ڪبي{0}"
@@ -207,7 +216,7 @@
           },
           "concentr-milligram-ofglucose-per-deciliter": {
             "displayName": "ملي گرامز في ڊيسي ليٽر",
-            "unitPattern-count-one": "{0} mg/dL",
+            "unitPattern-count-one": "{0} مليگرام في ڊيسيليٽر",
             "unitPattern-count-other": "{0} ملي گرامز في ڊيسي ليٽر"
           },
           "concentr-millimole-per-liter": {
@@ -227,12 +236,10 @@
           },
           "concentr-percent": {
             "displayName": "%",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "‰",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
@@ -322,43 +329,43 @@
           },
           "duration-century": {
             "displayName": "صديون",
-            "unitPattern-count-one": "{0} c",
+            "unitPattern-count-one": "{0} صدي",
             "unitPattern-count-other": "{0} صديون"
           },
           "duration-decade": {
             "displayName": "ڏهاڪا",
             "unitPattern-count-one": "{0} ڏهاڪو",
-            "unitPattern-count-other": "{0} ڏهاڪا"
+            "unitPattern-count-other": "{0} ڏهاڪ"
           },
           "duration-year": {
             "displayName": "سال",
             "unitPattern-count-one": "{0} سال",
             "unitPattern-count-other": "{0} سال",
-            "perUnitPattern": "{0} في سال"
+            "perUnitPattern": "{0}/س"
           },
           "duration-quarter": {
-            "displayName": "ٽه ماهي",
-            "unitPattern-count-one": "{0} ٽه ماهي",
-            "unitPattern-count-other": "{0} ٽه ماهي",
-            "perUnitPattern": "{0} في ٽه ماهي"
+            "displayName": "ٽه ماهيون",
+            "unitPattern-count-one": "{0} ٽه ماهيون",
+            "unitPattern-count-other": "{0} ٽه ماهيون",
+            "perUnitPattern": "{0}/ٽه ماهي"
           },
           "duration-month": {
             "displayName": "مهينا",
-            "unitPattern-count-one": "{0} مهينا",
+            "unitPattern-count-one": "{0} مهينو",
             "unitPattern-count-other": "{0} مهينا",
-            "perUnitPattern": "{0} في مهيني"
+            "perUnitPattern": "{0} في مهينو"
           },
           "duration-week": {
             "displayName": "هفتا",
-            "unitPattern-count-one": "{0} هفتا",
+            "unitPattern-count-one": "{0} هفتو",
             "unitPattern-count-other": "{0} هفتا",
-            "perUnitPattern": "{0} في هفتي"
+            "perUnitPattern": "{0} في هفتو"
           },
           "duration-day": {
             "displayName": "ڏينهن",
             "unitPattern-count-one": "{0} ڏينهن",
             "unitPattern-count-other": "{0} ڏينهن",
-            "perUnitPattern": "{0} في ڏينهن"
+            "perUnitPattern": "{0}/ڏينهن"
           },
           "duration-hour": {
             "displayName": "ڪلاڪ",
@@ -842,6 +849,11 @@
             "unitPattern-count-one": "{0} ناٽ",
             "unitPattern-count-other": "{0} ناٽ"
           },
+          "speed-beaufort": {
+            "displayName": "بوفورٽ",
+            "unitPattern-count-one": "بوفورٽ {0}",
+            "unitPattern-count-other": "بوفورٽ {0}"
+          },
           "temperature-generic": {
             "displayName": "ڊگري",
             "unitPattern-count-one": "{0} ڊگري",
@@ -1039,6 +1051,22 @@
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0} qt Imp."
           },
+          "speed-light-speed": {
+            "displayName": "نوري",
+            "unitPattern-count-one": "{0} نوري",
+            "unitPattern-count-other": "{0} نوري"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "حصا في ارب",
+            "unitPattern-count-one": "{0} حصو في ارب",
+            "unitPattern-count-other": "{0} حصا في ارب"
+          },
+          "duration-night": {
+            "displayName": "راتيون",
+            "unitPattern-count-one": "{0} رات",
+            "unitPattern-count-other": "{0} راتيون",
+            "perUnitPattern": "{0} في رات"
+          },
           "coordinateUnit": {
             "displayName": "ڪارڊينل ڊائريڪشن",
             "east": "{0} اوڀر",
@@ -1078,6 +1106,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -1108,6 +1142,12 @@
           "10p24": {
             "unitPrefixPattern": "Y{0}"
           },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
+          },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
           },
@@ -1137,12 +1177,10 @@
           },
           "power2": {
             "compoundUnitPattern1": "{0}²",
-            "compoundUnitPattern1-count-one": "{0}²",
             "compoundUnitPattern1-count-other": "{0}²"
           },
           "power3": {
             "compoundUnitPattern1": "{0}³",
-            "compoundUnitPattern1-count-one": "{0}³",
             "compoundUnitPattern1-count-other": "{0}³"
           },
           "times": {
@@ -1155,7 +1193,6 @@
           },
           "acceleration-meter-per-square-second": {
             "displayName": "ميٽر في سيڪنڊ اسڪوائر",
-            "unitPattern-count-one": "{0} m/s²",
             "unitPattern-count-other": "{0} m/s²"
           },
           "angle-revolution": {
@@ -1245,7 +1282,6 @@
           },
           "concentr-milligram-ofglucose-per-deciliter": {
             "displayName": "ملي گرامز في ڊيسي ليٽر",
-            "unitPattern-count-one": "{0} mg/dL",
             "unitPattern-count-other": "{0} mg/dL"
           },
           "concentr-millimole-per-liter": {
@@ -1260,37 +1296,30 @@
           },
           "concentr-permillion": {
             "displayName": "ppm",
-            "unitPattern-count-one": "{0} ppm",
             "unitPattern-count-other": "{0} ppm"
           },
           "concentr-percent": {
             "displayName": "%",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "‰",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
             "displayName": "پيرمائيرڊ",
-            "unitPattern-count-one": "{0}‱",
             "unitPattern-count-other": "{0}‱"
           },
           "concentr-mole": {
             "displayName": "مول",
-            "unitPattern-count-one": "{0} mol",
             "unitPattern-count-other": "{0} mol"
           },
           "consumption-liter-per-kilometer": {
             "displayName": "ليٽرز في ڪلو ميٽر",
-            "unitPattern-count-one": "{0} L/km",
             "unitPattern-count-other": "{0} L/km"
           },
           "consumption-liter-per-100-kilometer": {
             "displayName": "L/100km",
-            "unitPattern-count-one": "{0} L/100km",
             "unitPattern-count-other": "{0} L/100km"
           },
           "consumption-mile-per-gallon": {
@@ -1300,37 +1329,30 @@
           },
           "consumption-mile-per-gallon-imperial": {
             "displayName": "ميل في امپيريل گيلن",
-            "unitPattern-count-one": "{0} mpg Imp.",
             "unitPattern-count-other": "{0} mpg Imp."
           },
           "digital-petabyte": {
             "displayName": "PB",
-            "unitPattern-count-one": "{0} PB",
             "unitPattern-count-other": "{0} PB"
           },
           "digital-terabyte": {
             "displayName": "TB",
-            "unitPattern-count-one": "{0} TB",
             "unitPattern-count-other": "{0} TB"
           },
           "digital-terabit": {
             "displayName": "Tb",
-            "unitPattern-count-one": "{0} Tb",
             "unitPattern-count-other": "{0} Tb"
           },
           "digital-gigabyte": {
             "displayName": "GB",
-            "unitPattern-count-one": "{0} GB",
             "unitPattern-count-other": "{0} GB"
           },
           "digital-gigabit": {
             "displayName": "Gb",
-            "unitPattern-count-one": "{0} Gb",
             "unitPattern-count-other": "{0} Gb"
           },
           "digital-megabyte": {
             "displayName": "MB",
-            "unitPattern-count-one": "{0} MB",
             "unitPattern-count-other": "{0} MB"
           },
           "digital-megabit": {
@@ -1359,44 +1381,44 @@
             "unitPattern-count-other": "{0} بٽ"
           },
           "duration-century": {
-            "displayName": "c",
-            "unitPattern-count-one": "{0} c",
-            "unitPattern-count-other": "{0} c"
+            "displayName": "ص",
+            "unitPattern-count-one": "{0} ص",
+            "unitPattern-count-other": "{0} ص"
           },
           "duration-decade": {
             "displayName": "ڏهاڪا",
             "unitPattern-count-one": "{0} ڏهاڪو",
-            "unitPattern-count-other": "{0} ڏهاڪا"
+            "unitPattern-count-other": "{0} ڏهاڪ"
           },
           "duration-year": {
             "displayName": "سال",
             "unitPattern-count-one": "{0} سال",
             "unitPattern-count-other": "{0} سال",
-            "perUnitPattern": "{0} في سال"
+            "perUnitPattern": "{0}/س"
           },
           "duration-quarter": {
             "displayName": "ٽه ماهي",
-            "unitPattern-count-one": "{0} ٽه ماهي",
-            "unitPattern-count-other": "{0} ٽه ماهي",
-            "perUnitPattern": "{0} في ٽه ماهي"
+            "unitPattern-count-one": "{0} ٽه ماهيون",
+            "unitPattern-count-other": "{0} ٽه ماهيون",
+            "perUnitPattern": "{0}/ٽه ماهي"
           },
           "duration-month": {
             "displayName": "مهينا",
-            "unitPattern-count-one": "{0} مهينا",
+            "unitPattern-count-one": "{0} مهينو",
             "unitPattern-count-other": "{0} مهينا",
-            "perUnitPattern": "{0} في مهيني"
+            "perUnitPattern": "{0}/مهينو"
           },
           "duration-week": {
             "displayName": "هفتا",
-            "unitPattern-count-one": "{0} هفتا",
+            "unitPattern-count-one": "{0} هفتو",
             "unitPattern-count-other": "{0} هفتا",
-            "perUnitPattern": "{0} في هفتي"
+            "perUnitPattern": "{0}/هفتو"
           },
           "duration-day": {
             "displayName": "ڏينهن",
             "unitPattern-count-one": "{0} ڏينهن",
             "unitPattern-count-other": "{0} ڏينهن",
-            "perUnitPattern": "{0} في ڏينهن"
+            "perUnitPattern": "{0}/ڏينهن"
           },
           "duration-hour": {
             "displayName": "ڪلاڪ",
@@ -1443,7 +1465,6 @@
           },
           "electric-ohm": {
             "displayName": "اوهمس",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
@@ -1468,7 +1489,6 @@
           },
           "energy-kilojoule": {
             "displayName": "ڪلو جول",
-            "unitPattern-count-one": "{0} kJ",
             "unitPattern-count-other": "{0} kJ"
           },
           "energy-joule": {
@@ -1483,12 +1503,10 @@
           },
           "energy-electronvolt": {
             "displayName": "اليڪٽرون وولٽ",
-            "unitPattern-count-one": "{0} eV",
             "unitPattern-count-other": "{0} eV"
           },
           "energy-british-thermal-unit": {
             "displayName": "BTU",
-            "unitPattern-count-one": "{0} Btu",
             "unitPattern-count-other": "{0} Btu"
           },
           "energy-therm-us": {
@@ -1498,12 +1516,10 @@
           },
           "force-pound-force": {
             "displayName": "پائونڊ-فورس",
-            "unitPattern-count-one": "{0} lbf",
             "unitPattern-count-other": "{0} lbf"
           },
           "force-newton": {
             "displayName": "نيوٽن",
-            "unitPattern-count-one": "{0} N",
             "unitPattern-count-other": "{0} N"
           },
           "force-kilowatt-hour-per-100-kilometer": {
@@ -1632,7 +1648,6 @@
           },
           "length-parsec": {
             "displayName": "پارسيڪ",
-            "unitPattern-count-one": "{0} pc",
             "unitPattern-count-other": "{0} pc"
           },
           "length-light-year": {
@@ -1670,12 +1685,10 @@
           },
           "length-solar-radius": {
             "displayName": "سولر راڊي",
-            "unitPattern-count-one": "{0} R☉",
             "unitPattern-count-other": "{0} R☉"
           },
           "light-lux": {
             "displayName": "لڪس",
-            "unitPattern-count-one": "{0} lx",
             "unitPattern-count-other": "{0} lx"
           },
           "light-candela": {
@@ -1688,12 +1701,10 @@
           },
           "light-solar-luminosity": {
             "displayName": "سولر ليومينوسائيٽيز",
-            "unitPattern-count-one": "{0} L☉",
             "unitPattern-count-other": "{0} L☉"
           },
           "mass-tonne": {
             "displayName": "t",
-            "unitPattern-count-one": "{0} t",
             "unitPattern-count-other": "{0} t"
           },
           "mass-kilogram": {
@@ -1704,18 +1715,15 @@
           },
           "mass-gram": {
             "displayName": "گرامَ",
-            "unitPattern-count-one": "{0} g",
             "unitPattern-count-other": "{0} g",
             "perUnitPattern": "{0}/g"
           },
           "mass-milligram": {
             "displayName": "mg",
-            "unitPattern-count-one": "{0} mg",
             "unitPattern-count-other": "{0} mg"
           },
           "mass-microgram": {
             "displayName": "μg",
-            "unitPattern-count-one": "{0} μg",
             "unitPattern-count-other": "{0} μg"
           },
           "mass-ton": {
@@ -1751,17 +1759,14 @@
           },
           "mass-dalton": {
             "displayName": "ڊالٽنز",
-            "unitPattern-count-one": "{0} Da",
             "unitPattern-count-other": "{0} Da"
           },
           "mass-earth-mass": {
             "displayName": "ارٿ ماسز",
-            "unitPattern-count-one": "{0} M⊕",
             "unitPattern-count-other": "{0} M⊕"
           },
           "mass-solar-mass": {
             "displayName": "سولر ماسز",
-            "unitPattern-count-one": "{0} M☉",
             "unitPattern-count-other": "{0} M☉"
           },
           "mass-grain": {
@@ -1806,12 +1811,10 @@
           },
           "pressure-pound-force-per-square-inch": {
             "displayName": "psi",
-            "unitPattern-count-one": "{0} psi",
             "unitPattern-count-other": "{0} psi"
           },
           "pressure-inch-ofhg": {
             "displayName": "inHg",
-            "unitPattern-count-one": "{0} inHg",
             "unitPattern-count-other": "{0} inHg"
           },
           "pressure-bar": {
@@ -1821,12 +1824,10 @@
           },
           "pressure-millibar": {
             "displayName": "mbar",
-            "unitPattern-count-one": "{0} mbar",
             "unitPattern-count-other": "{0} mbar"
           },
           "pressure-atmosphere": {
             "displayName": "atm",
-            "unitPattern-count-one": "{0} atm",
             "unitPattern-count-other": "{0} atm"
           },
           "pressure-pascal": {
@@ -1835,17 +1836,14 @@
           },
           "pressure-hectopascal": {
             "displayName": "hPa",
-            "unitPattern-count-one": "{0} hPa",
             "unitPattern-count-other": "{0} hPa"
           },
           "pressure-kilopascal": {
             "displayName": "kPa",
-            "unitPattern-count-one": "{0} kPa",
             "unitPattern-count-other": "{0} kPa"
           },
           "pressure-megapascal": {
             "displayName": "MPa",
-            "unitPattern-count-one": "{0} MPa",
             "unitPattern-count-other": "{0} MPa"
           },
           "speed-kilometer-per-hour": {
@@ -1868,34 +1866,32 @@
             "unitPattern-count-one": "{0} ناٽ",
             "unitPattern-count-other": "{0} ناٽ"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
             "displayName": "°C",
-            "unitPattern-count-one": "{0}°C",
             "unitPattern-count-other": "{0}°C"
           },
           "temperature-fahrenheit": {
             "displayName": "°F",
-            "unitPattern-count-one": "{0}°F",
             "unitPattern-count-other": "{0}°F"
           },
           "temperature-kelvin": {
             "displayName": "K",
-            "unitPattern-count-one": "{0} K",
             "unitPattern-count-other": "{0} K"
           },
           "torque-pound-force-foot": {
             "displayName": "lbf⋅ft",
-            "unitPattern-count-one": "{0} lbf⋅ft",
             "unitPattern-count-other": "{0} lbf⋅ft"
           },
           "torque-newton-meter": {
             "displayName": "N⋅m",
-            "unitPattern-count-one": "{0} N⋅m",
             "unitPattern-count-other": "{0} N⋅m"
           },
           "volume-cubic-kilometer": {
@@ -2019,7 +2015,6 @@
           },
           "volume-fluid-ounce-imperial": {
             "displayName": "Imp. fl oz",
-            "unitPattern-count-one": "{0} fl oz Imp.",
             "unitPattern-count-other": "{0} fl oz Imp."
           },
           "volume-tablespoon": {
@@ -2034,7 +2029,6 @@
           },
           "volume-barrel": {
             "displayName": "بيريل",
-            "unitPattern-count-one": "{0} bbl",
             "unitPattern-count-other": "{0} bbl"
           },
           "volume-dessert-spoon": {
@@ -2064,6 +2058,22 @@
           "volume-quart-imperial": {
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0} qt Imp."
+          },
+          "speed-light-speed": {
+            "displayName": "نوري",
+            "unitPattern-count-one": "{0} نوري",
+            "unitPattern-count-other": "{0} نوري"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "حصا/ارب",
+            "unitPattern-count-one": "{0} ح ف ا",
+            "unitPattern-count-other": "{0} ح ف ا"
+          },
+          "duration-night": {
+            "displayName": "راتيون",
+            "unitPattern-count-one": "{0} رات",
+            "unitPattern-count-other": "{0} راتيون",
+            "perUnitPattern": "{0}/رات"
           },
           "coordinateUnit": {
             "displayName": "ڊائريڪشن",
@@ -2104,6 +2114,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -2134,6 +2150,12 @@
           "10p24": {
             "unitPrefixPattern": "Y{0}"
           },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
+          },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
           },
@@ -2163,12 +2185,10 @@
           },
           "power2": {
             "compoundUnitPattern1": "{0}²",
-            "compoundUnitPattern1-count-one": "{0}²",
             "compoundUnitPattern1-count-other": "{0}²"
           },
           "power3": {
             "compoundUnitPattern1": "{0}³",
-            "compoundUnitPattern1-count-one": "{0}³",
             "compoundUnitPattern1-count-other": "{0}³"
           },
           "times": {
@@ -2176,12 +2196,11 @@
           },
           "acceleration-g-force": {
             "displayName": "ڪشش ثقل",
-            "unitPattern-count-one": "{0} ڪشش ثقل",
-            "unitPattern-count-other": "{0} ڪشش ثقل"
+            "unitPattern-count-one": "{0}G",
+            "unitPattern-count-other": "{0}Gs"
           },
           "acceleration-meter-per-square-second": {
-            "displayName": "ميٽر في سيڪنڊ اسڪوائر",
-            "unitPattern-count-one": "{0} m/s²",
+            "displayName": "m/s²",
             "unitPattern-count-other": "{0} m/s²"
           },
           "angle-revolution": {
@@ -2191,8 +2210,8 @@
           },
           "angle-radian": {
             "displayName": "ريڊيئن",
-            "unitPattern-count-one": "{0} ريڊيئنز",
-            "unitPattern-count-other": "{0} ريڊيئنز"
+            "unitPattern-count-one": "{0}رئڊ",
+            "unitPattern-count-other": "{0}رئڊ"
           },
           "angle-degree": {
             "displayName": "ڊگري",
@@ -2217,13 +2236,13 @@
           },
           "area-hectare": {
             "displayName": "هيڪٽر",
-            "unitPattern-count-one": "{0} هيڪٽر",
-            "unitPattern-count-other": "{0} هيڪٽر"
+            "unitPattern-count-one": "{0}ھيڪٽر",
+            "unitPattern-count-other": "{0}ھيڪٽر"
           },
           "area-square-meter": {
             "displayName": "اسڪوائر ميٽر",
-            "unitPattern-count-one": "{0} اسڪوائر ميٽر",
-            "unitPattern-count-other": "{0} اسڪوائر ميٽر",
+            "unitPattern-count-one": "{0}m²",
+            "unitPattern-count-other": "{0}m²",
             "perUnitPattern": "{0} في اسڪوائر ميٽر"
           },
           "area-square-centimeter": {
@@ -2271,7 +2290,6 @@
           },
           "concentr-milligram-ofglucose-per-deciliter": {
             "displayName": "ملي گرامز في ڊيسي ليٽر",
-            "unitPattern-count-one": "{0} mg/dL",
             "unitPattern-count-other": "{0} mg/dL"
           },
           "concentr-millimole-per-liter": {
@@ -2286,37 +2304,30 @@
           },
           "concentr-permillion": {
             "displayName": "ppm",
-            "unitPattern-count-one": "{0} ppm",
             "unitPattern-count-other": "{0} ppm"
           },
           "concentr-percent": {
             "displayName": "%",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "‰",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
             "displayName": "پيرمائيرڊ",
-            "unitPattern-count-one": "{0}‱",
             "unitPattern-count-other": "{0}‱"
           },
           "concentr-mole": {
             "displayName": "مول",
-            "unitPattern-count-one": "{0} mol",
             "unitPattern-count-other": "{0} mol"
           },
           "consumption-liter-per-kilometer": {
             "displayName": "ليٽرز في ڪلو ميٽر",
-            "unitPattern-count-one": "{0} L/km",
             "unitPattern-count-other": "{0} L/km"
           },
           "consumption-liter-per-100-kilometer": {
             "displayName": "L/100km",
-            "unitPattern-count-one": "{0} L/100km",
             "unitPattern-count-other": "{0} L/100km"
           },
           "consumption-mile-per-gallon": {
@@ -2326,37 +2337,30 @@
           },
           "consumption-mile-per-gallon-imperial": {
             "displayName": "ميل في امپيريل گيلن",
-            "unitPattern-count-one": "{0} mpg Imp.",
             "unitPattern-count-other": "{0} mpg Imp."
           },
           "digital-petabyte": {
             "displayName": "PB",
-            "unitPattern-count-one": "{0} PB",
             "unitPattern-count-other": "{0} PB"
           },
           "digital-terabyte": {
             "displayName": "TB",
-            "unitPattern-count-one": "{0} TB",
             "unitPattern-count-other": "{0} TB"
           },
           "digital-terabit": {
             "displayName": "Tb",
-            "unitPattern-count-one": "{0} Tb",
             "unitPattern-count-other": "{0} Tb"
           },
           "digital-gigabyte": {
             "displayName": "GB",
-            "unitPattern-count-one": "{0} GB",
             "unitPattern-count-other": "{0} GB"
           },
           "digital-gigabit": {
             "displayName": "Gb",
-            "unitPattern-count-one": "{0} Gb",
             "unitPattern-count-other": "{0} Gb"
           },
           "digital-megabyte": {
             "displayName": "MB",
-            "unitPattern-count-one": "{0} MB",
             "unitPattern-count-other": "{0} MB"
           },
           "digital-megabit": {
@@ -2385,44 +2389,44 @@
             "unitPattern-count-other": "{0} بٽ"
           },
           "duration-century": {
-            "displayName": "c",
-            "unitPattern-count-one": "{0} c",
-            "unitPattern-count-other": "{0} c"
+            "displayName": "ص",
+            "unitPattern-count-one": "{0}ص",
+            "unitPattern-count-other": "{0}ص"
           },
           "duration-decade": {
             "displayName": "ڏهاڪا",
-            "unitPattern-count-one": "{0} ڏهاڪو",
-            "unitPattern-count-other": "{0} ڏهاڪا"
+            "unitPattern-count-one": "{0}ڏهاڪ",
+            "unitPattern-count-other": "{0}ڏهاڪ"
           },
           "duration-year": {
             "displayName": "سال",
-            "unitPattern-count-one": "{0} سال",
-            "unitPattern-count-other": "{0} سال",
-            "perUnitPattern": "{0} في سال"
+            "unitPattern-count-one": "{0}س",
+            "unitPattern-count-other": "{0}س",
+            "perUnitPattern": "{0}/س"
           },
           "duration-quarter": {
             "displayName": "ٽه ماهي",
-            "unitPattern-count-one": "{0} ٽه ماهي",
-            "unitPattern-count-other": "{0} ٽه ماهي",
-            "perUnitPattern": "{0} في ٽه ماهي"
+            "unitPattern-count-one": "{0}ٽه ماهي",
+            "unitPattern-count-other": "{0}ٽه ماهي",
+            "perUnitPattern": "{0}/ٽه ماهي"
           },
           "duration-month": {
             "displayName": "مهينو",
-            "unitPattern-count-one": "{0} مهينا",
-            "unitPattern-count-other": "{0} مهينا",
-            "perUnitPattern": "{0} في مهيني"
+            "unitPattern-count-one": "{0}مهينو",
+            "unitPattern-count-other": "{0}مهينا",
+            "perUnitPattern": "{0}/مهينو"
           },
           "duration-week": {
             "displayName": "هفتو",
-            "unitPattern-count-one": "{0} هفتا",
-            "unitPattern-count-other": "{0} هفتي",
-            "perUnitPattern": "{0} في هفتي"
+            "unitPattern-count-one": "{0}هفتو",
+            "unitPattern-count-other": "{0}هفتا",
+            "perUnitPattern": "{0}/هفتو"
           },
           "duration-day": {
             "displayName": "ڏينهن",
-            "unitPattern-count-one": "{0} ڏينهن",
-            "unitPattern-count-other": "{0} ڏينهن",
-            "perUnitPattern": "{0} في ڏينهن"
+            "unitPattern-count-one": "{0}ڏينهن",
+            "unitPattern-count-other": "{0}ڏينهن",
+            "perUnitPattern": "{0}/ڏينهن"
           },
           "duration-hour": {
             "displayName": "ڪلاڪ",
@@ -2438,8 +2442,8 @@
           },
           "duration-second": {
             "displayName": "سيڪنڊ",
-            "unitPattern-count-one": "{0} s",
-            "unitPattern-count-other": "{0} سيڪنڊ",
+            "unitPattern-count-one": "{0}سيڪنڊ",
+            "unitPattern-count-other": "{0}سيڪنڊ",
             "perUnitPattern": "{0} في سيڪنڊ"
           },
           "duration-millisecond": {
@@ -2449,8 +2453,8 @@
           },
           "duration-microsecond": {
             "displayName": "مائڪرو سيڪنڊ",
-            "unitPattern-count-one": "{0} مائڪرو سيڪنڊ",
-            "unitPattern-count-other": "{0} مائڪرو سيڪنڊ"
+            "unitPattern-count-one": "{0}مائڪرو سيڪنڊ",
+            "unitPattern-count-other": "{0}مائڪرو سيڪنڊ"
           },
           "duration-nanosecond": {
             "displayName": "نينو سيڪنڊ",
@@ -2469,7 +2473,6 @@
           },
           "electric-ohm": {
             "displayName": "اوهمس",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
@@ -2494,7 +2497,6 @@
           },
           "energy-kilojoule": {
             "displayName": "ڪلو جول",
-            "unitPattern-count-one": "{0} kJ",
             "unitPattern-count-other": "{0} kJ"
           },
           "energy-joule": {
@@ -2509,12 +2511,10 @@
           },
           "energy-electronvolt": {
             "displayName": "اليڪٽرون وولٽ",
-            "unitPattern-count-one": "{0} eV",
             "unitPattern-count-other": "{0} eV"
           },
           "energy-british-thermal-unit": {
             "displayName": "BTU",
-            "unitPattern-count-one": "{0} Btu",
             "unitPattern-count-other": "{0} Btu"
           },
           "energy-therm-us": {
@@ -2524,12 +2524,10 @@
           },
           "force-pound-force": {
             "displayName": "پائونڊ-فورس",
-            "unitPattern-count-one": "{0} lbf",
             "unitPattern-count-other": "{0} lbf"
           },
           "force-newton": {
             "displayName": "نيوٽن",
-            "unitPattern-count-one": "{0} N",
             "unitPattern-count-other": "{0} N"
           },
           "force-kilowatt-hour-per-100-kilometer": {
@@ -2667,7 +2665,6 @@
           },
           "length-parsec": {
             "displayName": "پارسيڪ",
-            "unitPattern-count-one": "{0} pc",
             "unitPattern-count-other": "{0} pc"
           },
           "length-light-year": {
@@ -2694,23 +2691,22 @@
             "unitPattern-count-other": "{0} سمندري ميل"
           },
           "length-mile-scandinavian": {
-            "displayName": "اسڪینڊي نیویائي ميل",
-            "unitPattern-count-one": "{0} اسڪینڊي نیویائي ميل",
-            "unitPattern-count-other": "{0} اسڪینڊي نیویائي ميل"
+            "displayName": "ايس ايم آئي",
+            "unitPattern-count-one": "{0}ايس ايم آئي",
+            "unitPattern-count-other": "{0}ايس ايم آئي"
           },
           "length-point": {
             "displayName": "پوائينٽون",
-            "unitPattern-count-one": "{0} پوائينٽون",
-            "unitPattern-count-other": "{0} پوائينٽون"
+            "unitPattern-count-one": "{0}پوائينٽ",
+            "unitPattern-count-other": "{0}پوائينٽ"
           },
           "length-solar-radius": {
-            "displayName": "سولر راڊي",
-            "unitPattern-count-one": "{0} R☉",
-            "unitPattern-count-other": "{0} R☉"
+            "displayName": "R☉",
+            "unitPattern-count-one": "{0}R☉",
+            "unitPattern-count-other": "{0}R☉"
           },
           "light-lux": {
             "displayName": "لڪس",
-            "unitPattern-count-one": "{0} lx",
             "unitPattern-count-other": "{0} lx"
           },
           "light-candela": {
@@ -2723,7 +2719,6 @@
           },
           "light-solar-luminosity": {
             "displayName": "سولر ليومينوسائيٽيز",
-            "unitPattern-count-one": "{0} L☉",
             "unitPattern-count-other": "{0} L☉"
           },
           "mass-tonne": {
@@ -2750,7 +2745,6 @@
           },
           "mass-microgram": {
             "displayName": "μg",
-            "unitPattern-count-one": "{0} μg",
             "unitPattern-count-other": "{0} μg"
           },
           "mass-ton": {
@@ -2786,17 +2780,14 @@
           },
           "mass-dalton": {
             "displayName": "ڊالٽنز",
-            "unitPattern-count-one": "{0} Da",
             "unitPattern-count-other": "{0} Da"
           },
           "mass-earth-mass": {
             "displayName": "ارٿ ماسز",
-            "unitPattern-count-one": "{0} M⊕",
             "unitPattern-count-other": "{0} M⊕"
           },
           "mass-solar-mass": {
             "displayName": "سولر ماسز",
-            "unitPattern-count-one": "{0} M☉",
             "unitPattern-count-other": "{0} M☉"
           },
           "mass-grain": {
@@ -2841,12 +2832,10 @@
           },
           "pressure-pound-force-per-square-inch": {
             "displayName": "psi",
-            "unitPattern-count-one": "{0} psi",
             "unitPattern-count-other": "{0} psi"
           },
           "pressure-inch-ofhg": {
             "displayName": "inHg",
-            "unitPattern-count-one": "{0} inHg",
             "unitPattern-count-other": "{0} inHg"
           },
           "pressure-bar": {
@@ -2856,12 +2845,10 @@
           },
           "pressure-millibar": {
             "displayName": "mbar",
-            "unitPattern-count-one": "{0} mbar",
             "unitPattern-count-other": "{0} mbar"
           },
           "pressure-atmosphere": {
             "displayName": "atm",
-            "unitPattern-count-one": "{0} atm",
             "unitPattern-count-other": "{0} atm"
           },
           "pressure-pascal": {
@@ -2870,17 +2857,14 @@
           },
           "pressure-hectopascal": {
             "displayName": "hPa",
-            "unitPattern-count-one": "{0} hPa",
             "unitPattern-count-other": "{0} hPa"
           },
           "pressure-kilopascal": {
             "displayName": "kPa",
-            "unitPattern-count-one": "{0} kPa",
             "unitPattern-count-other": "{0} kPa"
           },
           "pressure-megapascal": {
             "displayName": "MPa",
-            "unitPattern-count-one": "{0} MPa",
             "unitPattern-count-other": "{0} MPa"
           },
           "speed-kilometer-per-hour": {
@@ -2903,34 +2887,32 @@
             "unitPattern-count-one": "{0} ناٽ",
             "unitPattern-count-other": "{0} ناٽ"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
             "displayName": "°C",
-            "unitPattern-count-one": "{0}°C",
             "unitPattern-count-other": "{0}°C"
           },
           "temperature-fahrenheit": {
             "displayName": "°F",
-            "unitPattern-count-one": "{0}°F",
             "unitPattern-count-other": "{0}°F"
           },
           "temperature-kelvin": {
             "displayName": "K",
-            "unitPattern-count-one": "{0} K",
             "unitPattern-count-other": "{0} K"
           },
           "torque-pound-force-foot": {
             "displayName": "lbf⋅ft",
-            "unitPattern-count-one": "{0} lbf⋅ft",
             "unitPattern-count-other": "{0} lbf⋅ft"
           },
           "torque-newton-meter": {
             "displayName": "N⋅m",
-            "unitPattern-count-one": "{0} N⋅m",
             "unitPattern-count-other": "{0} N⋅m"
           },
           "volume-cubic-kilometer": {
@@ -3054,7 +3036,6 @@
           },
           "volume-fluid-ounce-imperial": {
             "displayName": "Imp. fl oz",
-            "unitPattern-count-one": "{0} fl oz Imp.",
             "unitPattern-count-other": "{0} fl oz Imp."
           },
           "volume-tablespoon": {
@@ -3069,7 +3050,6 @@
           },
           "volume-barrel": {
             "displayName": "بيريل",
-            "unitPattern-count-one": "{0} bbl",
             "unitPattern-count-other": "{0} bbl"
           },
           "volume-dessert-spoon": {
@@ -3099,6 +3079,22 @@
           "volume-quart-imperial": {
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0} qt Imp."
+          },
+          "speed-light-speed": {
+            "displayName": "نوري",
+            "unitPattern-count-one": "{0}نوري",
+            "unitPattern-count-other": "{0}نوري"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ح ف ا",
+            "unitPattern-count-one": "{0}ح ف ا",
+            "unitPattern-count-other": "{0}ح ف ا"
+          },
+          "duration-night": {
+            "displayName": "راتيون",
+            "unitPattern-count-one": "{0}رات",
+            "unitPattern-count-other": "{0}راتيون",
+            "perUnitPattern": "{0}/رات"
           },
           "coordinateUnit": {
             "displayName": "ڊائريڪشن",

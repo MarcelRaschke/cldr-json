@@ -2,9 +2,6 @@
   "main": {
     "kgp": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "kgp"
       },
       "dates": {
@@ -118,6 +115,9 @@
               },
               "Chihuahua": {
                 "exemplarCity": "Sihuvahuva"
+              },
+              "Ciudad_Juarez": {
+                "exemplarCity": "Ciudad Juárez"
               },
               "Coral_Harbour": {
                 "exemplarCity": "Atikokỹn"
@@ -327,9 +327,6 @@
               "New_York": {
                 "exemplarCity": "Yjórki Tãg"
               },
-              "Nipigon": {
-                "exemplarCity": "Nĩpigãn"
-              },
               "Nome": {
                 "exemplarCity": "Jyjy"
               },
@@ -353,9 +350,6 @@
               "Panama": {
                 "exemplarCity": "Panỹmỹ"
               },
-              "Pangnirtung": {
-                "exemplarCity": "Pỹgnĩrtũg"
-              },
               "Paramaribo": {
                 "exemplarCity": "Paramỹrimu"
               },
@@ -377,9 +371,6 @@
               "Punta_Arenas": {
                 "exemplarCity": "Pũta Arenỹ"
               },
-              "Rainy_River": {
-                "exemplarCity": "Tamumã Goj"
-              },
               "Rankin_Inlet": {
                 "exemplarCity": "Rỹgkĩg Ĩrén"
               },
@@ -394,9 +385,6 @@
               },
               "Rio_Branco": {
                 "exemplarCity": "Goj Kupri"
-              },
-              "Santa_Isabel": {
-                "exemplarCity": "Sỹta Isamé"
               },
               "Santarem": {
                 "exemplarCity": "Sỹtarẽj"
@@ -443,9 +431,6 @@
               "Thule": {
                 "exemplarCity": "Ture"
               },
-              "Thunder_Bay": {
-                "exemplarCity": "Tũnner Mej"
-              },
               "Tijuana": {
                 "exemplarCity": "Tivỹnỹ"
               },
@@ -466,9 +451,6 @@
               },
               "Yakutat": {
                 "exemplarCity": "Yjakutati"
-              },
-              "Yellowknife": {
-                "exemplarCity": "Rógro Mỹrér"
               }
             },
             "Atlantic": {
@@ -621,9 +603,6 @@
               "Prague": {
                 "exemplarCity": "Praga"
               },
-              "Riga": {
-                "exemplarCity": "Riga"
-              },
               "Rome": {
                 "exemplarCity": "Romỹ"
               },
@@ -660,9 +639,6 @@
               "Ulyanovsk": {
                 "exemplarCity": "Urijanãvinhki"
               },
-              "Uzhgorod": {
-                "exemplarCity": "Ungoron"
-              },
               "Vaduz": {
                 "exemplarCity": "Vanuj"
               },
@@ -683,9 +659,6 @@
               },
               "Zagreb": {
                 "exemplarCity": "Jagréme"
-              },
-              "Zaporozhye": {
-                "exemplarCity": "Japorisija"
               },
               "Zurich": {
                 "exemplarCity": "Jurike"
@@ -904,9 +877,6 @@
               "Chita": {
                 "exemplarCity": "Sita"
               },
-              "Choibalsan": {
-                "exemplarCity": "Sojmarsỹ"
-              },
               "Colombo": {
                 "exemplarCity": "Korãmmu"
               },
@@ -942,9 +912,6 @@
               },
               "Irkutsk": {
                 "exemplarCity": "Irkutinhki"
-              },
-              "Jakarta": {
-                "exemplarCity": "Jakarta"
               },
               "Jayapura": {
                 "exemplarCity": "Jaiapura"
@@ -985,14 +952,8 @@
               "Magadan": {
                 "exemplarCity": "Mỹganan"
               },
-              "Makassar": {
-                "exemplarCity": "Makassar"
-              },
               "Manila": {
                 "exemplarCity": "Mỹnĩra"
-              },
-              "Muscat": {
-                "exemplarCity": "Muscat"
               },
               "Nicosia": {
                 "exemplarCity": "Nĩkójia"
@@ -1145,9 +1106,6 @@
               "Broken_Hill": {
                 "exemplarCity": "Mruken Hir"
               },
-              "Currie": {
-                "exemplarCity": "Kurije"
-              },
               "Darwin": {
                 "exemplarCity": "Narvĩn"
               },
@@ -1198,9 +1156,6 @@
               "Fakaofo": {
                 "exemplarCity": "Fakaofu"
               },
-              "Fiji": {
-                "exemplarCity": "Fiji"
-              },
               "Funafuti": {
                 "exemplarCity": "Funỹfuti"
               },
@@ -1218,12 +1173,6 @@
               },
               "Honolulu": {
                 "exemplarCity": "Honãruru"
-              },
-              "Johnston": {
-                "exemplarCity": "Nhionhtãn"
-              },
-              "Kanton": {
-                "exemplarCity": "Kanton"
               },
               "Kiritimati": {
                 "exemplarCity": "Kiritimỹti"
@@ -1254,9 +1203,6 @@
               },
               "Noumea": {
                 "exemplarCity": "Nãumẽa"
-              },
-              "Pago_Pago": {
-                "exemplarCity": "Pago Pago"
               },
               "Palau": {
                 "exemplarCity": "Parav"
@@ -1615,13 +1561,6 @@
                 "daylight": "Rỹ Kã óra Sĩnỹ tá"
               }
             },
-            "Choibalsan": {
-              "long": {
-                "generic": "Óra Sojmarsỹ tá",
-                "standard": "Óra Pã Sojmarsỹ tá",
-                "daylight": "Rỹ Kã óra Sojmarsỹ tá"
-              }
-            },
             "Christmas": {
               "long": {
                 "standard": "Óra Krĩtimỹnh Goj-vẽso tá"
@@ -1930,11 +1869,6 @@
                 "daylight": "Rỹ kã óra Mỹkav tá"
               }
             },
-            "Macquarie": {
-              "long": {
-                "standard": "Óra Mỹkikuari Goj-vẽso tá"
-              }
-            },
             "Magadan": {
               "long": {
                 "generic": "Óra Mỹganan tá",
@@ -1972,13 +1906,6 @@
             "Mawson": {
               "long": {
                 "standard": "Óra Mỹusãn tá"
-              }
-            },
-            "Mexico_Northwest": {
-              "long": {
-                "generic": "Óra Mẽsiku Nãrti-Rãpur tá",
-                "standard": "Óra Pã Mẽsiku Nãrti-Rãpur tá",
-                "daylight": "Rỹ Kã óra Mẽsiku Nãrti-Rãpur tá"
               }
             },
             "Mexico_Pacific": {

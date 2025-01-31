@@ -2,9 +2,6 @@
   "main": {
     "be-tarask": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "be",
         "variant": "TARASK"
       },

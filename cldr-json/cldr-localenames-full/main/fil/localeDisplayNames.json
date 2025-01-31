@@ -2,9 +2,6 @@
   "main": {
     "fil": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "fil"
       },
       "localeDisplayNames": {
@@ -12,6 +9,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "England",
+          "gbsct": "Scotland",
+          "gbwls": "Wales"
         },
         "keys": {
           "calendar": "Kalendaryo",
@@ -44,11 +46,11 @@
             "gregorian": "Gregorian na Kalendaryo",
             "hebrew": "Hebrew na Kalendaryo",
             "indian": "Pambansang Kalendaryong Indian",
-            "islamic": "Kalendaryong Islamic",
-            "islamic-civil": "Kalendaryong Islamic-Civil",
+            "islamic": "Kalendaryong Islam",
+            "islamic-civil": "Kalendaryong Hijri (tabular, Civil epoch)",
             "islamic-rgsa": "Kalendaryong Islamiko (Saudi Arabia, sighting)",
             "islamic-tbla": "Kalendaryong Islamiko (tabular, astronomikal na epoch)",
-            "islamic-umalqura": "Kalendaryong Islam (Umm al-Qura)",
+            "islamic-umalqura": "Kalendaryong Hijri (Umm al-Qura)",
             "iso8601": "ISO-8601 na Kalendaryo",
             "japanese": "Kalendaryong Japanese",
             "persian": "Kalendaryong Persian",
@@ -86,7 +88,6 @@
             "phonebook": "Pagkakasunud-sunod ng Pag-uuri ng Phonebook",
             "phonetic": "Phonetic na Ayos ng Pag-uuri-uri",
             "pinyin": "Pagkakasunud-sunod ng Pag-uuri ng Pinyin",
-            "reformed": "Pagkakasunud-sunod ng Pag-uuri ng Na-reform",
             "search": "Pangkalahatang Paghahanap",
             "searchjl": "Maghanap Ayon sa Unang Katinig ng Hangul",
             "standard": "Karaniwang Pagkakasunud-sunod ng Ayos",
@@ -144,16 +145,14 @@
             "bali": "Balinese na Mga Digit",
             "beng": "Mga Bengali Digit",
             "brah": "Brahmi na Mga Digit",
-            "cakm": "Chakma na Mga Digit",
+            "cakm": "Mga Digit na Chakma",
             "cham": "Cham na Mga Digit",
             "cyrl": "Cyrillic na Mga Numero",
             "deva": "Mga Devanagari Digit",
-            "diak": "diak",
             "ethi": "Mga Ethiopic Numeral",
             "finance": "Mga Pampinansyang Numeral",
             "fullwide": "Mga Full-Width Digit",
             "geor": "Georgian na Mga Numeral",
-            "gong": "gong",
             "gonm": "Masaram Gondi na mga digit",
             "grek": "Greek na Mga Numeral",
             "greklow": "Greek Lowercase na Mga Numeral",
@@ -166,12 +165,10 @@
             "hantfin": "Traditional Chinese na Mga Numeral para sa Pananalapi",
             "hebr": "Mga Hebrew Numeral",
             "hmng": "Pahawh Hmong na Mga Digit",
-            "hmnp": "hmnp",
             "java": "Javanese na Mga Digit",
             "jpan": "Mga Japanese Numeral",
             "jpanfin": "Mga Japanese Numeral sa Pananalapi",
             "kali": "Kayah Li na Mga Digit",
-            "kawi": "kawi",
             "khmr": "Mga Khmer na Digit",
             "knda": "Mga Kannada na Digit",
             "lana": "Tai Tham Hora na Mga Digit",
@@ -193,34 +190,19 @@
             "mymr": "Mga Myanmar na Digit",
             "mymrshan": "Maynmar Shan na Mga Digit",
             "mymrtlng": "Myanmar Tai Laing na Mga Digit",
-            "nagm": "nagm",
             "native": "Mga Native na Digit",
             "nkoo": "N’Ko na Mga Digit",
             "olck": "Mga Digit ng Ol Chiki",
             "orya": "Mga Oriya na Digit",
-            "osma": "osma",
-            "rohg": "rohg",
             "roman": "Mga Roman Numeral",
             "romanlow": "Roman Lowercase na Mga Numeral",
-            "saur": "saur",
-            "shrd": "shrd",
-            "sind": "sind",
-            "sinh": "sinh",
-            "sora": "sora",
-            "sund": "sund",
-            "takr": "takr",
-            "talu": "talu",
             "taml": "Tamil na Mga Numeral",
             "tamldec": "Mga Tamil na Digit",
             "telu": "Mga Telugu na Digit",
             "thai": "Mga Thai na Digit",
             "tibt": "Mga Tibetan na Digit",
-            "tirh": "tirh",
-            "tnsa": "tnsa",
             "traditional": "Mga Tradisyunal na Numeral",
-            "vaii": "Mga Vai na Digit",
-            "wara": "wara",
-            "wcho": "wcho"
+            "vaii": "Mga Vai na Digit"
           }
         },
         "codePatterns": {

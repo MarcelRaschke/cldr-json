@@ -2,9 +2,6 @@
   "main": {
     "xh": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "xh"
       },
       "dates": {
@@ -558,7 +555,7 @@
             }
           },
           "second-narrow": {
-            "displayName": "zuzwa.",
+            "displayName": "mzuzwa.",
             "relative-type-0": "now",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"

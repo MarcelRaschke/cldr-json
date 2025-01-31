@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "oc"
     },
     "annotations": {
@@ -43,7 +40,7 @@
           "òme"
         ],
         "tts": [
-          "familha: òme, femna, e dròlle"
+          "familha: òme, femna e dròlle"
         ]
       },
       "👨‍👩‍👧": {
@@ -54,7 +51,7 @@
           "òme"
         ],
         "tts": [
-          "familha: òme, femna, e dròlla"
+          "familha: òme, femna e dròlla"
         ]
       },
       "👨‍👩‍👧‍👦": {
@@ -66,7 +63,7 @@
           "òme"
         ],
         "tts": [
-          "familha: òme, femna, dròlla, e dròlle"
+          "familha: òme, femna, dròlla e dròlle"
         ]
       },
       "👨‍👩‍👦‍👦": {
@@ -77,7 +74,7 @@
           "òme"
         ],
         "tts": [
-          "familha: òme, femna, dròlle, e dròlle"
+          "familha: òme, femna, dròlle e dròlle"
         ]
       },
       "👨‍👩‍👧‍👧": {
@@ -88,7 +85,7 @@
           "òme"
         ],
         "tts": [
-          "familha: òme, femna, dròlla, e dròlla"
+          "familha: òme, femna, dròlla e dròlla"
         ]
       },
       "👨‍👨‍👦": {
@@ -98,7 +95,7 @@
           "òme"
         ],
         "tts": [
-          "familha: òme, òme, e dròlle"
+          "familha: òme, òme e dròlle"
         ]
       },
       "👨‍👨‍👧": {
@@ -108,7 +105,7 @@
           "òme"
         ],
         "tts": [
-          "familha: òme, òme, e dròlla"
+          "familha: òme, òme e dròlla"
         ]
       },
       "👨‍👨‍👧‍👦": {
@@ -119,7 +116,7 @@
           "òme"
         ],
         "tts": [
-          "familha: òme, òme, dròlla, e dròlle"
+          "familha: òme, òme, dròlla e dròlle"
         ]
       },
       "👨‍👨‍👦‍👦": {
@@ -129,7 +126,7 @@
           "òme"
         ],
         "tts": [
-          "familha: òme, òme, dròlle, e dròlle"
+          "familha: òme, òme, dròlle e dròlle"
         ]
       },
       "👨‍👨‍👧‍👧": {
@@ -139,7 +136,7 @@
           "òme"
         ],
         "tts": [
-          "familha: òme, òme, dròlla, e dròlla"
+          "familha: òme, òme, dròlla e dròlla"
         ]
       },
       "👩‍👩‍👦": {
@@ -149,7 +146,7 @@
           "femna"
         ],
         "tts": [
-          "familha: femna, femna, e dròlle"
+          "familha: femna, femna e dròlle"
         ]
       },
       "👩‍👩‍👧": {
@@ -159,7 +156,7 @@
           "femna"
         ],
         "tts": [
-          "familha: femna, femna, e dròlla"
+          "familha: femna, femna e dròlla"
         ]
       },
       "👩‍👩‍👧‍👦": {
@@ -170,7 +167,7 @@
           "femna"
         ],
         "tts": [
-          "familha: femna, femna, dròlla, e dròlle"
+          "familha: femna, femna, dròlla e dròlle"
         ]
       },
       "👩‍👩‍👦‍👦": {
@@ -180,7 +177,7 @@
           "femna"
         ],
         "tts": [
-          "familha: femna, femna, dròlle, e dròlle"
+          "familha: femna, femna, dròlle e dròlle"
         ]
       },
       "👩‍👩‍👧‍👧": {
@@ -190,7 +187,7 @@
           "femna"
         ],
         "tts": [
-          "familha: femna, femna, dròlla, e dròlla"
+          "familha: femna, femna, dròlla e dròlla"
         ]
       },
       "👨‍👦": {
@@ -210,7 +207,7 @@
           "òme"
         ],
         "tts": [
-          "familha: òme, dròlle, e dròlle"
+          "familha: òme, dròlle e dròlle"
         ]
       },
       "👨‍👧": {
@@ -231,7 +228,7 @@
           "òme"
         ],
         "tts": [
-          "familha: òme, dròlla, e dròlle"
+          "familha: òme, dròlla e dròlle"
         ]
       },
       "👨‍👧‍👧": {
@@ -241,7 +238,7 @@
           "òme"
         ],
         "tts": [
-          "familha: òme, dròlla, e dròlla"
+          "familha: òme, dròlla e dròlla"
         ]
       },
       "👩‍👦": {
@@ -261,7 +258,7 @@
           "femna"
         ],
         "tts": [
-          "familha: femna, dròlle, e dròlle"
+          "familha: femna, dròlle e dròlle"
         ]
       },
       "👩‍👧": {
@@ -282,7 +279,7 @@
           "femna"
         ],
         "tts": [
-          "familha: femna, dròlla, e dròlle"
+          "familha: femna, dròlla e dròlle"
         ]
       },
       "👩‍👧‍👧": {
@@ -292,7 +289,7 @@
           "femna"
         ],
         "tts": [
-          "familha: femna, dròlla, e dròlla"
+          "familha: femna, dròlla e dròlla"
         ]
       },
       "🇦🇨": {
@@ -1045,6 +1042,14 @@
         ],
         "tts": [
           "bandièra: Grècia"
+        ]
+      },
+      "🇬🇸": {
+        "default": [
+          "bandièra"
+        ],
+        "tts": [
+          "bandièra: Georgie del Sud e les Illes Sandwich del Sud"
         ]
       },
       "🇬🇹": {
@@ -2346,6 +2351,96 @@
       "¤": {
         "tts": [
           "Moneda desconeguda"
+        ]
+      },
+      "֏": {
+        "tts": [
+          "dram"
+        ]
+      },
+      "؋": {
+        "tts": [
+          "afgani"
+        ]
+      },
+      "৳": {
+        "tts": [
+          "taka"
+        ]
+      },
+      "฿": {
+        "tts": [
+          "bat"
+        ]
+      },
+      "៛": {
+        "tts": [
+          "riel"
+        ]
+      },
+      "₡": {
+        "tts": [
+          "colon costarricense"
+        ]
+      },
+      "₦": {
+        "tts": [
+          "naira"
+        ]
+      },
+      "₪": {
+        "tts": [
+          "nau séquel israelí"
+        ]
+      },
+      "₫": {
+        "tts": [
+          "dong"
+        ]
+      },
+      "₭": {
+        "tts": [
+          "kip"
+        ]
+      },
+      "₮": {
+        "tts": [
+          "tugrik"
+        ]
+      },
+      "₲": {
+        "tts": [
+          "guaraní paraguayan"
+        ]
+      },
+      "₴": {
+        "tts": [
+          "grivna"
+        ]
+      },
+      "₵": {
+        "tts": [
+          "cedi"
+        ]
+      },
+      "₸": {
+        "tts": [
+          "tengue kazaji"
+        ]
+      },
+      "₺": {
+        "tts": [
+          "lira turca"
+        ]
+      },
+      "₼": {
+        "tts": [
+          "manat azerbaiyan"
+        ]
+      },
+      "₾": {
+        "tts": [
+          "lari"
         ]
       }
     }

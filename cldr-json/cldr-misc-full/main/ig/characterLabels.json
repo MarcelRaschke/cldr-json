@@ -2,9 +2,6 @@
   "main": {
     "ig": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ig"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — compatibility",
         "enclosed": "{0} — enclosed",
         "extended": "{0} — extended",
+        "facing-left": "{0} na-eche ihu aka ekpe",
+        "facing-right": "{0} na-eche ihu aka nri",
         "historic": "{0} — historic",
         "miscellaneous": "{0} — miscellaneous",
         "other": "{0} — other",

@@ -2,9 +2,6 @@
   "main": {
     "vi": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "vi"
       },
       "localeDisplayNames": {
@@ -12,6 +9,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Anh Quốc",
+          "gbsct": "Scotland",
+          "gbwls": "Xứ Wales"
         },
         "keys": {
           "calendar": "Lịch",
@@ -45,10 +47,8 @@
             "hebrew": "Lịch Do Thái",
             "indian": "Lịch Quốc gia Ấn Độ",
             "islamic": "Lịch Hồi Giáo",
-            "islamic-civil": "Lịch Islamic-Civil",
-            "islamic-rgsa": "Lịch Hồi Giáo - Ả Rập Xê-út",
-            "islamic-tbla": "Lịch Hồi Giáo - Thiên văn",
-            "islamic-umalqura": "Lịch Hồi Giáo - Umm al-Qura",
+            "islamic-civil": "Lịch Hồi Giáo (dạng bảng, kỷ nguyên dân sự)",
+            "islamic-umalqura": "Lịch Hồi Giáo (Umm al-Qura)",
             "iso8601": "Lịch ISO-8601",
             "japanese": "Lịch Nhật Bản",
             "persian": "Lịch Ba Tư",
@@ -86,7 +86,6 @@
             "phonebook": "Thứ tự sắp xếp theo danh bạ điện thoại",
             "phonetic": "Thứ tự sắp xếp theo ngữ âm",
             "pinyin": "Thứ tự sắp xếp theo bính âm",
-            "reformed": "Thứ tự sắp xếp đã sửa đổi",
             "search": "Tìm kiếm mục đích chung",
             "searchjl": "Tìm kiếm theo Phụ âm Đầu Hangul",
             "standard": "Thứ tự sắp xếp chuẩn",
@@ -148,7 +147,6 @@
             "cham": "Chữ số Chăm",
             "cyrl": "Số Kirin",
             "deva": "Chữ số Devanagari",
-            "diak": "diak",
             "ethi": "Chữ số Ethiopia",
             "finance": "Chữ số dùng trong tài chính",
             "fullwide": "Chữ số có độ rộng đầy đủ",
@@ -171,7 +169,6 @@
             "jpan": "Chữ số Nhật Bản",
             "jpanfin": "Chữ số dùng trong tài chính của tiếng Nhật",
             "kali": "Chữ số Kayah Li",
-            "kawi": "kawi",
             "khmr": "Chữ số Khơ-me",
             "knda": "Chữ số Kannada",
             "lana": "Chữ số Hora Thái Đam",
@@ -193,7 +190,6 @@
             "mymr": "Chữ số Myanma",
             "mymrshan": "Chữ số Myanmar Shan",
             "mymrtlng": "Chữ số Mymrtlng",
-            "nagm": "nagm",
             "native": "Chữ số tự nhiên",
             "nkoo": "Chữ số N’Ko",
             "olck": "Chữ số Ol Chiki",
@@ -216,7 +212,6 @@
             "thai": "Chữ số Thái",
             "tibt": "Chữ số Tây Tạng",
             "tirh": "Chữ số Tirh",
-            "tnsa": "tnsa",
             "traditional": "Số truyền thống",
             "vaii": "Chữ số Vai",
             "wara": "Chữ số Wara",

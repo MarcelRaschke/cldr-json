@@ -2,9 +2,6 @@
   "main": {
     "brx": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "brx"
       },
       "dates": {
@@ -321,7 +318,7 @@
                 "H": "HH",
                 "hm": "h:mm a",
                 "Hm": "HH:mm",
-                "hms": "h:mm:ss a",
+                "hms": "h:mm:ss a",
                 "Hms": "HH:mm:ss",
                 "hmsv": "a नि h:mm:ss v",
                 "Hmsv": "HH:mm:ss v",
@@ -335,7 +332,6 @@
                 "MMMEd": "E, MMM d",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "E, MMMM d",
-                "MMMMW-count-one": "'week' W 'of' MMMM",
                 "MMMMW-count-other": "'week' W 'of' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
@@ -348,7 +344,6 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "'week' w 'of' Y",
                 "yw-count-other": "'week' w 'of' Y"
               },
               "appendItems": {
@@ -379,7 +374,7 @@
                   "d": "d–d"
                 },
                 "Gy": {
-                  "G": "G y – G y",
+                  "G": "G y – G y",
                   "y": "G y–y"
                 },
                 "GyM": {
@@ -400,7 +395,7 @@
                   "y": "G d/M/y, E – d/My, E"
                 },
                 "GyMMM": {
-                  "G": "G y MMM – G y MMM",
+                  "G": "G y MMM – G y MMM",
                   "M": "G y MMM–MMM",
                   "y": "G y MMM–y MMM"
                 },
@@ -489,7 +484,7 @@
                 },
                 "yMMM": {
                   "M": "y MMM–MMM",
-                  "y": "y MMM – y MMM"
+                  "y": "y MMM – y MMM"
                 },
                 "yMMMd": {
                   "d": "y, d–d MMM",
@@ -503,7 +498,7 @@
                 },
                 "yMMMM": {
                   "M": "y MMMM–MMMM",
-                  "y": "y MMMM – y MMMM"
+                  "y": "y MMMM – y MMMM"
                 }
               }
             },

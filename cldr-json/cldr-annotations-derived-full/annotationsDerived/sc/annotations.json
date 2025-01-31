@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "sc"
     },
     "annotations": {
@@ -5393,6 +5390,14 @@
           "bandera: Ìsula de Clipperton"
         ]
       },
+      "🇨🇶": {
+        "default": [
+          "bandera"
+        ],
+        "tts": [
+          "bandera: Sark"
+        ]
+      },
       "🇨🇷": {
         "default": [
           "bandera"
@@ -7089,11 +7094,6 @@
           "naira nigeriana"
         ]
       },
-      "₧": {
-        "tts": [
-          "peseta ispagnola"
-        ]
-      },
       "₪": {
         "tts": [
           "siclu nou israelianu"
@@ -7227,6 +7227,11 @@
         ],
         "tts": [
           "tecla: 9"
+        ]
+      },
+      "₧": {
+        "tts": [
+          "peseta ispagnola"
         ]
       }
     }

@@ -2,9 +2,6 @@
   "main": {
     "sc": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sc"
       },
       "localeDisplayNames": {
@@ -34,11 +31,11 @@
             "gregorian": "calendàriu gregorianu",
             "hebrew": "calendàriu ebràicu",
             "indian": "calendàriu natzionale indianu",
-            "islamic": "calendàriu islàmicu",
-            "islamic-civil": "calendàriu islàmicu (tabulare, època tzivile)",
+            "islamic": "calendàriu egirianu",
+            "islamic-civil": "calendàriu egirianu (tabulare, època tzivile)",
             "islamic-rgsa": "calendàriu islàmicu (Aràbia Saudita, osservatzione)",
             "islamic-tbla": "calendàriu islàmicu (tabulare, època astronòmica)",
-            "islamic-umalqura": "calendàriu islàmicu (Umm al-Qura)",
+            "islamic-umalqura": "calendàriu egirianu (Umm al-Qura)",
             "iso8601": "calendàriu ISO-8601",
             "japanese": "calendàriu giaponesu",
             "persian": "calendàriu persianu",
@@ -58,7 +55,6 @@
             "gb2312han": "ordinamentu de su tzinesu semplificadu - GB2312",
             "phonebook": "ordinamentu de s’elencu telefònicu",
             "pinyin": "ordinamentu pinyin",
-            "reformed": "ordinamentu riformadu",
             "search": "chirca genèrica",
             "searchjl": "chirca pro consonante hangul initziale",
             "standard": "ordinamentu istandard",

@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "sr",
       "script": "Latn",
       "territory": "BA"
@@ -684,13 +681,6 @@
           "znak dijeljenja"
         ]
       },
-      "≯": {
-        "default": [
-          "matematika",
-          "nejednakost",
-          "nije veće od"
-        ]
-      },
       "∓": {
         "default": [
           "minus ili plus",
@@ -734,23 +724,11 @@
           "kvadratni korijen"
         ]
       },
-      "∝": {
-        "default": [
-          "proporcionalno",
-          "proporcionalnost"
-        ]
-      },
       "∟": {
         "default": [
           "matematika",
           "prav ugao",
           "pravi ugao"
-        ]
-      },
-      "∠": {
-        "default": [
-          "oštar",
-          "ugao"
         ]
       },
       "∣": {
@@ -774,21 +752,6 @@
         ],
         "tts": [
           "presjek"
-        ]
-      },
-      "∫": {
-        "default": [
-          "infinitezimalni račun",
-          "integral"
-        ],
-        "tts": [
-          "integral"
-        ]
-      },
-      "∷": {
-        "default": [
-          "proporcija",
-          "proporcionalnost"
         ]
       },
       "∾": {
@@ -995,14 +958,6 @@
         "default": [
           "krug sa popunjenom levom polovinom",
           "krug sa popunjenom lijevom polovinom"
-        ]
-      },
-      "◔": {
-        "default": [
-          "krug sa popunjenim gornjim desnim kvadrantom"
-        ],
-        "tts": [
-          "krug sa popunjenim gornjim desnim kvadrantom"
         ]
       },
       "◕": {
@@ -1477,7 +1432,14 @@
       },
       "❤‍🩹": {
         "default": [
-          "srce koje zacjeljuje"
+          "dobro",
+          "liječenje",
+          "liječenje srca",
+          "oporavak",
+          "oporavljanje",
+          "poboljšanje",
+          "srce koje zacjeljuje",
+          "zdravije"
         ],
         "tts": [
           "srce koje zacjeljuje"
@@ -1537,7 +1499,11 @@
       },
       "👁‍🗨": {
         "default": [
-          "oko u oblačiću dijaloga"
+          "dijalog",
+          "oblačić",
+          "oko",
+          "oko u oblačiću dijaloga",
+          "svjedok"
         ]
       },
       "🗨": {
@@ -1579,6 +1545,20 @@
       "🖖": {
         "default": [
           "vulkanski pozdrav"
+        ]
+      },
+      "🫷": {
+        "default": [
+          "baci pet",
+          "čekaj",
+          "nalevo",
+          "odbij",
+          "odgurni",
+          "ruka gura ulijevo",
+          "stop"
+        ],
+        "tts": [
+          "ruka gura ulijevo"
         ]
       },
       "👌": {
@@ -1717,14 +1697,13 @@
           "rukovanje"
         ]
       },
-      "✍": {
-        "default": [
-          "ruka koja piše"
-        ]
-      },
       "💅": {
         "default": [
-          "lak za nokte"
+          "kozmetika",
+          "lak za nokte",
+          "manikir",
+          "njega",
+          "nokat"
         ]
       },
       "🤳": {
@@ -1807,11 +1786,6 @@
           "odrasla osoba"
         ]
       },
-      "🧔‍♂": {
-        "default": [
-          "muškarac: brada"
-        ]
-      },
       "👩": {
         "default": [
           "odrasla osoba",
@@ -1838,7 +1812,11 @@
       },
       "💁‍♂": {
         "default": [
-          "muškarac otkriva namjere"
+          "gestikulacija",
+          "informacije",
+          "muškarac",
+          "muškarac otkriva namjere",
+          "ruke"
         ],
         "tts": [
           "muškarac otkriva namjere"
@@ -1846,30 +1824,20 @@
       },
       "💁‍♀": {
         "default": [
+          "gestikulacija",
+          "informacije",
+          "ruke",
+          "žena",
           "žena otkriva namjere"
         ],
         "tts": [
           "žena otkriva namjere"
         ]
       },
-      "🙋": {
-        "default": [
-          "kretanje",
-          "osoba sa podignutom rukom",
-          "podići",
-          "ruka",
-          "sreća",
-          "srećna osoba sa podignutom rukom"
-        ]
-      },
-      "🧏": {
-        "default": [
-          "gluva osoba"
-        ]
-      },
       "🧏‍♂": {
         "default": [
-          "gluv čovjek"
+          "čovjek",
+          "gluv"
         ],
         "tts": [
           "gluv čovjek"
@@ -1894,7 +1862,11 @@
       },
       "🤷‍♂": {
         "default": [
-          "muškarac sliježe ramenima"
+          "gestikulacija",
+          "muškarac",
+          "muškarac sliježe ramenima",
+          "neznanje",
+          "ravnodušnost"
         ],
         "tts": [
           "muškarac sliježe ramenima"
@@ -1902,6 +1874,10 @@
       },
       "🤷‍♀": {
         "default": [
+          "gestikulacija",
+          "neznanje",
+          "ravnodušnost",
+          "žena",
           "žena sliježe ramenima"
         ],
         "tts": [
@@ -1910,45 +1886,48 @@
       },
       "🧑‍⚕": {
         "default": [
-          "zdravstveni radnik"
+          "doktor",
+          "ljekar",
+          "medicinska sestra",
+          "zdravstveni radnik",
+          "zdravstvo"
         ]
       },
       "👨‍⚕": {
         "default": [
-          "muškarac zdravstveni radnik"
+          "doktor",
+          "ljekar",
+          "muškarac",
+          "muškarac zdravstveni radnik",
+          "zdravstveni radnik",
+          "zdravstvo"
         ]
       },
       "👩‍⚕": {
         "default": [
-          "zdravstvena radnica"
+          "doktor",
+          "ljekar",
+          "zdravstvena radnica",
+          "zdravstvo",
+          "žena"
         ]
       },
       "🧑‍🎓": {
         "default": [
+          "diplomac",
           "student(kinja)"
         ],
         "tts": [
           "student(kinja)"
         ]
       },
-      "👨‍🏫": {
-        "default": [
-          "profesor"
-        ]
-      },
-      "👨‍🍳": {
-        "default": [
-          "muškarac kuvar"
-        ]
-      },
-      "👨‍🔧": {
-        "default": [
-          "muškarac mehaničar"
-        ]
-      },
       "🧑‍🎤": {
         "default": [
-          "pjevač"
+          "glumac",
+          "pjevač",
+          "rok",
+          "zabavljač",
+          "zvijezda"
         ],
         "tts": [
           "pjevač"
@@ -1956,7 +1935,10 @@
       },
       "👨‍🎤": {
         "default": [
-          "muškarac pjevač"
+          "glumac",
+          "muškarac",
+          "pjevač",
+          "rok"
         ],
         "tts": [
           "muškarac pjevač"
@@ -1964,7 +1946,10 @@
       },
       "👩‍🎤": {
         "default": [
-          "pjevačica"
+          "glumica",
+          "pjevačica",
+          "rok",
+          "žena"
         ],
         "tts": [
           "pjevačica"
@@ -1972,6 +1957,7 @@
       },
       "🧑‍🎨": {
         "default": [
+          "slikar",
           "umjetnik"
         ],
         "tts": [
@@ -1980,7 +1966,10 @@
       },
       "👨‍🎨": {
         "default": [
-          "muškarac umjetnik"
+          "muškarac",
+          "slikar",
+          "slikarstvo",
+          "umjetnik"
         ],
         "tts": [
           "muškarac umjetnik"
@@ -1988,7 +1977,11 @@
       },
       "👩‍🎨": {
         "default": [
-          "umjetnica"
+          "slikar",
+          "slikarstvo",
+          "umjetnica",
+          "umjetnik",
+          "žena"
         ],
         "tts": [
           "umjetnica"
@@ -2002,11 +1995,6 @@
           "pilot(kinja)"
         ]
       },
-      "👨‍🚀": {
-        "default": [
-          "kosmonaut"
-        ]
-      },
       "👷": {
         "default": [
           "građevinski radnik",
@@ -2016,17 +2004,26 @@
       },
       "👷‍♂": {
         "default": [
-          "građevinar"
+          "građevinar",
+          "muškarac",
+          "radnik",
+          "šljem"
         ]
       },
       "👷‍♀": {
         "default": [
-          "građevinarka"
+          "građevinar",
+          "građevinarka",
+          "radnica",
+          "šljem",
+          "žena"
         ]
       },
       "👳‍♂": {
         "default": [
-          "čovjek sa turbanom"
+          "čovjek sa turbanom",
+          "muškarac",
+          "turban"
         ],
         "tts": [
           "čovjek sa turbanom"
@@ -2076,11 +2073,6 @@
           "dojenje"
         ]
       },
-      "👨‍🍼": {
-        "default": [
-          "muškarac hrani bebu"
-        ]
-      },
       "🎅": {
         "default": [
           "bajka",
@@ -2097,7 +2089,6 @@
       "🤶": {
         "default": [
           "baka",
-          "baka Mraz",
           "božić",
           "mraz",
           "proslava"
@@ -2117,38 +2108,15 @@
       },
       "🦸‍♂": {
         "default": [
-          "muškarac superheroj"
+          "dobro",
+          "heroj",
+          "muškarac",
+          "muškarac super heroj",
+          "muškarac superheroj",
+          "super moć"
         ],
         "tts": [
           "muškarac superheroj"
-        ]
-      },
-      "🦸‍♀": {
-        "default": [
-          "žena superheroj"
-        ],
-        "tts": [
-          "žena superheroj"
-        ]
-      },
-      "🦹": {
-        "default": [
-          "kriminal",
-          "negativac",
-          "supermoć",
-          "superzločinac",
-          "zlo",
-          "zločinac"
-        ]
-      },
-      "🦹‍♂": {
-        "default": [
-          "muškarac negativac"
-        ]
-      },
-      "🦹‍♀": {
-        "default": [
-          "žena negativac"
         ]
       },
       "🧙": {
@@ -2161,22 +2129,14 @@
       },
       "🧙‍♂": {
         "default": [
-          "čarobnjak"
+          "čarobnjak",
+          "vještac"
         ]
       },
       "🧙‍♀": {
         "default": [
-          "čarobnica"
-        ]
-      },
-      "🧟‍♀": {
-        "default": [
-          "žena zombi"
-        ]
-      },
-      "💆": {
-        "default": [
-          "masaža lica"
+          "čarobnica",
+          "vještica"
         ]
       },
       "💇": {
@@ -2191,17 +2151,23 @@
       },
       "💇‍♂": {
         "default": [
+          "frizura",
+          "muškarac",
           "muško šišanje"
         ]
       },
       "💇‍♀": {
         "default": [
+          "frizura",
+          "žena",
           "žensko šišanje"
         ]
       },
       "🚶": {
         "default": [
-          "pješak"
+          "hodanje",
+          "pješak",
+          "šetanje"
         ],
         "tts": [
           "pješak"
@@ -2209,7 +2175,8 @@
       },
       "🧍‍♂": {
         "default": [
-          "čovjek stoji"
+          "čovjek",
+          "stoji"
         ],
         "tts": [
           "čovjek stoji"
@@ -2217,12 +2184,17 @@
       },
       "🧑‍🦯": {
         "default": [
-          "osoba sa pomoćnim štapom"
+          "osoba sa pomoćnim štapom",
+          "pristupačnost",
+          "slijep"
         ]
       },
       "👨‍🦯": {
         "default": [
-          "čovjek sa pomoćnim štapom"
+          "čovjek",
+          "čovjek sa pomoćnim štapom",
+          "pristupačnost",
+          "slijep"
         ],
         "tts": [
           "čovjek sa pomoćnim štapom"
@@ -2230,12 +2202,18 @@
       },
       "👩‍🦯": {
         "default": [
+          "pristupačnost",
+          "slijepa",
+          "žena",
           "žena sa pomoćnim štapom"
         ]
       },
       "👨‍🦼": {
         "default": [
-          "čovjek u motornim kolicima"
+          "čovjek",
+          "čovjek u motornim kolicima",
+          "kolica",
+          "pristupačnost"
         ],
         "tts": [
           "čovjek u motornim kolicima"
@@ -2243,12 +2221,18 @@
       },
       "👩‍🦼": {
         "default": [
+          "kolica",
+          "pristupačnost",
+          "žena",
           "žena u motornim kolicima"
         ]
       },
       "👨‍🦽": {
         "default": [
-          "čovjek u mehaničkim kolicima"
+          "čovjek",
+          "čovjek u mehaničkim kolicima",
+          "kolica",
+          "pristupačnost"
         ],
         "tts": [
           "čovjek u mehaničkim kolicima"
@@ -2256,27 +2240,18 @@
       },
       "👩‍🦽": {
         "default": [
+          "kolica",
+          "pristupačnost",
+          "žena",
           "žena u mehaničkim kolicima"
-        ]
-      },
-      "🏃‍♂": {
-        "default": [
-          "muškarac trči"
-        ]
-      },
-      "🏃‍♀": {
-        "default": [
-          "žena trči"
-        ]
-      },
-      "💃": {
-        "default": [
-          "plesačica"
         ]
       },
       "🕺": {
         "default": [
-          "plesač"
+          "muškarac",
+          "ples",
+          "plesač",
+          "plesanje"
         ]
       },
       "🕴": {
@@ -2309,33 +2284,6 @@
           "vozač snouborda"
         ]
       },
-      "🏌‍♂": {
-        "default": [
-          "golfer"
-        ]
-      },
-      "🏌‍♀": {
-        "default": [
-          "golferka"
-        ]
-      },
-      "🏄‍♂": {
-        "default": [
-          "surfer"
-        ]
-      },
-      "🏄‍♀": {
-        "default": [
-          "surferka"
-        ]
-      },
-      "🚣": {
-        "default": [
-          "čamac",
-          "čamac na vesla",
-          "osoba vesla"
-        ]
-      },
       "🚴": {
         "default": [
           "bicikl",
@@ -2354,12 +2302,20 @@
       },
       "🤸‍♂": {
         "default": [
-          "gimnastičar"
+          "akrobata",
+          "gimnastičar",
+          "gimnastika",
+          "muškarac",
+          "zvijezda"
         ]
       },
       "🤸‍♀": {
         "default": [
-          "gimnastičarka"
+          "akrobata",
+          "gimnastičarka",
+          "gimnastika",
+          "žena",
+          "zvijezda"
         ]
       },
       "🤼": {
@@ -2367,13 +2323,6 @@
           "rvač",
           "rvači",
           "rvanje"
-        ]
-      },
-      "🤽": {
-        "default": [
-          "osoba igra vaterpolo",
-          "vaterpolo",
-          "voda"
         ]
       },
       "🤾": {
@@ -2394,12 +2343,20 @@
       },
       "🤹‍♂": {
         "default": [
-          "žongler"
+          "cirkus",
+          "muškarac",
+          "vještina",
+          "žongler",
+          "žongliranje"
         ]
       },
       "🤹‍♀": {
         "default": [
-          "žonglerka"
+          "cirkus",
+          "vještina",
+          "žena",
+          "žonglerka",
+          "žongliranje"
         ]
       },
       "💏": {
@@ -2425,12 +2382,62 @@
           "siluete ljudi"
         ]
       },
+      "🧑‍🧑‍🧒": {
+        "default": [
+          "dijete",
+          "odrasla osoba",
+          "porodica: odrasla osoba",
+          "porodica: odrasla osoba, odrasla osoba, dijete"
+        ],
+        "tts": [
+          "porodica: odrasla osoba, odrasla osoba, dijete"
+        ]
+      },
+      "🧑‍🧑‍🧒‍🧒": {
+        "default": [
+          "dijete",
+          "odrasla osoba",
+          "porodica: odrasla osoba",
+          "porodica: odrasla osoba, odrasla osoba, dijete, dijete"
+        ],
+        "tts": [
+          "porodica: odrasla osoba, odrasla osoba, dijete, dijete"
+        ]
+      },
+      "🧑‍🧒": {
+        "default": [
+          "dijete",
+          "porodica: odrasla osoba",
+          "porodica: odrasla osoba, dijete"
+        ],
+        "tts": [
+          "porodica: odrasla osoba, dijete"
+        ]
+      },
+      "🧑‍🧒‍🧒": {
+        "default": [
+          "dijete",
+          "porodica: odrasla osoba",
+          "porodica: odrasla osoba, dijete, dijete"
+        ],
+        "tts": [
+          "porodica: odrasla osoba, dijete, dijete"
+        ]
+      },
       "👣": {
         "default": [
           "odjeća",
           "otisak",
           "otisak stopala",
           "otisci stopala"
+        ]
+      },
+      "🫆": {
+        "default": [
+          "bezbjednost",
+          "forenzika",
+          "identitet",
+          "otisak prsta"
         ]
       },
       "🦳": {
@@ -2442,6 +2449,11 @@
         ],
         "tts": [
           "sijeda kosa"
+        ]
+      },
+      "🐒": {
+        "default": [
+          "majmun"
         ]
       },
       "🦮": {
@@ -2467,9 +2479,14 @@
           "lice mačke"
         ]
       },
-      "🐈‍⬛": {
+      "🐅": {
         "default": [
-          "crna mačka"
+          "tigar"
+        ]
+      },
+      "🐆": {
+        "default": [
+          "leopard"
         ]
       },
       "🐎": {
@@ -2477,9 +2494,9 @@
           "konj"
         ]
       },
-      "🦬": {
+      "🐄": {
         "default": [
-          "bizon"
+          "krava"
         ]
       },
       "🐗": {
@@ -2493,6 +2510,11 @@
           "žirafa"
         ]
       },
+      "🐘": {
+        "default": [
+          "slon"
+        ]
+      },
       "🦣": {
         "default": [
           "istrijebljen",
@@ -2502,6 +2524,12 @@
         ]
       },
       "🐹": {
+        "default": [
+          "hrčak",
+          "lice",
+          "lice hrčka",
+          "ljubimac"
+        ],
         "tts": [
           "hrčak"
         ]
@@ -2530,6 +2558,9 @@
       },
       "🐻‍❄": {
         "default": [
+          "arktički",
+          "bijelo",
+          "medvjed",
           "polarni medvjed"
         ],
         "tts": [
@@ -2586,9 +2617,30 @@
           "veliko"
         ]
       },
+      "🐊": {
+        "default": [
+          "krokodil"
+        ]
+      },
       "🐚": {
         "default": [
           "spiralna školjka"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "bisk",
+          "jastog",
+          "kliješta",
+          "morski plodovi"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "hrana",
+          "mali",
+          "račić",
+          "rak"
         ]
       },
       "🐛": {
@@ -2812,6 +2864,18 @@
           "korijen đumbira"
         ]
       },
+      "🫜": {
+        "default": [
+          "bašta",
+          "bijela repa",
+          "korijen",
+          "povrće",
+          "repa"
+        ],
+        "tts": [
+          "korjenasto povrće"
+        ]
+      },
       "🍞": {
         "default": [
           "hljeb",
@@ -2863,13 +2927,6 @@
         "default": [
           "hljeb",
           "sendvič"
-        ]
-      },
-      "🥚": {
-        "default": [
-          "doručak",
-          "hrana",
-          "jaje"
         ]
       },
       "🥘": {
@@ -2970,22 +3027,6 @@
           "kiflice",
           "knedla",
           "piroge"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "bisk",
-          "jastog",
-          "kliješta",
-          "morski plodovi"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "hrana",
-          "mali",
-          "račić",
-          "rak"
         ]
       },
       "🎂": {
@@ -3377,13 +3418,6 @@
           "trajekt"
         ]
       },
-      "🚢": {
-        "default": [
-          "brod",
-          "putnik",
-          "vozilo"
-        ]
-      },
       "🛫": {
         "default": [
           "avion",
@@ -3749,6 +3783,13 @@
           "svjetiljka od bundeve"
         ]
       },
+      "🎄": {
+        "default": [
+          "božić",
+          "božićna jelka",
+          "proslava"
+        ]
+      },
       "✨": {
         "default": [
           "iskra",
@@ -3800,6 +3841,16 @@
           "proslava",
           "spomen-traka",
           "traka"
+        ]
+      },
+      "🏒": {
+        "default": [
+          "hokej",
+          "igra",
+          "led",
+          "pak",
+          "palica",
+          "štap i pak za hokej"
         ]
       },
       "🥋": {
@@ -4435,10 +4486,6 @@
         ]
       },
       "♿": {
-        "default": [
-          "pristup",
-          "simbol za invalidska kolica"
-        ],
         "tts": [
           "simbol za invalidska kolica"
         ]
@@ -5138,30 +5185,17 @@
           "bijela zastava"
         ]
       },
-      "🏳‍🌈": {
-        "default": [
-          "dugina zastava"
-        ]
-      },
       "🏳‍⚧": {
         "default": [
-          "transrodna zastava"
+          "bijela",
+          "pink",
+          "svijetloplava",
+          "transrodna zastava",
+          "transrodno",
+          "zastava"
         ],
         "tts": [
           "transrodna zastava"
-        ]
-      },
-      "₣": {
-        "default": [
-          "franak",
-          "francuski franak",
-          "valuta"
-        ]
-      },
-      "₤": {
-        "default": [
-          "lira",
-          "valuta"
         ]
       },
       "₩": {
@@ -5193,16 +5227,16 @@
           "valuta"
         ]
       },
-      "﷼": {
-        "default": [
-          "rijal",
-          "valuta"
-        ]
-      },
       "µ": {
         "default": [
           "mjera",
           "znak za mikro"
+        ]
+      },
+      "﷼": {
+        "default": [
+          "rijal",
+          "valuta"
         ]
       }
     }

@@ -2,9 +2,6 @@
   "main": {
     "pa": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "pa"
       },
       "numbers": {
@@ -187,7 +184,7 @@
             }
           },
           "standard": "¤#,##,##0.00",
-          "standard-noCurrency": "#,##,##0.00",
+          "standard-noCurrency": "#,##0.00",
           "accounting": "¤ #,##0.00",
           "accounting-noCurrency": "#,##0.00",
           "short": {
@@ -219,7 +216,6 @@
             }
           },
           "currencyPatternAppendISO": "{0} ¤¤",
-          "unitPattern-count-one": "{0} {1}",
           "unitPattern-count-other": "{0} {1}"
         },
         "currencyFormats-numberSystem-latn": {
@@ -268,7 +264,6 @@
             }
           },
           "currencyPatternAppendISO": "{0} ¤¤",
-          "unitPattern-count-one": "{0} {1}",
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-guru": {

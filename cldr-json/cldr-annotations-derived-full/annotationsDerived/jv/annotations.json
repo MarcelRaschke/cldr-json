@@ -1,15 +1,13 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "jv"
     },
     "annotations": {
       "👋🏻": {
         "default": [
           "awe-awe",
+          "dada",
           "kulit putih",
           "tangan",
           "tangan ngawe-awe"
@@ -21,6 +19,7 @@
       "👋🏼": {
         "default": [
           "awe-awe",
+          "dada",
           "kulit putih langsep",
           "tangan",
           "tangan ngawe-awe"
@@ -32,6 +31,7 @@
       "👋🏽": {
         "default": [
           "awe-awe",
+          "dada",
           "kulit kuning",
           "tangan",
           "tangan ngawe-awe"
@@ -43,6 +43,7 @@
       "👋🏾": {
         "default": [
           "awe-awe",
+          "dada",
           "kulit sawo mateng",
           "tangan",
           "tangan ngawe-awe"
@@ -54,6 +55,7 @@
       "👋🏿": {
         "default": [
           "awe-awe",
+          "dada",
           "kulit ireng",
           "tangan",
           "tangan ngawe-awe"
@@ -634,9 +636,9 @@
       },
       "🫲🏻": {
         "default": [
-          "kiwo",
+          "kiwa",
           "kulit putih",
-          "ngiwo",
+          "ngiwa",
           "tangan"
         ],
         "tts": [
@@ -645,9 +647,9 @@
       },
       "🫲🏼": {
         "default": [
-          "kiwo",
+          "kiwa",
           "kulit putih langsep",
-          "ngiwo",
+          "ngiwa",
           "tangan"
         ],
         "tts": [
@@ -656,9 +658,9 @@
       },
       "🫲🏽": {
         "default": [
-          "kiwo",
+          "kiwa",
           "kulit kuning",
-          "ngiwo",
+          "ngiwa",
           "tangan"
         ],
         "tts": [
@@ -667,9 +669,9 @@
       },
       "🫲🏾": {
         "default": [
-          "kiwo",
+          "kiwa",
           "kulit sawo mateng",
-          "ngiwo",
+          "ngiwa",
           "tangan"
         ],
         "tts": [
@@ -678,9 +680,9 @@
       },
       "🫲🏿": {
         "default": [
-          "kiwo",
+          "kiwa",
           "kulit ireng",
-          "ngiwo",
+          "ngiwa",
           "tangan"
         ],
         "tts": [
@@ -693,7 +695,7 @@
           "ndeleh",
           "ngilangke",
           "ngusir",
-          "tangan madep ngisor"
+          "tangan madhep ngisor"
         ],
         "tts": [
           "tangan madep ngisor: kulit putih"
@@ -705,7 +707,7 @@
           "ndeleh",
           "ngilangke",
           "ngusir",
-          "tangan madep ngisor"
+          "tangan madhep ngisor"
         ],
         "tts": [
           "tangan madep ngisor: kulit putih langsep"
@@ -717,7 +719,7 @@
           "ndeleh",
           "ngilangke",
           "ngusir",
-          "tangan madep ngisor"
+          "tangan madhep ngisor"
         ],
         "tts": [
           "tangan madep ngisor: kulit kuning"
@@ -729,7 +731,7 @@
           "ndeleh",
           "ngilangke",
           "ngusir",
-          "tangan madep ngisor"
+          "tangan madhep ngisor"
         ],
         "tts": [
           "tangan madep ngisor: kulit sawo mateng"
@@ -741,7 +743,7 @@
           "ndeleh",
           "ngilangke",
           "ngusir",
-          "tangan madep ngisor"
+          "tangan madhep ngisor"
         ],
         "tts": [
           "tangan madep ngisor: kulit ireng"
@@ -750,10 +752,11 @@
       "🫴🏻": {
         "default": [
           "kulit putih",
+          "nadhah",
+          "nampani",
           "nangkap",
-          "nawareke",
-          "tangan madep nduwur",
-          "teko",
+          "tangan madhep ndhuwur",
+          "teka",
           "wenehke"
         ],
         "tts": [
@@ -763,10 +766,11 @@
       "🫴🏼": {
         "default": [
           "kulit putih langsep",
+          "nadhah",
+          "nampani",
           "nangkap",
-          "nawareke",
-          "tangan madep nduwur",
-          "teko",
+          "tangan madhep ndhuwur",
+          "teka",
           "wenehke"
         ],
         "tts": [
@@ -776,10 +780,11 @@
       "🫴🏽": {
         "default": [
           "kulit kuning",
+          "nadhah",
+          "nampani",
           "nangkap",
-          "nawareke",
-          "tangan madep nduwur",
-          "teko",
+          "tangan madhep ndhuwur",
+          "teka",
           "wenehke"
         ],
         "tts": [
@@ -789,10 +794,11 @@
       "🫴🏾": {
         "default": [
           "kulit sawo mateng",
+          "nadhah",
+          "nampani",
           "nangkap",
-          "nawareke",
-          "tangan madep nduwur",
-          "teko",
+          "tangan madhep ndhuwur",
+          "teka",
           "wenehke"
         ],
         "tts": [
@@ -802,10 +808,11 @@
       "🫴🏿": {
         "default": [
           "kulit ireng",
+          "nadhah",
+          "nampani",
           "nangkap",
-          "nawareke",
-          "tangan madep nduwur",
-          "teko",
+          "tangan madhep ndhuwur",
+          "teka",
           "wenehke"
         ],
         "tts": [
@@ -815,7 +822,7 @@
       "🫷🏻": {
         "default": [
           "kulit putih",
-          "mandeg",
+          "mandheg",
           "ngenteni",
           "nolak",
           "nyurung",
@@ -830,7 +837,7 @@
       "🫷🏼": {
         "default": [
           "kulit putih langsep",
-          "mandeg",
+          "mandheg",
           "ngenteni",
           "nolak",
           "nyurung",
@@ -845,7 +852,7 @@
       "🫷🏽": {
         "default": [
           "kulit kuning",
-          "mandeg",
+          "mandheg",
           "ngenteni",
           "nolak",
           "nyurung",
@@ -860,7 +867,7 @@
       "🫷🏾": {
         "default": [
           "kulit sawo mateng",
-          "mandeg",
+          "mandheg",
           "ngenteni",
           "nolak",
           "nyurung",
@@ -875,7 +882,7 @@
       "🫷🏿": {
         "default": [
           "kulit ireng",
-          "mandeg",
+          "mandheg",
           "ngenteni",
           "nolak",
           "nyurung",
@@ -890,7 +897,7 @@
       "🫸🏻": {
         "default": [
           "kulit putih",
-          "mandeg",
+          "mandheg",
           "ngenteni",
           "nolak",
           "nyurung",
@@ -905,7 +912,7 @@
       "🫸🏼": {
         "default": [
           "kulit putih langsep",
-          "mandeg",
+          "mandheg",
           "ngenteni",
           "nolak",
           "nyurung",
@@ -920,7 +927,7 @@
       "🫸🏽": {
         "default": [
           "kulit kuning",
-          "mandeg",
+          "mandheg",
           "ngenteni",
           "nolak",
           "nyurung",
@@ -935,7 +942,7 @@
       "🫸🏾": {
         "default": [
           "kulit sawo mateng",
-          "mandeg",
+          "mandheg",
           "ngenteni",
           "nolak",
           "nyurung",
@@ -950,7 +957,7 @@
       "🫸🏿": {
         "default": [
           "kulit ireng",
-          "mandeg",
+          "mandheg",
           "ngenteni",
           "nolak",
           "nyurung",
@@ -1020,11 +1027,12 @@
       "🤌🏻": {
         "default": [
           "basa tangan",
-          "digatukake",
+          "digathukake",
           "driji",
           "interogasi",
           "kulit putih",
-          "landep"
+          "landhep",
+          "sarkas"
         ],
         "tts": [
           "driji digatukake: kulit putih"
@@ -1033,11 +1041,12 @@
       "🤌🏼": {
         "default": [
           "basa tangan",
-          "digatukake",
+          "digathukake",
           "driji",
           "interogasi",
           "kulit putih langsep",
-          "landep"
+          "landhep",
+          "sarkas"
         ],
         "tts": [
           "driji digatukake: kulit putih langsep"
@@ -1046,11 +1055,12 @@
       "🤌🏽": {
         "default": [
           "basa tangan",
-          "digatukake",
+          "digathukake",
           "driji",
           "interogasi",
           "kulit kuning",
-          "landep"
+          "landhep",
+          "sarkas"
         ],
         "tts": [
           "driji digatukake: kulit kuning"
@@ -1059,11 +1069,12 @@
       "🤌🏾": {
         "default": [
           "basa tangan",
-          "digatukake",
+          "digathukake",
           "driji",
           "interogasi",
           "kulit sawo mateng",
-          "landep"
+          "landhep",
+          "sarkas"
         ],
         "tts": [
           "driji digatukake: kulit sawo mateng"
@@ -1072,11 +1083,12 @@
       "🤌🏿": {
         "default": [
           "basa tangan",
-          "digatukake",
+          "digathukake",
           "driji",
           "interogasi",
           "kulit ireng",
-          "landep"
+          "landhep",
+          "sarkas"
         ],
         "tts": [
           "driji digatukake: kulit ireng"
@@ -1260,12 +1272,12 @@
       "🫰🏻": {
         "default": [
           "ati",
-          "duwit",
+          "dhuwit",
           "kulit putih",
           "larang",
           "swara seru",
           "tangan mawa jempol karo driji telunjuk tetalenan",
-          "trisno"
+          "tresna"
         ],
         "tts": [
           "tangan mawa jempol karo driji telunjuk tetalenan: kulit putih"
@@ -1274,12 +1286,12 @@
       "🫰🏼": {
         "default": [
           "ati",
-          "duwit",
+          "dhuwit",
           "kulit putih langsep",
           "larang",
           "swara seru",
           "tangan mawa jempol karo driji telunjuk tetalenan",
-          "trisno"
+          "tresna"
         ],
         "tts": [
           "tangan mawa jempol karo driji telunjuk tetalenan: kulit putih langsep"
@@ -1288,12 +1300,12 @@
       "🫰🏽": {
         "default": [
           "ati",
-          "duwit",
+          "dhuwit",
           "kulit kuning",
           "larang",
           "swara seru",
           "tangan mawa jempol karo driji telunjuk tetalenan",
-          "trisno"
+          "tresna"
         ],
         "tts": [
           "tangan mawa jempol karo driji telunjuk tetalenan: kulit kuning"
@@ -1302,12 +1314,12 @@
       "🫰🏾": {
         "default": [
           "ati",
-          "duwit",
+          "dhuwit",
           "kulit sawo mateng",
           "larang",
           "swara seru",
           "tangan mawa jempol karo driji telunjuk tetalenan",
-          "trisno"
+          "tresna"
         ],
         "tts": [
           "tangan mawa jempol karo driji telunjuk tetalenan: kulit sawo mateng"
@@ -1316,12 +1328,12 @@
       "🫰🏿": {
         "default": [
           "ati",
-          "duwit",
+          "dhuwit",
           "kulit ireng",
           "larang",
           "swara seru",
           "tangan mawa jempol karo driji telunjuk tetalenan",
-          "trisno"
+          "tresna"
         ],
         "tts": [
           "tangan mawa jempol karo driji telunjuk tetalenan: kulit ireng"
@@ -1965,6 +1977,8 @@
       "👍🏻": {
         "default": [
           "+1",
+          "bener",
+          "iya",
           "jempol",
           "kulit putih",
           "ngacung",
@@ -1977,6 +1991,8 @@
       "👍🏼": {
         "default": [
           "+1",
+          "bener",
+          "iya",
           "jempol",
           "kulit putih langsep",
           "ngacung",
@@ -1989,6 +2005,8 @@
       "👍🏽": {
         "default": [
           "+1",
+          "bener",
+          "iya",
           "jempol",
           "kulit kuning",
           "ngacung",
@@ -2001,6 +2019,8 @@
       "👍🏾": {
         "default": [
           "+1",
+          "bener",
+          "iya",
           "jempol",
           "kulit sawo mateng",
           "ngacung",
@@ -2013,6 +2033,8 @@
       "👍🏿": {
         "default": [
           "+1",
+          "bener",
+          "iya",
           "jempol",
           "kulit ireng",
           "ngacung",
@@ -2025,6 +2047,8 @@
       "👎🏻": {
         "default": [
           "-1",
+          "ala",
+          "elek",
           "jempol",
           "jempol ngacung mudhun",
           "kulit putih",
@@ -2038,6 +2062,8 @@
       "👎🏼": {
         "default": [
           "-1",
+          "ala",
+          "elek",
           "jempol",
           "jempol ngacung mudhun",
           "kulit putih langsep",
@@ -2051,6 +2077,8 @@
       "👎🏽": {
         "default": [
           "-1",
+          "ala",
+          "elek",
           "jempol",
           "jempol ngacung mudhun",
           "kulit kuning",
@@ -2064,6 +2092,8 @@
       "👎🏾": {
         "default": [
           "-1",
+          "ala",
+          "elek",
           "jempol",
           "jempol ngacung mudhun",
           "kulit sawo mateng",
@@ -2077,6 +2107,8 @@
       "👎🏿": {
         "default": [
           "-1",
+          "ala",
+          "elek",
           "jempol",
           "jempol ngacung mudhun",
           "kulit ireng",
@@ -2456,7 +2488,7 @@
         "default": [
           "kulit putih",
           "tangan loro mbentuk ati",
-          "trisno"
+          "tresna"
         ],
         "tts": [
           "tangan loro mbentuk ati: kulit putih"
@@ -2466,7 +2498,7 @@
         "default": [
           "kulit putih langsep",
           "tangan loro mbentuk ati",
-          "trisno"
+          "tresna"
         ],
         "tts": [
           "tangan loro mbentuk ati: kulit putih langsep"
@@ -2476,7 +2508,7 @@
         "default": [
           "kulit kuning",
           "tangan loro mbentuk ati",
-          "trisno"
+          "tresna"
         ],
         "tts": [
           "tangan loro mbentuk ati: kulit kuning"
@@ -2486,7 +2518,7 @@
         "default": [
           "kulit sawo mateng",
           "tangan loro mbentuk ati",
-          "trisno"
+          "tresna"
         ],
         "tts": [
           "tangan loro mbentuk ati: kulit sawo mateng"
@@ -2496,7 +2528,7 @@
         "default": [
           "kulit ireng",
           "tangan loro mbentuk ati",
-          "trisno"
+          "tresna"
         ],
         "tts": [
           "tangan loro mbentuk ati: kulit ireng"
@@ -2559,10 +2591,11 @@
       },
       "🤲🏻": {
         "default": [
+          "dedonga",
           "kulit putih",
           "ndonga",
-          "tangan loro mandho nadhah amin",
-          "tangan loro nadhah"
+          "tangan loro nadhah",
+          "tangan loro nadhah amin"
         ],
         "tts": [
           "tangan loro mandho nadhah amin: kulit putih"
@@ -2570,10 +2603,11 @@
       },
       "🤲🏼": {
         "default": [
+          "dedonga",
           "kulit putih langsep",
           "ndonga",
-          "tangan loro mandho nadhah amin",
-          "tangan loro nadhah"
+          "tangan loro nadhah",
+          "tangan loro nadhah amin"
         ],
         "tts": [
           "tangan loro mandho nadhah amin: kulit putih langsep"
@@ -2581,10 +2615,11 @@
       },
       "🤲🏽": {
         "default": [
+          "dedonga",
           "kulit kuning",
           "ndonga",
-          "tangan loro mandho nadhah amin",
-          "tangan loro nadhah"
+          "tangan loro nadhah",
+          "tangan loro nadhah amin"
         ],
         "tts": [
           "tangan loro mandho nadhah amin: kulit kuning"
@@ -2592,10 +2627,11 @@
       },
       "🤲🏾": {
         "default": [
+          "dedonga",
           "kulit sawo mateng",
           "ndonga",
-          "tangan loro mandho nadhah amin",
-          "tangan loro nadhah"
+          "tangan loro nadhah",
+          "tangan loro nadhah amin"
         ],
         "tts": [
           "tangan loro mandho nadhah amin: kulit sawo mateng"
@@ -2603,10 +2639,11 @@
       },
       "🤲🏿": {
         "default": [
+          "dedonga",
           "kulit ireng",
           "ndonga",
-          "tangan loro mandho nadhah amin",
-          "tangan loro nadhah"
+          "tangan loro nadhah",
+          "tangan loro nadhah amin"
         ],
         "tts": [
           "tangan loro mandho nadhah amin: kulit ireng"
@@ -2924,12 +2961,15 @@
       },
       "💪🏻": {
         "default": [
+          "binaraga",
+          "bisep",
+          "gym",
           "kulit putih",
           "lelucon",
           "ngotot",
           "otot",
           "otot lengen",
-          "otot lengen mlenthung"
+          "otot lengen methekol"
         ],
         "tts": [
           "otot lengen mlenthung: kulit putih"
@@ -2937,12 +2977,15 @@
       },
       "💪🏼": {
         "default": [
+          "binaraga",
+          "bisep",
+          "gym",
           "kulit putih langsep",
           "lelucon",
           "ngotot",
           "otot",
           "otot lengen",
-          "otot lengen mlenthung"
+          "otot lengen methekol"
         ],
         "tts": [
           "otot lengen mlenthung: kulit putih langsep"
@@ -2950,12 +2993,15 @@
       },
       "💪🏽": {
         "default": [
+          "binaraga",
+          "bisep",
+          "gym",
           "kulit kuning",
           "lelucon",
           "ngotot",
           "otot",
           "otot lengen",
-          "otot lengen mlenthung"
+          "otot lengen methekol"
         ],
         "tts": [
           "otot lengen mlenthung: kulit kuning"
@@ -2963,12 +3009,15 @@
       },
       "💪🏾": {
         "default": [
+          "binaraga",
+          "bisep",
+          "gym",
           "kulit sawo mateng",
           "lelucon",
           "ngotot",
           "otot",
           "otot lengen",
-          "otot lengen mlenthung"
+          "otot lengen methekol"
         ],
         "tts": [
           "otot lengen mlenthung: kulit sawo mateng"
@@ -2976,12 +3025,15 @@
       },
       "💪🏿": {
         "default": [
+          "binaraga",
+          "bisep",
+          "gym",
           "kulit ireng",
           "lelucon",
           "ngotot",
           "otot",
           "otot lengen",
-          "otot lengen mlenthung"
+          "otot lengen methekol"
         ],
         "tts": [
           "otot lengen mlenthung: kulit ireng"
@@ -3371,7 +3423,8 @@
         "default": [
           "bocah lanang",
           "kulit putih",
-          "nom"
+          "nom",
+          "putu"
         ],
         "tts": [
           "bocah lanang: kulit putih"
@@ -3381,7 +3434,8 @@
         "default": [
           "bocah lanang",
           "kulit putih langsep",
-          "nom"
+          "nom",
+          "putu"
         ],
         "tts": [
           "bocah lanang: kulit putih langsep"
@@ -3391,7 +3445,8 @@
         "default": [
           "bocah lanang",
           "kulit kuning",
-          "nom"
+          "nom",
+          "putu"
         ],
         "tts": [
           "bocah lanang: kulit kuning"
@@ -3401,7 +3456,8 @@
         "default": [
           "bocah lanang",
           "kulit sawo mateng",
-          "nom"
+          "nom",
+          "putu"
         ],
         "tts": [
           "bocah lanang: kulit sawo mateng"
@@ -3411,7 +3467,8 @@
         "default": [
           "bocah lanang",
           "kulit ireng",
-          "nom"
+          "nom",
+          "putu"
         ],
         "tts": [
           "bocah lanang: kulit ireng"
@@ -4467,10 +4524,12 @@
       },
       "🧔🏻": {
         "default": [
+          "brewok",
           "jenggot",
           "kulit putih",
           "wong",
-          "wong: jenggot"
+          "wong brewoken",
+          "wong jenggoten"
         ],
         "tts": [
           "wong: kulit putih, jenggot"
@@ -4478,10 +4537,12 @@
       },
       "🧔🏼": {
         "default": [
+          "brewok",
           "jenggot",
           "kulit putih langsep",
           "wong",
-          "wong: jenggot"
+          "wong brewoken",
+          "wong jenggoten"
         ],
         "tts": [
           "wong: kulit putih langsep, jenggot"
@@ -4489,10 +4550,12 @@
       },
       "🧔🏽": {
         "default": [
+          "brewok",
           "jenggot",
           "kulit kuning",
           "wong",
-          "wong: jenggot"
+          "wong brewoken",
+          "wong jenggoten"
         ],
         "tts": [
           "wong: kulit kuning, jenggot"
@@ -4500,10 +4563,12 @@
       },
       "🧔🏾": {
         "default": [
+          "brewok",
           "jenggot",
           "kulit sawo mateng",
           "wong",
-          "wong: jenggot"
+          "wong brewoken",
+          "wong jenggoten"
         ],
         "tts": [
           "wong: kulit sawo mateng, jenggot"
@@ -4511,10 +4576,12 @@
       },
       "🧔🏿": {
         "default": [
+          "brewok",
           "jenggot",
           "kulit ireng",
           "wong",
-          "wong: jenggot"
+          "wong brewoken",
+          "wong jenggoten"
         ],
         "tts": [
           "wong: kulit ireng, jenggot"
@@ -7346,6 +7413,7 @@
       "👴🏻": {
         "default": [
           "kulit putih",
+          "simbah kakung",
           "tuwa",
           "wong diwasa",
           "wong lanang",
@@ -7358,6 +7426,7 @@
       "👴🏼": {
         "default": [
           "kulit putih langsep",
+          "simbah kakung",
           "tuwa",
           "wong diwasa",
           "wong lanang",
@@ -7370,6 +7439,7 @@
       "👴🏽": {
         "default": [
           "kulit kuning",
+          "simbah kakung",
           "tuwa",
           "wong diwasa",
           "wong lanang",
@@ -7382,6 +7452,7 @@
       "👴🏾": {
         "default": [
           "kulit sawo mateng",
+          "simbah kakung",
           "tuwa",
           "wong diwasa",
           "wong lanang",
@@ -7394,6 +7465,7 @@
       "👴🏿": {
         "default": [
           "kulit ireng",
+          "simbah kakung",
           "tuwa",
           "wong diwasa",
           "wong lanang",
@@ -7406,6 +7478,7 @@
       "👵🏻": {
         "default": [
           "kulit putih",
+          "simbah putri",
           "tuwa",
           "wong diwasa",
           "wong wadon",
@@ -7418,6 +7491,7 @@
       "👵🏼": {
         "default": [
           "kulit putih langsep",
+          "simbah putri",
           "tuwa",
           "wong diwasa",
           "wong wadon",
@@ -7430,6 +7504,7 @@
       "👵🏽": {
         "default": [
           "kulit kuning",
+          "simbah putri",
           "tuwa",
           "wong diwasa",
           "wong wadon",
@@ -7442,6 +7517,7 @@
       "👵🏾": {
         "default": [
           "kulit sawo mateng",
+          "simbah putri",
           "tuwa",
           "wong diwasa",
           "wong wadon",
@@ -7454,6 +7530,7 @@
       "👵🏿": {
         "default": [
           "kulit ireng",
+          "simbah putri",
           "tuwa",
           "wong diwasa",
           "wong wadon",
@@ -8414,6 +8491,7 @@
           "isarat",
           "kulit putih",
           "ngacung",
+          "pitakon",
           "tangan",
           "wong ngacungake tangan"
         ],
@@ -8427,6 +8505,7 @@
           "isarat",
           "kulit putih langsep",
           "ngacung",
+          "pitakon",
           "tangan",
           "wong ngacungake tangan"
         ],
@@ -8440,6 +8519,7 @@
           "isarat",
           "kulit kuning",
           "ngacung",
+          "pitakon",
           "tangan",
           "wong ngacungake tangan"
         ],
@@ -8453,6 +8533,7 @@
           "isarat",
           "kulit sawo mateng",
           "ngacung",
+          "pitakon",
           "tangan",
           "wong ngacungake tangan"
         ],
@@ -8466,6 +8547,7 @@
           "isarat",
           "kulit ireng",
           "ngacung",
+          "pitakon",
           "tangan",
           "wong ngacungake tangan"
         ],
@@ -8911,11 +8993,11 @@
       "🙇🏻‍♀": {
         "default": [
           "isarat",
-          "kilap",
           "kulit putih",
           "mbungkuk",
           "njaluk ngapura",
           "njaluk tulung",
+          "takon",
           "wong wadon",
           "wong wadon mbungkuk ngurmati"
         ],
@@ -8926,11 +9008,11 @@
       "🙇🏼‍♀": {
         "default": [
           "isarat",
-          "kilap",
           "kulit putih langsep",
           "mbungkuk",
           "njaluk ngapura",
           "njaluk tulung",
+          "takon",
           "wong wadon",
           "wong wadon mbungkuk ngurmati"
         ],
@@ -8941,11 +9023,11 @@
       "🙇🏽‍♀": {
         "default": [
           "isarat",
-          "kilap",
           "kulit kuning",
           "mbungkuk",
           "njaluk ngapura",
           "njaluk tulung",
+          "takon",
           "wong wadon",
           "wong wadon mbungkuk ngurmati"
         ],
@@ -8956,11 +9038,11 @@
       "🙇🏾‍♀": {
         "default": [
           "isarat",
-          "kilap",
           "kulit sawo mateng",
           "mbungkuk",
           "njaluk ngapura",
           "njaluk tulung",
+          "takon",
           "wong wadon",
           "wong wadon mbungkuk ngurmati"
         ],
@@ -8971,11 +9053,11 @@
       "🙇🏿‍♀": {
         "default": [
           "isarat",
-          "kilap",
           "kulit ireng",
           "mbungkuk",
           "njaluk ngapura",
           "njaluk tulung",
+          "takon",
           "wong wadon",
           "wong wadon mbungkuk ngurmati"
         ],
@@ -9250,6 +9332,7 @@
           "ngangkat pundhak",
           "ora gati",
           "ora sudi",
+          "sapa",
           "wong lanang",
           "wong lanang angangkat pundhak"
         ],
@@ -9264,6 +9347,7 @@
           "ngangkat pundhak",
           "ora gati",
           "ora sudi",
+          "sapa",
           "wong lanang",
           "wong lanang angangkat pundhak"
         ],
@@ -9278,6 +9362,7 @@
           "ngangkat pundhak",
           "ora gati",
           "ora sudi",
+          "sapa",
           "wong lanang",
           "wong lanang angangkat pundhak"
         ],
@@ -9292,6 +9377,7 @@
           "ngangkat pundhak",
           "ora gati",
           "ora sudi",
+          "sapa",
           "wong lanang",
           "wong lanang angangkat pundhak"
         ],
@@ -9306,6 +9392,7 @@
           "ngangkat pundhak",
           "ora gati",
           "ora sudi",
+          "sapa",
           "wong lanang",
           "wong lanang angangkat pundhak"
         ],
@@ -9320,6 +9407,7 @@
           "ngangkat pundhak",
           "ora gati",
           "ora sudi",
+          "ragu",
           "wong wadon",
           "wong wadon ngangkat pundhak"
         ],
@@ -9334,6 +9422,7 @@
           "ngangkat pundhak",
           "ora gati",
           "ora sudi",
+          "ragu",
           "wong wadon",
           "wong wadon ngangkat pundhak"
         ],
@@ -9348,6 +9437,7 @@
           "ngangkat pundhak",
           "ora gati",
           "ora sudi",
+          "ragu",
           "wong wadon",
           "wong wadon ngangkat pundhak"
         ],
@@ -9362,6 +9452,7 @@
           "ngangkat pundhak",
           "ora gati",
           "ora sudi",
+          "ragu",
           "wong wadon",
           "wong wadon ngangkat pundhak"
         ],
@@ -9376,6 +9467,7 @@
           "ngangkat pundhak",
           "ora gati",
           "ora sudi",
+          "ragu",
           "wong wadon",
           "wong wadon ngangkat pundhak"
         ],
@@ -12646,46 +12738,51 @@
       "💂🏻": {
         "default": [
           "kulit putih",
-          "prejurit"
+          "panjaga",
+          "prajurit"
         ],
         "tts": [
-          "prejurit: kulit putih"
+          "panjaga: kulit putih"
         ]
       },
       "💂🏼": {
         "default": [
           "kulit putih langsep",
-          "prejurit"
+          "panjaga",
+          "prajurit"
         ],
         "tts": [
-          "prejurit: kulit putih langsep"
+          "panjaga: kulit putih langsep"
         ]
       },
       "💂🏽": {
         "default": [
           "kulit kuning",
-          "prejurit"
+          "panjaga",
+          "prajurit"
         ],
         "tts": [
-          "prejurit: kulit kuning"
+          "panjaga: kulit kuning"
         ]
       },
       "💂🏾": {
         "default": [
           "kulit sawo mateng",
-          "prejurit"
+          "panjaga",
+          "prajurit"
         ],
         "tts": [
-          "prejurit: kulit sawo mateng"
+          "panjaga: kulit sawo mateng"
         ]
       },
       "💂🏿": {
         "default": [
           "kulit ireng",
-          "prejurit"
+          "panjaga",
+          "prajurit"
         ],
         "tts": [
-          "prejurit: kulit ireng"
+          "panjaga: kulit ireng"
         ]
       },
       "💂🏻‍♂": {
@@ -12695,7 +12792,7 @@
           "prejurit"
         ],
         "tts": [
-          "prejurit lanang: kulit putih"
+          "panjaga lanang: kulit putih"
         ]
       },
       "💂🏼‍♂": {
@@ -12705,7 +12802,7 @@
           "prejurit"
         ],
         "tts": [
-          "prejurit lanang: kulit putih langsep"
+          "panjaga lanang: kulit putih langsep"
         ]
       },
       "💂🏽‍♂": {
@@ -12715,7 +12812,7 @@
           "prejurit"
         ],
         "tts": [
-          "prejurit lanang: kulit kuning"
+          "panjaga lanang: kulit kuning"
         ]
       },
       "💂🏾‍♂": {
@@ -12725,7 +12822,7 @@
           "prejurit"
         ],
         "tts": [
-          "prejurit lanang: kulit sawo mateng"
+          "panjaga lanang: kulit sawo mateng"
         ]
       },
       "💂🏿‍♂": {
@@ -12735,7 +12832,7 @@
           "prejurit"
         ],
         "tts": [
-          "prejurit lanang: kulit ireng"
+          "panjaga lanang: kulit ireng"
         ]
       },
       "💂🏻‍♀": {
@@ -12853,7 +12950,8 @@
           "bangunan",
           "buruh",
           "helem",
-          "kulit putih"
+          "kulit putih",
+          "ndandani"
         ],
         "tts": [
           "buruh bangunan: kulit putih"
@@ -12864,7 +12962,8 @@
           "bangunan",
           "buruh",
           "helem",
-          "kulit putih langsep"
+          "kulit putih langsep",
+          "ndandani"
         ],
         "tts": [
           "buruh bangunan: kulit putih langsep"
@@ -12875,7 +12974,8 @@
           "bangunan",
           "buruh",
           "helem",
-          "kulit kuning"
+          "kulit kuning",
+          "ndandani"
         ],
         "tts": [
           "buruh bangunan: kulit kuning"
@@ -12886,7 +12986,8 @@
           "bangunan",
           "buruh",
           "helem",
-          "kulit sawo mateng"
+          "kulit sawo mateng",
+          "ndandani"
         ],
         "tts": [
           "buruh bangunan: kulit sawo mateng"
@@ -12897,7 +12998,8 @@
           "bangunan",
           "buruh",
           "helem",
-          "kulit ireng"
+          "kulit ireng",
+          "ndandani"
         ],
         "tts": [
           "buruh bangunan: kulit ireng"
@@ -14381,7 +14483,6 @@
       "🤶🏻": {
         "default": [
           "ibu",
-          "Ibu Klas",
           "Klas",
           "kulit putih",
           "Natal",
@@ -14394,7 +14495,6 @@
       "🤶🏼": {
         "default": [
           "ibu",
-          "Ibu Klas",
           "Klas",
           "kulit putih langsep",
           "Natal",
@@ -14407,7 +14507,6 @@
       "🤶🏽": {
         "default": [
           "ibu",
-          "Ibu Klas",
           "Klas",
           "kulit kuning",
           "Natal",
@@ -14420,7 +14519,6 @@
       "🤶🏾": {
         "default": [
           "ibu",
-          "Ibu Klas",
           "Klas",
           "kulit sawo mateng",
           "Natal",
@@ -14433,7 +14531,6 @@
       "🤶🏿": {
         "default": [
           "ibu",
-          "Ibu Klas",
           "Klas",
           "kulit ireng",
           "Natal",
@@ -14446,8 +14543,9 @@
       "🧑🏻‍🎄": {
         "default": [
           "bapa/ibu klas",
-          "Klas, natal",
-          "kulit putih"
+          "Klas",
+          "kulit putih",
+          "natal"
         ],
         "tts": [
           "bapa/ibu klas: kulit putih"
@@ -14456,8 +14554,9 @@
       "🧑🏼‍🎄": {
         "default": [
           "bapa/ibu klas",
-          "Klas, natal",
-          "kulit putih langsep"
+          "Klas",
+          "kulit putih langsep",
+          "natal"
         ],
         "tts": [
           "bapa/ibu klas: kulit putih langsep"
@@ -14466,8 +14565,9 @@
       "🧑🏽‍🎄": {
         "default": [
           "bapa/ibu klas",
-          "Klas, natal",
-          "kulit kuning"
+          "Klas",
+          "kulit kuning",
+          "natal"
         ],
         "tts": [
           "bapa/ibu klas: kulit kuning"
@@ -14476,8 +14576,9 @@
       "🧑🏾‍🎄": {
         "default": [
           "bapa/ibu klas",
-          "Klas, natal",
-          "kulit sawo mateng"
+          "Klas",
+          "kulit sawo mateng",
+          "natal"
         ],
         "tts": [
           "bapa/ibu klas: kulit sawo mateng"
@@ -14486,8 +14587,9 @@
       "🧑🏿‍🎄": {
         "default": [
           "bapa/ibu klas",
-          "Klas, natal",
-          "kulit ireng"
+          "Klas",
+          "kulit ireng",
+          "natal"
         ],
         "tts": [
           "bapa/ibu klas: kulit ireng"
@@ -15069,7 +15171,9 @@
           "dewi",
           "kulit putih",
           "Oberon",
+          "peri",
           "Puck",
+          "suwiwi",
           "Titania"
         ],
         "tts": [
@@ -15082,7 +15186,9 @@
           "dewi",
           "kulit putih langsep",
           "Oberon",
+          "peri",
           "Puck",
+          "suwiwi",
           "Titania"
         ],
         "tts": [
@@ -15095,7 +15201,9 @@
           "dewi",
           "kulit kuning",
           "Oberon",
+          "peri",
           "Puck",
+          "suwiwi",
           "Titania"
         ],
         "tts": [
@@ -15108,7 +15216,9 @@
           "dewi",
           "kulit sawo mateng",
           "Oberon",
+          "peri",
           "Puck",
+          "suwiwi",
           "Titania"
         ],
         "tts": [
@@ -15121,7 +15231,9 @@
           "dewi",
           "kulit ireng",
           "Oberon",
+          "peri",
           "Puck",
+          "suwiwi",
           "Titania"
         ],
         "tts": [
@@ -15546,6 +15658,7 @@
       "🧝🏻": {
         "default": [
           "ajaib",
+          "elf",
           "kulit putih",
           "peri"
         ],
@@ -15556,6 +15669,7 @@
       "🧝🏼": {
         "default": [
           "ajaib",
+          "elf",
           "kulit putih langsep",
           "peri"
         ],
@@ -15566,6 +15680,7 @@
       "🧝🏽": {
         "default": [
           "ajaib",
+          "elf",
           "kulit kuning",
           "peri"
         ],
@@ -15576,6 +15691,7 @@
       "🧝🏾": {
         "default": [
           "ajaib",
+          "elf",
           "kulit sawo mateng",
           "peri"
         ],
@@ -15586,6 +15702,7 @@
       "🧝🏿": {
         "default": [
           "ajaib",
+          "elf",
           "kulit ireng",
           "peri"
         ],
@@ -16213,6 +16330,243 @@
           "wong wadon mlaku: kulit ireng"
         ]
       },
+      "🚶‍➡": {
+        "default": [
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wong mlaku"
+        ],
+        "tts": [
+          "wong mlaku: madhep tengen"
+        ]
+      },
+      "🚶🏻‍➡": {
+        "default": [
+          "kulit putih",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wong mlaku"
+        ],
+        "tts": [
+          "wong mlaku: kulit putih, madhep tengen"
+        ]
+      },
+      "🚶🏼‍➡": {
+        "default": [
+          "kulit putih langsep",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wong mlaku"
+        ],
+        "tts": [
+          "wong mlaku: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "🚶🏽‍➡": {
+        "default": [
+          "kulit kuning",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wong mlaku"
+        ],
+        "tts": [
+          "wong mlaku: kulit kuning, madhep tengen"
+        ]
+      },
+      "🚶🏾‍➡": {
+        "default": [
+          "kulit sawo mateng",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wong mlaku"
+        ],
+        "tts": [
+          "wong mlaku: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "🚶🏿‍➡": {
+        "default": [
+          "kulit ireng",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wong mlaku"
+        ],
+        "tts": [
+          "wong mlaku: kulit ireng, madhep tengen"
+        ]
+      },
+      "🚶‍♀‍➡": {
+        "default": [
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wadon",
+          "wong mlaku",
+          "wong wadon mlaku"
+        ],
+        "tts": [
+          "wong wadon mlaku: madhep tengen"
+        ]
+      },
+      "🚶🏻‍♀‍➡": {
+        "default": [
+          "kulit putih",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wadon",
+          "wong mlaku",
+          "wong wadon mlaku"
+        ],
+        "tts": [
+          "wong wadon mlaku: kulit putih, madhep tengen"
+        ]
+      },
+      "🚶🏼‍♀‍➡": {
+        "default": [
+          "kulit putih langsep",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wadon",
+          "wong mlaku",
+          "wong wadon mlaku"
+        ],
+        "tts": [
+          "wong wadon mlaku: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "🚶🏽‍♀‍➡": {
+        "default": [
+          "kulit kuning",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wadon",
+          "wong mlaku",
+          "wong wadon mlaku"
+        ],
+        "tts": [
+          "wong wadon mlaku: kulit kuning, madhep tengen"
+        ]
+      },
+      "🚶🏾‍♀‍➡": {
+        "default": [
+          "kulit sawo mateng",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wadon",
+          "wong mlaku",
+          "wong wadon mlaku"
+        ],
+        "tts": [
+          "wong wadon mlaku: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "🚶🏿‍♀‍➡": {
+        "default": [
+          "kulit ireng",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wadon",
+          "wong mlaku",
+          "wong wadon mlaku"
+        ],
+        "tts": [
+          "wong wadon mlaku: kulit ireng, madhep tengen"
+        ]
+      },
+      "🚶‍♂‍➡": {
+        "default": [
+          "lanang",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wong lanang mlaku",
+          "wong mlaku"
+        ],
+        "tts": [
+          "wong lanang mlaku: madhep tengen"
+        ]
+      },
+      "🚶🏻‍♂‍➡": {
+        "default": [
+          "kulit putih",
+          "lanang",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wong lanang mlaku",
+          "wong mlaku"
+        ],
+        "tts": [
+          "wong lanang mlaku: kulit putih, madhep tengen"
+        ]
+      },
+      "🚶🏼‍♂‍➡": {
+        "default": [
+          "kulit putih langsep",
+          "lanang",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wong lanang mlaku",
+          "wong mlaku"
+        ],
+        "tts": [
+          "wong lanang mlaku: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "🚶🏽‍♂‍➡": {
+        "default": [
+          "kulit kuning",
+          "lanang",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wong lanang mlaku",
+          "wong mlaku"
+        ],
+        "tts": [
+          "wong lanang mlaku: kulit kuning, madhep tengen"
+        ]
+      },
+      "🚶🏾‍♂‍➡": {
+        "default": [
+          "kulit sawo mateng",
+          "lanang",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wong lanang mlaku",
+          "wong mlaku"
+        ],
+        "tts": [
+          "wong lanang mlaku: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "🚶🏿‍♂‍➡": {
+        "default": [
+          "kulit ireng",
+          "lanang",
+          "madhep",
+          "mlaku-mlaku",
+          "tengen",
+          "wong lanang mlaku",
+          "wong mlaku"
+        ],
+        "tts": [
+          "wong lanang mlaku: kulit ireng, madhep tengen"
+        ]
+      },
       "🧍🏻": {
         "default": [
           "adeg",
@@ -16538,6 +16892,231 @@
           "wong wadon timpuh: kulit ireng"
         ]
       },
+      "🧎‍➡": {
+        "default": [
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wong timpuh"
+        ],
+        "tts": [
+          "wong timpuh: madhep tengen"
+        ]
+      },
+      "🧎🏻‍➡": {
+        "default": [
+          "kulit putih",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wong timpuh"
+        ],
+        "tts": [
+          "wong timpuh: kulit putih, madhep tengen"
+        ]
+      },
+      "🧎🏼‍➡": {
+        "default": [
+          "kulit putih langsep",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wong timpuh"
+        ],
+        "tts": [
+          "wong timpuh: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "🧎🏽‍➡": {
+        "default": [
+          "kulit kuning",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wong timpuh"
+        ],
+        "tts": [
+          "wong timpuh: kulit kuning, madhep tengen"
+        ]
+      },
+      "🧎🏾‍➡": {
+        "default": [
+          "kulit sawo mateng",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wong timpuh"
+        ],
+        "tts": [
+          "wong timpuh: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "🧎🏿‍➡": {
+        "default": [
+          "kulit ireng",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wong timpuh"
+        ],
+        "tts": [
+          "wong timpuh: kulit ireng, madhep tengen"
+        ]
+      },
+      "🧎‍♀‍➡": {
+        "default": [
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wadon",
+          "wong wadon timpuh"
+        ],
+        "tts": [
+          "wong wadon timpuh: madhep tengen"
+        ]
+      },
+      "🧎🏻‍♀‍➡": {
+        "default": [
+          "kulit putih",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wadon",
+          "wong wadon timpuh"
+        ],
+        "tts": [
+          "wong wadon timpuh: kulit putih, madhep tengen"
+        ]
+      },
+      "🧎🏼‍♀‍➡": {
+        "default": [
+          "kulit putih langsep",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wadon",
+          "wong wadon timpuh"
+        ],
+        "tts": [
+          "wong wadon timpuh: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "🧎🏽‍♀‍➡": {
+        "default": [
+          "kulit kuning",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wadon",
+          "wong wadon timpuh"
+        ],
+        "tts": [
+          "wong wadon timpuh: kulit kuning, madhep tengen"
+        ]
+      },
+      "🧎🏾‍♀‍➡": {
+        "default": [
+          "kulit sawo mateng",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wadon",
+          "wong wadon timpuh"
+        ],
+        "tts": [
+          "wong wadon timpuh: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "🧎🏿‍♀‍➡": {
+        "default": [
+          "kulit ireng",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wadon",
+          "wong wadon timpuh"
+        ],
+        "tts": [
+          "wong wadon timpuh: kulit ireng, madhep tengen"
+        ]
+      },
+      "🧎‍♂‍➡": {
+        "default": [
+          "lanang",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wong lanang timpuh"
+        ],
+        "tts": [
+          "wong lanang timpuh: madhep tengen"
+        ]
+      },
+      "🧎🏻‍♂‍➡": {
+        "default": [
+          "kulit putih",
+          "lanang",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wong lanang timpuh"
+        ],
+        "tts": [
+          "wong lanang timpuh: kulit putih, madhep tengen"
+        ]
+      },
+      "🧎🏼‍♂‍➡": {
+        "default": [
+          "kulit putih langsep",
+          "lanang",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wong lanang timpuh"
+        ],
+        "tts": [
+          "wong lanang timpuh: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "🧎🏽‍♂‍➡": {
+        "default": [
+          "kulit kuning",
+          "lanang",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wong lanang timpuh"
+        ],
+        "tts": [
+          "wong lanang timpuh: kulit kuning, madhep tengen"
+        ]
+      },
+      "🧎🏾‍♂‍➡": {
+        "default": [
+          "kulit sawo mateng",
+          "lanang",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wong lanang timpuh"
+        ],
+        "tts": [
+          "wong lanang timpuh: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "🧎🏿‍♂‍➡": {
+        "default": [
+          "kulit ireng",
+          "lanang",
+          "madhep",
+          "tengen",
+          "timpuh",
+          "wong lanang timpuh"
+        ],
+        "tts": [
+          "wong lanang timpuh: kulit ireng, madhep tengen"
+        ]
+      },
       "🧑🏻‍🦯": {
         "default": [
           "kalancaran",
@@ -16596,6 +17175,89 @@
         ],
         "tts": [
           "wong nyekeli teken: kulit ireng"
+        ]
+      },
+      "🧑‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "madhep",
+          "tengen",
+          "wong nyekeli teken",
+          "wong nyekeli teken putih",
+          "wuta"
+        ],
+        "tts": [
+          "wong nyekeli teken: madhep tengen"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih",
+          "madhep",
+          "tengen",
+          "wong nyekeli teken",
+          "wong nyekeli teken putih",
+          "wuta"
+        ],
+        "tts": [
+          "wong nyekeli teken: kulit putih, madhep tengen"
+        ]
+      },
+      "🧑🏼‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih langsep",
+          "madhep",
+          "tengen",
+          "wong nyekeli teken",
+          "wong nyekeli teken putih",
+          "wuta"
+        ],
+        "tts": [
+          "wong nyekeli teken: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit kuning",
+          "madhep",
+          "tengen",
+          "wong nyekeli teken",
+          "wong nyekeli teken putih",
+          "wuta"
+        ],
+        "tts": [
+          "wong nyekeli teken: kulit kuning, madhep tengen"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit sawo mateng",
+          "madhep",
+          "tengen",
+          "wong nyekeli teken",
+          "wong nyekeli teken putih",
+          "wuta"
+        ],
+        "tts": [
+          "wong nyekeli teken: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit ireng",
+          "madhep",
+          "tengen",
+          "wong nyekeli teken",
+          "wong nyekeli teken putih",
+          "wuta"
+        ],
+        "tts": [
+          "wong nyekeli teken: kulit ireng, madhep tengen"
         ]
       },
       "👨🏻‍🦯": {
@@ -16658,6 +17320,89 @@
           "wong lanang nyekeli teken: kulit ireng"
         ]
       },
+      "👨‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang nyekeli teken",
+          "wuta"
+        ],
+        "tts": [
+          "wong lanang nyekeli teken: madhep tengen"
+        ]
+      },
+      "👨🏻‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang nyekeli teken",
+          "wuta"
+        ],
+        "tts": [
+          "wong lanang nyekeli teken: kulit putih, madhep tengen"
+        ]
+      },
+      "👨🏼‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih langsep",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang nyekeli teken",
+          "wuta"
+        ],
+        "tts": [
+          "wong lanang nyekeli teken: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "👨🏽‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit kuning",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang nyekeli teken",
+          "wuta"
+        ],
+        "tts": [
+          "wong lanang nyekeli teken: kulit kuning, madhep tengen"
+        ]
+      },
+      "👨🏾‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit sawo mateng",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang nyekeli teken",
+          "wuta"
+        ],
+        "tts": [
+          "wong lanang nyekeli teken: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "👨🏿‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit ireng",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang nyekeli teken",
+          "wuta"
+        ],
+        "tts": [
+          "wong lanang nyekeli teken: kulit ireng, madhep tengen"
+        ]
+      },
       "👩🏻‍🦯": {
         "default": [
           "kalancaran",
@@ -16718,6 +17463,89 @@
           "wong wadon nyekeli teken: kulit ireng"
         ]
       },
+      "👩‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon nyekeli teken",
+          "wuta"
+        ],
+        "tts": [
+          "wong wadon nyekeli teken: madhep tengen"
+        ]
+      },
+      "👩🏻‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon nyekeli teken",
+          "wuta"
+        ],
+        "tts": [
+          "wong wadon nyekeli teken: kulit putih, madhep tengen"
+        ]
+      },
+      "👩🏼‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih langsep",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon nyekeli teken",
+          "wuta"
+        ],
+        "tts": [
+          "wong wadon nyekeli teken: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "👩🏽‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit kuning",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon nyekeli teken",
+          "wuta"
+        ],
+        "tts": [
+          "wong wadon nyekeli teken: kulit kuning, madhep tengen"
+        ]
+      },
+      "👩🏾‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit sawo mateng",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon nyekeli teken",
+          "wuta"
+        ],
+        "tts": [
+          "wong wadon nyekeli teken: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "👩🏿‍🦯‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit ireng",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon nyekeli teken",
+          "wuta"
+        ],
+        "tts": [
+          "wong wadon nyekeli teken: kulit ireng, madhep tengen"
+        ]
+      },
       "🧑🏻‍🦼": {
         "default": [
           "kalancaran",
@@ -16771,6 +17599,83 @@
         ],
         "tts": [
           "wong numpak kursi rodha mesin: kulit ireng"
+        ]
+      },
+      "🧑‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wong numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong numpak kursi rodha mesin: madhep tengen"
+        ]
+      },
+      "🧑🏻‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wong numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong numpak kursi rodha mesin: kulit putih, madhep tengen"
+        ]
+      },
+      "🧑🏼‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih langsep",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wong numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong numpak kursi rodha mesin: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "🧑🏽‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit kuning",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wong numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong numpak kursi rodha mesin: kulit kuning, madhep tengen"
+        ]
+      },
+      "🧑🏾‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit sawo mateng",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wong numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong numpak kursi rodha mesin: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "🧑🏿‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit ireng",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wong numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong numpak kursi rodha mesin: kulit ireng, madhep tengen"
         ]
       },
       "👨🏻‍🦼": {
@@ -16833,6 +17738,89 @@
           "wong lanang numpak kursi rodha mesin: kulit ireng"
         ]
       },
+      "👨‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kursi rodha",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong lanang numpak kursi rodha mesin: madhep tengen"
+        ]
+      },
+      "👨🏻‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih",
+          "kursi rodha",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong lanang numpak kursi rodha mesin: kulit putih, madhep tengen"
+        ]
+      },
+      "👨🏼‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih langsep",
+          "kursi rodha",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong lanang numpak kursi rodha mesin: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "👨🏽‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit kuning",
+          "kursi rodha",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong lanang numpak kursi rodha mesin: kulit kuning, madhep tengen"
+        ]
+      },
+      "👨🏾‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit sawo mateng",
+          "kursi rodha",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong lanang numpak kursi rodha mesin: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "👨🏿‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit ireng",
+          "kursi rodha",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong lanang numpak kursi rodha mesin: kulit ireng, madhep tengen"
+        ]
+      },
       "👩🏻‍🦼": {
         "default": [
           "kalancaran",
@@ -16893,6 +17881,89 @@
           "wong wadon numpak kursi rodha mesin: kulit ireng"
         ]
       },
+      "👩‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong wadon numpak kursi rodha mesin: madhep tengen"
+        ]
+      },
+      "👩🏻‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong wadon numpak kursi rodha mesin: kulit putih, madhep tengen"
+        ]
+      },
+      "👩🏼‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih langsep",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong wadon numpak kursi rodha mesin: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "👩🏽‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit kuning",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong wadon numpak kursi rodha mesin: kulit kuning, madhep tengen"
+        ]
+      },
+      "👩🏾‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit sawo mateng",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong wadon numpak kursi rodha mesin: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "👩🏿‍🦼‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit ireng",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon numpak kursi rodha mesin"
+        ],
+        "tts": [
+          "wong wadon numpak kursi rodha mesin: kulit ireng, madhep tengen"
+        ]
+      },
       "🧑🏻‍🦽": {
         "default": [
           "kalancaran",
@@ -16946,6 +18017,83 @@
         ],
         "tts": [
           "wong numpak kursi rodha manual: kulit ireng"
+        ]
+      },
+      "🧑‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wong numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong numpak kursi rodha manual: madhep tengen"
+        ]
+      },
+      "🧑🏻‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wong numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong numpak kursi rodha manual: kulit putih, madhep tengen"
+        ]
+      },
+      "🧑🏼‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih langsep",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wong numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong numpak kursi rodha manual: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "🧑🏽‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit kuning",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wong numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong numpak kursi rodha manual: kulit kuning, madhep tengen"
+        ]
+      },
+      "🧑🏾‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit sawo mateng",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wong numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong numpak kursi rodha manual: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "🧑🏿‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit ireng",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wong numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong numpak kursi rodha manual: kulit ireng, madhep tengen"
         ]
       },
       "👨🏻‍🦽": {
@@ -17008,6 +18156,89 @@
           "wong lanang numpak kursi rodha manual: kulit ireng"
         ]
       },
+      "👨‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kursi rodha",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong lanang numpak kursi rodha manual: madhep tengen"
+        ]
+      },
+      "👨🏻‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih",
+          "kursi rodha",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong lanang numpak kursi rodha manual: kulit putih, madhep tengen"
+        ]
+      },
+      "👨🏼‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih langsep",
+          "kursi rodha",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong lanang numpak kursi rodha manual: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "👨🏽‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit kuning",
+          "kursi rodha",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong lanang numpak kursi rodha manual: kulit kuning, madhep tengen"
+        ]
+      },
+      "👨🏾‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit sawo mateng",
+          "kursi rodha",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong lanang numpak kursi rodha manual: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "👨🏿‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit ireng",
+          "kursi rodha",
+          "lanang",
+          "madhep",
+          "tengen",
+          "wong lanang numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong lanang numpak kursi rodha manual: kulit ireng, madhep tengen"
+        ]
+      },
       "👩🏻‍🦽": {
         "default": [
           "kalancaran",
@@ -17066,6 +18297,89 @@
         ],
         "tts": [
           "wong wadon numpak kursi rodha manual: kulit ireng"
+        ]
+      },
+      "👩‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong wadon numpak kursi rodha manual: madhep tengen"
+        ]
+      },
+      "👩🏻‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong wadon numpak kursi rodha manual: kulit putih, madhep tengen"
+        ]
+      },
+      "👩🏼‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit putih langsep",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong wadon numpak kursi rodha manual: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "👩🏽‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit kuning",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong wadon numpak kursi rodha manual: kulit kuning, madhep tengen"
+        ]
+      },
+      "👩🏾‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit sawo mateng",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong wadon numpak kursi rodha manual: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "👩🏿‍🦽‍➡": {
+        "default": [
+          "kalancaran",
+          "kulit ireng",
+          "kursi rodha",
+          "madhep",
+          "tengen",
+          "wadon",
+          "wong wadon numpak kursi rodha manual"
+        ],
+        "tts": [
+          "wong wadon numpak kursi rodha manual: kulit ireng, madhep tengen"
         ]
       },
       "🏃🏻": {
@@ -17251,6 +18565,261 @@
         ],
         "tts": [
           "wong wadon mlayu: kulit ireng"
+        ]
+      },
+      "🏃‍➡": {
+        "default": [
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wong mlayu"
+        ],
+        "tts": [
+          "wong mlayu: madhep tengen"
+        ]
+      },
+      "🏃🏻‍➡": {
+        "default": [
+          "kulit putih",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wong mlayu"
+        ],
+        "tts": [
+          "wong mlayu: kulit putih, madhep tengen"
+        ]
+      },
+      "🏃🏼‍➡": {
+        "default": [
+          "kulit putih langsep",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wong mlayu"
+        ],
+        "tts": [
+          "wong mlayu: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "🏃🏽‍➡": {
+        "default": [
+          "kulit kuning",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wong mlayu"
+        ],
+        "tts": [
+          "wong mlayu: kulit kuning, madhep tengen"
+        ]
+      },
+      "🏃🏾‍➡": {
+        "default": [
+          "kulit sawo mateng",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wong mlayu"
+        ],
+        "tts": [
+          "wong mlayu: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "🏃🏿‍➡": {
+        "default": [
+          "kulit ireng",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wong mlayu"
+        ],
+        "tts": [
+          "wong mlayu: kulit ireng, madhep tengen"
+        ]
+      },
+      "🏃‍♀‍➡": {
+        "default": [
+          "balapan",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wadon",
+          "wong wadon mlayu"
+        ],
+        "tts": [
+          "wong wadon mlayu: madhep tengen"
+        ]
+      },
+      "🏃🏻‍♀‍➡": {
+        "default": [
+          "balapan",
+          "kulit putih",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wadon",
+          "wong wadon mlayu"
+        ],
+        "tts": [
+          "wong wadon mlayu: kulit putih, madhep tengen"
+        ]
+      },
+      "🏃🏼‍♀‍➡": {
+        "default": [
+          "balapan",
+          "kulit putih langsep",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wadon",
+          "wong wadon mlayu"
+        ],
+        "tts": [
+          "wong wadon mlayu: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "🏃🏽‍♀‍➡": {
+        "default": [
+          "balapan",
+          "kulit kuning",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wadon",
+          "wong wadon mlayu"
+        ],
+        "tts": [
+          "wong wadon mlayu: kulit kuning, madhep tengen"
+        ]
+      },
+      "🏃🏾‍♀‍➡": {
+        "default": [
+          "balapan",
+          "kulit sawo mateng",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wadon",
+          "wong wadon mlayu"
+        ],
+        "tts": [
+          "wong wadon mlayu: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "🏃🏿‍♀‍➡": {
+        "default": [
+          "balapan",
+          "kulit ireng",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wadon",
+          "wong wadon mlayu"
+        ],
+        "tts": [
+          "wong wadon mlayu: kulit ireng, madhep tengen"
+        ]
+      },
+      "🏃‍♂‍➡": {
+        "default": [
+          "balapan",
+          "lanang",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wong lanang mlayu"
+        ],
+        "tts": [
+          "wong lanang mlayu: madhep tengen"
+        ]
+      },
+      "🏃🏻‍♂‍➡": {
+        "default": [
+          "balapan",
+          "kulit putih",
+          "lanang",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wong lanang mlayu"
+        ],
+        "tts": [
+          "wong lanang mlayu: kulit putih, madhep tengen"
+        ]
+      },
+      "🏃🏼‍♂‍➡": {
+        "default": [
+          "balapan",
+          "kulit putih langsep",
+          "lanang",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wong lanang mlayu"
+        ],
+        "tts": [
+          "wong lanang mlayu: kulit putih langsep, madhep tengen"
+        ]
+      },
+      "🏃🏽‍♂‍➡": {
+        "default": [
+          "balapan",
+          "kulit kuning",
+          "lanang",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wong lanang mlayu"
+        ],
+        "tts": [
+          "wong lanang mlayu: kulit kuning, madhep tengen"
+        ]
+      },
+      "🏃🏾‍♂‍➡": {
+        "default": [
+          "balapan",
+          "kulit sawo mateng",
+          "lanang",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wong lanang mlayu"
+        ],
+        "tts": [
+          "wong lanang mlayu: kulit sawo mateng, madhep tengen"
+        ]
+      },
+      "🏃🏿‍♂‍➡": {
+        "default": [
+          "balapan",
+          "kulit ireng",
+          "lanang",
+          "madhep",
+          "maraton",
+          "mlayu",
+          "tengen",
+          "wong lanang mlayu"
+        ],
+        "tts": [
+          "wong lanang mlayu: kulit ireng, madhep tengen"
         ]
       },
       "💃🏻": {
@@ -21880,8 +23449,9 @@
       },
       "👨‍👩‍👦": {
         "default": [
+          "anak",
           "bocah lanang",
-          "kluwarga",
+          "kulawarga",
           "wong lanang",
           "wong wadon"
         ],
@@ -21891,8 +23461,9 @@
       },
       "👨‍👩‍👧": {
         "default": [
+          "anak",
           "bocah wadon",
-          "kluwarga",
+          "kulawarga",
           "wong lanang",
           "wong wadon"
         ],
@@ -21902,9 +23473,10 @@
       },
       "👨‍👩‍👧‍👦": {
         "default": [
+          "anak",
           "bocah lanang",
           "bocah wadon",
-          "kluwarga",
+          "kulawarga",
           "wong lanang",
           "wong wadon"
         ],
@@ -21914,8 +23486,9 @@
       },
       "👨‍👩‍👦‍👦": {
         "default": [
+          "anak",
           "bocah lanang",
-          "kluwarga",
+          "kulawarga",
           "wong lanang",
           "wong wadon"
         ],
@@ -21925,8 +23498,9 @@
       },
       "👨‍👩‍👧‍👧": {
         "default": [
+          "anak",
           "bocah wadon",
-          "kluwarga",
+          "kulawarga",
           "wong lanang",
           "wong wadon"
         ],
@@ -21936,8 +23510,9 @@
       },
       "👨‍👨‍👦": {
         "default": [
+          "anak",
           "bocah lanang",
-          "kluwarga",
+          "kulawarga",
           "wong lanang"
         ],
         "tts": [
@@ -21946,8 +23521,9 @@
       },
       "👨‍👨‍👧": {
         "default": [
+          "anak",
           "bocah wadon",
-          "kluwarga",
+          "kulawarga",
           "wong lanang"
         ],
         "tts": [
@@ -21956,9 +23532,10 @@
       },
       "👨‍👨‍👧‍👦": {
         "default": [
+          "anak",
           "bocah lanang",
           "bocah wadon",
-          "kluwarga",
+          "kulawarga",
           "wong lanang"
         ],
         "tts": [
@@ -21967,8 +23544,9 @@
       },
       "👨‍👨‍👦‍👦": {
         "default": [
+          "anak",
           "bocah lanang",
-          "kluwarga",
+          "kulawarga",
           "wong lanang"
         ],
         "tts": [
@@ -21977,8 +23555,9 @@
       },
       "👨‍👨‍👧‍👧": {
         "default": [
+          "anak",
           "bocah wadon",
-          "kluwarga",
+          "kulawarga",
           "wong lanang"
         ],
         "tts": [
@@ -21987,8 +23566,9 @@
       },
       "👩‍👩‍👦": {
         "default": [
+          "anak",
           "bocah lanang",
-          "kluwarga",
+          "kulawarga",
           "wong wadon"
         ],
         "tts": [
@@ -21997,8 +23577,9 @@
       },
       "👩‍👩‍👧": {
         "default": [
+          "anak",
           "bocah wadon",
-          "kluwarga",
+          "kulawarga",
           "wong wadon"
         ],
         "tts": [
@@ -22007,9 +23588,10 @@
       },
       "👩‍👩‍👧‍👦": {
         "default": [
+          "anak",
           "bocah lanang",
           "bocah wadon",
-          "kluwarga",
+          "kulawarga",
           "wong wadon"
         ],
         "tts": [
@@ -22018,8 +23600,9 @@
       },
       "👩‍👩‍👦‍👦": {
         "default": [
+          "anak",
           "bocah lanang",
-          "kluwarga",
+          "kulawarga",
           "wong wadon"
         ],
         "tts": [
@@ -22028,8 +23611,9 @@
       },
       "👩‍👩‍👧‍👧": {
         "default": [
+          "anak",
           "bocah wadon",
-          "kluwarga",
+          "kulawarga",
           "wong wadon"
         ],
         "tts": [
@@ -22038,8 +23622,9 @@
       },
       "👨‍👦": {
         "default": [
+          "anak",
           "bocah lanang",
-          "kluwarga",
+          "kulawarga",
           "wong lanang"
         ],
         "tts": [
@@ -22048,8 +23633,9 @@
       },
       "👨‍👦‍👦": {
         "default": [
+          "anak",
           "bocah lanang",
-          "kluwarga",
+          "kulawarga",
           "wong lanang"
         ],
         "tts": [
@@ -22058,8 +23644,9 @@
       },
       "👨‍👧": {
         "default": [
+          "anak",
           "bocah wadon",
-          "kluwarga",
+          "kulawarga",
           "wong lanang"
         ],
         "tts": [
@@ -22068,9 +23655,10 @@
       },
       "👨‍👧‍👦": {
         "default": [
+          "anak",
           "bocah lanang",
           "bocah wadon",
-          "kluwarga",
+          "kulawarga",
           "wong lanang"
         ],
         "tts": [
@@ -22079,8 +23667,9 @@
       },
       "👨‍👧‍👧": {
         "default": [
+          "anak",
           "bocah wadon",
-          "kluwarga",
+          "kulawarga",
           "wong lanang"
         ],
         "tts": [
@@ -22089,8 +23678,9 @@
       },
       "👩‍👦": {
         "default": [
+          "anak",
           "bocah lanang",
-          "kluwarga",
+          "kulawarga",
           "wong wadon"
         ],
         "tts": [
@@ -22099,8 +23689,9 @@
       },
       "👩‍👦‍👦": {
         "default": [
+          "anak",
           "bocah lanang",
-          "kluwarga",
+          "kulawarga",
           "wong wadon"
         ],
         "tts": [
@@ -22109,8 +23700,9 @@
       },
       "👩‍👧": {
         "default": [
+          "anak",
           "bocah wadon",
-          "kluwarga",
+          "kulawarga",
           "wong wadon"
         ],
         "tts": [
@@ -22119,9 +23711,10 @@
       },
       "👩‍👧‍👦": {
         "default": [
+          "anak",
           "bocah lanang",
           "bocah wadon",
-          "kluwarga",
+          "kulawarga",
           "wong wadon"
         ],
         "tts": [
@@ -22130,8 +23723,9 @@
       },
       "👩‍👧‍👧": {
         "default": [
+          "anak",
           "bocah wadon",
-          "kluwarga",
+          "kulawarga",
           "wong wadon"
         ],
         "tts": [
@@ -22399,7 +23993,7 @@
           "gendera"
         ],
         "tts": [
-          "gendera: Bahamas"
+          "gendera: Bahama"
         ]
       },
       "🇧🇹": {
@@ -23031,7 +24625,7 @@
           "gendera"
         ],
         "tts": [
-          "gendera: Wilayah Inggris nang Segoro Hindia"
+          "gendera: Wilayah Inggris ing Segara Hindia"
         ]
       },
       "🇮🇶": {

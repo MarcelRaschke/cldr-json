@@ -2,9 +2,6 @@
   "main": {
     "hy": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "hy"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — համատեղելիություն",
         "enclosed": "{0} — փակված",
         "extended": "{0} — ընդլայնված",
+        "facing-left": "{0} դեմքով՝ ձախ",
+        "facing-right": "{0} դեմքով՝ աջ",
         "historic": "{0} — պատմական",
         "miscellaneous": "{0} — խառը",
         "other": "{0} — այլ",

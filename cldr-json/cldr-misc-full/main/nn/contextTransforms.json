@@ -2,9 +2,6 @@
   "main": {
     "nn": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "nn"
       },
       "contextTransforms": {

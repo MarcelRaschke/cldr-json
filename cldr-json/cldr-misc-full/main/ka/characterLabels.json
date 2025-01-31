@@ -2,9 +2,6 @@
   "main": {
     "ka": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ka"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — თავსებადობა",
         "enclosed": "{0} — ჩართული",
         "extended": "{0} — გაფართოებული",
+        "facing-left": "{0} მარცხნივ მიმართული",
+        "facing-right": "{0} მარჯვნივ მიმართული",
         "historic": "{0} — ისტორიული",
         "miscellaneous": "{0} — სხვადასხვა",
         "other": "{0} — სხვა",

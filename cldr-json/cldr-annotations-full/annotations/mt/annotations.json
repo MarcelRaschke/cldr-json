@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "mt"
     },
     "annotations": {
@@ -3146,8 +3143,7 @@
           "klaws",
           "Milied",
           "missier",
-          "santa",
-          "Santa Klaws"
+          "santa"
         ],
         "tts": [
           "Santa Klaws"
@@ -4176,14 +4172,6 @@
           "koppja b’qalb"
         ]
       },
-      "👪": {
-        "default": [
-          "familja"
-        ],
-        "tts": [
-          "familja"
-        ]
-      },
       "🗣": {
         "default": [
           "jitkellmu",
@@ -4214,6 +4202,14 @@
         ],
         "tts": [
           "busti f’silwett"
+        ]
+      },
+      "👪": {
+        "default": [
+          "familja"
+        ],
+        "tts": [
+          "familja"
         ]
       },
       "👣": {
@@ -4972,6 +4968,37 @@
         ],
         "tts": [
           "qoxra spirali"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "Cancer",
+          "granċ",
+          "żodjaku"
+        ],
+        "tts": [
+          "granċ"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "frott tal-baħar",
+          "gamblu",
+          "ikel",
+          "żgħir"
+        ],
+        "tts": [
+          "gamblu"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "ikel",
+          "klamari",
+          "mollusk"
+        ],
+        "tts": [
+          "klamari"
         ]
       },
       "🐌": {
@@ -5978,37 +6005,6 @@
         ],
         "tts": [
           "kaxxa tat-takeout"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "Cancer",
-          "granċ",
-          "żodjaku"
-        ],
-        "tts": [
-          "granċ"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "frott tal-baħar",
-          "gamblu",
-          "ikel",
-          "żgħir"
-        ],
-        "tts": [
-          "gamblu"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "ikel",
-          "klamari",
-          "mollusk"
-        ],
-        "tts": [
-          "klamari"
         ]
       },
       "🍦": {
@@ -8754,8 +8750,7 @@
         "default": [
           "amerikan",
           "ballun",
-          "futbol",
-          "futbol Amerikan"
+          "futbol"
         ],
         "tts": [
           "futbol Amerikan"
@@ -9128,7 +9123,8 @@
           "arti, żfin u mużika",
           "maskra",
           "performattivi",
-          "teatru"
+          "teatru",
+          "żfin u mużika"
         ],
         "tts": [
           "arti, żfin u mużika"
@@ -12804,7 +12800,6 @@
       "Ⓜ": {
         "default": [
           "ċirku",
-          "ċirku M",
           "m"
         ],
         "tts": [

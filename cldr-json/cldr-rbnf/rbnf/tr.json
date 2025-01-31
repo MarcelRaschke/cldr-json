@@ -1,9 +1,6 @@
 {
   "rbnf": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "tr"
     },
     "rbnf": {

@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "zu"
     },
     "annotations": {
@@ -653,8 +650,7 @@
       },
       "@": {
         "default": [
-          "at-sign",
-          "E13.1–132"
+          "at-sign"
         ],
         "tts": [
           "at-sign"
@@ -662,10 +658,12 @@
       },
       "*": {
         "default": [
-          "E13.1–133"
+          "asterisk",
+          "star",
+          "wildcard"
         ],
         "tts": [
-          "E13.1–133"
+          "asterisk"
         ]
       },
       "/": {
@@ -694,8 +692,7 @@
       },
       "&": {
         "default": [
-          "ampersand",
-          "E13.1–125"
+          "ampersand"
         ],
         "tts": [
           "ampersand"
@@ -717,7 +714,6 @@
       },
       "%": {
         "default": [
-          "E13.1–127",
           "iphesenti"
         ],
         "tts": [
@@ -726,10 +722,14 @@
       },
       "‰": {
         "default": [
-          "E13.1–128"
+          "mil",
+          "mille",
+          "per",
+          "permil",
+          "permille"
         ],
         "tts": [
-          "E13.1–128"
+          "per mille"
         ]
       },
       "†": {
@@ -829,10 +829,12 @@
       },
       "`": {
         "default": [
-          "E13.1–137"
+          "accent",
+          "grave",
+          "tone"
         ],
         "tts": [
-          "E13.1–137"
+          "grave accent"
         ]
       },
       "´": {
@@ -851,7 +853,6 @@
           "amandla",
           "circumflex",
           "control",
-          "E13.1–139",
           "I-chevron",
           "inkomba",
           "isibonakaliso se-xor",
@@ -861,7 +862,7 @@
           "wedge"
         ],
         "tts": [
-          "E13.1–139"
+          "circumflex accent"
         ]
       },
       "¨": {
@@ -1495,6 +1496,127 @@
           "umcibisholo wedeshi ophezulu"
         ]
       },
+      "⇢": {
+        "default": [
+          "rightwards dashed arrow"
+        ],
+        "tts": [
+          "rightwards dashed arrow"
+        ]
+      },
+      "⇣": {
+        "default": [
+          "downwards dashed arrow"
+        ],
+        "tts": [
+          "downwards dashed arrow"
+        ]
+      },
+      "⇤": {
+        "default": [
+          "leftwards arrow bar"
+        ],
+        "tts": [
+          "leftwards arrow bar"
+        ]
+      },
+      "⇥": {
+        "default": [
+          "rightwards arrow bar"
+        ],
+        "tts": [
+          "rightwards arrow bar"
+        ]
+      },
+      "⇦": {
+        "default": [
+          "umcibisholo ongenalutho oyakwesokunxele"
+        ],
+        "tts": [
+          "umcibisholo ongenalutho oyakwesokunxele"
+        ]
+      },
+      "⇧": {
+        "default": [
+          "umcibisholo ongenalutho oya phezulu",
+          "upwards hollow arrow"
+        ],
+        "tts": [
+          "upwards hollow arrow"
+        ]
+      },
+      "⇨": {
+        "default": [
+          "rightwards hollow arrow"
+        ],
+        "tts": [
+          "rightwards hollow arrow"
+        ]
+      },
+      "⇩": {
+        "default": [
+          "downwards hollow arrow",
+          "umcibisholo ongenalutho oya phansi"
+        ],
+        "tts": [
+          "umcibisholo ongenalutho oya phansi"
+        ]
+      },
+      "⇪": {
+        "default": [
+          "upwards hollow arrow from bar"
+        ],
+        "tts": [
+          "upwards hollow arrow from bar"
+        ]
+      },
+      "⇵": {
+        "default": [
+          "downwards arrow leftwards upwards arrow"
+        ],
+        "tts": [
+          "downwards arrow leftwards upwards arrow"
+        ]
+      },
+      "∀": {
+        "default": [
+          "all",
+          "any",
+          "for all",
+          "given",
+          "universal"
+        ],
+        "tts": [
+          "for all"
+        ]
+      },
+      "∂": {
+        "default": [
+          "differential",
+          "partial differential"
+        ],
+        "tts": [
+          "partial differential"
+        ]
+      },
+      "∃": {
+        "default": [
+          "there exists"
+        ],
+        "tts": [
+          "there exists"
+        ]
+      },
+      "∅": {
+        "default": [
+          "empty set",
+          "mathematics",
+          "set operator"
+        ],
+        "tts": [
+          "empty set"
+        ]
+      },
       "∆": {
         "default": [
           "i-increment",
@@ -1524,6 +1646,56 @@
         ],
         "tts": [
           "i-element of"
+        ]
+      },
+      "∉": {
+        "default": [
+          "element",
+          "not an element"
+        ],
+        "tts": [
+          "not an element"
+        ]
+      },
+      "∋": {
+        "default": [
+          "contains as member",
+          "element"
+        ],
+        "tts": [
+          "contains as member"
+        ]
+      },
+      "∎": {
+        "default": [
+          "end proof",
+          "halmos",
+          "q.e.d.",
+          "qed",
+          "tombstone"
+        ],
+        "tts": [
+          "end proof"
+        ]
+      },
+      "∏": {
+        "default": [
+          "logic",
+          "n-ary product",
+          "product"
+        ],
+        "tts": [
+          "n-ary product"
+        ]
+      },
+      "∑": {
+        "default": [
+          "mathematics",
+          "n-ary summation",
+          "summation"
+        ],
+        "tts": [
+          "n-ary summation"
         ]
       },
       "+": {
@@ -1575,6 +1747,16 @@
           "ncane kune"
         ]
       },
+      "≮": {
+        "default": [
+          "inequality",
+          "mathematics",
+          "not less-than"
+        ],
+        "tts": [
+          "not less-than"
+        ]
+      },
       "=": {
         "default": [
           "lingana",
@@ -1601,6 +1783,16 @@
         ],
         "tts": [
           "khulu kuno"
+        ]
+      },
+      "≯": {
+        "default": [
+          "inequality",
+          "mathematics",
+          "not greater-than"
+        ],
+        "tts": [
+          "not greater-than"
         ]
       },
       "¬": {
@@ -1658,6 +1850,64 @@
           "i-superscript minus"
         ]
       },
+      "∓": {
+        "default": [
+          "minus-or-plus",
+          "plus-minus"
+        ],
+        "tts": [
+          "minus-or-plus"
+        ]
+      },
+      "∕": {
+        "default": [
+          "division slash",
+          "slash",
+          "stroke",
+          "virgule"
+        ],
+        "tts": [
+          "division slash"
+        ]
+      },
+      "⁄": {
+        "default": [
+          "fraction slash",
+          "stroke",
+          "virgule"
+        ],
+        "tts": [
+          "fraction slash"
+        ]
+      },
+      "∗": {
+        "default": [
+          "asterisk operator",
+          "star"
+        ],
+        "tts": [
+          "asterisk operator"
+        ]
+      },
+      "∘": {
+        "default": [
+          "composition",
+          "operator",
+          "ring operator"
+        ],
+        "tts": [
+          "ring operator"
+        ]
+      },
+      "∙": {
+        "default": [
+          "bullet operator",
+          "operator"
+        ],
+        "tts": [
+          "bullet operator"
+        ]
+      },
       "√": {
         "default": [
           "i-radical",
@@ -1671,6 +1921,15 @@
           "i-square root"
         ]
       },
+      "∝": {
+        "default": [
+          "proportional",
+          "proportionality"
+        ],
+        "tts": [
+          "proportional"
+        ]
+      },
       "∞": {
         "default": [
           "i-infinity",
@@ -1678,6 +1937,52 @@
         ],
         "tts": [
           "i-infinity sign"
+        ]
+      },
+      "∟": {
+        "default": [
+          "mathematics",
+          "right angle"
+        ],
+        "tts": [
+          "right angle"
+        ]
+      },
+      "∠": {
+        "default": [
+          "acute",
+          "angle"
+        ],
+        "tts": [
+          "angle"
+        ]
+      },
+      "∣": {
+        "default": [
+          "divides",
+          "divisor"
+        ],
+        "tts": [
+          "divides"
+        ]
+      },
+      "∥": {
+        "default": [
+          "parallel"
+        ],
+        "tts": [
+          "parallel"
+        ]
+      },
+      "∧": {
+        "default": [
+          "ac",
+          "atque",
+          "logical and",
+          "wedge"
+        ],
+        "tts": [
+          "logical and"
         ]
       },
       "∩": {
@@ -1700,6 +2005,115 @@
           "i-union"
         ]
       },
+      "∫": {
+        "default": [
+          "calculus",
+          "integral"
+        ],
+        "tts": [
+          "integral"
+        ]
+      },
+      "∬": {
+        "default": [
+          "calculus",
+          "double integral"
+        ],
+        "tts": [
+          "double integral"
+        ]
+      },
+      "∮": {
+        "default": [
+          "contour integral"
+        ],
+        "tts": [
+          "contour integral"
+        ]
+      },
+      "∴": {
+        "default": [
+          "logic",
+          "therefore"
+        ],
+        "tts": [
+          "therefore"
+        ]
+      },
+      "∵": {
+        "default": [
+          "because",
+          "logic"
+        ],
+        "tts": [
+          "because"
+        ]
+      },
+      "∶": {
+        "default": [
+          "ratio"
+        ],
+        "tts": [
+          "ratio"
+        ]
+      },
+      "∷": {
+        "default": [
+          "proportion",
+          "proportionality"
+        ],
+        "tts": [
+          "proportion"
+        ]
+      },
+      "∼": {
+        "default": [
+          "operator",
+          "tilde operator"
+        ],
+        "tts": [
+          "tilde operator"
+        ]
+      },
+      "∽": {
+        "default": [
+          "reversed tilde",
+          "tilde"
+        ],
+        "tts": [
+          "reversed tilde"
+        ]
+      },
+      "∾": {
+        "default": [
+          "inverted lazy s"
+        ],
+        "tts": [
+          "inverted lazy s"
+        ]
+      },
+      "≃": {
+        "default": [
+          "asymptote",
+          "asymptotically equal",
+          "mathematics"
+        ],
+        "tts": [
+          "asymptotically equal"
+        ]
+      },
+      "≅": {
+        "default": [
+          "approximately equal",
+          "congruence",
+          "equality",
+          "isomorphism",
+          "mathematics"
+        ],
+        "tts": [
+          "approximately equal"
+        ]
+      },
       "≈": {
         "default": [
           "cishe",
@@ -1708,6 +2122,34 @@
         ],
         "tts": [
           "cishe kulingane"
+        ]
+      },
+      "≌": {
+        "default": [
+          "all equal",
+          "equality",
+          "mathematics"
+        ],
+        "tts": [
+          "all equal"
+        ]
+      },
+      "≒": {
+        "default": [
+          "approximately equal the image"
+        ],
+        "tts": [
+          "approximately equal the image"
+        ]
+      },
+      "≖": {
+        "default": [
+          "equality",
+          "mathematics",
+          "ring in equal"
+        ],
+        "tts": [
+          "ring in equal"
         ]
       },
       "≡": {
@@ -1719,6 +2161,16 @@
         ],
         "tts": [
           "kufana nalokhu"
+        ]
+      },
+      "≣": {
+        "default": [
+          "equality",
+          "mathematics",
+          "strictly equivalent"
+        ],
+        "tts": [
+          "strictly equivalent"
         ]
       },
       "≤": {
@@ -1744,6 +2196,94 @@
           "okukhulu kuno noma okulinganayo"
         ]
       },
+      "≦": {
+        "default": [
+          "inequality",
+          "less-than over equal",
+          "mathematics"
+        ],
+        "tts": [
+          "less-than over equal"
+        ]
+      },
+      "≧": {
+        "default": [
+          "greater-than over equal",
+          "inequality",
+          "mathematics"
+        ],
+        "tts": [
+          "greater-than over equal"
+        ]
+      },
+      "≪": {
+        "default": [
+          "inequality",
+          "mathematics",
+          "much less-than"
+        ],
+        "tts": [
+          "much less-than"
+        ]
+      },
+      "≫": {
+        "default": [
+          "inequality",
+          "mathematics",
+          "much greater-than"
+        ],
+        "tts": [
+          "much greater-than"
+        ]
+      },
+      "≬": {
+        "default": [
+          "between"
+        ],
+        "tts": [
+          "between"
+        ]
+      },
+      "≳": {
+        "default": [
+          "greater-than equivalent",
+          "inequality",
+          "mathematics"
+        ],
+        "tts": [
+          "greater-than equivalent"
+        ]
+      },
+      "≺": {
+        "default": [
+          "mathematics",
+          "precedes",
+          "set operator"
+        ],
+        "tts": [
+          "precedes"
+        ]
+      },
+      "≻": {
+        "default": [
+          "mathematics",
+          "set operator",
+          "succeeds"
+        ],
+        "tts": [
+          "succeeds"
+        ]
+      },
+      "⊁": {
+        "default": [
+          "does not succeed",
+          "mathematics",
+          "set operator"
+        ],
+        "tts": [
+          "does not succeed"
+        ]
+      },
       "⊂": {
         "default": [
           "i-set",
@@ -1753,6 +2293,441 @@
         ],
         "tts": [
           "i-subset of"
+        ]
+      },
+      "⊃": {
+        "default": [
+          "mathematics",
+          "set operator",
+          "superset"
+        ],
+        "tts": [
+          "superset"
+        ]
+      },
+      "⊆": {
+        "default": [
+          "subset equal"
+        ],
+        "tts": [
+          "subset equal"
+        ]
+      },
+      "⊇": {
+        "default": [
+          "equality",
+          "mathematics",
+          "superset equal"
+        ],
+        "tts": [
+          "superset equal"
+        ]
+      },
+      "⊕": {
+        "default": [
+          "circled plus",
+          "plus"
+        ],
+        "tts": [
+          "circled plus"
+        ]
+      },
+      "⊖": {
+        "default": [
+          "circled minus",
+          "erosion",
+          "symmetric difference"
+        ],
+        "tts": [
+          "circled minus"
+        ]
+      },
+      "⊗": {
+        "default": [
+          "circled times",
+          "product",
+          "tensor"
+        ],
+        "tts": [
+          "circled times"
+        ]
+      },
+      "⊘": {
+        "default": [
+          "circled division slash",
+          "division-like",
+          "mathematics"
+        ],
+        "tts": [
+          "circled division slash"
+        ]
+      },
+      "⊙": {
+        "default": [
+          "circled dot operator",
+          "operator",
+          "XNOR"
+        ],
+        "tts": [
+          "circled dot operator"
+        ]
+      },
+      "⊚": {
+        "default": [
+          "circled ring operator"
+        ],
+        "tts": [
+          "circled ring operator"
+        ]
+      },
+      "⊛": {
+        "default": [
+          "asterisk",
+          "circled asterisk operator",
+          "operator"
+        ],
+        "tts": [
+          "circled asterisk operator"
+        ]
+      },
+      "⊞": {
+        "default": [
+          "addition-like",
+          "mathematics",
+          "squared plus"
+        ],
+        "tts": [
+          "squared plus"
+        ]
+      },
+      "⊟": {
+        "default": [
+          "mathematics",
+          "squared minus",
+          "subtraction-like"
+        ],
+        "tts": [
+          "squared minus"
+        ]
+      },
+      "⊥": {
+        "default": [
+          "eet",
+          "falsum",
+          "tack",
+          "up tack"
+        ],
+        "tts": [
+          "up tack"
+        ]
+      },
+      "⊮": {
+        "default": [
+          "does not force"
+        ],
+        "tts": [
+          "does not force"
+        ]
+      },
+      "⊰": {
+        "default": [
+          "mathematics",
+          "precedes under relation",
+          "set operator"
+        ],
+        "tts": [
+          "precedes under relation"
+        ]
+      },
+      "⊱": {
+        "default": [
+          "mathematics",
+          "set operator",
+          "succeeds under relation"
+        ],
+        "tts": [
+          "succeeds under relation"
+        ]
+      },
+      "⋭": {
+        "default": [
+          "does not contain as normal subgroup equal",
+          "group theory",
+          "mathematics"
+        ],
+        "tts": [
+          "does not contain as normal subgroup equal"
+        ]
+      },
+      "⊶": {
+        "default": [
+          "original"
+        ],
+        "tts": [
+          "original"
+        ]
+      },
+      "⊹": {
+        "default": [
+          "hermitian conjugate matrix",
+          "mathematics",
+          "self-adjoint matrix",
+          "square matrix"
+        ],
+        "tts": [
+          "hermitian conjugate matrix"
+        ]
+      },
+      "⊿": {
+        "default": [
+          "mathematics",
+          "right triangle",
+          "right-angled triangle"
+        ],
+        "tts": [
+          "right triangle"
+        ]
+      },
+      "⋁": {
+        "default": [
+          "disjunction",
+          "logic",
+          "n-ary logical or"
+        ],
+        "tts": [
+          "n-ary logical or"
+        ]
+      },
+      "⋂": {
+        "default": [
+          "intersection",
+          "mathematics",
+          "n-ary intersection",
+          "set operator"
+        ],
+        "tts": [
+          "n-ary intersection"
+        ]
+      },
+      "⋃": {
+        "default": [
+          "mathematics",
+          "n-ary union",
+          "set operator",
+          "union"
+        ],
+        "tts": [
+          "n-ary union"
+        ]
+      },
+      "⋅": {
+        "default": [
+          "dot operator",
+          "operator"
+        ],
+        "tts": [
+          "dot operator"
+        ]
+      },
+      "⋆": {
+        "default": [
+          "operator",
+          "star operator"
+        ],
+        "tts": [
+          "star operator"
+        ]
+      },
+      "⋈": {
+        "default": [
+          "binary operator",
+          "bowtie",
+          "natural join"
+        ],
+        "tts": [
+          "natural join"
+        ]
+      },
+      "⋒": {
+        "default": [
+          "double intersection",
+          "intersection",
+          "mathematics",
+          "set operator"
+        ],
+        "tts": [
+          "double intersection"
+        ]
+      },
+      "⋘": {
+        "default": [
+          "inequality",
+          "mathematics",
+          "very much less-than"
+        ],
+        "tts": [
+          "very much less-than"
+        ]
+      },
+      "⋙": {
+        "default": [
+          "inequality",
+          "mathematics",
+          "very much greater-than"
+        ],
+        "tts": [
+          "very much greater-than"
+        ]
+      },
+      "⋮": {
+        "default": [
+          "ellipsis",
+          "mathematics",
+          "vertical ellipsis"
+        ],
+        "tts": [
+          "vertical ellipsis"
+        ]
+      },
+      "⋯": {
+        "default": [
+          "ellipsis",
+          "midline horizontal ellipsis"
+        ],
+        "tts": [
+          "midline horizontal ellipsis"
+        ]
+      },
+      "⋰": {
+        "default": [
+          "ellipsis",
+          "mathematics",
+          "up right diagonal ellipsis"
+        ],
+        "tts": [
+          "up right diagonal ellipsis"
+        ]
+      },
+      "⋱": {
+        "default": [
+          "down right diagonal ellipsis",
+          "ellipsis",
+          "mathematics"
+        ],
+        "tts": [
+          "down right diagonal ellipsis"
+        ]
+      },
+      "■": {
+        "default": [
+          "filled square"
+        ],
+        "tts": [
+          "filled square"
+        ]
+      },
+      "□": {
+        "default": [
+          "hollow square"
+        ],
+        "tts": [
+          "hollow square"
+        ]
+      },
+      "▢": {
+        "default": [
+          "hollow square with rounded corners"
+        ],
+        "tts": [
+          "hollow square with rounded corners"
+        ]
+      },
+      "▣": {
+        "default": [
+          "hollow square containing filled square"
+        ],
+        "tts": [
+          "hollow square containing filled square"
+        ]
+      },
+      "▤": {
+        "default": [
+          "square with horizontal fill"
+        ],
+        "tts": [
+          "square with horizontal fill"
+        ]
+      },
+      "▥": {
+        "default": [
+          "square with vertical fill"
+        ],
+        "tts": [
+          "square with vertical fill"
+        ]
+      },
+      "▦": {
+        "default": [
+          "square orthogonal crosshatch fill"
+        ],
+        "tts": [
+          "square orthogonal crosshatch fill"
+        ]
+      },
+      "▧": {
+        "default": [
+          "square upper left lower right fill"
+        ],
+        "tts": [
+          "square upper left lower right fill"
+        ]
+      },
+      "▨": {
+        "default": [
+          "square upper right lower left fill"
+        ],
+        "tts": [
+          "square upper right lower left fill"
+        ]
+      },
+      "▩": {
+        "default": [
+          "square diagonal crosshatch fill"
+        ],
+        "tts": [
+          "square diagonal crosshatch fill"
+        ]
+      },
+      "▬": {
+        "default": [
+          "filled rectangle"
+        ],
+        "tts": [
+          "filled rectangle"
+        ]
+      },
+      "▭": {
+        "default": [
+          "hollow rectangle"
+        ],
+        "tts": [
+          "hollow rectangle"
+        ]
+      },
+      "▮": {
+        "default": [
+          "filled vertical rectangle"
+        ],
+        "tts": [
+          "filled vertical rectangle"
+        ]
+      },
+      "▰": {
+        "default": [
+          "filled parallelogram"
+        ],
+        "tts": [
+          "filled parallelogram"
         ]
       },
       "▲": {
@@ -1768,6 +2743,70 @@
           "egcwele phezulu-ungxantathu okhombayo"
         ]
       },
+      "△": {
+        "default": [
+          "hollow up-pointing triangle"
+        ],
+        "tts": [
+          "hollow up-pointing triangle"
+        ]
+      },
+      "▴": {
+        "default": [
+          "filled up-pointing small triangle"
+        ],
+        "tts": [
+          "filled up-pointing small triangle"
+        ]
+      },
+      "▵": {
+        "default": [
+          "hollow up-pointing small triangle"
+        ],
+        "tts": [
+          "hollow up-pointing small triangle"
+        ]
+      },
+      "▷": {
+        "default": [
+          "hollow right-pointing triangle"
+        ],
+        "tts": [
+          "hollow right-pointing triangle"
+        ]
+      },
+      "▸": {
+        "default": [
+          "filled right-pointing small triangle"
+        ],
+        "tts": [
+          "filled right-pointing small triangle"
+        ]
+      },
+      "▹": {
+        "default": [
+          "hollow right-pointing small triangle"
+        ],
+        "tts": [
+          "hollow right-pointing small triangle"
+        ]
+      },
+      "►": {
+        "default": [
+          "filled right-pointing pointer"
+        ],
+        "tts": [
+          "filled right-pointing pointer"
+        ]
+      },
+      "▻": {
+        "default": [
+          "hollow right-pointing pointer"
+        ],
+        "tts": [
+          "hollow right-pointing pointer"
+        ]
+      },
       "▼": {
         "default": [
           "igcwaliswe phansi-okukhomba ungxantathu",
@@ -1779,6 +2818,106 @@
         ],
         "tts": [
           "igcwaliswe phansi-okukhomba ungxantathu"
+        ]
+      },
+      "▽": {
+        "default": [
+          "hollow down-pointing triangle"
+        ],
+        "tts": [
+          "hollow down-pointing triangle"
+        ]
+      },
+      "▾": {
+        "default": [
+          "filled down-pointing small triangle"
+        ],
+        "tts": [
+          "filled down-pointing small triangle"
+        ]
+      },
+      "▿": {
+        "default": [
+          "hollow down-pointing small triangle"
+        ],
+        "tts": [
+          "hollow down-pointing small triangle"
+        ]
+      },
+      "◁": {
+        "default": [
+          "hollow left-pointing triangle"
+        ],
+        "tts": [
+          "hollow left-pointing triangle"
+        ]
+      },
+      "◂": {
+        "default": [
+          "filled left-pointing small triangle"
+        ],
+        "tts": [
+          "filled left-pointing small triangle"
+        ]
+      },
+      "◃": {
+        "default": [
+          "hollow left-pointing small triangle"
+        ],
+        "tts": [
+          "hollow left-pointing small triangle"
+        ]
+      },
+      "◄": {
+        "default": [
+          "filled left-pointing pointer"
+        ],
+        "tts": [
+          "filled left-pointing pointer"
+        ]
+      },
+      "◅": {
+        "default": [
+          "hollow left-pointing pointer"
+        ],
+        "tts": [
+          "hollow left-pointing pointer"
+        ]
+      },
+      "◆": {
+        "default": [
+          "filled diamond"
+        ],
+        "tts": [
+          "filled diamond"
+        ]
+      },
+      "◇": {
+        "default": [
+          "hollow diamond"
+        ],
+        "tts": [
+          "hollow diamond"
+        ]
+      },
+      "◈": {
+        "default": [
+          "hollow diamond containing filled diamond"
+        ],
+        "tts": [
+          "hollow diamond containing filled diamond"
+        ]
+      },
+      "◉": {
+        "default": [
+          "circled dot",
+          "concentric cicles filled",
+          "fisheye",
+          "hollow circle containing filled circle",
+          "ward"
+        ],
+        "tts": [
+          "hollow circle containing filled circle"
         ]
       },
       "◊": {
@@ -1801,6 +2940,32 @@
           "indilinga engenalutho"
         ]
       },
+      "◌": {
+        "default": [
+          "dotted circle"
+        ],
+        "tts": [
+          "dotted circle"
+        ]
+      },
+      "◍": {
+        "default": [
+          "circle with vertical fill"
+        ],
+        "tts": [
+          "circle with vertical fill"
+        ]
+      },
+      "◎": {
+        "default": [
+          "concentric circles",
+          "double circle",
+          "target"
+        ],
+        "tts": [
+          "concentric circles"
+        ]
+      },
       "●": {
         "default": [
           "indilinga",
@@ -1808,6 +2973,175 @@
         ],
         "tts": [
           "indilinga egcwele"
+        ]
+      },
+      "◐": {
+        "default": [
+          "circle left half filled"
+        ],
+        "tts": [
+          "circle left half filled"
+        ]
+      },
+      "◑": {
+        "default": [
+          "circle right half filled"
+        ],
+        "tts": [
+          "circle right half filled"
+        ]
+      },
+      "◒": {
+        "default": [
+          "circle lower half filled"
+        ],
+        "tts": [
+          "circle lower half filled"
+        ]
+      },
+      "◓": {
+        "default": [
+          "circle upper half filled"
+        ],
+        "tts": [
+          "circle upper half filled"
+        ]
+      },
+      "◔": {
+        "default": [
+          "circle upper right quadrant filled"
+        ],
+        "tts": [
+          "circle upper right quadrant filled"
+        ]
+      },
+      "◕": {
+        "default": [
+          "circle all but upper left quadrant filled"
+        ],
+        "tts": [
+          "circle all but upper left quadrant filled"
+        ]
+      },
+      "◖": {
+        "default": [
+          "left half filled circle"
+        ],
+        "tts": [
+          "left half filled circle"
+        ]
+      },
+      "◗": {
+        "default": [
+          "right half filled circle"
+        ],
+        "tts": [
+          "right half filled circle"
+        ]
+      },
+      "◘": {
+        "default": [
+          "inverse bullet"
+        ],
+        "tts": [
+          "inverse bullet"
+        ]
+      },
+      "◙": {
+        "default": [
+          "filled square containing hollow circle",
+          "inverse hollow circle"
+        ],
+        "tts": [
+          "filled square containing hollow circle"
+        ]
+      },
+      "◜": {
+        "default": [
+          "upper left quadrant circular arc"
+        ],
+        "tts": [
+          "upper left quadrant circular arc"
+        ]
+      },
+      "◝": {
+        "default": [
+          "upper right quadrant circular arc"
+        ],
+        "tts": [
+          "upper right quadrant circular arc"
+        ]
+      },
+      "◞": {
+        "default": [
+          "lower right quadrant circular arc"
+        ],
+        "tts": [
+          "lower right quadrant circular arc"
+        ]
+      },
+      "◟": {
+        "default": [
+          "lower left quadrant circular arc"
+        ],
+        "tts": [
+          "lower left quadrant circular arc"
+        ]
+      },
+      "◠": {
+        "default": [
+          "upper half circle"
+        ],
+        "tts": [
+          "upper half circle"
+        ]
+      },
+      "◡": {
+        "default": [
+          "lower half circle"
+        ],
+        "tts": [
+          "lower half circle"
+        ]
+      },
+      "◢": {
+        "default": [
+          "filled lower right triangle"
+        ],
+        "tts": [
+          "filled lower right triangle"
+        ]
+      },
+      "◣": {
+        "default": [
+          "filled lower left triangle"
+        ],
+        "tts": [
+          "filled lower left triangle"
+        ]
+      },
+      "◤": {
+        "default": [
+          "filled upper left triangle"
+        ],
+        "tts": [
+          "filled upper left triangle"
+        ]
+      },
+      "◥": {
+        "default": [
+          "filled upper right triangle"
+        ],
+        "tts": [
+          "filled upper right triangle"
+        ]
+      },
+      "◦": {
+        "default": [
+          "hollow bullet"
+        ],
+        "tts": [
+          "hollow bullet"
         ]
       },
       "◯": {
@@ -1820,6 +3154,30 @@
           "indilinga enkulu engenalutho"
         ]
       },
+      "◳": {
+        "default": [
+          "hollow square upper right quadrant"
+        ],
+        "tts": [
+          "hollow square upper right quadrant"
+        ]
+      },
+      "◷": {
+        "default": [
+          "hollow circle with upper right quadrant"
+        ],
+        "tts": [
+          "hollow circle with upper right quadrant"
+        ]
+      },
+      "◿": {
+        "default": [
+          "lower right triangle"
+        ],
+        "tts": [
+          "lower right triangle"
+        ]
+      },
       "♪": {
         "default": [
           "inothi",
@@ -1830,21 +3188,94 @@
           "inothi yesishiyagalombili"
         ]
       },
-      "♭": {
+      "⨧": {
         "default": [
-          "E13.1–135"
+          "kanye nokubili okubhaliselwe",
+          "plus subscript two"
         ],
         "tts": [
-          "E13.1–135"
+          "plus subscript two"
+        ]
+      },
+      "⨯": {
+        "default": [
+          "umkhiqizo we-vector cross"
+        ],
+        "tts": [
+          "umkhiqizo we-vector cross"
+        ]
+      },
+      "⨼": {
+        "default": [
+          "umkhiqizo wangaphakathi"
+        ],
+        "tts": [
+          "umkhiqizo wangaphakathi"
+        ]
+      },
+      "⩣": {
+        "default": [
+          "ibha yangaphansi enengqondo noma ekabili"
+        ],
+        "tts": [
+          "ibha yangaphansi enengqondo noma ekabili"
+        ]
+      },
+      "⩽": {
+        "default": [
+          "ngaphansi-kunetshekile elilinganayo"
+        ],
+        "tts": [
+          "ngaphansi-kunetshekile elilinganayo"
+        ]
+      },
+      "⪍": {
+        "default": [
+          "okungaphansi-kungaphezu kokulingana okufanayo"
+        ],
+        "tts": [
+          "okungaphansi-kungaphezu kokulingana okufanayo"
+        ]
+      },
+      "⪚": {
+        "default": [
+          "double-line equal greater-than",
+          "inequality",
+          "mathematics"
+        ],
+        "tts": [
+          "double-line equal greater-than"
+        ]
+      },
+      "⪺": {
+        "default": [
+          "succeeds above not almost equal"
+        ],
+        "tts": [
+          "succeeds above not almost equal"
+        ]
+      },
+      "♭": {
+        "default": [
+          "bemolle",
+          "flat",
+          "music",
+          "note"
+        ],
+        "tts": [
+          "iscaba"
         ]
       },
       "♯": {
         "default": [
-          "E13.1–136",
-          "Vote E13.1–136"
+          "dièse",
+          "diesis",
+          "music",
+          "note",
+          "sharp"
         ],
         "tts": [
-          "Vote E13.1–136"
+          "sharp"
         ]
       },
       "😀": {
@@ -1962,12 +3393,10 @@
       },
       "🫠": {
         "default": [
-          "disappear",
-          "dissolve",
-          "liquid",
-          "melt",
-          "melting face",
-          "ubuso obuncibilikayo"
+          "amanzi",
+          "ncibilika",
+          "ubuso obuncibilikayo",
+          "ukuncibilika"
         ],
         "tts": [
           "ubuso obuncibilikayo"
@@ -2325,6 +3754,17 @@
           "ubuso bomugqa onamachashazi"
         ]
       },
+      "😶‍🌫": {
+        "default": [
+          "ikhanda elisemafini",
+          "ubuso obusemafini",
+          "ubuso obusenkungwini",
+          "ukungabikho"
+        ],
+        "tts": [
+          "ubuso obusemafini"
+        ]
+      },
       "😏": {
         "default": [
           "nyipha",
@@ -2367,6 +3807,20 @@
           "ubuso obuhlinile"
         ]
       },
+      "😮‍💨": {
+        "default": [
+          "donsa umoya",
+          "khipha umoya",
+          "ubuso obudonsa umoya",
+          "ubuso obukhipha umoya",
+          "ukuhleba",
+          "ukukhululeka",
+          "ukushaya inkwele"
+        ],
+        "tts": [
+          "ubuso obudonsa umoya"
+        ]
+      },
       "🤥": {
         "default": [
           "amanga",
@@ -2379,15 +3833,35 @@
       },
       "🫨": {
         "default": [
-          "earthquake",
-          "face",
-          "shaking",
-          "shock",
+          "inhlekelele yemvelo",
+          "ubuso",
           "ubuso obunyakazayo",
-          "vibrate"
+          "ukunyakaza",
+          "ukuthuka",
+          "ukuvabretha"
         ],
         "tts": [
           "ubuso obunyakazayo"
+        ]
+      },
+      "🙂‍↔": {
+        "default": [
+          "ikhanda elibuka le nale",
+          "nyakazisa",
+          "Qha"
+        ],
+        "tts": [
+          "ikhanda elibuka le nale"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "nikina",
+          "ukunikina ikhanda phansi naphezulu",
+          "yebo"
+        ],
+        "tts": [
+          "ukunikina ikhanda phansi naphezulu"
         ]
       },
       "😌": {
@@ -2438,6 +3912,23 @@
         ],
         "tts": [
           "ubuso obulalayo"
+        ]
+      },
+      "🫩": {
+        "default": [
+          "bags",
+          "bored",
+          "exhausted",
+          "eyes",
+          "face",
+          "fatigued",
+          "late",
+          "sleepy",
+          "tired",
+          "weary"
+        ],
+        "tts": [
+          "Ubuso obunezigobhe"
         ]
       },
       "😷": {
@@ -2557,6 +4048,19 @@
         ],
         "tts": [
           "ubuso obunenzululwane"
+        ]
+      },
+      "😵‍💫": {
+        "default": [
+          "indingiliza",
+          "inkinga",
+          "isiyezi",
+          "ubuso obunamehlo anendingiliza",
+          "uku-hypnotizer",
+          "whoa"
+        ],
+        "tts": [
+          "ubuso obunamehlo anendingiliza"
         ]
       },
       "🤯": {
@@ -3373,6 +4877,21 @@
           "inhliziyo ebhakuzayo"
         ]
       },
+      "❤‍🩹": {
+        "default": [
+          "inhiziyo ehlanganayo",
+          "inhliziyo ehlanganayo",
+          "kahle",
+          "ukuhlangana",
+          "ukululama",
+          "ukuphola",
+          "ukuthuthuka",
+          "ukwelapha"
+        ],
+        "tts": [
+          "inhliziyo ehlanganayo"
+        ]
+      },
       "❤": {
         "default": [
           "inhliiziyo",
@@ -3384,12 +4903,12 @@
       },
       "🩷": {
         "default": [
-          "cute",
-          "heart",
+          "inhliziyo",
           "inhliziyo e-pink",
-          "like",
-          "love",
-          "pink"
+          "njenge",
+          "pink",
+          "Qhazisayo",
+          "thando"
         ],
         "tts": [
           "inhliziyo e-pink"
@@ -3427,9 +4946,9 @@
       "💙": {
         "default": [
           "blue heart",
+          "hlaza kwesibhakabhaka",
           "inhliziyo",
-          "inhliziyo eluhlaza sasibhakabhaka",
-          "luhlaza sasibhakabhaka"
+          "inhliziyo eluhlaza kwesibhakabhaka"
         ],
         "tts": [
           "blue heart"
@@ -3438,9 +4957,10 @@
       "🩵": {
         "default": [
           "cyan",
-          "heart",
-          "light blue",
+          "inhiziyo eluhlaza okukhanyayo",
+          "inhliziyo",
           "light blue heart",
+          "luhlaza olukhanyako",
           "teal"
         ],
         "tts": [
@@ -3482,8 +5002,9 @@
       "🩶": {
         "default": [
           "gray",
-          "heart",
+          "inhliziyo",
           "inhliziyo e-grey",
+          "inhliziyo egray",
           "silver",
           "slate"
         ],
@@ -3744,13 +5265,13 @@
       },
       "🫷": {
         "default": [
-          "high five",
-          "leftward",
           "leftwards pushing hand",
-          "push",
-          "refuse",
-          "stop",
-          "wait"
+          "linda",
+          "ngakwesobunxele",
+          "phakamisa isandla",
+          "sunduza",
+          "ungavumi",
+          "yima"
         ],
         "tts": [
           "leftwards pushing hand"
@@ -3758,13 +5279,13 @@
       },
       "🫸": {
         "default": [
-          "high five",
-          "push",
-          "refuse",
-          "rightward",
+          "linda",
+          "ngakwesokudla",
+          "phakamisa isandla",
           "rightwards pushing hand",
-          "stop",
-          "wait"
+          "sunduza",
+          "sunduzela ngakwesokudla",
+          "yima"
         ],
         "tts": [
           "rightwards pushing hand"
@@ -4318,14 +5839,14 @@
       },
       "🫦": {
         "default": [
-          "anxious",
-          "biting lip",
-          "fear",
-          "flirting",
-          "nervous",
+          "ivalo",
+          "luma indebe",
+          "ukethuka",
+          "ukudla angothando",
+          "ukukhathazeka",
+          "ukukhungatheka",
           "ukuluma indebe",
-          "uncomfortable",
-          "worried"
+          "ukusaba"
         ],
         "tts": [
           "ukuluma indebe"
@@ -4409,6 +5930,17 @@
           "indoda: intshebe"
         ]
       },
+      "🧔‍♂": {
+        "default": [
+          "indoda",
+          "indoda : enezindevu",
+          "indoda enezindevu",
+          "izindevu"
+        ],
+        "tts": [
+          "indoda enezindevu"
+        ]
+      },
       "👱‍♂": {
         "default": [
           "indoda",
@@ -4428,6 +5960,17 @@
         ],
         "tts": [
           "umama"
+        ]
+      },
+      "🧔‍♀": {
+        "default": [
+          "izindevu",
+          "umama",
+          "umama : onezindevu",
+          "umuntu wesimame : onezindevu"
+        ],
+        "tts": [
+          "umuntu wesimame : onezindevu"
         ]
       },
       "👱‍♀": {
@@ -5739,9 +7282,10 @@
       },
       "🧑‍🎄": {
         "default": [
-          "Claus, ukhisimusi",
+          "Claus",
           "mx claus",
-          "u-mx claus"
+          "u-mx claus",
+          "ukhisimusi"
         ],
         "tts": [
           "u-mx claus"
@@ -7034,17 +8578,6 @@
           "izithandani ezinenhliziyo"
         ]
       },
-      "👪": {
-        "default": [
-          "ingane",
-          "ubaba",
-          "umama",
-          "umndeni"
-        ],
-        "tts": [
-          "umndeni"
-        ]
-      },
       "🗣": {
         "default": [
           "ikhanda",
@@ -7085,6 +8618,64 @@
           "abantu abanganayo"
         ]
       },
+      "👪": {
+        "default": [
+          "ingane",
+          "ubaba",
+          "umama",
+          "umndeni"
+        ],
+        "tts": [
+          "umndeni"
+        ]
+      },
+      "🧑‍🧑‍🧒": {
+        "default": [
+          "ingane",
+          "omdala",
+          "umndeni: omdala",
+          "umndeni: omdala, omdala, ingane, ingane"
+        ],
+        "tts": [
+          "umndeni: omdala, omdala, ingane, ingane"
+        ]
+      },
+      "🧑‍🧑‍🧒‍🧒": {
+        "default": [
+          "adult",
+          "child",
+          "family: adult",
+          "family: adult, adult, child, child",
+          "ingane",
+          "omdala",
+          "umndeni: omdala"
+        ],
+        "tts": [
+          "family: adult, adult, child, child"
+        ]
+      },
+      "🧑‍🧒": {
+        "default": [
+          "child",
+          "family: adult",
+          "ingane",
+          "umndeni: omdala",
+          "umndeni: omdala, ingane"
+        ],
+        "tts": [
+          "umndeni: omdala, ingane"
+        ]
+      },
+      "🧑‍🧒‍🧒": {
+        "default": [
+          "child",
+          "family: adult",
+          "family: adult, child, child"
+        ],
+        "tts": [
+          "family: adult, child, child"
+        ]
+      },
       "👣": {
         "default": [
           "impahla yokugqoka",
@@ -7094,6 +8685,23 @@
         ],
         "tts": [
           "izinsalela zezinyawo"
+        ]
+      },
+      "🫆": {
+        "default": [
+          "clue",
+          "crime",
+          "detective",
+          "fingerprint",
+          "forensics",
+          "identity",
+          "mystery",
+          "print",
+          "safety",
+          "trace"
+        ],
+        "tts": [
+          "fingerprint"
         ]
       },
       "🦰": {
@@ -7253,10 +8861,9 @@
       },
       "🦝": {
         "default": [
-          "i-raccoon",
+          "curious",
           "raccoon",
-          "ubuqili",
-          "ukufuna ukwazi"
+          "sly"
         ],
         "tts": [
           "raccoon"
@@ -7280,6 +8887,17 @@
         ],
         "tts": [
           "ikati"
+        ]
+      },
+      "🐈‍⬛": {
+        "default": [
+          "black",
+          "cat",
+          "ikati elimnyama",
+          "unlucky"
+        ],
+        "tts": [
+          "ikati elimnyama"
         ]
       },
       "🦁": {
@@ -7691,6 +9309,17 @@
           "ibhele"
         ]
       },
+      "🐻‍❄": {
+        "default": [
+          "arctic",
+          "bear",
+          "polar bear",
+          "white"
+        ],
+        "tts": [
+          "polar bear"
+        ]
+      },
       "🐨": {
         "default": [
           "i-koala",
@@ -7959,6 +9588,19 @@
           "iphiko"
         ]
       },
+      "🐦‍⬛": {
+        "default": [
+          "bird",
+          "black",
+          "crow",
+          "inyoni emnyama",
+          "raven",
+          "rook"
+        ],
+        "tts": [
+          "inyoni emnyama"
+        ]
+      },
       "🪿": {
         "default": [
           "bird",
@@ -7969,6 +9611,18 @@
         ],
         "tts": [
           "i-goose"
+        ]
+      },
+      "🐦‍🔥": {
+        "default": [
+          "fantasy",
+          "firebird",
+          "phoenix",
+          "rebirth",
+          "reincarnation"
+        ],
+        "tts": [
+          "phoenix"
         ]
       },
       "🐸": {
@@ -8169,6 +9823,58 @@
         ],
         "tts": [
           "i-jellyfish"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "cancer",
+          "inkalankala",
+          "inkanyezi"
+        ],
+        "tts": [
+          "inkalankala"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "bisque",
+          "claws",
+          "lobster",
+          "seafood"
+        ],
+        "tts": [
+          "lobster"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "igobolondo",
+          "imfanzi",
+          "ncane",
+          "ukudla"
+        ],
+        "tts": [
+          "imfanzi"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "ingwane",
+          "molusc",
+          "ukudla"
+        ],
+        "tts": [
+          "ingwane"
+        ]
+      },
+      "🦪": {
+        "default": [
+          "i-oyster",
+          "i-pearl",
+          "ukudayiva"
+        ],
+        "tts": [
+          "i-oyster"
         ]
       },
       "🐌": {
@@ -8619,6 +10325,23 @@
           "ikhowe"
         ]
       },
+      "🪾": {
+        "default": [
+          "bare",
+          "barren",
+          "branches",
+          "dead",
+          "drought",
+          "leafless",
+          "tree",
+          "trunk",
+          "winter",
+          "wood"
+        ],
+        "tts": [
+          "leafless tree"
+        ]
+      },
       "🍇": {
         "default": [
           "amagilebhisi",
@@ -8670,6 +10393,17 @@
         ],
         "tts": [
           "ulamula"
+        ]
+      },
+      "🍋‍🟩": {
+        "default": [
+          "citrus",
+          "fruit",
+          "lime",
+          "tropical"
+        ],
+        "tts": [
+          "lime"
         ]
       },
       "🍌": {
@@ -8991,6 +10725,35 @@
         ],
         "tts": [
           "i-pea pod"
+        ]
+      },
+      "🍄‍🟫": {
+        "default": [
+          "brown mushroom",
+          "food",
+          "fungus",
+          "ikhowe elinsundu",
+          "imvelo",
+          "iveji"
+        ],
+        "tts": [
+          "ikhowe elinsundu"
+        ]
+      },
+      "🫜": {
+        "default": [
+          "beet",
+          "food",
+          "garden",
+          "radish",
+          "root",
+          "salad",
+          "turnip",
+          "vegetable",
+          "vegetarian"
+        ],
+        "tts": [
+          "Iveji eliyingxabu"
         ]
       },
       "🍞": {
@@ -9516,58 +11279,6 @@
         ],
         "tts": [
           "ibhokisi lokuthatha ngaphandle"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "cancer",
-          "inkalankala",
-          "inkanyezi"
-        ],
-        "tts": [
-          "inkalankala"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "bisque",
-          "claws",
-          "lobster",
-          "seafood"
-        ],
-        "tts": [
-          "lobster"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "igobolondo",
-          "imfanzi",
-          "ncane",
-          "ukudla"
-        ],
-        "tts": [
-          "imfanzi"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "ingwane",
-          "molusc",
-          "ukudla"
-        ],
-        "tts": [
-          "ingwane"
-        ]
-      },
-      "🦪": {
-        "default": [
-          "i-oyster",
-          "i-pearl",
-          "ukudayiva"
-        ],
-        "tts": [
-          "i-oyster"
         ]
       },
       "🍦": {
@@ -12442,10 +14153,18 @@
       },
       "🧨": {
         "default": [
-          "E11:050"
+          "dynamite",
+          "explosive",
+          "fire",
+          "firecracker",
+          "fireworks",
+          "light",
+          "pop",
+          "popping",
+          "spark"
         ],
         "tts": [
-          "E11:050"
+          "firecracker"
         ]
       },
       "✨": {
@@ -12562,10 +14281,18 @@
       },
       "🧧": {
         "default": [
-          "E11:049"
+          "envelope",
+          "gift",
+          "good",
+          "hóngbāo",
+          "lai",
+          "luck",
+          "money",
+          "red",
+          "see"
         ],
         "tts": [
-          "E11:049"
+          "red envelope"
         ]
       },
       "🎀": {
@@ -12763,10 +14490,12 @@
       },
       "🥏": {
         "default": [
-          "E11:007"
+          "disc",
+          "flying",
+          "ultimate"
         ],
         "tts": [
-          "E11:007"
+          "flying disc"
         ]
       },
       "🎳": {
@@ -12816,10 +14545,14 @@
       },
       "🥍": {
         "default": [
-          "E11:005"
+          "ball",
+          "goal",
+          "lacrosse",
+          "sports",
+          "stick"
         ],
         "tts": [
-          "E11:005"
+          "lacrosse"
         ]
       },
       "🏓": {
@@ -13183,10 +14916,13 @@
       },
       "♟": {
         "default": [
-          "E11:001"
+          "chess",
+          "dupe",
+          "expendable",
+          "pawn"
         ],
         "tts": [
-          "E11:001"
+          "chess pawn"
         ]
       },
       "🃏": {
@@ -13260,10 +14996,14 @@
       },
       "🧵": {
         "default": [
-          "E11:063"
+          "needle",
+          "sewing",
+          "spool",
+          "string",
+          "thread"
         ],
         "tts": [
-          "E11:063"
+          "thread"
         ]
       },
       "🪡": {
@@ -13281,10 +15021,13 @@
       },
       "🧶": {
         "default": [
-          "E11:064"
+          "ball",
+          "crochet",
+          "knit",
+          "yarn"
         ],
         "tts": [
-          "E11:064"
+          "yarn"
         ]
       },
       "🪢": {
@@ -14111,6 +15854,19 @@
         ],
         "tts": [
           "flute"
+        ]
+      },
+      "🪉": {
+        "default": [
+          "cupid",
+          "harp",
+          "instrument",
+          "love",
+          "music",
+          "orchestra"
+        ],
+        "tts": [
+          "harp"
         ]
       },
       "📱": {
@@ -15500,6 +17256,18 @@
           "ukuxhumanisa"
         ]
       },
+      "⛓‍💥": {
+        "default": [
+          "iketango",
+          "iketango eliphukile",
+          "inkululeko",
+          "ozankosi",
+          "ukuphuka"
+        ],
+        "tts": [
+          "iketango eliphukile"
+        ]
+      },
       "⛓": {
         "default": [
           "amaketango"
@@ -15553,6 +17321,22 @@
         ],
         "tts": [
           "ilada"
+        ]
+      },
+      "🪏": {
+        "default": [
+          "bury",
+          "dig",
+          "garden",
+          "hole",
+          "plant",
+          "scoop",
+          "shovel",
+          "snow",
+          "spade"
+        ],
+        "tts": [
+          "shovel"
         ]
       },
       "⚗": {
@@ -16031,13 +17815,12 @@
         "default": [
           "bead",
           "charm",
-          "E11:073",
           "evil-eye",
           "nazar",
           "talisman"
         ],
         "tts": [
-          "E11:073"
+          "nazar amulet"
         ]
       },
       "🪬": {
@@ -16732,7 +18515,6 @@
       },
       "🪯": {
         "default": [
-          "E15–020",
           "khanda"
         ],
         "tts": [
@@ -17549,6 +19331,17 @@
           "uphawu lokuhweba"
         ]
       },
+      "🫟": {
+        "default": [
+          "holi",
+          "paint",
+          "spill",
+          "stain"
+        ],
+        "tts": [
+          "splatter"
+        ]
+      },
       "🔠": {
         "default": [
           "isilatini",
@@ -18328,7 +20121,9 @@
         "default": [
           "i-transgender",
           "ifulegi",
-          "ifulegi eli-blue, pink nokumhlophe"
+          "ifulegi eli-blue",
+          "ifulegi eli-blue, pink nokumhlophe",
+          "pink nokumhlophe"
         ],
         "tts": [
           "ifulegi eli-blue, pink nokumhlophe"
@@ -18390,6 +20185,35 @@
           "i-yen"
         ]
       },
+      "₢": {
+        "default": [
+          "BRB",
+          "cruzeiro",
+          "currency"
+        ],
+        "tts": [
+          "cruzeiro"
+        ]
+      },
+      "₣": {
+        "default": [
+          "currency",
+          "franc",
+          "french franc"
+        ],
+        "tts": [
+          "french franc"
+        ]
+      },
+      "₤": {
+        "default": [
+          "currency",
+          "lira"
+        ],
+        "tts": [
+          "lira"
+        ]
+      },
       "₥": {
         "default": [
           "i-mil",
@@ -18420,12 +20244,50 @@
           "i-euro"
         ]
       },
+      "₰": {
+        "default": [
+          "currency",
+          "german penny",
+          "pfennig"
+        ],
+        "tts": [
+          "german penny"
+        ]
+      },
       "₱": {
         "default": [
           "i-peso"
         ],
         "tts": [
           "i-peso"
+        ]
+      },
+      "₳": {
+        "default": [
+          "ARA",
+          "austral",
+          "currency"
+        ],
+        "tts": [
+          "austral"
+        ]
+      },
+      "₶": {
+        "default": [
+          "currency",
+          "livre tournois"
+        ],
+        "tts": [
+          "livre tournois"
+        ]
+      },
+      "₷": {
+        "default": [
+          "currency",
+          "spesmilo"
+        ],
+        "tts": [
+          "spesmilo"
         ]
       },
       "₹": {
@@ -18490,6 +20352,15 @@
           "i-superscript three"
         ]
       },
+      "₨": {
+        "default": [
+          "currency",
+          "rupee"
+        ],
+        "tts": [
+          "rupee"
+        ]
+      },
       "µ": {
         "default": [
           "i-micro sign",
@@ -18498,6 +20369,15 @@
         ],
         "tts": [
           "i-micro sign"
+        ]
+      },
+      "﷼": {
+        "default": [
+          "currency",
+          "rial"
+        ],
+        "tts": [
+          "rial"
         ]
       }
     }

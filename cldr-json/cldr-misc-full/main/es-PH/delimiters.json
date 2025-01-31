@@ -2,17 +2,14 @@
   "main": {
     "es-PH": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "es",
         "territory": "PH"
       },
       "delimiters": {
-        "quotationStart": "«",
-        "quotationEnd": "»",
-        "alternateQuotationStart": "“",
-        "alternateQuotationEnd": "”"
+        "quotationStart": "“",
+        "quotationEnd": "”",
+        "alternateQuotationStart": "‘",
+        "alternateQuotationEnd": "’"
       }
     }
   }

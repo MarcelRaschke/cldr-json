@@ -2,9 +2,6 @@
   "main": {
     "ast": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ast"
       },
       "layout": {

@@ -2,9 +2,6 @@
   "main": {
     "vai-Vaii": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "vai",
         "script": "Vaii"
       },

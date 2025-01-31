@@ -2,9 +2,6 @@
   "main": {
     "lt": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "lt"
       },
       "localeDisplayNames": {
@@ -160,6 +157,8 @@
           "IM": "Meno Sala",
           "IN": "Indija",
           "IO": "Indijos Vandenyno Britų Sritis",
+          "IO-alt-biot": "Indijos Vandenyno Britų Sritis",
+          "IO-alt-chagos": "Čagoso salynas",
           "IQ": "Irakas",
           "IR": "Iranas",
           "IS": "Islandija",

@@ -2,9 +2,6 @@
   "main": {
     "si": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "si"
       },
       "layout": {

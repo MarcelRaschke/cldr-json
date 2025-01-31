@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "mt"
     },
     "annotations": {
@@ -10764,7 +10761,6 @@
           "Milied",
           "missier",
           "santa",
-          "Santa Klaws",
           "ton ċar tal-ġilda"
         ],
         "tts": [
@@ -10778,7 +10774,6 @@
           "Milied",
           "missier",
           "santa",
-          "Santa Klaws",
           "ton medju-ċar tal-ġilda"
         ],
         "tts": [
@@ -10792,7 +10787,6 @@
           "Milied",
           "missier",
           "santa",
-          "Santa Klaws",
           "ton medju tal-ġilda"
         ],
         "tts": [
@@ -10806,7 +10800,6 @@
           "Milied",
           "missier",
           "santa",
-          "Santa Klaws",
           "ton medju-skur tal-ġilda"
         ],
         "tts": [
@@ -10820,7 +10813,6 @@
           "Milied",
           "missier",
           "santa",
-          "Santa Klaws",
           "ton skur tal-ġilda"
         ],
         "tts": [

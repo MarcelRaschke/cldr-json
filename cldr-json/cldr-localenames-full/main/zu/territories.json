@@ -2,9 +2,6 @@
   "main": {
     "zu": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "zu"
       },
       "localeDisplayNames": {
@@ -160,6 +157,8 @@
           "IM": "i-Isle of Man",
           "IN": "i-India",
           "IO": "i-British Indian Ocean Territory",
+          "IO-alt-biot": "i-British Indian Ocean Territory",
+          "IO-alt-chagos": "i-Chagos Archipelago",
           "IQ": "i-Iraq",
           "IR": "i-Iran",
           "IS": "i-Iceland",

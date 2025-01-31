@@ -2,9 +2,6 @@
   "main": {
     "sq": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sq"
       },
       "localeDisplayNames": {
@@ -12,6 +9,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Angli",
+          "gbsct": "Skoci",
+          "gbwls": "Uells"
         },
         "keys": {
           "calendar": "Kalendari",
@@ -29,16 +31,16 @@
             "chinese": "kalendar kinez",
             "coptic": "kalendar koptik",
             "dangi": "kalendar dangi",
-            "ethiopic": "kalendar etiopian",
-            "ethiopic-amete-alem": "Kalendari Etiopas Amete Alem",
+            "ethiopic": "kalendari etiopik",
+            "ethiopic-amete-alem": "kalendar etiopik amete-alem",
             "gregorian": "kalendar gregorian",
             "hebrew": "kalendar hebraik",
             "indian": "Kalendari Kombëtar Indian",
-            "islamic": "kalendar islamik",
-            "islamic-civil": "kalendar islamik (tabelor, epoka civile)",
+            "islamic": "kalendar islam",
+            "islamic-civil": "kalendar islam (tabelor, epoka civile)",
             "islamic-rgsa": "kalendar islamik (Arabi Saudite, shikim)",
-            "islamic-tbla": "kalendar islamik (tabelor, epoka astronomike)",
-            "islamic-umalqura": "kalendar islamik (um al-qura)",
+            "islamic-tbla": "kalendar islam (tabelor, epoka astronomike)",
+            "islamic-umalqura": "kalendar islam (um al-qura)",
             "iso8601": "kalendar ISO-8601",
             "japanese": "kalendar japonez",
             "persian": "kalendar persian",
@@ -58,7 +60,6 @@
             "gb2312han": "Radhitje e kinezishtes së thjeshtësuar - GB2312",
             "phonebook": "Radhitje libri telefonik",
             "pinyin": "Radhitje pinini",
-            "reformed": "Radhitje e reformuar",
             "search": "kërkim i përgjithshëm",
             "searchjl": "kërkim sipas bashkëtingëllores fillestare hangul",
             "standard": "radhitje standarde",

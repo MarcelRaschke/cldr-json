@@ -2,9 +2,6 @@
   "main": {
     "be": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "be"
       },
       "listPatterns": {

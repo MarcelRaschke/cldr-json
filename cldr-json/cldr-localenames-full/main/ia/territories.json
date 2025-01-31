@@ -2,14 +2,11 @@
   "main": {
     "ia": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ia"
       },
       "localeDisplayNames": {
         "territories": {
-          "001": "Mundo",
+          "001": "mundo",
           "002": "Africa",
           "003": "America del Nord",
           "005": "America del Sud",
@@ -94,6 +91,7 @@
           "CN": "China",
           "CO": "Colombia",
           "CP": "Insula Clipperton",
+          "CQ": "Sark",
           "CR": "Costa Rica",
           "CU": "Cuba",
           "CV": "Capo Verde",
@@ -160,6 +158,8 @@
           "IM": "Insula de Man",
           "IN": "India",
           "IO": "Territorio oceanic britanno-indian",
+          "IO-alt-biot": "Territorio oceanic britanno-indian",
+          "IO-alt-chagos": "Archipelago de Chagos",
           "IQ": "Irak",
           "IR": "Iran",
           "IS": "Islanda",

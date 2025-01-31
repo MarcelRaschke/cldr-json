@@ -2,9 +2,6 @@
   "main": {
     "ur-IN": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ur",
         "territory": "IN"
       },

@@ -2,9 +2,6 @@
   "main": {
     "ja": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ja"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — 互換文字",
         "enclosed": "{0} — 囲み",
         "extended": "{0} — 拡張",
+        "facing-left": "{0} 左向き",
+        "facing-right": "{0} 右向き",
         "historic": "{0} — 古代文字",
         "miscellaneous": "{0} — 雑多",
         "other": "{0} — その他",

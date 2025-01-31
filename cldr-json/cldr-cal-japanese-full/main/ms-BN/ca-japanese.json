@@ -2,9 +2,6 @@
   "main": {
     "ms-BN": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ms",
         "territory": "BN"
       },
@@ -233,8 +230,8 @@
                   "night1": "malam"
                 },
                 "narrow": {
-                  "am": "a",
-                  "pm": "p",
+                  "am": "PG",
+                  "pm": "PTG",
                   "morning1": "pagi",
                   "morning2": "pagi",
                   "afternoon1": "tengah hari",
@@ -262,8 +259,8 @@
                   "night1": "malam"
                 },
                 "narrow": {
-                  "am": "a",
-                  "pm": "p",
+                  "am": "PG",
+                  "pm": "PTG",
                   "morning1": "pagi",
                   "morning2": "pagi",
                   "afternoon1": "tengah hari",
@@ -1001,13 +998,13 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE, d MMMM y G",
+              "full": "dd MMMM y G",
               "long": "d MMMM y G",
               "medium": "dd/MM/y G",
               "short": "d/MM/y GGGGG"
             },
             "dateSkeletons": {
-              "full": "GyMMMMEEEEd",
+              "full": "GyMMMMdd",
               "long": "GyMMMMd",
               "medium": "GyMMdd",
               "short": "GGGGGyMMd"
@@ -1089,11 +1086,11 @@
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
                 "Bh": {
-                  "B": "h B – h B",
+                  "B": "h B – h B",
                   "h": "h–h B"
                 },
                 "Bhm": {
-                  "B": "h:mm B – h:mm B",
+                  "B": "h:mm B – h:mm B",
                   "h": "h:mm–h:mm B",
                   "m": "h:mm–h:mm B"
                 },

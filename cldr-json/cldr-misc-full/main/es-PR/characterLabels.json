@@ -2,9 +2,6 @@
   "main": {
     "es-PR": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "es",
         "territory": "PR"
       },
@@ -14,6 +11,8 @@
         "compatibility": "{0} — Compatibilidad",
         "enclosed": "{0} — Adjunto",
         "extended": "{0} — Extendido",
+        "facing-left": "{0} hacia la izquierda",
+        "facing-right": "{0} hacia la derecha",
         "historic": "{0} — Histórico",
         "miscellaneous": "{0} — Miscelánea",
         "other": "{0} — Otros",
@@ -37,7 +36,7 @@
         "bullets_stars": "Viñetas y asteriscos",
         "consonantal_jamo": "Jamo consonántico",
         "currency_symbols": "símbolos de monedas",
-        "dash_connector": "Guión/conector",
+        "dash_connector": "Guion/conector",
         "digits": "dígitos",
         "dingbats": "Florituras",
         "divination_symbols": "Símbolos de adivinación",

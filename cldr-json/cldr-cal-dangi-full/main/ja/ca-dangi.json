@@ -2,9 +2,6 @@
   "main": {
     "ja": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ja"
       },
       "dates": {
@@ -1068,15 +1065,33 @@
               }
             },
             "dateFormats": {
-              "full": "U年MMMd日EEEE",
-              "long": "U年MMMd日",
-              "medium": "U年MMMd日",
+              "full": {
+                "_value": "U年MMMd日EEEE",
+                "_numbers": "hanidec"
+              },
+              "long": {
+                "_value": "U年MMMd日",
+                "_numbers": "hanidec"
+              },
+              "medium": {
+                "_value": "U年MMMd日",
+                "_numbers": "hanidec"
+              },
               "short": "U-M-d"
             },
             "dateSkeletons": {
-              "full": "UMMMEEEEd",
-              "long": "UMMMd",
-              "medium": "UMMMd",
+              "full": {
+                "_value": "UMMMEEEEd",
+                "_numbers": "hanidec"
+              },
+              "long": {
+                "_value": "UMMMd",
+                "_numbers": "hanidec"
+              },
+              "medium": {
+                "_value": "UMMMd",
+                "_numbers": "hanidec"
+              },
               "short": "UMd"
             },
             "timeFormats": {
@@ -1168,11 +1183,11 @@
               "intervalFormats": {
                 "intervalFormatFallback": "{0}～{1}",
                 "Bh": {
-                  "B": "h B – h B",
+                  "B": "h B – h B",
                   "h": "h–h B"
                 },
                 "Bhm": {
-                  "B": "h:mm B – h:mm B",
+                  "B": "h:mm B – h:mm B",
                   "h": "h:mm–h:mm B",
                   "m": "h:mm–h:mm B"
                 },

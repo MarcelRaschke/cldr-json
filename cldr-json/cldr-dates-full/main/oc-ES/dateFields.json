@@ -2,9 +2,6 @@
   "main": {
     "oc-ES": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "oc",
         "territory": "ES"
       },
@@ -224,10 +221,10 @@
             "displayName": "Day of the Week"
           },
           "weekday-short": {
-            "displayName": "Day of the Week"
+            "displayName": "dia dera setmana"
           },
           "weekday-narrow": {
-            "displayName": "Day of the Week"
+            "displayName": "dia dera setmana"
           },
           "weekdayOfMonth": {
             "displayName": "Weekday Of Month"
@@ -470,13 +467,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "Dayperiod"
+            "displayName": "deth maitin/deth vèspre"
           },
           "dayperiod": {
             "displayName": "Dayperiod"
           },
           "dayperiod-narrow": {
-            "displayName": "Dayperiod"
+            "displayName": "deth maitin/deth vèspre"
           },
           "hour": {
             "displayName": "Hour",

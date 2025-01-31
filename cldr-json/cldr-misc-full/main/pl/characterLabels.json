@@ -2,9 +2,6 @@
   "main": {
     "pl": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "pl"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — zgodność",
         "enclosed": "{0} — obwiedzione",
         "extended": "{0} — rozszerzone",
+        "facing-left": "{0} zwrócony w lewo",
+        "facing-right": "{0} zwrócony w prawo",
         "historic": "{0} — historyczne",
         "miscellaneous": "{0} — różne",
         "other": "{0} — inne",

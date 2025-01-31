@@ -2,9 +2,6 @@
   "main": {
     "sr-Latn-XK": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sr",
         "script": "Latn",
         "territory": "XK"
@@ -69,7 +66,7 @@
           "BI": "Burundi",
           "BJ": "Benin",
           "BL": "Sveti Bartolomej",
-          "BM": "Bermuda",
+          "BM": "Bermudi",
           "BN": "Brunej",
           "BO": "Bolivija",
           "BQ": "Karipska Holandija",
@@ -162,6 +159,8 @@
           "IM": "Ostrvo Man",
           "IN": "Indija",
           "IO": "Britanska teritorija Indijskog okeana",
+          "IO-alt-biot": "Britanska teritorija Indijskog okeana",
+          "IO-alt-chagos": "arhipelag Čagos",
           "IQ": "Irak",
           "IR": "Iran",
           "IS": "Island",
@@ -246,7 +245,7 @@
           "PW": "Palau",
           "PY": "Paragvaj",
           "QA": "Katar",
-          "QO": "Okeanija (udaljena ostrva)",
+          "QO": "udaljena ostrva Okeanije",
           "RE": "Reunion",
           "RO": "Rumunija",
           "RS": "Srbija",
@@ -311,7 +310,7 @@
           "VU": "Vanuatu",
           "WF": "Valis i Futuna",
           "WS": "Samoa",
-          "XA": "Pseudoakcenti",
+          "XA": "simulirane dijakritike",
           "XB": "Pseudobidi",
           "XK": "Kosovo",
           "YE": "Jemen",
@@ -319,7 +318,7 @@
           "ZA": "Južnoafrička Republika",
           "ZM": "Zambija",
           "ZW": "Zimbabve",
-          "ZZ": "Nepoznat region"
+          "ZZ": "nepoznat region"
         }
       }
     }

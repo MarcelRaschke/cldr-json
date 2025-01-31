@@ -2,9 +2,6 @@
   "main": {
     "so-ET": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "so",
         "territory": "ET"
       },
@@ -36,7 +33,6 @@
           "Cher": "Jerokee",
           "Chrs": "Luuqada Korasmiyaanka",
           "Copt": "Dadka Kotiga",
-          "Cpmn": "Cpmn",
           "Cprt": "sibraas dhalad ah",
           "Cyrl": "Siriylik",
           "Deva": "Dhefangaari",
@@ -79,7 +75,6 @@
           "Jpan": "Jabaaniis",
           "Kali": "Kayah LI",
           "Kana": "Katakaana",
-          "Kawi": "Kawi",
           "Khar": "Koraalka kharooshi",
           "Khmr": "Khamer",
           "Khoj": "Qoraalka Khojki",
@@ -113,7 +108,6 @@
           "Mtei": "Qoraalka Luuqada Meitei",
           "Mult": "Multani",
           "Mymr": "Mayanmaar",
-          "Nagm": "Nagm",
           "Nand": "Nandinagari",
           "Narb": "Carabiyadii Hore ee Wuqooye",
           "Nbat": "Nabataean",
@@ -126,7 +120,6 @@
           "Orya": "Oodhiya",
           "Osge": "Osage",
           "Osma": "Osmanya",
-          "Ougr": "Ougr",
           "Palm": "Palmyrene",
           "Pauc": "Baaw Sin Haaw",
           "Perm": "Permic gii hore",
@@ -138,7 +131,7 @@
           "Prti": "Qoraalka Parthian",
           "Qaag": "Qoraalka Sawgiga",
           "Rjng": "Dadka Rejan",
-          "Rohg": "Hanifi Rohingya",
+          "Rohg": "Hanifi",
           "Runr": "Dadka Rejang",
           "Samr": "Dadka Samaritan",
           "Sarb": "Crabiyaankii Hore ee Wuqooyi",
@@ -170,11 +163,8 @@
           "Thai": "Taay",
           "Tibt": "Tibetaan",
           "Tirh": "Qoraalka Luuqada Maithili",
-          "Tnsa": "Tnsa",
-          "Toto": "Toto",
           "Ugar": "Luuqada Ugaritic",
           "Vaii": "Dadka Vai",
-          "Vith": "Vith",
           "Wara": "Nidaamka Qoraalka Luuqada Ho",
           "Wcho": "Dadka wanjo",
           "Xpeo": "Faarsigii Hore",

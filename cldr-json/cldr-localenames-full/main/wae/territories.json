@@ -2,9 +2,6 @@
   "main": {
     "wae": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "wae"
       },
       "localeDisplayNames": {
@@ -38,7 +35,6 @@
           "151": "Ošteuropa",
           "154": "Nordeuropa",
           "155": "Wešteuropa",
-          "202": "202",
           "419": "Latíamerika",
           "AC": "Himmelfártsinsla",
           "AD": "Andorra",
@@ -70,7 +66,6 @@
           "BM": "Bermuda",
           "BN": "Brunei",
           "BO": "Boliwie",
-          "BQ": "BQ",
           "BR": "Brasilie",
           "BS": "Bahamas",
           "BT": "Bhutan",
@@ -97,7 +92,6 @@
           "CR": "Costa Rica",
           "CU": "Kuba",
           "CV": "Kap Verde",
-          "CW": "CW",
           "CX": "Wienäčtsinslä",
           "CY": "Zypre",
           "CZ": "Tšečie",
@@ -118,7 +112,6 @@
           "ES": "Schpanie",
           "ET": "Ethiopie",
           "EU": "Europäiši Unio",
-          "EZ": "EZ",
           "FI": "Finnland",
           "FJ": "Fidši",
           "FK": "Falklandinslä",
@@ -159,7 +152,6 @@
           "IL": "Israel",
           "IM": "Isle of Man",
           "IN": "Indie",
-          "IO": "Britišes Territorium em indiše Ozean",
           "IQ": "Irak",
           "IR": "Iran",
           "IS": "Island",
@@ -197,7 +189,6 @@
           "MF": "St. Martin",
           "MG": "Madagaskar",
           "MH": "Maršalinslä",
-          "MK": "MK",
           "ML": "Mali",
           "MM": "Burma",
           "MN": "Mongolei",
@@ -265,10 +256,8 @@
           "SN": "Senegal",
           "SO": "Somalia",
           "SR": "Suriname",
-          "SS": "SS",
           "ST": "São Tomé and Príncipe",
           "SV": "El Salvador",
-          "SX": "SX",
           "SY": "Sürie",
           "SZ": "Swasiland",
           "SZ-alt-variant": "Swasiland",
@@ -294,7 +283,6 @@
           "UA": "Ukraine",
           "UG": "Uganda",
           "UM": "Amerikaniš Ozeanie",
-          "UN": "UN",
           "US": "Amerika",
           "US-alt-short": "Amerika",
           "UY": "Urugauy",
@@ -308,9 +296,6 @@
           "VU": "Vanuatu",
           "WF": "Wallis und Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
-          "XK": "XK",
           "YE": "Jéme",
           "YT": "Moyette",
           "ZA": "Südafrika",

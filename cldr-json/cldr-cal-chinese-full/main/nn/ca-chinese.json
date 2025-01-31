@@ -2,9 +2,6 @@
   "main": {
     "nn": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "nn"
       },
       "dates": {
@@ -273,8 +270,8 @@
                 },
                 "wide": {
                   "midnight": "midnatt",
-                  "am": "a.m.",
-                  "pm": "p.m.",
+                  "am": "f.m.",
+                  "pm": "e.m.",
                   "morning1": "på morgonen",
                   "morning2": "på formiddagen",
                   "afternoon1": "på ettermiddagen",
@@ -285,8 +282,8 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "midn.",
-                  "am": "a.m.",
-                  "pm": "p.m.",
+                  "am": "f.m.",
+                  "pm": "e.m.",
                   "morning1": "morg.",
                   "morning2": "form.",
                   "afternoon1": "etterm.",
@@ -305,8 +302,8 @@
                 },
                 "wide": {
                   "midnight": "midnatt",
-                  "am": "a.m.",
-                  "pm": "p.m.",
+                  "am": "f.m.",
+                  "pm": "e.m.",
                   "morning1": "morgon",
                   "morning2": "formiddag",
                   "afternoon1": "ettermiddag",
@@ -1159,11 +1156,11 @@
               "intervalFormats": {
                 "intervalFormatFallback": "{0}–{1}",
                 "Bh": {
-                  "B": "h B – h B",
+                  "B": "h B – h B",
                   "h": "h–h B"
                 },
                 "Bhm": {
-                  "B": "h:mm B – h:mm B",
+                  "B": "h:mm B – h:mm B",
                   "h": "h:mm–h:mm B",
                   "m": "h:mm–h:mm B"
                 },

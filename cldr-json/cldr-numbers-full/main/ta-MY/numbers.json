@@ -2,9 +2,6 @@
   "main": {
     "ta-MY": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ta",
         "territory": "MY"
       },
@@ -105,7 +102,7 @@
           }
         },
         "decimalFormats-numberSystem-tamldec": {
-          "standard": "#,##,##0.###",
+          "standard": "#,##0.###",
           "long": {
             "decimalFormat": {
               "1000-count-one": "0 ஆயிரம்",
@@ -173,7 +170,7 @@
           "standard": "#,##0%"
         },
         "percentFormats-numberSystem-tamldec": {
-          "standard": "#,##,##0%"
+          "standard": "#,##0%"
         },
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {
@@ -226,7 +223,6 @@
             }
           },
           "currencyPatternAppendISO": "{0} ¤¤",
-          "unitPattern-count-one": "{0} {1}",
           "unitPattern-count-other": "{0} {1}"
         },
         "currencyFormats-numberSystem-tamldec": {
@@ -280,7 +276,6 @@
             }
           },
           "currencyPatternAppendISO": "{0} ¤¤",
-          "unitPattern-count-one": "{0} {1}",
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {

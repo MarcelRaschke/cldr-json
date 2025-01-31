@@ -2,9 +2,6 @@
   "main": {
     "nn": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "nn"
       },
       "numbers": {
@@ -41,21 +38,21 @@
               "100000-count-other": "000 tusen",
               "1000000-count-one": "0 million",
               "1000000-count-other": "0 millionar",
-              "10000000-count-one": "00 million",
+              "10000000-count-one": "00 millionar",
               "10000000-count-other": "00 millionar",
-              "100000000-count-one": "000 million",
+              "100000000-count-one": "000 millionar",
               "100000000-count-other": "000 millionar",
               "1000000000-count-one": "0 milliard",
               "1000000000-count-other": "0 milliardar",
-              "10000000000-count-one": "00 milliard",
+              "10000000000-count-one": "00 milliardar",
               "10000000000-count-other": "00 milliardar",
-              "100000000000-count-one": "000 milliard",
+              "100000000000-count-one": "000 milliardar",
               "100000000000-count-other": "000 milliardar",
               "1000000000000-count-one": "0 billion",
               "1000000000000-count-other": "0 billionar",
-              "10000000000000-count-one": "00 billion",
+              "10000000000000-count-one": "00 billionar",
               "10000000000000-count-other": "00 billionar",
-              "100000000000000-count-one": "000 billion",
+              "100000000000000-count-one": "000 billionar",
               "100000000000000-count-other": "000 billionar"
             }
           },
@@ -107,10 +104,10 @@
               "insertBetween": " "
             }
           },
-          "standard": "#,##0.00 ¤",
+          "standard": "#,##0.00 ¤;-#,##0.00 ¤",
           "standard-noCurrency": "#,##0.00",
-          "accounting": "#,##0.00 ¤",
-          "accounting-noCurrency": "#,##0.00",
+          "accounting": "¤ #,##0.00;(¤ #,##0.00)",
+          "accounting-noCurrency": "#,##0.00;(#,##0.00)",
           "short": {
             "standard": {
               "1000-count-one": "¤ 0k",
@@ -140,7 +137,6 @@
             }
           },
           "currencyPatternAppendISO": "{0} ¤¤",
-          "unitPattern-count-one": "{0} {1}",
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {

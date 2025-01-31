@@ -2,9 +2,6 @@
   "main": {
     "lt": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "lt"
       },
       "dates": {
@@ -56,9 +53,6 @@
                   "exemplarCity": "Tukumanas"
                 }
               },
-              "Aruba": {
-                "exemplarCity": "Aruba"
-              },
               "Asuncion": {
                 "exemplarCity": "Asunsjonas"
               },
@@ -82,9 +76,6 @@
               },
               "Boa_Vista": {
                 "exemplarCity": "Bua Vista"
-              },
-              "Bogota": {
-                "exemplarCity": "Bogota"
               },
               "Boise": {
                 "exemplarCity": "Boisis"
@@ -118,6 +109,9 @@
               },
               "Chihuahua": {
                 "exemplarCity": "Čihuahua"
+              },
+              "Ciudad_Juarez": {
+                "exemplarCity": "Siudad Chuaresas"
               },
               "Coral_Harbour": {
                 "exemplarCity": "Atikokanas"
@@ -167,9 +161,6 @@
               "Fort_Nelson": {
                 "exemplarCity": "Fort Nelsonas"
               },
-              "Fortaleza": {
-                "exemplarCity": "Fortaleza"
-              },
               "Glace_Bay": {
                 "exemplarCity": "Gleis Bėjus"
               },
@@ -181,9 +172,6 @@
               },
               "Grand_Turk": {
                 "exemplarCity": "Grand Terkas"
-              },
-              "Grenada": {
-                "exemplarCity": "Grenada"
               },
               "Guadeloupe": {
                 "exemplarCity": "Gvadalupė"
@@ -199,9 +187,6 @@
               },
               "Halifax": {
                 "exemplarCity": "Halifaksas"
-              },
-              "Havana": {
-                "exemplarCity": "Havana"
               },
               "Hermosillo": {
                 "exemplarCity": "Hermosiljas"
@@ -229,9 +214,6 @@
                   "exemplarCity": "Vivis, Indiana"
                 }
               },
-              "Indianapolis": {
-                "exemplarCity": "Indianapolis"
-              },
               "Inuvik": {
                 "exemplarCity": "Inuvikas"
               },
@@ -257,9 +239,6 @@
               },
               "La_Paz": {
                 "exemplarCity": "La Pasas"
-              },
-              "Lima": {
-                "exemplarCity": "Lima"
               },
               "Los_Angeles": {
                 "exemplarCity": "Los Andželas"
@@ -300,9 +279,6 @@
               "Merida": {
                 "exemplarCity": "Merida"
               },
-              "Metlakatla": {
-                "exemplarCity": "Metlakatla"
-              },
               "Mexico_City": {
                 "exemplarCity": "Meksikas"
               },
@@ -327,9 +303,6 @@
               "New_York": {
                 "exemplarCity": "Niujorkas"
               },
-              "Nipigon": {
-                "exemplarCity": "Nipigonas"
-              },
               "Nome": {
                 "exemplarCity": "Nomas"
               },
@@ -349,12 +322,6 @@
               },
               "Ojinaga": {
                 "exemplarCity": "Ochinaga"
-              },
-              "Panama": {
-                "exemplarCity": "Panama"
-              },
-              "Pangnirtung": {
-                "exemplarCity": "Pangnirtungas"
               },
               "Paramaribo": {
                 "exemplarCity": "Paramaribas"
@@ -377,9 +344,6 @@
               "Punta_Arenas": {
                 "exemplarCity": "Punta Arenasas"
               },
-              "Rainy_River": {
-                "exemplarCity": "Reini Riveris"
-              },
               "Rankin_Inlet": {
                 "exemplarCity": "Rankin Inletas"
               },
@@ -395,9 +359,6 @@
               "Rio_Branco": {
                 "exemplarCity": "Rio Brankas"
               },
-              "Santa_Isabel": {
-                "exemplarCity": "Santa Izabelė"
-              },
               "Santarem": {
                 "exemplarCity": "Santarenas"
               },
@@ -412,9 +373,6 @@
               },
               "Scoresbysund": {
                 "exemplarCity": "Itokortormitas"
-              },
-              "Sitka": {
-                "exemplarCity": "Sitka"
               },
               "St_Barthelemy": {
                 "exemplarCity": "Sen Bartelemi"
@@ -443,17 +401,11 @@
               "Thule": {
                 "exemplarCity": "Kanakas"
               },
-              "Thunder_Bay": {
-                "exemplarCity": "Tander Bėjus"
-              },
               "Tijuana": {
                 "exemplarCity": "Tichuana"
               },
               "Toronto": {
                 "exemplarCity": "Torontas"
-              },
-              "Tortola": {
-                "exemplarCity": "Tortola"
               },
               "Vancouver": {
                 "exemplarCity": "Vankuveris"
@@ -466,17 +418,11 @@
               },
               "Yakutat": {
                 "exemplarCity": "Jakutatas"
-              },
-              "Yellowknife": {
-                "exemplarCity": "Jelounaifas"
               }
             },
             "Atlantic": {
               "Azores": {
                 "exemplarCity": "Azorai"
-              },
-              "Bermuda": {
-                "exemplarCity": "Bermuda"
               },
               "Canary": {
                 "exemplarCity": "Kanarų salos"
@@ -486,9 +432,6 @@
               },
               "Faeroe": {
                 "exemplarCity": "Farerai"
-              },
-              "Madeira": {
-                "exemplarCity": "Madeira"
               },
               "Reykjavik": {
                 "exemplarCity": "Reikjavikas"
@@ -521,9 +464,6 @@
               },
               "Berlin": {
                 "exemplarCity": "Berlynas"
-              },
-              "Bratislava": {
-                "exemplarCity": "Bratislava"
               },
               "Brussels": {
                 "exemplarCity": "Briuselis"
@@ -594,9 +534,6 @@
               "Madrid": {
                 "exemplarCity": "Madridas"
               },
-              "Malta": {
-                "exemplarCity": "Malta"
-              },
               "Mariehamn": {
                 "exemplarCity": "Marianhamina"
               },
@@ -615,9 +552,6 @@
               "Paris": {
                 "exemplarCity": "Paryžius"
               },
-              "Podgorica": {
-                "exemplarCity": "Podgorica"
-              },
               "Prague": {
                 "exemplarCity": "Praha"
               },
@@ -626,9 +560,6 @@
               },
               "Rome": {
                 "exemplarCity": "Roma"
-              },
-              "Samara": {
-                "exemplarCity": "Samara"
               },
               "San_Marino": {
                 "exemplarCity": "San Marinas"
@@ -660,9 +591,6 @@
               "Ulyanovsk": {
                 "exemplarCity": "Uljanovskas"
               },
-              "Uzhgorod": {
-                "exemplarCity": "Užhorodas"
-              },
               "Vaduz": {
                 "exemplarCity": "Vaducas"
               },
@@ -672,9 +600,6 @@
               "Vienna": {
                 "exemplarCity": "Viena"
               },
-              "Vilnius": {
-                "exemplarCity": "Vilnius"
-              },
               "Volgograd": {
                 "exemplarCity": "Volgogradas"
               },
@@ -683,9 +608,6 @@
               },
               "Zagreb": {
                 "exemplarCity": "Zagrebas"
-              },
-              "Zaporozhye": {
-                "exemplarCity": "Zaporožė"
               },
               "Zurich": {
                 "exemplarCity": "Ciurichas"
@@ -770,9 +692,6 @@
               "Juba": {
                 "exemplarCity": "Džuba"
               },
-              "Kampala": {
-                "exemplarCity": "Kampala"
-              },
               "Khartoum": {
                 "exemplarCity": "Chartumas"
               },
@@ -791,23 +710,14 @@
               "Lome": {
                 "exemplarCity": "Lomė"
               },
-              "Luanda": {
-                "exemplarCity": "Luanda"
-              },
               "Lubumbashi": {
                 "exemplarCity": "Lubumbašis"
-              },
-              "Lusaka": {
-                "exemplarCity": "Lusaka"
               },
               "Malabo": {
                 "exemplarCity": "Malabas"
               },
               "Maputo": {
                 "exemplarCity": "Maputas"
-              },
-              "Maseru": {
-                "exemplarCity": "Maseru"
               },
               "Mbabane": {
                 "exemplarCity": "Mbabanė"
@@ -871,17 +781,11 @@
               "Ashgabat": {
                 "exemplarCity": "Ašchabadas"
               },
-              "Atyrau": {
-                "exemplarCity": "Atyrau"
-              },
               "Baghdad": {
                 "exemplarCity": "Bagdadas"
               },
               "Bahrain": {
                 "exemplarCity": "Bahreinas"
-              },
-              "Baku": {
-                "exemplarCity": "Baku"
               },
               "Bangkok": {
                 "exemplarCity": "Bankokas"
@@ -904,9 +808,6 @@
               "Chita": {
                 "exemplarCity": "Čita"
               },
-              "Choibalsan": {
-                "exemplarCity": "Čoibalsanas"
-              },
               "Colombo": {
                 "exemplarCity": "Kolombas"
               },
@@ -924,9 +825,6 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Dušanbė"
-              },
-              "Famagusta": {
-                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "Gazos ruožas"
@@ -987,9 +885,6 @@
               },
               "Makassar": {
                 "exemplarCity": "Makasaras"
-              },
-              "Manila": {
-                "exemplarCity": "Manila"
               },
               "Muscat": {
                 "exemplarCity": "Maskatas"
@@ -1145,9 +1040,6 @@
               "Broken_Hill": {
                 "exemplarCity": "Broken Hilis"
               },
-              "Currie": {
-                "exemplarCity": "Karis"
-              },
               "Darwin": {
                 "exemplarCity": "Darvinas"
               },
@@ -1219,12 +1111,6 @@
               "Honolulu": {
                 "exemplarCity": "Honolulu"
               },
-              "Johnston": {
-                "exemplarCity": "Džonstonas"
-              },
-              "Kanton": {
-                "exemplarCity": "Kanton"
-              },
               "Kiritimati": {
                 "exemplarCity": "Kiritimatis"
               },
@@ -1243,9 +1129,6 @@
               "Midway": {
                 "exemplarCity": "Midvėjus"
               },
-              "Nauru": {
-                "exemplarCity": "Nauru"
-              },
               "Niue": {
                 "exemplarCity": "Niujė"
               },
@@ -1258,9 +1141,6 @@
               "Pago_Pago": {
                 "exemplarCity": "Pago Pagas"
               },
-              "Palau": {
-                "exemplarCity": "Palau"
-              },
               "Pitcairn": {
                 "exemplarCity": "Pitkerno sala"
               },
@@ -1270,9 +1150,6 @@
               "Port_Moresby": {
                 "exemplarCity": "Port Morsbis"
               },
-              "Rarotonga": {
-                "exemplarCity": "Rarotonga"
-              },
               "Saipan": {
                 "exemplarCity": "Saipanas"
               },
@@ -1281,9 +1158,6 @@
               },
               "Tarawa": {
                 "exemplarCity": "Tarava"
-              },
-              "Tongatapu": {
-                "exemplarCity": "Tongatapu"
               },
               "Truk": {
                 "exemplarCity": "Čukas"
@@ -1605,13 +1479,6 @@
                 "daylight": "Kinijos vasaros laikas"
               }
             },
-            "Choibalsan": {
-              "long": {
-                "generic": "Čoibalsano laikas",
-                "standard": "Čoibalsano žiemos laikas",
-                "daylight": "Čoibalsano vasaros laikas"
-              }
-            },
             "Christmas": {
               "long": {
                 "standard": "Kalėdų Salos laikas"
@@ -1862,6 +1729,11 @@
                 "daylight": "Kamčiatkos Petropavlovsko vasaros laikas"
               }
             },
+            "Kazakhstan": {
+              "long": {
+                "standard": "Kazachstano laikas"
+              }
+            },
             "Kazakhstan_Eastern": {
               "long": {
                 "standard": "Rytų Kazachstano laikas"
@@ -1920,11 +1792,6 @@
                 "daylight": "Makau vasaros laikas"
               }
             },
-            "Macquarie": {
-              "long": {
-                "standard": "Makvorio Salos laikas"
-              }
-            },
             "Magadan": {
               "long": {
                 "generic": "Magadano laikas",
@@ -1962,13 +1829,6 @@
             "Mawson": {
               "long": {
                 "standard": "Mosono laikas"
-              }
-            },
-            "Mexico_Northwest": {
-              "long": {
-                "generic": "Šiaurės Vakarų Meksikos laikas",
-                "standard": "Šiaurės Vakarų Meksikos žiemos laikas",
-                "daylight": "Šiaurės Vakarų Meksikos vasaros laikas"
               }
             },
             "Mexico_Pacific": {

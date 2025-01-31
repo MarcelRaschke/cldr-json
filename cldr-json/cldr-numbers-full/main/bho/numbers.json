@@ -2,9 +2,6 @@
   "main": {
     "bho": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "bho"
       },
       "numbers": {

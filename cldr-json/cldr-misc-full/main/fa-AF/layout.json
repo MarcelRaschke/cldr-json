@@ -2,9 +2,6 @@
   "main": {
     "fa-AF": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "fa",
         "territory": "AF"
       },

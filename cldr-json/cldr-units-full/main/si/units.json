@@ -2,9 +2,6 @@
   "main": {
     "si": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "si"
       },
       "units": {
@@ -39,6 +36,12 @@
           "10p-24": {
             "unitPrefixPattern": "යොක්ටෝ{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "රොන්ටෝ{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "ක්වෙක්ටෝ{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ඩෙකා{0}"
           },
@@ -68,6 +71,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "යොටා{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "රොන්නා{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "ක්වෙට්ටා{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "කිබි{0}"
@@ -494,7 +503,6 @@
           },
           "graphics-em": {
             "displayName": "යතුරු ලියන එම්",
-            "unitPattern-count-one": "{0} em",
             "unitPattern-count-other": "{0} em"
           },
           "graphics-pixel": {
@@ -528,9 +536,9 @@
             "unitPattern-count-other": "අඟලකට තිත් {0}"
           },
           "graphics-dot": {
-            "displayName": "තිත",
+            "displayName": "තිත්",
             "unitPattern-count-one": "{0}තිත",
-            "unitPattern-count-other": "{0}තිත"
+            "unitPattern-count-other": "තිත් {0}"
           },
           "length-earth-radius": {
             "displayName": "පෘථිවි අරය",
@@ -846,9 +854,13 @@
             "unitPattern-count-one": "නාවික සැතපුම් {0}",
             "unitPattern-count-other": "නාවික සැතපුම් {0}"
           },
+          "speed-beaufort": {
+            "displayName": "බියුෆෝර්ට්",
+            "unitPattern-count-one": "බියුෆෝර්ට් {0}",
+            "unitPattern-count-other": "බියුෆෝර්ට් {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
@@ -1051,6 +1063,22 @@
             "unitPattern-count-one": "{0} ඉම්පීරියල් නැළිය",
             "unitPattern-count-other": "ඉම්පීරියල් නැළි {0}"
           },
+          "speed-light-speed": {
+            "displayName": "ආලෝකය",
+            "unitPattern-count-one": "{0} ආලෝකය",
+            "unitPattern-count-other": "ආලෝකය {0}"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "බිලියනයකට කොටස්",
+            "unitPattern-count-one": "බිලියනයකට කොටස් {0}",
+            "unitPattern-count-other": "බිලියනයකට කොටස් {0}"
+          },
+          "duration-night": {
+            "displayName": "රාත්‍රිය",
+            "unitPattern-count-one": "{0} රාත්‍රිය",
+            "unitPattern-count-other": "රාත්‍රිය {0}",
+            "perUnitPattern": "{0}/රාත්‍රිය"
+          },
           "coordinateUnit": {
             "displayName": "කාර්ඩිනල් දිශාව",
             "east": "{0}නැ",
@@ -1090,6 +1118,12 @@
           "10p-24": {
             "unitPrefixPattern": "යො{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "රො{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "ක්{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ඩෙක{0}"
           },
@@ -1119,6 +1153,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "යොට{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "රොනා{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "ක්වෙ{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "කි{0}"
@@ -1160,7 +1200,6 @@
           },
           "acceleration-g-force": {
             "displayName": "g-බලය",
-            "unitPattern-count-one": "{0} G",
             "unitPattern-count-other": "{0} G"
           },
           "acceleration-meter-per-square-second": {
@@ -1275,17 +1314,14 @@
           },
           "concentr-percent": {
             "displayName": "ප්‍රතිශතය",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "‰",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
             "displayName": "පර්මැරියඩ්",
-            "unitPattern-count-one": "{0}‱",
             "unitPattern-count-other": "{0}‱"
           },
           "concentr-mole": {
@@ -1453,7 +1489,6 @@
           },
           "electric-ohm": {
             "displayName": "ඕම්",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
@@ -1543,47 +1578,41 @@
           },
           "graphics-em": {
             "displayName": "em",
-            "unitPattern-count-one": "{0} em",
             "unitPattern-count-other": "{0} em"
           },
           "graphics-pixel": {
             "displayName": "පික්සල්",
-            "unitPattern-count-one": "{0} px",
             "unitPattern-count-other": "{0} px"
           },
           "graphics-megapixel": {
             "displayName": "මෙගාපික්සල්",
-            "unitPattern-count-one": "{0} MP",
             "unitPattern-count-other": "{0} MP"
           },
           "graphics-pixel-per-centimeter": {
             "displayName": "ppcm",
-            "unitPattern-count-one": "{0} ppcm",
             "unitPattern-count-other": "{0} ppcm"
           },
           "graphics-pixel-per-inch": {
             "displayName": "ppi",
-            "unitPattern-count-one": "{0} ppi",
             "unitPattern-count-other": "{0} ppi"
           },
           "graphics-dot-per-centimeter": {
-            "displayName": "dpcm",
-            "unitPattern-count-one": "{0} ppcm",
-            "unitPattern-count-other": "{0} dpcm"
+            "displayName": "සෙමීති",
+            "unitPattern-count-one": "සෙමීති {0}",
+            "unitPattern-count-other": "සෙමීති {0}"
           },
           "graphics-dot-per-inch": {
-            "displayName": "dpi",
-            "unitPattern-count-one": "{0} ppi",
-            "unitPattern-count-other": "{0} dpi"
+            "displayName": "අටති",
+            "unitPattern-count-one": "අටති {0}",
+            "unitPattern-count-other": "අටති {0}"
           },
           "graphics-dot": {
-            "displayName": "තිත",
+            "displayName": "තිත්",
             "unitPattern-count-one": "{0} තිත",
             "unitPattern-count-other": "තිත් {0}"
           },
           "length-earth-radius": {
             "displayName": "R⊕",
-            "unitPattern-count-one": "{0} R⊕",
             "unitPattern-count-other": "{0} R⊕"
           },
           "length-kilometer": {
@@ -1895,9 +1924,13 @@
             "unitPattern-count-one": "නාසැ {0}",
             "unitPattern-count-other": "නාසැ {0}"
           },
+          "speed-beaufort": {
+            "displayName": "බිෆෝට්",
+            "unitPattern-count-one": "බි {0}",
+            "unitPattern-count-other": "බි {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
@@ -2100,6 +2133,22 @@
             "unitPattern-count-one": "ඉම්පීරියල් නැළි {0}",
             "unitPattern-count-other": "ඉම්පීරියල් නැළි {0}"
           },
+          "speed-light-speed": {
+            "displayName": "ආලෝකය",
+            "unitPattern-count-one": "ආලෝකය {0}",
+            "unitPattern-count-other": "ආලෝකය {0}"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "කොටස්/බිලියනය",
+            "unitPattern-count-one": "බිකො {0}",
+            "unitPattern-count-other": "බිකො {0}"
+          },
+          "duration-night": {
+            "displayName": "රාත්‍රිය",
+            "unitPattern-count-one": "රාත්‍රිය {0}",
+            "unitPattern-count-other": "රාත්‍රිය {0}",
+            "perUnitPattern": "{0}/රාත්‍රිය"
+          },
           "coordinateUnit": {
             "displayName": "දිශාව",
             "east": "{0}නැ",
@@ -2139,6 +2188,12 @@
           "10p-24": {
             "unitPrefixPattern": "යො{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "රො{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "ක්{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ඩෙ{0}"
           },
@@ -2168,6 +2223,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "යො{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "රො{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "ක්{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "කි{0}"
@@ -2209,7 +2270,6 @@
           },
           "acceleration-g-force": {
             "displayName": "g-බලය",
-            "unitPattern-count-one": "{0} G",
             "unitPattern-count-other": "{0} G"
           },
           "acceleration-meter-per-square-second": {
@@ -2324,17 +2384,14 @@
           },
           "concentr-percent": {
             "displayName": "%",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "‰",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
             "displayName": "‱",
-            "unitPattern-count-one": "{0}‱",
             "unitPattern-count-other": "{0}‱"
           },
           "concentr-mole": {
@@ -2502,7 +2559,6 @@
           },
           "electric-ohm": {
             "displayName": "ඕම්",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
@@ -2522,8 +2578,8 @@
           },
           "energy-foodcalorie": {
             "displayName": "කැල",
-            "unitPattern-count-one": "කැල {0}",
-            "unitPattern-count-other": "කැල {0}"
+            "unitPattern-count-one": "කැල{0}",
+            "unitPattern-count-other": "කැල{0}"
           },
           "energy-kilojoule": {
             "displayName": "කිජු",
@@ -2591,39 +2647,35 @@
             "unitPattern-count-other": "හස් {0}"
           },
           "graphics-em": {
-            "displayName": "em",
-            "unitPattern-count-one": "{0} em",
-            "unitPattern-count-other": "{0} em"
+            "displayName": "එම්",
+            "unitPattern-count-one": "එම්{0}",
+            "unitPattern-count-other": "එම්{0}"
           },
           "graphics-pixel": {
             "displayName": "පික්සල්",
-            "unitPattern-count-one": "{0} px",
             "unitPattern-count-other": "{0} px"
           },
           "graphics-megapixel": {
             "displayName": "මෙගාපික්සල්",
-            "unitPattern-count-one": "{0} MP",
             "unitPattern-count-other": "{0} MP"
           },
           "graphics-pixel-per-centimeter": {
             "displayName": "ppcm",
-            "unitPattern-count-one": "{0} ppcm",
             "unitPattern-count-other": "{0} ppcm"
           },
           "graphics-pixel-per-inch": {
             "displayName": "ppi",
-            "unitPattern-count-one": "{0} ppi",
             "unitPattern-count-other": "{0} ppi"
           },
           "graphics-dot-per-centimeter": {
-            "displayName": "dpcm",
-            "unitPattern-count-one": "{0} ppcm",
-            "unitPattern-count-other": "{0} dpcm"
+            "displayName": "සෙමීති",
+            "unitPattern-count-one": "සෙමීති {0}",
+            "unitPattern-count-other": "සෙමීති {0}"
           },
           "graphics-dot-per-inch": {
-            "displayName": "dpi",
-            "unitPattern-count-one": "{0} ppi",
-            "unitPattern-count-other": "{0} dpi"
+            "displayName": "අටති",
+            "unitPattern-count-one": "අටති {0}",
+            "unitPattern-count-other": "අටති {0}"
           },
           "graphics-dot": {
             "displayName": "තිත",
@@ -2632,7 +2684,6 @@
           },
           "length-earth-radius": {
             "displayName": "R⊕",
-            "unitPattern-count-one": "{0} R⊕",
             "unitPattern-count-other": "{0} R⊕"
           },
           "length-kilometer": {
@@ -2944,9 +2995,13 @@
             "unitPattern-count-one": "නාසැ {0}",
             "unitPattern-count-other": "නාසැ {0}"
           },
+          "speed-beaufort": {
+            "displayName": "බිෆෝට්",
+            "unitPattern-count-one": "බි{0}",
+            "unitPattern-count-other": "බි{0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
@@ -3148,6 +3203,22 @@
             "displayName": "ඉම්පීරියල් නැළිය",
             "unitPattern-count-one": "ඉම්පීරියල් නැළි {0}",
             "unitPattern-count-other": "ඉම්පීරියල් නැළි {0}"
+          },
+          "speed-light-speed": {
+            "displayName": "ආලෝකය",
+            "unitPattern-count-one": "ආලෝකය {0}",
+            "unitPattern-count-other": "ආලෝකය {0}"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "බිකො",
+            "unitPattern-count-one": "බිකො {0}",
+            "unitPattern-count-other": "බිකො {0}"
+          },
+          "duration-night": {
+            "displayName": "රාත්‍රිය",
+            "unitPattern-count-one": "රාත්‍රිය {0}",
+            "unitPattern-count-other": "රාත්‍රිය {0}",
+            "perUnitPattern": "{0}/රාත්‍රිය"
           },
           "coordinateUnit": {
             "displayName": "දිශාව",

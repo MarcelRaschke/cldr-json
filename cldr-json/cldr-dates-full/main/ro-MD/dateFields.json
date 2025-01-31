@@ -2,9 +2,6 @@
   "main": {
     "ro-MD": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ro",
         "territory": "MD"
       },

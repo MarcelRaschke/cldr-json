@@ -2,9 +2,6 @@
   "main": {
     "af-NA": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "af",
         "territory": "NA"
       },

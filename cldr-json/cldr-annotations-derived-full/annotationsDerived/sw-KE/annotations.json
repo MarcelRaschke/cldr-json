@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "sw",
       "territory": "KE"
     },
@@ -293,41 +290,6 @@
           "afisa wa polisi: ngozi nyeusi"
         ]
       },
-      "🤰🏻": {
-        "default": [
-          "mjamzito",
-          "mwanamke",
-          "ngozi nyeupe"
-        ]
-      },
-      "🤰🏼": {
-        "default": [
-          "mjamzito",
-          "mwanamke",
-          "ngozi nyeupe kiasi"
-        ]
-      },
-      "🤰🏽": {
-        "default": [
-          "mjamzito",
-          "mwanamke",
-          "ngozi ya kahawia"
-        ]
-      },
-      "🤰🏾": {
-        "default": [
-          "mjamzito",
-          "mwanamke",
-          "ngozi nyeusi kiasi"
-        ]
-      },
-      "🤰🏿": {
-        "default": [
-          "mjamzito",
-          "mwanamke",
-          "ngozi nyeusi"
-        ]
-      },
       "🏋🏻‍♂": {
         "default": [
           "mbeba vyuma",
@@ -576,11 +538,6 @@
       "🇭🇷": {
         "tts": [
           "bendera: Kroashia"
-        ]
-      },
-      "🇮🇴": {
-        "tts": [
-          "bendera: Himaya ya Uingereza katika Bahari Hindi"
         ]
       },
       "🇯🇴": {

@@ -2,9 +2,6 @@
   "main": {
     "it-VA": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "it",
         "territory": "VA"
       },

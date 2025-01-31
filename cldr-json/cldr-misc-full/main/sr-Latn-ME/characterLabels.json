@@ -2,9 +2,6 @@
   "main": {
     "sr-Latn-ME": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sr",
         "script": "Latn",
         "territory": "ME"
@@ -15,6 +12,8 @@
         "compatibility": "{0} — kompatibilnost",
         "enclosed": "{0} — zatvoreno",
         "extended": "{0} — prošireno",
+        "facing-left": "{0} gleda ulevo",
+        "facing-right": "{0} gleda udesno",
         "historic": "{0} — istorijsko",
         "miscellaneous": "{0} — razno",
         "other": "{0} — drugo",

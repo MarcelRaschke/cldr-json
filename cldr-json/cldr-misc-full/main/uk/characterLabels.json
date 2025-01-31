@@ -2,9 +2,6 @@
   "main": {
     "uk": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "uk"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — сумісні",
         "enclosed": "{0} — вкладені",
         "extended": "{0} — розширені",
+        "facing-left": "лівий профіль: {0}",
+        "facing-right": "правий профіль: {0}",
         "historic": "{0} — історичні",
         "miscellaneous": "{0} — мішані",
         "other": "{0} — інші",

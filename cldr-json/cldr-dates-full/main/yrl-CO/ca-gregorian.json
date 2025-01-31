@@ -2,9 +2,6 @@
   "main": {
     "yrl-CO": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "yrl",
         "territory": "CO"
       },
@@ -373,7 +370,6 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
-                "MMMMW-count-one": "W'ª' 'sẽmãna' MMMM",
                 "MMMMW-count-other": "W'ª' 'sẽmãna' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
@@ -389,7 +385,6 @@
                 "yMMMMEd": "E, d MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "w'ª' 'sẽmãna' Y",
                 "yw-count-other": "w'ª' 'sẽmãna' Y"
               },
               "appendItems": {

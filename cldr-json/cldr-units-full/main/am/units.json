@@ -2,9 +2,6 @@
   "main": {
     "am": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "am"
       },
       "units": {
@@ -39,6 +36,12 @@
           "10p-24": {
             "unitPrefixPattern": "ዮክቶ{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ዴካ{0}"
           },
@@ -55,19 +58,25 @@
             "unitPrefixPattern": "ጊጋ{0}"
           },
           "10p12": {
-            "unitPrefixPattern": "T{0}"
+            "unitPrefixPattern": "ቴራ {0}"
           },
           "10p15": {
-            "unitPrefixPattern": "P{0}"
+            "unitPrefixPattern": "ፔታ {0}"
           },
           "10p18": {
-            "unitPrefixPattern": "E{0}"
+            "unitPrefixPattern": "ኤክሳ {0}"
           },
           "10p21": {
-            "unitPrefixPattern": "Z{0}"
+            "unitPrefixPattern": "ዜታ {0}"
           },
           "10p24": {
-            "unitPrefixPattern": "Y{0}"
+            "unitPrefixPattern": "ዮታ {0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "ሮና {0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "{0} ኪቢ"
@@ -91,7 +100,7 @@
             "unitPrefixPattern": "{0} ዜቢ"
           },
           "1024p8": {
-            "unitPrefixPattern": "Yi{0}"
+            "unitPrefixPattern": "ዮቢ {0}"
           },
           "per": {
             "compoundUnitPattern": "{0} በ{1}"
@@ -119,22 +128,20 @@
           "acceleration-meter-per-square-second": {
             "displayName": "ሜ/ሰ²",
             "unitPattern-count-one": "{0} ሜ/ሰ²",
-            "accusative-count-one": "{0} ሜ/ሰ²",
-            "unitPattern-count-other": "{0} ሜ/ሰ²",
-            "accusative-count-other": "{0} ሜ/ሰ²"
+            "unitPattern-count-other": "{0} ሜ/ሰ²"
           },
           "angle-revolution": {
-            "displayName": "rev",
-            "unitPattern-count-one": "{0} rev",
+            "displayName": "ኡደት",
+            "unitPattern-count-one": "{0} ኡደት",
             "accusative-count-one": "{0} ኡደት",
-            "unitPattern-count-other": "{0} rev",
+            "unitPattern-count-other": "{0} ኡደት",
             "accusative-count-other": "{0} ኡደቶች"
           },
           "angle-radian": {
-            "displayName": "rad",
-            "unitPattern-count-one": "{0} rad",
+            "displayName": "ራዲ",
+            "unitPattern-count-one": "{0} ራዲ",
             "accusative-count-one": "{0} ራዲያን",
-            "unitPattern-count-other": "{0} rad",
+            "unitPattern-count-other": "{0} ራዲ",
             "accusative-count-other": "{0} ራዲያኖች"
           },
           "angle-degree": {
@@ -147,16 +154,12 @@
           "angle-arc-minute": {
             "displayName": "ደቂቃ",
             "unitPattern-count-one": "{0} ደቂቃ",
-            "accusative-count-one": "{0} ደቂቃ",
-            "unitPattern-count-other": "{0} ደቂቃ",
-            "accusative-count-other": "{0} ደቂቃ"
+            "unitPattern-count-other": "{0} ደቂቃ"
           },
           "angle-arc-second": {
             "displayName": "ሰከንድ",
             "unitPattern-count-one": "{0} ሰከንድ",
-            "accusative-count-one": "{0} ሰከንድ",
-            "unitPattern-count-other": "{0} ሰከንድ",
-            "accusative-count-other": "{0} ሰከንድ"
+            "unitPattern-count-other": "{0} ሰከንድ"
           },
           "area-square-kilometer": {
             "displayName": "ካሬ ኪሎሜትር",
@@ -169,9 +172,7 @@
           "area-hectare": {
             "displayName": "ሄክታር",
             "unitPattern-count-one": "{0} ሄክታር",
-            "accusative-count-one": "{0} ሄክታር",
-            "unitPattern-count-other": "{0} ሄክታር",
-            "accusative-count-other": "{0} ሄክታር"
+            "unitPattern-count-other": "{0} ሄክታር"
           },
           "area-square-meter": {
             "displayName": "ካሬ ሜትር",
@@ -184,9 +185,7 @@
           "area-square-centimeter": {
             "displayName": "ሴሜ²",
             "unitPattern-count-one": "{0} ሴሜ²",
-            "accusative-count-one": "{0} ሴሜ²",
             "unitPattern-count-other": "{0} ሴሜ²",
-            "accusative-count-other": "{0} ሴሜ²",
             "perUnitPattern": "{0}/ሴሜ²"
           },
           "area-square-mile": {
@@ -201,9 +200,9 @@
             "unitPattern-count-other": "{0} ኤክር"
           },
           "area-square-yard": {
-            "displayName": "yd²",
-            "unitPattern-count-one": "{0} yd²",
-            "unitPattern-count-other": "{0} yd²"
+            "displayName": "ስኴር ያርድ",
+            "unitPattern-count-one": "{0} ስኴር ያርድ",
+            "unitPattern-count-other": "{0} ስኴር ያርድ"
           },
           "area-square-foot": {
             "displayName": "ካሬ ጫማ",
@@ -224,21 +223,15 @@
           "concentr-karat": {
             "displayName": "ካራት",
             "unitPattern-count-one": "{0} ካራት",
-            "accusative-count-one": "{0} ካራት",
-            "unitPattern-count-other": "{0} ካራት",
-            "accusative-count-other": "{0} ካራት"
+            "unitPattern-count-other": "{0} ካራት"
           },
           "concentr-milligram-ofglucose-per-deciliter": {
             "displayName": "ሚሊ ግራም በ ዴሲ ሊትር",
-            "unitPattern-count-one": "{0} mg/dL",
             "unitPattern-count-other": "{0} mg/dL"
           },
           "concentr-millimole-per-liter": {
             "displayName": "mmol/L",
-            "unitPattern-count-one": "{0} mmol/L",
-            "accusative-count-one": "{0} mmol/L",
-            "unitPattern-count-other": "{0} mmol/L",
-            "accusative-count-other": "{0} mmol/L"
+            "unitPattern-count-other": "{0} mmol/L"
           },
           "concentr-item": {
             "displayName": "ንጥሎች",
@@ -282,9 +275,7 @@
           "consumption-liter-per-kilometer": {
             "displayName": "ሊ/ኪሜ",
             "unitPattern-count-one": "{0} ሊ/ኪሜ",
-            "accusative-count-one": "{0} ሊ/ኪሜ",
-            "unitPattern-count-other": "{0} ሊ/ኪሜ",
-            "accusative-count-other": "{0} ሊ/ኪሜ"
+            "unitPattern-count-other": "{0} ሊ/ኪሜ"
           },
           "consumption-liter-per-100-kilometer": {
             "displayName": "ሊትሮች በ100 ኪሎሜትሮች",
@@ -300,7 +291,6 @@
           },
           "consumption-mile-per-gallon-imperial": {
             "displayName": "mpg Imp.",
-            "unitPattern-count-one": "{0} mpg Imp.",
             "unitPattern-count-other": "{0} mpg Imp."
           },
           "digital-petabyte": {
@@ -313,79 +303,57 @@
           "digital-terabyte": {
             "displayName": "ቴራባይት",
             "unitPattern-count-one": "{0} ቴራባይት",
-            "accusative-count-one": "{0} ቴራባይት",
-            "unitPattern-count-other": "{0} ቴራባይት",
-            "accusative-count-other": "{0} ቴራባይት"
+            "unitPattern-count-other": "{0} ቴራባይት"
           },
           "digital-terabit": {
             "displayName": "ቴራባይትስ",
             "unitPattern-count-one": "{0} ቴባ",
-            "accusative-count-one": "{0} ቴባ",
-            "unitPattern-count-other": "{0} ቴባ",
-            "accusative-count-other": "{0} ቴባ"
+            "unitPattern-count-other": "{0} ቴባ"
           },
           "digital-gigabyte": {
             "displayName": "ጊባ",
             "unitPattern-count-one": "{0} ጊባ",
-            "accusative-count-one": "{0} ጊባ",
-            "unitPattern-count-other": "{0} ጊባ",
-            "accusative-count-other": "{0} ጊባ"
+            "unitPattern-count-other": "{0} ጊባ"
           },
           "digital-gigabit": {
             "displayName": "ጊጋባይት",
             "unitPattern-count-one": "{0} ጊጋባይት",
-            "accusative-count-one": "{0} ጊጋባይት",
-            "unitPattern-count-other": "{0} ጊጋባይት",
-            "accusative-count-other": "{0} ጊጋባይት"
+            "unitPattern-count-other": "{0} ጊጋባይት"
           },
           "digital-megabyte": {
             "displayName": "ሜጋባይት",
             "unitPattern-count-one": "{0} ሜጋባይት",
-            "accusative-count-one": "{0} ሜጋባይት",
-            "unitPattern-count-other": "{0} ሜጋባይት",
-            "accusative-count-other": "{0} ሜጋባይት"
+            "unitPattern-count-other": "{0} ሜጋባይት"
           },
           "digital-megabit": {
             "displayName": "ሜባ",
             "unitPattern-count-one": "{0} ሜባ",
-            "accusative-count-one": "{0} ሜባ",
-            "unitPattern-count-other": "{0} ሜባ",
-            "accusative-count-other": "{0} ሜባ"
+            "unitPattern-count-other": "{0} ሜባ"
           },
           "digital-kilobyte": {
             "displayName": "ኪባ",
             "unitPattern-count-one": "{0} ኪባ",
-            "accusative-count-one": "{0} ኪባ",
-            "unitPattern-count-other": "{0} ኪባ",
-            "accusative-count-other": "{0} ኪባ"
+            "unitPattern-count-other": "{0} ኪባ"
           },
           "digital-kilobit": {
             "displayName": "ኪሎባይት",
             "unitPattern-count-one": "{0} ኪሎባይት",
-            "accusative-count-one": "{0} ኪሎባይት",
-            "unitPattern-count-other": "{0} ኪሎባይት",
-            "accusative-count-other": "{0} ኪሎባይት"
+            "unitPattern-count-other": "{0} ኪሎባይት"
           },
           "digital-byte": {
             "displayName": "ባይት",
             "unitPattern-count-one": "{0} ባይት",
-            "accusative-count-one": "{0} ባይት",
-            "unitPattern-count-other": "{0} ባይት",
-            "accusative-count-other": "{0} ባይት"
+            "unitPattern-count-other": "{0} ባይት"
           },
           "digital-bit": {
             "displayName": "ቢት",
             "unitPattern-count-one": "{0} ቢት",
-            "accusative-count-one": "{0} ቢት",
-            "unitPattern-count-other": "{0} ቢት",
-            "accusative-count-other": "{0} ቢት"
+            "unitPattern-count-other": "{0} ቢት"
           },
           "duration-century": {
             "displayName": "ምዕተ ዓመት",
             "unitPattern-count-one": "{0} ምዕተ ዓመት",
-            "accusative-count-one": "{0} ምዕተ ዓመት",
-            "unitPattern-count-other": "{0} ምዕተ ዓመት",
-            "accusative-count-other": "{0} ምዕተ ዓመት"
+            "unitPattern-count-other": "{0} ምዕተ ዓመት"
           },
           "duration-decade": {
             "displayName": "ዓሠርተ-ዓመት",
@@ -397,9 +365,7 @@
           "duration-year": {
             "displayName": "ዓመታት",
             "unitPattern-count-one": "{0} ዓመት",
-            "accusative-count-one": "{0} ዓመት",
             "unitPattern-count-other": "{0} ዓመታት",
-            "accusative-count-other": "{0} ዓመታት",
             "perUnitPattern": "{0}/ዓ"
           },
           "duration-quarter": {
@@ -421,17 +387,13 @@
           "duration-week": {
             "displayName": "ሳምንታት",
             "unitPattern-count-one": "{0} ሳምንት",
-            "accusative-count-one": "{0} ሳምንት",
             "unitPattern-count-other": "{0} ሳምንታት",
-            "accusative-count-other": "{0} ሳምንታት",
             "perUnitPattern": "{0}/ሳ"
           },
           "duration-day": {
             "displayName": "ቀናት",
             "unitPattern-count-one": "{0} ቀናት",
-            "accusative-count-one": "{0} ቀናት",
             "unitPattern-count-other": "{0} ቀናት",
-            "accusative-count-other": "{0} ቀናት",
             "perUnitPattern": "{0}/ቀ"
           },
           "duration-hour": {
@@ -475,23 +437,18 @@
           "duration-nanosecond": {
             "displayName": "ናኖሰከንድ",
             "unitPattern-count-one": "{0} ናኖሰከንድ",
-            "accusative-count-one": "{0} ናኖሰከንድ",
-            "unitPattern-count-other": "{0} ናኖሰከንድ",
-            "accusative-count-other": "{0} ናኖሰከንድ"
+            "unitPattern-count-other": "{0} ናኖሰከንድ"
           },
           "electric-ampere": {
-            "displayName": "amp",
-            "unitPattern-count-one": "{0} A",
+            "displayName": "አምፒር",
+            "unitPattern-count-one": "{0} አምፒር",
             "accusative-count-one": "{0} አምፒር",
-            "unitPattern-count-other": "{0} A",
+            "unitPattern-count-other": "{0} አምፒር",
             "accusative-count-other": "{0} አምፒሮች"
           },
           "electric-milliampere": {
             "displayName": "mA",
-            "unitPattern-count-one": "{0} mA",
-            "accusative-count-one": "{0} mA",
-            "unitPattern-count-other": "{0} mA",
-            "accusative-count-other": "{0} mA"
+            "unitPattern-count-other": "{0} mA"
           },
           "electric-ohm": {
             "displayName": "ohm",
@@ -501,49 +458,46 @@
             "accusative-count-other": "{0} ohms"
           },
           "electric-volt": {
-            "displayName": "volt",
-            "unitPattern-count-one": "{0} V",
+            "displayName": "ቮልት",
+            "unitPattern-count-one": "{0} ቮልት",
             "accusative-count-one": "{0} ቮልት",
-            "unitPattern-count-other": "{0} V",
+            "unitPattern-count-other": "{0} ቮልት",
             "accusative-count-other": "{0} ቮልቶች"
           },
           "energy-kilocalorie": {
-            "displayName": "kcal",
-            "unitPattern-count-one": "{0} kcal",
-            "unitPattern-count-other": "{0} kcal"
+            "displayName": "ኪሎ ካሎሪ",
+            "unitPattern-count-one": "{0} ኪሎ ካሎሪ",
+            "accusative-count-one": "{0} ኪሎ ካሎሪ",
+            "unitPattern-count-other": "{0} ኪሎ ካሎሪ",
+            "accusative-count-other": "{0} ኪሎ ካሎሪ"
           },
           "energy-calorie": {
-            "displayName": "cal",
+            "displayName": "ካሎሪ",
             "unitPattern-count-one": "{0} ካሎሪ",
-            "accusative-count-one": "{0} ካሎሪ",
-            "unitPattern-count-other": "{0} ካሎሪ",
-            "accusative-count-other": "{0} ካሎሪ"
+            "unitPattern-count-other": "{0} ካሎሪ"
           },
           "energy-foodcalorie": {
-            "displayName": "Cal",
-            "unitPattern-count-one": "{0} Cal",
-            "unitPattern-count-other": "{0} Cal"
+            "displayName": "ካሎሪ",
+            "unitPattern-count-one": "{0} ካሎሪ",
+            "unitPattern-count-other": "{0} ካሎሪ"
           },
           "energy-kilojoule": {
-            "displayName": "kJ",
-            "unitPattern-count-one": "{0} kJ",
-            "accusative-count-one": "{0} kJ",
-            "unitPattern-count-other": "{0} kJ",
-            "accusative-count-other": "{0} kJ"
+            "displayName": "ኪጁ",
+            "unitPattern-count-one": "{0} ኪጁ",
+            "accusative-count-one": "{0} ኪጁ",
+            "unitPattern-count-other": "{0} ኪጁ",
+            "accusative-count-other": "{0} ኪጁ"
           },
           "energy-joule": {
-            "displayName": "joule",
-            "unitPattern-count-one": "{0} J",
-            "accusative-count-one": "{0} J",
-            "unitPattern-count-other": "{0} J",
-            "accusative-count-other": "{0} J"
+            "displayName": "ጁልስ",
+            "unitPattern-count-one": "{0} ጁልስ",
+            "accusative-count-one": "{0} ጁልስ",
+            "unitPattern-count-other": "{0} ጁልስ",
+            "accusative-count-other": "{0} ጁልስ"
           },
           "energy-kilowatt-hour": {
             "displayName": "kWh",
-            "unitPattern-count-one": "{0} kWh",
-            "accusative-count-one": "{0} kWh",
-            "unitPattern-count-other": "{0} kWh",
-            "accusative-count-other": "{0} kWh"
+            "unitPattern-count-other": "{0} kWh"
           },
           "energy-electronvolt": {
             "displayName": "ኤቮ",
@@ -577,60 +531,51 @@
             "accusative-count-other": "{0} ኪሎዋት-ሰዓታት በየ 100 ኪሎሜትሮች"
           },
           "frequency-gigahertz": {
-            "displayName": "GHz",
-            "unitPattern-count-one": "{0} GHz",
-            "accusative-count-one": "{0} GHz",
-            "unitPattern-count-other": "{0} GHz",
-            "accusative-count-other": "{0} GHz"
+            "displayName": "ጊጋኸርዝ",
+            "unitPattern-count-one": "{0} ጊጋኸርዝ",
+            "accusative-count-one": "{0} ጊጋኸርዝ",
+            "unitPattern-count-other": "{0} ጊጋኸርዝ",
+            "accusative-count-other": "{0} ጊጋኸርዝ"
           },
           "frequency-megahertz": {
-            "displayName": "MHz",
-            "unitPattern-count-one": "{0} MHz",
-            "accusative-count-one": "{0} MHz",
-            "unitPattern-count-other": "{0} MHz",
-            "accusative-count-other": "{0} MHz"
+            "displayName": "ሜጋኸርዝ",
+            "unitPattern-count-one": "{0} ሜጋኸርዝ",
+            "accusative-count-one": "{0} ሜጋኸርዝ",
+            "unitPattern-count-other": "{0} ሜጋኸርዝ",
+            "accusative-count-other": "{0} ሜጋኸርዝ"
           },
           "frequency-kilohertz": {
-            "displayName": "kHz",
-            "unitPattern-count-one": "{0} kHz",
-            "accusative-count-one": "{0} kHz",
-            "unitPattern-count-other": "{0} kHz",
-            "accusative-count-other": "{0} kHz"
+            "displayName": "ኪሎኸርዝ",
+            "unitPattern-count-one": "{0} ኪሎኸርዝ",
+            "accusative-count-one": "{0} ኪሎኸርዝ",
+            "unitPattern-count-other": "{0} ኪሎኸርዝ",
+            "accusative-count-other": "{0} ኪሎኸርዝ"
           },
           "frequency-hertz": {
-            "displayName": "Hz",
-            "unitPattern-count-one": "{0} Hz",
-            "accusative-count-one": "{0} hertz",
-            "unitPattern-count-other": "{0} Hz",
-            "accusative-count-other": "{0} hertz"
+            "displayName": "ኸርዝ",
+            "unitPattern-count-one": "{0} ኸርዝ",
+            "accusative-count-one": "{0} ኸርዝ",
+            "unitPattern-count-other": "{0} ኸርዝ",
+            "accusative-count-other": "{0} ኸርዝ"
           },
           "graphics-em": {
             "displayName": "ታይፖግራፊክ em",
-            "unitPattern-count-one": "{0} em",
-            "accusative-count-one": "{0} em",
-            "unitPattern-count-other": "{0} em",
-            "accusative-count-other": "{0} em"
+            "unitPattern-count-other": "{0} em"
           },
           "graphics-pixel": {
             "displayName": "ፒክስል",
             "unitPattern-count-one": "{0} ፒክስል",
-            "accusative-count-one": "{0} ፒክስል",
-            "unitPattern-count-other": "{0} ፒክስል",
-            "accusative-count-other": "{0} ፒክስል"
+            "unitPattern-count-other": "{0} ፒክስል"
           },
           "graphics-megapixel": {
             "displayName": "ሜጋ ፒክስል",
             "unitPattern-count-one": "{0} ሜጋ ፒክስል",
-            "accusative-count-one": "{0} ሜጋ ፒክስል",
-            "unitPattern-count-other": "{0} ሜጋ ፒክስል",
-            "accusative-count-other": "{0} ሜጋ ፒክስል"
+            "unitPattern-count-other": "{0} ሜጋ ፒክስል"
           },
           "graphics-pixel-per-centimeter": {
             "displayName": "ፒበሴሜ",
             "unitPattern-count-one": "{0} ፒበሴሜ",
-            "accusative-count-one": "{0} ፒበሴሜ",
-            "unitPattern-count-other": "{0} ፒበሴሜ",
-            "accusative-count-other": "{0} ፒበሴሜ"
+            "unitPattern-count-other": "{0} ፒበሴሜ"
           },
           "graphics-pixel-per-inch": {
             "displayName": "ፒበኢ",
@@ -739,7 +684,6 @@
           },
           "length-parsec": {
             "displayName": "pc",
-            "unitPattern-count-one": "{0} pc",
             "unitPattern-count-other": "{0} pc"
           },
           "length-light-year": {
@@ -749,7 +693,6 @@
           },
           "length-astronomical-unit": {
             "displayName": "au",
-            "unitPattern-count-one": "{0} au",
             "unitPattern-count-other": "{0} au"
           },
           "length-furlong": {
@@ -764,15 +707,12 @@
           },
           "length-nautical-mile": {
             "displayName": "nmi",
-            "unitPattern-count-one": "{0} nmi",
             "unitPattern-count-other": "{0} nmi"
           },
           "length-mile-scandinavian": {
             "displayName": "ስማይል",
             "unitPattern-count-one": "{0} ስማይል",
-            "accusative-count-one": "{0} ስማይል",
-            "unitPattern-count-other": "{0} ስማይል",
-            "accusative-count-other": "{0} ስማይል"
+            "unitPattern-count-other": "{0} ስማይል"
           },
           "length-point": {
             "displayName": "ነጥብ",
@@ -794,23 +734,19 @@
           "light-candela": {
             "displayName": "ካንዴላ",
             "unitPattern-count-one": "{0} ካንዴላ",
-            "accusative-count-one": "{0} ካንዴላ",
-            "unitPattern-count-other": "{0} ካንዴላ",
-            "accusative-count-other": "{0} ካንዴላ"
+            "unitPattern-count-other": "{0} ካንዴላ"
           },
           "light-lumen": {
             "displayName": "ቱቦ ቀዳዳ",
             "unitPattern-count-one": "{0} ቱቦ ቀዳዳ",
-            "accusative-count-one": "{0} ቱቦ ቀዳዳ",
-            "unitPattern-count-other": "{0} ቱቦ ቀዳዳ",
-            "accusative-count-other": "{0} ቱቦ ቀዳዳ"
+            "unitPattern-count-other": "{0} ቱቦ ቀዳዳ"
           },
           "light-solar-luminosity": {
             "displayName": "L☉",
             "unitPattern-count-other": "{0} L☉"
           },
           "mass-tonne": {
-            "displayName": "t",
+            "displayName": "ቶ",
             "unitPattern-count-one": "{0} ሜትሪክ ቶን",
             "accusative-count-one": "{0} ሜትሪክ ቶን",
             "unitPattern-count-other": "{0} ሜትሪክ ቶኖች",
@@ -833,17 +769,17 @@
             "perUnitPattern": "{0}/ግራም"
           },
           "mass-milligram": {
-            "displayName": "mg",
-            "unitPattern-count-one": "{0} mg",
-            "accusative-count-one": "{0} mg",
-            "unitPattern-count-other": "{0} mg",
-            "accusative-count-other": "{0} mg"
+            "displayName": "ሚግ",
+            "unitPattern-count-one": "{0} ሚግ",
+            "accusative-count-one": "{0} ሚግ",
+            "unitPattern-count-other": "{0} ሚግ",
+            "accusative-count-other": "{0} ሚግ"
           },
           "mass-microgram": {
-            "displayName": "μg",
-            "unitPattern-count-one": "{0} μg",
+            "displayName": "ማግ",
+            "unitPattern-count-one": "{0} ማግ",
             "accusative-count-one": "{0} ማይክሮ ግራም",
-            "unitPattern-count-other": "{0} μg",
+            "unitPattern-count-other": "{0} ማግ",
             "accusative-count-other": "{0} ማይክሮ ግራም"
           },
           "mass-ton": {
@@ -870,7 +806,6 @@
           },
           "mass-ounce-troy": {
             "displayName": "oz t",
-            "unitPattern-count-one": "{0} oz t",
             "unitPattern-count-other": "{0} oz t"
           },
           "mass-carat": {
@@ -881,9 +816,9 @@
             "accusative-count-other": "{0} ካራቶች"
           },
           "mass-dalton": {
-            "displayName": "ዳተንስ",
-            "unitPattern-count-one": "{0} ዳተንስ",
-            "unitPattern-count-other": "{0} ዳተንስ"
+            "displayName": "ዳልተንስ",
+            "unitPattern-count-one": "{0} ዳልተንስ",
+            "unitPattern-count-other": "{0} ዳልተንስ"
           },
           "mass-earth-mass": {
             "displayName": "ኤርዝማስስ",
@@ -901,18 +836,18 @@
             "unitPattern-count-other": "{0} ጥራ ጥሬ"
           },
           "power-gigawatt": {
-            "displayName": "GW",
-            "unitPattern-count-one": "{0} GW",
-            "accusative-count-one": "{0} GW",
-            "unitPattern-count-other": "{0} GW",
-            "accusative-count-other": "{0} GW"
+            "displayName": "ጊጋ ዋት",
+            "unitPattern-count-one": "{0} ጊዋ",
+            "accusative-count-one": "{0} ጊዋ",
+            "unitPattern-count-other": "{0} ጊዋ",
+            "accusative-count-other": "{0} ጊዋ"
           },
           "power-megawatt": {
-            "displayName": "MW",
-            "unitPattern-count-one": "{0} MW",
-            "accusative-count-one": "{0} MW",
-            "unitPattern-count-other": "{0} MW",
-            "accusative-count-other": "{0} MW"
+            "displayName": "ሜጋ ዋት",
+            "unitPattern-count-one": "{0} ሜዋ",
+            "accusative-count-one": "{0} ሜዋ",
+            "unitPattern-count-other": "{0} ሜዋ",
+            "accusative-count-other": "{0} ሜዋ"
           },
           "power-kilowatt": {
             "displayName": "ኪሎዋት",
@@ -929,11 +864,11 @@
             "accusative-count-other": "{0} ዋት"
           },
           "power-milliwatt": {
-            "displayName": "mW",
-            "unitPattern-count-one": "{0} mW",
-            "accusative-count-one": "{0} mW",
-            "unitPattern-count-other": "{0} mW",
-            "accusative-count-other": "{0} mW"
+            "displayName": "ሚሊ ዋት",
+            "unitPattern-count-one": "{0} ሚዋ",
+            "accusative-count-one": "{0} ሚዋ",
+            "unitPattern-count-other": "{0} ሚዋ",
+            "accusative-count-other": "{0} ሚዋ"
           },
           "power-horsepower": {
             "displayName": "የፈረስ ጉልበት",
@@ -942,12 +877,10 @@
           },
           "pressure-millimeter-ofhg": {
             "displayName": "mm Hg",
-            "unitPattern-count-one": "{0} mm Hg",
             "unitPattern-count-other": "{0} mm Hg"
           },
           "pressure-pound-force-per-square-inch": {
             "displayName": "psi",
-            "unitPattern-count-one": "{0} psi",
             "unitPattern-count-other": "{0} psi"
           },
           "pressure-inch-ofhg": {
@@ -958,9 +891,7 @@
           "pressure-bar": {
             "displayName": "አሞሌ",
             "unitPattern-count-one": "{0} አሞሌ",
-            "accusative-count-one": "{0} አሞሌ",
-            "unitPattern-count-other": "{0} አሞሌዎች",
-            "accusative-count-other": "{0} አሞሌዎች"
+            "unitPattern-count-other": "{0} አሞሌዎች"
           },
           "pressure-millibar": {
             "displayName": "ሚሊባር",
@@ -972,30 +903,22 @@
           "pressure-atmosphere": {
             "displayName": "ከባቢ አየር",
             "unitPattern-count-one": "{0} ከባቢ አየር",
-            "accusative-count-one": "{0} ከባቢ አየር",
-            "unitPattern-count-other": "{0} ከባቢ አየር",
-            "accusative-count-other": "{0} ከባቢ አየር"
+            "unitPattern-count-other": "{0} ከባቢ አየር"
           },
           "pressure-pascal": {
             "displayName": "ፓስካል",
             "unitPattern-count-one": "{0} ፓስካል",
-            "accusative-count-one": "{0} ፓስካል",
-            "unitPattern-count-other": "{0} ፓስካል",
-            "accusative-count-other": "{0} ፓስካል"
+            "unitPattern-count-other": "{0} ፓስካል"
           },
           "pressure-hectopascal": {
             "displayName": "ሄክቶፓስካል",
             "unitPattern-count-one": "{0} ሄክቶፓስካል",
-            "accusative-count-one": "{0} ሄክቶፓስካል",
-            "unitPattern-count-other": "{0} ሄክቶፓስካል",
-            "accusative-count-other": "{0} ሄክቶፓስካል"
+            "unitPattern-count-other": "{0} ሄክቶፓስካል"
           },
           "pressure-kilopascal": {
             "displayName": "ኪሎፓስካል",
             "unitPattern-count-one": "{0} ኪሎፓስካል",
-            "accusative-count-one": "{0} ኪሎፓስካል",
-            "unitPattern-count-other": "{0} ኪሎፓስካል",
-            "accusative-count-other": "{0} ኪሎፓስካል"
+            "unitPattern-count-other": "{0} ኪሎፓስካል"
           },
           "pressure-megapascal": {
             "displayName": "ሜጋፓስካል",
@@ -1025,15 +948,15 @@
           },
           "speed-knot": {
             "displayName": "kn",
-            "unitPattern-count-one": "{0} kn",
             "unitPattern-count-other": "{0} kn"
+          },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
           },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
-            "accusative-count-one": "{0}°",
-            "unitPattern-count-other": "{0}°",
-            "accusative-count-other": "{0}°"
+            "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
             "displayName": "ዲግሪ ሴልሺየስ",
@@ -1048,10 +971,10 @@
             "unitPattern-count-other": "{0} ዲግሪ ፋራንሃይት"
           },
           "temperature-kelvin": {
-            "displayName": "K",
-            "unitPattern-count-one": "{0} K",
+            "displayName": "ኬ",
+            "unitPattern-count-one": "{0} ኬ",
             "accusative-count-one": "{0} ኬልቪን",
-            "unitPattern-count-other": "{0} K",
+            "unitPattern-count-other": "{0} ኬ",
             "accusative-count-other": "{0} ኬልቪኖች"
           },
           "torque-pound-force-foot": {
@@ -1061,9 +984,7 @@
           "torque-newton-meter": {
             "displayName": "ኒ.ሜ",
             "unitPattern-count-one": "{0} ኒ.ሜ",
-            "accusative-count-one": "{0} ኒ.ሜ",
-            "unitPattern-count-other": "{0} ኒ.ሜ",
-            "accusative-count-other": "{0} ኒ.ሜ"
+            "unitPattern-count-other": "{0} ኒ.ሜ"
           },
           "volume-cubic-kilometer": {
             "displayName": "ኩቢክ ኪሎሜትር",
@@ -1075,17 +996,13 @@
           "volume-cubic-meter": {
             "displayName": "ሜ³",
             "unitPattern-count-one": "{0} ሜ³",
-            "accusative-count-one": "{0} ሜ³",
             "unitPattern-count-other": "{0} ሜ³",
-            "accusative-count-other": "{0} ሜ³",
             "perUnitPattern": "{0}/ሜ³"
           },
           "volume-cubic-centimeter": {
             "displayName": "ሴሜ³",
             "unitPattern-count-one": "{0} ሴሜ³",
-            "accusative-count-one": "{0} ሴሜ³",
             "unitPattern-count-other": "{0} ሴሜ³",
-            "accusative-count-other": "{0} ሴሜ³",
             "perUnitPattern": "{0}/ሴሜ³"
           },
           "volume-cubic-mile": {
@@ -1094,9 +1011,9 @@
             "unitPattern-count-other": "{0} ኩቢክ ማይል"
           },
           "volume-cubic-yard": {
-            "displayName": "yd³",
-            "unitPattern-count-one": "{0} yd³",
-            "unitPattern-count-other": "{0} yd³"
+            "displayName": "ኪዩቢክ ያርድ",
+            "unitPattern-count-one": "{0} ኪዩቢክ ያርድ",
+            "unitPattern-count-other": "{0} ኪዩቢክ ያርድ"
           },
           "volume-cubic-foot": {
             "displayName": "ጫማ³",
@@ -1109,17 +1026,17 @@
             "unitPattern-count-other": "{0} ኢንች³"
           },
           "volume-megaliter": {
-            "displayName": "ML",
-            "unitPattern-count-one": "{0} ML",
+            "displayName": "ሜጋሊትር",
+            "unitPattern-count-one": "{0} ሜሊ",
             "accusative-count-one": "{0} ሜሊ",
-            "unitPattern-count-other": "{0} ML",
+            "unitPattern-count-other": "{0} ሜሊ",
             "accusative-count-other": "{0} ሜሊ"
           },
           "volume-hectoliter": {
-            "displayName": "hL",
-            "unitPattern-count-one": "{0} hL",
+            "displayName": "ሄክቶሊትር",
+            "unitPattern-count-one": "{0} ሄሊ",
             "accusative-count-one": "{0} ሄሊ",
-            "unitPattern-count-other": "{0} hL",
+            "unitPattern-count-other": "{0} ሄሊ",
             "accusative-count-other": "{0} ሄሊ"
           },
           "volume-liter": {
@@ -1147,9 +1064,7 @@
           "volume-milliliter": {
             "displayName": "ሚሊ ሊትር",
             "unitPattern-count-one": "{0} ሚሊ ሊትር",
-            "accusative-count-one": "{0} ሚሊ ሊትር",
-            "unitPattern-count-other": "{0} ሚሊ ሊትር",
-            "accusative-count-other": "{0} ሚሊ ሊትር"
+            "unitPattern-count-other": "{0} ሚሊ ሊትር"
           },
           "volume-pint-metric": {
             "displayName": "mpt",
@@ -1160,10 +1075,7 @@
           },
           "volume-cup-metric": {
             "displayName": "mcup",
-            "unitPattern-count-one": "{0} mc",
-            "accusative-count-one": "{0} mc",
-            "unitPattern-count-other": "{0} mc",
-            "accusative-count-other": "{0} mc"
+            "unitPattern-count-other": "{0} mc"
           },
           "volume-acre-foot": {
             "displayName": "ኤከር ጫማ",
@@ -1176,31 +1088,29 @@
             "unitPattern-count-other": "{0} ዳውላ"
           },
           "volume-gallon": {
-            "displayName": "gal",
-            "unitPattern-count-one": "{0} gal",
-            "unitPattern-count-other": "{0} gal",
-            "perUnitPattern": "{0}/gal"
+            "displayName": "ጋሎን",
+            "unitPattern-count-one": "{0}/ጋሎን",
+            "unitPattern-count-other": "{0}/ጋሎን",
+            "perUnitPattern": "{0}/ጋሎን"
           },
           "volume-gallon-imperial": {
             "displayName": "Imp. gal",
-            "unitPattern-count-one": "{0} gal Imp.",
             "unitPattern-count-other": "{0} gal Imp.",
             "perUnitPattern": "{0}/gal Imp."
           },
           "volume-quart": {
-            "displayName": "qt",
-            "unitPattern-count-one": "{0} qt",
-            "unitPattern-count-other": "{0} qt"
+            "displayName": "ኳርትስ",
+            "unitPattern-count-one": "{0} ኳርትስ",
+            "unitPattern-count-other": "{0} ኳርትስ"
           },
           "volume-pint": {
             "displayName": "pt",
-            "unitPattern-count-one": "{0} pt",
             "unitPattern-count-other": "{0} pt"
           },
           "volume-cup": {
-            "displayName": "cup",
-            "unitPattern-count-one": "{0} c",
-            "unitPattern-count-other": "{0} c"
+            "displayName": "ኩባያ",
+            "unitPattern-count-one": "{0} ኩባያ",
+            "unitPattern-count-other": "{0} ኩባያ"
           },
           "volume-fluid-ounce": {
             "displayName": "fl oz",
@@ -1213,14 +1123,14 @@
             "unitPattern-count-other": "{0} Imp. fluid ኦንስስ"
           },
           "volume-tablespoon": {
-            "displayName": "tbsp",
-            "unitPattern-count-one": "{0} tbsp",
-            "unitPattern-count-other": "{0} tbsp"
+            "displayName": "የሻይ ማንኪያ",
+            "unitPattern-count-one": "{0} የሻይ ማንኪያ",
+            "unitPattern-count-other": "{0} የሻይ ማንኪያ"
           },
           "volume-teaspoon": {
-            "displayName": "tsp",
-            "unitPattern-count-one": "{0} tsp",
-            "unitPattern-count-other": "{0} tsp"
+            "displayName": "የሻይ ማንኪያዎች",
+            "unitPattern-count-one": "{0} የሻይ ማንኪያዎች",
+            "unitPattern-count-other": "{0} የሻይ ማንኪያዎች"
           },
           "volume-barrel": {
             "displayName": "በርሜል",
@@ -1262,6 +1172,25 @@
             "unitPattern-count-one": "{0} የፈሳሽ መለኪያ",
             "unitPattern-count-other": "{0} የፈሳሽ መለኪያ"
           },
+          "speed-light-speed": {
+            "displayName": "ብርሃን",
+            "unitPattern-count-one": "{0} ብርሃን",
+            "accusative-count-one": "{0} ብርሃን",
+            "unitPattern-count-other": "{0} ብርሃን",
+            "accusative-count-other": "{0} ብርሃን"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "ለሊት",
+            "unitPattern-count-one": "{0}/ለሊት",
+            "accusative-count-one": "{0}/ለሊት",
+            "unitPattern-count-other": "{0}/ለሊት",
+            "accusative-count-other": "{0}/ለሊት",
+            "perUnitPattern": "{0}/ለሊት"
+          },
           "coordinateUnit": {
             "displayName": "ዓቢይ አቅጣጫ",
             "east": "{0}ምስ",
@@ -1281,7 +1210,7 @@
             "unitPrefixPattern": "ሚ{0}"
           },
           "10p-6": {
-            "unitPrefixPattern": "μ{0}"
+            "unitPrefixPattern": "ማይክሮ{0}"
           },
           "10p-9": {
             "unitPrefixPattern": "ና{0}"
@@ -1301,6 +1230,12 @@
           "10p-24": {
             "unitPrefixPattern": "ዮ{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ዴ{0}"
           },
@@ -1314,22 +1249,28 @@
             "unitPrefixPattern": "ሜ{0}"
           },
           "10p9": {
-            "unitPrefixPattern": "G{0}"
+            "unitPrefixPattern": "ጊ{0}"
           },
           "10p12": {
-            "unitPrefixPattern": "T{0}"
+            "unitPrefixPattern": "ቴራ {0}"
           },
           "10p15": {
-            "unitPrefixPattern": "P{0}"
+            "unitPrefixPattern": "ፔታ {0}"
           },
           "10p18": {
             "unitPrefixPattern": "E{0}"
           },
           "10p21": {
-            "unitPrefixPattern": "Z{0}"
+            "unitPrefixPattern": "ዜታ {0}"
           },
           "10p24": {
-            "unitPrefixPattern": "Y{0}"
+            "unitPrefixPattern": "ዮታ {0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "ሮና {0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "{0} ኪቢ"
@@ -1353,7 +1294,7 @@
             "unitPrefixPattern": "{0} ዜቢ"
           },
           "1024p8": {
-            "unitPrefixPattern": "Yi{0}"
+            "unitPrefixPattern": "ዮቢ {0}"
           },
           "per": {
             "compoundUnitPattern": "{0}/{1}"
@@ -1380,14 +1321,14 @@
             "unitPattern-count-other": "{0} ሜ/ሰ²"
           },
           "angle-revolution": {
-            "displayName": "rev",
-            "unitPattern-count-one": "{0} rev",
-            "unitPattern-count-other": "{0} rev"
+            "displayName": "ኡደት",
+            "unitPattern-count-one": "{0} ኡደት",
+            "unitPattern-count-other": "{0} ኡደት"
           },
           "angle-radian": {
-            "displayName": "rad",
-            "unitPattern-count-one": "{0} rad",
-            "unitPattern-count-other": "{0} rad"
+            "displayName": "ራዲ",
+            "unitPattern-count-one": "{0} ራዲ",
+            "unitPattern-count-other": "{0} ራዲ"
           },
           "angle-degree": {
             "displayName": "ዲግሪ",
@@ -1439,9 +1380,9 @@
             "unitPattern-count-other": "{0} ኤክር"
           },
           "area-square-yard": {
-            "displayName": "yd²",
-            "unitPattern-count-one": "{0} yd²",
-            "unitPattern-count-other": "{0} yd²"
+            "displayName": "ስኴር ያርድ",
+            "unitPattern-count-one": "{0} ስኴር ያርድ",
+            "unitPattern-count-other": "{0} ስኴር ያርድ"
           },
           "area-square-foot": {
             "displayName": "ካሬ ጫማ",
@@ -1466,12 +1407,10 @@
           },
           "concentr-milligram-ofglucose-per-deciliter": {
             "displayName": "mg/dL",
-            "unitPattern-count-one": "{0} mg/dL",
             "unitPattern-count-other": "{0} mg/dL"
           },
           "concentr-millimole-per-liter": {
             "displayName": "mmol/L",
-            "unitPattern-count-one": "{0} mmol/L",
             "unitPattern-count-other": "{0} mmol/L"
           },
           "concentr-item": {
@@ -1481,17 +1420,14 @@
           },
           "concentr-permillion": {
             "displayName": "ppm",
-            "unitPattern-count-one": "{0} ppm",
             "unitPattern-count-other": "{0} ppm"
           },
           "concentr-percent": {
             "displayName": "ፐርሰንት",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "በማይል",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
@@ -1519,7 +1455,6 @@
           },
           "consumption-mile-per-gallon-imperial": {
             "displayName": "mpg Imp.",
-            "unitPattern-count-one": "{0} mpg Imp.",
             "unitPattern-count-other": "{0} mpg Imp."
           },
           "digital-petabyte": {
@@ -1651,29 +1586,27 @@
             "unitPattern-count-other": "{0} ናኖሰከንድ"
           },
           "electric-ampere": {
-            "displayName": "amp",
-            "unitPattern-count-one": "{0} A",
-            "unitPattern-count-other": "{0} A"
+            "displayName": "አምፒር",
+            "unitPattern-count-one": "{0} አምፒር",
+            "unitPattern-count-other": "{0} አምፒር"
           },
           "electric-milliampere": {
             "displayName": "mA",
-            "unitPattern-count-one": "{0} mA",
             "unitPattern-count-other": "{0} mA"
           },
           "electric-ohm": {
             "displayName": "ohm",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
-            "displayName": "volt",
-            "unitPattern-count-one": "{0} V",
-            "unitPattern-count-other": "{0} V"
+            "displayName": "ቮልት",
+            "unitPattern-count-one": "{0} ቮልት",
+            "unitPattern-count-other": "{0} ቮልት"
           },
           "energy-kilocalorie": {
-            "displayName": "kcal",
-            "unitPattern-count-one": "{0} kcal",
-            "unitPattern-count-other": "{0} kcal"
+            "displayName": "ኪሎ ካሎሪ",
+            "unitPattern-count-one": "{0} ኪሎ ካሎሪ",
+            "unitPattern-count-other": "{0} ኪሎ ካሎሪ"
           },
           "energy-calorie": {
             "displayName": "ካሎሪ",
@@ -1681,23 +1614,22 @@
             "unitPattern-count-other": "{0} ካሎሪ"
           },
           "energy-foodcalorie": {
-            "displayName": "Cal",
-            "unitPattern-count-one": "{0} Cal",
-            "unitPattern-count-other": "{0} Cal"
+            "displayName": "ካሎሪ",
+            "unitPattern-count-one": "{0} ካሎሪ",
+            "unitPattern-count-other": "{0} ካሎሪ"
           },
           "energy-kilojoule": {
-            "displayName": "kJ",
-            "unitPattern-count-one": "{0} kJ",
-            "unitPattern-count-other": "{0} kJ"
+            "displayName": "ኪጁ",
+            "unitPattern-count-one": "{0} ኪጁ",
+            "unitPattern-count-other": "{0} ኪጁ"
           },
           "energy-joule": {
-            "displayName": "joule",
-            "unitPattern-count-one": "{0} J",
-            "unitPattern-count-other": "{0} J"
+            "displayName": "ጁልስ",
+            "unitPattern-count-one": "{0} ጁልስ",
+            "unitPattern-count-other": "{0} ጁልስ"
           },
           "energy-kilowatt-hour": {
             "displayName": "kWh",
-            "unitPattern-count-one": "{0} kWh",
             "unitPattern-count-other": "{0} kWh"
           },
           "energy-electronvolt": {
@@ -1727,24 +1659,24 @@
             "unitPattern-count-other": "{0} kWh/100km"
           },
           "frequency-gigahertz": {
-            "displayName": "GHz",
-            "unitPattern-count-one": "{0} GHz",
-            "unitPattern-count-other": "{0} GHz"
+            "displayName": "ጊጋኸርዝ",
+            "unitPattern-count-one": "{0} ጊጋኸርዝ",
+            "unitPattern-count-other": "{0} ጊጋኸርዝ"
           },
           "frequency-megahertz": {
-            "displayName": "MHz",
-            "unitPattern-count-one": "{0} MHz",
-            "unitPattern-count-other": "{0} MHz"
+            "displayName": "ሜጋኸርዝ",
+            "unitPattern-count-one": "{0} ሜጋኸርዝ",
+            "unitPattern-count-other": "{0} ሜጋኸርዝ"
           },
           "frequency-kilohertz": {
-            "displayName": "kHz",
-            "unitPattern-count-one": "{0} kHz",
-            "unitPattern-count-other": "{0} kHz"
+            "displayName": "ኪሎኸርዝ",
+            "unitPattern-count-one": "{0} ኪሎኸርዝ",
+            "unitPattern-count-other": "{0} ኪሎኸርዝ"
           },
           "frequency-hertz": {
-            "displayName": "Hz",
-            "unitPattern-count-one": "{0} Hz",
-            "unitPattern-count-other": "{0} Hz"
+            "displayName": "ኸርዝ",
+            "unitPattern-count-one": "{0} ኸርዝ",
+            "unitPattern-count-other": "{0} ኸርዝ"
           },
           "graphics-em": {
             "displayName": "em",
@@ -1856,7 +1788,6 @@
           },
           "length-parsec": {
             "displayName": "pc",
-            "unitPattern-count-one": "{0} pc",
             "unitPattern-count-other": "{0} pc"
           },
           "length-light-year": {
@@ -1866,7 +1797,6 @@
           },
           "length-astronomical-unit": {
             "displayName": "au",
-            "unitPattern-count-one": "{0} au",
             "unitPattern-count-other": "{0} au"
           },
           "length-furlong": {
@@ -1881,7 +1811,6 @@
           },
           "length-nautical-mile": {
             "displayName": "nmi",
-            "unitPattern-count-one": "{0} nmi",
             "unitPattern-count-other": "{0} nmi"
           },
           "length-mile-scandinavian": {
@@ -1900,7 +1829,6 @@
           },
           "light-lux": {
             "displayName": "lx",
-            "unitPattern-count-one": "{0} lx",
             "unitPattern-count-other": "{0} lx"
           },
           "light-candela": {
@@ -1918,9 +1846,9 @@
             "unitPattern-count-other": "{0} L☉"
           },
           "mass-tonne": {
-            "displayName": "t",
-            "unitPattern-count-one": "{0} t",
-            "unitPattern-count-other": "{0} t"
+            "displayName": "ቶ",
+            "unitPattern-count-one": "{0} ቶ",
+            "unitPattern-count-other": "{0} ቶ"
           },
           "mass-kilogram": {
             "displayName": "ኪሎግራም",
@@ -1935,14 +1863,14 @@
             "perUnitPattern": "{0}/ግራም"
           },
           "mass-milligram": {
-            "displayName": "mg",
-            "unitPattern-count-one": "{0} mg",
-            "unitPattern-count-other": "{0} mg"
+            "displayName": "ሚግ",
+            "unitPattern-count-one": "{0} ሚግ",
+            "unitPattern-count-other": "{0} ሚግ"
           },
           "mass-microgram": {
-            "displayName": "μg",
-            "unitPattern-count-one": "{0} μg",
-            "unitPattern-count-other": "{0} μg"
+            "displayName": "ማግ",
+            "unitPattern-count-one": "{0} ማግ",
+            "unitPattern-count-other": "{0} ማግ"
           },
           "mass-ton": {
             "displayName": "ቶን",
@@ -1968,17 +1896,16 @@
           },
           "mass-ounce-troy": {
             "displayName": "oz t",
-            "unitPattern-count-one": "{0} oz t",
             "unitPattern-count-other": "{0} oz t"
           },
           "mass-carat": {
             "displayName": "CD",
-            "unitPattern-count-one": "{0} CD",
             "unitPattern-count-other": "{0} CD"
           },
           "mass-dalton": {
-            "displayName": "ዳተንስ",
-            "unitPattern-count-other": "{0} Da"
+            "displayName": "ዳልተንስ",
+            "unitPattern-count-one": "{0} ዳልተንስ",
+            "unitPattern-count-other": "{0} ዳልተንስ"
           },
           "mass-earth-mass": {
             "displayName": "ኤርዝማስስ",
@@ -1994,14 +1921,14 @@
             "unitPattern-count-other": "{0} ጥራ ጥሬ"
           },
           "power-gigawatt": {
-            "displayName": "GW",
-            "unitPattern-count-one": "{0} GW",
-            "unitPattern-count-other": "{0} GW"
+            "displayName": "ጊጋ ዋት",
+            "unitPattern-count-one": "{0} ጊዋ",
+            "unitPattern-count-other": "{0} ጊዋ"
           },
           "power-megawatt": {
-            "displayName": "MW",
-            "unitPattern-count-one": "{0} MW",
-            "unitPattern-count-other": "{0} MW"
+            "displayName": "ሜዋ",
+            "unitPattern-count-one": "{0} ሜዋ",
+            "unitPattern-count-other": "{0} ሜዋ"
           },
           "power-kilowatt": {
             "displayName": "ኪሎዋት",
@@ -2014,9 +1941,9 @@
             "unitPattern-count-other": "{0} ዋ"
           },
           "power-milliwatt": {
-            "displayName": "mW",
-            "unitPattern-count-one": "{0} mW",
-            "unitPattern-count-other": "{0} mW"
+            "displayName": "ሚዋ",
+            "unitPattern-count-one": "{0} ሚዋ",
+            "unitPattern-count-other": "{0} ሚዋ"
           },
           "power-horsepower": {
             "displayName": "የፈረስ ጉልበት",
@@ -2025,12 +1952,10 @@
           },
           "pressure-millimeter-ofhg": {
             "displayName": "mm Hg",
-            "unitPattern-count-one": "{0} mm Hg",
             "unitPattern-count-other": "{0} mm Hg"
           },
           "pressure-pound-force-per-square-inch": {
             "displayName": "psi",
-            "unitPattern-count-one": "{0} psi",
             "unitPattern-count-other": "{0} psi"
           },
           "pressure-inch-ofhg": {
@@ -2090,12 +2015,14 @@
           },
           "speed-knot": {
             "displayName": "kn",
-            "unitPattern-count-one": "{0} kn",
             "unitPattern-count-other": "{0} kn"
+          },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
           },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
@@ -2109,9 +2036,9 @@
             "unitPattern-count-other": "{0}°ፋ"
           },
           "temperature-kelvin": {
-            "displayName": "K",
-            "unitPattern-count-one": "{0} K",
-            "unitPattern-count-other": "{0} K"
+            "displayName": "ኬ",
+            "unitPattern-count-one": "{0} ኬ",
+            "unitPattern-count-other": "{0} ኬ"
           },
           "torque-pound-force-foot": {
             "displayName": "lbf⋅ft",
@@ -2145,9 +2072,9 @@
             "unitPattern-count-other": "{0} ማይል³"
           },
           "volume-cubic-yard": {
-            "displayName": "yd³",
-            "unitPattern-count-one": "{0} yd³",
-            "unitPattern-count-other": "{0} yd³"
+            "displayName": "ኪዩቢክ ያርድ",
+            "unitPattern-count-one": "{0} ኪዩቢክ ያርድ",
+            "unitPattern-count-other": "{0} ኪዩቢክ ያርድ"
           },
           "volume-cubic-foot": {
             "displayName": "ጫማ³",
@@ -2160,14 +2087,14 @@
             "unitPattern-count-other": "{0} ኢንች³"
           },
           "volume-megaliter": {
-            "displayName": "ML",
-            "unitPattern-count-one": "{0} ML",
-            "unitPattern-count-other": "{0} ML"
+            "displayName": "ሜጋሊትር",
+            "unitPattern-count-one": "{0} ሜሊ",
+            "unitPattern-count-other": "{0} ሜሊ"
           },
           "volume-hectoliter": {
-            "displayName": "hL",
-            "unitPattern-count-one": "{0} hL",
-            "unitPattern-count-other": "{0} hL"
+            "displayName": "ሄሊ",
+            "unitPattern-count-one": "{0} ሄሊ",
+            "unitPattern-count-other": "{0} ሄሊ"
           },
           "volume-liter": {
             "displayName": "ሊትር",
@@ -2192,12 +2119,10 @@
           },
           "volume-pint-metric": {
             "displayName": "mpt",
-            "unitPattern-count-one": "{0} mpt",
             "unitPattern-count-other": "{0} mpt"
           },
           "volume-cup-metric": {
             "displayName": "mcup",
-            "unitPattern-count-one": "{0} mc",
             "unitPattern-count-other": "{0} mc"
           },
           "volume-acre-foot": {
@@ -2211,31 +2136,29 @@
             "unitPattern-count-other": "{0} ዳውላ"
           },
           "volume-gallon": {
-            "displayName": "gal",
-            "unitPattern-count-one": "{0} gal",
-            "unitPattern-count-other": "{0} gal",
-            "perUnitPattern": "{0}/gal"
+            "displayName": "ጋሎን",
+            "unitPattern-count-one": "{0}/ጋሎን",
+            "unitPattern-count-other": "{0} ጋሎን",
+            "perUnitPattern": "{0}/ጋሎን"
           },
           "volume-gallon-imperial": {
             "displayName": "Imp. gal",
-            "unitPattern-count-one": "{0} gal Imp.",
             "unitPattern-count-other": "{0} gal Imp.",
             "perUnitPattern": "{0}/gal Imp."
           },
           "volume-quart": {
-            "displayName": "qt",
-            "unitPattern-count-one": "{0} qt",
-            "unitPattern-count-other": "{0} qt"
+            "displayName": "ኳርትስ",
+            "unitPattern-count-one": "{0} ኳርትስ",
+            "unitPattern-count-other": "{0} ኳርትስ"
           },
           "volume-pint": {
             "displayName": "pt",
-            "unitPattern-count-one": "{0} pt",
             "unitPattern-count-other": "{0} pt"
           },
           "volume-cup": {
-            "displayName": "cup",
-            "unitPattern-count-one": "{0} c",
-            "unitPattern-count-other": "{0} c"
+            "displayName": "ኩባያ",
+            "unitPattern-count-one": "{0} ኩባያ",
+            "unitPattern-count-other": "{0} ኩባያ"
           },
           "volume-fluid-ounce": {
             "displayName": "fl oz",
@@ -2247,14 +2170,14 @@
             "unitPattern-count-other": "{0} fl oz Imp."
           },
           "volume-tablespoon": {
-            "displayName": "tbsp",
-            "unitPattern-count-one": "{0} tbsp",
-            "unitPattern-count-other": "{0} tbsp"
+            "displayName": "የሻይ ማንኪያ",
+            "unitPattern-count-one": "{0} የሻይ ማንኪያ",
+            "unitPattern-count-other": "{0} የሻይ ማንኪያ"
           },
           "volume-teaspoon": {
-            "displayName": "tsp",
-            "unitPattern-count-one": "{0} tsp",
-            "unitPattern-count-other": "{0} tsp"
+            "displayName": "የሻይ ማንኪያዎች",
+            "unitPattern-count-one": "{0} የሻይ ማንኪያዎች",
+            "unitPattern-count-other": "{0} የሻይ ማንኪያዎች"
           },
           "volume-barrel": {
             "displayName": "በርሜል",
@@ -2296,6 +2219,21 @@
             "unitPattern-count-one": "{0} የፈሳሽ መለኪያ",
             "unitPattern-count-other": "{0} የፈሳሽ መለኪያ"
           },
+          "speed-light-speed": {
+            "displayName": "ብርሃን",
+            "unitPattern-count-one": "{0} ብርሃን",
+            "unitPattern-count-other": "{0} ብርሃን"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "ለሊቶች",
+            "unitPattern-count-one": "{0} ለሊት",
+            "unitPattern-count-other": "{0} ለሊት",
+            "perUnitPattern": "{0}/ለሊት"
+          },
           "coordinateUnit": {
             "displayName": "አቅጣጫ",
             "east": "{0}ምስ",
@@ -2315,7 +2253,7 @@
             "unitPrefixPattern": "ሚ{0}"
           },
           "10p-6": {
-            "unitPrefixPattern": "μ{0}"
+            "unitPrefixPattern": "ማይክሮ{0}"
           },
           "10p-9": {
             "unitPrefixPattern": "ና{0}"
@@ -2335,6 +2273,12 @@
           "10p-24": {
             "unitPrefixPattern": "ዮ{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ዴ{0}"
           },
@@ -2348,22 +2292,28 @@
             "unitPrefixPattern": "ሜ{0}"
           },
           "10p9": {
-            "unitPrefixPattern": "G{0}"
+            "unitPrefixPattern": "ጊ{0}"
           },
           "10p12": {
-            "unitPrefixPattern": "T{0}"
+            "unitPrefixPattern": "ቴራ {0}"
           },
           "10p15": {
-            "unitPrefixPattern": "P{0}"
+            "unitPrefixPattern": "ፔታ {0}"
           },
           "10p18": {
             "unitPrefixPattern": "E{0}"
           },
           "10p21": {
-            "unitPrefixPattern": "Z{0}"
+            "unitPrefixPattern": "ዜታ {0}"
           },
           "10p24": {
-            "unitPrefixPattern": "Y{0}"
+            "unitPrefixPattern": "ዮታ {0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "ሮና {0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "{0} ኪቢ"
@@ -2387,7 +2337,7 @@
             "unitPrefixPattern": "{0} ዜቢ"
           },
           "1024p8": {
-            "unitPrefixPattern": "Yi{0}"
+            "unitPrefixPattern": "ዮቢ {0}"
           },
           "per": {
             "compoundUnitPattern": "{0}/{1}"
@@ -2473,9 +2423,9 @@
             "unitPattern-count-other": "{0} ኤክር"
           },
           "area-square-yard": {
-            "displayName": "yd²",
-            "unitPattern-count-one": "{0} yd²",
-            "unitPattern-count-other": "{0} yd²"
+            "displayName": "ስኴር ያርድ",
+            "unitPattern-count-one": "{0} ስኴር ያርድ",
+            "unitPattern-count-other": "{0} ስኴር ያርድ"
           },
           "area-square-foot": {
             "displayName": "ካሬ ጫማ",
@@ -2500,12 +2450,10 @@
           },
           "concentr-milligram-ofglucose-per-deciliter": {
             "displayName": "mg/dL",
-            "unitPattern-count-one": "{0} mg/dL",
             "unitPattern-count-other": "{0} mg/dL"
           },
           "concentr-millimole-per-liter": {
             "displayName": "mmol/L",
-            "unitPattern-count-one": "{0} mmol/L",
             "unitPattern-count-other": "{0} mmol/L"
           },
           "concentr-item": {
@@ -2515,17 +2463,14 @@
           },
           "concentr-permillion": {
             "displayName": "ppm",
-            "unitPattern-count-one": "{0} ppm",
             "unitPattern-count-other": "{0} ppm"
           },
           "concentr-percent": {
             "displayName": "%",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "በማይል",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
@@ -2553,7 +2498,6 @@
           },
           "consumption-mile-per-gallon-imperial": {
             "displayName": "mpg Imp.",
-            "unitPattern-count-one": "{0} mpg Imp.",
             "unitPattern-count-other": "{0} mpg Imp."
           },
           "digital-petabyte": {
@@ -2685,29 +2629,27 @@
             "unitPattern-count-other": "{0} ናኖሰከንድ"
           },
           "electric-ampere": {
-            "displayName": "amp",
-            "unitPattern-count-one": "{0} A",
-            "unitPattern-count-other": "{0} A"
+            "displayName": "አምፒር",
+            "unitPattern-count-one": "{0} አምፒር",
+            "unitPattern-count-other": "{0} አምፒር"
           },
           "electric-milliampere": {
             "displayName": "mA",
-            "unitPattern-count-one": "{0} mA",
             "unitPattern-count-other": "{0} mA"
           },
           "electric-ohm": {
             "displayName": "ohm",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
-            "displayName": "volt",
-            "unitPattern-count-one": "{0} V",
-            "unitPattern-count-other": "{0} V"
+            "displayName": "ቮልት",
+            "unitPattern-count-one": "{0} ቮልት",
+            "unitPattern-count-other": "{0} ቮልት"
           },
           "energy-kilocalorie": {
-            "displayName": "kcal",
-            "unitPattern-count-one": "{0} kcal",
-            "unitPattern-count-other": "{0} kcal"
+            "displayName": "ኪሎ ካሎሪ",
+            "unitPattern-count-one": "{0} ኪሎ ካሎሪ",
+            "unitPattern-count-other": "{0} ኪሎ ካሎሪ"
           },
           "energy-calorie": {
             "displayName": "ካሎሪ",
@@ -2720,18 +2662,17 @@
             "unitPattern-count-other": "{0} ካሎሪ"
           },
           "energy-kilojoule": {
-            "displayName": "kJ",
-            "unitPattern-count-one": "{0} kJ",
-            "unitPattern-count-other": "{0} kJ"
+            "displayName": "ኪጁ",
+            "unitPattern-count-one": "{0} ኪጁ",
+            "unitPattern-count-other": "{0} ኪጁ"
           },
           "energy-joule": {
-            "displayName": "joule",
-            "unitPattern-count-one": "{0} J",
-            "unitPattern-count-other": "{0} J"
+            "displayName": "ጁልስ",
+            "unitPattern-count-one": "{0} ጁልስ",
+            "unitPattern-count-other": "{0} ጁልስ"
           },
           "energy-kilowatt-hour": {
             "displayName": "kWh",
-            "unitPattern-count-one": "{0} kWh",
             "unitPattern-count-other": "{0} kWh"
           },
           "energy-electronvolt": {
@@ -2761,28 +2702,27 @@
             "unitPattern-count-other": "{0} kWh/100km"
           },
           "frequency-gigahertz": {
-            "displayName": "GHz",
-            "unitPattern-count-one": "{0} GHz",
-            "unitPattern-count-other": "{0} GHz"
+            "displayName": "ጊጋኸርዝ",
+            "unitPattern-count-one": "{0} ጊጋኸርዝ",
+            "unitPattern-count-other": "{0} ጊጋኸርዝ"
           },
           "frequency-megahertz": {
-            "displayName": "MHz",
-            "unitPattern-count-one": "{0} MHz",
-            "unitPattern-count-other": "{0} MHz"
+            "displayName": "ሜጋኸርዝ",
+            "unitPattern-count-one": "{0} ሜጋኸርዝ",
+            "unitPattern-count-other": "{0} ሜጋኸርዝ"
           },
           "frequency-kilohertz": {
-            "displayName": "kHz",
-            "unitPattern-count-one": "{0} kHz",
-            "unitPattern-count-other": "{0} kHz"
+            "displayName": "ኪሎኸርዝ",
+            "unitPattern-count-one": "{0} ኪሎኸርዝ",
+            "unitPattern-count-other": "{0} ኪሎኸርዝ"
           },
           "frequency-hertz": {
-            "displayName": "Hz",
-            "unitPattern-count-one": "{0} Hz",
-            "unitPattern-count-other": "{0} Hz"
+            "displayName": "ኸርዝ",
+            "unitPattern-count-one": "{0} ኸርዝ",
+            "unitPattern-count-other": "{0} ኸርዝ"
           },
           "graphics-em": {
             "displayName": "em",
-            "unitPattern-count-one": "{0} em",
             "unitPattern-count-other": "{0} em"
           },
           "graphics-pixel": {
@@ -2891,7 +2831,6 @@
           },
           "length-parsec": {
             "displayName": "pc",
-            "unitPattern-count-one": "{0} pc",
             "unitPattern-count-other": "{0} pc"
           },
           "length-light-year": {
@@ -2901,7 +2840,6 @@
           },
           "length-astronomical-unit": {
             "displayName": "au",
-            "unitPattern-count-one": "{0} au",
             "unitPattern-count-other": "{0} au"
           },
           "length-furlong": {
@@ -2935,7 +2873,6 @@
           },
           "light-lux": {
             "displayName": "lux",
-            "unitPattern-count-one": "{0} lx",
             "unitPattern-count-other": "{0} lx"
           },
           "light-candela": {
@@ -2975,9 +2912,9 @@
             "unitPattern-count-other": "{0} ሚሊግራም"
           },
           "mass-microgram": {
-            "displayName": "μg",
-            "unitPattern-count-one": "{0} μg",
-            "unitPattern-count-other": "{0} μg"
+            "displayName": "ማግ",
+            "unitPattern-count-one": "{0} ማግ",
+            "unitPattern-count-other": "{0} ማግ"
           },
           "mass-ton": {
             "displayName": "ቶን",
@@ -3003,17 +2940,16 @@
           },
           "mass-ounce-troy": {
             "displayName": "oz t",
-            "unitPattern-count-one": "{0} oz t",
             "unitPattern-count-other": "{0} oz t"
           },
           "mass-carat": {
             "displayName": "ካራት",
-            "unitPattern-count-one": "{0} CD",
             "unitPattern-count-other": "{0} CD"
           },
           "mass-dalton": {
-            "displayName": "ዳተንስ",
-            "unitPattern-count-other": "{0} Da"
+            "displayName": "ዳልተንስ",
+            "unitPattern-count-one": "{0} ዳልተንስ",
+            "unitPattern-count-other": "{0} ዳልተንስ"
           },
           "mass-earth-mass": {
             "displayName": "ኤርዝማስስ",
@@ -3029,14 +2965,14 @@
             "unitPattern-count-other": "{0} ጥራ ጥሬ"
           },
           "power-gigawatt": {
-            "displayName": "GW",
-            "unitPattern-count-one": "{0} GW",
-            "unitPattern-count-other": "{0} GW"
+            "displayName": "ጊዋ",
+            "unitPattern-count-one": "{0} ጊዋ",
+            "unitPattern-count-other": "{0} ጊዋ"
           },
           "power-megawatt": {
-            "displayName": "MW",
-            "unitPattern-count-one": "{0} MW",
-            "unitPattern-count-other": "{0} MW"
+            "displayName": "ሜዋ",
+            "unitPattern-count-one": "{0} ሜዋ",
+            "unitPattern-count-other": "{0} ሜዋ"
           },
           "power-kilowatt": {
             "displayName": "ኪሎዋት",
@@ -3049,9 +2985,9 @@
             "unitPattern-count-other": "{0} ዋ"
           },
           "power-milliwatt": {
-            "displayName": "mW",
-            "unitPattern-count-one": "{0} mW",
-            "unitPattern-count-other": "{0} mW"
+            "displayName": "ሚዋ",
+            "unitPattern-count-one": "{0} ሚዋ",
+            "unitPattern-count-other": "{0} ሚዋ"
           },
           "power-horsepower": {
             "displayName": "የፈረስ ጉልበት",
@@ -3060,12 +2996,10 @@
           },
           "pressure-millimeter-ofhg": {
             "displayName": "mm Hg",
-            "unitPattern-count-one": "{0} mm Hg",
             "unitPattern-count-other": "{0} mm Hg"
           },
           "pressure-pound-force-per-square-inch": {
             "displayName": "psi",
-            "unitPattern-count-one": "{0} psi",
             "unitPattern-count-other": "{0} psi"
           },
           "pressure-inch-ofhg": {
@@ -3125,12 +3059,14 @@
           },
           "speed-knot": {
             "displayName": "kn",
-            "unitPattern-count-one": "{0} kn",
             "unitPattern-count-other": "{0} kn"
+          },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
           },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
@@ -3180,9 +3116,9 @@
             "unitPattern-count-other": "{0} ማይል³"
           },
           "volume-cubic-yard": {
-            "displayName": "yd³",
-            "unitPattern-count-one": "{0} yd³",
-            "unitPattern-count-other": "{0} yd³"
+            "displayName": "ኪዩቢክ ያርድ",
+            "unitPattern-count-one": "{0} ኪዩቢክ ያርድ",
+            "unitPattern-count-other": "{0} ኪዩቢክ ያርድ"
           },
           "volume-cubic-foot": {
             "displayName": "ጫማ³",
@@ -3200,9 +3136,9 @@
             "unitPattern-count-other": "{0} ሜጋሊትር"
           },
           "volume-hectoliter": {
-            "displayName": "hL",
-            "unitPattern-count-one": "{0} hL",
-            "unitPattern-count-other": "{0} hL"
+            "displayName": "ሄሊ",
+            "unitPattern-count-one": "{0} ሄሊ",
+            "unitPattern-count-other": "{0} ሄሊ"
           },
           "volume-liter": {
             "displayName": "ሊትር",
@@ -3227,12 +3163,10 @@
           },
           "volume-pint-metric": {
             "displayName": "mpt",
-            "unitPattern-count-one": "{0} mpt",
             "unitPattern-count-other": "{0} mpt"
           },
           "volume-cup-metric": {
             "displayName": "mcup",
-            "unitPattern-count-one": "{0} mc",
             "unitPattern-count-other": "{0} mc"
           },
           "volume-acre-foot": {
@@ -3246,25 +3180,23 @@
             "unitPattern-count-other": "{0} ዳውላ"
           },
           "volume-gallon": {
-            "displayName": "gal",
-            "unitPattern-count-one": "{0} gal",
-            "unitPattern-count-other": "{0} gal",
-            "perUnitPattern": "{0}/gal"
+            "displayName": "ጋሎን",
+            "unitPattern-count-one": "{0} ጋሎን",
+            "unitPattern-count-other": "{0} ጋሎን",
+            "perUnitPattern": "{0}/ጋሎን"
           },
           "volume-gallon-imperial": {
             "displayName": "Imp. gal",
-            "unitPattern-count-one": "{0} gal Imp.",
             "unitPattern-count-other": "{0} gal Imp.",
             "perUnitPattern": "{0}/gal Imp."
           },
           "volume-quart": {
-            "displayName": "qt",
-            "unitPattern-count-one": "{0} qt",
-            "unitPattern-count-other": "{0} qt"
+            "displayName": "ኳርትስ",
+            "unitPattern-count-one": "{0} ኳርትስ",
+            "unitPattern-count-other": "{0} ኳርትስ"
           },
           "volume-pint": {
             "displayName": "pt",
-            "unitPattern-count-one": "{0} pt",
             "unitPattern-count-other": "{0} pt"
           },
           "volume-cup": {
@@ -3282,14 +3214,14 @@
             "unitPattern-count-other": "{0} fl oz Imp."
           },
           "volume-tablespoon": {
-            "displayName": "tbsp",
-            "unitPattern-count-one": "{0} tbsp",
-            "unitPattern-count-other": "{0} tbsp"
+            "displayName": "የሻይ ማንኪያ",
+            "unitPattern-count-one": "{0} የሻይ ማንኪያ",
+            "unitPattern-count-other": "{0} የሻይ ማንኪያ"
           },
           "volume-teaspoon": {
-            "displayName": "tsp",
-            "unitPattern-count-one": "{0} tsp",
-            "unitPattern-count-other": "{0} tsp"
+            "displayName": "የሻይ ማንኪያዎች",
+            "unitPattern-count-one": "{0} የሻይ ማንኪያዎች",
+            "unitPattern-count-other": "{0} የሻይ ማንኪያዎች"
           },
           "volume-barrel": {
             "displayName": "በርሜል",
@@ -3330,6 +3262,21 @@
             "displayName": "የፈሳሽ መለኪያ",
             "unitPattern-count-one": "{0} ፈመ",
             "unitPattern-count-other": "{0} ፈመ"
+          },
+          "speed-light-speed": {
+            "displayName": "ብርሃን",
+            "unitPattern-count-one": "{0} ብርሃን",
+            "unitPattern-count-other": "{0} ብርሃን"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "ለሊቶች",
+            "unitPattern-count-one": "{0} ለሊት",
+            "unitPattern-count-other": "{0} ለሊት",
+            "perUnitPattern": "{0}/ለሊት"
           },
           "coordinateUnit": {
             "displayName": "አቅጣጫ",

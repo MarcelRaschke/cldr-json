@@ -2,9 +2,6 @@
   "main": {
     "jmc": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "jmc"
       },
       "layout": {

@@ -2,9 +2,6 @@
   "main": {
     "my": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "my"
       },
       "listPatterns": {
@@ -48,7 +45,7 @@
           "start": "{0}- {1}",
           "middle": "{0}- {1}",
           "end": "{0}နှင့် {1}",
-          "2": "{0}နှင့်{1}"
+          "2": "{0}နှင့် {1}"
         },
         "listPattern-type-unit-narrow": {
           "start": "{0} {1}",
@@ -57,8 +54,8 @@
           "2": "{0}နှင့် {1}"
         },
         "listPattern-type-unit-short": {
-          "start": "{0}- {1}",
-          "middle": "{0}- {1}",
+          "start": "{0} - {1}",
+          "middle": "{0} - {1}",
           "end": "{0}နှင့် {1}",
           "2": "{0}နှင့် {1}"
         }

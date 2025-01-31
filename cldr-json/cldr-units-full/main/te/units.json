@@ -2,9 +2,6 @@
   "main": {
     "te": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "te"
       },
       "units": {
@@ -39,6 +36,12 @@
           "10p-24": {
             "unitPrefixPattern": "యోక్టో{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "రోంటో{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "క్వెక్టో{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "డెకా{0}"
           },
@@ -68,6 +71,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "యొట్టా{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "రోన్నా{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "క్వెట్టా{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "కిబి{0}"
@@ -530,7 +539,7 @@
           "graphics-dot": {
             "displayName": "బిందువు",
             "unitPattern-count-one": "{0} బిందువు",
-            "unitPattern-count-other": "{0} బిందువు"
+            "unitPattern-count-other": "{0} బిందువులు"
           },
           "length-earth-radius": {
             "displayName": "భూమి వ్యాసార్ధం",
@@ -846,6 +855,11 @@
             "unitPattern-count-one": "{0} నాట్",
             "unitPattern-count-other": "{0} నాట్‌లు"
           },
+          "speed-beaufort": {
+            "displayName": "బ్యూఫోర్ట్",
+            "unitPattern-count-one": "బ్యూఫోర్ట్ {0}",
+            "unitPattern-count-other": "బ్యూఫోర్ట్ {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-one": "{0} డిగ్రీ",
@@ -1051,6 +1065,22 @@
             "unitPattern-count-one": "{0} ఇంపీరియల్ చతుర్ధాంశం",
             "unitPattern-count-other": "{0} ఇంపీరియల్ చతుర్ధాంశం"
           },
+          "speed-light-speed": {
+            "displayName": "లైట్",
+            "unitPattern-count-one": "{0} లైట్",
+            "unitPattern-count-other": "{0} లైట్"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ప్రతి బిలియన్‌కి భాగాలు",
+            "unitPattern-count-one": "ప్రతి బిలియన్‌కి {0} భాగం",
+            "unitPattern-count-other": "ప్రతి బిలియన్‌కి {0} భాగాలు"
+          },
+          "duration-night": {
+            "displayName": "రాత్రి",
+            "unitPattern-count-one": "{0} రాత్రి",
+            "unitPattern-count-other": "{0} రాత్రులు",
+            "perUnitPattern": "ఒక రాత్రికి {0}"
+          },
           "coordinateUnit": {
             "displayName": "కార్డినల్ దిశ",
             "east": "{0} తూర్పు",
@@ -1090,6 +1120,12 @@
           "10p-24": {
             "unitPrefixPattern": "యోక్.{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "రోం.{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "డెక్.{0}"
           },
@@ -1120,6 +1156,12 @@
           "10p24": {
             "unitPrefixPattern": "యొ{0}"
           },
+          "10p27": {
+            "unitPrefixPattern": "రో.{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "క్వె.{0}"
+          },
           "1024p1": {
             "unitPrefixPattern": "కిబ్.{0}"
           },
@@ -1149,7 +1191,6 @@
           },
           "power2": {
             "compoundUnitPattern1": "{0}²",
-            "compoundUnitPattern1-count-one": "{0}²",
             "compoundUnitPattern1-count-other": "{0}²"
           },
           "power3": {
@@ -1276,12 +1317,10 @@
           },
           "concentr-percent": {
             "displayName": "శాతం",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "మైలుకు",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
@@ -1290,7 +1329,6 @@
           },
           "concentr-mole": {
             "displayName": "మోల్",
-            "unitPattern-count-one": "{0} mol",
             "unitPattern-count-other": "{0} mol"
           },
           "consumption-liter-per-kilometer": {
@@ -1453,7 +1491,6 @@
           },
           "electric-ohm": {
             "displayName": "ఓమ్స్",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
@@ -1572,7 +1609,7 @@
           "graphics-dot": {
             "displayName": "బిందువు",
             "unitPattern-count-one": "{0} బిందువు",
-            "unitPattern-count-other": "{0} బిందువు"
+            "unitPattern-count-other": "{0} బిందువులు"
           },
           "length-earth-radius": {
             "displayName": "R⊕",
@@ -1654,9 +1691,9 @@
             "unitPattern-count-other": "{0} కాం. సం"
           },
           "length-astronomical-unit": {
-            "displayName": "au",
-            "unitPattern-count-one": "au",
-            "unitPattern-count-other": "{0} au"
+            "displayName": "ఖ. ప్ర.",
+            "unitPattern-count-one": "ఖ. ప్ర.",
+            "unitPattern-count-other": "{0} ఖ. ప్ర."
           },
           "length-furlong": {
             "displayName": "ఫర్లాంగులు",
@@ -1680,7 +1717,6 @@
           },
           "length-point": {
             "displayName": "పాయింట్‌లు",
-            "unitPattern-count-one": "{0} pt",
             "unitPattern-count-other": "{0} pt"
           },
           "length-solar-radius": {
@@ -1767,7 +1803,6 @@
           },
           "mass-dalton": {
             "displayName": "డాల్టన్‌లు",
-            "unitPattern-count-one": "{0} Da",
             "unitPattern-count-other": "{0} Da"
           },
           "mass-earth-mass": {
@@ -1880,9 +1915,13 @@
             "unitPattern-count-one": "{0} నా.",
             "unitPattern-count-other": "{0} నా."
           },
+          "speed-beaufort": {
+            "displayName": "బ్యూ.",
+            "unitPattern-count-one": "బ్యూ. {0}",
+            "unitPattern-count-other": "బ్యూ. {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
@@ -1906,8 +1945,7 @@
             "unitPattern-count-other": "{0} పౌం.ఫీ."
           },
           "torque-newton-meter": {
-            "displayName": "N⋅m",
-            "unitPattern-count-one": "{0} N⋅m",
+            "displayName": "న్యూ. మీ.",
             "unitPattern-count-other": "{0} N⋅m"
           },
           "volume-cubic-kilometer": {
@@ -2084,6 +2122,21 @@
             "unitPattern-count-one": "{0} చతు. ఇంపీరియల్",
             "unitPattern-count-other": "{0} చతు. ఇంపీరియల్"
           },
+          "speed-light-speed": {
+            "displayName": "లైట్",
+            "unitPattern-count-one": "{0} లైట్",
+            "unitPattern-count-other": "{0} లైట్"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "భాగాలు/బిలియన్",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "రాత్రులు",
+            "unitPattern-count-one": "{0} రాత్రి",
+            "unitPattern-count-other": "{0} రాత్రులు",
+            "perUnitPattern": "రాత్రికి {0}"
+          },
           "coordinateUnit": {
             "displayName": "దిశ",
             "east": "{0} తూ.",
@@ -2123,6 +2176,12 @@
           "10p-24": {
             "unitPrefixPattern": "యో{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "రో{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "క్వె{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "డెకా{0}"
           },
@@ -2153,6 +2212,12 @@
           "10p24": {
             "unitPrefixPattern": "యొ{0}"
           },
+          "10p27": {
+            "unitPrefixPattern": "రో{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "క్వె{0}"
+          },
           "1024p1": {
             "unitPrefixPattern": "కి{0}"
           },
@@ -2182,7 +2247,6 @@
           },
           "power2": {
             "compoundUnitPattern1": "{0}²",
-            "compoundUnitPattern1-count-one": "{0}²",
             "compoundUnitPattern1-count-other": "{0}²"
           },
           "power3": {
@@ -2309,12 +2373,10 @@
           },
           "concentr-percent": {
             "displayName": "%",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "మైలుకు",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
@@ -2486,7 +2548,6 @@
           },
           "electric-ohm": {
             "displayName": "ఓమ్స్",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
@@ -2688,9 +2749,9 @@
             "unitPattern-count-other": "{0} కాం. సం"
           },
           "length-astronomical-unit": {
-            "displayName": "au",
-            "unitPattern-count-one": "au",
-            "unitPattern-count-other": "{0} au"
+            "displayName": "ఖ. ప్ర.",
+            "unitPattern-count-one": "{0}ఖ. ప్ర.",
+            "unitPattern-count-other": "{0}ఖ. ప్ర."
           },
           "length-furlong": {
             "displayName": "ఫర్లాంగులు",
@@ -2714,7 +2775,6 @@
           },
           "length-point": {
             "displayName": "పాయింట్‌లు",
-            "unitPattern-count-one": "{0} pt",
             "unitPattern-count-other": "{0} pt"
           },
           "length-solar-radius": {
@@ -2801,7 +2861,6 @@
           },
           "mass-dalton": {
             "displayName": "డాల్టన్‌లు",
-            "unitPattern-count-one": "{0} Da",
             "unitPattern-count-other": "{0} Da"
           },
           "mass-earth-mass": {
@@ -2915,9 +2974,13 @@
             "unitPattern-count-one": "{0} నా.",
             "unitPattern-count-other": "{0} నా."
           },
+          "speed-beaufort": {
+            "displayName": "బ్యూ.",
+            "unitPattern-count-one": "బ్యూ.{0}",
+            "unitPattern-count-other": "బ్యూ.{0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
@@ -2941,9 +3004,9 @@
             "unitPattern-count-other": "{0} పౌం.ఫీ."
           },
           "torque-newton-meter": {
-            "displayName": "N⋅m",
-            "unitPattern-count-one": "{0} N⋅m",
-            "unitPattern-count-other": "{0} N⋅m"
+            "displayName": "న్యూ. మీ.",
+            "unitPattern-count-one": "{0} న్యూ. మీ.",
+            "unitPattern-count-other": "{0}న్యూ. మీ."
           },
           "volume-cubic-kilometer": {
             "displayName": "కి.మీ³",
@@ -3119,6 +3182,21 @@
             "displayName": "చతు. ఇంపీరియల్",
             "unitPattern-count-one": "{0}చతు.ఇం.",
             "unitPattern-count-other": "{0}చతు.ఇం."
+          },
+          "speed-light-speed": {
+            "displayName": "లైట్",
+            "unitPattern-count-one": "{0} లైట్",
+            "unitPattern-count-other": "{0} లైట్"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "భాగాలు/బిలియన్",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "రాత్రులు",
+            "unitPattern-count-one": "{0}రాత్రి",
+            "unitPattern-count-other": "{0}రాత్రులు",
+            "perUnitPattern": "రాత్రికి {0}"
           },
           "coordinateUnit": {
             "displayName": "దిశ",

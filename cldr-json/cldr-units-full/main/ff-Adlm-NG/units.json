@@ -2,9 +2,6 @@
   "main": {
     "ff-Adlm-NG": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ff",
         "script": "Adlm",
         "territory": "NG"
@@ -41,6 +38,12 @@
           "10p-24": {
             "unitPrefixPattern": "𞤴𞤮𞤳𞤼𞤮{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "𞤣𞤫𞤳𞤢{0}"
           },
@@ -70,6 +73,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "𞤴𞤮𞤼𞥆𞤢{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "𞤳𞤭𞤦𞤭{0}"
@@ -424,11 +433,6 @@
             "unitPattern-count-one": "{0} 𞤲𞤺𞤵𞤤𞤵",
             "unitPattern-count-other": "{0} 𞤲𞤺𞤵𞤤𞤭"
           },
-          "energy-foodcalorie": {
-            "displayName": "𞤐𞤺𞤵𞤤𞤭",
-            "unitPattern-count-one": "{0} 𞤐𞤺𞤵𞤤𞤵",
-            "unitPattern-count-other": "{0} 𞤐𞤺𞤵𞤤𞤭"
-          },
           "energy-kilojoule": {
             "displayName": "𞤳𞤭𞤤𞤮𞥁𞤵𞥅𞤤𞤶𞤭",
             "unitPattern-count-one": "{0} 𞤳𞤭𞤤𞤮𞥁𞤵𞥅𞤤𞤱𞤵",
@@ -518,21 +522,6 @@
             "displayName": "𞤨𞤭𞤳𞤷𞤭 𞤲𞤣𞤫𞤪 𞤲𞤺𞤮𞤪𞤰𞤵",
             "unitPattern-count-one": "{0} 𞤨𞤭𞤳𞤷𞤮𞤤 𞤲𞤣𞤫𞤪 𞤲𞤺𞤮𞤪𞤰𞤵",
             "unitPattern-count-other": "{0} 𞤨𞤭𞤳𞤷𞤭 𞤲𞤣𞤫𞤪 𞤲𞤺𞤮𞤪𞤰𞤵"
-          },
-          "graphics-dot-per-centimeter": {
-            "displayName": "𞤼𞤮𞤩𞥆𞤫 𞤲𞤣𞤫𞤪 𞤧𞤢𞤲𞤼𞤭𞤥𞤫𞥅𞤼𞤮𞤤",
-            "unitPattern-count-one": "{0} 𞤼𞤮𞤩𞥆𞤫𞤪𞤫 𞤲𞤣𞤫𞤪 𞤧𞤢𞤲𞤼𞤭𞤥𞤫𞥅𞤼𞤮𞤤",
-            "unitPattern-count-other": "{0} 𞤼𞤮𞤩𞥆𞤫 𞤲𞤣𞤫𞤪 𞤧𞤢𞤲𞤼𞤭𞤥𞤫𞥅𞤼𞤮𞤤"
-          },
-          "graphics-dot-per-inch": {
-            "displayName": "𞤼𞤮𞤩𞥆𞤫 𞤲𞤣𞤫𞤪 𞤲𞤺𞤮𞤪𞤰𞤵",
-            "unitPattern-count-one": "{0} 𞤼𞤮𞤩𞥆𞤫𞤪𞤫 𞤲𞤣𞤫𞤪 𞤲𞤺𞤮𞤪𞤰𞤵",
-            "unitPattern-count-other": "{0} 𞤼𞤮𞤩𞥆𞤫 𞤲𞤣𞤫𞤪 𞤲𞤺𞤮𞤪𞤰𞤵"
-          },
-          "graphics-dot": {
-            "displayName": "𞤼𞤮𞤩𞥆𞤫",
-            "unitPattern-count-one": "{0} 𞤼𞤮𞤩𞥆𞤫𞤪𞤫",
-            "unitPattern-count-other": "{0} 𞤼𞤮𞤩𞥆𞤫𞤪𞤫"
           },
           "length-earth-radius": {
             "displayName": "𞤤𞤢𞥄𞤧𞤮𞤤 𞤤𞤫𞤴𞤣𞤭 𞤲𞤣𞤭𞤲",
@@ -848,6 +837,10 @@
             "unitPattern-count-one": "{0} 𞤨𞤭𞤩𞤵",
             "unitPattern-count-other": "{0} 𞤨𞤭𞤩𞤭"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "𞤶𞤫𞤩𞤫𞤪𞤫",
             "unitPattern-count-one": "{0} 𞤶𞤫𞤩𞤫𞤪𞤫",
@@ -1053,6 +1046,19 @@
             "unitPattern-count-one": "{0} 𞤳𞤮𞤪𞤼𞤵 𞤚𞤭𞤤𞤧𞤵",
             "unitPattern-count-other": "{0} 𞤳𞤮𞤪𞤼𞤭 𞤚𞤭𞤤𞤧𞤵"
           },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "night",
+            "unitPattern-count-other": "{0} night",
+            "perUnitPattern": "{0}/night"
+          },
           "coordinateUnit": {
             "displayName": "𞤦𞤢𞤲𞤽𞤢𞤤 𞤸𞤫𞤣𞥆𞤫",
             "east": "{0} 𞤬𞤵𞤯𞤲𞤢𞥄𞤲𞤺𞤫",
@@ -1092,6 +1098,12 @@
           "10p-24": {
             "unitPrefixPattern": "𞤴{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "𞤣𞤢{0}"
           },
@@ -1121,6 +1133,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "𞤒{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "𞤑𞤭{0}"
@@ -1278,17 +1296,14 @@
           },
           "concentr-percent": {
             "displayName": "𞤳𞤢𞤤𞤼𞤫𞥅𞤥𞤵",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "𞤳𞤢𞤤𞤺𞤵𞤤𞤶𞤵",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
             "displayName": "𞤳𞤢𞤤𞤲𞤺𞤵𞤤𞤧𞤢𞤨𞥆𞤮",
-            "unitPattern-count-one": "{0}‱",
             "unitPattern-count-other": "{0}‱"
           },
           "concentr-mole": {
@@ -1456,7 +1471,6 @@
           },
           "electric-ohm": {
             "displayName": "𞤮𞤸𞤥𞤵𞥅𞤶𞤭",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
@@ -1473,11 +1487,6 @@
             "displayName": "𞤺𞤵𞤤",
             "unitPattern-count-one": "{0} 𞤺𞤵𞤤",
             "unitPattern-count-other": "{0} 𞤺𞤵𞤤"
-          },
-          "energy-foodcalorie": {
-            "displayName": "𞤘𞤵𞤤",
-            "unitPattern-count-one": "{0} 𞤘𞤵𞤤",
-            "unitPattern-count-other": "{0} 𞤘𞤵𞤤"
           },
           "energy-kilojoule": {
             "displayName": "𞤳𞤭𞤤𞤮𞥁𞤵𞥅𞤤𞤱𞤵",
@@ -1568,21 +1577,6 @@
             "displayName": "𞤨𞤳𞤣𞤺𞤰",
             "unitPattern-count-one": "{0} 𞤨𞤳𞤣𞤺𞤰",
             "unitPattern-count-other": "{0} 𞤨𞤳𞤣𞤺𞤰"
-          },
-          "graphics-dot-per-centimeter": {
-            "displayName": "𞤼𞤩𞤧𞤥",
-            "unitPattern-count-one": "{0} 𞤼𞤩𞤧𞤥",
-            "unitPattern-count-other": "{0} 𞤼𞤩𞤧𞤥"
-          },
-          "graphics-dot-per-inch": {
-            "displayName": "𞤼𞤩𞤺𞤰",
-            "unitPattern-count-one": "{0} 𞤼𞤩𞤺𞤰",
-            "unitPattern-count-other": "{0} 𞤼𞤩𞤺𞤰"
-          },
-          "graphics-dot": {
-            "displayName": "𞤨𞤭𞤳𞤷𞤭",
-            "unitPattern-count-one": "{0} 𞤼𞤮𞤩𞥆𞤫𞤪𞤫",
-            "unitPattern-count-other": "{0} 𞤼𞤮𞤩𞥆𞤫𞤪𞤫"
           },
           "length-earth-radius": {
             "displayName": "𞤂⊕",
@@ -1897,6 +1891,10 @@
             "unitPattern-count-one": "{0} 𞤨𞤩",
             "unitPattern-count-other": "{0} 𞤨𞤩"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "{0}°"
@@ -2101,6 +2099,19 @@
             "unitPattern-count-one": "{0} 𞤳𞤼 𞤚𞤭𞤤.",
             "unitPattern-count-other": "{0} 𞤳𞤼 𞤚𞤭𞤤."
           },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "night",
+            "unitPattern-count-other": "{0} night",
+            "perUnitPattern": "{0}/night"
+          },
           "coordinateUnit": {
             "displayName": "𞤸𞤫𞤤𞥆𞤢",
             "east": "{0} 𞤊",
@@ -2140,6 +2151,12 @@
           "10p-24": {
             "unitPrefixPattern": "𞤴{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "𞤣𞤢{0}"
           },
@@ -2169,6 +2186,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "𞤒{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "𞤑𞤭{0}"
@@ -2327,17 +2350,14 @@
           },
           "concentr-percent": {
             "displayName": "%",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "‰",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
             "displayName": "‱",
-            "unitPattern-count-one": "{0}‱",
             "unitPattern-count-other": "{0}‱"
           },
           "concentr-mole": {
@@ -2523,11 +2543,6 @@
             "unitPattern-count-one": "{0}𞤺𞤵𞤤",
             "unitPattern-count-other": "{0}𞤺𞤵𞤤"
           },
-          "energy-foodcalorie": {
-            "displayName": "𞤘𞤵𞤤",
-            "unitPattern-count-one": "{0}𞤘𞤵𞤤",
-            "unitPattern-count-other": "{0}𞤘𞤵𞤤"
-          },
           "energy-kilojoule": {
             "displayName": "𞤳𞤟",
             "unitPattern-count-one": "{0}𞤳𞤟",
@@ -2617,21 +2632,6 @@
             "displayName": "𞤨𞤳𞤣𞤺𞤰",
             "unitPattern-count-one": "{0}𞤨𞤳𞤣𞤺𞤰",
             "unitPattern-count-other": "{0}𞤨𞤳𞤣𞤺𞤰"
-          },
-          "graphics-dot-per-centimeter": {
-            "displayName": "𞤼𞤩𞤧𞤥",
-            "unitPattern-count-one": "{0}𞤼𞤩𞤧𞤥",
-            "unitPattern-count-other": "{0}𞤼𞤩𞤧𞤥"
-          },
-          "graphics-dot-per-inch": {
-            "displayName": "𞤼𞤩𞤺𞤰",
-            "unitPattern-count-one": "{0}𞤼𞤩𞤺𞤰",
-            "unitPattern-count-other": "{0}𞤼𞤩𞤺𞤰"
-          },
-          "graphics-dot": {
-            "displayName": "𞤼𞤮𞤩𞥆𞤫𞤪𞤫",
-            "unitPattern-count-one": "{0}𞤼𞤮𞤩𞥆𞤫𞤪𞤫",
-            "unitPattern-count-other": "{0}𞤼𞤮𞤩𞥆𞤫𞤪𞤫"
           },
           "length-earth-radius": {
             "displayName": "𞤂⊕",
@@ -2947,9 +2947,12 @@
             "unitPattern-count-one": "{0}𞤨𞤩",
             "unitPattern-count-other": "{0}𞤨𞤩"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
@@ -3151,6 +3154,19 @@
             "displayName": "𞤳𞤼 𞤚𞤭𞤤",
             "unitPattern-count-one": "{0}𞤳𞤼 𞤚𞤭𞤤.",
             "unitPattern-count-other": "{0}𞤳𞤼 𞤚𞤭𞤤."
+          },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "night",
+            "unitPattern-count-other": "{0} night",
+            "perUnitPattern": "{0}/night"
           },
           "coordinateUnit": {
             "displayName": "𞤸𞤫𞤤𞥆𞤢",

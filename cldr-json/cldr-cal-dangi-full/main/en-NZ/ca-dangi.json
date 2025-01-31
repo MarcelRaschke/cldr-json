@@ -2,9 +2,6 @@
   "main": {
     "en-NZ": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "en",
         "territory": "NZ"
       },
@@ -1088,9 +1085,13 @@
             },
             "timeFormats": {
               "full": "h:mm:ss a zzzz",
+              "full-alt-ascii": "h:mm:ss a zzzz",
               "long": "h:mm:ss a z",
+              "long-alt-ascii": "h:mm:ss a z",
               "medium": "h:mm:ss a",
-              "short": "h:mm a"
+              "medium-alt-ascii": "h:mm:ss a",
+              "short": "h:mm a",
+              "short-alt-ascii": "h:mm a"
             },
             "timeSkeletons": {
               "full": "ahmmsszzzz",
@@ -1113,8 +1114,10 @@
                 "EBhms": "E h:mm:ss B",
                 "Ed": "E d",
                 "Ehm": "E h:mm a",
+                "Ehm-alt-ascii": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
+                "Ehms-alt-ascii": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
                 "Gy": "r(U)",
                 "GyMMM": "MMM r",
@@ -1124,10 +1127,13 @@
                 "GyMMMMd": "d MMMM r(U)",
                 "GyMMMMEd": "E, d MMMM r(U)",
                 "h": "h a",
+                "h-alt-ascii": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
+                "hm-alt-ascii": "h:mm a",
                 "Hm": "HH:mm",
                 "hms": "h:mm:ss a",
+                "hms-alt-ascii": "h:mm:ss a",
                 "Hms": "HH:mm:ss",
                 "M": "LL",
                 "Md": "dd/MM",
@@ -1142,7 +1148,6 @@
                 "UMMM": "MMM U",
                 "UMMMd": "d MMM U",
                 "y": "r(U)",
-                "yMd": "r-MM-dd",
                 "yyyy": "r(U)",
                 "yyyyM": "MM/r",
                 "yyyyMd": "dd/MM/r",

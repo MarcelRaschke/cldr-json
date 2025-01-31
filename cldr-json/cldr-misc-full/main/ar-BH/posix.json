@@ -2,9 +2,6 @@
   "main": {
     "ar-BH": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ar",
         "territory": "BH"
       },

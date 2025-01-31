@@ -2,9 +2,6 @@
   "main": {
     "ha": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ha"
       },
       "delimiters": {

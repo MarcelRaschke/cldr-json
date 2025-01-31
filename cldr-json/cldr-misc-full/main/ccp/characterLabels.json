@@ -2,9 +2,6 @@
   "main": {
     "ccp": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ccp"
       },
       "characterLabelPatterns": {
@@ -13,11 +10,12 @@
         "compatibility": "{0} — 𑄟𑄨𑄣𑄴𑄟𑄨𑄌𑄴",
         "enclosed": "{0} — 𑄝𑄚𑄳𑄦𑄬",
         "extended": "{0} — 𑄓𑄋𑄧𑄢𑄴𑄘𑄨𑄊𑄮𑄣𑄴",
+        "facing-left": "{0} facing left",
+        "facing-right": "{0} facing right",
         "historic": "{0} — 𑄛𑄪𑄢𑄮𑄚𑄨𑄃𑄟𑄧𑄣𑄴",
         "miscellaneous": "{0} — 𑄚𑄚 𑄝𑄝𑄧𑄖𑄳𑄠",
         "other": "{0} — 𑄃𑄧𑄚𑄳𑄠𑄧",
         "scripts": "𑄦𑄧𑄢𑄧𑄇𑄴 — {0}",
-        "strokes-count-one": "{0} 𑄥𑄳𑄑𑄳𑄢𑄳𑄢𑄳𑄢𑄧𑄇𑄴",
         "strokes-count-other": "{0} 𑄥𑄳𑄑𑄳𑄢𑄳𑄢𑄳𑄢𑄧𑄇𑄴",
         "subscript": "subscript {0}",
         "superscript": "superscript {0}"

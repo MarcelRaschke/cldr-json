@@ -2,9 +2,6 @@
   "main": {
     "ti": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ti"
       },
       "delimiters": {

@@ -2,9 +2,6 @@
   "main": {
     "pa-Guru": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "pa",
         "script": "Guru"
       },

@@ -2,9 +2,6 @@
   "main": {
     "bs": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "bs"
       },
       "localeDisplayNames": {
@@ -93,7 +90,6 @@
           "REVISED": "Revidirana ortografija",
           "RIGIK": "Rigik",
           "ROZAJ": "Rezijan",
-          "RUMGR": "RUMGR",
           "SAAHO": "Saho",
           "SCOTLAND": "Škotski standardni engleski",
           "SCOUSE": "Skauz",

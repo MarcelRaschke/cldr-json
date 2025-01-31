@@ -2,9 +2,6 @@
   "main": {
     "lb": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "lb"
       },
       "localeDisplayNames": {
@@ -38,7 +35,6 @@
           "151": "Osteuropa",
           "154": "Nordeuropa",
           "155": "Westeuropa",
-          "202": "202",
           "419": "Latäinamerika",
           "AC": "Ascension",
           "AD": "Andorra",
@@ -118,7 +114,6 @@
           "ES": "Spanien",
           "ET": "Ethiopien",
           "EU": "Europäesch Unioun",
-          "EZ": "EZ",
           "FI": "Finnland",
           "FJ": "Fidschi",
           "FK": "Falklandinselen",
@@ -159,7 +154,6 @@
           "IL": "Israel",
           "IM": "Isle of Man",
           "IN": "Indien",
-          "IO": "Britescht Territorium am Indeschen Ozean",
           "IQ": "Irak",
           "IR": "Iran",
           "IS": "Island",
@@ -294,7 +288,6 @@
           "UA": "Ukrain",
           "UG": "Uganda",
           "UM": "Amerikanesch-Ozeanien",
-          "UN": "UN",
           "US": "Vereenegt Staaten",
           "US-alt-short": "US",
           "UY": "Uruguay",
@@ -308,8 +301,6 @@
           "VU": "Vanuatu",
           "WF": "Wallis a Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

@@ -2,9 +2,6 @@
   "main": {
     "fr-BE": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "fr",
         "territory": "BE"
       },

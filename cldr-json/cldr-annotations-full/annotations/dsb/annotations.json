@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "dsb"
     },
     "annotations": {
@@ -66,6 +63,15 @@
         ],
         "tts": [
           "śamna barwa kóže"
+        ]
+      },
+      "‾": {
+        "default": [
+          "nadsmužka",
+          "smužka górjejce"
+        ],
+        "tts": [
+          "nadsmužka"
         ]
       },
       "_": {
@@ -247,6 +253,14 @@
         ],
         "tts": [
           "arabski pšašak"
+        ]
+      },
+      "‽": {
+        "default": [
+          "interrobang"
+        ],
+        "tts": [
+          "interrobang"
         ]
       },
       ".": {
@@ -757,6 +771,16 @@
           "tšojny apotrof"
         ]
       },
+      "‸": {
+        "default": [
+          "caret",
+          "diakritiske znamuško",
+          "kšywko"
+        ],
+        "tts": [
+          "caret"
+        ]
+      },
       "※": {
         "default": [
           "Chinska",
@@ -768,6 +792,16 @@
         ],
         "tts": [
           "komejirushi"
+        ]
+      },
+      "⁂": {
+        "default": [
+          "asterismus",
+          "gwězdy",
+          "tśi gwězdy"
+        ],
+        "tts": [
+          "asterismus"
         ]
       },
       "`": {
@@ -846,6 +880,14 @@
           "nalěwo pokazujuca šypa"
         ]
       },
+      "↚": {
+        "default": [
+          "pśešmarnjona šypa nalěwo"
+        ],
+        "tts": [
+          "pśešmarnjona šypa nalěwo"
+        ]
+      },
       "→": {
         "default": [
           "napšawo",
@@ -854,6 +896,14 @@
         ],
         "tts": [
           "napšawo pokazujuca šypa"
+        ]
+      },
+      "↛": {
+        "default": [
+          "pśešmarnjona šypa napšawo"
+        ],
+        "tts": [
+          "pśešmarnjona šypa napšawo"
         ]
       },
       "↑": {
@@ -878,6 +928,317 @@
           "dołoj pokazujuca šypa"
         ]
       },
+      "↜": {
+        "default": [
+          "žwałkata šypa nalěwo"
+        ],
+        "tts": [
+          "žwałkata šypa nalěwo"
+        ]
+      },
+      "↝": {
+        "default": [
+          "žwałkata šypa napšawo"
+        ],
+        "tts": [
+          "žwałkata šypa napšawo"
+        ]
+      },
+      "↞": {
+        "default": [
+          "šypa z dwójneju špicu nalěwo"
+        ],
+        "tts": [
+          "šypa z dwójneju špicu nalěwo"
+        ]
+      },
+      "↟": {
+        "default": [
+          "šypa z dwójneju špicu górjej"
+        ],
+        "tts": [
+          "šypa z dwójneju špicu górjej"
+        ]
+      },
+      "↠": {
+        "default": [
+          "šypa z dwójneju špicu napšawo"
+        ],
+        "tts": [
+          "šypa z dwójneju špicu napšawo"
+        ]
+      },
+      "↡": {
+        "default": [
+          "šypa z dwójneju špicu dołoj"
+        ],
+        "tts": [
+          "šypa z dwójneju špicu dołoj"
+        ]
+      },
+      "↢": {
+        "default": [
+          "šypa z wogonkom nalěwo"
+        ],
+        "tts": [
+          "šypa z wogonkom nalěwo"
+        ]
+      },
+      "↣": {
+        "default": [
+          "šypa z wogonkom napšawo"
+        ],
+        "tts": [
+          "šypa z wogonkom napšawo"
+        ]
+      },
+      "↤": {
+        "default": [
+          "šypa wót smužki nalěwo"
+        ],
+        "tts": [
+          "šypa wót smužki nalěwo"
+        ]
+      },
+      "↥": {
+        "default": [
+          "šypa wót smužki górjej"
+        ],
+        "tts": [
+          "šypa wót smužki górjej"
+        ]
+      },
+      "↦": {
+        "default": [
+          "šypa wót smužki napšawo"
+        ],
+        "tts": [
+          "šypa wót smužki napšawo"
+        ]
+      },
+      "↧": {
+        "default": [
+          "šypa wót smužki dołoj"
+        ],
+        "tts": [
+          "šypa wót smužki dołoj"
+        ]
+      },
+      "↨": {
+        "default": [
+          "šypa górjej a dołoj ze smužku dołojce"
+        ],
+        "tts": [
+          "šypa górjej a dołoj ze smužku dołojce"
+        ]
+      },
+      "↫": {
+        "default": [
+          "šypa ze šlejfku nalěwo"
+        ],
+        "tts": [
+          "šypa ze šlejfku nalěwo"
+        ]
+      },
+      "↬": {
+        "default": [
+          "šypa ze šlejfku napšawo"
+        ],
+        "tts": [
+          "šypa ze šlejfku napšawo"
+        ]
+      },
+      "↭": {
+        "default": [
+          "žwałkata šypa nalěwo a napšawo"
+        ],
+        "tts": [
+          "žwałkata šypa nalěwo a napšawo"
+        ]
+      },
+      "↯": {
+        "default": [
+          "kokulkata šypa dołoj",
+          "kokulkaty"
+        ],
+        "tts": [
+          "kokulkata šypa dołoj"
+        ]
+      },
+      "↰": {
+        "default": [
+          "šypa górjej ze špicom nalěwo"
+        ],
+        "tts": [
+          "šypa górjej ze špicom nalěwo"
+        ]
+      },
+      "↱": {
+        "default": [
+          "šypa górjej ze špicu napšawo"
+        ],
+        "tts": [
+          "šypa górjej ze špicu napšawo"
+        ]
+      },
+      "↲": {
+        "default": [
+          "šypa dołoj ze špicu nalěwo"
+        ],
+        "tts": [
+          "šypa dołoj ze špicu nalěwo"
+        ]
+      },
+      "↳": {
+        "default": [
+          "šypa dołoj ze špicu napšawo"
+        ],
+        "tts": [
+          "šypa dołoj ze špicu napšawo"
+        ]
+      },
+      "↴": {
+        "default": [
+          "šypa napšawo z kutom dołoj"
+        ],
+        "tts": [
+          "šypa napšawo z kutom dołoj"
+        ]
+      },
+      "↵": {
+        "default": [
+          "šypa dołoj z kutom nalěwo"
+        ],
+        "tts": [
+          "šypa dołoj z kutom nalěwo"
+        ]
+      },
+      "↶": {
+        "default": [
+          "zwjerchna połkulowata šypa nawopaki ako špěra źo"
+        ],
+        "tts": [
+          "zwjerchna połkulowata šypa nawopaki ako špěra źo"
+        ]
+      },
+      "↷": {
+        "default": [
+          "połkulowata šypa ako špěra źo"
+        ],
+        "tts": [
+          "połkulowata šypa ako špěra źo"
+        ]
+      },
+      "↸": {
+        "default": [
+          "šypa do dłujkego wjacora z dłujkeju smužku wušej njeje"
+        ],
+        "tts": [
+          "šypa do dłujkego wjacora z dłujkeju smužku wušej njeje"
+        ]
+      },
+      "↹": {
+        "default": [
+          "šypa nalěwo ze smužku prězy wušej šypy napšawo ze smužku prězy"
+        ],
+        "tts": [
+          "šypa nalěwo ze smužku prězy wušej šypy napšawo ze smužku prězy"
+        ]
+      },
+      "↺": {
+        "default": [
+          "wótwórjona kulowata šypa nawopaki ako špěra źo"
+        ],
+        "tts": [
+          "wótwórjona kulowata šypa nawopaki ako špěra źo"
+        ]
+      },
+      "↻": {
+        "default": [
+          "wótwórjona kulowata šypa ako špěra źo"
+        ],
+        "tts": [
+          "wótwórjona kulowata šypa ako špěra źo"
+        ]
+      },
+      "↼": {
+        "default": [
+          "harpuna nalěwo z kokulku górjej"
+        ],
+        "tts": [
+          "harpuna nalěwo z kokulku górjej"
+        ]
+      },
+      "↽": {
+        "default": [
+          "harpuna nalěwo z kokulku dołoj"
+        ],
+        "tts": [
+          "harpuna nalěwo z kokulku dołoj"
+        ]
+      },
+      "↾": {
+        "default": [
+          "harpuna górjej z kokulku napšawo",
+          "kokulka"
+        ],
+        "tts": [
+          "harpuna górjej z kokulku napšawo"
+        ]
+      },
+      "↿": {
+        "default": [
+          "harpuna górjej z kokulku nalěwo",
+          "kokulka"
+        ],
+        "tts": [
+          "harpuna górjej z kokulku nalěwo"
+        ]
+      },
+      "⇀": {
+        "default": [
+          "harpuna napšawo z kokulku górjej",
+          "kokulka"
+        ],
+        "tts": [
+          "harpuna napšawo z kokulku górjej"
+        ]
+      },
+      "⇁": {
+        "default": [
+          "harpuna napšawo z kokulku dołoj",
+          "kokulka"
+        ],
+        "tts": [
+          "harpuna napšawo z kokulku dołoj"
+        ]
+      },
+      "⇂": {
+        "default": [
+          "harpuna dołoj z kokulku napšawo",
+          "kokulka"
+        ],
+        "tts": [
+          "harpuna dołoj z kokulku napšawo"
+        ]
+      },
+      "⇃": {
+        "default": [
+          "harpuna dołoj z kokulku nalěwo",
+          "kokulka"
+        ],
+        "tts": [
+          "harpuna dołoj z kokulku nalěwo"
+        ]
+      },
+      "⇄": {
+        "default": [
+          "šypa nalěwo wušej šypy napšawo"
+        ],
+        "tts": [
+          "šypa nalěwo wušej šypy napšawo"
+        ]
+      },
       "⇅": {
         "default": [
           "dołoj",
@@ -897,6 +1258,332 @@
         ],
         "tts": [
           "nalěwo pokazujuca šypa wušej napšawo pokazujuceje šypy"
+        ]
+      },
+      "⇇": {
+        "default": [
+          "šypje nalěwo"
+        ],
+        "tts": [
+          "šypje nalěwo"
+        ]
+      },
+      "⇈": {
+        "default": [
+          "šypje górjej"
+        ],
+        "tts": [
+          "šypje górjej"
+        ]
+      },
+      "⇉": {
+        "default": [
+          "šypje napšawo"
+        ],
+        "tts": [
+          "šypje napšawo"
+        ]
+      },
+      "⇊": {
+        "default": [
+          "šypje dołoj"
+        ],
+        "tts": [
+          "šypje dołoj"
+        ]
+      },
+      "⇋": {
+        "default": [
+          "harpuna nalěwo wušej harpuny napšawo"
+        ],
+        "tts": [
+          "harpuna nalěwo wušej harpuny napšawo"
+        ]
+      },
+      "⇌": {
+        "default": [
+          "harpuna napšawo wušej harpuny nalěwo"
+        ],
+        "tts": [
+          "harpuna napšawo wušej harpuny nalěwo"
+        ]
+      },
+      "⇐": {
+        "default": [
+          "šypa z dwójnyma smužkoma nalěwo"
+        ],
+        "tts": [
+          "šypa z dwójnyma smužkoma nalěwo"
+        ]
+      },
+      "⇍": {
+        "default": [
+          "pśešmarnjona šypa z dwójnyma smužkoma nalěwo"
+        ],
+        "tts": [
+          "pśešmarnjona šypa z dwójnyma smužkoma nalěwo"
+        ]
+      },
+      "⇑": {
+        "default": [
+          "šypa z dwójnyma smužkoma górjej"
+        ],
+        "tts": [
+          "šypa z dwójnyma smužkoma górjej"
+        ]
+      },
+      "⇒": {
+        "default": [
+          "šypa z dwójnyma smužkoma napšawo"
+        ],
+        "tts": [
+          "šypa z dwójnyma smužkoma napšawo"
+        ]
+      },
+      "⇏": {
+        "default": [
+          "pśešmarnjona šypa z dwójnyma smužkoma napšawo"
+        ],
+        "tts": [
+          "pśešmarnjona šypa z dwójnyma smužkoma napšawo"
+        ]
+      },
+      "⇓": {
+        "default": [
+          "šypa z dwójnyma smužkoma dołoj"
+        ],
+        "tts": [
+          "šypa z dwójnyma smužkoma dołoj"
+        ]
+      },
+      "⇔": {
+        "default": [
+          "šypa z dwójnyma smužkoma nalěwo a napšawo"
+        ],
+        "tts": [
+          "šypa z dwójnyma smužkoma nalěwo a napšawo"
+        ]
+      },
+      "⇎": {
+        "default": [
+          "pśešmarnjona šypa z dwójnyma smužkoma nalěwo a napšawo"
+        ],
+        "tts": [
+          "pśešmarnjona šypa z dwójnyma smužkoma nalěwo a napšawo"
+        ]
+      },
+      "⇖": {
+        "default": [
+          "šypa z dwójnyma smužkoma do dłujkego wjacora"
+        ],
+        "tts": [
+          "šypa z dwójnyma smužkoma do dłujkego wjacora"
+        ]
+      },
+      "⇗": {
+        "default": [
+          "šypa z dwójnyma smužkoma do dłujkego zajtša"
+        ],
+        "tts": [
+          "šypa z dwójnyma smužkoma do dłujkego zajtša"
+        ]
+      },
+      "⇘": {
+        "default": [
+          "šypa z dwójnyma smužkoma do krotkego zajtša"
+        ],
+        "tts": [
+          "šypa z dwójnyma smužkoma do krotkego zajtša"
+        ]
+      },
+      "⇙": {
+        "default": [
+          "šypa z dwójnyma smužkoma do krotkego wjacora"
+        ],
+        "tts": [
+          "šypa z dwójnyma smužkoma do krotkego wjacora"
+        ]
+      },
+      "⇚": {
+        "default": [
+          "šypa z tśimi smužkami nalěwo"
+        ],
+        "tts": [
+          "šypa z tśimi smužkami nalěwo"
+        ]
+      },
+      "⇛": {
+        "default": [
+          "šypa z tśimi smužkami napšawo"
+        ],
+        "tts": [
+          "šypa z tśimi smužkami napšawo"
+        ]
+      },
+      "⇜": {
+        "default": [
+          "krekulata šypa nalěwo"
+        ],
+        "tts": [
+          "krekulata šypa nalěwo"
+        ]
+      },
+      "⇝": {
+        "default": [
+          "krekulata šypa napšawo"
+        ],
+        "tts": [
+          "krekulata šypa napšawo"
+        ]
+      },
+      "⇞": {
+        "default": [
+          "dwójcy pśešmarnjona šypa górjej"
+        ],
+        "tts": [
+          "dwójcy pśešmarnjona šypa górjej"
+        ]
+      },
+      "⇟": {
+        "default": [
+          "dwójcy pśešmarnjona šypa dołoj"
+        ],
+        "tts": [
+          "dwójcy pśešmarnjona šypa dołoj"
+        ]
+      },
+      "⇠": {
+        "default": [
+          "smužkata šypa nalěwo"
+        ],
+        "tts": [
+          "smužkata šypa nalěwo"
+        ]
+      },
+      "⇡": {
+        "default": [
+          "smužkata šypa górjej"
+        ],
+        "tts": [
+          "smužkata šypa górjej"
+        ]
+      },
+      "⇢": {
+        "default": [
+          "smužkata šypa napšawo"
+        ],
+        "tts": [
+          "smužkata šypa napšawo"
+        ]
+      },
+      "⇣": {
+        "default": [
+          "smužkata šypa dołoj"
+        ],
+        "tts": [
+          "smužkata šypa dołoj"
+        ]
+      },
+      "⇤": {
+        "default": [
+          "šypa nalěwo k smužce"
+        ],
+        "tts": [
+          "šypa nalěwo k smužce"
+        ]
+      },
+      "⇥": {
+        "default": [
+          "šypa napšawo k smužce"
+        ],
+        "tts": [
+          "šypa napšawo k smužce"
+        ]
+      },
+      "⇦": {
+        "default": [
+          "prozna šypa nalěwo"
+        ],
+        "tts": [
+          "prozna šypa nalěwo"
+        ]
+      },
+      "⇧": {
+        "default": [
+          "prozna šypa górjej"
+        ],
+        "tts": [
+          "prozna šypa górjej"
+        ]
+      },
+      "⇨": {
+        "default": [
+          "prozna šypa napšawo"
+        ],
+        "tts": [
+          "prozna šypa napšawo"
+        ]
+      },
+      "⇩": {
+        "default": [
+          "prozna šypa dołoj"
+        ],
+        "tts": [
+          "prozna šypa dołoj"
+        ]
+      },
+      "⇪": {
+        "default": [
+          "prozna šypa górjej ze smužku dołojce"
+        ],
+        "tts": [
+          "prozna šypa górjej ze smužku dołojce"
+        ]
+      },
+      "⇵": {
+        "default": [
+          "šypa dołoj pódla šypy górjej"
+        ],
+        "tts": [
+          "šypa dołoj pódla šypy górjej"
+        ]
+      },
+      "∀": {
+        "default": [
+          "kuždy",
+          "uniwersalny",
+          "wšo",
+          "za wšyknych"
+        ],
+        "tts": [
+          "za wšyknych"
+        ]
+      },
+      "∂": {
+        "default": [
+          "diferencial",
+          "parcielny diferencial"
+        ],
+        "tts": [
+          "parcielny diferencial"
+        ]
+      },
+      "∃": {
+        "default": [
+          "eksistěrujo"
+        ],
+        "tts": [
+          "eksistěrujo"
+        ]
+      },
+      "∅": {
+        "default": [
+          "matematika",
+          "operator młogosć",
+          "prozna młogosć"
+        ],
+        "tts": [
+          "prozna młogosć"
         ]
       },
       "∆": {
@@ -930,6 +1617,56 @@
         ],
         "tts": [
           "element"
+        ]
+      },
+      "∉": {
+        "default": [
+          "element",
+          "njejo element"
+        ],
+        "tts": [
+          "njejo element"
+        ]
+      },
+      "∋": {
+        "default": [
+          "element",
+          "wopśimjejo ako element"
+        ],
+        "tts": [
+          "wopśimjejo ako element"
+        ]
+      },
+      "∎": {
+        "default": [
+          "Halmosowy symbol",
+          "kóńc dopokaza",
+          "q.e.d.",
+          "qed",
+          "rowowy kamjeń"
+        ],
+        "tts": [
+          "kóńc dopokaza"
+        ]
+      },
+      "∏": {
+        "default": [
+          "logika",
+          "produkt",
+          "produkt z n faktorow"
+        ],
+        "tts": [
+          "produkt z n faktorow"
+        ]
+      },
+      "∑": {
+        "default": [
+          "matematika",
+          "suma",
+          "suma z n źělow"
+        ],
+        "tts": [
+          "suma z n źělow"
         ]
       },
       "+": {
@@ -983,6 +1720,16 @@
           "mjeńše ako"
         ]
       },
+      "≮": {
+        "default": [
+          "matematika",
+          "nic mjeńše ako",
+          "njerownosć"
+        ],
+        "tts": [
+          "nic mjeńše ako"
+        ]
+      },
       "=": {
         "default": [
           "rowno"
@@ -1007,6 +1754,14 @@
         ],
         "tts": [
           "wětše ako"
+        ]
+      },
+      "≯": {
+        "default": [
+          "nic wětše ako"
+        ],
+        "tts": [
+          "nic wětše ako"
         ]
       },
       "¬": {
@@ -1057,6 +1812,63 @@
           "wušej stajone minusowe znamuško"
         ]
       },
+      "∓": {
+        "default": [
+          "minus abo plus",
+          "plus-minus"
+        ],
+        "tts": [
+          "minus abo plus"
+        ]
+      },
+      "∕": {
+        "default": [
+          "nakósna smužka",
+          "nakósna smužka za dewiziju",
+          "smužka"
+        ],
+        "tts": [
+          "nakósna smužka za dewiziju"
+        ]
+      },
+      "⁄": {
+        "default": [
+          "łamkowa smužka",
+          "nakósna smužka",
+          "smužka"
+        ],
+        "tts": [
+          "łamkowa smužka"
+        ]
+      },
+      "∗": {
+        "default": [
+          "gwězdka",
+          "operator we formje gwězdki"
+        ],
+        "tts": [
+          "operator we formje gwězdki"
+        ]
+      },
+      "∘": {
+        "default": [
+          "operator",
+          "operator we formje krejza",
+          "zestawa"
+        ],
+        "tts": [
+          "operator we formje krejza"
+        ]
+      },
+      "∙": {
+        "default": [
+          "operator",
+          "operator we formje kulki"
+        ],
+        "tts": [
+          "operator we formje kulki"
+        ]
+      },
       "√": {
         "default": [
           "kórjeń",
@@ -1067,6 +1879,15 @@
           "kwadratny kórjeń"
         ]
       },
+      "∝": {
+        "default": [
+          "proporcionalnosć",
+          "proporcionalny k"
+        ],
+        "tts": [
+          "proporcionalny k"
+        ]
+      },
       "∞": {
         "default": [
           "njeskóńcnosć",
@@ -1075,6 +1896,50 @@
         ],
         "tts": [
           "symbol njeskóńcnosći"
+        ]
+      },
+      "∟": {
+        "default": [
+          "matematika",
+          "pšawy kut"
+        ],
+        "tts": [
+          "pšawy kut"
+        ]
+      },
+      "∠": {
+        "default": [
+          "kut",
+          "wótšy"
+        ],
+        "tts": [
+          "kut"
+        ]
+      },
+      "∣": {
+        "default": [
+          "dewizor",
+          "znamje za źělenje"
+        ],
+        "tts": [
+          "znamje za źělenje"
+        ]
+      },
+      "∥": {
+        "default": [
+          "paralelny k"
+        ],
+        "tts": [
+          "paralelny k"
+        ]
+      },
+      "∧": {
+        "default": [
+          "logiska konjunkcija",
+          "logiske \"a\""
+        ],
+        "tts": [
+          "logiske \"a\""
         ]
       },
       "∩": {
@@ -1097,6 +1962,115 @@
           "młogosć zgromadnych elementow"
         ]
       },
+      "∫": {
+        "default": [
+          "integral",
+          "licenje"
+        ],
+        "tts": [
+          "integral"
+        ]
+      },
+      "∬": {
+        "default": [
+          "dwójny integral",
+          "licenje"
+        ],
+        "tts": [
+          "dwójny integral"
+        ]
+      },
+      "∮": {
+        "default": [
+          "konturowy integral"
+        ],
+        "tts": [
+          "konturowy integral"
+        ]
+      },
+      "∴": {
+        "default": [
+          "dla togo",
+          "logika"
+        ],
+        "tts": [
+          "dla togo"
+        ]
+      },
+      "∵": {
+        "default": [
+          "dokulaž",
+          "logika"
+        ],
+        "tts": [
+          "dokulaž"
+        ]
+      },
+      "∶": {
+        "default": [
+          "poměr"
+        ],
+        "tts": [
+          "poměr"
+        ]
+      },
+      "∷": {
+        "default": [
+          "mjazsobny poměr",
+          "proporcionalnosć"
+        ],
+        "tts": [
+          "mjazsobny poměr"
+        ]
+      },
+      "∼": {
+        "default": [
+          "operator",
+          "operator we formje tildy"
+        ],
+        "tts": [
+          "operator we formje tildy"
+        ]
+      },
+      "∽": {
+        "default": [
+          "tilda",
+          "wobrośona tilda"
+        ],
+        "tts": [
+          "wobrośona tilda"
+        ]
+      },
+      "∾": {
+        "default": [
+          "wobrośone lažece s"
+        ],
+        "tts": [
+          "wobrośone lažece s"
+        ]
+      },
+      "≃": {
+        "default": [
+          "asymptota",
+          "asymptotiski jadnake",
+          "matematika"
+        ],
+        "tts": [
+          "asymptotiski jadnake"
+        ]
+      },
+      "≅": {
+        "default": [
+          "izoforismus",
+          "kongruenca",
+          "matematika",
+          "pśibližnje jadnaki",
+          "rownosć"
+        ],
+        "tts": [
+          "pśibližnje jadnaki"
+        ]
+      },
       "≈": {
         "default": [
           "pśibližnje",
@@ -1105,6 +2079,34 @@
         ],
         "tts": [
           "pśibližnje"
+        ]
+      },
+      "≌": {
+        "default": [
+          "matematika",
+          "rownosć",
+          "wšykno jadnake"
+        ],
+        "tts": [
+          "wšykno jadnake"
+        ]
+      },
+      "≒": {
+        "default": [
+          "pśibližnje jadnakej abo ako wobraz"
+        ],
+        "tts": [
+          "pśibližnje jadnakej abo ako wobraz"
+        ]
+      },
+      "≖": {
+        "default": [
+          "krejz w znamušku rownosći",
+          "matematika",
+          "rownosć"
+        ],
+        "tts": [
+          "krejz w znamušku rownosći"
         ]
       },
       "≡": {
@@ -1117,6 +2119,16 @@
         ],
         "tts": [
           "identiski"
+        ]
+      },
+      "≣": {
+        "default": [
+          "kšuśe jadnaki",
+          "matematika",
+          "rownosć"
+        ],
+        "tts": [
+          "kšuśe jadnaki"
         ]
       },
       "≤": {
@@ -1141,6 +2153,95 @@
           "wětše ako abo jadnak wjelike"
         ]
       },
+      "≦": {
+        "default": [
+          "matematika",
+          "mjeńšy ako wušej jo rowno",
+          "njerownosć"
+        ],
+        "tts": [
+          "mjeńšy ako wušej jo rowno"
+        ]
+      },
+      "≧": {
+        "default": [
+          "matematika",
+          "njerownosć",
+          "wětšy ako wušej jo rowno"
+        ],
+        "tts": [
+          "wětšy ako wušej jo rowno"
+        ]
+      },
+      "≪": {
+        "default": [
+          "matematika",
+          "njerownosć",
+          "wjele mjenjej ako"
+        ],
+        "tts": [
+          "wjele mjenjej ako"
+        ]
+      },
+      "≫": {
+        "default": [
+          "matematika",
+          "njerownosć",
+          "wjele wětšy ako"
+        ],
+        "tts": [
+          "wjele wětšy ako"
+        ]
+      },
+      "≬": {
+        "default": [
+          "mjaz"
+        ],
+        "tts": [
+          "mjaz"
+        ]
+      },
+      "≳": {
+        "default": [
+          "matematika",
+          "njerownosć",
+          "wětšy ako abo ekwiwalentny"
+        ],
+        "tts": [
+          "wětšy ako abo ekwiwalentny"
+        ]
+      },
+      "≺": {
+        "default": [
+          "matematika",
+          "operator młogosć",
+          "pśedchadny"
+        ],
+        "tts": [
+          "pśedchadny"
+        ]
+      },
+      "≻": {
+        "default": [
+          "matematika",
+          "operator młogosći",
+          "slědujucy"
+        ],
+        "tts": [
+          "slědujucy"
+        ]
+      },
+      "⊁": {
+        "default": [
+          "matematika",
+          "młogosći",
+          "njeslědujo",
+          "operator"
+        ],
+        "tts": [
+          "njeslědujo"
+        ]
+      },
       "⊂": {
         "default": [
           "jo źěl",
@@ -1150,6 +2251,434 @@
         ],
         "tts": [
           "źělna młogosć"
+        ]
+      },
+      "⊃": {
+        "default": [
+          "matematika",
+          "młogosći",
+          "operator",
+          "zwjerchna młogosć wót"
+        ],
+        "tts": [
+          "zwjerchna młogosć wót"
+        ]
+      },
+      "⊆": {
+        "default": [
+          "źělne młogosći wót abo jo rowno"
+        ],
+        "tts": [
+          "źělne młogosći wót abo jo rowno"
+        ]
+      },
+      "⊇": {
+        "default": [
+          "matematika",
+          "rownosć",
+          "zwjerchna młogosć wót abo jo rowno"
+        ],
+        "tts": [
+          "zwjerchna młogosć wót abo jo rowno"
+        ]
+      },
+      "⊕": {
+        "default": [
+          "plus",
+          "zakružony plus"
+        ],
+        "tts": [
+          "zakružony plus"
+        ]
+      },
+      "⊖": {
+        "default": [
+          "erozija",
+          "symetriski rozdźěl",
+          "zakružony minus"
+        ],
+        "tts": [
+          "zakružony minus"
+        ]
+      },
+      "⊗": {
+        "default": [
+          "produkt",
+          "tensor",
+          "zakružona multiplikaciska kśica"
+        ],
+        "tts": [
+          "zakružona multiplikaciska kśica"
+        ]
+      },
+      "⊘": {
+        "default": [
+          "matematika",
+          "za źělenje",
+          "zakružona nakósna smužka za źělenje"
+        ],
+        "tts": [
+          "zakružona nakósna smužka za źělenje"
+        ]
+      },
+      "⊙": {
+        "default": [
+          "operator",
+          "XNOR",
+          "zakružony operator we formje dypka"
+        ],
+        "tts": [
+          "zakružony operator we formje dypka"
+        ]
+      },
+      "⊚": {
+        "default": [
+          "zakružony operator we formje krejza"
+        ],
+        "tts": [
+          "zakružony operator we formje krejza"
+        ]
+      },
+      "⊛": {
+        "default": [
+          "gwězdka",
+          "operator",
+          "zakružony operator we formje gwězdki"
+        ],
+        "tts": [
+          "zakružony operator we formje gwězdki"
+        ]
+      },
+      "⊞": {
+        "default": [
+          "kaž adicija",
+          "matematika",
+          "plus w kwadraśe"
+        ],
+        "tts": [
+          "plus w kwadraśe"
+        ]
+      },
+      "⊟": {
+        "default": [
+          "minus w kwadraśe"
+        ],
+        "tts": [
+          "minus w kwadraśe"
+        ]
+      },
+      "⊥": {
+        "default": [
+          "falsum",
+          "znamuško spśeśiwjenja"
+        ],
+        "tts": [
+          "znamuško spśeśiwjenja"
+        ]
+      },
+      "⊮": {
+        "default": [
+          "njewunuzkujo"
+        ],
+        "tts": [
+          "njewunuzkujo"
+        ]
+      },
+      "⊰": {
+        "default": [
+          "matematika",
+          "młogosći",
+          "operator",
+          "pśedchada w relaciji"
+        ],
+        "tts": [
+          "pśedchada w relaciji"
+        ]
+      },
+      "⊱": {
+        "default": [
+          "matematika",
+          "młogosći",
+          "operator",
+          "slědujo w relaciji"
+        ],
+        "tts": [
+          "slědujo w relaciji"
+        ]
+      },
+      "⋭": {
+        "default": [
+          "njewobpśimjejo ako normalnu pódkupku abo jo rowno"
+        ],
+        "tts": [
+          "njewobpśimjejo ako normalnu pódkupku abo jo rowno"
+        ]
+      },
+      "⊶": {
+        "default": [
+          "original"
+        ],
+        "tts": [
+          "original"
+        ]
+      },
+      "⊹": {
+        "default": [
+          "hermetiska konjugěrowana matriks",
+          "kwadratna matriks",
+          "matematika",
+          "samoadjungěrowana matriks"
+        ],
+        "tts": [
+          "hermetiska konjugěrowana matriks"
+        ]
+      },
+      "⊿": {
+        "default": [
+          "matematika",
+          "pšawokutny tśirožk"
+        ],
+        "tts": [
+          "pšawokutny tśirožk"
+        ]
+      },
+      "⋁": {
+        "default": [
+          "disjunkcija",
+          "logika",
+          "n-te logiske znamuško \"abo\""
+        ],
+        "tts": [
+          "n-te logiske znamuško \"abo\""
+        ]
+      },
+      "⋂": {
+        "default": [
+          "n-ta zgromadna młogosć"
+        ],
+        "tts": [
+          "n-ta zgromadna młogosć"
+        ]
+      },
+      "⋃": {
+        "default": [
+          "matematika",
+          "n-ta zjadnośeńska młogosć",
+          "operator młogosći",
+          "zjadnośenje"
+        ],
+        "tts": [
+          "n-ta zjadnośeńska młogosć"
+        ]
+      },
+      "⋅": {
+        "default": [
+          "operator",
+          "operator we formje dypka"
+        ],
+        "tts": [
+          "operator we formje dypka"
+        ]
+      },
+      "⋆": {
+        "default": [
+          "operator",
+          "operator we formje gwězdy"
+        ],
+        "tts": [
+          "operator we formje gwězdy"
+        ]
+      },
+      "⋈": {
+        "default": [
+          "binarny operator",
+          "mucha",
+          "pśirodne zwězanje"
+        ],
+        "tts": [
+          "pśirodne zwězanje"
+        ]
+      },
+      "⋒": {
+        "default": [
+          "dwójna zgromadna młogosć",
+          "matematika",
+          "operator młogosći",
+          "zgromadna młogosć"
+        ],
+        "tts": [
+          "dwójna zgromadna młogosć"
+        ]
+      },
+      "⋘": {
+        "default": [
+          "kradu mjenjej ako",
+          "matematika",
+          "njerownosć"
+        ],
+        "tts": [
+          "kradu mjenjej ako"
+        ]
+      },
+      "⋙": {
+        "default": [
+          "kradu wětše ako",
+          "matematika",
+          "njerownosć"
+        ],
+        "tts": [
+          "kradu wětše ako"
+        ]
+      },
+      "⋮": {
+        "default": [
+          "elipsa",
+          "matematika",
+          "wertikalny elipsa"
+        ],
+        "tts": [
+          "wertikalny elipsa"
+        ]
+      },
+      "⋯": {
+        "default": [
+          "elipsa",
+          "srjejźna horicontalna elipsa"
+        ],
+        "tts": [
+          "srjejźna horicontalna elipsa"
+        ]
+      },
+      "⋰": {
+        "default": [
+          "elipsa",
+          "matematika",
+          "nakósna diagonalna elipsa górjej"
+        ],
+        "tts": [
+          "nakósna diagonalna elipsa górjej"
+        ]
+      },
+      "⋱": {
+        "default": [
+          "elipsa",
+          "matematika",
+          "nakósna diagonalna elipsa dołoj"
+        ],
+        "tts": [
+          "nakósna diagonalna elipsa dołoj"
+        ]
+      },
+      "■": {
+        "default": [
+          "wupołnjony kwadrat"
+        ],
+        "tts": [
+          "wupołnjony kwadrat"
+        ]
+      },
+      "□": {
+        "default": [
+          "prozny kwadrat"
+        ],
+        "tts": [
+          "prozny kwadrat"
+        ]
+      },
+      "▢": {
+        "default": [
+          "prozny kwadrat z wukulowaśonymi rožkami"
+        ],
+        "tts": [
+          "prozny kwadrat z wukulowaśonymi rožkami"
+        ]
+      },
+      "▣": {
+        "default": [
+          "prozny kwadrat wopśimjecy wupołnjony kwadrat"
+        ],
+        "tts": [
+          "prozny kwadrat wopśimjecy wupołnjony kwadrat"
+        ]
+      },
+      "▤": {
+        "default": [
+          "kwadrat z horicontalneju šrafuru"
+        ],
+        "tts": [
+          "kwadrat z horicontalneju šrafuru"
+        ]
+      },
+      "▥": {
+        "default": [
+          "kwadrat z wertikalneju šrafuru"
+        ],
+        "tts": [
+          "kwadrat z wertikalneju šrafuru"
+        ]
+      },
+      "▦": {
+        "default": [
+          "kwadrat z ortogonalneju nakśicneju šrafuru"
+        ],
+        "tts": [
+          "kwadrat z ortogonalneju nakśicneju šrafuru"
+        ]
+      },
+      "▧": {
+        "default": [
+          "kwadrat ze šrafuru wót górjejce nalěwo dołoj napšawo"
+        ],
+        "tts": [
+          "kwadrat ze šrafuru wót górjejce nalěwo dołoj napšawo"
+        ]
+      },
+      "▨": {
+        "default": [
+          "kwadrat ze šrafuru wót dołojce nalěwo górjej napšawo"
+        ],
+        "tts": [
+          "kwadrat ze šrafuru wót dołojce nalěwo górjej napšawo"
+        ]
+      },
+      "▩": {
+        "default": [
+          "kwadrat z diagonalneju nakśicneju šrafuru"
+        ],
+        "tts": [
+          "kwadrat z diagonalneju nakśicneju šrafuru"
+        ]
+      },
+      "▬": {
+        "default": [
+          "wupołnjony pšaworožk"
+        ],
+        "tts": [
+          "wupołnjony pšaworožk"
+        ]
+      },
+      "▭": {
+        "default": [
+          "prozny pšaworožk"
+        ],
+        "tts": [
+          "prozny pšaworožk"
+        ]
+      },
+      "▮": {
+        "default": [
+          "wertkalny wupołnjony pšaworžk"
+        ],
+        "tts": [
+          "wertkalny wupołnjony pšaworžk"
+        ]
+      },
+      "▰": {
+        "default": [
+          "wupołnjony paralelogram"
+        ],
+        "tts": [
+          "wupołnjony paralelogram"
         ]
       },
       "▲": {
@@ -1164,6 +2693,70 @@
           "wupołnjony górjej pokazujucy tśirožk"
         ]
       },
+      "△": {
+        "default": [
+          "prozny tśirožk pokazujucy górjej"
+        ],
+        "tts": [
+          "prozny tśirožk pokazujucy górjej"
+        ]
+      },
+      "▴": {
+        "default": [
+          "mały wupołnjony tśirožk pokazujucy górjej"
+        ],
+        "tts": [
+          "mały wupołnjony tśirožk pokazujucy górjej"
+        ]
+      },
+      "▵": {
+        "default": [
+          "mały prozny tśirožk pokazujucy górjej"
+        ],
+        "tts": [
+          "mały prozny tśirožk pokazujucy górjej"
+        ]
+      },
+      "▷": {
+        "default": [
+          "prozny tśirožk pokazujucy napšawo"
+        ],
+        "tts": [
+          "prozny tśirožk pokazujucy napšawo"
+        ]
+      },
+      "▸": {
+        "default": [
+          "mały wupołnjony tśirožk pokazujucy napšawo"
+        ],
+        "tts": [
+          "mały wupołnjony tśirožk pokazujucy napšawo"
+        ]
+      },
+      "▹": {
+        "default": [
+          "mały prozny tśirožk pokazujucy napšawo"
+        ],
+        "tts": [
+          "mały prozny tśirožk pokazujucy napšawo"
+        ]
+      },
+      "►": {
+        "default": [
+          "wupołnjony pokazowaŕ pokazujucy napšawo"
+        ],
+        "tts": [
+          "wupołnjony pokazowaŕ pokazujucy napšawo"
+        ]
+      },
+      "▻": {
+        "default": [
+          "prozny pokazowaŕ pokazujucy napšawo"
+        ],
+        "tts": [
+          "prozny pokazowaŕ pokazujucy napšawo"
+        ]
+      },
       "▼": {
         "default": [
           "cerwjeny tśírožk ze špicom dołoj",
@@ -1174,6 +2767,102 @@
         ],
         "tts": [
           "wupołnjony dołoj pokazujucy tśirožk"
+        ]
+      },
+      "▽": {
+        "default": [
+          "prozny tśirožk pokazujucy dołoj"
+        ],
+        "tts": [
+          "prozny tśirožk pokazujucy dołoj"
+        ]
+      },
+      "▾": {
+        "default": [
+          "mały wupołnjony tśirožk pokazujucy dołoj"
+        ],
+        "tts": [
+          "mały wupołnjony tśirožk pokazujucy dołoj"
+        ]
+      },
+      "▿": {
+        "default": [
+          "mały prozny tśirožk pokazujucy dołoj"
+        ],
+        "tts": [
+          "mały prozny tśirožk pokazujucy dołoj"
+        ]
+      },
+      "◁": {
+        "default": [
+          "prozny tśirožk pokazujucy nalěwo"
+        ],
+        "tts": [
+          "prozny tśirožk pokazujucy nalěwo"
+        ]
+      },
+      "◂": {
+        "default": [
+          "mały wupołnjony tśirožk pokazujucy nalěwo"
+        ],
+        "tts": [
+          "mały wupołnjony tśirožk pokazujucy nalěwo"
+        ]
+      },
+      "◃": {
+        "default": [
+          "mały prozny tśirožk pokazujucy nalěwo"
+        ],
+        "tts": [
+          "mały prozny tśirožk pokazujucy nalěwo"
+        ]
+      },
+      "◄": {
+        "default": [
+          "wupołnjony pokazowaŕ pokazujucy nalěwo"
+        ],
+        "tts": [
+          "wupołnjony pokazowaŕ pokazujucy nalěwo"
+        ]
+      },
+      "◅": {
+        "default": [
+          "prozny pokazowaŕ pokazujucy nalěwo"
+        ],
+        "tts": [
+          "prozny pokazowaŕ pokazujucy nalěwo"
+        ]
+      },
+      "◆": {
+        "default": [
+          "wupołnjony karo"
+        ],
+        "tts": [
+          "wupołnjony karo"
+        ]
+      },
+      "◇": {
+        "default": [
+          "prozny karo"
+        ],
+        "tts": [
+          "prozny karo"
+        ]
+      },
+      "◈": {
+        "default": [
+          "prozny karo z małym wupołnjonym karo"
+        ],
+        "tts": [
+          "prozny karo z małym wupołnjonym karo"
+        ]
+      },
+      "◉": {
+        "default": [
+          "prozny krejz z małym wupołnjonym krejzom"
+        ],
+        "tts": [
+          "prozny krejz z małym wupołnjonym krejzom"
         ]
       },
       "◊": {
@@ -1195,6 +2884,32 @@
           "prozny krejz"
         ]
       },
+      "◌": {
+        "default": [
+          "dypkowany krejz"
+        ],
+        "tts": [
+          "dypkowany krejz"
+        ]
+      },
+      "◍": {
+        "default": [
+          "krejz z wertikalneju šrafuru"
+        ],
+        "tts": [
+          "krejz z wertikalneju šrafuru"
+        ]
+      },
+      "◎": {
+        "default": [
+          "koncentriske krejze",
+          "koncentriskej krejza",
+          "wójny krejz"
+        ],
+        "tts": [
+          "koncentriskej krejza"
+        ]
+      },
       "●": {
         "default": [
           "krejz",
@@ -1202,6 +2917,175 @@
         ],
         "tts": [
           "wupołnjony krejz"
+        ]
+      },
+      "◐": {
+        "default": [
+          "krejz z carneju połojcu nalěwo"
+        ],
+        "tts": [
+          "krejz z carneju połojcu nalěwo"
+        ]
+      },
+      "◑": {
+        "default": [
+          "krejz z carneju połojcu napšawo"
+        ],
+        "tts": [
+          "krejz z carneju połojcu napšawo"
+        ]
+      },
+      "◒": {
+        "default": [
+          "krejz z carneju połojcu dołojce"
+        ],
+        "tts": [
+          "krejz z carneju połojcu dołojce"
+        ]
+      },
+      "◓": {
+        "default": [
+          "krejz z carneju połojcu górjejce"
+        ],
+        "tts": [
+          "krejz z carneju połojcu górjejce"
+        ]
+      },
+      "◔": {
+        "default": [
+          "krejz z carnym běrtylom górjejce napšawo"
+        ],
+        "tts": [
+          "krejz z carnym běrtylom górjejce napšawo"
+        ]
+      },
+      "◕": {
+        "default": [
+          "carny krejz z běłym běrtylom górjejce nalěwo"
+        ],
+        "tts": [
+          "carny krejz z běłym běrtylom górjejce nalěwo"
+        ]
+      },
+      "◖": {
+        "default": [
+          "lěwa połojca carnego krejza"
+        ],
+        "tts": [
+          "lěwa połojca carnego krejza"
+        ]
+      },
+      "◗": {
+        "default": [
+          "pšawa połojca carnego krejza"
+        ],
+        "tts": [
+          "pšawa połojca carnego krejza"
+        ]
+      },
+      "◘": {
+        "default": [
+          "běły dypk w carnem kwadraśe"
+        ],
+        "tts": [
+          "běły dypk w carnem kwadraśe"
+        ]
+      },
+      "◙": {
+        "default": [
+          "wobrośony prozny krejz",
+          "wupołnjony kwadrat z běłym krejzom"
+        ],
+        "tts": [
+          "wupołnjony kwadrat z běłym krejzom"
+        ]
+      },
+      "◜": {
+        "default": [
+          "lěwy zwjerchny běrtyl krejza"
+        ],
+        "tts": [
+          "lěwy zwjerchny běrtyl krejza"
+        ]
+      },
+      "◝": {
+        "default": [
+          "pšawy zwjerchny běrtyl krejza"
+        ],
+        "tts": [
+          "pšawy zwjerchny běrtyl krejza"
+        ]
+      },
+      "◞": {
+        "default": [
+          "dolny pšawy běrtyl krejza"
+        ],
+        "tts": [
+          "dolny pšawy běrtyl krejza"
+        ]
+      },
+      "◟": {
+        "default": [
+          "dolny lěwy běrtyl krejza"
+        ],
+        "tts": [
+          "dolny lěwy běrtyl krejza"
+        ]
+      },
+      "◠": {
+        "default": [
+          "połkrejz górjejce"
+        ],
+        "tts": [
+          "połkrejz górjejce"
+        ]
+      },
+      "◡": {
+        "default": [
+          "połkrejz dołojce"
+        ],
+        "tts": [
+          "połkrejz dołojce"
+        ]
+      },
+      "◢": {
+        "default": [
+          "wupołnjony tśirožk pokazujo napšawo dołoj"
+        ],
+        "tts": [
+          "wupołnjony tśirožk pokazujo napšawo dołoj"
+        ]
+      },
+      "◣": {
+        "default": [
+          "wupołnjony tśirož pokazujo nalěwo dołoj"
+        ],
+        "tts": [
+          "wupołnjony tśirož pokazujo nalěwo dołoj"
+        ]
+      },
+      "◤": {
+        "default": [
+          "wupołnjony tśirožk pokazujo nalěwo górjej"
+        ],
+        "tts": [
+          "wupołnjony tśirožk pokazujo nalěwo górjej"
+        ]
+      },
+      "◥": {
+        "default": [
+          "wupołnjony tśirožk pokazujo napšawo górjej"
+        ],
+        "tts": [
+          "wupołnjony tśirožk pokazujo napšawo górjej"
+        ]
+      },
+      "◦": {
+        "default": [
+          "prozne naliceńske znamuško"
+        ],
+        "tts": [
+          "prozne naliceńske znamuško"
         ]
       },
       "◯": {
@@ -1214,6 +3098,30 @@
           "wjeliki prozny krejz"
         ]
       },
+      "◳": {
+        "default": [
+          "prozny kwadrat z běrtylom górjejce napšawo"
+        ],
+        "tts": [
+          "prozny kwadrat z běrtylom górjejce napšawo"
+        ]
+      },
+      "◷": {
+        "default": [
+          "prozny krejz z běrtylom górjejce napšawo"
+        ],
+        "tts": [
+          "prozny krejz z běrtylom górjejce napšawo"
+        ]
+      },
+      "◿": {
+        "default": [
+          "prozny tśirožk pokazujucy napšawo dołoj"
+        ],
+        "tts": [
+          "prozny tśirožk pokazujucy napšawo dołoj"
+        ]
+      },
       "♪": {
         "default": [
           "nota",
@@ -1222,6 +3130,72 @@
         ],
         "tts": [
           "wósymkowa nota"
+        ]
+      },
+      "⨧": {
+        "default": [
+          "znamuško plus z nižej stajoneju dwójku"
+        ],
+        "tts": [
+          "znamuško plus z nižej stajoneju dwójku"
+        ]
+      },
+      "⨯": {
+        "default": [
+          "wektorowy produkt"
+        ],
+        "tts": [
+          "wektorowy produkt"
+        ]
+      },
+      "⨼": {
+        "default": [
+          "nutśikowny produkt"
+        ],
+        "tts": [
+          "nutśikowny produkt"
+        ]
+      },
+      "⩣": {
+        "default": [
+          "logiske \"abo\" z dwójneju pódsmužku"
+        ],
+        "tts": [
+          "logiske \"abo\" z dwójneju pódsmužku"
+        ]
+      },
+      "⩽": {
+        "default": [
+          "mjeńšy ako abo nakósno jo rowno"
+        ],
+        "tts": [
+          "mjeńšy ako abo nakósno jo rowno"
+        ]
+      },
+      "⪍": {
+        "default": [
+          "mjeńšy ako wušej pódobny abo jadnaki"
+        ],
+        "tts": [
+          "mjeńšy ako wušej pódobny abo jadnaki"
+        ]
+      },
+      "⪚": {
+        "default": [
+          "matematika",
+          "njerownosć",
+          "rowno wušej wětšy ako"
+        ],
+        "tts": [
+          "rowno wušej wětšy ako"
+        ]
+      },
+      "⪺": {
+        "default": [
+          "slědujucy wušej pśisamem njerowno"
+        ],
+        "tts": [
+          "slědujucy wušej pśisamem njerowno"
         ]
       },
       "♭": {
@@ -1802,6 +3776,30 @@
           "tśěskotate woblico"
         ]
       },
+      "🙂‍↔": {
+        "default": [
+          "kenž z głowu wijo",
+          "ně",
+          "woblico",
+          "woblico, kenž z głowu wijo",
+          "z głowu wiś"
+        ],
+        "tts": [
+          "woblico, kenž z głowu wijo"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "jo",
+          "kenž nyga",
+          "nygaś",
+          "woblico",
+          "woblico, kenž nyga"
+        ],
+        "tts": [
+          "woblico, kenž nyga"
+        ]
+      },
       "😌": {
         "default": [
           "woblico",
@@ -1854,6 +3852,18 @@
         ],
         "tts": [
           "spice woblico"
+        ]
+      },
+      "🫩": {
+        "default": [
+          "dopórany",
+          "mucny",
+          "woblico ze łdzowyma měškoma pód wócyma",
+          "wužmjety",
+          "zaspany"
+        ],
+        "tts": [
+          "woblico ze łdzowyma měškoma pód wócyma"
         ]
       },
       "😷": {
@@ -3190,9 +5200,11 @@
       },
       "🫷": {
         "default": [
+          "ak tłocy nalěwo",
           "cakaś",
           "high five",
           "nalěwo",
+          "ruka",
           "ruka, ak tłocy nalěwo",
           "slědk hyś",
           "tłocyś",
@@ -3205,9 +5217,11 @@
       },
       "🫸": {
         "default": [
+          "ak tłocy napšawo",
           "cakaś",
           "high five",
           "napšawo",
+          "ruka",
           "ruka, ak tłocy napšawo",
           "slědk hyś",
           "tłocyś",
@@ -3285,8 +5299,10 @@
           "droge",
           "lubosć",
           "pjenjeze",
+          "ruka",
           "ruka, z pśekśicowanym pokazowarjom a palcom",
-          "wutšoba"
+          "wutšoba",
+          "z pśekśicowanym pokazowarjom a palcom"
         ],
         "tts": [
           "ruka, z pśekśicowanym pokazowarjom a palcom"
@@ -3397,8 +5413,10 @@
       "🫵": {
         "default": [
           "dypk",
+          "pokazowaŕ",
           "pokazowaŕ, wusměrjony na glědajucego",
-          "ty"
+          "ty",
+          "wusměrjony na glědajucego"
         ],
         "tts": [
           "pokazowaŕ, wusměrjony na glědajucego"
@@ -3747,7 +5765,9 @@
       "🫦": {
         "default": [
           "flirtowaś",
+          "guba",
           "guba, kenž se do spódneje guby kusnjo",
+          "kenž se do spódneje guby kusnjo",
           "nerwozny",
           "njepśijazny",
           "starosćiwy",
@@ -5486,9 +7506,11 @@
       "💆": {
         "default": [
           "głowa",
+          "kenž dostanjo masažu głowy",
           "masaža",
           "salon",
           "woblico",
+          "wósoba",
           "wósoba, kenž dostanjo masažu głowy"
         ],
         "tts": [
@@ -5498,7 +7520,9 @@
       "💆‍♂": {
         "default": [
           "głowa",
+          "kenž dostanjo masažu głowy",
           "masaža",
+          "muski",
           "muski, kenž dostanjo masažu głowy",
           "salon",
           "woblico"
@@ -5510,9 +7534,11 @@
       "💆‍♀": {
         "default": [
           "głowa",
+          "kenž dostanjo masažu głowy",
           "masaža",
           "salon",
           "woblico",
+          "žeńska",
           "žeńska, kenž dostanjo masažu głowy"
         ],
         "tts": [
@@ -5524,6 +7550,8 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kenž dajo se włosy stśigaś",
+          "wósoba",
           "wósoba, kenž dajo se włosy stśigaś"
         ],
         "tts": [
@@ -5535,6 +7563,7 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kenž dajo se włosy stśigaś",
           "muski",
           "muski, kenž dajo se włosy stśigaś",
           "nožyce",
@@ -5549,11 +7578,11 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kenž dajo se włosy stśigaś",
           "nožyce",
           "stśiganje włosow",
           "žeńska",
-          "žeńska , kenž dajo se włosy stśigaś",
-          "žeńska, kenž dajo se włosy stśigaś"
+          "žeńska , kenž dajo se włosy stśigaś"
         ],
         "tts": [
           "žeńska , kenž dajo se włosy stśigaś"
@@ -5998,7 +8027,8 @@
           "golfowaŕ",
           "grajaŕ golfa",
           "grajaŕka golfa",
-          "wósoba, kenž golf grajo"
+          "kenž golf grajo",
+          "wósoba"
         ],
         "tts": [
           "golfowaŕ"
@@ -6168,8 +8198,9 @@
       },
       "🏋": {
         "default": [
+          "kenž zwiga wažydła",
           "wažydło",
-          "wósoba , kenž zwiga wažydła",
+          "wósoba",
           "wósoba, kenž zwiga wažydła"
         ],
         "tts": [
@@ -6198,10 +8229,12 @@
       },
       "🚴": {
         "default": [
+          "kenž kólasujo",
           "kólaso",
           "kólasowaŕ",
           "kólasowaŕka",
           "kólasowaś",
+          "wósoba",
           "wósoba, kenž kólasujo"
         ],
         "tts": [
@@ -6231,9 +8264,11 @@
       "🚵": {
         "default": [
           "górske kólaso",
+          "kenž z mountainbikom jězdźi",
           "kólasowaś",
           "mountainbike",
           "mountainbikowanje",
+          "wósoba",
           "wósoba, kenž z mountainbikom jězdźi"
         ],
         "tts": [
@@ -6269,6 +8304,7 @@
       "🤸": {
         "default": [
           "gymnastika",
+          "kenž se na bok pśewjertujo",
           "se na bok pśewjertujuca wósoba",
           "se pśewjertaś",
           "sport",
@@ -6283,6 +8319,7 @@
       "🤸‍♂": {
         "default": [
           "gymnastika",
+          "kenž se na bok pśewjertujo",
           "muski",
           "muski, kenž se na bok pśewjertujo",
           "se na bok pśewjetujucy muski",
@@ -6565,17 +8602,6 @@
           "pórik z wutšobku"
         ]
       },
-      "👪": {
-        "default": [
-          "familija",
-          "góle",
-          "mama",
-          "nan"
-        ],
-        "tts": [
-          "familija"
-        ]
-      },
       "🗣": {
         "default": [
           "głowa",
@@ -6623,6 +8649,60 @@
           "se wobejmjecej wósobje"
         ]
       },
+      "👪": {
+        "default": [
+          "familija",
+          "góle",
+          "mama",
+          "nan"
+        ],
+        "tts": [
+          "familija"
+        ]
+      },
+      "🧑‍🧑‍🧒": {
+        "default": [
+          "dorosćone a góle",
+          "familija: dorosćonej a góle",
+          "familija: dorosćony"
+        ],
+        "tts": [
+          "familija: dorosćonej a góle"
+        ]
+      },
+      "🧑‍🧑‍🧒‍🧒": {
+        "default": [
+          "dorosćone",
+          "dorosćonej",
+          "familija: dorosćonej a góleśi",
+          "familija: dorosćony",
+          "góleśi a źiśi"
+        ],
+        "tts": [
+          "familija: dorosćonej a góleśi"
+        ]
+      },
+      "🧑‍🧒": {
+        "default": [
+          "familija: dorosćony",
+          "familija: dorosćony a góle",
+          "góle"
+        ],
+        "tts": [
+          "familija: dorosćony a góle"
+        ]
+      },
+      "🧑‍🧒‍🧒": {
+        "default": [
+          "familija: dorosćony",
+          "familija: dorosćony a góleśi",
+          "góleśi",
+          "źiśi"
+        ],
+        "tts": [
+          "familija: dorosćony a góleśi"
+        ]
+      },
       "👣": {
         "default": [
           "noga",
@@ -6632,6 +8712,17 @@
         ],
         "tts": [
           "stopje"
+        ]
+      },
+      "🫆": {
+        "default": [
+          "forensika",
+          "identita",
+          "wěstota",
+          "wótśišć palca"
+        ],
+        "tts": [
+          "wótśišć palca"
         ]
       },
       "🦰": {
@@ -6842,7 +8933,6 @@
           "głowa",
           "głowa lawa",
           "gwězdne znamje",
-          "law",
           "Law"
         ],
         "tts": [
@@ -7052,7 +9142,6 @@
       },
       "🐏": {
         "default": [
-          "baran",
           "Baran",
           "baran zwěrje",
           "gwězdne znamje"
@@ -7582,6 +9671,15 @@
           "kśidło"
         ]
       },
+      "🐦‍⬛": {
+        "default": [
+          "carny ptašk",
+          "ptašk"
+        ],
+        "tts": [
+          "carny ptašk"
+        ]
+      },
       "🪿": {
         "default": [
           "głupe",
@@ -7592,6 +9690,18 @@
         ],
         "tts": [
           "gus"
+        ]
+      },
+      "🐦‍🔥": {
+        "default": [
+          "fantazija",
+          "feniks",
+          "reinkarnacija",
+          "wognjowy ptašk",
+          "znowanaroźenje"
+        ],
+        "tts": [
+          "feniks"
         ]
       },
       "🐸": {
@@ -7734,7 +9844,6 @@
       "🐟": {
         "default": [
           "gězdne znamje",
-          "ryba",
           "Ryba",
           "ryby",
           "zwěrje"
@@ -7815,6 +9924,57 @@
         ],
         "tts": [
           "kwala"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "gwězdne znamje",
+          "Rak",
+          "zwěrje"
+        ],
+        "tts": [
+          "rak"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "humer",
+          "langusta",
+          "mórske płody",
+          "wěrje"
+        ],
+        "tts": [
+          "humer"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "garnela",
+          "jěza",
+          "kraba"
+        ],
+        "tts": [
+          "garnela"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "kalmar jěza",
+          "sepija",
+          "tintowa ryba"
+        ],
+        "tts": [
+          "tintowa ryba"
+        ]
+      },
+      "🦪": {
+        "default": [
+          "parla",
+          "pódnuriś se",
+          "wustrica"
+        ],
+        "tts": [
+          "wustrica"
         ]
       },
       "🐌": {
@@ -7931,7 +10091,6 @@
         "default": [
           "gwězdne znamje",
           "insekt",
-          "skorpion",
           "Skorpion",
           "zwěrje"
         ],
@@ -8287,6 +10446,17 @@
           "muchoradło"
         ]
       },
+      "🪾": {
+        "default": [
+          "bom bźez lista",
+          "goły",
+          "suš",
+          "zyma"
+        ],
+        "tts": [
+          "bom bźez lista"
+        ]
+      },
       "🍇": {
         "default": [
           "płod",
@@ -8339,6 +10509,16 @@
         ],
         "tts": [
           "citrona"
+        ]
+      },
+      "🍋‍🟩": {
+        "default": [
+          "citrusowe płody",
+          "limona",
+          "tropiske"
+        ],
+        "tts": [
+          "limona"
         ]
       },
       "🍌": {
@@ -8666,6 +10846,33 @@
         ],
         "tts": [
           "tšuka grocha"
+        ]
+      },
+      "🍄‍🟫": {
+        "default": [
+          "bruny grib",
+          "griby",
+          "pśiroda",
+          "zelenina",
+          "zežywidło"
+        ],
+        "tts": [
+          "bruny grib"
+        ]
+      },
+      "🫜": {
+        "default": [
+          "cerwjena rěpa",
+          "głub",
+          "głum",
+          "gumno",
+          "kulrabij",
+          "rěpa",
+          "zagroda",
+          "zelenina"
+        ],
+        "tts": [
+          "kóruškata zelenina"
         ]
       },
       "🍞": {
@@ -9195,58 +11402,6 @@
         ],
         "tts": [
           "tejzka za jězu"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "gwězdne znamje",
-          "rak",
-          "Rak",
-          "zwěrje"
-        ],
-        "tts": [
-          "rak"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "humer",
-          "langusta",
-          "mórske płody",
-          "wěrje"
-        ],
-        "tts": [
-          "humer"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "garnela",
-          "jěza",
-          "kraba"
-        ],
-        "tts": [
-          "garnela"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "kalmar jěza",
-          "sepija",
-          "tintowa ryba"
-        ],
-        "tts": [
-          "tintowa ryba"
-        ]
-      },
-      "🦪": {
-        "default": [
-          "parla",
-          "pódnuriś se",
-          "wustrica"
-        ],
-        "tts": [
-          "wustrica"
         ]
       },
       "🍦": {
@@ -13787,6 +15942,19 @@
           "pišćałka"
         ]
       },
+      "🪉": {
+        "default": [
+          "harfa",
+          "instrument",
+          "janźel",
+          "lubosć",
+          "muzika",
+          "orchester"
+        ],
+        "tts": [
+          "harfa"
+        ]
+      },
       "📱": {
         "default": [
           "handy",
@@ -15128,7 +17296,6 @@
         "default": [
           "gwězdne znamje",
           "spšawnosć",
-          "waga",
           "Waga",
           "wažydło",
           "wažyś Iźěłowy rěd"
@@ -15156,6 +17323,19 @@
         ],
         "tts": [
           "symbol zwězanja"
+        ]
+      },
+      "⛓‍💥": {
+        "default": [
+          "lichota",
+          "pyta",
+          "rjeśaz",
+          "roztergnjony rjeśaz",
+          "roztergnuś",
+          "złamaś"
+        ],
+        "tts": [
+          "roztergnjony rjeśaz"
         ]
       },
       "⛓": {
@@ -15207,6 +17387,18 @@
         ],
         "tts": [
           "jabeŕ"
+        ]
+      },
+      "🪏": {
+        "default": [
+          "łopata",
+          "ryś",
+          "šupowaś",
+          "wuryś",
+          "źěra"
+        ],
+        "tts": [
+          "šupa"
         ]
       },
       "⚗": {
@@ -16084,6 +18276,14 @@
         ],
         "tts": [
           "šypa nalěwo a napšawo"
+        ]
+      },
+      "↮": {
+        "default": [
+          "pśešmarnjona šypa nalěwo a napšawo"
+        ],
+        "tts": [
+          "pśešmarnjona šypa nalěwo a napšawo"
         ]
       },
       "↩": {
@@ -17201,7 +19401,8 @@
       "❇": {
         "default": [
           "błyskotanje",
-          "błyskotanje, migotanje, šćanjenje"
+          "migotanje",
+          "šćanjenje"
         ],
         "tts": [
           "błyskotanje"
@@ -17237,6 +19438,19 @@
         ],
         "tts": [
           "znamje marki"
+        ]
+      },
+      "🫟": {
+        "default": [
+          "barwa",
+          "blaraś",
+          "flak",
+          "kalnjenje",
+          "kalnuś",
+          "klaraś"
+        ],
+        "tts": [
+          "kalnjenje"
         ]
       },
       "🔠": {
@@ -17295,7 +19509,6 @@
       },
       "🅰": {
         "default": [
-          "a",
           "A",
           "cerwjeny kwadrat",
           "kšejna kupka",
@@ -17308,7 +19521,6 @@
       },
       "🆎": {
         "default": [
-          "ab",
           "AB",
           "cerwjeny kwadrat",
           "kšejna kupka",
@@ -17321,7 +19533,6 @@
       },
       "🅱": {
         "default": [
-          "b",
           "B",
           "cerwjeny kwadrat",
           "kšejna kupka",
@@ -18123,6 +20334,35 @@
           "symbol za yen"
         ]
       },
+      "₢": {
+        "default": [
+          "BRB",
+          "cruzeiro",
+          "pjenjeze"
+        ],
+        "tts": [
+          "cruzeiro"
+        ]
+      },
+      "₣": {
+        "default": [
+          "franc",
+          "francojski franc",
+          "pjenjeze"
+        ],
+        "tts": [
+          "francojski franc"
+        ]
+      },
+      "₤": {
+        "default": [
+          "lira",
+          "pjenjeze"
+        ],
+        "tts": [
+          "lira"
+        ]
+      },
       "₥": {
         "default": [
           "mill",
@@ -18157,6 +20397,15 @@
           "symbol za euro"
         ]
       },
+      "₰": {
+        "default": [
+          "pjenjeze",
+          "pjenježk"
+        ],
+        "tts": [
+          "pjenježk"
+        ]
+      },
       "₱": {
         "default": [
           "peso",
@@ -18166,6 +20415,34 @@
         ],
         "tts": [
           "symbol za peso"
+        ]
+      },
+      "₳": {
+        "default": [
+          "ARA",
+          "awstral",
+          "pjenjeze"
+        ],
+        "tts": [
+          "awstral"
+        ]
+      },
+      "₶": {
+        "default": [
+          "livre tournois",
+          "pjenjeze"
+        ],
+        "tts": [
+          "livre tournois"
+        ]
+      },
+      "₷": {
+        "default": [
+          "pjenjeze",
+          "spesmilo"
+        ],
+        "tts": [
+          "spesmilo"
         ]
       },
       "₹": {
@@ -18236,6 +20513,15 @@
           "wušej stajona tšojka"
         ]
       },
+      "₨": {
+        "default": [
+          "pjenjeze",
+          "rupija"
+        ],
+        "tts": [
+          "rupija"
+        ]
+      },
       "µ": {
         "default": [
           "měra",
@@ -18245,6 +20531,15 @@
         ],
         "tts": [
           "mikro znamuško"
+        ]
+      },
+      "﷼": {
+        "default": [
+          "pjenjeze",
+          "rial"
+        ],
+        "tts": [
+          "rial"
         ]
       }
     }

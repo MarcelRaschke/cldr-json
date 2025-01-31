@@ -2,9 +2,6 @@
   "main": {
     "gl": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "gl"
       },
       "dates": {
@@ -147,13 +144,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Dom.",
-                  "mon": "Luns",
-                  "tue": "Mar.",
-                  "wed": "Mér.",
-                  "thu": "Xov.",
-                  "fri": "Ven.",
-                  "sat": "Sáb."
+                  "sun": "dom.",
+                  "mon": "luns",
+                  "tue": "mar.",
+                  "wed": "mér.",
+                  "thu": "xov.",
+                  "fri": "ven.",
+                  "sat": "sáb."
                 },
                 "narrow": {
                   "sun": "D",
@@ -165,22 +162,22 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "Do",
-                  "mon": "Lu",
-                  "tue": "Ma",
-                  "wed": "Mé",
-                  "thu": "Xo",
-                  "fri": "Ve",
-                  "sat": "Sá"
+                  "sun": "do.",
+                  "mon": "lu.",
+                  "tue": "ma.",
+                  "wed": "mé.",
+                  "thu": "xo.",
+                  "fri": "ve.",
+                  "sat": "sá."
                 },
                 "wide": {
-                  "sun": "Domingo",
-                  "mon": "Luns",
-                  "tue": "Martes",
-                  "wed": "Mércores",
-                  "thu": "Xoves",
-                  "fri": "Venres",
-                  "sat": "Sábado"
+                  "sun": "domingo",
+                  "mon": "luns",
+                  "tue": "martes",
+                  "wed": "mércores",
+                  "thu": "xoves",
+                  "fri": "venres",
+                  "sat": "sábado"
                 }
               }
             },

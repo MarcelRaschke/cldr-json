@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "jv"
     },
     "annotations": {
@@ -68,6 +65,17 @@
         ],
         "tts": [
           "kulit ireng"
+        ]
+      },
+      "‾": {
+        "default": [
+          "garis besar",
+          "garis ndhuwur",
+          "strip ndhuwur",
+          "vinculum"
+        ],
+        "tts": [
+          "garis ndhuwur"
         ]
       },
       "_": {
@@ -249,6 +257,15 @@
         ],
         "tts": [
           "tandha pitakon arab"
+        ]
+      },
+      "‽": {
+        "default": [
+          "interabang",
+          "interobang"
+        ],
+        "tts": [
+          "interobang"
         ]
       },
       ".": {
@@ -785,12 +802,30 @@
           "tandha kutip telu"
         ]
       },
+      "‸": {
+        "default": [
+          "sisipan"
+        ],
+        "tts": [
+          "sisipan"
+        ]
+      },
       "※": {
         "default": [
           "tandha referensi"
         ],
         "tts": [
           "tandha referensi"
+        ]
+      },
+      "⁂": {
+        "default": [
+          "asterisme",
+          "dinkus",
+          "lintang"
+        ],
+        "tts": [
+          "asterisme"
         ]
       },
       "`": {
@@ -869,6 +904,14 @@
           "panah nuding ngiwo"
         ]
       },
+      "↚": {
+        "default": [
+          "garis miring panah ngiwa"
+        ],
+        "tts": [
+          "garis miring panah ngiwa"
+        ]
+      },
       "→": {
         "default": [
           "panah",
@@ -877,6 +920,14 @@
         ],
         "tts": [
           "panah nuding nengen"
+        ]
+      },
+      "↛": {
+        "default": [
+          "garis miring panah nengen"
+        ],
+        "tts": [
+          "garis miring panah nengen"
         ]
       },
       "↑": {
@@ -899,6 +950,323 @@
           "panah nuding ngisor"
         ]
       },
+      "↜": {
+        "default": [
+          "panah ngombak ngiwa"
+        ],
+        "tts": [
+          "panah ngombak ngiwa"
+        ]
+      },
+      "↝": {
+        "default": [
+          "panah ngombak nengen"
+        ],
+        "tts": [
+          "panah ngombak nengen"
+        ]
+      },
+      "↞": {
+        "default": [
+          "panah pucuk loro ngiwa"
+        ],
+        "tts": [
+          "panah pucuk loro ngiwa"
+        ]
+      },
+      "↟": {
+        "default": [
+          "panah pucuk loro munggah"
+        ],
+        "tts": [
+          "panah pucuk loro munggah"
+        ]
+      },
+      "↠": {
+        "default": [
+          "panah pucuk loro nengen"
+        ],
+        "tts": [
+          "panah pucuk loro nengen"
+        ]
+      },
+      "↡": {
+        "default": [
+          "panah pucuk loro mudhun"
+        ],
+        "tts": [
+          "panah pucuk loro mudhun"
+        ]
+      },
+      "↢": {
+        "default": [
+          "panah buntut ngiwa"
+        ],
+        "tts": [
+          "panah buntut ngiwa"
+        ]
+      },
+      "↣": {
+        "default": [
+          "panah buntut nengen"
+        ],
+        "tts": [
+          "panah buntut nengen"
+        ]
+      },
+      "↤": {
+        "default": [
+          "panah ngiwa buntut papak"
+        ],
+        "tts": [
+          "panah ngiwa buntut papak"
+        ]
+      },
+      "↥": {
+        "default": [
+          "panah munggah buntut papak"
+        ],
+        "tts": [
+          "panah munggah buntut papak"
+        ]
+      },
+      "↦": {
+        "default": [
+          "panah nengen buntut papak"
+        ],
+        "tts": [
+          "panah nengen buntut papak"
+        ]
+      },
+      "↧": {
+        "default": [
+          "panah mudhun buntut papak"
+        ],
+        "tts": [
+          "panah mudhun buntut papak"
+        ]
+      },
+      "↨": {
+        "default": [
+          "panah munggah mudhun nganggo dhasaran"
+        ],
+        "tts": [
+          "panah munggah mudhun nganggo dhasaran"
+        ]
+      },
+      "↫": {
+        "default": [
+          "panah ngiwa buntut mrungkel"
+        ],
+        "tts": [
+          "panah ngiwa buntut mrungkel"
+        ]
+      },
+      "↬": {
+        "default": [
+          "panah nengen buntut mrungkel"
+        ],
+        "tts": [
+          "panah nengen buntut mrungkel"
+        ]
+      },
+      "↭": {
+        "default": [
+          "panah ngombak ngiwa nengen"
+        ],
+        "tts": [
+          "panah ngombak ngiwa nengen"
+        ]
+      },
+      "↯": {
+        "default": [
+          "menggak-menggok",
+          "panah menggak-menggok mudhun"
+        ],
+        "tts": [
+          "panah menggak-menggok mudhun"
+        ]
+      },
+      "↰": {
+        "default": [
+          "panah munggah menggok ngiwa"
+        ],
+        "tts": [
+          "panah munggah menggok ngiwa"
+        ]
+      },
+      "↱": {
+        "default": [
+          "panah munggah menggok nengen"
+        ],
+        "tts": [
+          "panah munggah menggok nengen"
+        ]
+      },
+      "↲": {
+        "default": [
+          "panah mudhun menggok ngiwa"
+        ],
+        "tts": [
+          "panah mudhun menggok ngiwa"
+        ]
+      },
+      "↳": {
+        "default": [
+          "panah mudhun menggok nengen"
+        ],
+        "tts": [
+          "panah mudhun menggok nengen"
+        ]
+      },
+      "↴": {
+        "default": [
+          "panah nengen nyiku mudhun"
+        ],
+        "tts": [
+          "panah nengen nyiku mudhun"
+        ]
+      },
+      "↵": {
+        "default": [
+          "panah mudhun nyiku ngiwa"
+        ],
+        "tts": [
+          "panah mudhun nyiku ngiwa"
+        ]
+      },
+      "↶": {
+        "default": [
+          "panah mlengkung arah walik jarum jam"
+        ],
+        "tts": [
+          "panah mlengkung arah walik jarum jam"
+        ]
+      },
+      "↷": {
+        "default": [
+          "panah mlengkung arah jarum jam"
+        ],
+        "tts": [
+          "panah mlengkung arah jarum jam"
+        ]
+      },
+      "↸": {
+        "default": [
+          "panah arah lor kulon palang ndhuwur"
+        ],
+        "tts": [
+          "panah arah lor kulon palang ndhuwur"
+        ]
+      },
+      "↹": {
+        "default": [
+          "nengen",
+          "ngiwa",
+          "palang",
+          "panah",
+          "panah palang arah kiwa tengen",
+          "panah palang arah ngiwa nengen"
+        ],
+        "tts": [
+          "panah palang arah kiwa tengen"
+        ]
+      },
+      "↺": {
+        "default": [
+          "panah rada mlungker arah walik jarum jam"
+        ],
+        "tts": [
+          "panah rada mlungker arah walik jarum jam"
+        ]
+      },
+      "↻": {
+        "default": [
+          "panah rada mlungker arah jarum jam"
+        ],
+        "tts": [
+          "panah rada mlungker arah jarum jam"
+        ]
+      },
+      "↼": {
+        "default": [
+          "pucuk",
+          "tombak ngiwa pucuke mendhuwur"
+        ],
+        "tts": [
+          "tombak ngiwa pucuke mendhuwur"
+        ]
+      },
+      "↽": {
+        "default": [
+          "tombak ngiwa pucuke mengisor"
+        ],
+        "tts": [
+          "tombak ngiwa pucuke mengisor"
+        ]
+      },
+      "↾": {
+        "default": [
+          "pucuk",
+          "tombak mendhuwur pucuke nengen"
+        ],
+        "tts": [
+          "tombak mendhuwur pucuke nengen"
+        ]
+      },
+      "↿": {
+        "default": [
+          "pucuk",
+          "tombak mendhuwur pucuke ngiwa"
+        ],
+        "tts": [
+          "tombak mendhuwur pucuke ngiwa"
+        ]
+      },
+      "⇀": {
+        "default": [
+          "pucuk",
+          "tombak nengen pucuke mendhuwur"
+        ],
+        "tts": [
+          "tombak nengen pucuke mendhuwur"
+        ]
+      },
+      "⇁": {
+        "default": [
+          "pucuk",
+          "tombak nengen pucuke mengisor"
+        ],
+        "tts": [
+          "tombak nengen pucuke mengisor"
+        ]
+      },
+      "⇂": {
+        "default": [
+          "pucuk",
+          "tombak mengisor pucuke nengen"
+        ],
+        "tts": [
+          "tombak mengisor pucuke nengen"
+        ]
+      },
+      "⇃": {
+        "default": [
+          "pucuk",
+          "tombak mengisor pucuke ngiwa"
+        ],
+        "tts": [
+          "tombak mengisor pucuke ngiwa"
+        ]
+      },
+      "⇄": {
+        "default": [
+          "panah nengen ing ndhuwure panah ngiwa"
+        ],
+        "tts": [
+          "panah nengen ing ndhuwure panah ngiwa"
+        ]
+      },
       "⇅": {
         "default": [
           "ndhuwur",
@@ -919,6 +1287,333 @@
         ],
         "tts": [
           "panah nuding ngiwo lewat sisih tengen"
+        ]
+      },
+      "⇇": {
+        "default": [
+          "panah loro ngiwa"
+        ],
+        "tts": [
+          "panah loro ngiwa"
+        ]
+      },
+      "⇈": {
+        "default": [
+          "panah loro mendhuwur"
+        ],
+        "tts": [
+          "panah loro mendhuwur"
+        ]
+      },
+      "⇉": {
+        "default": [
+          "panah loro nengen"
+        ],
+        "tts": [
+          "panah loro nengen"
+        ]
+      },
+      "⇊": {
+        "default": [
+          "panah loro mengisor"
+        ],
+        "tts": [
+          "panah loro mengisor"
+        ]
+      },
+      "⇋": {
+        "default": [
+          "tombak ngiwa ing ndhuwure tombak nengen"
+        ],
+        "tts": [
+          "tombak ngiwa ing ndhuwure tombak nengen"
+        ]
+      },
+      "⇌": {
+        "default": [
+          "tombak nengen ing ndhuwure tombak ngiwa"
+        ],
+        "tts": [
+          "tombak nengen ing ndhuwure tombak ngiwa"
+        ]
+      },
+      "⇐": {
+        "default": [
+          "panah gagang loro ngiwa"
+        ],
+        "tts": [
+          "panah gagang loro ngiwa"
+        ]
+      },
+      "⇍": {
+        "default": [
+          "panah gagang loro ngiwa nganggo coret"
+        ],
+        "tts": [
+          "panah gagang loro ngiwa nganggo coret"
+        ]
+      },
+      "⇑": {
+        "default": [
+          "panah gagang loro mendhuwur"
+        ],
+        "tts": [
+          "panah gagang loro mendhuwur"
+        ]
+      },
+      "⇒": {
+        "default": [
+          "panah gagang loro nengen"
+        ],
+        "tts": [
+          "panah gagang loro nengen"
+        ]
+      },
+      "⇏": {
+        "default": [
+          "panah gagang loro nengen nganggo coret"
+        ],
+        "tts": [
+          "panah gagang loro nengen nganggo coret"
+        ]
+      },
+      "⇓": {
+        "default": [
+          "panah gagang loro mengisor"
+        ],
+        "tts": [
+          "panah gagang loro mengisor"
+        ]
+      },
+      "⇔": {
+        "default": [
+          "panah gagang loro ngiwa nengen"
+        ],
+        "tts": [
+          "panah gagang loro ngiwa nengen"
+        ]
+      },
+      "⇎": {
+        "default": [
+          "panah gagang loro ngiwa nengen nganggo coret"
+        ],
+        "tts": [
+          "panah gagang loro ngiwa nengen nganggo coret"
+        ]
+      },
+      "⇖": {
+        "default": [
+          "panah gagang loro madhep lor kulon"
+        ],
+        "tts": [
+          "panah gagang loro madhep lor kulon"
+        ]
+      },
+      "⇗": {
+        "default": [
+          "panah gagang loro madhep lor wetan"
+        ],
+        "tts": [
+          "panah gagang loro madhep lor wetan"
+        ]
+      },
+      "⇘": {
+        "default": [
+          "panah gagang loro madhep kidul wetan"
+        ],
+        "tts": [
+          "panah gagang loro madhep kidul wetan"
+        ]
+      },
+      "⇙": {
+        "default": [
+          "panah gagang loro madhep kidul kulon"
+        ],
+        "tts": [
+          "panah gagang loro madhep kidul kulon"
+        ]
+      },
+      "⇚": {
+        "default": [
+          "panah gagang telu ngiwa"
+        ],
+        "tts": [
+          "panah gagang telu ngiwa"
+        ]
+      },
+      "⇛": {
+        "default": [
+          "panah gagang telu nengen"
+        ],
+        "tts": [
+          "panah gagang telu nengen"
+        ]
+      },
+      "⇜": {
+        "default": [
+          "panah zigzag ngiwa"
+        ],
+        "tts": [
+          "panah zigzag ngiwa"
+        ]
+      },
+      "⇝": {
+        "default": [
+          "panah zigzag nengen"
+        ],
+        "tts": [
+          "panah zigzag nengen"
+        ]
+      },
+      "⇞": {
+        "default": [
+          "panah mendhuwur nganggo coret loro"
+        ],
+        "tts": [
+          "panah mendhuwur nganggo coret loro"
+        ]
+      },
+      "⇟": {
+        "default": [
+          "panah mengisor nganggo coret loro"
+        ],
+        "tts": [
+          "panah mengisor nganggo coret loro"
+        ]
+      },
+      "⇠": {
+        "default": [
+          "Panah ngiwa pedhot-pedhot"
+        ],
+        "tts": [
+          "Panah ngiwa pedhot-pedhot"
+        ]
+      },
+      "⇡": {
+        "default": [
+          "Panah mendhuwur pedhot-pedhot"
+        ],
+        "tts": [
+          "Panah mendhuwur pedhot-pedhot"
+        ]
+      },
+      "⇢": {
+        "default": [
+          "Panah nengen pedhot-pedhot"
+        ],
+        "tts": [
+          "Panah nengen pedhot-pedhot"
+        ]
+      },
+      "⇣": {
+        "default": [
+          "Panah mengisor pedhot-pedhot"
+        ],
+        "tts": [
+          "Panah mengisor pedhot-pedhot"
+        ]
+      },
+      "⇤": {
+        "default": [
+          "panah ngiwa ketemu palang"
+        ],
+        "tts": [
+          "panah ngiwa ketemu palang"
+        ]
+      },
+      "⇥": {
+        "default": [
+          "panah nengen ketemu palang"
+        ],
+        "tts": [
+          "panah nengen ketemu palang"
+        ]
+      },
+      "⇦": {
+        "default": [
+          "panah growong ngiwa"
+        ],
+        "tts": [
+          "panah growong ngiwa"
+        ]
+      },
+      "⇧": {
+        "default": [
+          "panah growong mendhuwur"
+        ],
+        "tts": [
+          "panah growong mendhuwur"
+        ]
+      },
+      "⇨": {
+        "default": [
+          "panah growong nengen"
+        ],
+        "tts": [
+          "panah growong nengen"
+        ]
+      },
+      "⇩": {
+        "default": [
+          "panah growong mengisor"
+        ],
+        "tts": [
+          "panah growong mengisor"
+        ]
+      },
+      "⇪": {
+        "default": [
+          "panah growong mendhuwur saka palang"
+        ],
+        "tts": [
+          "panah growong mendhuwur saka palang"
+        ]
+      },
+      "⇵": {
+        "default": [
+          "panah mengisor karo panah mendhuwur"
+        ],
+        "tts": [
+          "panah mengisor karo panah mendhuwur"
+        ]
+      },
+      "∀": {
+        "default": [
+          "ditemtokake",
+          "kabeh",
+          "kanggo kabeh",
+          "samubarang",
+          "universal"
+        ],
+        "tts": [
+          "kanggo kabeh"
+        ]
+      },
+      "∂": {
+        "default": [
+          "diferensial",
+          "diferensial sebagean"
+        ],
+        "tts": [
+          "diferensial sebagean"
+        ]
+      },
+      "∃": {
+        "default": [
+          "ana wujude"
+        ],
+        "tts": [
+          "ana wujude"
+        ]
+      },
+      "∅": {
+        "default": [
+          "himpunan kosong",
+          "matematika",
+          "sakumpulan operator"
+        ],
+        "tts": [
+          "himpunan kosong"
         ]
       },
       "∆": {
@@ -949,6 +1644,56 @@
         ],
         "tts": [
           "unsur saka"
+        ]
+      },
+      "∉": {
+        "default": [
+          "elemen",
+          "ora elemen"
+        ],
+        "tts": [
+          "ora elemen"
+        ]
+      },
+      "∋": {
+        "default": [
+          "anggota himpunan",
+          "elemen"
+        ],
+        "tts": [
+          "anggota himpunan"
+        ]
+      },
+      "∎": {
+        "default": [
+          "bukti akhir",
+          "halmos",
+          "q.e.d.",
+          "qed",
+          "watu kijing"
+        ],
+        "tts": [
+          "bukti akhir"
+        ]
+      },
+      "∏": {
+        "default": [
+          "logika",
+          "produk",
+          "produk n-ary"
+        ],
+        "tts": [
+          "produk n-ary"
+        ]
+      },
+      "∑": {
+        "default": [
+          "matematika",
+          "panjumlahan",
+          "panjumlahan n-ary"
+        ],
+        "tts": [
+          "panjumlahan n-ary"
         ]
       },
       "+": {
@@ -1001,6 +1746,16 @@
           "luwih cilik"
         ]
       },
+      "≮": {
+        "default": [
+          "matematika",
+          "ora kurang saka",
+          "ora pepadhan"
+        ],
+        "tts": [
+          "ora kurang saka"
+        ]
+      },
       "=": {
         "default": [
           "pada karo"
@@ -1027,6 +1782,16 @@
         ],
         "tts": [
           "luwih gedhe"
+        ]
+      },
+      "≯": {
+        "default": [
+          "matematika",
+          "ora luwih saka",
+          "ora pepadhan"
+        ],
+        "tts": [
+          "ora luwih saka"
         ]
       },
       "¬": {
@@ -1083,6 +1848,65 @@
           "tandha kurang ing dhuwur"
         ]
       },
+      "∓": {
+        "default": [
+          "minus utawa plus",
+          "plus-minus"
+        ],
+        "tts": [
+          "minus utawa plus"
+        ]
+      },
+      "∕": {
+        "default": [
+          "coret",
+          "garis miring",
+          "garis miring pambagean",
+          "virgul"
+        ],
+        "tts": [
+          "garis miring pambagean"
+        ]
+      },
+      "⁄": {
+        "default": [
+          "coret",
+          "garis miring pecahan",
+          "virgul"
+        ],
+        "tts": [
+          "garis miring pecahan"
+        ]
+      },
+      "∗": {
+        "default": [
+          "bintang",
+          "tandha bintang"
+        ],
+        "tts": [
+          "tandha bintang"
+        ]
+      },
+      "∘": {
+        "default": [
+          "derajat",
+          "komposisi",
+          "operator"
+        ],
+        "tts": [
+          "derajat"
+        ]
+      },
+      "∙": {
+        "default": [
+          "operator",
+          "pluru",
+          "tandha pluru"
+        ],
+        "tts": [
+          "tandha pluru"
+        ]
+      },
       "√": {
         "default": [
           "oyod",
@@ -1095,6 +1919,15 @@
           "oyod peng loro"
         ]
       },
+      "∝": {
+        "default": [
+          "proporsionalitas",
+          "sebandhing"
+        ],
+        "tts": [
+          "sebandhing"
+        ]
+      },
       "∞": {
         "default": [
           "tandha tanpa wates",
@@ -1102,6 +1935,52 @@
         ],
         "tts": [
           "tandha tanpa wates"
+        ]
+      },
+      "∟": {
+        "default": [
+          "matematika",
+          "siku tengen"
+        ],
+        "tts": [
+          "siku tengen"
+        ]
+      },
+      "∠": {
+        "default": [
+          "landhep",
+          "siku"
+        ],
+        "tts": [
+          "siku"
+        ]
+      },
+      "∣": {
+        "default": [
+          "pambage",
+          "pamisah"
+        ],
+        "tts": [
+          "pamisah"
+        ]
+      },
+      "∥": {
+        "default": [
+          "paralel"
+        ],
+        "tts": [
+          "paralel"
+        ]
+      },
+      "∧": {
+        "default": [
+          "ac",
+          "atque",
+          "balok",
+          "konjungsi"
+        ],
+        "tts": [
+          "konjungsi"
         ]
       },
       "∩": {
@@ -1123,6 +2002,115 @@
           "sarekat"
         ]
       },
+      "∫": {
+        "default": [
+          "integral",
+          "kalkulus"
+        ],
+        "tts": [
+          "integral"
+        ]
+      },
+      "∬": {
+        "default": [
+          "integral loro",
+          "kalkulus"
+        ],
+        "tts": [
+          "integral loro"
+        ]
+      },
+      "∮": {
+        "default": [
+          "integral kontur"
+        ],
+        "tts": [
+          "integral kontur"
+        ]
+      },
+      "∴": {
+        "default": [
+          "logika",
+          "mulane"
+        ],
+        "tts": [
+          "mulane"
+        ]
+      },
+      "∵": {
+        "default": [
+          "amarga",
+          "logika"
+        ],
+        "tts": [
+          "amarga"
+        ]
+      },
+      "∶": {
+        "default": [
+          "rasio"
+        ],
+        "tts": [
+          "rasio"
+        ]
+      },
+      "∷": {
+        "default": [
+          "proporsi",
+          "proporsionalitas"
+        ],
+        "tts": [
+          "proporsi"
+        ]
+      },
+      "∼": {
+        "default": [
+          "operator",
+          "tandha waca ombak"
+        ],
+        "tts": [
+          "tandha waca ombak"
+        ]
+      },
+      "∽": {
+        "default": [
+          "tandha waca ombak",
+          "tandha waca ombak kuwalik"
+        ],
+        "tts": [
+          "tandha waca ombak kuwalik"
+        ]
+      },
+      "∾": {
+        "default": [
+          "s turu kuwalik"
+        ],
+        "tts": [
+          "s turu kuwalik"
+        ]
+      },
+      "≃": {
+        "default": [
+          "asimtotik",
+          "matematika",
+          "padha sacara asimtotik"
+        ],
+        "tts": [
+          "padha sacara asimtotik"
+        ]
+      },
+      "≅": {
+        "default": [
+          "isomorfisme",
+          "kasepadhan",
+          "kira-kira padha",
+          "kongruensi",
+          "matematika"
+        ],
+        "tts": [
+          "kira-kira padha"
+        ]
+      },
       "≈": {
         "default": [
           "kiro-kiro",
@@ -1131,6 +2119,35 @@
         ],
         "tts": [
           "meh pada"
+        ]
+      },
+      "≌": {
+        "default": [
+          "kabeg padha",
+          "kabeh padha",
+          "kasepadhan",
+          "matematika"
+        ],
+        "tts": [
+          "kabeh padha"
+        ]
+      },
+      "≒": {
+        "default": [
+          "kira-kira nilaine padha"
+        ],
+        "tts": [
+          "kira-kira nilaine padha"
+        ]
+      },
+      "≖": {
+        "default": [
+          "cincin ing sama dengan",
+          "kasepadhanan",
+          "matematika"
+        ],
+        "tts": [
+          "cincin ing sama dengan"
         ]
       },
       "≡": {
@@ -1144,13 +2161,23 @@
           "podho karo"
         ]
       },
+      "≣": {
+        "default": [
+          "kasepadhan",
+          "matematika",
+          "padha banget"
+        ],
+        "tts": [
+          "padha banget"
+        ]
+      },
       "≤": {
         "default": [
           "luwih cilik",
-          "luwih cilik utowo podho",
-          "ora podho",
-          "podho",
-          "podho karo"
+          "luwih cilik utawa padha",
+          "ora padha",
+          "padha",
+          "padha karo"
         ],
         "tts": [
           "luwih cilik utowo podho"
@@ -1168,6 +2195,95 @@
           "luwih gedhe utowo podho"
         ]
       },
+      "≦": {
+        "default": [
+          "kurang saka luwih padha",
+          "matematika",
+          "ora kasepadhan"
+        ],
+        "tts": [
+          "kurang saka luwih padha"
+        ]
+      },
+      "≧": {
+        "default": [
+          "luwih saka luwih padha",
+          "matematika",
+          "ora kasepadhan"
+        ],
+        "tts": [
+          "luwih saka luwih padha"
+        ]
+      },
+      "≪": {
+        "default": [
+          "luwih sithik banget saka",
+          "matematika",
+          "ora kasepadhan"
+        ],
+        "tts": [
+          "luwih sithik banget saka"
+        ]
+      },
+      "≫": {
+        "default": [
+          "luwih akeh banget saka",
+          "matematika",
+          "ora kasepadhan"
+        ],
+        "tts": [
+          "luwih akeh banget saka"
+        ]
+      },
+      "≬": {
+        "default": [
+          "antarane"
+        ],
+        "tts": [
+          "antarane"
+        ]
+      },
+      "≳": {
+        "default": [
+          "luwih saka padha karo",
+          "matematika",
+          "ora kasepadhan"
+        ],
+        "tts": [
+          "luwih saka padha karo"
+        ]
+      },
+      "≺": {
+        "default": [
+          "matematika",
+          "ndhisiki",
+          "operator himpunan"
+        ],
+        "tts": [
+          "ndhisiki"
+        ]
+      },
+      "≻": {
+        "default": [
+          "matematika",
+          "nggantekake",
+          "operator himpunan",
+          "ora ndhisiki"
+        ],
+        "tts": [
+          "nggantekake"
+        ]
+      },
+      "⊁": {
+        "default": [
+          "matematika",
+          "operator himpunan",
+          "ora ndhisiki"
+        ],
+        "tts": [
+          "ora ndhisiki"
+        ]
+      },
       "⊂": {
         "default": [
           "set",
@@ -1176,6 +2292,441 @@
         ],
         "tts": [
           "subset saka"
+        ]
+      },
+      "⊃": {
+        "default": [
+          "matematika",
+          "operator himpunan",
+          "superhimpunan"
+        ],
+        "tts": [
+          "superhimpunan"
+        ]
+      },
+      "⊆": {
+        "default": [
+          "himpunan bagean padha karo"
+        ],
+        "tts": [
+          "himpunan bagean padha karo"
+        ]
+      },
+      "⊇": {
+        "default": [
+          "kasepadhan",
+          "matematika",
+          "superhimpunan padha karo"
+        ],
+        "tts": [
+          "superhimpunan padha karo"
+        ]
+      },
+      "⊕": {
+        "default": [
+          "tambah",
+          "tambah dibunderi"
+        ],
+        "tts": [
+          "tambah dibunderi"
+        ]
+      },
+      "⊖": {
+        "default": [
+          "beda simetris",
+          "erosi",
+          "minus dibunderi"
+        ],
+        "tts": [
+          "minus dibunderi"
+        ]
+      },
+      "⊗": {
+        "default": [
+          "kaping dibunderi",
+          "prodhuk",
+          "tensor"
+        ],
+        "tts": [
+          "kaping dibunderi"
+        ]
+      },
+      "⊘": {
+        "default": [
+          "garis miring dibunderi",
+          "kaya pambagean",
+          "matematika"
+        ],
+        "tts": [
+          "garis miring dibunderi"
+        ]
+      },
+      "⊙": {
+        "default": [
+          "operator",
+          "operator titik dibunderi",
+          "XNOR"
+        ],
+        "tts": [
+          "operator titik dibunderi"
+        ]
+      },
+      "⊚": {
+        "default": [
+          "operator cincin dibunderi"
+        ],
+        "tts": [
+          "operator cincin dibunderi"
+        ]
+      },
+      "⊛": {
+        "default": [
+          "asteris",
+          "operator",
+          "operator asteris dibunderi"
+        ],
+        "tts": [
+          "operator asteris dibunderi"
+        ]
+      },
+      "⊞": {
+        "default": [
+          "kaya tambahan",
+          "matematika",
+          "tambah dikothaki"
+        ],
+        "tts": [
+          "tambah dikothaki"
+        ]
+      },
+      "⊟": {
+        "default": [
+          "kaya substraksi",
+          "matematika",
+          "minus dikothaki"
+        ],
+        "tts": [
+          "minus dikothaki"
+        ]
+      },
+      "⊥": {
+        "default": [
+          "eet",
+          "falsum",
+          "kontradiksi"
+        ],
+        "tts": [
+          "falsum"
+        ]
+      },
+      "⊮": {
+        "default": [
+          "aja peksa"
+        ],
+        "tts": [
+          "aja peksa"
+        ]
+      },
+      "⊰": {
+        "default": [
+          "matematika",
+          "ndhisiki ing gegandhengan",
+          "operator himpunan"
+        ],
+        "tts": [
+          "ndhisiki ing gegandhengan"
+        ]
+      },
+      "⊱": {
+        "default": [
+          "matematika",
+          "nggantekake ing gegandhengan",
+          "operator himpunan"
+        ],
+        "tts": [
+          "nggantekake ing gegandhengan"
+        ]
+      },
+      "⋭": {
+        "default": [
+          "matematika",
+          "ora ngandhut subgrup normal sing padha",
+          "teori grup"
+        ],
+        "tts": [
+          "ora ngandhut subgrup normal sing padha"
+        ]
+      },
+      "⊶": {
+        "default": [
+          "asli"
+        ],
+        "tts": [
+          "asli"
+        ]
+      },
+      "⊹": {
+        "default": [
+          "matematika",
+          "matriks konjugat hermitian",
+          "matriks kothak",
+          "matriks nyambung dhewe"
+        ],
+        "tts": [
+          "matriks konjugat hermitian"
+        ]
+      },
+      "⊿": {
+        "default": [
+          "matematika",
+          "segitiga madhep tengen",
+          "segitiga siku-siku"
+        ],
+        "tts": [
+          "segitiga siku-siku"
+        ]
+      },
+      "⋁": {
+        "default": [
+          "logika",
+          "logika n-ary utawa",
+          "pamisahan"
+        ],
+        "tts": [
+          "logika n-ary utawa"
+        ]
+      },
+      "⋂": {
+        "default": [
+          "matematika",
+          "operator himpunan",
+          "simpangan",
+          "simpangan n-ary"
+        ],
+        "tts": [
+          "simpangan n-ary"
+        ]
+      },
+      "⋃": {
+        "default": [
+          "gabungan",
+          "gabungan n-ary",
+          "matematika",
+          "operator himpunan"
+        ],
+        "tts": [
+          "gabungan n-ary"
+        ]
+      },
+      "⋅": {
+        "default": [
+          "operator",
+          "operator titik"
+        ],
+        "tts": [
+          "operator titik"
+        ]
+      },
+      "⋆": {
+        "default": [
+          "operator",
+          "operator bintang"
+        ],
+        "tts": [
+          "operator bintang"
+        ]
+      },
+      "⋈": {
+        "default": [
+          "dhasi kupu",
+          "gabung sing padha",
+          "operrrator biner"
+        ],
+        "tts": [
+          "gabung sing padha"
+        ]
+      },
+      "⋒": {
+        "default": [
+          "matematika",
+          "operator himpunan",
+          "simpangan",
+          "simpangan loro"
+        ],
+        "tts": [
+          "simpangan loro"
+        ]
+      },
+      "⋘": {
+        "default": [
+          "keluwih-luwih sithik banget saka",
+          "matematika",
+          "ora kasepadhan"
+        ],
+        "tts": [
+          "keluwih-luwih sithik banget saka"
+        ]
+      },
+      "⋙": {
+        "default": [
+          "keluwih-luwih gedhe banget saka",
+          "matematika",
+          "ora kasepadhan"
+        ],
+        "tts": [
+          "keluwih-luwih gedhe banget saka"
+        ]
+      },
+      "⋮": {
+        "default": [
+          "elipsis",
+          "elipsis vertikal",
+          "matematika"
+        ],
+        "tts": [
+          "elipsis vertikal"
+        ]
+      },
+      "⋯": {
+        "default": [
+          "elipsis horizontal",
+          "garis tengah"
+        ],
+        "tts": [
+          "garis tengah"
+        ]
+      },
+      "⋰": {
+        "default": [
+          "elipsis",
+          "elipsis mendhuwur nengen",
+          "matematika"
+        ],
+        "tts": [
+          "elipsis mendhuwur nengen"
+        ]
+      },
+      "⋱": {
+        "default": [
+          "elipsis",
+          "elipsis mengisor nengen",
+          "matematika"
+        ],
+        "tts": [
+          "elipsis mengisor nengen"
+        ]
+      },
+      "■": {
+        "default": [
+          "kothak isi"
+        ],
+        "tts": [
+          "kothak isi"
+        ]
+      },
+      "□": {
+        "default": [
+          "kothak growong"
+        ],
+        "tts": [
+          "kothak growong"
+        ]
+      },
+      "▢": {
+        "default": [
+          "kothak growong sikune mbunder"
+        ],
+        "tts": [
+          "kothak growong sikune mbunder"
+        ]
+      },
+      "▣": {
+        "default": [
+          "kothak growong njerone kothak isi"
+        ],
+        "tts": [
+          "kothak growong njerone kothak isi"
+        ]
+      },
+      "▤": {
+        "default": [
+          "kothak lorek horizontal",
+          "kothak njerone garis horizontal"
+        ],
+        "tts": [
+          "kothak njerone garis horizontal"
+        ]
+      },
+      "▥": {
+        "default": [
+          "kothak lorek vertikal"
+        ],
+        "tts": [
+          "kothak lorek vertikal"
+        ]
+      },
+      "▦": {
+        "default": [
+          "kothak silang vertikal horizontal"
+        ],
+        "tts": [
+          "kothak silang vertikal horizontal"
+        ]
+      },
+      "▧": {
+        "default": [
+          "kothak lorek miring ngiwa"
+        ],
+        "tts": [
+          "kothak lorek miring ngiwa"
+        ]
+      },
+      "▨": {
+        "default": [
+          "kothak lorek miring nengen"
+        ],
+        "tts": [
+          "kothak lorek miring nengen"
+        ]
+      },
+      "▩": {
+        "default": [
+          "kothak lorek silang"
+        ],
+        "tts": [
+          "kothak lorek silang"
+        ]
+      },
+      "▬": {
+        "default": [
+          "pesagi isi"
+        ],
+        "tts": [
+          "pesagi isi"
+        ]
+      },
+      "▭": {
+        "default": [
+          "pesagi growong"
+        ],
+        "tts": [
+          "pesagi growong"
+        ]
+      },
+      "▮": {
+        "default": [
+          "pesagi vertikal isi"
+        ],
+        "tts": [
+          "pesagi vertikal isi"
+        ]
+      },
+      "▰": {
+        "default": [
+          "jajar genjang isi"
+        ],
+        "tts": [
+          "jajar genjang isi"
         ]
       },
       "▲": {
@@ -1190,6 +2741,70 @@
           "pesagi telu kapenuhan pucuke ing ndhuwur"
         ]
       },
+      "△": {
+        "default": [
+          "segitiga growong madhep mendhuwur"
+        ],
+        "tts": [
+          "segitiga growong madhep mendhuwur"
+        ]
+      },
+      "▴": {
+        "default": [
+          "segitiga cilik isi madhep mendhuwur"
+        ],
+        "tts": [
+          "segitiga cilik isi madhep mendhuwur"
+        ]
+      },
+      "▵": {
+        "default": [
+          "segitiga cilik growong madhep mendhuwur"
+        ],
+        "tts": [
+          "segitiga cilik growong madhep mendhuwur"
+        ]
+      },
+      "▷": {
+        "default": [
+          "segitiga growong madhep tengen"
+        ],
+        "tts": [
+          "segitiga growong madhep tengen"
+        ]
+      },
+      "▸": {
+        "default": [
+          "segitiga cilik isi madhep tengen"
+        ],
+        "tts": [
+          "segitiga cilik isi madhep tengen"
+        ]
+      },
+      "▹": {
+        "default": [
+          "segitiga cilik growong madhep tengen"
+        ],
+        "tts": [
+          "segitiga cilik growong madhep tengen"
+        ]
+      },
+      "►": {
+        "default": [
+          "panuding nengen isi"
+        ],
+        "tts": [
+          "panuding nengen isi"
+        ]
+      },
+      "▻": {
+        "default": [
+          "panuding nengen growong"
+        ],
+        "tts": [
+          "panuding nengen growong"
+        ]
+      },
       "▼": {
         "default": [
           "kapenuhan",
@@ -1200,6 +2815,106 @@
         ],
         "tts": [
           "pesagi telu kapenuhan pucuke ing ngisor"
+        ]
+      },
+      "▽": {
+        "default": [
+          "panuding mengisor growong"
+        ],
+        "tts": [
+          "panuding mengisor growong"
+        ]
+      },
+      "▾": {
+        "default": [
+          "segitiga cilik nuding mengisor isi"
+        ],
+        "tts": [
+          "segitiga cilik nuding mengisor isi"
+        ]
+      },
+      "▿": {
+        "default": [
+          "segitiga cilik nuding mengisor growong"
+        ],
+        "tts": [
+          "segitiga cilik nuding mengisor growong"
+        ]
+      },
+      "◁": {
+        "default": [
+          "segitiga nuding nengen growong"
+        ],
+        "tts": [
+          "segitiga nuding nengen growong"
+        ]
+      },
+      "◂": {
+        "default": [
+          "segitiga cilik nuding kiwa isi"
+        ],
+        "tts": [
+          "segitiga cilik nuding kiwa isi"
+        ]
+      },
+      "◃": {
+        "default": [
+          "segitiga cilik nuding kiwa growong"
+        ],
+        "tts": [
+          "segitiga cilik nuding kiwa growong"
+        ]
+      },
+      "◄": {
+        "default": [
+          "panuding ngiwa isi"
+        ],
+        "tts": [
+          "panuding ngiwa isi"
+        ]
+      },
+      "◅": {
+        "default": [
+          "panuding ngiwa growong"
+        ],
+        "tts": [
+          "panuding ngiwa growong"
+        ]
+      },
+      "◆": {
+        "default": [
+          "berlian isi"
+        ],
+        "tts": [
+          "berlian isi"
+        ]
+      },
+      "◇": {
+        "default": [
+          "berlian growong"
+        ],
+        "tts": [
+          "berlian growong"
+        ]
+      },
+      "◈": {
+        "default": [
+          "berlian growong njerone berlian isi"
+        ],
+        "tts": [
+          "berlian growong njerone berlian isi"
+        ]
+      },
+      "◉": {
+        "default": [
+          "bunderan growong njerone bunderan isi",
+          "bunderan konsentris isi",
+          "mata iwak",
+          "pelindhung",
+          "titik dibunderi"
+        ],
+        "tts": [
+          "bunderan growong njerone bunderan isi"
         ]
       },
       "◊": {
@@ -1222,6 +2937,32 @@
           "bunderan kothong"
         ]
       },
+      "◌": {
+        "default": [
+          "bunderan titik-titik"
+        ],
+        "tts": [
+          "bunderan titik-titik"
+        ]
+      },
+      "◍": {
+        "default": [
+          "bunderan njerone lorek vertikal"
+        ],
+        "tts": [
+          "bunderan njerone lorek vertikal"
+        ]
+      },
+      "◎": {
+        "default": [
+          "bunderan konsentris",
+          "bunderan loro",
+          "sasaran"
+        ],
+        "tts": [
+          "bunderan konsentris"
+        ]
+      },
       "●": {
         "default": [
           "bundera kapenuhan",
@@ -1230,6 +2971,175 @@
         ],
         "tts": [
           "bundera kapenuhan"
+        ]
+      },
+      "◐": {
+        "default": [
+          "bunderan separo isi sisih kiwa"
+        ],
+        "tts": [
+          "bunderan separo isi sisih kiwa"
+        ]
+      },
+      "◑": {
+        "default": [
+          "bunderan separo isi sisih tengen"
+        ],
+        "tts": [
+          "bunderan separo isi sisih tengen"
+        ]
+      },
+      "◒": {
+        "default": [
+          "bunderan separo isi sisih ngisor"
+        ],
+        "tts": [
+          "bunderan separo isi sisih ngisor"
+        ]
+      },
+      "◓": {
+        "default": [
+          "bunderan separo isi sisih ndhuwur"
+        ],
+        "tts": [
+          "bunderan separo isi sisih ndhuwur"
+        ]
+      },
+      "◔": {
+        "default": [
+          "bunderan seprapat isi sisih tengen ndhuwur"
+        ],
+        "tts": [
+          "bunderan seprapat isi sisih tengen ndhuwur"
+        ]
+      },
+      "◕": {
+        "default": [
+          "bunderan isi nanging seprapat growong sisih kiwa ndhuwur"
+        ],
+        "tts": [
+          "bunderan isi nanging seprapat growong sisih kiwa ndhuwur"
+        ]
+      },
+      "◖": {
+        "default": [
+          "separo bunderan kiwa isi"
+        ],
+        "tts": [
+          "separo bunderan kiwa isi"
+        ]
+      },
+      "◗": {
+        "default": [
+          "separo bunderan tengen isi"
+        ],
+        "tts": [
+          "separo bunderan tengen isi"
+        ]
+      },
+      "◘": {
+        "default": [
+          "pluru kuwalik"
+        ],
+        "tts": [
+          "pluru kuwalik"
+        ]
+      },
+      "◙": {
+        "default": [
+          "bunderan growong kuwalik",
+          "kothak isi njerone bunderan growong"
+        ],
+        "tts": [
+          "kothak isi njerone bunderan growong"
+        ]
+      },
+      "◜": {
+        "default": [
+          "plengkung seprapat kiwa ndhuwur"
+        ],
+        "tts": [
+          "plengkung seprapat kiwa ndhuwur"
+        ]
+      },
+      "◝": {
+        "default": [
+          "plengkung seprapat tengen ndhuwur"
+        ],
+        "tts": [
+          "plengkung seprapat tengen ndhuwur"
+        ]
+      },
+      "◞": {
+        "default": [
+          "plengkung seprapat tengen ngisor"
+        ],
+        "tts": [
+          "plengkung seprapat tengen ngisor"
+        ]
+      },
+      "◟": {
+        "default": [
+          "plengkung seprapat kiwa ngisor"
+        ],
+        "tts": [
+          "plengkung seprapat kiwa ngisor"
+        ]
+      },
+      "◠": {
+        "default": [
+          "plengkung separo ing ndhuwur"
+        ],
+        "tts": [
+          "plengkung separo ing ndhuwur"
+        ]
+      },
+      "◡": {
+        "default": [
+          "plengkung separo ing ngisor"
+        ],
+        "tts": [
+          "plengkung separo ing ngisor"
+        ]
+      },
+      "◢": {
+        "default": [
+          "segitiga isi tengen ngisor"
+        ],
+        "tts": [
+          "segitiga isi tengen ngisor"
+        ]
+      },
+      "◣": {
+        "default": [
+          "segitiga isi kiwa ngisor"
+        ],
+        "tts": [
+          "segitiga isi kiwa ngisor"
+        ]
+      },
+      "◤": {
+        "default": [
+          "segitiga isi kiwa ndhuwur"
+        ],
+        "tts": [
+          "segitiga isi kiwa ndhuwur"
+        ]
+      },
+      "◥": {
+        "default": [
+          "segitiga isi tengen ndhuwur"
+        ],
+        "tts": [
+          "segitiga isi tengen ndhuwur"
+        ]
+      },
+      "◦": {
+        "default": [
+          "pluru growong"
+        ],
+        "tts": [
+          "pluru growong"
         ]
       },
       "◯": {
@@ -1242,6 +3152,30 @@
           "bunderan kothong gedhe"
         ]
       },
+      "◳": {
+        "default": [
+          "kothak growong karo kuadran tengen ndhuwur"
+        ],
+        "tts": [
+          "kothak growong karo kuadran tengen ndhuwur"
+        ]
+      },
+      "◷": {
+        "default": [
+          "bunderan growong karo kuadran tengen ndhuwur"
+        ],
+        "tts": [
+          "bunderan growong karo kuadran tengen ndhuwur"
+        ]
+      },
+      "◿": {
+        "default": [
+          "segitiga tengen ngisor"
+        ],
+        "tts": [
+          "segitiga tengen ngisor"
+        ]
+      },
       "♪": {
         "default": [
           "gendhing",
@@ -1250,6 +3184,72 @@
         ],
         "tts": [
           "gendhing wolu"
+        ]
+      },
+      "⨧": {
+        "default": [
+          "tambah subskrip loro"
+        ],
+        "tts": [
+          "tambah subskrip loro"
+        ]
+      },
+      "⨯": {
+        "default": [
+          "perkalian silang vektor"
+        ],
+        "tts": [
+          "perkalian silang vektor"
+        ]
+      },
+      "⨼": {
+        "default": [
+          "kontraksi"
+        ],
+        "tts": [
+          "kontraksi"
+        ]
+      },
+      "⩣": {
+        "default": [
+          "logika utawa palang loro"
+        ],
+        "tts": [
+          "logika utawa palang loro"
+        ]
+      },
+      "⩽": {
+        "default": [
+          "kurang saka rada padha"
+        ],
+        "tts": [
+          "kurang saka rada padha"
+        ]
+      },
+      "⪍": {
+        "default": [
+          "kurang-saka sandhuwure meh padha"
+        ],
+        "tts": [
+          "kurang-saka sandhuwure meh padha"
+        ]
+      },
+      "⪚": {
+        "default": [
+          "garis loro padha karo luwih saka",
+          "matematika",
+          "ora kasepadhan"
+        ],
+        "tts": [
+          "garis loro padha karo luwih saka"
+        ]
+      },
+      "⪺": {
+        "default": [
+          "nggantekake sandhuwure ora meh padha"
+        ],
+        "tts": [
+          "nggantekake sandhuwure ora meh padha"
         ]
       },
       "♭": {
@@ -1328,6 +3328,7 @@
           "guyu",
           "marem",
           "mesem",
+          "ngakak",
           "rai",
           "rai ngguyu nganti matane dhipet"
         ],
@@ -1384,7 +3385,8 @@
       "🙃": {
         "default": [
           "kuwalik",
-          "rai"
+          "rai",
+          "rai mesem kuwalik"
         ],
         "tts": [
           "rai kuwalik"
@@ -1616,6 +3618,7 @@
       },
       "🤗": {
         "default": [
+          "ngekep",
           "nyikep",
           "rai",
           "sikep"
@@ -1626,7 +3629,9 @@
       },
       "🤭": {
         "default": [
+          "rahasia",
           "rai mawa tangan nutupi cangkem",
+          "ujug-ujug",
           "waduh"
         ],
         "tts": [
@@ -1671,7 +3676,10 @@
       },
       "🤔": {
         "default": [
+          "gumun",
+          "hmm",
           "mikir",
+          "nimbang",
           "rai"
         ],
         "tts": [
@@ -1750,8 +3758,8 @@
         "default": [
           "ilang",
           "introvet",
-          "nandang shungkowo",
-          "ndelik",
+          "nandang sungkawa",
+          "ndhelik",
           "ora ketok",
           "rai garis strip"
         ],
@@ -1782,7 +3790,9 @@
       },
       "😒": {
         "default": [
+          "aneh",
           "anyel",
+          "bosen",
           "rai",
           "rai wegah ngguyu",
           "wegah ngguyu"
@@ -1806,7 +3816,8 @@
         "default": [
           "mbatek",
           "rai",
-          "rai mringis mbatek"
+          "rai mringis mbatek",
+          "untu"
         ],
         "tts": [
           "rai mringis mbatek"
@@ -1848,10 +3859,29 @@
           "rai goyang-goyang"
         ]
       },
+      "🙂‍↔": {
+        "default": [
+          "gedheg",
+          "ora"
+        ],
+        "tts": [
+          "gedheg"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "iya",
+          "manthuk"
+        ],
+        "tts": [
+          "manthuk"
+        ]
+      },
       "😌": {
         "default": [
-          "lega",
-          "rai"
+          "ega",
+          "rai",
+          "tenang"
         ],
         "tts": [
           "rai lega"
@@ -1896,6 +3926,16 @@
         ],
         "tts": [
           "rai turu"
+        ]
+      },
+      "🫩": {
+        "default": [
+          "kesel",
+          "ngantuk",
+          "sayah"
+        ],
+        "tts": [
+          "mata pendul"
         ]
       },
       "😷": {
@@ -1958,7 +3998,8 @@
       },
       "🤧": {
         "default": [
-          "mugi gusti paring sehat",
+          "demam",
+          "flu",
           "rai",
           "wahing"
         ],
@@ -2006,8 +4047,11 @@
       },
       "😵": {
         "default": [
+          "lara",
+          "mati",
           "mumet",
-          "rai"
+          "rai",
+          "semaput"
         ],
         "tts": [
           "rai mumet"
@@ -2017,10 +4061,10 @@
         "default": [
           "alangan",
           "hipnotis",
-          "kodisek",
           "ngelu",
           "ngluwer",
-          "rai ngelu"
+          "rai ngelu",
+          "spiral"
         ],
         "tts": [
           "rai ngelu"
@@ -2050,6 +4094,7 @@
       },
       "🥳": {
         "default": [
+          "ambal warsa",
           "pista",
           "rai pista",
           "seneng-seneng",
@@ -2062,12 +4107,13 @@
       },
       "🥸": {
         "default": [
+          "alis",
+          "brengos",
           "irung",
           "kaca mripat",
           "nyamarake",
-          "nyamarke",
           "rai",
-          "rai disamarno"
+          "rai disamarake"
         ],
         "tts": [
           "rai disamarno"
@@ -2109,8 +4155,11 @@
       "😕": {
         "default": [
           "bingung",
+          "hmm",
+          "ora ngerti",
           "owalah",
-          "rai"
+          "rai",
+          "sepurane"
         ],
         "tts": [
           "rai bingung"
@@ -2118,11 +4167,13 @@
       },
       "🫤": {
         "default": [
-          "kuciwo",
+          "frustasi",
+          "kuciwa",
           "mamang",
           "owalah",
           "ra yakin",
-          "rai lambene menjeb"
+          "rai lambene menjeb",
+          "skeptis"
         ],
         "tts": [
           "rai lambene menjeb"
@@ -2130,8 +4181,11 @@
       },
       "😟": {
         "default": [
+          "grogi",
           "kuwatir",
-          "rai"
+          "rai",
+          "stres",
+          "wedi"
         ],
         "tts": [
           "rai kuwatir"
@@ -2192,9 +4246,13 @@
       },
       "😳": {
         "default": [
+          "apa",
+          "canggung",
+          "gumun",
           "isin",
           "kaget",
-          "rai"
+          "rai",
+          "waow"
         ],
         "tts": [
           "rai isin"
@@ -2239,6 +4297,8 @@
       "😧": {
         "default": [
           "kaget lan kuciwa",
+          "lali",
+          "ora seneng",
           "rai",
           "rai kaget lan kuciwa"
         ],
@@ -2323,8 +4383,9 @@
       "😖": {
         "default": [
           "bingung",
-          "rai",
-          "rai prasa bingung ora karuan"
+          "jengkel",
+          "ngrasa bingung ora karuan",
+          "rai"
         ],
         "tts": [
           "rai prasa bingung ora karuan"
@@ -2342,8 +4403,10 @@
       },
       "😞": {
         "default": [
+          "gagal",
           "kuciwa",
-          "rai"
+          "rai",
+          "salah"
         ],
         "tts": [
           "rai kuciwa"
@@ -2353,8 +4416,8 @@
         "default": [
           "adhem",
           "kringet",
-          "rai",
-          "rai prasa wis kesel nganti kringet tumetes"
+          "ngrasa wis kesel nganti kringet tumetes",
+          "rai"
         ],
         "tts": [
           "rai prasa wis kesel nganti kringet tumetes"
@@ -2363,6 +4426,7 @@
       "😩": {
         "default": [
           "kesel",
+          "nangis",
           "rai",
           "sayah"
         ],
@@ -2392,8 +4456,8 @@
       },
       "😤": {
         "default": [
-          "kamenangan",
-          "menang",
+          "jengkel",
+          "nesu",
           "rai",
           "rai sing irunge ngebul"
         ],
@@ -2416,6 +4480,7 @@
       },
       "😠": {
         "default": [
+          "jengkel",
           "muring",
           "nesu",
           "rai"
@@ -2435,11 +4500,11 @@
       },
       "😈": {
         "default": [
-          "crita dongeng",
-          "fantasi",
+          "iblis",
           "mesem",
           "rai",
           "rai mesem karo metu sungune",
+          "setan",
           "sungu"
         ],
         "tts": [
@@ -2486,6 +4551,7 @@
       },
       "💩": {
         "default": [
+          "mambu",
           "monster",
           "rai",
           "tai",
@@ -2511,6 +4577,7 @@
           "crita dongeng",
           "fantasi",
           "monster",
+          "penthul",
           "rai",
           "wewujudan"
         ],
@@ -2696,10 +4763,13 @@
         "default": [
           "aja ndelengake sing ala",
           "ala",
+          "gestur",
           "larangan",
           "munyuk",
-          "munyuk aja ndelengake sing ala",
+          "munyuk aja ndeleng sing ala",
+          "rahasia",
           "rai",
+          "wedi",
           "weruh"
         ],
         "tts": [
@@ -3006,6 +5076,9 @@
           "100",
           "biji satus",
           "kebak",
+          "poin",
+          "sampurna",
+          "sarujuk",
           "satus",
           "sekor"
         ],
@@ -3133,6 +5206,7 @@
       "💤": {
         "default": [
           "komik",
+          "sugeng ndalu",
           "turu",
           "zzzz"
         ],
@@ -3143,6 +5217,7 @@
       "👋": {
         "default": [
           "awe-awe",
+          "dada",
           "tangan",
           "tangan ngawe-awe"
         ],
@@ -3205,8 +5280,8 @@
       },
       "🫲": {
         "default": [
-          "kiwo",
-          "ngiwo",
+          "kiwa",
+          "ngiwa",
           "tangan"
         ],
         "tts": [
@@ -3218,7 +5293,7 @@
           "ndeleh",
           "ngilangke",
           "ngusir",
-          "tangan madep ngisor"
+          "tangan madhep ngisor"
         ],
         "tts": [
           "tangan madep ngisor"
@@ -3226,10 +5301,11 @@
       },
       "🫴": {
         "default": [
+          "nadhah",
+          "nampani",
           "nangkap",
-          "nawareke",
-          "tangan madep nduwur",
-          "teko",
+          "tangan madhep ndhuwur",
+          "teka",
           "wenehke"
         ],
         "tts": [
@@ -3238,7 +5314,7 @@
       },
       "🫷": {
         "default": [
-          "mandeg",
+          "mandheg",
           "ngenteni",
           "nolak",
           "nyurung",
@@ -3252,7 +5328,7 @@
       },
       "🫸": {
         "default": [
-          "mandeg",
+          "mandheg",
           "ngenteni",
           "nolak",
           "nyurung",
@@ -3277,10 +5353,11 @@
       "🤌": {
         "default": [
           "basa tangan",
-          "digatukake",
+          "digathukake",
           "driji",
           "interogasi",
-          "landep"
+          "landhep",
+          "sarkas"
         ],
         "tts": [
           "driji digatukake"
@@ -3321,11 +5398,11 @@
       "🫰": {
         "default": [
           "ati",
-          "duwit",
+          "dhuwit",
           "larang",
           "swara seru",
           "tangan mawa jempol karo driji telunjuk tetalenan",
-          "trisno"
+          "tresna"
         ],
         "tts": [
           "tangan mawa jempol karo driji telunjuk tetalenan"
@@ -3451,6 +5528,8 @@
       "👍": {
         "default": [
           "+1",
+          "bener",
+          "iya",
           "jempol",
           "ngacung",
           "tangan"
@@ -3462,6 +5541,8 @@
       "👎": {
         "default": [
           "-1",
+          "ala",
+          "elek",
           "jempol",
           "jempol ngacung mudhun",
           "ngacung mudhun",
@@ -3541,7 +5622,7 @@
       "🫶": {
         "default": [
           "tangan loro mbentuk ati",
-          "trisno"
+          "tresna"
         ],
         "tts": [
           "tangan loro mbentuk ati"
@@ -3559,9 +5640,10 @@
       },
       "🤲": {
         "default": [
+          "dedonga",
           "ndonga",
-          "tangan loro mandho nadhah amin",
-          "tangan loro nadhah"
+          "tangan loro nadhah",
+          "tangan loro nadhah amin"
         ],
         "tts": [
           "tangan loro mandho nadhah amin"
@@ -3626,11 +5708,14 @@
       },
       "💪": {
         "default": [
+          "binaraga",
+          "bisep",
+          "gym",
           "lelucon",
           "ngotot",
           "otot",
           "otot lengen",
-          "otot lengen mlenthung"
+          "otot lengen methekol"
         ],
         "tts": [
           "otot lengen mlenthung"
@@ -3831,7 +5916,8 @@
       "👦": {
         "default": [
           "bocah lanang",
-          "nom"
+          "nom",
+          "putu"
         ],
         "tts": [
           "bocah lanang"
@@ -3882,9 +5968,11 @@
       },
       "🧔": {
         "default": [
+          "brewok",
           "jenggot",
           "wong",
-          "wong: jenggot"
+          "wong brewoken",
+          "wong jenggoten"
         ],
         "tts": [
           "wong: jenggot"
@@ -3958,6 +6046,7 @@
       },
       "👴": {
         "default": [
+          "simbah kakung",
           "tuwa",
           "wong diwasa",
           "wong lanang",
@@ -3969,6 +6058,7 @@
       },
       "👵": {
         "default": [
+          "simbah putri",
           "tuwa",
           "wong diwasa",
           "wong wadon",
@@ -4157,6 +6247,7 @@
           "bungah",
           "isarat",
           "ngacung",
+          "pitakon",
           "tangan",
           "wong ngacungake tangan"
         ],
@@ -4247,10 +6338,10 @@
       "🙇‍♀": {
         "default": [
           "isarat",
-          "kilap",
           "mbungkuk",
           "njaluk ngapura",
           "njaluk tulung",
+          "takon",
           "wong wadon",
           "wong wadon mbungkuk ngurmati"
         ],
@@ -4312,6 +6403,7 @@
           "ngangkat pundhak",
           "ora gati",
           "ora sudi",
+          "sapa",
           "wong lanang",
           "wong lanang angangkat pundhak"
         ],
@@ -4325,6 +6417,7 @@
           "ngangkat pundhak",
           "ora gati",
           "ora sudi",
+          "ragu",
           "wong wadon",
           "wong wadon ngangkat pundhak"
         ],
@@ -4932,10 +7025,11 @@
       },
       "💂": {
         "default": [
-          "prejurit"
+          "panjaga",
+          "prajurit"
         ],
         "tts": [
-          "prejurit"
+          "panjaga"
         ]
       },
       "💂‍♂": {
@@ -4944,7 +7038,7 @@
           "prejurit"
         ],
         "tts": [
-          "prejurit lanang"
+          "panjaga lanang"
         ]
       },
       "💂‍♀": {
@@ -4971,7 +7065,8 @@
         "default": [
           "bangunan",
           "buruh",
-          "helem"
+          "helem",
+          "ndandani"
         ],
         "tts": [
           "buruh bangunan"
@@ -5250,7 +7345,6 @@
       "🤶": {
         "default": [
           "ibu",
-          "Ibu Klas",
           "Klas",
           "Natal",
           "pista"
@@ -5262,7 +7356,8 @@
       "🧑‍🎄": {
         "default": [
           "bapa/ibu klas",
-          "Klas, natal"
+          "Klas",
+          "natal"
         ],
         "tts": [
           "bapa/ibu klas"
@@ -5378,7 +7473,9 @@
           "bangsa dewi",
           "dewi",
           "Oberon",
+          "peri",
           "Puck",
+          "suwiwi",
           "Titania"
         ],
         "tts": [
@@ -5463,6 +7560,7 @@
       "🧝": {
         "default": [
           "ajaib",
+          "elf",
           "peri"
         ],
         "tts": [
@@ -6536,14 +8634,6 @@
           "pasangan lan tandha ati"
         ]
       },
-      "👪": {
-        "default": [
-          "kluwarga"
-        ],
-        "tts": [
-          "kluwarga"
-        ]
-      },
       "🗣": {
         "default": [
           "bayangan",
@@ -6587,6 +8677,57 @@
           "wong rangkulan"
         ]
       },
+      "👪": {
+        "default": [
+          "anak",
+          "kulawarga"
+        ],
+        "tts": [
+          "kluwarga"
+        ]
+      },
+      "🧑‍🧑‍🧒": {
+        "default": [
+          "anak",
+          "diwasa",
+          "kulawarga: diwasa",
+          "kulawarga: diwasa, diwasa, anak"
+        ],
+        "tts": [
+          "kulawarga: diwasa, diwasa, anak"
+        ]
+      },
+      "🧑‍🧑‍🧒‍🧒": {
+        "default": [
+          "anak",
+          "diwasa",
+          "kulawarga: diwasa",
+          "kulawarga: diwasa, diwasa, anak, anak"
+        ],
+        "tts": [
+          "kulawarga: diwasa, diwasa, anak, anak"
+        ]
+      },
+      "🧑‍🧒": {
+        "default": [
+          "anak",
+          "kulawarga: diwasa",
+          "kulawarga: diwasa, anak"
+        ],
+        "tts": [
+          "kulawarga: diwasa, anak"
+        ]
+      },
+      "🧑‍🧒‍🧒": {
+        "default": [
+          "anak",
+          "kulawarga: diwasa",
+          "kulawarga: diwasa, anak, anak"
+        ],
+        "tts": [
+          "kulawarga: diwasa, anak, anak"
+        ]
+      },
       "👣": {
         "default": [
           "klambi",
@@ -6595,6 +8736,17 @@
         ],
         "tts": [
           "tipak sikil"
+        ]
+      },
+      "🫆": {
+        "default": [
+          "forensik",
+          "identitas",
+          "keamanan",
+          "tipak driji"
+        ],
+        "tts": [
+          "tipak driji"
         ]
       },
       "🦰": {
@@ -6643,6 +8795,8 @@
       },
       "🐵": {
         "default": [
+          "gedhang",
+          "kewan",
           "munyuk",
           "rai"
         ],
@@ -6652,6 +8806,8 @@
       },
       "🐒": {
         "default": [
+          "gedhang",
+          "kewan",
           "munyuk"
         ],
         "tts": [
@@ -6660,7 +8816,8 @@
       },
       "🦍": {
         "default": [
-          "gorila"
+          "gorila",
+          "kewan"
         ],
         "tts": [
           "gorila"
@@ -6668,6 +8825,8 @@
       },
       "🦧": {
         "default": [
+          "kethek",
+          "kewan",
           "monyet",
           "orang utan"
         ],
@@ -6679,6 +8838,7 @@
         "default": [
           "asu",
           "ingon-ingon",
+          "kewan",
           "rai"
         ],
         "tts": [
@@ -6688,7 +8848,8 @@
       "🐕": {
         "default": [
           "asu",
-          "ingon-ingon"
+          "ingon-ingon",
+          "kewan"
         ],
         "tts": [
           "asu"
@@ -6698,6 +8859,7 @@
         "default": [
           "aksesibilitas",
           "asu pemandhu",
+          "kewan",
           "pemandhu",
           "wuta"
         ],
@@ -6710,6 +8872,7 @@
           "aksesibilitas",
           "asisten",
           "asu",
+          "kewan",
           "layanan"
         ],
         "tts": [
@@ -6719,6 +8882,7 @@
       "🐩": {
         "default": [
           "asu",
+          "kewan",
           "pudel"
         ],
         "tts": [
@@ -6728,6 +8892,7 @@
       "🐺": {
         "default": [
           "asu ajag",
+          "kewan",
           "rai"
         ],
         "tts": [
@@ -6736,6 +8901,7 @@
       },
       "🦊": {
         "default": [
+          "kewan",
           "rai",
           "rubah"
         ],
@@ -6746,6 +8912,7 @@
       "🦝": {
         "default": [
           "kepo",
+          "kewan",
           "licik",
           "rakun"
         ],
@@ -6756,6 +8923,7 @@
       "🐱": {
         "default": [
           "ingon-ingon",
+          "kewan",
           "kucing",
           "rai"
         ],
@@ -6766,6 +8934,7 @@
       "🐈": {
         "default": [
           "ingon-ingon",
+          "kewan",
           "kucing"
         ],
         "tts": [
@@ -6775,7 +8944,9 @@
       "🐈‍⬛": {
         "default": [
           "ireng",
+          "kewan",
           "kucing",
+          "meong",
           "ora beja"
         ],
         "tts": [
@@ -6784,6 +8955,7 @@
       },
       "🦁": {
         "default": [
+          "kewan",
           "Leo",
           "rai",
           "singa",
@@ -6795,6 +8967,7 @@
       },
       "🐯": {
         "default": [
+          "kewan",
           "macan",
           "rai"
         ],
@@ -6804,7 +8977,9 @@
       },
       "🐅": {
         "default": [
-          "macan"
+          "kewan",
+          "macan",
+          "predator"
         ],
         "tts": [
           "macan"
@@ -6812,6 +8987,7 @@
       },
       "🐆": {
         "default": [
+          "kewan",
           "macan tutul"
         ],
         "tts": [
@@ -6821,6 +8997,7 @@
       "🐴": {
         "default": [
           "jaran",
+          "kewan",
           "rai"
         ],
         "tts": [
@@ -6876,6 +9053,7 @@
       "🦓": {
         "default": [
           "garis-garis",
+          "kewan",
           "zebra"
         ],
         "tts": [
@@ -6884,6 +9062,7 @@
       },
       "🦌": {
         "default": [
+          "kewan",
           "kidang"
         ],
         "tts": [
@@ -6894,8 +9073,9 @@
         "default": [
           "bison",
           "kebo",
+          "kewan",
           "sakumpulan",
-          "wicaksono"
+          "wicaksana"
         ],
         "tts": [
           "bison"
@@ -6933,6 +9113,7 @@
       },
       "🐄": {
         "default": [
+          "kewan",
           "sapi wadon"
         ],
         "tts": [
@@ -6942,6 +9123,8 @@
       "🐷": {
         "default": [
           "babi",
+          "daging babi",
+          "kewan",
           "rai"
         ],
         "tts": [
@@ -6951,7 +9134,8 @@
       "🐖": {
         "default": [
           "babi",
-          "babi wadon"
+          "babi wadon",
+          "kewan"
         ],
         "tts": [
           "babi"
@@ -6960,7 +9144,8 @@
       "🐗": {
         "default": [
           "babi",
-          "celeng"
+          "celeng",
+          "kewan"
         ],
         "tts": [
           "celeng"
@@ -6970,6 +9155,7 @@
         "default": [
           "babi",
           "irung",
+          "kewan",
           "rai"
         ],
         "tts": [
@@ -6979,6 +9165,7 @@
       "🐏": {
         "default": [
           "Aries",
+          "kewan",
           "lanang",
           "wedhus gembel",
           "wedhus gembel lanang",
@@ -6990,6 +9177,7 @@
       },
       "🐑": {
         "default": [
+          "kewan",
           "wadon",
           "wedhus gembel",
           "wedhus gembel wadon"
@@ -7001,6 +9189,7 @@
       "🐐": {
         "default": [
           "Capricorn",
+          "kewan",
           "wedhus",
           "zodiak"
         ],
@@ -7011,6 +9200,8 @@
       "🐪": {
         "default": [
           "dromedaris",
+          "gurun",
+          "kewan",
           "onta",
           "punuk"
         ],
@@ -7021,9 +9212,10 @@
       "🐫": {
         "default": [
           "baktrian",
+          "kewan",
           "onta",
           "onta punuk loro",
-          "punuk"
+          "punuk loro"
         ],
         "tts": [
           "onta punuk loro"
@@ -7033,6 +9225,7 @@
         "default": [
           "alpaca",
           "guanaco",
+          "kewan",
           "llama",
           "vicuna",
           "wul"
@@ -7044,6 +9237,7 @@
       "🦒": {
         "default": [
           "jerapah",
+          "kewan",
           "totol-totol"
         ],
         "tts": [
@@ -7052,7 +9246,8 @@
       },
       "🐘": {
         "default": [
-          "gajah"
+          "gajah",
+          "kewan"
         ],
         "tts": [
           "gajah"
@@ -7063,6 +9258,7 @@
           "gading",
           "gedhe",
           "kebak wulu",
+          "kewan",
           "mamot",
           "punah"
         ],
@@ -7072,7 +9268,8 @@
       },
       "🦏": {
         "default": [
-          "badhak"
+          "badhak",
+          "kewan"
         ],
         "tts": [
           "badhak"
@@ -7081,6 +9278,7 @@
       "🦛": {
         "default": [
           "hipo",
+          "kewan",
           "kuda nil"
         ],
         "tts": [
@@ -7089,6 +9287,7 @@
       },
       "🐭": {
         "default": [
+          "kewan",
           "rai",
           "tikus"
         ],
@@ -7098,6 +9297,7 @@
       },
       "🐁": {
         "default": [
+          "kewan",
           "tikus"
         ],
         "tts": [
@@ -7106,6 +9306,7 @@
       },
       "🐀": {
         "default": [
+          "kewan",
           "tikus got"
         ],
         "tts": [
@@ -7116,6 +9317,7 @@
         "default": [
           "hamster",
           "ingon-ingon",
+          "kewan",
           "rai"
         ],
         "tts": [
@@ -7126,8 +9328,9 @@
         "default": [
           "ingon-ingon",
           "kelinci",
+          "kewan",
           "rai",
-          "terwelu"
+          "truwelu"
         ],
         "tts": [
           "rai terwelu"
@@ -7137,6 +9340,7 @@
         "default": [
           "ingon-ingon",
           "kelinci",
+          "kewan",
           "terwelu"
         ],
         "tts": [
@@ -7146,6 +9350,7 @@
       "🐿": {
         "default": [
           "bajing",
+          "kewan",
           "tupai"
         ],
         "tts": [
@@ -7155,6 +9360,7 @@
       "🦫": {
         "default": [
           "bendungan",
+          "kewan",
           "singing"
         ],
         "tts": [
@@ -7163,7 +9369,8 @@
       },
       "🦔": {
         "default": [
-          "duri",
+          "eri",
+          "kewan",
           "landhak"
         ],
         "tts": [
@@ -7173,6 +9380,7 @@
       "🦇": {
         "default": [
           "kalong",
+          "kewan",
           "vampir"
         ],
         "tts": [
@@ -7182,6 +9390,7 @@
       "🐻": {
         "default": [
           "beruang",
+          "kewan",
           "rai"
         ],
         "tts": [
@@ -7192,6 +9401,7 @@
         "default": [
           "beruang",
           "beruang kutub",
+          "kewan",
           "kutub lor",
           "putih"
         ],
@@ -7202,7 +9412,9 @@
       "🐨": {
         "default": [
           "beruang",
-          "koala"
+          "kewan",
+          "koala",
+          "marsupial"
         ],
         "tts": [
           "koala"
@@ -7210,6 +9422,7 @@
       },
       "🐼": {
         "default": [
+          "kewan",
           "panda",
           "rai"
         ],
@@ -7230,7 +9443,9 @@
       "🦦": {
         "default": [
           "berang-berang",
+          "kewan",
           "mancing",
+          "otter",
           "seneng dolanan"
         ],
         "tts": [
@@ -7239,6 +9454,7 @@
       },
       "🦨": {
         "default": [
+          "kewan",
           "mambu",
           "sigung"
         ],
@@ -7251,6 +9467,7 @@
           "Australia",
           "joey",
           "kanguru",
+          "kewan",
           "marsupial",
           "mlumpat"
         ],
@@ -7260,6 +9477,7 @@
       },
       "🦡": {
         "default": [
+          "kewan",
           "luwak",
           "luwak madu",
           "ngganggu"
@@ -7289,6 +9507,7 @@
       },
       "🐔": {
         "default": [
+          "kewan",
           "pitik",
           "unggas"
         ],
@@ -7298,6 +9517,7 @@
       },
       "🐓": {
         "default": [
+          "kewan",
           "pitik jago",
           "unggas"
         ],
@@ -7308,6 +9528,7 @@
       "🐣": {
         "default": [
           "bayi",
+          "kewan",
           "kuthuk",
           "netes",
           "unggas"
@@ -7319,6 +9540,7 @@
       "🐤": {
         "default": [
           "bayi",
+          "kewan",
           "kuthuk",
           "unggas"
         ],
@@ -7329,6 +9551,7 @@
       "🐥": {
         "default": [
           "bayi",
+          "kewan",
           "kuthuk",
           "kuthuk madhep ngarep",
           "unggas"
@@ -7339,6 +9562,7 @@
       },
       "🐦": {
         "default": [
+          "kewan",
           "manuk"
         ],
         "tts": [
@@ -7347,6 +9571,7 @@
       },
       "🐧": {
         "default": [
+          "kewan",
           "manuk",
           "penguin"
         ],
@@ -7368,6 +9593,8 @@
       "🦅": {
         "default": [
           "elang",
+          "gagak",
+          "kewan",
           "manuk"
         ],
         "tts": [
@@ -7377,6 +9604,7 @@
       "🦆": {
         "default": [
           "bebek",
+          "kewan",
           "unggas"
         ],
         "tts": [
@@ -7388,6 +9616,7 @@
           "angsa",
           "banyak",
           "bebek ala",
+          "kewan",
           "unggas"
         ],
         "tts": [
@@ -7397,6 +9626,7 @@
       "🦉": {
         "default": [
           "guwek",
+          "kewan",
           "manuk",
           "wicaksana"
         ],
@@ -7472,6 +9702,17 @@
           "swiwi"
         ]
       },
+      "🐦‍⬛": {
+        "default": [
+          "gagak",
+          "gaok",
+          "ireng",
+          "manuk"
+        ],
+        "tts": [
+          "manuk ireng"
+        ]
+      },
       "🪿": {
         "default": [
           "bodho",
@@ -7482,6 +9723,18 @@
         ],
         "tts": [
           "menthog"
+        ]
+      },
+      "🐦‍🔥": {
+        "default": [
+          "fantasi",
+          "foniks",
+          "lair maneh",
+          "manuk geni",
+          "reinkarnasi"
+        ],
+        "tts": [
+          "foniks"
         ]
       },
       "🐸": {
@@ -7495,7 +9748,8 @@
       },
       "🐊": {
         "default": [
-          "baya"
+          "baya",
+          "kewan"
         ],
         "tts": [
           "baya"
@@ -7504,6 +9758,7 @@
       "🐢": {
         "default": [
           "bulus",
+          "kewan",
           "kura-kura",
           "penyu"
         ],
@@ -7513,7 +9768,9 @@
       },
       "🦎": {
         "default": [
-          "cecak"
+          "cecak",
+          "kewan",
+          "reptil"
         ],
         "tts": [
           "cecak"
@@ -7521,6 +9778,7 @@
       },
       "🐍": {
         "default": [
+          "kewan",
           "Ophiuchus",
           "sawer",
           "sing nggawa",
@@ -7534,6 +9792,7 @@
       "🐲": {
         "default": [
           "dongeng",
+          "kewan",
           "naga",
           "rai"
         ],
@@ -7544,6 +9803,9 @@
       "🐉": {
         "default": [
           "dongeng",
+          "kasatriyan",
+          "kewan",
+          "khayalan",
           "naga"
         ],
         "tts": [
@@ -7554,6 +9816,7 @@
         "default": [
           "brachiosaurus",
           "brontosaurus",
+          "dinosaurus",
           "diplodocus",
           "sauropod"
         ],
@@ -7563,6 +9826,7 @@
       },
       "🦖": {
         "default": [
+          "dinosaurus",
           "T-Rex",
           "Tyrannosaurus Rex"
         ],
@@ -7572,6 +9836,8 @@
       },
       "🐳": {
         "default": [
+          "kewan",
+          "laut",
           "nyembur",
           "paus",
           "rai"
@@ -7582,6 +9848,9 @@
       },
       "🐋": {
         "default": [
+          "iwak paus",
+          "kewan",
+          "laut",
           "paus"
         ],
         "tts": [
@@ -7591,6 +9860,7 @@
       "🐬": {
         "default": [
           "fliper",
+          "kewan",
           "lumba-lumba"
         ],
         "tts": [
@@ -7599,16 +9869,18 @@
       },
       "🦭": {
         "default": [
+          "kewan",
           "seal",
-          "singo laut"
+          "singa laut"
         ],
         "tts": [
-          "seal"
+          "asu laut"
         ]
       },
       "🐟": {
         "default": [
           "iwak",
+          "kewan",
           "Pisces",
           "zodiak"
         ],
@@ -7619,6 +9891,7 @@
       "🐠": {
         "default": [
           "iwak",
+          "kewan",
           "tropis"
         ],
         "tts": [
@@ -7628,7 +9901,8 @@
       "🐡": {
         "default": [
           "buntal",
-          "iwak"
+          "iwak",
+          "kewan"
         ],
         "tts": [
           "iwak buntal"
@@ -7637,7 +9911,8 @@
       "🦈": {
         "default": [
           "hiu",
-          "iwak"
+          "iwak",
+          "kewan"
         ],
         "tts": [
           "hiu"
@@ -7645,7 +9920,9 @@
       },
       "🐙": {
         "default": [
-          "gurita"
+          "gurita",
+          "kewan",
+          "laut"
         ],
         "tts": [
           "gurita"
@@ -7654,6 +9931,8 @@
       "🐚": {
         "default": [
           "keong",
+          "kewan",
+          "laut",
           "spiral"
         ],
         "tts": [
@@ -7673,8 +9952,10 @@
       "🪼": {
         "default": [
           "adhuh",
+          "entup",
           "invertebrata",
           "jeli",
+          "kewan",
           "ngobong",
           "panyengat",
           "segara",
@@ -7684,9 +9965,63 @@
           "ubur-ubur"
         ]
       },
+      "🦀": {
+        "default": [
+          "Cancer",
+          "palintangan",
+          "rajungan",
+          "yuyu"
+        ],
+        "tts": [
+          "rajungan"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "capit",
+          "iwak laut",
+          "lopster",
+          "sop bisque"
+        ],
+        "tts": [
+          "lopster"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "cilik",
+          "dhaharan",
+          "urang",
+          "urang-urangan"
+        ],
+        "tts": [
+          "urang"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "cumi-cumi",
+          "pangan",
+          "sotong"
+        ],
+        "tts": [
+          "sotong"
+        ]
+      },
+      "🦪": {
+        "default": [
+          "mutiyara",
+          "nyelam",
+          "tiram"
+        ],
+        "tts": [
+          "tiram"
+        ]
+      },
       "🐌": {
         "default": [
-          "bekicot"
+          "bekicot",
+          "kewan"
         ],
         "tts": [
           "bekicot"
@@ -7704,7 +10039,8 @@
       },
       "🐛": {
         "default": [
-          "serangga",
+          "ama",
+          "kewan",
           "uler"
         ],
         "tts": [
@@ -7713,6 +10049,7 @@
       },
       "🐜": {
         "default": [
+          "kewan",
           "semut",
           "serangga"
         ],
@@ -7722,6 +10059,7 @@
       },
       "🐝": {
         "default": [
+          "kewan",
           "lebah",
           "lebah madu",
           "serangga"
@@ -7733,6 +10071,7 @@
       "🪲": {
         "default": [
           "ama",
+          "kewan",
           "kumbang",
           "serangga"
         ],
@@ -7744,6 +10083,7 @@
         "default": [
           "kepik",
           "kepik pereng",
+          "kewan",
           "kumbang",
           "serangga"
         ],
@@ -7754,6 +10094,7 @@
       "🦗": {
         "default": [
           "jangkrik",
+          "kewan",
           "walang"
         ],
         "tts": [
@@ -7765,6 +10106,7 @@
           "ama",
           "coro",
           "kecoak",
+          "kewan",
           "serangga"
         ],
         "tts": [
@@ -7774,6 +10116,7 @@
       "🕷": {
         "default": [
           "angga-angga",
+          "kewan",
           "serangga"
         ],
         "tts": [
@@ -7792,7 +10135,6 @@
       "🦂": {
         "default": [
           "kalajengking",
-          "scorpio",
           "Scorpio",
           "zodiakk"
         ],
@@ -7803,8 +10145,10 @@
       "🦟": {
         "default": [
           "demam",
+          "kewan",
           "lemut",
           "malaria",
+          "nyamuk",
           "penyakit",
           "serangga",
           "virus"
@@ -7816,10 +10160,11 @@
       "🪰": {
         "default": [
           "ama",
+          "belatung",
           "bosokan",
+          "kewan",
           "laler",
-          "penyakit",
-          "set"
+          "penyakit"
         ],
         "tts": [
           "laler"
@@ -7830,6 +10175,7 @@
           "anelid",
           "cacing",
           "cacing lemah",
+          "kewan",
           "parasit"
         ],
         "tts": [
@@ -7850,7 +10196,9 @@
       "💐": {
         "default": [
           "buket",
-          "kembang"
+          "kembang",
+          "tanduran",
+          "tanggap warsa"
         ],
         "tts": [
           "buket"
@@ -7860,7 +10208,8 @@
         "default": [
           "kembang",
           "mekar",
-          "sakura"
+          "sakura",
+          "tanduran"
         ],
         "tts": [
           "sakura"
@@ -7879,11 +10228,11 @@
         "default": [
           "Agama Buddha",
           "Agama Hindu",
+          "damai",
           "India",
           "kasucian",
           "kembang",
-          "teratai",
-          "Vietnam"
+          "teratai"
         ],
         "tts": [
           "teratai"
@@ -7901,7 +10250,8 @@
       "🌹": {
         "default": [
           "kembang",
-          "mawar"
+          "mawar",
+          "tanduran"
         ],
         "tts": [
           "mawar"
@@ -7919,7 +10269,8 @@
       "🌺": {
         "default": [
           "kembang",
-          "kembang sepatu"
+          "kembang sepatu",
+          "tanduran"
         ],
         "tts": [
           "kembang sepatu"
@@ -7928,7 +10279,8 @@
       "🌻": {
         "default": [
           "kembang",
-          "sengenge"
+          "sengenge",
+          "tanduran"
         ],
         "tts": [
           "kembang sengenge"
@@ -7937,7 +10289,8 @@
       "🌼": {
         "default": [
           "kembang",
-          "sekar"
+          "sekar",
+          "tanduran"
         ],
         "tts": [
           "sekar"
@@ -7946,6 +10299,7 @@
       "🌷": {
         "default": [
           "kembang",
+          "tanduran",
           "tulip"
         ],
         "tts": [
@@ -7959,7 +10313,8 @@
           "kembang",
           "lavender",
           "lupin",
-          "snapdragon"
+          "snapdragon",
+          "tanduran"
         ],
         "tts": [
           "hyacin"
@@ -7967,8 +10322,11 @@
       },
       "🌱": {
         "default": [
+          "bakal",
+          "bibit",
           "cilik",
-          "pembibitan"
+          "pembibitan",
+          "tanduran"
         ],
         "tts": [
           "pembibitan"
@@ -7981,8 +10339,8 @@
           "omah",
           "ora migunani",
           "tanduran",
-          "tanduran njero adah",
-          "tukul"
+          "tanduran njero wadhah",
+          "thukul"
         ],
         "tts": [
           "tanduran njero adah"
@@ -8110,7 +10468,7 @@
       "🪺": {
         "default": [
           "nyusuh",
-          "susuh ono endoke"
+          "susuh ana endhoge"
         ],
         "tts": [
           "susuh ono endoke"
@@ -8123,6 +10481,17 @@
         ],
         "tts": [
           "jamur"
+        ]
+      },
+      "🪾": {
+        "default": [
+          "gabug",
+          "garing",
+          "mangsa adhem",
+          "wit tanpa godhong"
+        ],
+        "tts": [
+          "wit tanpa godhong"
         ]
       },
       "🍇": {
@@ -8170,6 +10539,17 @@
         ],
         "tts": [
           "jeruk lemon"
+        ]
+      },
+      "🍋‍🟩": {
+        "default": [
+          "jeruk",
+          "jeruk nipis",
+          "tropis",
+          "woh"
+        ],
+        "tts": [
+          "jeruk nipis"
         ]
       },
       "🍌": {
@@ -8264,7 +10644,8 @@
         "default": [
           "beri",
           "bilberi",
-          "biru"
+          "biru",
+          "woh-wohan"
         ],
         "tts": [
           "beri biru"
@@ -8486,10 +10867,36 @@
           "kacang polong"
         ]
       },
+      "🍄‍🟫": {
+        "default": [
+          "alam",
+          "jamur",
+          "jamur soklat",
+          "panganan",
+          "sayuran"
+        ],
+        "tts": [
+          "jamur soklat"
+        ]
+      },
+      "🫜": {
+        "default": [
+          "bit",
+          "lobak",
+          "oyot",
+          "sayuran",
+          "taman"
+        ],
+        "tts": [
+          "sayuran oyot"
+        ]
+      },
       "🍞": {
         "default": [
+          "gandum",
+          "panganan",
           "roti",
-          "sebata"
+          "roti tawar"
         ],
         "tts": [
           "roti"
@@ -8497,8 +10904,10 @@
       },
       "🥐": {
         "default": [
+          "croissant",
           "dhaharan",
           "kroasang",
+          "kroisan",
           "prancis",
           "roti",
           "roti gulung bulan sabit"
@@ -8520,6 +10929,7 @@
       },
       "🫓": {
         "default": [
+          "panganan",
           "roti arepa",
           "roti lapash",
           "roti naan",
@@ -8533,6 +10943,7 @@
       "🥨": {
         "default": [
           "diuntir",
+          "kuwih",
           "pretsel"
         ],
         "tts": [
@@ -8543,7 +10954,8 @@
         "default": [
           "pabrik roti",
           "roti bagel",
-          "roti semir"
+          "roti semir",
+          "sarapan"
         ],
         "tts": [
           "roti bagel"
@@ -8635,7 +11047,8 @@
         "default": [
           "balok kenthang goreng",
           "goreng",
-          "kenthang balok"
+          "kenthang balok",
+          "panganan"
         ],
         "tts": [
           "balok kenthang goreng"
@@ -8644,6 +11057,7 @@
       "🍕": {
         "default": [
           "keju",
+          "panganan",
           "pizza",
           "sairis"
         ],
@@ -8843,7 +11257,9 @@
         "default": [
           "bento",
           "kothak",
-          "sakothak bento"
+          "panganan",
+          "sakothak bento",
+          "tepak"
         ],
         "tts": [
           "sakothak bento"
@@ -8852,7 +11268,8 @@
       "🍘": {
         "default": [
           "krupuk",
-          "rengginan"
+          "rengginang",
+          "sega kepel"
         ],
         "tts": [
           "rengginan"
@@ -8891,6 +11308,7 @@
           "bakmi",
           "kemepul",
           "mangkok",
+          "panganan",
           "ramen"
         ],
         "tts": [
@@ -8900,6 +11318,7 @@
       "🍝": {
         "default": [
           "bakmi sepageti",
+          "panganan",
           "pasta",
           "sepageti"
         ],
@@ -8909,6 +11328,7 @@
       },
       "🍠": {
         "default": [
+          "panganan",
           "panggang",
           "tela pendhem",
           "tela pendhem panggang"
@@ -8922,6 +11342,7 @@
           "iwak laut",
           "kebab",
           "oden",
+          "panganan",
           "sate",
           "sunduk"
         ],
@@ -8931,7 +11352,8 @@
       },
       "🍣": {
         "default": [
-          "susi"
+          "panganan",
+          "sushi"
         ],
         "tts": [
           "susi"
@@ -8953,6 +11375,8 @@
           "bakso",
           "bakso iwak Jepang",
           "iwak",
+          "mlungker",
+          "panganan",
           "pastri"
         ],
         "tts": [
@@ -9008,63 +11432,13 @@
       },
       "🥡": {
         "default": [
-          "kothak bungkus"
+          "bungkusan kothak",
+          "gawa mulih",
+          "kothak bungkus",
+          "panganan"
         ],
         "tts": [
           "kothak bungkus"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "Cancer",
-          "palintangan",
-          "rajungan",
-          "yuyu"
-        ],
-        "tts": [
-          "rajungan"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "capit",
-          "iwak laut",
-          "lopster",
-          "sop bisque"
-        ],
-        "tts": [
-          "lopster"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "cilik",
-          "dhaharan",
-          "urang",
-          "urang-urangan"
-        ],
-        "tts": [
-          "urang"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "cumi-cumi",
-          "pangan",
-          "sotong"
-        ],
-        "tts": [
-          "sotong"
-        ]
-      },
-      "🦪": {
-        "default": [
-          "mutiyara",
-          "nyelam",
-          "tiram"
-        ],
-        "tts": [
-          "tiram"
         ]
       },
       "🍦": {
@@ -9162,8 +11536,11 @@
       },
       "🥧": {
         "default": [
+          "apel",
           "isi",
+          "kuwih",
           "pai",
+          "panganan",
           "pastri"
         ],
         "tts": [
@@ -9264,10 +11641,10 @@
       },
       "🫖": {
         "default": [
-          "adah",
           "ceret",
           "teh",
-          "unjukan"
+          "unjukan",
+          "wadhah"
         ],
         "tts": [
           "ceret"
@@ -9337,7 +11714,10 @@
       },
       "🍹": {
         "default": [
+          "alkohol",
           "bar",
+          "koktail",
+          "pesta",
           "tropis",
           "unjukan",
           "unjukan cara tropis"
@@ -9348,6 +11728,7 @@
       },
       "🍺": {
         "default": [
+          "alkohol",
           "bar",
           "bir",
           "gelas bir",
@@ -9479,8 +11860,10 @@
       },
       "🍴": {
         "default": [
+          "enak",
           "garpu",
           "garpu lan peso",
+          "mangan",
           "masak",
           "peso",
           "sendhok garpu"
@@ -9826,7 +12209,7 @@
       },
       "🏤": {
         "default": [
-          "Jepang",
+          "kantor pos",
           "kantor pos ing Eropa",
           "pos"
         ],
@@ -9991,7 +12374,7 @@
         "default": [
           "agama",
           "kuil",
-          "sinagoga",
+          "sinagog",
           "wong Yahudi",
           "Yahudi"
         ],
@@ -10349,7 +12732,8 @@
       "🚐": {
         "default": [
           "bis",
-          "bis cilik"
+          "bis cilik",
+          "kendaraan"
         ],
         "tts": [
           "bis cilik"
@@ -10406,6 +12790,7 @@
       },
       "🚖": {
         "default": [
+          "kuning",
           "mara",
           "taksi"
         ],
@@ -10455,8 +12840,10 @@
       },
       "🚚": {
         "default": [
+          "kendaraan",
+          "montor",
           "pangiriman",
-          "prahoto"
+          "truk"
         ],
         "tts": [
           "prahoto pangiriman"
@@ -10782,6 +13169,7 @@
       },
       "✈": {
         "default": [
+          "lelungan",
           "montor mabur"
         ],
         "tts": [
@@ -10951,8 +13339,8 @@
       },
       "⌚": {
         "default": [
-          "erloji",
-          "jam"
+          "arloji",
+          "jam tangan"
         ],
         "tts": [
           "erloji"
@@ -10960,7 +13348,10 @@
       },
       "⏰": {
         "default": [
+          "alarm",
+          "dering",
           "jam",
+          "telat",
           "weker"
         ],
         "tts": [
@@ -11296,7 +13687,8 @@
         "default": [
           "bulan",
           "bulan kawitan",
-          "peteng"
+          "peteng",
+          "rembulan"
         ],
         "tts": [
           "bulan kawitan"
@@ -11378,7 +13770,8 @@
       "🌙": {
         "default": [
           "bulan",
-          "bulan nanggal sepisan"
+          "bulan nanggal sepisan",
+          "sabit"
         ],
         "tts": [
           "bulan nanggal sepisan"
@@ -11399,6 +13792,7 @@
           "bulan",
           "rai",
           "rai bulan separo marep ngiwa",
+          "sabit",
           "separo"
         ],
         "tts": [
@@ -11410,6 +13804,7 @@
           "bulan",
           "rai",
           "rai bulan separo marep nengen",
+          "sabit",
           "separo"
         ],
         "tts": [
@@ -11429,7 +13824,8 @@
         "default": [
           "clorot",
           "ketiga",
-          "padhing",
+          "padhang",
+          "sinar",
           "srengenge"
         ],
         "tts": [
@@ -11471,7 +13867,9 @@
       },
       "⭐": {
         "default": [
-          "lintang"
+          "astronomi",
+          "lintang",
+          "putih"
         ],
         "tts": [
           "lintang"
@@ -11494,6 +13892,7 @@
           "buntut",
           "lintang",
           "lintang abuntut",
+          "lintang ngalih",
           "tumiba"
         ],
         "tts": [
@@ -11802,8 +14201,7 @@
         "default": [
           "Natal",
           "perayaan",
-          "uwit",
-          "Uwit Natal"
+          "uwit"
         ],
         "tts": [
           "Uwit Natal"
@@ -11854,6 +14252,7 @@
       },
       "🎈": {
         "default": [
+          "ambal warsa",
           "balon",
           "perayaan"
         ],
@@ -11863,6 +14262,7 @@
       },
       "🎉": {
         "default": [
+          "ambal warsa",
           "hiasan",
           "perayaan",
           "pesta",
@@ -12024,6 +14424,8 @@
       "🏆": {
         "default": [
           "hadiah",
+          "juara",
+          "menang",
           "trofi"
         ],
         "tts": [
@@ -12032,6 +14434,7 @@
       },
       "🏅": {
         "default": [
+          "emas",
           "medali",
           "medali olahraga"
         ],
@@ -12076,6 +14479,7 @@
         "default": [
           "bal",
           "bal sepak bola",
+          "bal-balan",
           "sepak bola",
           "sepak bola amerika"
         ],
@@ -12086,7 +14490,8 @@
       "⚾": {
         "default": [
           "bal",
-          "bisbol"
+          "bisbol",
+          "olahraga"
         ],
         "tts": [
           "bisbol"
@@ -12096,6 +14501,7 @@
         "default": [
           "bal",
           "kelek",
+          "olahraga",
           "sarung tangan",
           "sofbol"
         ],
@@ -12127,6 +14533,7 @@
         "default": [
           "amerika",
           "bal",
+          "olahraga",
           "sepak bola",
           "sepak bola amerika"
         ],
@@ -12137,6 +14544,7 @@
       "🏉": {
         "default": [
           "bal",
+          "olahraga",
           "rugby",
           "sepak bola",
           "sepak bola rugby"
@@ -12148,6 +14556,7 @@
       "🎾": {
         "default": [
           "bal",
+          "olahraga",
           "raket",
           "tenis"
         ],
@@ -12546,6 +14955,7 @@
       },
       "♥": {
         "default": [
+          "emosi",
           "game",
           "kertu",
           "kertu ati"
@@ -12670,7 +15080,8 @@
       },
       "🪡": {
         "default": [
-          "babakan jait",
+          "babagan jait",
+          "dom",
           "jait",
           "jaitan",
           "jarum",
@@ -13272,7 +15683,9 @@
       },
       "🔔": {
         "default": [
-          "lonceng"
+          "bel",
+          "lonceng",
+          "ngaso"
         ],
         "tts": [
           "lonceng"
@@ -13499,8 +15912,22 @@
           "suling"
         ]
       },
+      "🪉": {
+        "default": [
+          "dewa asmara",
+          "harpa",
+          "instrumen",
+          "katresnan",
+          "musik",
+          "orkestra"
+        ],
+        "tts": [
+          "harpa"
+        ]
+      },
       "📱": {
         "default": [
+          "komunikasi",
           "sel",
           "seluler",
           "telepon",
@@ -13544,6 +15971,8 @@
       },
       "📟": {
         "default": [
+          "komunikasi",
+          "pager",
           "penyeranta"
         ],
         "tts": [
@@ -13553,6 +15982,7 @@
       "📠": {
         "default": [
           "faks",
+          "komunikasi",
           "mesin faks"
         ],
         "tts": [
@@ -13749,7 +16179,10 @@
       },
       "📷": {
         "default": [
+          "foto",
           "kamera",
+          "lelungan",
+          "selfie",
           "vidio"
         ],
         "tts": [
@@ -13891,6 +16324,7 @@
       "📖": {
         "default": [
           "buku",
+          "edukasi",
           "mbukak"
         ],
         "tts": [
@@ -13900,6 +16334,7 @@
       "📗": {
         "default": [
           "buku",
+          "edukasi",
           "ijo"
         ],
         "tts": [
@@ -13909,7 +16344,8 @@
       "📘": {
         "default": [
           "biru",
-          "buku"
+          "buku",
+          "edukasi"
         ],
         "tts": [
           "buku biru"
@@ -13919,6 +16355,7 @@
         "default": [
           "buku",
           "buku kunir",
+          "edukasi",
           "werna kunir"
         ],
         "tts": [
@@ -13928,7 +16365,11 @@
       "📚": {
         "default": [
           "buku",
-          "buku-buku"
+          "buku-buku",
+          "edukasi",
+          "pustaka",
+          "sekolah",
+          "sinau"
         ],
         "tts": [
           "buku-buku"
@@ -13936,10 +16377,10 @@
       },
       "📓": {
         "default": [
-          "notebook"
+          "buku cathetan"
         ],
         "tts": [
-          "notebook"
+          "buku cathetan"
         ]
       },
       "📒": {
@@ -14333,7 +16774,7 @@
           "pen"
         ],
         "tts": [
-          "pen"
+          "pena"
         ]
       },
       "🖌": {
@@ -14491,6 +16932,7 @@
       },
       "📌": {
         "default": [
+          "pin",
           "pines"
         ],
         "tts": [
@@ -14856,6 +17298,18 @@
           "sambungan rante"
         ]
       },
+      "⛓‍💥": {
+        "default": [
+          "bebas",
+          "pasung",
+          "pedhot",
+          "rante",
+          "tugel"
+        ],
+        "tts": [
+          "rante pedhot"
+        ]
+      },
       "⛓": {
         "default": [
           "rante"
@@ -14907,6 +17361,18 @@
         ],
         "tts": [
           "ondo"
+        ]
+      },
+      "🪏": {
+        "default": [
+          "gowok",
+          "ndhudhuk",
+          "sekop",
+          "sendok",
+          "sodhok"
+        ],
+        "tts": [
+          "sekop"
         ]
       },
       "⚗": {
@@ -15017,7 +17483,8 @@
           "dhokter",
           "lara",
           "obat",
-          "pil"
+          "pil",
+          "vitamin"
         ],
         "tts": [
           "pil"
@@ -15551,8 +18018,11 @@
       },
       "🛄": {
         "default": [
+          "gawan",
           "koper",
-          "njupuk"
+          "lelungan",
+          "njupuk",
+          "tas"
         ],
         "tts": [
           "njupuk koper"
@@ -15675,7 +18145,7 @@
           "aja",
           "hp",
           "larangan",
-          "ora kena nguripke hp",
+          "ora kena nguripake hp",
           "ponsel",
           "telpun"
         ],
@@ -15828,6 +18298,14 @@
           "panah ngiwa-nengen"
         ]
       },
+      "↮": {
+        "default": [
+          "garis miring panah ngiwa nengen"
+        ],
+        "tts": [
+          "garis miring panah ngiwa nengen"
+        ]
+      },
       "↩": {
         "default": [
           "panah",
@@ -15889,8 +18367,7 @@
       "🔙": {
         "default": [
           "mbalik",
-          "panah",
-          "panah MBALIK"
+          "panah"
         ],
         "tts": [
           "panah MBALIK"
@@ -15899,8 +18376,7 @@
       "🔚": {
         "default": [
           "mentok",
-          "panah",
-          "panah MENTOK"
+          "panah"
         ],
         "tts": [
           "panah MENTOK"
@@ -15921,7 +18397,6 @@
         "default": [
           "gage",
           "panah",
-          "panah SOON",
           "soon"
         ],
         "tts": [
@@ -15932,7 +18407,6 @@
         "default": [
           "munggah",
           "panah",
-          "panah TOP",
           "top"
         ],
         "tts": [
@@ -15963,7 +18437,6 @@
         "default": [
           "agama",
           "Hindu",
-          "om",
           "Om"
         ],
         "tts": [
@@ -16128,7 +18601,8 @@
           "Leo",
           "Lintang Leo",
           "palintangan",
-          "singa"
+          "singa",
+          "zodiak"
         ],
         "tts": [
           "Lintang Leo"
@@ -16138,7 +18612,8 @@
         "default": [
           "Lintang Virgo",
           "palintangan",
-          "Virgo"
+          "Virgo",
+          "zodiak"
         ],
         "tts": [
           "Lintang Virgo"
@@ -16151,7 +18626,8 @@
           "Libra",
           "Lintang Libra",
           "palintangan",
-          "timbangan"
+          "timbangan",
+          "zodiak"
         ],
         "tts": [
           "Lintang Libra"
@@ -16163,7 +18639,8 @@
           "Lintang Scorpio",
           "palintangan",
           "Scorpio",
-          "scorpius"
+          "scorpius",
+          "zodiak"
         ],
         "tts": [
           "Lintang Scorpio"
@@ -16174,7 +18651,8 @@
           "Lintang Sagittarius",
           "palintangan",
           "pamanah",
-          "Sagitarius"
+          "Sagitarius",
+          "zodiak"
         ],
         "tts": [
           "Lintang Sagittarius"
@@ -16185,7 +18663,8 @@
           "Capricorn",
           "Lintang Capricorn",
           "palintangan",
-          "wedhus"
+          "wedhus",
+          "zodiak"
         ],
         "tts": [
           "Lintang Capricorn"
@@ -16197,7 +18676,8 @@
           "banyu",
           "Lintang Aquarius",
           "palintangan",
-          "sing nggawa"
+          "sing nggawa",
+          "zodiak"
         ],
         "tts": [
           "Lintang Aquarius"
@@ -16208,7 +18688,8 @@
           "iwak",
           "Lintang Pisces",
           "palintangan",
-          "Pisces"
+          "Pisces",
+          "zodiak"
         ],
         "tts": [
           "Lintang Pisces"
@@ -16581,8 +19062,8 @@
       },
       "🟰": {
         "default": [
-          "matématika",
-          "podo-podo",
+          "matematika",
+          "padha-padha",
           "tandha padha karo"
         ],
         "tts": [
@@ -16930,6 +19411,18 @@
           "merek dagang"
         ]
       },
+      "🫟": {
+        "default": [
+          "blenthong",
+          "cat",
+          "cipratan",
+          "holi",
+          "wutah"
+        ],
+        "tts": [
+          "cipratan"
+        ]
+      },
       "🔠": {
         "default": [
           "ABCD",
@@ -16966,7 +19459,11 @@
       },
       "🔣": {
         "default": [
-          "〒♪&%",
+          "&",
+          "%",
+          "♪",
+          "〒",
+          "input",
           "lebokake",
           "lebokake simbol"
         ],
@@ -17734,7 +20231,11 @@
       },
       "🏳‍🌈": {
         "default": [
+          "gay",
           "gendera plangi",
+          "homo",
+          "lesbi",
+          "lgbt",
           "plangi"
         ],
         "tts": [
@@ -17807,6 +20308,35 @@
           "yen"
         ]
       },
+      "₢": {
+        "default": [
+          "BRB",
+          "cruzeiro",
+          "mata uang"
+        ],
+        "tts": [
+          "cruzeiro"
+        ]
+      },
+      "₣": {
+        "default": [
+          "franc",
+          "franc prancis",
+          "mata uang"
+        ],
+        "tts": [
+          "franc prancis"
+        ]
+      },
+      "₤": {
+        "default": [
+          "lira",
+          "mata uang"
+        ],
+        "tts": [
+          "lira"
+        ]
+      },
       "₥": {
         "default": [
           "mil",
@@ -17836,12 +20366,50 @@
           "euro"
         ]
       },
+      "₰": {
+        "default": [
+          "mata uang",
+          "penny jerman",
+          "pfennig"
+        ],
+        "tts": [
+          "penny jerman"
+        ]
+      },
       "₱": {
         "default": [
           "peso"
         ],
         "tts": [
           "peso"
+        ]
+      },
+      "₳": {
+        "default": [
+          "ARA",
+          "austral",
+          "mata uang"
+        ],
+        "tts": [
+          "austral"
+        ]
+      },
+      "₶": {
+        "default": [
+          "livre tournois",
+          "mata uang"
+        ],
+        "tts": [
+          "livre tournois"
+        ]
+      },
+      "₷": {
+        "default": [
+          "mata uang",
+          "spesmilo"
+        ],
+        "tts": [
+          "spesmilo"
         ]
       },
       "₹": {
@@ -17902,6 +20470,15 @@
           "tandha telu ing dhuwur"
         ]
       },
+      "₨": {
+        "default": [
+          "mata uang",
+          "rupee"
+        ],
+        "tts": [
+          "rupee"
+        ]
+      },
       "µ": {
         "default": [
           "ngukur",
@@ -17909,6 +20486,15 @@
         ],
         "tts": [
           "tandha mikro"
+        ]
+      },
+      "﷼": {
+        "default": [
+          "mata uang",
+          "riyal"
+        ],
+        "tts": [
+          "riyal"
         ]
       }
     }

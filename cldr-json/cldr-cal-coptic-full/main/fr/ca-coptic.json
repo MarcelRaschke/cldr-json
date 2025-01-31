@@ -2,9 +2,6 @@
   "main": {
     "fr": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "fr"
       },
       "dates": {
@@ -236,7 +233,7 @@
                   "morning1": "matin",
                   "afternoon1": "après-midi",
                   "evening1": "soir",
-                  "night1": "nuit"
+                  "night1": "matin"
                 },
                 "narrow": {
                   "midnight": "minuit",
@@ -246,7 +243,7 @@
                   "morning1": "mat.",
                   "afternoon1": "ap.m.",
                   "evening1": "soir",
-                  "night1": "nuit"
+                  "night1": "matin"
                 },
                 "wide": {
                   "midnight": "minuit",
@@ -268,7 +265,7 @@
                   "morning1": "mat.",
                   "afternoon1": "ap.m.",
                   "evening1": "soir",
-                  "night1": "nuit"
+                  "night1": "matin"
                 },
                 "narrow": {
                   "midnight": "minuit",
@@ -278,7 +275,7 @@
                   "morning1": "mat.",
                   "afternoon1": "ap.m.",
                   "evening1": "soir",
-                  "night1": "nuit"
+                  "night1": "matin"
                 },
                 "wide": {
                   "midnight": "minuit",
@@ -288,7 +285,7 @@
                   "morning1": "matin",
                   "afternoon1": "après-midi",
                   "evening1": "soir",
-                  "night1": "nuit"
+                  "night1": "matin"
                 }
               }
             },

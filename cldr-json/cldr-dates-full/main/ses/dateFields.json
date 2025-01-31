@@ -2,9 +2,6 @@
   "main": {
     "ses": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ses"
       },
       "dates": {

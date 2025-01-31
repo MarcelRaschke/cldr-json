@@ -2,9 +2,6 @@
   "main": {
     "seh": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "seh"
       },
       "delimiters": {

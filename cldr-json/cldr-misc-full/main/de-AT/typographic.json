@@ -2,9 +2,6 @@
   "main": {
     "de-AT": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "de",
         "territory": "AT"
       },
@@ -61,7 +58,6 @@
           "wght-subtype-400": "regulär",
           "wght-subtype-500": "leicht halbfett",
           "wght-subtype-600": "halbfett",
-          "wght-subtype-600-alt-demi": "halbfett",
           "wght-subtype-700": "fett",
           "wght-subtype-800": "extrafett",
           "wght-subtype-900": "schwarz",

@@ -2,9 +2,6 @@
   "main": {
     "teo-KE": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "teo",
         "territory": "KE"
       },

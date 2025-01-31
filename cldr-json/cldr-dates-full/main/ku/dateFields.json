@@ -2,9 +2,6 @@
   "main": {
     "ku": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ku"
       },
       "dates": {
@@ -20,9 +17,9 @@
           },
           "year": {
             "displayName": "sal",
-            "relative-type--1": "par",
+            "relative-type--1": "sala borî",
             "relative-type-0": "îsal",
-            "relative-type-1": "sala piştî",
+            "relative-type-1": "sala bê",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "di salekê de",
               "relativeTimePattern-count-other": "di {0} salan de"
@@ -34,11 +31,11 @@
           },
           "year-short": {
             "displayName": "sal",
-            "relative-type--1": "par",
+            "relative-type--1": "sala borî",
             "relative-type-0": "îsal",
             "relative-type-1": "sala bê",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "piştî salekê",
+              "relativeTimePattern-count-one": "piştî {0} salan",
               "relativeTimePattern-count-other": "piştî {0} salan"
             },
             "relativeTime-type-past": {
@@ -47,12 +44,12 @@
             }
           },
           "year-narrow": {
-            "displayName": "sl",
-            "relative-type--1": "par",
+            "displayName": "sal",
+            "relative-type--1": "sala borî",
             "relative-type-0": "îsal",
             "relative-type-1": "sala bê",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "piştî salekê",
+              "relativeTimePattern-count-one": "piştî {0} salan",
               "relativeTimePattern-count-other": "piştî {0} salan"
             },
             "relativeTime-type-past": {
@@ -61,10 +58,10 @@
             }
           },
           "quarter": {
-            "displayName": "çarêk",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "displayName": "çaryek",
+            "relative-type--1": "çaryeka dawî",
+            "relative-type-0": "ev çaryek",
+            "relative-type-1": "çaryeka were",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Q"
             },
@@ -74,9 +71,9 @@
           },
           "quarter-short": {
             "displayName": "çrk.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "çaryeka dawî",
+            "relative-type-0": "ev çaryek",
+            "relative-type-1": "çaryeka were",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Q"
             },
@@ -86,9 +83,9 @@
           },
           "quarter-narrow": {
             "displayName": "çrk.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "çaryeka dawî",
+            "relative-type-0": "ev çaryek",
+            "relative-type-1": "çaryeka were",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} Q"
             },
@@ -99,8 +96,8 @@
           "month": {
             "displayName": "meh",
             "relative-type--1": "meha borî",
-            "relative-type-0": "vê mehê",
-            "relative-type-1": "meha were",
+            "relative-type-0": "ev meh",
+            "relative-type-1": "meha bê",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} m"
             },
@@ -109,9 +106,9 @@
             }
           },
           "month-short": {
-            "displayName": "m.",
-            "relative-type--1": "meha br.",
-            "relative-type-0": "vê mehê",
+            "displayName": "meh",
+            "relative-type--1": "meha borî",
+            "relative-type-0": "ev meh",
             "relative-type-1": "meha bê",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} m"
@@ -121,9 +118,9 @@
             }
           },
           "month-narrow": {
-            "displayName": "m.",
-            "relative-type--1": "meha br.",
-            "relative-type-0": "vê mehê",
+            "displayName": "meh",
+            "relative-type--1": "meha borî",
+            "relative-type-0": "ev meh",
             "relative-type-1": "meha bê",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} m"
@@ -135,8 +132,8 @@
           "week": {
             "displayName": "hefte",
             "relative-type--1": "hefteya borî",
-            "relative-type-0": "vê hefteyê",
-            "relative-type-1": "hefteya were",
+            "relative-type-0": "ev hefte",
+            "relative-type-1": "hefteya bê",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} w"
             },
@@ -148,7 +145,7 @@
           "week-short": {
             "displayName": "hf.",
             "relative-type--1": "hft. borî",
-            "relative-type-0": "vê hft.",
+            "relative-type-0": "ev hft.",
             "relative-type-1": "hft. bê",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} w"
@@ -156,12 +153,12 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} w"
             },
-            "relativePeriod": "hft. {0}"
+            "relativePeriod": "hefteya {0}"
           },
           "week-narrow": {
-            "displayName": "hf.",
+            "displayName": "hf",
             "relative-type--1": "hft. borî",
-            "relative-type-0": "vê hft.",
+            "relative-type-0": "ev hft.",
             "relative-type-1": "hft. bê",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} w"
@@ -169,7 +166,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "-{0} w"
             },
-            "relativePeriod": "hft. {0}"
+            "relativePeriod": "hefteya {0}"
           },
           "weekOfMonth": {
             "displayName": "hefteya mehê"
@@ -184,7 +181,7 @@
             "displayName": "roj",
             "relative-type--1": "duh",
             "relative-type-0": "îro",
-            "relative-type-1": "sibe",
+            "relative-type-1": "sibê",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} d"
             },
@@ -193,10 +190,10 @@
             }
           },
           "day-short": {
-            "displayName": "r.",
+            "displayName": "roj",
             "relative-type--1": "duh",
             "relative-type-0": "îro",
-            "relative-type-1": "sibe",
+            "relative-type-1": "sibê",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} d"
             },
@@ -205,10 +202,10 @@
             }
           },
           "day-narrow": {
-            "displayName": "r.",
+            "displayName": "roj",
             "relative-type--1": "duh",
             "relative-type-0": "îro",
-            "relative-type-1": "sibe",
+            "relative-type-1": "sibê",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} d"
             },
@@ -494,7 +491,7 @@
             }
           },
           "hour-short": {
-            "displayName": "st.",
+            "displayName": "sa.",
             "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
@@ -504,7 +501,7 @@
             }
           },
           "hour-narrow": {
-            "displayName": "st.",
+            "displayName": "sa.",
             "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} h"
@@ -515,37 +512,43 @@
           },
           "minute": {
             "displayName": "deqîqe",
-            "relative-type-0": "this minute",
+            "relative-type-0": "vê deqeyê",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-one": "di {0} deqeyê de",
+              "relativeTimePattern-count-other": "di {0} deqeyan de"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-one": "berî {0} deqeyê",
+              "relativeTimePattern-count-other": "berî {0} deqeyan"
             }
           },
           "minute-short": {
-            "displayName": "d.",
-            "relative-type-0": "this minute",
+            "displayName": "dq.",
+            "relative-type-0": "vê deqeyê",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-one": "di {0} dq. de",
+              "relativeTimePattern-count-other": "di {0} dq de"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-one": "berî {0} dq.",
+              "relativeTimePattern-count-other": "berî {0} dq."
             }
           },
           "minute-narrow": {
-            "displayName": "d.",
-            "relative-type-0": "this minute",
+            "displayName": "dq.",
+            "relative-type-0": "vê deqeyê",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-one": "di {0} dq de",
+              "relativeTimePattern-count-other": "di {0}dq de"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-one": "berî {0} dq.",
+              "relativeTimePattern-count-other": "berî {0} d."
             }
           },
           "second": {
-            "displayName": "saniye",
-            "relative-type-0": "now",
+            "displayName": "sanîye",
+            "relative-type-0": "vêga",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"
             },
@@ -554,8 +557,8 @@
             }
           },
           "second-short": {
-            "displayName": "s.",
-            "relative-type-0": "now",
+            "displayName": "sn.",
+            "relative-type-0": "vêga",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"
             },
@@ -564,8 +567,8 @@
             }
           },
           "second-narrow": {
-            "displayName": "s.",
-            "relative-type-0": "now",
+            "displayName": "sn.",
+            "relative-type-0": "vêga",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "+{0} s"
             },
@@ -574,7 +577,7 @@
             }
           },
           "zone": {
-            "displayName": "qada demê"
+            "displayName": "qada saetê"
           },
           "zone-short": {
             "displayName": "qad"

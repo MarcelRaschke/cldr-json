@@ -2,9 +2,6 @@
   "main": {
     "yrl": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "yrl"
       },
       "localeDisplayNames": {
@@ -159,7 +156,6 @@
           "IL": "Isirayeu",
           "IM": "Mã Kapuãma",
           "IN": "Ĩdiya",
-          "IO": "Biritãniku Usuasawa Useyanu Ĩdiku",
           "IQ": "Iraki",
           "IR": "Irã",
           "IS": "Isirãdiya",

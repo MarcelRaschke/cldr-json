@@ -1,8 +1,8 @@
 {
   "supplemental": {
     "version": {
-      "_unicodeVersion": "14.0.0",
-      "_cldrVersion": "42"
+      "_unicodeVersion": "16.0.0",
+      "_cldrVersion": "46"
     },
     "parentLocales": {
       "parentLocale": {
@@ -34,6 +34,7 @@
         "en-GM": "en-001",
         "en-GY": "en-001",
         "en-HK": "en-001",
+        "en-ID": "en-001",
         "en-IE": "en-001",
         "en-IL": "en-001",
         "en-IM": "en-001",
@@ -112,6 +113,7 @@
         "es-EC": "es-419",
         "es-GT": "es-419",
         "es-HN": "es-419",
+        "es-JP": "es-419",
         "es-MX": "es-419",
         "es-NI": "es-419",
         "es-PA": "es-419",
@@ -125,6 +127,7 @@
         "ht": "fr-HT",
         "nb": "no",
         "nn": "no",
+        "no-NO": "no",
         "pt-AO": "pt-PT",
         "pt-CH": "pt-PT",
         "pt-CV": "pt-PT",
@@ -152,9 +155,14 @@
         "ff-Arab": "und",
         "ha-Arab": "und",
         "iu-Latn": "und",
+        "kaa-Latn": "und",
         "kk-Arab": "und",
+        "kok-Latn": "und",
         "ks-Deva": "und",
         "ku-Arab": "und",
+        "kxv-Deva": "und",
+        "kxv-Orya": "und",
+        "kxv-Telu": "und",
         "ky-Arab": "und",
         "ky-Latn": "und",
         "ml-Arab": "und",
@@ -180,7 +188,23 @@
         "yue-Hans": "und",
         "zh-Hant": "und",
         "zh-Hant-MO": "zh-Hant-HK"
-      }
+      },
+      "_localeRules": {
+        "parentLocale": {
+          "nonlikelyScript": "root"
+        }
+      },
+      "collations": {
+        "sr-Cyrl-ME": "sr-ME",
+        "yue-CN": "zh-Hans",
+        "yue-Hans": "zh-Hans",
+        "yue-Hans-CN": "zh-Hans",
+        "yue": "zh-Hant",
+        "yue-Hant": "zh-Hant"
+      },
+      "segmentations": {},
+      "grammaticalFeatures": {},
+      "plurals": {}
     }
   }
 }

@@ -2,9 +2,6 @@
   "main": {
     "gd": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "gd"
       },
       "localeDisplayNames": {
@@ -94,6 +91,7 @@
           "CN": "An t-Sìn",
           "CO": "Coloimbia",
           "CP": "Eilean Clipperton",
+          "CQ": "Sarc",
           "CR": "Costa Rìcea",
           "CU": "Cùba",
           "CV": "An Ceap Uaine",
@@ -112,7 +110,7 @@
           "EA": "Ceuta agus Melilla",
           "EC": "Eacuador",
           "EE": "An Eastoin",
-          "EG": "An Èiphit",
+          "EG": "An Èipheit",
           "EH": "Sathara an Iar",
           "ER": "Eartra",
           "ES": "An Spàinnt",
@@ -148,7 +146,7 @@
           "GY": "Guidheàna",
           "HK": "Hong Kong SAR na Sìne",
           "HK-alt-short": "Hong Kong",
-          "HM": "Eilean Heard is MhicDhòmhnaill",
+          "HM": "Eilean Heard is Eileanan MhicDhòmhnaill",
           "HN": "Hondùras",
           "HR": "A’ Chròthais",
           "HT": "Haidhti",
@@ -160,6 +158,8 @@
           "IM": "Eilean Mhanainn",
           "IN": "Na h-Innseachan",
           "IO": "Ranntair Breatannach Cuan nan Innseachan",
+          "IO-alt-biot": "Ranntair Breatannach Cuan nan Innseachan",
+          "IO-alt-chagos": "Innis-mhuir Chagos",
           "IQ": "Ioràc",
           "IR": "Ioràn",
           "IS": "Innis Tìle",

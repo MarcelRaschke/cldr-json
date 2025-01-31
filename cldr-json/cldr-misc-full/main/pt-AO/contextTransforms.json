@@ -2,9 +2,6 @@
   "main": {
     "pt-AO": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "pt",
         "territory": "AO"
       },

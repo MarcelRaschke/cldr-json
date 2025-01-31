@@ -2,9 +2,6 @@
   "main": {
     "mn": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "mn"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} - нийцэл",
         "enclosed": "{0} — хавсаргасан",
         "extended": "{0} — өргөтгөсөн",
+        "facing-left": "{0} зүүн тийш харсан",
+        "facing-right": "{0} баруун тийш харсан",
         "historic": "{0} — түүхэн",
         "miscellaneous": "{0} — янз бүр",
         "other": "{0} — бусад",

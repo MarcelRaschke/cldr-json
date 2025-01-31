@@ -2,9 +2,6 @@
   "main": {
     "tr-CY": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "tr",
         "territory": "CY"
       },
@@ -13,6 +10,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "İngiltere",
+          "gbsct": "İskoçya",
+          "gbwls": "Galler"
         },
         "keys": {
           "calendar": "Takvim",
@@ -46,9 +48,9 @@
             "hebrew": "İbrani Takvimi",
             "indian": "Ulusal Hint Takvimi",
             "islamic": "Hicri Takvim",
-            "islamic-civil": "Arap Takvimi",
+            "islamic-civil": "Hicri Takvim (16 Temmuz 622)",
             "islamic-rgsa": "Hicri Takvim (Suudi)",
-            "islamic-tbla": "Hicri Takvim (Astronomik Evreler)",
+            "islamic-tbla": "Hicri Takvim (15 Temmuz 622)",
             "islamic-umalqura": "Hicri Takvim (Ümmü-l Kurra Takvimi)",
             "iso8601": "ISO-8601 Takvimi",
             "japanese": "Japon Takvimi",
@@ -87,7 +89,6 @@
             "phonebook": "Telefon Defteri Sıralama Düzeni",
             "phonetic": "Fonetik Sıralama Düzeni",
             "pinyin": "Pinyin Sıralama Düzeni",
-            "reformed": "Yeni Sıralama Düzeni",
             "search": "Genel Amaçlı Arama",
             "searchjl": "Hangul İlk Sessiz Harfe Göre Arama",
             "standard": "Standart Sıralama Düzeni",
@@ -149,12 +150,10 @@
             "cham": "Cham Rakamları",
             "cyrl": "Kiril Rakamları",
             "deva": "Devanagari Rakamları",
-            "diak": "diak",
             "ethi": "Ge’ez Rakamları",
             "finance": "Finansal Sayılar",
             "fullwide": "Tam Genişlikte Rakamlar",
             "geor": "Gürcü Rakamları",
-            "gong": "gong",
             "gonm": "Masaram Gondi Rakamları",
             "grek": "Yunan Rakamları",
             "greklow": "Küçük Harf Yunan Rakamları",
@@ -167,12 +166,10 @@
             "hantfin": "Finansal Geleneksel Çin Rakamları",
             "hebr": "İbrani Rakamları",
             "hmng": "Pahawh Hmong Rakamları",
-            "hmnp": "hmnp",
             "java": "Cava Rakamları",
             "jpan": "Japon Rakamları",
             "jpanfin": "Finansal Japon Rakamları",
             "kali": "Kayah Li Rakamları",
-            "kawi": "kawi",
             "khmr": "Kmer Rakamları",
             "knda": "Kannada Rakamları",
             "lana": "Tai Tham Hora Rakamları",
@@ -194,13 +191,11 @@
             "mymr": "Myanmar Rakamları",
             "mymrshan": "Myanmar Shan Rakamları",
             "mymrtlng": "Myanmar Tai Laing Rakamları",
-            "nagm": "nagm",
             "native": "Yerel Rakamlar",
             "nkoo": "N’Ko Rakamları",
             "olck": "Ol Chiki Rakamları",
             "orya": "Oriya Rakamları",
             "osma": "Osmanya Rakamları",
-            "rohg": "rohg",
             "roman": "Roma Rakamları",
             "romanlow": "Küçük Harf Roma Rakamları",
             "saur": "Saurashtra Rakamları",
@@ -217,11 +212,9 @@
             "thai": "Tay Rakamları",
             "tibt": "Tibet Rakamları",
             "tirh": "Tirhuta Rakamları",
-            "tnsa": "tnsa",
             "traditional": "Geleneksel Rakamlar",
             "vaii": "Vai Rakamları",
-            "wara": "Warang Citi Rakamları",
-            "wcho": "wcho"
+            "wara": "Warang Citi Rakamları"
           }
         },
         "codePatterns": {

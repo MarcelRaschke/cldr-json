@@ -2,9 +2,6 @@
   "main": {
     "km": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "km"
       },
       "numbers": {
@@ -29,8 +26,8 @@
           "timeSeparator": ":"
         },
         "symbols-numberSystem-latn": {
-          "decimal": ",",
-          "group": ".",
+          "decimal": ".",
+          "group": ",",
           "list": ";",
           "percentSign": "%",
           "plusSign": "+",

@@ -2,9 +2,6 @@
   "main": {
     "fr-BE": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "fr",
         "territory": "BE"
       },
@@ -231,7 +228,7 @@
                   "morning1": "matin",
                   "afternoon1": "après-midi",
                   "evening1": "soir",
-                  "night1": "nuit"
+                  "night1": "matin"
                 },
                 "narrow": {
                   "midnight": "minuit",
@@ -241,7 +238,7 @@
                   "morning1": "mat.",
                   "afternoon1": "ap.m.",
                   "evening1": "soir",
-                  "night1": "nuit"
+                  "night1": "matin"
                 },
                 "wide": {
                   "midnight": "minuit",
@@ -263,7 +260,7 @@
                   "morning1": "mat.",
                   "afternoon1": "ap.m.",
                   "evening1": "soir",
-                  "night1": "nuit"
+                  "night1": "matin"
                 },
                 "narrow": {
                   "midnight": "minuit",
@@ -273,7 +270,7 @@
                   "morning1": "mat.",
                   "afternoon1": "ap.m.",
                   "evening1": "soir",
-                  "night1": "nuit"
+                  "night1": "matin"
                 },
                 "wide": {
                   "midnight": "minuit",
@@ -283,7 +280,7 @@
                   "morning1": "matin",
                   "afternoon1": "après-midi",
                   "evening1": "soir",
-                  "night1": "nuit"
+                  "night1": "matin"
                 }
               }
             },
@@ -1010,13 +1007,13 @@
               "full": "EEEE d MMMM y G",
               "long": "d MMMM y G",
               "medium": "d MMM y G",
-              "short": "dd/MM/y GGGGG"
+              "short": "d/MM/yy GGGGG"
             },
             "dateSkeletons": {
               "full": "GyMMMMEEEEd",
               "long": "GyMMMMd",
               "medium": "GyMMMd",
-              "short": "GGGGGyMMdd"
+              "short": "GGGGGyyMMd"
             },
             "timeFormats": {
               "full": "H 'h' mm 'min' ss 's' zzzz",

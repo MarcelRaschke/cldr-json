@@ -2,9 +2,6 @@
   "main": {
     "ceb": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ceb"
       },
       "layout": {

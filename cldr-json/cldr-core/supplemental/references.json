@@ -1,8 +1,8 @@
 {
   "supplemental": {
     "version": {
-      "_unicodeVersion": "14.0.0",
-      "_cldrVersion": "42"
+      "_unicodeVersion": "16.0.0",
+      "_cldrVersion": "46"
     },
     "references": {
       "R1000": {
@@ -13,10 +13,7 @@
         "_value": "At most 6% are not fluent in English",
         "_uri": "http://www.migrationinformation.org/Feature/display.cfm?ID=72"
       },
-      "R1002": {
-        "_value": "French official, the figure is derived from literacy * population",
-        "_uri": "https://www.cia.gov/cia/publications/factbook/geos/cg.html"
-      },
+      "R1002": "Precise data not available, added so Balinese script defaults to Balinese",
       "R1003": "While Cyrillic is customary, the vast majority of the population can read both.For languages not customarily written, the writing populiation is artificially set to 5% in the absence of better information.",
       "R1004": {
         "_value": "The figure includes 'Vlaams' population from Ethnologue",
@@ -26,10 +23,7 @@
         "_value": "It is estimated that Walloon is used actively by 10-20% of the total population of Wallonia or between 300,000 and 600,000 people. For languages not customarily written, the writing population is artificially set to 5% in the absence of better information.",
         "_uri": "http://www.orbilat.com/Languages/Walloon/Walloon.htm"
       },
-      "R1006": {
-        "_value": "http://en.wikipedia.org/wiki/Demographics_of_Switzerland Literacy rate for gsw is 5% of reported speaker population; literacy is mostly in standard German. For languages not customarily written, the writing population is artificially set to 5% in the absence of better information.",
-        "_uri": "http://www.ethnologue.com/show_country.asp?name=CH"
-      },
+      "R1006": "Precise data not available",
       "R1007": {
         "_value": "Arabic official, the figure is derived from literacy * lang pop",
         "_uri": "http://www.ethnologue.com/show_country.asp?name=Bahrain"
@@ -633,6 +627,10 @@
         "_value": "- primarily written using an Arabic-derived alphabet",
         "_uri": "http://en.wikipedia.org/wiki/Uyghur_language"
       },
+      "R1166": {
+        "_value": "and https://islandstudies.com/files/2016/11/Guernsey-Herm-Sark.pdf - extrapolated GDP from per capita x population",
+        "_uri": "https://en.wikipedia.org/wiki/Sark#Economy"
+      },
       "R1167": {
         "_value": "understood by 10 million, perhaps. Figure is questionable writing pop artificially set to 5% see also: http://en.wikipedia.org/wiki/Low_German (understood by 10 million people, and native to about 3 million people all around northern Germany)",
         "_uri": "http://www.ethnologue.com/show_language.asp?code=nds"
@@ -650,6 +648,14 @@
         "_uri": "http://en.wikipedia.org/wiki/Mayotte#Languages"
       },
       "R1171": "Common lingua franca, widely used. High literacy.",
+      "R1172": {
+        "_value": "but subtracting 270,000 per https://en.wikipedia.org/wiki/Swiss_Italian",
+        "_uri": "https://en.wikipedia.org/wiki/Lombard_language#Usage"
+      },
+      "R1173": {
+        "_value": "[missing]",
+        "_uri": "https://en.wikipedia.org/wiki/Levantine_Arabic#Speakers_by_country"
+      },
       "R1174": {
         "_value": "[missing]",
         "_uri": "http://www.ethnologue.com/show_language.asp?code=ksh"
@@ -730,6 +736,10 @@
         "_value": "https://www.cia.gov/library/publications/the-world-factbook/geos/cs.html",
         "_uri": "http://en.wikipedia.org/wiki/Costa_Rica"
       },
+      "R1194": {
+        "_value": "[missing]",
+        "_uri": "https://en.wikipedia.org/wiki/Anii_language/"
+      },
       "R1195": {
         "_value": "[missing]",
         "_uri": "https://www.cia.gov/library/publications/the-world-factbook/geos/in.html"
@@ -745,6 +755,10 @@
       "R1198": {
         "_value": "[missing]",
         "_uri": "http://www.ethnologue.com/show_language.asp?code=zdj"
+      },
+      "R1199": {
+        "_value": "[missing]",
+        "_uri": "https://joshuaproject.net/languages/kaa"
       },
       "R1200": {
         "_value": "[missing]",
@@ -770,6 +784,10 @@
       "R1206": {
         "_value": "http://ec.europa.eu/public_opinion/archives/ebs/ebs_243_en.pdf Europeans and their languages survey, page 7",
         "_uri": "http://en.wikipedia.org/wiki/Turkish_language#Geographic_distribution"
+      },
+      "R1207": {
+        "_value": "[missing]",
+        "_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/language/bulletins/languageenglandandwales/census2021"
       },
       "R1208": {
         "_value": "1st lang literacy 8%",
@@ -803,7 +821,6 @@
         "_value": "(could be higher if 2nd lang included; no data yet)",
         "_uri": "http://en.wikipedia.org/wiki/Vietnamese_language"
       },
-      "R1219": "Mainly in Guangdong Prov, ~70-80 million",
       "R1220": {
         "_value": "[missing]",
         "_uri": "http://www.ethnologue.com/18/language/knf/"
@@ -914,6 +931,10 @@
       },
       "R1247": "protected minority, southern Jutland",
       "R1248": "etimate only based on literacy; no population data currently available",
+      "R1249": {
+        "_value": "population figure from CLDR-17483 ticket",
+        "_uri": "https://en.wikipedia.org/wiki/Ladin_language"
+      },
       "R1250": "No Data Available at present.",
       "R1251": "co-official in South Tyrol",
       "R1252": "Aosta Valley",
@@ -1166,6 +1187,7 @@
         "_value": "[missing]",
         "_uri": "https://pt.wikipedia.org/wiki/Nheengatu"
       },
+      "R1328": "Mainly in Guangdong Prov, ~70-80 million. Script unspecified so both listed",
       "R1329": {
         "_value": "Canada 2016 census language data; official status from Wikipedia Languages_of_Canada",
         "_uri": "https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?TABID=2&Lang=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GID=1235625&GK=0&GRP=1&PID=110212&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2016&THEME=118&VID=0&VNAMEE=&VNAMEF=&D1=0&D2=0&D3=0&D4=0&D5=0&D6=0"

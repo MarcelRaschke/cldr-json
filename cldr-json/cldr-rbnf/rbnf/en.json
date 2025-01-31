@@ -1,9 +1,6 @@
 {
   "rbnf": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "en"
     },
     "rbnf": {
@@ -579,7 +576,7 @@
           ],
           [
             "1000000000000000000",
-            "=#,##0=.;"
+            "=#,##0=$(ordinal,one{st}two{nd}few{rd}other{th})$;"
           ]
         ],
         "%%and-o": [
@@ -665,7 +662,7 @@
           ],
           [
             "1000000000000000000",
-            "=#,##0=.;"
+            "=#,##0=$(ordinal,one{st}two{nd}few{rd}other{th})$;"
           ]
         ]
       }

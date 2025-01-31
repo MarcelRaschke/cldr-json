@@ -2,9 +2,6 @@
   "main": {
     "tr-CY": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "tr",
         "territory": "CY"
       },
@@ -14,6 +11,8 @@
         "compatibility": "{0} — uyumluluk",
         "enclosed": "{0} — etrafı çevrilmiş",
         "extended": "{0} — genişletilmiş",
+        "facing-left": "sola dönük {0}",
+        "facing-right": "sağa dönük {0}",
         "historic": "{0} — tarihi",
         "miscellaneous": "{0} — çeşitli",
         "other": "{0} — diğer",

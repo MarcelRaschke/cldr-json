@@ -2,9 +2,6 @@
   "main": {
     "is": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "is"
       },
       "localeDisplayNames": {
@@ -160,6 +157,8 @@
           "IM": "Mön",
           "IN": "Indland",
           "IO": "Bresku Indlandshafseyjar",
+          "IO-alt-biot": "Bresku Indlandshafseyjar",
+          "IO-alt-chagos": "Chagos-eyjaklasinn",
           "IQ": "Írak",
           "IR": "Íran",
           "IS": "Ísland",
@@ -270,8 +269,8 @@
           "SV": "El Salvador",
           "SX": "Sint Maarten",
           "SY": "Sýrland",
-          "SZ": "Svasíland",
-          "SZ-alt-variant": "Svasíland",
+          "SZ": "Esvatíní",
+          "SZ-alt-variant": "Esvatíní",
           "TA": "Tristan da Cunha",
           "TC": "Turks- og Caicoseyjar",
           "TD": "Tsjad",

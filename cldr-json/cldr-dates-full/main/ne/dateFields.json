@@ -2,9 +2,6 @@
   "main": {
     "ne": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ne"
       },
       "dates": {
@@ -61,7 +58,7 @@
             }
           },
           "quarter": {
-            "displayName": "सत्र",
+            "displayName": "त्रैमासिक",
             "relative-type--1": "अघिल्लो सत्र",
             "relative-type-0": "यो सत्र",
             "relative-type-1": "अर्को सत्र",
@@ -75,7 +72,7 @@
             }
           },
           "quarter-short": {
-            "displayName": "सत्र",
+            "displayName": "त्रैमासिक",
             "relative-type--1": "अघिल्लो सत्र",
             "relative-type-0": "यो सत्र",
             "relative-type-1": "अर्को सत्र",
@@ -89,7 +86,7 @@
             }
           },
           "quarter-narrow": {
-            "displayName": "सत्र",
+            "displayName": "त्रैमासिक",
             "relative-type--1": "अघिल्लो सत्र",
             "relative-type-0": "यो सत्र",
             "relative-type-1": "अर्को सत्र",
@@ -148,7 +145,7 @@
             "displayName": "हप्ता",
             "relative-type--1": "गत हप्ता",
             "relative-type-0": "यो हप्ता",
-            "relative-type-1": "आउने हप्ता",
+            "relative-type-1": "आगामी हप्ता",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} हप्तामा",
               "relativeTimePattern-count-other": "{0} हप्तामा"

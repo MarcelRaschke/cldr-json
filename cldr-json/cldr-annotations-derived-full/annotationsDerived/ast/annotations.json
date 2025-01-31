@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "ast"
     },
     "annotations": {
@@ -2127,11 +2124,6 @@
           "naira nixeriana"
         ]
       },
-      "₧": {
-        "tts": [
-          "Peseta española"
-        ]
-      },
       "₪": {
         "tts": [
           "Xequel nuevu israelín"
@@ -2265,6 +2257,11 @@
         ],
         "tts": [
           "tecles: 9"
+        ]
+      },
+      "₧": {
+        "tts": [
+          "Peseta española"
         ]
       }
     }

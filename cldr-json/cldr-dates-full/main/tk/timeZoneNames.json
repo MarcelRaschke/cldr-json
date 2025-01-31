@@ -2,9 +2,6 @@
   "main": {
     "tk": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "tk"
       },
       "dates": {
@@ -27,9 +24,6 @@
               "Anguilla": {
                 "exemplarCity": "Angilýa"
               },
-              "Antigua": {
-                "exemplarCity": "Antigua"
-              },
               "Araguaina": {
                 "exemplarCity": "Araguaýna"
               },
@@ -49,15 +43,9 @@
                 "San_Luis": {
                   "exemplarCity": "San-Luis"
                 },
-                "Salta": {
-                  "exemplarCity": "Salta"
-                },
                 "Tucuman": {
                   "exemplarCity": "Tukuman"
                 }
-              },
-              "Aruba": {
-                "exemplarCity": "Aruba"
               },
               "Asuncion": {
                 "exemplarCity": "Asunsýon"
@@ -67,9 +55,6 @@
               },
               "Bahia_Banderas": {
                 "exemplarCity": "Baiýa-de-Banderas"
-              },
-              "Barbados": {
-                "exemplarCity": "Barbados"
               },
               "Belem": {
                 "exemplarCity": "Belen"
@@ -82,9 +67,6 @@
               },
               "Boa_Vista": {
                 "exemplarCity": "Boa-Wista"
-              },
-              "Bogota": {
-                "exemplarCity": "Bogota"
               },
               "Boise": {
                 "exemplarCity": "Boýse"
@@ -118,6 +100,9 @@
               },
               "Chihuahua": {
                 "exemplarCity": "Çihuahua"
+              },
+              "Ciudad_Juarez": {
+                "exemplarCity": "Sýudad-Huares"
               },
               "Coral_Harbour": {
                 "exemplarCity": "Atikokan"
@@ -155,20 +140,11 @@
               "Dominica": {
                 "exemplarCity": "Dominika"
               },
-              "Edmonton": {
-                "exemplarCity": "Edmonton"
-              },
               "Eirunepe": {
                 "exemplarCity": "Eýrunepe"
               },
               "El_Salvador": {
                 "exemplarCity": "Salwador"
-              },
-              "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
-              },
-              "Fortaleza": {
-                "exemplarCity": "Fortaleza"
               },
               "Glace_Bay": {
                 "exemplarCity": "Gleýs-Beý"
@@ -181,9 +157,6 @@
               },
               "Grand_Turk": {
                 "exemplarCity": "Grand-Terk"
-              },
-              "Grenada": {
-                "exemplarCity": "Grenada"
               },
               "Guadeloupe": {
                 "exemplarCity": "Gwadelupa"
@@ -229,9 +202,6 @@
                   "exemplarCity": "Wiweý, Indiana"
                 }
               },
-              "Indianapolis": {
-                "exemplarCity": "Indianapolis"
-              },
               "Inuvik": {
                 "exemplarCity": "Inuwik"
               },
@@ -258,9 +228,6 @@
               "La_Paz": {
                 "exemplarCity": "La-Pas"
               },
-              "Lima": {
-                "exemplarCity": "Lima"
-              },
               "Los_Angeles": {
                 "exemplarCity": "Los-Anjeles"
               },
@@ -273,23 +240,11 @@
               "Maceio": {
                 "exemplarCity": "Maseýo"
               },
-              "Managua": {
-                "exemplarCity": "Managua"
-              },
-              "Manaus": {
-                "exemplarCity": "Manaus"
-              },
               "Marigot": {
                 "exemplarCity": "Marigo"
               },
               "Martinique": {
                 "exemplarCity": "Martinika"
-              },
-              "Matamoros": {
-                "exemplarCity": "Matamoros"
-              },
-              "Mazatlan": {
-                "exemplarCity": "Mazatlan"
               },
               "Mendoza": {
                 "exemplarCity": "Mendosa"
@@ -299,9 +254,6 @@
               },
               "Merida": {
                 "exemplarCity": "Merida"
-              },
-              "Metlakatla": {
-                "exemplarCity": "Metlakatla"
               },
               "Mexico_City": {
                 "exemplarCity": "Mehiko"
@@ -321,27 +273,18 @@
               "Montserrat": {
                 "exemplarCity": "Monserrat"
               },
-              "Nassau": {
-                "exemplarCity": "Nassau"
-              },
               "New_York": {
                 "exemplarCity": "Nýu-Ýork"
               },
-              "Nipigon": {
-                "exemplarCity": "Nipigon"
-              },
               "Nome": {
                 "exemplarCity": "Nom"
-              },
-              "Noronha": {
-                "exemplarCity": "Noronha"
               },
               "North_Dakota": {
                 "Beulah": {
                   "exemplarCity": "Boýla, Demirgazyk Dakota"
                 },
                 "New_Salem": {
-                  "exemplarCity": "Nýu-Salem, D.g. Dakota"
+                  "exemplarCity": "Nýu-Salem, Demirgazyk Dakota"
                 },
                 "Center": {
                   "exemplarCity": "Sentr, Demirgazyk Dakota"
@@ -349,15 +292,6 @@
               },
               "Ojinaga": {
                 "exemplarCity": "Ohinaga"
-              },
-              "Panama": {
-                "exemplarCity": "Panama"
-              },
-              "Pangnirtung": {
-                "exemplarCity": "Pangnirtang"
-              },
-              "Paramaribo": {
-                "exemplarCity": "Paramaribo"
               },
               "Phoenix": {
                 "exemplarCity": "Feniks"
@@ -377,9 +311,6 @@
               "Punta_Arenas": {
                 "exemplarCity": "Punta-Arenas"
               },
-              "Rainy_River": {
-                "exemplarCity": "Reýni-Riwer"
-              },
               "Rankin_Inlet": {
                 "exemplarCity": "Rankin-Inlet"
               },
@@ -395,12 +326,6 @@
               "Rio_Branco": {
                 "exemplarCity": "Riu-Branku"
               },
-              "Santa_Isabel": {
-                "exemplarCity": "Santa-Izabel"
-              },
-              "Santarem": {
-                "exemplarCity": "Santarem"
-              },
               "Santiago": {
                 "exemplarCity": "Santýago"
               },
@@ -412,9 +337,6 @@
               },
               "Scoresbysund": {
                 "exemplarCity": "Illokkortoormiut"
-              },
-              "Sitka": {
-                "exemplarCity": "Sitka"
               },
               "St_Barthelemy": {
                 "exemplarCity": "Sen-Bartelemi"
@@ -443,17 +365,8 @@
               "Thule": {
                 "exemplarCity": "Tule"
               },
-              "Thunder_Bay": {
-                "exemplarCity": "Tander-Beý"
-              },
               "Tijuana": {
                 "exemplarCity": "Tihuana"
-              },
-              "Toronto": {
-                "exemplarCity": "Toronto"
-              },
-              "Tortola": {
-                "exemplarCity": "Tortola"
               },
               "Vancouver": {
                 "exemplarCity": "Wankuwer"
@@ -461,22 +374,13 @@
               "Whitehorse": {
                 "exemplarCity": "Waýthors"
               },
-              "Winnipeg": {
-                "exemplarCity": "Winnipeg"
-              },
               "Yakutat": {
                 "exemplarCity": "Ýakutat"
-              },
-              "Yellowknife": {
-                "exemplarCity": "Ýellounaýf"
               }
             },
             "Atlantic": {
               "Azores": {
                 "exemplarCity": "Azor adalary"
-              },
-              "Bermuda": {
-                "exemplarCity": "Bermuda"
               },
               "Canary": {
                 "exemplarCity": "Kanar adalary"
@@ -504,12 +408,6 @@
               }
             },
             "Europe": {
-              "Amsterdam": {
-                "exemplarCity": "Amsterdam"
-              },
-              "Andorra": {
-                "exemplarCity": "Andorra"
-              },
               "Astrakhan": {
                 "exemplarCity": "Astrahan"
               },
@@ -518,9 +416,6 @@
               },
               "Belgrade": {
                 "exemplarCity": "Belgrad"
-              },
-              "Berlin": {
-                "exemplarCity": "Berlin"
               },
               "Bratislava": {
                 "exemplarCity": "Bratislawa"
@@ -546,17 +441,10 @@
               "Dublin": {
                 "long": {
                   "daylight": "Irlandiýa standart wagty"
-                },
-                "exemplarCity": "Dublin"
-              },
-              "Gibraltar": {
-                "exemplarCity": "Gibraltar"
+                }
               },
               "Guernsey": {
                 "exemplarCity": "Gernsi"
-              },
-              "Helsinki": {
-                "exemplarCity": "Helsinki"
               },
               "Isle_of_Man": {
                 "exemplarCity": "Men adasy"
@@ -566,9 +454,6 @@
               },
               "Jersey": {
                 "exemplarCity": "Jersi"
-              },
-              "Kaliningrad": {
-                "exemplarCity": "Kaliningrad"
               },
               "Kiev": {
                 "exemplarCity": "Kiýew"
@@ -585,32 +470,19 @@
               "London": {
                 "long": {
                   "daylight": "Beýik Britaniýa tomusky wagty"
-                },
-                "exemplarCity": "London"
+                }
               },
               "Luxembourg": {
                 "exemplarCity": "Lýuksemburg"
               },
-              "Madrid": {
-                "exemplarCity": "Madrid"
-              },
-              "Malta": {
-                "exemplarCity": "Malta"
-              },
               "Mariehamn": {
                 "exemplarCity": "Mariýehamn"
-              },
-              "Minsk": {
-                "exemplarCity": "Minsk"
               },
               "Monaco": {
                 "exemplarCity": "Monako"
               },
               "Moscow": {
                 "exemplarCity": "Moskwa"
-              },
-              "Oslo": {
-                "exemplarCity": "Oslo"
               },
               "Paris": {
                 "exemplarCity": "Pariž"
@@ -621,14 +493,8 @@
               "Prague": {
                 "exemplarCity": "Praga"
               },
-              "Riga": {
-                "exemplarCity": "Riga"
-              },
               "Rome": {
                 "exemplarCity": "Rim"
-              },
-              "Samara": {
-                "exemplarCity": "Samara"
               },
               "San_Marino": {
                 "exemplarCity": "San-Marino"
@@ -638,9 +504,6 @@
               },
               "Saratov": {
                 "exemplarCity": "Saratow"
-              },
-              "Simferopol": {
-                "exemplarCity": "Simferopol"
               },
               "Skopje": {
                 "exemplarCity": "Skopýe"
@@ -660,9 +523,6 @@
               "Ulyanovsk": {
                 "exemplarCity": "Ulýanowsk"
               },
-              "Uzhgorod": {
-                "exemplarCity": "Užgorod"
-              },
               "Vaduz": {
                 "exemplarCity": "Waduz"
               },
@@ -680,12 +540,6 @@
               },
               "Warsaw": {
                 "exemplarCity": "Warşawa"
-              },
-              "Zagreb": {
-                "exemplarCity": "Zagreb"
-              },
-              "Zaporozhye": {
-                "exemplarCity": "Zaporožýe"
               },
               "Zurich": {
                 "exemplarCity": "Sýurih"
@@ -707,14 +561,8 @@
               "Asmera": {
                 "exemplarCity": "Asmara"
               },
-              "Bamako": {
-                "exemplarCity": "Bamako"
-              },
               "Bangui": {
                 "exemplarCity": "Bangi"
-              },
-              "Banjul": {
-                "exemplarCity": "Banjul"
               },
               "Bissau": {
                 "exemplarCity": "Bisau"
@@ -724,9 +572,6 @@
               },
               "Brazzaville": {
                 "exemplarCity": "Brazzawil"
-              },
-              "Bujumbura": {
-                "exemplarCity": "Bujumbura"
               },
               "Cairo": {
                 "exemplarCity": "Kair"
@@ -739,9 +584,6 @@
               },
               "Conakry": {
                 "exemplarCity": "Konakri"
-              },
-              "Dakar": {
-                "exemplarCity": "Dakar"
               },
               "Dar_es_Salaam": {
                 "exemplarCity": "Dar-es-Salam"
@@ -758,59 +600,20 @@
               "Freetown": {
                 "exemplarCity": "Fritaun"
               },
-              "Gaborone": {
-                "exemplarCity": "Gaborone"
-              },
-              "Harare": {
-                "exemplarCity": "Harare"
-              },
               "Johannesburg": {
                 "exemplarCity": "Ýohannesburg"
-              },
-              "Juba": {
-                "exemplarCity": "Juba"
-              },
-              "Kampala": {
-                "exemplarCity": "Kampala"
               },
               "Khartoum": {
                 "exemplarCity": "Hartum"
               },
-              "Kigali": {
-                "exemplarCity": "Kigali"
-              },
               "Kinshasa": {
                 "exemplarCity": "Kinşasa"
-              },
-              "Lagos": {
-                "exemplarCity": "Lagos"
               },
               "Libreville": {
                 "exemplarCity": "Librewil"
               },
-              "Lome": {
-                "exemplarCity": "Lome"
-              },
-              "Luanda": {
-                "exemplarCity": "Luanda"
-              },
               "Lubumbashi": {
                 "exemplarCity": "Lubumbaşi"
-              },
-              "Lusaka": {
-                "exemplarCity": "Lusaka"
-              },
-              "Malabo": {
-                "exemplarCity": "Malabo"
-              },
-              "Maputo": {
-                "exemplarCity": "Maputo"
-              },
-              "Maseru": {
-                "exemplarCity": "Maseru"
-              },
-              "Mbabane": {
-                "exemplarCity": "Mbabane"
               },
               "Mogadishu": {
                 "exemplarCity": "Mogadişo"
@@ -839,29 +642,11 @@
               "Sao_Tome": {
                 "exemplarCity": "San-Tome"
               },
-              "Tripoli": {
-                "exemplarCity": "Tripoli"
-              },
-              "Tunis": {
-                "exemplarCity": "Tunis"
-              },
               "Windhoek": {
                 "exemplarCity": "Windhuk"
               }
             },
             "Asia": {
-              "Aden": {
-                "exemplarCity": "Aden"
-              },
-              "Almaty": {
-                "exemplarCity": "Almaty"
-              },
-              "Amman": {
-                "exemplarCity": "Amman"
-              },
-              "Anadyr": {
-                "exemplarCity": "Anadyr"
-              },
               "Aqtau": {
                 "exemplarCity": "Aktau"
               },
@@ -871,23 +656,11 @@
               "Ashgabat": {
                 "exemplarCity": "Aşgabat"
               },
-              "Atyrau": {
-                "exemplarCity": "Atyrau"
-              },
               "Baghdad": {
                 "exemplarCity": "Bagdat"
               },
               "Bahrain": {
                 "exemplarCity": "Bahreýn"
-              },
-              "Baku": {
-                "exemplarCity": "Baku"
-              },
-              "Bangkok": {
-                "exemplarCity": "Bangkok"
-              },
-              "Barnaul": {
-                "exemplarCity": "Barnaul"
               },
               "Beirut": {
                 "exemplarCity": "Beýrut"
@@ -904,9 +677,6 @@
               "Chita": {
                 "exemplarCity": "Çita"
               },
-              "Choibalsan": {
-                "exemplarCity": "Çoýbalsan"
-              },
               "Colombo": {
                 "exemplarCity": "Kolombo"
               },
@@ -916,20 +686,11 @@
               "Dhaka": {
                 "exemplarCity": "Dakka"
               },
-              "Dili": {
-                "exemplarCity": "Dili"
-              },
               "Dubai": {
                 "exemplarCity": "Dubaý"
               },
               "Dushanbe": {
                 "exemplarCity": "Duşanbe"
-              },
-              "Famagusta": {
-                "exemplarCity": "Famagusta"
-              },
-              "Gaza": {
-                "exemplarCity": "Gaza"
               },
               "Hebron": {
                 "exemplarCity": "Hewron"
@@ -940,20 +701,11 @@
               "Hovd": {
                 "exemplarCity": "Howd"
               },
-              "Irkutsk": {
-                "exemplarCity": "Irkutsk"
-              },
-              "Jakarta": {
-                "exemplarCity": "Jakarta"
-              },
               "Jayapura": {
                 "exemplarCity": "Jaýapura"
               },
               "Jerusalem": {
                 "exemplarCity": "Iýerusalim"
-              },
-              "Kabul": {
-                "exemplarCity": "Kabul"
               },
               "Kamchatka": {
                 "exemplarCity": "Kamçatka"
@@ -982,14 +734,8 @@
               "Macau": {
                 "exemplarCity": "Makao"
               },
-              "Magadan": {
-                "exemplarCity": "Magadan"
-              },
               "Makassar": {
                 "exemplarCity": "Makasar"
-              },
-              "Manila": {
-                "exemplarCity": "Manila"
               },
               "Muscat": {
                 "exemplarCity": "Maskat"
@@ -1003,17 +749,8 @@
               "Novosibirsk": {
                 "exemplarCity": "Nowosibirsk"
               },
-              "Omsk": {
-                "exemplarCity": "Omsk"
-              },
-              "Oral": {
-                "exemplarCity": "Oral"
-              },
               "Phnom_Penh": {
                 "exemplarCity": "Pnompen"
-              },
-              "Pontianak": {
-                "exemplarCity": "Pontianak"
               },
               "Pyongyang": {
                 "exemplarCity": "Phenýan"
@@ -1039,9 +776,6 @@
               "Sakhalin": {
                 "exemplarCity": "Sahalin"
               },
-              "Samarkand": {
-                "exemplarCity": "Samarkand"
-              },
               "Seoul": {
                 "exemplarCity": "Seul"
               },
@@ -1051,17 +785,11 @@
               "Singapore": {
                 "exemplarCity": "Singapur"
               },
-              "Srednekolymsk": {
-                "exemplarCity": "Srednekolymsk"
-              },
               "Taipei": {
                 "exemplarCity": "Taýbeý"
               },
               "Tashkent": {
                 "exemplarCity": "Taşkent"
-              },
-              "Tbilisi": {
-                "exemplarCity": "Tbilisi"
               },
               "Tehran": {
                 "exemplarCity": "Tähran"
@@ -1072,17 +800,11 @@
               "Tokyo": {
                 "exemplarCity": "Tokio"
               },
-              "Tomsk": {
-                "exemplarCity": "Tomsk"
-              },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulan-Bator"
               },
               "Urumqi": {
                 "exemplarCity": "Urumçi"
-              },
-              "Ust-Nera": {
-                "exemplarCity": "Ust-Nera"
               },
               "Vientiane": {
                 "exemplarCity": "Wýentýan"
@@ -1145,20 +867,8 @@
               "Broken_Hill": {
                 "exemplarCity": "Broken-Hil"
               },
-              "Currie": {
-                "exemplarCity": "Kerri"
-              },
-              "Darwin": {
-                "exemplarCity": "Darwin"
-              },
               "Eucla": {
                 "exemplarCity": "Ýukla"
-              },
-              "Hobart": {
-                "exemplarCity": "Hobart"
-              },
-              "Lindeman": {
-                "exemplarCity": "Lindeman"
               },
               "Lord_Howe": {
                 "exemplarCity": "Lord-Hau"
@@ -1174,9 +884,6 @@
               }
             },
             "Pacific": {
-              "Apia": {
-                "exemplarCity": "Apia"
-              },
               "Auckland": {
                 "exemplarCity": "Oklend"
               },
@@ -1189,20 +896,8 @@
               "Easter": {
                 "exemplarCity": "Pasha adasy"
               },
-              "Efate": {
-                "exemplarCity": "Efate"
-              },
               "Enderbury": {
                 "exemplarCity": "Enderberi"
-              },
-              "Fakaofo": {
-                "exemplarCity": "Fakaofo"
-              },
-              "Fiji": {
-                "exemplarCity": "Fiji"
-              },
-              "Funafuti": {
-                "exemplarCity": "Funafuti"
               },
               "Galapagos": {
                 "exemplarCity": "Galapagos adalary"
@@ -1213,20 +908,8 @@
               "Guadalcanal": {
                 "exemplarCity": "Gwadalkanal"
               },
-              "Guam": {
-                "exemplarCity": "Guam"
-              },
               "Honolulu": {
                 "exemplarCity": "Gonolulu"
-              },
-              "Johnston": {
-                "exemplarCity": "Jonston"
-              },
-              "Kanton": {
-                "exemplarCity": "Kanton"
-              },
-              "Kiritimati": {
-                "exemplarCity": "Kiritimati"
               },
               "Kosrae": {
                 "exemplarCity": "Kosraýe"
@@ -1234,32 +917,17 @@
               "Kwajalein": {
                 "exemplarCity": "Kwajaleýn"
               },
-              "Majuro": {
-                "exemplarCity": "Majuro"
-              },
               "Marquesas": {
                 "exemplarCity": "Markiz adalary"
               },
               "Midway": {
                 "exemplarCity": "Midueý"
               },
-              "Nauru": {
-                "exemplarCity": "Nauru"
-              },
-              "Niue": {
-                "exemplarCity": "Niue"
-              },
-              "Norfolk": {
-                "exemplarCity": "Norfolk"
-              },
               "Noumea": {
                 "exemplarCity": "Numea"
               },
               "Pago_Pago": {
                 "exemplarCity": "Pago-Pago"
-              },
-              "Palau": {
-                "exemplarCity": "Palau"
               },
               "Pitcairn": {
                 "exemplarCity": "Pitkern"
@@ -1270,20 +938,11 @@
               "Port_Moresby": {
                 "exemplarCity": "Port-Morsbi"
               },
-              "Rarotonga": {
-                "exemplarCity": "Rarotonga"
-              },
               "Saipan": {
                 "exemplarCity": "Saýpan"
               },
               "Tahiti": {
                 "exemplarCity": "Taiti"
-              },
-              "Tarawa": {
-                "exemplarCity": "Tarawa"
-              },
-              "Tongatapu": {
-                "exemplarCity": "Tongatapu"
               },
               "Truk": {
                 "exemplarCity": "Çuuk"
@@ -1318,9 +977,6 @@
               },
               "McMurdo": {
                 "exemplarCity": "Mak-Merdo"
-              },
-              "Palmer": {
-                "exemplarCity": "Palmer"
               },
               "Rothera": {
                 "exemplarCity": "Rotera"
@@ -1417,6 +1073,11 @@
                 "generic": "Demirgazyk Amerika Ýuwaş umman wagty",
                 "standard": "Demirgazyk Amerika Ýuwaş umman standart wagty",
                 "daylight": "Demirgazyk Amerika Ýuwaş umman tomusky wagty"
+              }
+            },
+            "Anadyr": {
+              "long": {
+                "generic": "Anadyr wagty"
               }
             },
             "Apia": {
@@ -1563,13 +1224,6 @@
                 "generic": "Hytaý wagty",
                 "standard": "Hytaý standart wagty",
                 "daylight": "Hytaý tomusky wagty"
-              }
-            },
-            "Choibalsan": {
-              "long": {
-                "generic": "Çoýbalsan wagty",
-                "standard": "Çoýbalsan standart wagty",
-                "daylight": "Çoýbalsan tomusky wagt"
               }
             },
             "Christmas": {
@@ -1810,6 +1464,16 @@
                 "daylight": "Ýaponiýa tomusky wagty"
               }
             },
+            "Kamchatka": {
+              "long": {
+                "generic": "Petropavlowsk-Kamçatskiý wagty"
+              }
+            },
+            "Kazakhstan": {
+              "long": {
+                "standard": "Gazagystan wagty"
+              }
+            },
             "Kazakhstan_Eastern": {
               "long": {
                 "standard": "Gündogar Gazagystan wagty"
@@ -1856,11 +1520,6 @@
                 "daylight": "Lord-Hau tomusky wagty"
               }
             },
-            "Macquarie": {
-              "long": {
-                "standard": "Makkuori adasy wagty"
-              }
-            },
             "Magadan": {
               "long": {
                 "generic": "Magadan wagty",
@@ -1898,13 +1557,6 @@
             "Mawson": {
               "long": {
                 "standard": "Mouson wagty"
-              }
-            },
-            "Mexico_Northwest": {
-              "long": {
-                "generic": "Demirgazyk-günbatar Meksika wagty",
-                "standard": "Demirgazyk-günbatar Meksika standart wagty",
-                "daylight": "Demirgazyk-günbatar Meksika tomusky wagty"
               }
             },
             "Mexico_Pacific": {
@@ -2077,6 +1729,11 @@
                 "generic": "Sahalin wagty",
                 "standard": "Sahalin standart wagty",
                 "daylight": "Sahalin tomusky wagty"
+              }
+            },
+            "Samara": {
+              "long": {
+                "generic": "Samara wagty"
               }
             },
             "Samoa": {

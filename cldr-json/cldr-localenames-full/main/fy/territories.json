@@ -2,9 +2,6 @@
   "main": {
     "fy": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "fy"
       },
       "localeDisplayNames": {
@@ -38,7 +35,6 @@
           "151": "East-Europa",
           "154": "Noard-Europa",
           "155": "West-Europa",
-          "202": "202",
           "419": "Latynsk-Amearika",
           "AC": "Ascension",
           "AD": "Andorra",
@@ -118,7 +114,6 @@
           "ES": "Spanje",
           "ET": "Ethiopië",
           "EU": "Europeeske Unie",
-          "EZ": "EZ",
           "FI": "Finlân",
           "FJ": "Fiji",
           "FK": "Falklâneilannen",
@@ -159,7 +154,6 @@
           "IL": "Israël",
           "IM": "Isle of Man",
           "IN": "India",
-          "IO": "Britse Gebieden yn de Indyske Oseaan",
           "IQ": "Irak",
           "IR": "Iran",
           "IS": "Yslân",
@@ -197,7 +191,6 @@
           "MF": "Saint-Martin",
           "MG": "Madeiaskar",
           "MH": "Marshalleilannen",
-          "MK": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Birma)",
           "MN": "Mongolië",
@@ -294,7 +287,6 @@
           "UA": "Oekraïne",
           "UG": "Oeganda",
           "UM": "Lyts ôflizzen eilannen fan de Ferienigde Staten",
-          "UN": "UN",
           "US": "Ferienigde Staten",
           "US-alt-short": "VS",
           "UY": "Uruguay",
@@ -308,8 +300,6 @@
           "VU": "Vanuatu",
           "WF": "Wallis en Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

@@ -2,9 +2,6 @@
   "main": {
     "gd": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "gd"
       },
       "delimiters": {

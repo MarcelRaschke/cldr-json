@@ -2,9 +2,6 @@
   "main": {
     "uz": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "uz"
       },
       "localeDisplayNames": {
@@ -160,6 +157,8 @@
           "IM": "Men oroli",
           "IN": "Hindiston",
           "IO": "Britaniyaning Hind okeanidagi hududi",
+          "IO-alt-biot": "Britaniyaning Hind okeanidagi hududi",
+          "IO-alt-chagos": "Britaniyaning Hind okeanidagi hududi",
           "IQ": "Iroq",
           "IR": "Eron",
           "IS": "Islandiya",

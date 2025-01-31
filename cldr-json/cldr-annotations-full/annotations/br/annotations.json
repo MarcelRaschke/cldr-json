@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "br"
     },
     "annotations": {
@@ -1214,8 +1211,7 @@
           "gouel",
           "lid",
           "Nedeleg",
-          "tad",
-          "Tad Nedeleg"
+          "tad"
         ],
         "tts": [
           "Tad Nedeleg"
@@ -1227,7 +1223,6 @@
           "gouel",
           "lid",
           "mamm",
-          "Mamm Nedeleg",
           "Nedeleg"
         ],
         "tts": [
@@ -2280,6 +2275,56 @@
         ],
         "tts": [
           "krogenn droellennek"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "krank",
+          "loen"
+        ],
+        "tts": [
+          "krank"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "biskennad",
+          "boued-mor",
+          "legestr",
+          "loen"
+        ],
+        "tts": [
+          "legestr"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "boued-mor",
+          "chevr",
+          "kresteneg",
+          "loen"
+        ],
+        "tts": [
+          "chevr"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "blotvil",
+          "boued",
+          "stivell"
+        ],
+        "tts": [
+          "stivell"
+        ]
+      },
+      "🦪": {
+        "default": [
+          "istr",
+          "perlez"
+        ],
+        "tts": [
+          "istr"
         ]
       },
       "🐌": {
@@ -3433,56 +3478,6 @@
         ],
         "tts": [
           "pouloud"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "krank",
-          "loen"
-        ],
-        "tts": [
-          "krank"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "biskennad",
-          "boued-mor",
-          "legestr",
-          "loen"
-        ],
-        "tts": [
-          "legestr"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "boued-mor",
-          "chevr",
-          "kresteneg",
-          "loen"
-        ],
-        "tts": [
-          "chevr"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "blotvil",
-          "boued",
-          "stivell"
-        ],
-        "tts": [
-          "stivell"
-        ]
-      },
-      "🦪": {
-        "default": [
-          "istr",
-          "perlez"
-        ],
-        "tts": [
-          "istr"
         ]
       },
       "🍦": {
@@ -9722,7 +9717,6 @@
       },
       "🅰": {
         "default": [
-          "a",
           "A",
           "bouton A",
           "bouton A (rumm-gwad)",
@@ -9734,7 +9728,6 @@
       },
       "🆎": {
         "default": [
-          "ab",
           "AB",
           "bouton AB",
           "bouton AB (rumm-gwad)",
@@ -9746,7 +9739,6 @@
       },
       "🅱": {
         "default": [
-          "b",
           "B",
           "bouton B",
           "bouton B (rumm-gwad)",
@@ -9759,7 +9751,6 @@
       "🆑": {
         "default": [
           "bouton Diverkañ",
-          "cl",
           "CL"
         ],
         "tts": [
@@ -9769,7 +9760,6 @@
       "🆒": {
         "default": [
           "bouton Cool",
-          "cool",
           "COOL"
         ],
         "tts": [
@@ -9779,7 +9769,6 @@
       "🆓": {
         "default": [
           "bouton Digoust",
-          "free",
           "FREE"
         ],
         "tts": [
@@ -9798,7 +9787,6 @@
       "🆔": {
         "default": [
           "bouton Anaouder",
-          "id",
           "ID"
         ],
         "tts": [
@@ -9808,7 +9796,6 @@
       "Ⓜ": {
         "default": [
           "kelcʼh",
-          "m",
           "M",
           "M kelcʼhiet"
         ],
@@ -9819,7 +9806,6 @@
       "🆕": {
         "default": [
           "bouton Nevez",
-          "new",
           "NEW"
         ],
         "tts": [
@@ -9830,7 +9816,6 @@
         "default": [
           "bouton O",
           "bouton O (rumm-gwad)",
-          "o",
           "O",
           "rumm-gwad"
         ],
@@ -9841,7 +9826,6 @@
       "🆗": {
         "default": [
           "bouton OK",
-          "ok",
           "OK"
         ],
         "tts": [
@@ -9861,7 +9845,6 @@
       "🆘": {
         "default": [
           "bouton SOS",
-          "sos",
           "SOS"
         ],
         "tts": [
@@ -9872,7 +9855,6 @@
         "default": [
           "bouton VS",
           "versus",
-          "vs",
           "VS"
         ],
         "tts": [

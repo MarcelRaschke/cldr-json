@@ -2,9 +2,6 @@
   "main": {
     "lag": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "lag"
       },
       "posix": {

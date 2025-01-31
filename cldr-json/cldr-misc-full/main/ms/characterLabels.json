@@ -2,9 +2,6 @@
   "main": {
     "ms": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ms"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — Keserasian",
         "enclosed": "{0} — Dikurung",
         "extended": "{0} — Dilanjutkan",
+        "facing-left": "{0} menghadap kiri",
+        "facing-right": "{0} menghadap kanan",
         "historic": "{0} — Bersejarah",
         "miscellaneous": "{0} — Pelbagai",
         "other": "{0} — Lain",

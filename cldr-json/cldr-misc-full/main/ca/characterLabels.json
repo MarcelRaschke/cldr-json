@@ -2,9 +2,6 @@
   "main": {
     "ca": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ca"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — compatibilitat",
         "enclosed": "{0} — inclosos",
         "extended": "{0} — ampliats",
+        "facing-left": "{0} que mira a l’esquerra",
+        "facing-right": "{0} que mira a la dreta",
         "historic": "{0} — històrics",
         "miscellaneous": "{0} — varis",
         "other": "{0} — altres",

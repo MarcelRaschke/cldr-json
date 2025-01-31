@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "ia"
     },
     "annotations": {
@@ -947,6 +944,14 @@
         ],
         "tts": [
           "bandiera: Insula Clipperton"
+        ]
+      },
+      "🇨🇶": {
+        "default": [
+          "bandiera"
+        ],
+        "tts": [
+          "bandiera: Sark"
         ]
       },
       "🇨🇷": {
@@ -2610,6 +2615,31 @@
           "moneta incognite"
         ]
       },
+      "֏": {
+        "tts": [
+          "dram armenie"
+        ]
+      },
+      "؋": {
+        "tts": [
+          "afghani"
+        ]
+      },
+      "৳": {
+        "tts": [
+          "taka bengalese"
+        ]
+      },
+      "฿": {
+        "tts": [
+          "baht thailandese"
+        ]
+      },
+      "៛": {
+        "tts": [
+          "riel cambodgian"
+        ]
+      },
       "₡": {
         "tts": [
           "colon costarican"
@@ -2618,6 +2648,26 @@
       "₦": {
         "tts": [
           "naira nigerian"
+        ]
+      },
+      "₪": {
+        "tts": [
+          "nove shekel israeli"
+        ]
+      },
+      "₫": {
+        "tts": [
+          "dong vietnamese"
+        ]
+      },
+      "₭": {
+        "tts": [
+          "kip laotian"
+        ]
+      },
+      "₮": {
+        "tts": [
+          "tugrik mongol"
         ]
       },
       "₲": {
@@ -2633,6 +2683,26 @@
       "₵": {
         "tts": [
           "cedi ghanese"
+        ]
+      },
+      "₸": {
+        "tts": [
+          "tenge kazakh"
+        ]
+      },
+      "₺": {
+        "tts": [
+          "lira turc"
+        ]
+      },
+      "₼": {
+        "tts": [
+          "manat azeri"
+        ]
+      },
+      "₾": {
+        "tts": [
+          "lari georgian"
         ]
       },
       "0⃣": {

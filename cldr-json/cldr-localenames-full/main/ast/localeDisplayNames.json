@@ -2,9 +2,6 @@
   "main": {
     "ast": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ast"
       },
       "localeDisplayNames": {
@@ -34,11 +31,6 @@
             "gregorian": "calendariu gregorianu",
             "hebrew": "calendariu hebréu",
             "indian": "calendariu nacional indiu",
-            "islamic": "calendariu islámicu",
-            "islamic-civil": "calendariu islámicu (tabular, época civil)",
-            "islamic-rgsa": "calendariu islámicu (Arabia Saudita, visual)",
-            "islamic-tbla": "calendariu islámicu (tabular, época astronómica)",
-            "islamic-umalqura": "calendariu islámicu (Umm al-Qura)",
             "iso8601": "calendariu ISO-8601",
             "japanese": "calendariu xaponés",
             "persian": "calendariu persa",
@@ -58,7 +50,6 @@
             "gb2312han": "orde de clasificación chinu simplificáu - GB2312",
             "phonebook": "orde de clasificación de llista telefónica",
             "pinyin": "orde de clasificación pinyin",
-            "reformed": "orde de clasificación reformáu",
             "search": "gueta xeneral",
             "searchjl": "gueta por consonante Hangul d’aniciu",
             "standard": "orde de clasificación estándar",
@@ -96,12 +87,9 @@
             "cham": "númberos cham",
             "cyrl": "númberos cirílicos",
             "deva": "númberos devanagari",
-            "diak": "diak",
             "ethi": "númberos etíopes",
             "fullwide": "númberos n’anchu completu",
             "geor": "númberos xeorxanos",
-            "gong": "gong",
-            "gonm": "gonm",
             "grek": "númberos griegos",
             "greklow": "númberos griegos en minúscules",
             "gujr": "númberos gujarati",
@@ -113,12 +101,10 @@
             "hantfin": "númberos chinos financieros tradicionales",
             "hebr": "númberos hebreos",
             "hmng": "númberos Pahawh Hmong",
-            "hmnp": "hmnp",
             "java": "númberos xavanesos",
             "jpan": "númberos xaponeses",
             "jpanfin": "númberos financieros xaponeses",
             "kali": "númberos Kayah Li",
-            "kawi": "kawi",
             "khmr": "numberación khmer",
             "knda": "numberación kannada",
             "lana": "numberación Tai Tham Hora",
@@ -140,12 +126,10 @@
             "mymr": "númberos de Myanmar",
             "mymrshan": "númberos Shan de Myanmar",
             "mymrtlng": "númberos Tai Laing de Myanmar",
-            "nagm": "nagm",
             "nkoo": "númberos N’Ko",
             "olck": "númberos Ol Chiki",
             "orya": "númberos odia",
             "osma": "númberos osmanya",
-            "rohg": "rohg",
             "roman": "númberos romanos",
             "romanlow": "númberos romanos en minúscules",
             "saur": "númberos saurashtra",
@@ -162,10 +146,8 @@
             "thai": "númberos tailandeses",
             "tibt": "númberos tibetanos",
             "tirh": "númberos tirhuta",
-            "tnsa": "tnsa",
             "vaii": "númberos vai",
-            "wara": "númberos Warang Citi",
-            "wcho": "wcho"
+            "wara": "númberos Warang Citi"
           }
         },
         "codePatterns": {

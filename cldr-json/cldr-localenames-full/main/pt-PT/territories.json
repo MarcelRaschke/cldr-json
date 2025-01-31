@@ -2,9 +2,6 @@
   "main": {
     "pt-PT": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "pt",
         "territory": "PT"
       },
@@ -161,6 +158,8 @@
           "IM": "Ilha de Man",
           "IN": "Índia",
           "IO": "Território Britânico do Oceano Índico",
+          "IO-alt-biot": "Território Britânico do Oceano Índico",
+          "IO-alt-chagos": "Arquipélago de Chagos",
           "IQ": "Iraque",
           "IR": "Irão",
           "IS": "Islândia",
@@ -287,7 +286,7 @@
           "TN": "Tunísia",
           "TO": "Tonga",
           "TR": "Turquia",
-          "TR-alt-variant": "Turquia",
+          "TR-alt-variant": "Türkiye",
           "TT": "Trindade e Tobago",
           "TV": "Tuvalu",
           "TW": "Taiwan",

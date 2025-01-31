@@ -2,9 +2,6 @@
   "main": {
     "en-CA": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "en",
         "territory": "CA"
       },
@@ -40,6 +37,12 @@
           "10p-24": {
             "unitPrefixPattern": "yocto{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "ronto{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "quecto{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "deca{0}"
           },
@@ -69,6 +72,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "yotta{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "ronna{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "quetta{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "kibi{0}"
@@ -847,6 +856,11 @@
             "unitPattern-count-one": "{0} knot",
             "unitPattern-count-other": "{0} knots"
           },
+          "speed-beaufort": {
+            "displayName": "Beaufort",
+            "unitPattern-count-one": "Beaufort {0}",
+            "unitPattern-count-other": "Beaufort {0}"
+          },
           "temperature-generic": {
             "displayName": "degree",
             "unitPattern-count-one": "{0} degree temperature",
@@ -1018,7 +1032,7 @@
             "unitPattern-count-other": "{0} barrels"
           },
           "volume-dessert-spoon": {
-            "displayName": "US dessertspoon",
+            "displayName": "dessert spoons",
             "unitPattern-count-one": "{0} US dessertspoon",
             "unitPattern-count-other": "{0} US dessertspoons"
           },
@@ -1051,6 +1065,27 @@
             "displayName": "quart",
             "unitPattern-count-one": "{0} quart",
             "unitPattern-count-other": "{0} quarts"
+          },
+          "pressure-gasoline-energy-density": {
+            "displayName": "of gasoline equivalent",
+            "unitPattern-count-one": "{0} of gasoline equivalent",
+            "unitPattern-count-other": "{0} of gasoline equivalent"
+          },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-one": "{0} light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "parts per billion",
+            "unitPattern-count-one": "{0} part per billion",
+            "unitPattern-count-other": "{0} parts per billion"
+          },
+          "duration-night": {
+            "displayName": "nights",
+            "unitPattern-count-one": "{0} night",
+            "unitPattern-count-other": "{0} nights",
+            "perUnitPattern": "{0} per night"
           },
           "coordinateUnit": {
             "displayName": "cardinal direction",
@@ -1091,6 +1126,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -1121,6 +1162,12 @@
           "10p24": {
             "unitPrefixPattern": "Y{0}"
           },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
+          },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
           },
@@ -1150,10 +1197,12 @@
           },
           "power2": {
             "compoundUnitPattern1": "{0}²",
+            "compoundUnitPattern1-count-one": "{0}²",
             "compoundUnitPattern1-count-other": "{0}²"
           },
           "power3": {
             "compoundUnitPattern1": "{0}³",
+            "compoundUnitPattern1-count-one": "{0}³",
             "compoundUnitPattern1-count-other": "{0}³"
           },
           "times": {
@@ -1265,7 +1314,7 @@
             "unitPattern-count-other": "{0} mmol/L"
           },
           "concentr-item": {
-            "displayName": "items",
+            "displayName": "item",
             "unitPattern-count-one": "{0} item",
             "unitPattern-count-other": "{0} items"
           },
@@ -1360,12 +1409,12 @@
             "unitPattern-count-other": "{0} kb"
           },
           "digital-byte": {
-            "displayName": "bytes",
+            "displayName": "byte",
             "unitPattern-count-one": "{0} byte",
             "unitPattern-count-other": "{0} bytes"
           },
           "digital-bit": {
-            "displayName": "bits",
+            "displayName": "bit",
             "unitPattern-count-one": "{0} bit",
             "unitPattern-count-other": "{0} bits"
           },
@@ -1478,7 +1527,7 @@
             "unitPattern-count-other": "{0} Cal"
           },
           "energy-kilojoule": {
-            "displayName": "kilojoules",
+            "displayName": "kilojoule",
             "unitPattern-count-one": "{0} kJ",
             "unitPattern-count-other": "{0} kJ"
           },
@@ -1488,12 +1537,12 @@
             "unitPattern-count-other": "{0} J"
           },
           "energy-kilowatt-hour": {
-            "displayName": "kW-hours",
+            "displayName": "kW-hour",
             "unitPattern-count-one": "{0} kWh",
             "unitPattern-count-other": "{0} kWh"
           },
           "energy-electronvolt": {
-            "displayName": "electronvolts",
+            "displayName": "electronvolt",
             "unitPattern-count-one": "{0} eV",
             "unitPattern-count-other": "{0} eV"
           },
@@ -1503,7 +1552,7 @@
             "unitPattern-count-other": "{0} Btu"
           },
           "energy-therm-us": {
-            "displayName": "US therms",
+            "displayName": "US therm",
             "unitPattern-count-one": "{0} US therm",
             "unitPattern-count-other": "{0} US therms"
           },
@@ -1578,11 +1627,13 @@
             "unitPattern-count-other": "{0} dpi"
           },
           "graphics-dot": {
+            "displayName": "dots",
             "unitPattern-count-one": "{0} dot",
             "unitPattern-count-other": "{0} dots"
           },
           "length-earth-radius": {
-            "displayName": "R⊕",
+            "displayName": "earth radius",
+            "unitPattern-count-one": "{0} R⊕",
             "unitPattern-count-other": "{0} R⊕"
           },
           "length-kilometer": {
@@ -1701,11 +1752,13 @@
             "unitPattern-count-other": "{0} lx"
           },
           "light-candela": {
-            "displayName": "cd",
+            "displayName": "candela",
+            "unitPattern-count-one": "{0} cd",
             "unitPattern-count-other": "{0} cd"
           },
           "light-lumen": {
-            "displayName": "lm",
+            "displayName": "lumen",
+            "unitPattern-count-one": "{0} lm",
             "unitPattern-count-other": "{0} lm"
           },
           "light-solar-luminosity": {
@@ -1833,14 +1886,14 @@
             "unitPattern-count-other": "{0} psi"
           },
           "pressure-inch-ofhg": {
-            "displayName": "in Hg",
-            "unitPattern-count-one": "{0} in Hg",
-            "unitPattern-count-other": "{0} in Hg"
+            "displayName": "inHg",
+            "unitPattern-count-one": "{0} inHg",
+            "unitPattern-count-other": "{0} inHg"
           },
           "pressure-bar": {
             "displayName": "bars",
             "unitPattern-count-one": "{0} bar",
-            "unitPattern-count-other": "{0} bars"
+            "unitPattern-count-other": "{0} bar"
           },
           "pressure-millibar": {
             "displayName": "mbar",
@@ -1892,8 +1945,14 @@
             "unitPattern-count-one": "{0} kn",
             "unitPattern-count-other": "{0} kn"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-one": "B {0}",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "deg",
+            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
@@ -2062,9 +2121,9 @@
             "unitPattern-count-other": "{0} bbl"
           },
           "volume-dessert-spoon": {
-            "displayName": "US dssp",
-            "unitPattern-count-one": "{0} US dssp",
-            "unitPattern-count-other": "{0} US dssp"
+            "displayName": "dessert spoons",
+            "unitPattern-count-one": "{0} dsp",
+            "unitPattern-count-other": "{0} dsp"
           },
           "volume-dessert-spoon-imperial": {
             "displayName": "dssp",
@@ -2095,6 +2154,27 @@
             "displayName": "qt",
             "unitPattern-count-one": "{0} qt",
             "unitPattern-count-other": "{0} qt"
+          },
+          "pressure-gasoline-energy-density": {
+            "displayName": "gas-equiv",
+            "unitPattern-count-one": "{0} gas-equiv",
+            "unitPattern-count-other": "{0} gas-equiv"
+          },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-one": "{0} light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "parts/billion",
+            "unitPattern-count-one": "{0} ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "nights",
+            "unitPattern-count-one": "{0} night",
+            "unitPattern-count-other": "{0} nights",
+            "perUnitPattern": "{0}/night"
           },
           "coordinateUnit": {
             "displayName": "direction",
@@ -2135,6 +2215,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -2165,6 +2251,12 @@
           "10p24": {
             "unitPrefixPattern": "Y{0}"
           },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
+          },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
           },
@@ -2194,10 +2286,12 @@
           },
           "power2": {
             "compoundUnitPattern1": "{0}²",
+            "compoundUnitPattern1-count-one": "{0}²",
             "compoundUnitPattern1-count-other": "{0}²"
           },
           "power3": {
             "compoundUnitPattern1": "{0}³",
+            "compoundUnitPattern1-count-one": "{0}³",
             "compoundUnitPattern1-count-other": "{0}³"
           },
           "times": {
@@ -2497,7 +2591,7 @@
             "unitPattern-count-other": "{0}mA"
           },
           "electric-ohm": {
-            "displayName": "Ω",
+            "displayName": "ohm",
             "unitPattern-count-one": "{0}Ω",
             "unitPattern-count-other": "{0}Ω"
           },
@@ -2888,7 +2982,7 @@
           "pressure-bar": {
             "displayName": "bar",
             "unitPattern-count-one": "{0}bar",
-            "unitPattern-count-other": "{0}bars"
+            "unitPattern-count-other": "{0}bar"
           },
           "pressure-millibar": {
             "displayName": "mbar",
@@ -2940,8 +3034,14 @@
             "unitPattern-count-one": "{0}kn",
             "unitPattern-count-other": "{0}kn"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-one": "B{0}",
+            "unitPattern-count-other": "B{0}"
+          },
           "temperature-generic": {
             "displayName": "deg",
+            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
@@ -3110,9 +3210,9 @@
             "unitPattern-count-other": "{0}bbl"
           },
           "volume-dessert-spoon": {
-            "displayName": "US dsp",
-            "unitPattern-count-one": "{0}USdsp",
-            "unitPattern-count-other": "{0}USdsp"
+            "displayName": "dsp",
+            "unitPattern-count-one": "{0}dsp",
+            "unitPattern-count-other": "{0}dsp"
           },
           "volume-dessert-spoon-imperial": {
             "displayName": "dsp",
@@ -3143,6 +3243,27 @@
             "displayName": "qt",
             "unitPattern-count-one": "{0}qt",
             "unitPattern-count-other": "{0}qt"
+          },
+          "pressure-gasoline-energy-density": {
+            "displayName": "gas-equiv",
+            "unitPattern-count-one": "{0}gas-equiv",
+            "unitPattern-count-other": "{0}gas-equiv"
+          },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-one": "{0}light",
+            "unitPattern-count-other": "{0}light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-one": "{0}ppb",
+            "unitPattern-count-other": "{0}ppb"
+          },
+          "duration-night": {
+            "displayName": "nights",
+            "unitPattern-count-one": "{0}night",
+            "unitPattern-count-other": "{0}nights",
+            "perUnitPattern": "{0}/night"
           },
           "coordinateUnit": {
             "displayName": "direction",

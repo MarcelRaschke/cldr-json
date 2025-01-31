@@ -2,9 +2,6 @@
   "main": {
     "tr": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "tr"
       },
       "listPatterns": {

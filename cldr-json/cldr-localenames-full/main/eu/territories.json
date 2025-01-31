@@ -2,9 +2,6 @@
   "main": {
     "eu": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "eu"
       },
       "localeDisplayNames": {
@@ -160,6 +157,8 @@
           "IM": "Man uhartea",
           "IN": "India",
           "IO": "Indiako Ozeanoko lurralde britainiarra",
+          "IO-alt-biot": "Indiako Ozeanoko lurralde britainiarra",
+          "IO-alt-chagos": "Txagos uhartedia",
           "IQ": "Irak",
           "IR": "Iran",
           "IS": "Islandia",

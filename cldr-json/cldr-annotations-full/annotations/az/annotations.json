@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "az"
     },
     "annotations": {
@@ -3242,6 +3239,7 @@
           "açıq",
           "açıq ağızla gülən üz",
           "ağız",
+          "ağzıaçıq gülən üz",
           "təbəssüm",
           "üz"
         ],
@@ -3255,8 +3253,10 @@
           "açıq ağız və gülən gözlərlə gülən üz",
           "ağız",
           "göz",
+          "gülüş",
           "təbəssüm",
-          "üz"
+          "üz",
+          "xoşbəxt"
         ],
         "tts": [
           "açıq ağız və gülən gözlərlə gülən üz"
@@ -3264,6 +3264,7 @@
       },
       "😁": {
         "default": [
+          "dişini ağardaraq gülən üz",
           "göz",
           "gülən gözlərlə gülən üz",
           "gülmək",
@@ -3279,9 +3280,12 @@
           "açıq",
           "açıq ağız və bərk yumulmuş gözlərlə gülən üz",
           "ağız",
+          "gülümsəmə",
           "gülüş",
+          "hahahah",
           "məmnun",
           "təbəssüm",
+          "ürəkdən gülən üz",
           "üz"
         ],
         "tts": [
@@ -3292,6 +3296,7 @@
         "default": [
           "açıq",
           "açıq ağız və soyuq tərlə gülən üz",
+          "gülmək",
           "soyuq",
           "təbəssüm",
           "tər",
@@ -3306,6 +3311,8 @@
           "diyirlənən",
           "gülməkdən nəfəsi kəsilmək",
           "gülüş",
+          "hahahah",
+          "şən",
           "üz",
           "yer"
         ],
@@ -3315,8 +3322,11 @@
       },
       "😂": {
         "default": [
+          "ahahahah",
           "göz yaşı",
+          "gülməkdən gözü yaşaran üz",
           "gülüş",
+          "hahahah",
           "sevinc",
           "sevinc göz yaşları olan üz",
           "üz"
@@ -3327,6 +3337,8 @@
       },
       "🙂": {
         "default": [
+          "incə şəkildə gülümsəyən üz",
+          "nəzakətlə gülümsəyən üz",
           "təbəssüm",
           "üz",
           "yüngülcə gülümsəyən üz"
@@ -3347,9 +3359,18 @@
       },
       "🫠": {
         "default": [
+          "çaşqın",
           "əridir",
+          "ərimək",
+          "əriyən",
           "əriyən üz",
+          "haha",
           "həll",
+          "istehza",
+          "istehzalı",
+          "isti",
+          "istilik",
+          "lol",
           "maye",
           "yox olmaq"
         ],
@@ -3359,8 +3380,10 @@
       },
       "😉": {
         "default": [
+          "cəzbedici",
           "göz vuran üz",
           "göz vurmaq",
+          "sataşmaq",
           "üz"
         ],
         "tts": [
@@ -3372,7 +3395,9 @@
           "göz",
           "gülən gözlərlə gülümsəyən üz",
           "təbəssüm",
+          "utancaq üz",
           "utanma",
+          "utanmaq",
           "üz"
         ],
         "tts": [
@@ -3383,9 +3408,12 @@
         "default": [
           "başında halə gülmsəyən üz",
           "fantastika",
+          "günahsız üz ifadəsi",
           "halə",
           "mələk",
-          "məsum"
+          "mələk emojisi",
+          "məsum",
+          "sakit üz"
         ],
         "tts": [
           "başında halə gülmsəyən üz"
@@ -3396,6 +3424,7 @@
           "3 ürəkli təbəssümlü üz",
           "aşiqlik",
           "sevgi",
+          "səni sevirəm",
           "vurulmaq"
         ],
         "tts": [
@@ -3418,7 +3447,9 @@
       "🤩": {
         "default": [
           "gözlər",
+          "gözündən ulduz çıxan üz",
           "gülən",
+          "sevincli üz",
           "ulduz",
           "ulduza heyranlıq",
           "üz"
@@ -3431,6 +3462,7 @@
         "default": [
           "öpüş",
           "öpüş göndərən üz",
+          "sevgi işarəsi",
           "ürək",
           "üz"
         ],
@@ -3465,7 +3497,9 @@
           "bağlı",
           "bağlı gözlərlə öpən üz",
           "göz",
+          "gözləri bağlı öpən üz",
           "öpüş",
+          "utancaq üz",
           "üz"
         ],
         "tts": [
@@ -3486,12 +3520,16 @@
       },
       "🥲": {
         "default": [
+          "ağrı",
           "göz yaşı",
           "göz yaşları ilə gülümsəyən üz",
           "gülümsəyir",
           "həyəcanlı",
           "lovğa",
           "məmnun",
+          "qürurlu",
+          "sevincli",
+          "xoşbəxt",
           "yüngül"
         ],
         "tts": [
@@ -3516,6 +3554,9 @@
         "default": [
           "dil",
           "dilini çıxarmış üz",
+          "dilini çıxartmış üz",
+          "möhtəşəm",
+          "şirin",
           "üz"
         ],
         "tts": [
@@ -3539,6 +3580,7 @@
         "default": [
           "böyük",
           "dəcəl üz",
+          "dəcəl üz ifadəsi",
           "göz",
           "kiçik"
         ],
@@ -3552,6 +3594,7 @@
           "dil",
           "dilini çıxarmış və gözlərini möhkəm bağlamış üz",
           "göz",
+          "gözlərini bağlamış və dilini çıxarmış emoji",
           "qorxulu",
           "üz"
         ],
@@ -3564,6 +3607,7 @@
           "ağız",
           "ağzı pul olan üz",
           "pul",
+          "pulu çox sevən üz",
           "üz"
         ],
         "tts": [
@@ -3584,6 +3628,8 @@
       "🤭": {
         "default": [
           "ağzını əli ilə örtmüş üz",
+          "gözlənilməz sürpriz",
+          "təəccüblü üz",
           "vay"
         ],
         "tts": [
@@ -3594,9 +3640,13 @@
         "default": [
           "açıq gözlü üz və ağzı tutmuş əl",
           "heyrət",
+          "heyrətlənmək",
+          "ilahi",
           "inamsızlıq",
+          "nəfəsini tutmaq",
           "qorxu",
           "qorxuram",
+          "sakit",
           "sürpriz",
           "xəcalətli"
         ],
@@ -3609,7 +3659,14 @@
           "baxan gözlə üz",
           "baxış",
           "biip",
-          "əsir"
+          "əsir",
+          "gizlənmək",
+          "gizli",
+          "oğrun baxış",
+          "oğrun baxmaq",
+          "qorxmaq",
+          "utancaq",
+          "utandırmaq"
         ],
         "tts": [
           "baxan gözlə üz"
@@ -3617,7 +3674,9 @@
       },
       "🤫": {
         "default": [
+          "\"sakit ol\" işarəsi",
           "sakit",
+          "susmaq",
           "tərpənən",
           "tərpənən sifət"
         ],
@@ -3629,6 +3688,7 @@
         "default": [
           "düşünən üz",
           "düşünür",
+          "fikrə getmiş emoji",
           "üz"
         ],
         "tts": [
@@ -3638,11 +3698,16 @@
       "🫡": {
         "default": [
           "bəli",
+          "bəli cənab",
+          "bəli xanım",
           "günəşli",
+          "hörmət",
           "qoşunlar",
           "salam",
+          "salamlama",
           "salamlayan üz",
-          "tamam"
+          "tamam",
+          "uğurlar"
         ],
         "tts": [
           "salamlayan üz"
@@ -3652,6 +3717,8 @@
         "default": [
           "ağız",
           "ağzı bağlanmış üz",
+          "sakit qalmaq işarəsi",
+          "səs çıxarmamaq işarəsi",
           "üz",
           "zəncirbənd"
         ],
@@ -3663,7 +3730,8 @@
         "default": [
           "inamsız",
           "qaşları qalxmış üz",
-          "skeptik"
+          "skeptik",
+          "təəccüblənmiş üz"
         ],
         "tts": [
           "qaşları qalxmış üz"
@@ -3672,6 +3740,8 @@
       "😐": {
         "default": [
           "neytral",
+          "neytral üz ifadəsi",
+          "sıxılan üz",
           "soyuqqanlı",
           "üz"
         ],
@@ -3683,8 +3753,10 @@
         "default": [
           "donuq",
           "durğun",
+          "durğun üz ifadəsi",
           "ifadəsiz",
-          "üz"
+          "üz",
+          "vecsiz üz ifadəsi"
         ],
         "tts": [
           "ifadəsiz üz"
@@ -3694,8 +3766,11 @@
         "default": [
           "ağız",
           "ağızsız üz",
+          "ağzı olmayan emoji",
+          "danışmayan",
           "sakit",
           "səssiz",
+          "susmuş üz",
           "üz"
         ],
         "tts": [
@@ -3704,11 +3779,15 @@
       },
       "🫥": {
         "default": [
+          "darıxmış",
           "depressiya",
           "gizlət",
+          "gizli",
           "görünməz",
           "introvert",
+          "kefsiz",
           "nöqtəli xətli üz",
+          "sıxılmış",
           "yox olmaq"
         ],
         "tts": [
@@ -3727,8 +3806,11 @@
       },
       "😏": {
         "default": [
+          "ağzını büzən üz",
           "özündən razı gülümsəmək",
           "özündən razı gülümsəyən üz",
+          "özündənrazı üz",
+          "şübhəli üz",
           "üz"
         ],
         "tts": [
@@ -3737,6 +3819,7 @@
       },
       "😒": {
         "default": [
+          "darıxdırıcı üz ifadəsi",
           "kefsiz",
           "narazı",
           "üz"
@@ -3747,9 +3830,12 @@
       },
       "🙄": {
         "default": [
+          "düşünən üz ifadəsi",
           "fırlatmaq",
           "göz",
+          "gözləri yuxarı baxan emoji",
           "gözlərini fırladan üz",
+          "uff",
           "üz"
         ],
         "tts": [
@@ -3758,6 +3844,7 @@
       },
       "😬": {
         "default": [
+          "dişini ağardıb gülən üz",
           "üz",
           "üz-gözünü turşudan üz",
           "üz-gözünü turşutmaq"
@@ -3771,7 +3858,8 @@
           "ciyərəçəkmə",
           "nəfəs alan üz",
           "nəfəsalma",
-          "pıçıldama"
+          "pıçıldama",
+          "yorğun üz"
         ],
         "tts": [
           "nəfəs alan üz"
@@ -3789,9 +3877,12 @@
       },
       "🫨": {
         "default": [
+          "aman tanrım",
+          "həyəcan",
           "silkələmək",
           "silkələnən üz",
           "şok",
+          "sürpriz",
           "titrəmək",
           "üz",
           "zəlzələ"
@@ -3800,11 +3891,34 @@
           "silkələnən üz"
         ]
       },
+      "🙂‍↔": {
+        "default": [
+          "başı üfüqi silkələmək",
+          "silkələmək",
+          "yox"
+        ],
+        "tts": [
+          "başı üfüqi silkələmək"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "başı şaquli silkələmək",
+          "hə",
+          "silkələmək"
+        ],
+        "tts": [
+          "başı şaquli silkələmək"
+        ]
+      },
       "😌": {
         "default": [
           "rahat üz",
+          "rahatlıq",
+          "sakitlik",
           "üz",
-          "yüngülləşmiş"
+          "yüngülləşmiş",
+          "yüngülləşmiş üz ifadəsi"
         ],
         "tts": [
           "rahat üz"
@@ -3814,6 +3928,7 @@
         "default": [
           "fikirli",
           "məyus",
+          "qəmgin üz",
           "üz"
         ],
         "tts": [
@@ -3822,8 +3937,11 @@
       },
       "😪": {
         "default": [
+          "kədərli üz",
+          "qəmgin üz",
           "üz",
           "yatmaq",
+          "yorğun üz",
           "yuxulu üz"
         ],
         "tts": [
@@ -3834,6 +3952,7 @@
         "default": [
           "ağız",
           "ağız sulanan üz",
+          "ağzı sulanan üz",
           "sulanmaq",
           "üz"
         ],
@@ -3843,24 +3962,48 @@
       },
       "😴": {
         "default": [
+          "çarpayı",
           "üz",
+          "yatan adam emojisi",
           "yatan üz",
           "yatmaq",
+          "yorğun üz",
+          "yuxulu üz",
           "zzz"
         ],
         "tts": [
           "yatan üz"
         ]
       },
+      "🫩": {
+        "default": [
+          "çox yorğun",
+          "darıxan",
+          "gecikmiş",
+          "gözlər",
+          "haldan düşmüş",
+          "heydən düşmüş",
+          "torbalar",
+          "üz",
+          "yorğun",
+          "yuxulu"
+        ],
+        "tts": [
+          "altı torbalanmış gözləri olan üz"
+        ]
+      },
       "😷": {
         "default": [
+          "diş həkimi",
           "həkim",
           "maska",
           "naxoş",
           "soyuq",
           "tibb",
+          "tibbi maska taxmış üz",
           "tibbi maskalı üz",
-          "üz"
+          "üz",
+          "xəstə"
         ],
         "tts": [
           "tibbi maskalı üz"
@@ -3880,7 +4023,9 @@
       },
       "🤕": {
         "default": [
+          "ağrımaq",
           "baş sarğılı üz",
+          "başı sarğılı üz",
           "sarğı",
           "üz",
           "xəsarət",
@@ -3894,6 +4039,7 @@
         "default": [
           "iyrənən üz",
           "iyrənmək",
+          "ürəyi bulanan üz",
           "üz"
         ],
         "tts": [
@@ -3902,6 +4048,9 @@
       },
       "🤮": {
         "default": [
+          "öyümək",
+          "qaytaran üz",
+          "qusan emoji",
           "qusan üz",
           "qusmaq",
           "xəstə"
@@ -3916,7 +4065,8 @@
           "asqırmaq",
           "qrip",
           "sifət",
-          "üz"
+          "üz",
+          "xəstə"
         ],
         "tts": [
           "asqıran üz"
@@ -3924,6 +4074,7 @@
       },
       "🥵": {
         "default": [
+          "dil çıxaran emoji",
           "hot",
           "istivurma",
           "pörtləmiş üz",
@@ -3938,10 +4089,13 @@
       "🥶": {
         "default": [
           "buz",
+          "buz bağlamış adam emojisi",
+          "dişlərini qıcayan üz",
           "donmuş",
           "donmuş üz",
           "donvurma",
           "göy üz",
+          "şaxta",
           "soyuq"
         ],
         "tts": [
@@ -3955,7 +4109,8 @@
           "əyri ağız",
           "gicəllənən",
           "gicəllənən üz",
-          "sərxoş"
+          "sərxoş",
+          "sərxoş adam emojisi"
         ],
         "tts": [
           "gicəllənən üz"
@@ -3985,8 +4140,10 @@
       },
       "🤯": {
         "default": [
+          "beyni partlayan adam emojisi",
           "partlayan baş",
-          "şoka düşmüş"
+          "şoka düşmüş",
+          "şokda olan adam emojisi"
         ],
         "tts": [
           "partlayan baş"
@@ -3994,6 +4151,7 @@
       },
       "🤠": {
         "default": [
+          "kauboy",
           "papaqlı",
           "papaqlı qaqaş üzü",
           "qaqaş",
@@ -4006,7 +4164,9 @@
       "🥳": {
         "default": [
           "bayram etmək",
+          "bayram qeyd edən üz",
           "buynuz",
+          "doğum günü",
           "papaq",
           "parti",
           "parti edən üz"
@@ -4017,11 +4177,15 @@
       },
       "🥸": {
         "default": [
+          "bığ",
           "burun",
+          "casus",
           "eynəklər",
           "inkoqnito",
+          "insan",
           "maskalama",
           "maskalanmış üz",
+          "qaşlar",
           "üz"
         ],
         "tts": [
@@ -4034,7 +4198,10 @@
           "göz",
           "gün eynəyi",
           "gün eynəyi ilə gülən üz",
-          "günəş"
+          "günəş",
+          "özündənrazı üz",
+          "qalib gəlmiş üz",
+          "soyuqqanlı mimika"
         ],
         "tts": [
           "gün eynəyi ilə gülən üz"
@@ -4042,8 +4209,14 @@
       },
       "🤓": {
         "default": [
+          "ağıllı",
           "axmaq",
+          "dərrakəli",
+          "eynək",
+          "fərasətli",
           "gicbəsər",
+          "istedadlı",
+          "mütəxəssis",
           "üz"
         ],
         "tts": [
@@ -4052,8 +4225,10 @@
       },
       "🧐": {
         "default": [
+          "bir gözü sarğılı üz",
           "monokllu üz",
-          "stuffy"
+          "stuffy",
+          "varlı adam emojisi"
         ],
         "tts": [
           "monokllu üz"
@@ -4062,6 +4237,8 @@
       "😕": {
         "default": [
           "çaşqın",
+          "əmin olmayan adam emojisi",
+          "təəssüfedici ifadə",
           "üz"
         ],
         "tts": [
@@ -4070,11 +4247,18 @@
       },
       "🫤": {
         "default": [
+          "darıxmış",
           "diaqonal ağızlı üz",
+          "karıxma",
+          "karıxmaq",
           "meh",
           "məyus",
+          "məyus olmaq",
           "qeyri-əmin",
-          "skeptik"
+          "sıxılmış",
+          "skeptik",
+          "şübhə",
+          "şübhəli"
         ],
         "tts": [
           "diaqonal ağızlı üz"
@@ -4082,6 +4266,7 @@
       },
       "😟": {
         "default": [
+          "məyus üz emojisi",
           "narahat",
           "üz"
         ],
@@ -4092,7 +4277,10 @@
       "🙁": {
         "default": [
           "bir az qaşqabaqlı üz",
+          "narazı sifət",
+          "qaşqabağını tökmək",
           "qaşqabaqlı",
+          "qəmgin üz",
           "üz"
         ],
         "tts": [
@@ -4102,6 +4290,7 @@
       "☹": {
         "default": [
           "qaşqabaqlı",
+          "qəmgin üz",
           "üz"
         ],
         "tts": [
@@ -4114,6 +4303,8 @@
           "ağız",
           "ağzı açıq üz",
           "simpatiya",
+          "şok keçirən üz",
+          "təəccüblü üz ifadəsi",
           "üz"
         ],
         "tts": [
@@ -4134,6 +4325,7 @@
       "😲": {
         "default": [
           "şoka düşmüş",
+          "şoka düşmüş üz",
           "tamamilə",
           "təəccüblənmiş",
           "üz"
@@ -4146,6 +4338,9 @@
         "default": [
           "karıxmış",
           "qızarmış",
+          "təəccüb ifadəsi",
+          "təəccüblə baxan üz",
+          "utanmış",
           "üz"
         ],
         "tts": [
@@ -4154,7 +4349,9 @@
       },
       "🥺": {
         "default": [
+          "iri gözlər",
           "mərhəmət",
+          "mərhəmət gözləyən üz",
           "nəm gözlər",
           "yalvaran üz",
           "yalvarış"
@@ -4167,10 +4364,18 @@
         "default": [
           "ağlamaq",
           "dolmuş gözləri olan üz",
+          "heyranlıq",
           "hirsli",
+          "hislər",
+          "məmnuniyyət",
+          "minnətdar",
           "müqavimət",
+          "qəmgin",
           "qəmli",
-          "qürurlu"
+          "qürurlu",
+          "sevinc göz yaşları",
+          "utanmaq",
+          "xoşlamaq"
         ],
         "tts": [
           "dolmuş gözləri olan üz"
@@ -4182,6 +4387,8 @@
           "ağız",
           "ağzı açıq qaşqabaqlı üz",
           "qaşqabaqlı",
+          "qorxmuş üz",
+          "ürkmüş üz",
           "üz"
         ],
         "tts": [
@@ -4191,6 +4398,8 @@
       "😧": {
         "default": [
           "kədərli",
+          "məyus üz",
+          "təəccüblü üz",
           "üz"
         ],
         "tts": [
@@ -4199,6 +4408,7 @@
       },
       "😨": {
         "default": [
+          "narahat",
           "qorxmuş üz",
           "qorxu",
           "qorxulu",
@@ -4215,7 +4425,10 @@
           "ağız",
           "ağzı açıq və soyuq tər olan üz",
           "mavi",
-          "soyuq"
+          "qəmgin üz",
+          "qorxmuş üz",
+          "soyuq",
+          "soyuq tər axıdan üz"
         ],
         "tts": [
           "ağzı açıq və soyuq tər olan üz"
@@ -4225,6 +4438,7 @@
         "default": [
           "hmm",
           "məyus lakin rahat üz",
+          "məyus lakin rahatlamış üz",
           "qəmli",
           "üz",
           "yüngülləşmiş"
@@ -4248,9 +4462,11 @@
       "😭": {
         "default": [
           "ağlamaq",
+          "ağlayan üz",
           "bərkdən ağlayan üz",
           "göz yaşı",
           "hönkürtü",
+          "kədərli",
           "qəmli",
           "üz"
         ],
@@ -4274,6 +4490,9 @@
       },
       "😖": {
         "default": [
+          "beyni qarışmış adam emojisi",
+          "çaşqın üz",
+          "usanmış üz",
           "utanan",
           "üz"
         ],
@@ -4283,7 +4502,9 @@
       },
       "😣": {
         "default": [
+          "baş ağrısı",
           "inadkar",
+          "inadkar adam emojisi",
           "üz"
         ],
         "tts": [
@@ -4292,6 +4513,7 @@
       },
       "😞": {
         "default": [
+          "günahkar üz",
           "məyus",
           "üz"
         ],
@@ -4301,9 +4523,13 @@
       },
       "😓": {
         "default": [
+          "baş ağrısı",
+          "əsəbi üz",
+          "kədərli",
           "soyuq",
           "soyuq tərli üz",
           "tər",
+          "tər axıdan üz",
           "üz"
         ],
         "tts": [
@@ -4312,6 +4538,7 @@
       },
       "😩": {
         "default": [
+          "ağlayan üz",
           "əzgin",
           "usanmış",
           "üz",
@@ -4323,6 +4550,9 @@
       },
       "😫": {
         "default": [
+          "ağlamaq",
+          "asqıran üz",
+          "kədərli üz",
           "üz",
           "yorğun"
         ],
@@ -4335,7 +4565,10 @@
           "bezmiş",
           "əsnəyən",
           "əsnəyən üz",
-          "yorğun"
+          "yorğun",
+          "yorğun üz",
+          "yuxu vaxtı",
+          "yuxulu üz"
         ],
         "tts": [
           "əsnəyən üz"
@@ -4344,7 +4577,9 @@
       "😤": {
         "default": [
           "burnundan tüstü çıxan üz",
+          "əsəbi üz",
           "qalib",
+          "qəzəbli üz",
           "üz",
           "zəfər"
         ],
@@ -4356,8 +4591,10 @@
         "default": [
           "acıq etmək",
           "acıqlı",
+          "əsəbi üz",
           "hirsli",
           "qəzəb",
+          "qəzəbli üz",
           "qırmızı",
           "üz"
         ],
@@ -4368,6 +4605,7 @@
       "😠": {
         "default": [
           "acıqlı",
+          "əsəbi üz",
           "hirsli",
           "üz"
         ],
@@ -4378,6 +4616,8 @@
       "🤬": {
         "default": [
           "ağızda simvolları olan üz",
+          "lənətləyən üz",
+          "söyən üz",
           "söymək"
         ],
         "tts": [
@@ -4387,9 +4627,13 @@
       "😈": {
         "default": [
           "buynuz",
+          "buynuz çıxararaq gülən şeytan",
           "buynuzlu gülən üz",
           "fantastika",
+          "mərdimazar",
           "nağıl",
+          "pisniyyətli",
+          "şeytan",
           "təbəssüm",
           "üz"
         ],
@@ -4399,6 +4643,7 @@
       },
       "👿": {
         "default": [
+          "buynuz çıxarmış şeytan",
           "fantastika",
           "iblis",
           "nağıl",
@@ -4436,11 +4681,13 @@
       },
       "💩": {
         "default": [
+          "iyrənc",
           "kakaşka",
           "komik",
           "monstr",
           "peyin",
           "pox",
+          "tullantı",
           "üz"
         ],
         "tts": [
@@ -4464,6 +4711,7 @@
           "məxluq",
           "monstr",
           "nağıl",
+          "şeytan",
           "üz",
           "yapon"
         ],
@@ -4473,7 +4721,9 @@
       },
       "👺": {
         "default": [
+          "əsəbi",
           "fantastika",
+          "maska",
           "məxluq",
           "monstr",
           "nağıl",
@@ -4535,6 +4785,7 @@
           "açıq",
           "ağız",
           "ağzı açıq gülən pişik üzü",
+          "dişlərini ağardaraq gülən pişik",
           "pişik",
           "təbəssüm",
           "üz"
@@ -4545,6 +4796,7 @@
       },
       "😸": {
         "default": [
+          "dişini ağardaraq gülən pişik",
           "dişini ağartmaq",
           "göz",
           "gözləri gülən dişini ağardan pişik üzü",
@@ -4559,8 +4811,10 @@
       "😹": {
         "default": [
           "göz yaşı",
+          "gülməkdən gözü yaşaran pişik",
           "pişik",
           "sevinc",
+          "sevinc göz yaşları axıdan pişik",
           "sevinc göz yaşları olan pişik üzü",
           "üz"
         ],
@@ -4584,8 +4838,10 @@
       },
       "😼": {
         "default": [
+          "dodağını büzmüş pişik",
           "əyri",
           "əyri-əyri gülən pişik üzü",
+          "kinayə ilə baxan pişik",
           "kinayəli",
           "pişik",
           "təbəssüm",
@@ -4599,6 +4855,7 @@
         "default": [
           "bağlı gözlərlə öpən pişik üzü",
           "göz",
+          "gözü bağlı öpüş göndərən pişik",
           "öpüş",
           "pişik",
           "üz"
@@ -4623,8 +4880,11 @@
       "😿": {
         "default": [
           "ağlamaq",
+          "ağlayan pişik",
           "ağlayan pişik üzü",
           "göz yaşı",
+          "göz yaşı axıtmaq",
+          "kədərli",
           "pişik",
           "qəmli",
           "üz"
@@ -4646,11 +4906,14 @@
       },
       "🙈": {
         "default": [
+          "aman allah",
           "baxmaq",
           "jest",
           "meymun",
+          "pis şeyləri görmürəm",
           "pisliyi görümürəm",
-          "qadağa"
+          "qadağa",
+          "utancaq meymun"
         ],
         "tts": [
           "pisliyi görümürəm"
@@ -4661,8 +4924,10 @@
           "eşitmək",
           "jest",
           "meymun",
+          "pis sözləri eşitmirəm",
           "pisliyi eşitmirəm",
-          "qadağa"
+          "qadağa",
+          "qulaqlarını bağlamış meymun"
         ],
         "tts": [
           "pisliyi eşitmirəm"
@@ -4670,10 +4935,12 @@
       },
       "🙊": {
         "default": [
+          "ağzını tutmuş meymun",
           "danışmaq",
           "jest",
           "meymun",
           "pis danışmıram",
+          "pis sözlər danışmıram",
           "qadağa"
         ],
         "tts": [
@@ -4709,6 +4976,7 @@
         "default": [
           "lent",
           "lentli ürək",
+          "sevgi",
           "ürək",
           "valentin"
         ],
@@ -4719,8 +4987,10 @@
       "💖": {
         "default": [
           "həyəcanlı",
+          "işıq saçan ürək",
           "qığılcım",
           "qığılcımlı ürək",
+          "sevgi",
           "ürək"
         ],
         "tts": [
@@ -4744,6 +5014,7 @@
         "default": [
           "döyünən ürək",
           "döyünmək",
+          "sevgi",
           "ürək",
           "ürək döyüntüsü"
         ],
@@ -4753,8 +5024,11 @@
       },
       "💞": {
         "default": [
+          "143",
           "fırlanan",
           "fırlanan ürəklr",
+          "iki ürək",
+          "mələk nömrəsi",
           "ürək"
         ],
         "tts": [
@@ -4763,6 +5037,7 @@
       },
       "💕": {
         "default": [
+          "hisslər",
           "iki ürək",
           "sevgi",
           "ürək"
@@ -4773,6 +5048,8 @@
       },
       "💟": {
         "default": [
+          "143",
+          "mələk nömrəsi",
           "ürək",
           "ürək bəzəyi"
         ],
@@ -4786,6 +5063,7 @@
           "işarə",
           "nida",
           "ürək",
+          "ürək formalı nida işarəsi",
           "ürək nida işarəsi ornamenti"
         ],
         "tts": [
@@ -4794,6 +5072,7 @@
       },
       "💔": {
         "default": [
+          "parçalanmış ürək",
           "sındırılmış",
           "sındırmaq",
           "sınmış ürək",
@@ -4831,6 +5110,7 @@
       "❤": {
         "default": [
           "qırmızı ürək",
+          "sevgi",
           "ürək"
         ],
         "tts": [
@@ -4840,10 +5120,12 @@
       "🩷": {
         "default": [
           "çəhrayı",
+          "emosiya",
           "sevgi",
           "şirin",
           "ürək",
-          "xoş"
+          "xoş",
+          "xoşlamaq"
         ],
         "tts": [
           "çəhrayı ürək"
@@ -4860,6 +5142,7 @@
       },
       "💛": {
         "default": [
+          "emosiya",
           "sarı",
           "ürək"
         ],
@@ -4889,9 +5172,13 @@
         "default": [
           "açıq mavi",
           "açıq mavi ürək",
+          "emosiya",
           "mavi",
           "ördəkbaşı",
-          "ürək"
+          "sevgi",
+          "səma mavisi",
+          "ürək",
+          "xoşlamaq"
         ],
         "tts": [
           "açıq mavi ürək"
@@ -4900,6 +5187,7 @@
       "💜": {
         "default": [
           "bənövşəyi",
+          "sevgi",
           "ürək"
         ],
         "tts": [
@@ -4931,8 +5219,10 @@
         "default": [
           "boz",
           "gümüş",
+          "sevgi",
           "şifer",
-          "ürək"
+          "ürək",
+          "xüsusi şəxs"
         ],
         "tts": [
           "boz ürək"
@@ -4965,7 +5255,9 @@
           "100",
           "hundqırmızı",
           "tam",
-          "xal"
+          "tam razılaşmaq",
+          "xal",
+          "yüz xal"
         ],
         "tts": [
           "100 xal"
@@ -4986,6 +5278,8 @@
         "default": [
           "bum",
           "komik",
+          "partlamaq",
+          "partlayış",
           "toqquşma"
         ],
         "tts": [
@@ -4996,6 +5290,8 @@
         "default": [
           "başgicəllənməsi",
           "komik",
+          "parıldamaq",
+          "parlaq ulduz",
           "ulduz"
         ],
         "tts": [
@@ -5006,6 +5302,8 @@
         "default": [
           "komik",
           "sıçramaq",
+          "su",
+          "su damcısı",
           "tər",
           "tər damcıları"
         ],
@@ -5026,7 +5324,8 @@
       },
       "🕳": {
         "default": [
-          "deşik"
+          "deşik",
+          "dəlik"
         ],
         "tts": [
           "deşik"
@@ -5034,6 +5333,7 @@
       },
       "💬": {
         "default": [
+          "danışmaq",
           "dialoq",
           "komik",
           "köpük",
@@ -5069,6 +5369,7 @@
       "🗯": {
         "default": [
           "acıqlı",
+          "əsəbi nitq şarı",
           "hirsli",
           "köpük",
           "sağ qəzəb şarı",
@@ -5080,8 +5381,12 @@
       },
       "💭": {
         "default": [
+          "bulud",
           "düşüncə",
           "düşüncə şarı",
+          "düşüncələrə qərq olmaq",
+          "fikirlər",
+          "ideyalar",
           "komik",
           "köpük",
           "şar"
@@ -5094,6 +5399,8 @@
         "default": [
           "komik",
           "yatmaq",
+          "yorğun",
+          "yuxulu",
           "zzz"
         ],
         "tts": [
@@ -5103,8 +5410,11 @@
       "👋": {
         "default": [
           "əl",
+          "əl sallamaq",
           "əl sallayan əllər",
           "orqan",
+          "sağ ol",
+          "sağollaşmaq işarəsi",
           "yelləmə",
           "yelləmək"
         ],
@@ -5130,7 +5440,8 @@
           "barmaq",
           "barmaqları aralı şəkildə qaldırılmış əl",
           "əl",
-          "orqan"
+          "orqan",
+          "stop"
         ],
         "tts": [
           "barmaqları aralı şəkildə qaldırılmış əl"
@@ -5138,7 +5449,11 @@
       },
       "✋": {
         "default": [
+          "beş",
           "əl",
+          "əl ilə salamlamaq",
+          "əl qaldırmaq",
+          "əl sallamaq",
           "orqan",
           "qaldırımış əl"
         ],
@@ -5153,7 +5468,8 @@
           "orqan",
           "spok",
           "vulkan",
-          "vulkan salamı"
+          "vulkan salamı",
+          "vulkan salamlaması"
         ],
         "tts": [
           "vulkan salamı"
@@ -5162,8 +5478,12 @@
       "🫱": {
         "default": [
           "əl",
+          "əl çatma",
+          "əl sıxma",
+          "əl sıxmaq",
           "sağ",
-          "sağa"
+          "sağa",
+          "tutmaq"
         ],
         "tts": [
           "sağ əl"
@@ -5172,8 +5492,12 @@
       "🫲": {
         "default": [
           "əl",
+          "əl çatma",
+          "əl sıxma",
+          "əl sıxmaq",
           "sol",
-          "sola"
+          "sola",
+          "tutmaq"
         ],
         "tts": [
           "sol əl"
@@ -5181,10 +5505,14 @@
       },
       "🫳": {
         "default": [
-          "aşağı əl",
+          "aşağı",
           "damla",
+          "düşmə",
+          "əl",
           "kənarlaşdırma",
-          "şu"
+          "seçmək",
+          "şu",
+          "tutmaq"
         ],
         "tts": [
           "aşağı əl"
@@ -5192,9 +5520,14 @@
       },
       "🫴": {
         "default": [
+          "bilmirəm",
+          "əl",
           "gəl",
           "işarə",
+          "mənə de",
+          "qaldırmaq",
           "təklif",
+          "tut",
           "tutmaq",
           "yuxarı əl"
         ],
@@ -5206,6 +5539,7 @@
         "default": [
           "beş vurmaq",
           "dayan",
+          "əl",
           "gözləmək",
           "imtina",
           "itələmək",
@@ -5232,9 +5566,11 @@
       },
       "👌": {
         "default": [
+          "anladım",
           "əl",
           "ok",
           "ok işarəsi",
+          "oldu",
           "orqan"
         ],
         "tts": [
@@ -5255,6 +5591,9 @@
       },
       "🤏": {
         "default": [
+          "barmaqlar",
+          "bir az",
+          "kiçik miqdar göstəricisi",
           "kiçik say",
           "sıxan əl"
         ],
@@ -5276,7 +5615,10 @@
       },
       "🤞": {
         "default": [
+          "əl",
           "inam",
+          "işarə",
+          "uğur diləmək jesti",
           "ümid",
           "ümid edirəm"
         ],
@@ -5286,7 +5628,9 @@
       },
       "🫰": {
         "default": [
+          "<3",
           "bahalı",
+          "əl",
           "əl barmağı və baş barmağı çarpazlanmış vəziyyətdə",
           "pul",
           "sevgi",
@@ -5313,7 +5657,10 @@
           "buynuzlar",
           "əl",
           "əla",
-          "orqan"
+          "keçibuynuzu işarəsi",
+          "orqan",
+          "rok",
+          "silkələmək"
         ],
         "tts": [
           "buynuz işarəsi"
@@ -5321,6 +5668,7 @@
       },
       "🤙": {
         "default": [
+          "\"mənə zəng et\" işarəsi",
           "əlaqə",
           "mənə zəng et",
           "telefon",
@@ -5337,7 +5685,9 @@
           "əl",
           "göstərmək",
           "işarə",
+          "işarə barmağı",
           "sol əl",
+          "sol tərəfi işarə edən barmaq",
           "solu göstərən sol əlin işarə barmağı"
         ],
         "tts": [
@@ -5350,6 +5700,8 @@
           "əl",
           "göstərmək",
           "işarə",
+          "işarə barmağı",
+          "sağı göstərən işarə",
           "sağı göstərən sol əlin işarə barmağı",
           "sol əl"
         ],
@@ -5365,6 +5717,7 @@
           "işarə",
           "sol əl",
           "yuxarı",
+          "yuxarını göstərən işarə barmağı",
           "yuxarını göstərən sol əlin işarə barmağı"
         ],
         "tts": [
@@ -5384,6 +5737,7 @@
       "👇": {
         "default": [
           "aşağı",
+          "aşağını göstərən işarə barmağı",
           "aşağını göstərən sol əlin işarə barmağı",
           "barmaq",
           "əl",
@@ -5410,7 +5764,10 @@
       },
       "🫵": {
         "default": [
+          "barmaq",
+          "əl",
           "işarə",
+          "işarə etmək",
           "sən",
           "tamaşaçıya işarə edən barmaq"
         ],
@@ -5420,10 +5777,14 @@
       },
       "👍": {
         "default": [
+          "afərin işarəsi",
           "baş barmaq",
           "baş barmaq yuxarı",
+          "bəyəndim işarəsi",
           "əl",
+          "əla işarəsi",
           "orqan",
+          "yaxşı işarəsi",
           "yuxarı"
         ],
         "tts": [
@@ -5436,8 +5797,11 @@
           "aşağı",
           "baş barmaq",
           "baş barmaq aşağı",
+          "bəyənmədim işarəsi",
           "əl",
-          "orqan"
+          "orqan",
+          "pisləmək jesti",
+          "yaxşı deyil"
         ],
         "tts": [
           "baş barmaq aşağı"
@@ -5446,9 +5810,11 @@
       "✊": {
         "default": [
           "əl",
+          "həmrəylik",
           "orqan",
           "qaldırılmış yumruq",
           "sıxılmış",
+          "yumruğunu sıxmaq",
           "yumruq",
           "yumruqlamaq"
         ],
@@ -5463,6 +5829,7 @@
           "sıxılmış",
           "yaxınlaşan yumruq",
           "yumruq",
+          "yumruqla vurmaq",
           "yumruqlamaq"
         ],
         "tts": [
@@ -5496,7 +5863,10 @@
           "əl",
           "əl çalan əllər",
           "əl çalmaq",
-          "orqan"
+          "əla işarəsi",
+          "orqan",
+          "təbrik etmək işarəsi",
+          "tərifləmək"
         ],
         "tts": [
           "əl çalan əllər"
@@ -5518,8 +5888,12 @@
       },
       "🫶": {
         "default": [
+          "<3",
           "əldən ürək",
-          "sevgi"
+          "əllər",
+          "sevgi",
+          "səni sevirəm",
+          "ürək"
         ],
         "tts": [
           "əldən ürək"
@@ -5530,7 +5904,8 @@
           "açıq",
           "açıq əllər",
           "əl",
-          "orqan"
+          "orqan",
+          "qucaqlama jesti"
         ],
         "tts": [
           "açıq əllər"
@@ -5538,6 +5913,8 @@
       },
       "🤲": {
         "default": [
+          "arzu",
+          "birləşdirilmiş ovuclar",
           "dua",
           "əllər yuxarı"
         ],
@@ -5559,11 +5936,13 @@
       "🙏": {
         "default": [
           "dua etmək",
+          "dua etmək işarəsi",
           "əl",
           "jest",
           "orqan",
           "qatlanmış",
-          "qatlanmış əllər"
+          "qatlanmış əllər",
+          "xahiş etmək"
         ],
         "tts": [
           "qatlanmış əllər"
@@ -5573,6 +5952,9 @@
         "default": [
           "əl",
           "orqan",
+          "qələm",
+          "qələmlə yazmaq",
+          "yazan əl",
           "yazı əli",
           "yazmaq"
         ],
@@ -5582,7 +5964,9 @@
       },
       "💅": {
         "default": [
+          "baxım",
           "dırnaq",
+          "dırnaq boyası",
           "dırnaq laklamaq",
           "kosmetika",
           "lak",
@@ -5597,6 +5981,7 @@
       "🤳": {
         "default": [
           "foto",
+          "kamera",
           "özçəkim",
           "selfi",
           "şəkil"
@@ -5610,7 +5995,10 @@
           "biseps",
           "əymək",
           "əzələ",
+          "fitnes",
+          "idmanla məşğul olmaq",
           "komik",
+          "press",
           "qatlanmış əzələ"
         ],
         "tts": [
@@ -5620,7 +6008,8 @@
       "🦾": {
         "default": [
           "mexaniki əl",
-          "protez"
+          "protez",
+          "protez qol"
         ],
         "tts": [
           "mexaniki əl"
@@ -5629,7 +6018,8 @@
       "🦿": {
         "default": [
           "mexaniki ayaq",
-          "protez"
+          "protez",
+          "protez ayaq"
         ],
         "tts": [
           "mexaniki ayaq"
@@ -5637,6 +6027,8 @@
       },
       "🦵": {
         "default": [
+          "ayaq",
+          "diz",
           "əza",
           "qıç",
           "təpik"
@@ -5649,7 +6041,8 @@
         "default": [
           "ayaq",
           "pəncə",
-          "təpik"
+          "təpik",
+          "topuq"
         ],
         "tts": [
           "ayaq"
@@ -5658,7 +6051,10 @@
       "👂": {
         "default": [
           "bədən",
-          "qulaq"
+          "dinləmə",
+          "eşitmə",
+          "qulaq",
+          "səs"
         ],
         "tts": [
           "qulaq"
@@ -5666,6 +6062,7 @@
       },
       "🦻": {
         "default": [
+          "eşitmə cihazı yerləşdirilmiş qulaq",
           "eşitmə cihazlı qulaq",
           "eşitmə problemi"
         ],
@@ -5676,7 +6073,9 @@
       "👃": {
         "default": [
           "bədən",
-          "burun"
+          "burun",
+          "iyləmək",
+          "qoxu"
         ],
         "tts": [
           "burun"
@@ -5684,8 +6083,11 @@
       },
       "🧠": {
         "default": [
+          "ağıllı",
           "beyin",
-          "intelligent"
+          "dərrakə",
+          "intelligent",
+          "zəkalı"
         ],
         "tts": [
           "beyin"
@@ -5693,9 +6095,13 @@
       },
       "🫀": {
         "default": [
+          "anatomik",
+          "döyüntü",
+          "əsl ürək",
           "mərkəz",
           "orqan",
           "puls",
+          "qırmızı",
           "ürək",
           "ürək döyüntüsü"
         ],
@@ -5718,6 +6124,7 @@
       },
       "🦷": {
         "default": [
+          "ağ",
           "diş",
           "stomatoloq"
         ],
@@ -5727,6 +6134,7 @@
       },
       "🦴": {
         "default": [
+          "it",
           "skelet",
           "sümük"
         ],
@@ -5736,8 +6144,11 @@
       },
       "👀": {
         "default": [
+          "axtarmaq",
+          "görmək",
           "göz",
           "gözlər",
+          "təəccüb",
           "üz"
         ],
         "tts": [
@@ -5746,6 +6157,7 @@
       },
       "👁": {
         "default": [
+          "görmək işarəsi",
           "göz",
           "orqan"
         ],
@@ -5765,7 +6177,9 @@
       "👄": {
         "default": [
           "ağız",
-          "dodaqlar"
+          "dodaq boyası",
+          "dodaqlar",
+          "öpüş"
         ],
         "tts": [
           "ağız"
@@ -5773,11 +6187,19 @@
       },
       "🫦": {
         "default": [
+          "dişləmək",
           "dişlənən dodaq",
+          "dodaq",
+          "dodaq boyası",
+          "eşqbazlıq",
           "əsəbi",
           "flört",
+          "həyəcanlı",
           "narahat",
-          "qorxu"
+          "narahat olmaq",
+          "öpüş",
+          "qorxu",
+          "seksual"
         ],
         "tts": [
           "dişlənən dodaq"
@@ -5786,7 +6208,8 @@
       "👶": {
         "default": [
           "cavan",
-          "körpə"
+          "körpə",
+          "yeni doğulmuş uşaq"
         ],
         "tts": [
           "körpə"
@@ -5796,6 +6219,7 @@
         "default": [
           "cavan",
           "gender-neytral",
+          "gənc",
           "uşaq"
         ],
         "tts": [
@@ -5804,8 +6228,10 @@
       },
       "👦": {
         "default": [
+          "cavan",
           "kişi",
-          "oğlan"
+          "oğlan",
+          "oğlan uşağı"
         ],
         "tts": [
           "oğlan"
@@ -5814,6 +6240,7 @@
       "👧": {
         "default": [
           "cavan",
+          "keçi saç yığımı",
           "qız bürcü",
           "qız uşağı",
           "zodiak"
@@ -5833,8 +6260,12 @@
       },
       "👱": {
         "default": [
+          "adam",
           "sarı saçlı adam",
-          "sarışın"
+          "sarısaçlı şəxs",
+          "sarışın",
+          "sarışın kişi",
+          "üz"
         ],
         "tts": [
           "sarı saçlı adam"
@@ -5842,7 +6273,9 @@
       },
       "👨": {
         "default": [
-          "kişi"
+          "dost",
+          "kişi",
+          "oğlan"
         ],
         "tts": [
           "kişi"
@@ -5881,7 +6314,9 @@
       },
       "👩": {
         "default": [
-          "qadın"
+          "qadın",
+          "sarışın",
+          "xanım"
         ],
         "tts": [
           "qadın"
@@ -5909,8 +6344,10 @@
       },
       "🧓": {
         "default": [
+          "ağsaqqal",
           "gender-neytral",
           "qoca",
+          "yaşlı",
           "yaşlı böyük"
         ],
         "tts": [
@@ -5919,7 +6356,9 @@
       },
       "👴": {
         "default": [
+          "baba",
           "kişi",
+          "qoca",
           "yaşlı"
         ],
         "tts": [
@@ -5928,7 +6367,9 @@
       },
       "👵": {
         "default": [
+          "nənə",
           "qadın",
+          "sarışın",
           "yaşlı"
         ],
         "tts": [
@@ -5937,9 +6378,18 @@
       },
       "🙍": {
         "default": [
+          "hirsli",
           "jest",
+          "məyus etmək",
+          "narahat",
+          "qaraqabaq",
+          "qaşlarını çatan qadın",
           "qaşqabaqlı",
-          "qaşqabaqlı adam"
+          "qaşqabaqlı adam",
+          "qəmgin",
+          "qəzəbli",
+          "usanmış",
+          "xoşbəxt olmayan qadın"
         ],
         "tts": [
           "qaşqabaqlı adam"
@@ -5950,6 +6400,7 @@
           "jest",
           "kefsiz kişi",
           "kişi",
+          "qanıqara kişi",
           "qaşqabaqlı"
         ],
         "tts": [
@@ -5969,9 +6420,19 @@
       },
       "🙎": {
         "default": [
+          "acığı tutmaq",
           "acıq edən adam",
           "acıq etmək",
-          "jest"
+          "acıqlı qız",
+          "ağlayıb-sızlamaq",
+          "jest",
+          "küsmüş qız",
+          "məyus",
+          "məyus etmək",
+          "məzlum",
+          "qaşlarını çatmaq",
+          "qaşqabağını tökmək",
+          "üz-gözünü turşutmaq"
         ],
         "tts": [
           "acıq edən adam"
@@ -5981,7 +6442,9 @@
         "default": [
           "acıqlı",
           "jest",
-          "kişi"
+          "kişi",
+          "narazı kişi",
+          "qaşqabaqlı adam"
         ],
         "tts": [
           "acıqlı kişi"
@@ -5999,9 +6462,15 @@
       },
       "🙅": {
         "default": [
+          "\"olmaz\" işarəsi",
+          "\"qadağandır\" deyən qadın",
+          "\"qadağandır\" işarəsi",
           "əl",
+          "əsla",
+          "istisna etmək",
           "jest",
           "qadağa",
+          "qadağan etmək",
           "qadağan olunmuş",
           "xeyr",
           "yox",
@@ -6040,10 +6509,14 @@
       },
       "🙆": {
         "default": [
+          "Aman Allahım jesti",
           "əl",
           "jest",
+          "məşq",
           "ok",
-          "ok jesti"
+          "OK",
+          "ok jesti",
+          "razılaşan qadın"
         ],
         "tts": [
           "ok jesti"
@@ -6055,7 +6528,8 @@
           "jest",
           "kişi",
           "lehinə",
-          "lehinə olan kişi"
+          "lehinə olan kişi",
+          "razılaşan kişi"
         ],
         "tts": [
           "lehinə olan kişi"
@@ -6075,11 +6549,22 @@
       },
       "💁": {
         "default": [
+          "ciddi şəkildə",
           "davranışsız",
           "əl",
+          "hər nə isə",
+          "istehza",
+          "istehzalı",
+          "kobud",
           "kömək",
           "məlumat",
-          "məlumat verən şəxs"
+          "məlumat verən qadın",
+          "məlumat verən şəxs",
+          "qeybət",
+          "saçını arxaya atma",
+          "saçını özündənrazı şəkildə yellətmə",
+          "yardım",
+          "yardım təklif etmək"
         ],
         "tts": [
           "məlumat verən şəxs"
@@ -6090,7 +6575,9 @@
           "əl uzadan kişi",
           "əl uzatmaq",
           "kişi",
-          "sırtıq"
+          "məlumat verən kişi",
+          "sırtıq",
+          "yardım edən kişi"
         ],
         "tts": [
           "əl uzadan kişi"
@@ -6109,10 +6596,19 @@
       },
       "🙋": {
         "default": [
+          "\"mən bilirəm\" emojisi",
+          "elə burada",
           "əl",
+          "əlini qaldıran qadın",
           "əlini qaldıran xoşbəxt adam",
+          "əllər",
           "jest",
+          "Kömək edə bilərəm",
+          "məhz burada",
+          "məni",
+          "məni seç",
           "qaldırılmış",
+          "sual",
           "xoşbəxt"
         ],
         "tts": [
@@ -6123,8 +6619,10 @@
         "default": [
           "əl qaldıran kişi",
           "əl qaldırmaq",
+          "əl sallayan kişi",
           "jest",
-          "kişi"
+          "kişi",
+          "sual vermək istəyən kişi"
         ],
         "tts": [
           "əl qaldıran kişi"
@@ -6144,6 +6642,7 @@
       "🧏": {
         "default": [
           "eşitmə",
+          "eşitmə problemi olan adam",
           "kar",
           "kar şəxs",
           "qulaq"
@@ -6172,11 +6671,19 @@
       },
       "🙇": {
         "default": [
+          "bağışlamaq",
+          "heyifsilənmək",
           "jest",
+          "meditasiya",
+          "meditasiya etmək",
+          "səcdə edən kişi",
+          "təəssüf hissi keçirmək",
           "tənzim edən adam",
           "tənzim etmək",
+          "təzim etmək",
           "üzr",
-          "üzr istəmək"
+          "üzr istəmək",
+          "yalvarmaq"
         ],
         "tts": [
           "tənzim edən adam"
@@ -6212,9 +6719,18 @@
       },
       "🤦": {
         "default": [
+          "acıqlanma",
+          "Aman Allahım",
+          "bir də yox",
           "daha sözüm yoxdur",
+          "inamsızlıq",
           "inanılmaz",
-          "inanmaq olmur"
+          "inanmaq olmur",
+          "oy yox",
+          "pərt olmaq",
+          "təəccübdən başını yellətmək",
+          "təngimiş şəxs",
+          "üzünü tutan şəxs"
         ],
         "tts": [
           "inanmaq olmur"
@@ -6222,9 +6738,16 @@
       },
       "🤦‍♂": {
         "default": [
+          "acıq edən kişi",
           "acıqlanma",
+          "Aman Allahım",
+          "bir də yox",
           "inamsızlıq",
           "kişi",
+          "oy yox",
+          "pərt olmaq",
+          "qəzəb",
+          "təəccübdən başını yellətmək",
           "üzünü tutan kişi",
           "üzünü tutmaq"
         ],
@@ -6235,8 +6758,15 @@
       "🤦‍♀": {
         "default": [
           "acıqlanma",
+          "Aman Allahım",
+          "bir də yox",
           "inamsızlıq",
+          "oy yox",
+          "pərt olmaq",
           "qadın",
+          "təəccübdən başını yellətmək",
+          "təəccübləndirmək",
+          "təngimiş qadın",
           "üzünü tutan qadın",
           "üzünü tutmaq"
         ],
@@ -6246,8 +6776,19 @@
       },
       "🤷": {
         "default": [
+          "bəlkə",
+          "biganəlik",
+          "bilinmir",
           "bilməmək",
+          "bilmirəm",
+          "çiynini çəkən şəxs",
           "çiynini çəkmək",
+          "ehtimal ki",
+          "hər nə isə",
+          "kim bilir",
+          "laqeydlik",
+          "məlumatsızlıq",
+          "şübhə",
           "tərəddüd"
         ],
         "tts": [
@@ -6256,11 +6797,18 @@
       },
       "🤷‍♂": {
         "default": [
+          "bəlkə",
+          "bilinmir",
           "bilməzlik",
+          "bilmirəm",
           "çiynini çəkən kişi",
           "çiynini çəkmək",
+          "ehtimal ki",
+          "hər nə isə",
+          "kim bilir",
           "kişi",
           "laqeydlik",
+          "məlumatsızlıq",
           "şübhə"
         ],
         "tts": [
@@ -6269,10 +6817,17 @@
       },
       "🤷‍♀": {
         "default": [
+          "bəlkə",
+          "bilinmir",
           "bilməzlik",
+          "bilmirəm",
           "çiynini çəkən qadın",
           "çiynini çəkmək",
+          "ehtimal ki",
+          "hər nə isə",
+          "kim bilir",
           "laqeydlik",
+          "məlumatsızlıq",
           "qadın",
           "şübhə"
         ],
@@ -6358,9 +6913,11 @@
       },
       "👨‍🏫": {
         "default": [
+          "akademik",
           "kişi",
           "müəllim",
-          "professor"
+          "professor",
+          "təlimçi"
         ],
         "tts": [
           "kişi müəllim"
@@ -6398,6 +6955,7 @@
       },
       "👩‍⚖": {
         "default": [
+          "ədalət",
           "hakim",
           "qadın",
           "tərəzi"
@@ -6448,6 +7006,7 @@
       "👨‍🍳": {
         "default": [
           "aşbaz",
+          "aşpaz",
           "kişi",
           "şef"
         ],
@@ -6458,6 +7017,7 @@
       "👩‍🍳": {
         "default": [
           "aşbaz",
+          "aşpaz",
           "qadın",
           "şef"
         ],
@@ -6554,11 +7114,13 @@
         "default": [
           "ağ yaxalıqlı",
           "biznes",
+          "biznesmen",
           "kişi",
           "kişi ofis işçisi",
           "memar",
           "menecer",
-          "ofis"
+          "ofis",
+          "ofis işçisi"
         ],
         "tts": [
           "kişi ofis işçisi"
@@ -6647,6 +7209,7 @@
       "👩‍💻": {
         "default": [
           "ixtiraçı",
+          "kompüter",
           "proqram təminatı",
           "qadın",
           "şifrələyici",
@@ -6676,6 +7239,8 @@
           "kişi",
           "müğənni",
           "rok",
+          "rok ulduzu",
+          "sənətçi",
           "ulduz"
         ],
         "tts": [
@@ -6686,6 +7251,7 @@
         "default": [
           "aktyor",
           "estrada artisti",
+          "estrada ifaçısı",
           "müğənni",
           "qadın",
           "rok",
@@ -6706,9 +7272,12 @@
       },
       "👨‍🎨": {
         "default": [
+          "boya",
           "kişi",
           "palitra",
-          "rəssam"
+          "rəng",
+          "rəssam",
+          "sənətçi"
         ],
         "tts": [
           "kişi rəssam"
@@ -6718,6 +7287,7 @@
         "default": [
           "palitra",
           "qadın",
+          "rəng",
           "rəssam"
         ],
         "tts": [
@@ -6815,9 +7385,17 @@
       },
       "👮": {
         "default": [
+          "həbs etmək",
+          "maşını polis tərəfindən dayandırılmış",
           "məmur",
+          "mülki geyimli polis",
           "polis",
-          "polis məmuru"
+          "polis məmuru",
+          "polis nəfəri",
+          "polis rəisi",
+          "qanun",
+          "qanuni faktlara əsaslanma",
+          "tutmaq"
         ],
         "tts": [
           "polis məmuru"
@@ -6836,9 +7414,18 @@
       },
       "👮‍♀": {
         "default": [
+          "həbs etmək",
+          "maşını polis tərəfindən dayandırılmış",
+          "mülki geyimli polis",
           "polis",
+          "polis işçisi",
+          "polis məmuru",
           "polis nəfəri",
+          "polis rəisi",
           "qadın",
+          "qanun",
+          "qanuni faktlara əsaslanma",
+          "tutmaq",
           "zabit"
         ],
         "tts": [
@@ -6847,6 +7434,7 @@
       },
       "🕵": {
         "default": [
+          "agent",
           "casus",
           "detektiv",
           "xəfiyyə"
@@ -6897,8 +7485,11 @@
       },
       "💂‍♀": {
         "default": [
+          "gözətçi",
           "keşikçi",
-          "qadın"
+          "növbətçi",
+          "qadın",
+          "qarovul"
         ],
         "tts": [
           "qadın keşikçi"
@@ -6906,9 +7497,11 @@
       },
       "🥷": {
         "default": [
+          "döyüş",
           "döyüşçü",
           "gizli",
           "gizlilik",
+          "insan",
           "nindza"
         ],
         "tts": [
@@ -6917,10 +7510,20 @@
       },
       "👷": {
         "default": [
+          "dəbilqə",
+          "düzəltmək",
+          "günəmuzd işçi",
           "işçi",
+          "kask",
           "papaq",
+          "qoruyucu papaq",
+          "təmir etmək",
           "tikinti",
-          "tikinti işçisi"
+          "tikinti işçisi",
+          "tikinti işi",
+          "tikmək",
+          "yenidən qurmaq",
+          "yenidən tikmək"
         ],
         "tts": [
           "tikinti işçisi"
@@ -6940,6 +7543,7 @@
       "👷‍♀": {
         "default": [
           "fəhlə",
+          "işçi",
           "qadın",
           "qadın bənna",
           "tikinti"
@@ -6950,10 +7554,13 @@
       },
       "🫅": {
         "default": [
+          "kral",
+          "kraliça",
           "krallıq",
           "monarx",
           "nəcib",
           "səltənət",
+          "tac",
           "taclı adam"
         ],
         "tts": [
@@ -6973,8 +7580,11 @@
       "👸": {
         "default": [
           "fantastika",
+          "kraliça",
           "nağıl",
-          "qız şahzadə"
+          "qız şahzadə",
+          "şahzadə qız",
+          "sehirli nağıl"
         ],
         "tts": [
           "qız şahzadə"
@@ -7002,6 +7612,7 @@
       },
       "👳‍♀": {
         "default": [
+          "hicablı qadın",
           "qadın",
           "türban",
           "türbanlı qadın"
@@ -7014,6 +7625,7 @@
         "default": [
           "araqçın",
           "çin kepkalı kişi",
+          "çinlilərə məxsus papaq taxmış kişi",
           "kişi",
           "papaq"
         ],
@@ -7023,6 +7635,8 @@
       },
       "🧕": {
         "default": [
+          "baş örtüyü",
+          "başıbağlı qadın",
           "hicab",
           "mantilya",
           "şərf",
@@ -7036,6 +7650,8 @@
       "🤵": {
         "default": [
           "bəy",
+          "kostyum",
+          "rəsmi geyimli kişi",
           "şəxs",
           "smokinq",
           "smokinqli şəxs"
@@ -7066,11 +7682,14 @@
       },
       "👰": {
         "default": [
+          "duvaq",
+          "duvaqlı gəlin",
           "duvaqlı şəxs",
           "fata",
           "fatalı gəlin",
           "gəlin",
-          "şəxs"
+          "şəxs",
+          "toy"
         ],
         "tts": [
           "duvaqlı şəxs"
@@ -7108,6 +7727,8 @@
       },
       "🫃": {
         "default": [
+          "adam",
+          "çox yemək",
           "hamilə",
           "hamilə kişi",
           "qarın",
@@ -7120,6 +7741,7 @@
       },
       "🫄": {
         "default": [
+          "çox yemək",
           "hamilə",
           "hamilə adam",
           "qarın",
@@ -7143,7 +7765,9 @@
       },
       "👩‍🍼": {
         "default": [
+          "ana",
           "bəsləyən",
+          "dayə",
           "əmizdirən",
           "körpə",
           "qadın"
@@ -7154,6 +7778,7 @@
       },
       "👨‍🍼": {
         "default": [
+          "ata",
           "bəsləyən",
           "əmizdirən",
           "kişi",
@@ -7165,8 +7790,16 @@
       },
       "🧑‍🍼": {
         "default": [
-          "körpə əmizdirən şəxs",
-          "körpə, əmizdirən, bəsləyən, şəxs"
+          "ana",
+          "ata",
+          "bəsləyən",
+          "dayə",
+          "əmizdirən",
+          "insan",
+          "kişi",
+          "körpə",
+          "qadın",
+          "şəxs"
         ],
         "tts": [
           "körpə əmizdirən şəxs"
@@ -7191,8 +7824,9 @@
           "milad",
           "nağıl",
           "santa",
-          "santa klaus",
-          "Santa Klaus"
+          "Santa Klaus",
+          "şaxta baba",
+          "təntənə"
         ],
         "tts": [
           "Santa Klaus"
@@ -7203,7 +7837,9 @@
           "ana",
           "bayram",
           "Klaus",
+          "milad",
           "Milad",
+          "santa",
           "xanım"
         ],
         "tts": [
@@ -7212,8 +7848,13 @@
       },
       "🧑‍🎄": {
         "default": [
-          "Klaus, milad",
-          "mx klaus"
+          "bayram",
+          "insan",
+          "Klaus",
+          "milad",
+          "mx klaus",
+          "papaq",
+          "santa"
         ],
         "tts": [
           "mx klaus"
@@ -7221,8 +7862,10 @@
       },
       "🦸": {
         "default": [
+          "betmen",
           "qəhrəman",
           "supergüc",
+          "supergüclər",
           "superqəhrəman",
           "xeyirxah"
         ],
@@ -7259,8 +7902,13 @@
           "cani",
           "cinayətkar",
           "pis",
+          "şeytani qüvvə",
+          "şəxs",
           "supercani",
-          "supergüc"
+          "supergüc",
+          "supergüclər",
+          "yaman",
+          "yaramaz"
         ],
         "tts": [
           "supercani"
@@ -7295,9 +7943,14 @@
       "🧙": {
         "default": [
           "cadugər",
+          "çağırış cadusu",
+          "fantastika",
           "küpəgirən qarı",
           "maq",
+          "ovsun",
           "ovsunçu",
+          "rollu oyun",
+          "sehr",
           "sehrbaz"
         ],
         "tts": [
@@ -7326,9 +7979,16 @@
       },
       "🧚": {
         "default": [
+          "fantastika",
+          "insan formasında pəri",
+          "mif",
+          "nağıl",
           "Oberon",
           "pəri",
+          "piksi",
           "Puck",
+          "qanadlar",
+          "sehrli nağıl",
           "Titania"
         ],
         "tts": [
@@ -7356,7 +8016,13 @@
       },
       "🧛": {
         "default": [
+          "dişlər",
           "Drakula",
+          "fövqəltəbii",
+          "geyim",
+          "hellouin",
+          "köpək dişləri",
+          "qan",
           "vampir",
           "xortdan"
         ],
@@ -7387,8 +8053,16 @@
         "default": [
           "dəniz adamı",
           "dəniz kişisi",
+          "dəniz pərisi",
           "dəniz qadını",
-          "su pərisi"
+          "dənizin altında",
+          "folklor",
+          "kişi cinsindən olan su pərisi",
+          "okeanda yaşayan varlıqlar",
+          "qadın cinsindən olan su pərisi",
+          "sehrli nağıl",
+          "su pərisi",
+          "üçbaşlı əsa"
         ],
         "tts": [
           "dəniz adamı"
@@ -7415,7 +8089,13 @@
       "🧝": {
         "default": [
           "elf",
-          "sehrli"
+          "elflər",
+          "fantastika",
+          "folklor",
+          "mifik",
+          "sehrli",
+          "sirli",
+          "tilsim"
         ],
         "tts": [
           "elf"
@@ -7441,7 +8121,14 @@
       },
       "🧞": {
         "default": [
-          "cin"
+          "cin",
+          "diləklər",
+          "fantastika",
+          "insan formasında cin",
+          "lampa cini",
+          "lampanı ovuşdurmaq",
+          "mifik",
+          "sirli"
         ],
         "tts": [
           "cin"
@@ -7467,7 +8154,11 @@
       },
       "🧟": {
         "default": [
+          "apokalipsis",
           "gəzən ölü",
+          "hellouin",
+          "qorxu",
+          "qorxulu",
           "xortdan",
           "zombi"
         ],
@@ -7497,10 +8188,12 @@
       },
       "🧌": {
         "default": [
+          "canavar",
           "fentezi",
           "monstr",
           "nağıl",
-          "troll"
+          "troll",
+          "trollamaq"
         ],
         "tts": [
           "troll"
@@ -7508,8 +8201,18 @@
       },
       "💆": {
         "default": [
+          "baş ağrısı",
+          "baş nahiyəsinə masaj edilən şəxs",
+          "gərginlik",
           "masaj",
+          "qulluq",
+          "rahatlatmaq",
+          "sakitləşdirici",
+          "sakitləşdirmək",
           "salon",
+          "spa",
+          "terapiya",
+          "üz",
           "üz masajı"
         ],
         "tts": [
@@ -7518,6 +8221,8 @@
       },
       "💆‍♂": {
         "default": [
+          "baş ağrısı",
+          "istirahət",
           "kişi",
           "masaj",
           "üz",
@@ -7540,9 +8245,21 @@
       },
       "💇": {
         "default": [
+          "baxım",
           "bərbər",
+          "böyük qayçı",
+          "gözəl qadın",
           "gözəllik",
-          "saç kəsimi"
+          "gözəllik salonu",
+          "kosmetologiya",
+          "qısa kəsmək",
+          "saç",
+          "saç kəsdirən qadın",
+          "saç kəsimi",
+          "saç stili",
+          "saç ustası",
+          "saçı kəsmək",
+          "salon"
         ],
         "tts": [
           "saç kəsimi"
@@ -7550,6 +8267,8 @@
       },
       "💇‍♂": {
         "default": [
+          "bərbər",
+          "dəllək",
           "kişi",
           "saç kəsimi",
           "saçını kəsdirən kişi"
@@ -7570,9 +8289,17 @@
       },
       "🚶": {
         "default": [
+          "addım",
+          "ayaqseyri",
+          "gəzən",
+          "gəzən adam",
+          "gəzib-dolaşma",
           "gəzinti",
           "gəzmək",
+          "iri addımlarla getmə",
           "piyada",
+          "təkəbbürlü tərzdə gəzişmək",
+          "yeriş",
           "yürüş"
         ],
         "tts": [
@@ -7603,6 +8330,8 @@
       },
       "🧍": {
         "default": [
+          "ayaq üstə dayanan şəxs",
+          "dayanan adam",
           "duran adam",
           "durmaq"
         ],
@@ -7630,6 +8359,8 @@
       },
       "🧎": {
         "default": [
+          "diz",
+          "dizi üstə oturmuş adam",
           "dizi üstündə",
           "dizi üstündə adam"
         ],
@@ -7670,6 +8401,8 @@
       },
       "👨‍🦯": {
         "default": [
+          "çəlik ilə gəzən kişi",
+          "görmə qüsurlu şəxs",
           "kişi",
           "kor",
           "zond ilə kişi"
@@ -7680,6 +8413,8 @@
       },
       "👩‍🦯": {
         "default": [
+          "çəlik ilə gəzən qadın",
+          "görmə qüsurlu şəxs",
           "kor",
           "qadın",
           "zond ilə qadın"
@@ -7700,8 +8435,10 @@
       },
       "👨‍🦼": {
         "default": [
+          "əlil arabası",
           "kişi",
           "motorlu",
+          "motorlu əlil arabasında əyləşmiş kişi",
           "oturacaqda"
         ],
         "tts": [
@@ -7710,7 +8447,9 @@
       },
       "👩‍🦼": {
         "default": [
+          "əlil arabası",
           "motorlu",
+          "motorlu əlil arabasında əyləşmiş qadın",
           "oturacaqda",
           "qadın"
         ],
@@ -7730,6 +8469,8 @@
       },
       "👨‍🦽": {
         "default": [
+          "əlil arabası",
+          "əlil arabasında əyləşmiş kişi",
           "kişi",
           "manual",
           "oturacaqda"
@@ -7740,6 +8481,8 @@
       },
       "👩‍🦽": {
         "default": [
+          "əlil arabası",
+          "əlil arabasında əyləşmiş qadın",
           "manual",
           "oturacaqda",
           "qadın"
@@ -7750,9 +8493,18 @@
       },
       "🏃": {
         "default": [
+          "arxasınca qaçma",
           "atlet",
+          "cəld",
+          "gediş",
           "marafon",
-          "qaçış"
+          "qaçan adam",
+          "qaçış",
+          "sürət",
+          "sürətlə gələn",
+          "sürətli",
+          "tələsmək",
+          "yarış"
         ],
         "tts": [
           "atlet"
@@ -7776,6 +8528,7 @@
           "qaçan qadın",
           "qaçış",
           "qadın",
+          "sürətli qaçış",
           "yarış"
         ],
         "tts": [
@@ -7784,9 +8537,12 @@
       },
       "💃": {
         "default": [
+          "eleqant",
+          "festival",
           "qadın",
           "rəqs",
-          "rəqs edən qadın"
+          "rəqs edən qadın",
+          "tanqo"
         ],
         "tts": [
           "rəqs edən qadın"
@@ -7795,9 +8551,12 @@
       "🕺": {
         "default": [
           "əylənən kişilər",
+          "əylənmək",
           "kişi",
           "mahnı",
-          "rəqs"
+          "rəqqas",
+          "rəqs",
+          "tanqo"
         ],
         "tts": [
           "əylənən kişilər"
@@ -7806,6 +8565,7 @@
       "🕴": {
         "default": [
           "biznes",
+          "biznesmen",
           "işgüzar kostyumlu kişi",
           "kişi",
           "kostyum"
@@ -7816,12 +8576,23 @@
       },
       "👯": {
         "default": [
+          "bənzər",
           "dovşan",
+          "əkiz",
+          "əkizlər",
+          "həmişəlik ən yaxşı dost",
+          "iki nəfər",
+          "oxşar",
           "qadın",
           "qız",
+          "qoşa",
           "qulaq",
           "rəqqasə",
-          "şənlənən qadınlar"
+          "ruk əkizi",
+          "şənlənən qadınlar",
+          "yaxın dost",
+          "ziyafət",
+          "ziyafətdə əylənmək"
         ],
         "tts": [
           "şənlənən qadınlar"
@@ -7833,7 +8604,8 @@
           "kişi",
           "parti",
           "rəqqas",
-          "rəqs edən kişi"
+          "rəqs edən kişi",
+          "şənlik keçirmək"
         ],
         "tts": [
           "rəqs edən kişi"
@@ -7853,9 +8625,16 @@
       },
       "🧖": {
         "default": [
+          "buxarlı",
           "buxarlı otaq",
           "buxarlı otaqda adam",
-          "sauna"
+          "dincəlmək",
+          "əzizləmək",
+          "rahatlamaq",
+          "sauna",
+          "spa",
+          "spa günü",
+          "təmtəraqlı"
         ],
         "tts": [
           "buxarlı otaqda adam"
@@ -7883,8 +8662,13 @@
       },
       "🧗": {
         "default": [
+          "dağ",
           "dırmaşan",
-          "dırmaşan adam"
+          "dırmaşan adam",
+          "dırmaşıb çıxmaq",
+          "dırmaşma",
+          "dırmaşmaq",
+          "qayaya dırmaşan"
         ],
         "tts": [
           "dırmaşan adam"
@@ -7913,6 +8697,7 @@
           "idman",
           "qılınc",
           "qılınc oynatma",
+          "qılıncoynatma",
           "yarışma"
         ],
         "tts": [
@@ -7922,6 +8707,7 @@
       "🏇": {
         "default": [
           "at",
+          "at çapmaq",
           "at yarışı",
           "jokey",
           "yarış",
@@ -7943,10 +8729,12 @@
       },
       "🏂": {
         "default": [
+          "idman növü",
           "qar",
           "snouborder",
           "snoubort",
-          "xizək"
+          "xizək",
+          "xizəkçi"
         ],
         "tts": [
           "snouborder"
@@ -7954,8 +8742,15 @@
       },
       "🏌": {
         "default": [
+          "atış",
+          "başlanğıc parkur",
+          "köməkçi",
+          "məşq sahəsi",
+          "peşəkar qolfçular birliyi",
           "qolf",
           "qolf oynayan",
+          "qolf vuruşu",
+          "son parkur",
           "top"
         ],
         "tts": [
@@ -7984,8 +8779,16 @@
       },
       "🏄": {
         "default": [
+          "dalğalar",
+          "dəniz",
+          "idman",
+          "okean",
+          "sörfçü",
           "sörfer",
-          "sörfinq"
+          "sörfinq",
+          "sörfinq ilə məşğul olan şəxs",
+          "sörfinq ilə məşğul olmaq",
+          "xəfif ləpə"
         ],
         "tts": [
           "sörfer"
@@ -8003,9 +8806,13 @@
       },
       "🏄‍♀": {
         "default": [
+          "dalğalar",
+          "idman",
+          "okean",
           "qadın",
           "sörfçü qadın",
-          "sörfinq"
+          "sörfinq",
+          "sörfinqlə məşğul olan qadın"
         ],
         "tts": [
           "sörfçü qadın"
@@ -8013,9 +8820,20 @@
       },
       "🚣": {
         "default": [
+          "avar",
+          "avarçəkmə",
           "avarçəkmə qayığı",
+          "balıqçılıq",
+          "çay",
+          "dəniz səyahəti",
+          "göl",
+          "kanoe",
+          "kürək",
+          "kürək çəkmək",
           "nəqliyyat",
-          "qayıq"
+          "qayıq",
+          "qayıqçı",
+          "sal"
         ],
         "tts": [
           "avarçəkmə qayığı"
@@ -8034,6 +8852,7 @@
       },
       "🚣‍♀": {
         "default": [
+          "avar çəkən qadın",
           "avarlı qayıq",
           "qadın",
           "qayıq",
@@ -8045,7 +8864,11 @@
       },
       "🏊": {
         "default": [
+          "idman",
+          "sərbəst üsulla üzmə",
+          "triatlon",
           "üzgüçü",
+          "üzgüçülük",
           "üzmək"
         ],
         "tts": [
@@ -8066,6 +8889,7 @@
         "default": [
           "qadın",
           "üzgüçü qadın",
+          "üzgüçülük",
           "üzmək"
         ],
         "tts": [
@@ -8074,8 +8898,17 @@
       },
       "⛹": {
         "default": [
+          "atlet",
+          "basketbol",
+          "basketbolçu",
+          "çempionat",
+          "driblinq manevri etmək",
+          "idman topu",
+          "səbətə dəymədən atış",
+          "sərbəst atış",
           "top",
-          "toplu adam"
+          "toplu adam",
+          "topu çiləyən adam"
         ],
         "tts": [
           "toplu adam"
@@ -8094,6 +8927,7 @@
       "⛹‍♀": {
         "default": [
           "futbolçu qadın",
+          "idmançı qadın",
           "qadın",
           "top"
         ],
@@ -8103,8 +8937,17 @@
       },
       "🏋": {
         "default": [
+          "ağırlıq",
+          "ağırlıq qaldıran adam",
+          "ağırlıqqaldıran",
+          "bodibilder",
           "çəki",
-          "ştanqçı"
+          "deadlift hərəkəti",
+          "məşq",
+          "pauerliftinq",
+          "ştanq",
+          "ştanqçı",
+          "ştanqqaldıran"
         ],
         "tts": [
           "ştanqçı"
@@ -8121,6 +8964,8 @@
       },
       "🏋‍♀": {
         "default": [
+          "ağırlıqqaldıran qadın",
+          "idmançı",
           "qadın",
           "ştanqçı"
         ],
@@ -8131,7 +8976,13 @@
       "🚴": {
         "default": [
           "bayk",
+          "dağda velosiped sürən adam",
+          "idman növü",
+          "motosikl",
+          "sürmək",
+          "təkərli nəqliyyat növü",
           "velosiped",
+          "velosiped sürən",
           "velosipedçi"
         ],
         "tts": [
@@ -8162,9 +9013,13 @@
       },
       "🚵": {
         "default": [
+          "atletik",
           "bayk",
           "dağ",
           "dağ velosipedçisi",
+          "dağda velosiped sürən adam",
+          "idman növü",
+          "sürmək",
           "velosiped",
           "velosipedçi"
         ],
@@ -8199,10 +9054,18 @@
       },
       "🤸": {
         "default": [
+          "akrobat qadın",
           "akrobatik hərəkət",
           "akrobatika",
+          "aktiv",
+          "fəal",
+          "gimnastika",
           "hərəkət",
-          "idman"
+          "həyəcanlı",
+          "idman",
+          "mayallaq aşma",
+          "salto",
+          "xoşbəxt"
         ],
         "tts": [
           "akrobatik hərəkət"
@@ -8211,10 +9074,18 @@
       "🤸‍♂": {
         "default": [
           "akrobat",
+          "akrobatik hərəkət",
+          "aktiv",
+          "fəal",
           "gimnast",
+          "gimnastika",
+          "həyəcanlı",
           "idman",
           "kişi",
-          "şəxs"
+          "mayallaq aşma",
+          "salto",
+          "şəxs",
+          "xoşbəxt"
         ],
         "tts": [
           "akrobat kişi"
@@ -8223,11 +9094,19 @@
       "🤸‍♀": {
         "default": [
           "akrobat",
+          "akrobatik hərəkət",
+          "aktiv",
           "aktobat qadın",
+          "fəal",
           "gimnast",
+          "gimnastika",
+          "həyəcanlı",
           "idman",
+          "mayallaq aşma",
           "qadın",
-          "şəxs"
+          "salto",
+          "şəxs",
+          "xoşbəxt"
         ],
         "tts": [
           "aktobat qadın"
@@ -8236,8 +9115,13 @@
       "🤼": {
         "default": [
           "döyüş",
+          "döyüş meydançasında",
           "güləş",
-          "idman"
+          "güləş turniri",
+          "güləşçilər",
+          "güləşmək",
+          "idman",
+          "təkbətək döyüş"
         ],
         "tts": [
           "güləş"
@@ -8245,11 +9129,17 @@
       },
       "🤼‍♂": {
         "default": [
+          "döyüş",
+          "döyüş meydançasında",
           "güləş",
+          "güləş turniri",
           "güləşçi kişi",
+          "güləşçi kişilər",
+          "güləşmək",
           "idman",
           "kişi",
-          "şəxs"
+          "şəxs",
+          "təkbətək döyüş"
         ],
         "tts": [
           "güləşçi kişi"
@@ -8257,11 +9147,18 @@
       },
       "🤼‍♀": {
         "default": [
+          "arenada",
+          "döyüşmək",
           "güləş",
+          "güləş yarışı",
           "güləşçi qadın",
+          "güləşçi qadınlar",
+          "güləşmək",
           "idman",
           "qadın",
-          "şəxs"
+          "şəxs",
+          "təkbətək döyüş",
+          "tutuşmaq"
         ],
         "tts": [
           "güləşçi qadın"
@@ -8270,10 +9167,14 @@
       "🤽": {
         "default": [
           "idman",
+          "Marco oyunu",
           "polo",
           "su",
+          "su idman növü",
+          "su poloçusu kişi",
           "su polosu",
           "top",
+          "üzgüçülük",
           "yarışma"
         ],
         "tts": [
@@ -8284,8 +9185,11 @@
         "default": [
           "idman",
           "kişi",
+          "Marco oyunu",
+          "su idman növü",
           "su poloçusu kişi",
-          "su polosu"
+          "su polosu",
+          "üzgüçülük"
         ],
         "tts": [
           "su poloçusu kişi"
@@ -8294,9 +9198,13 @@
       "🤽‍♀": {
         "default": [
           "idman",
+          "Marco oyunu",
           "qadın",
+          "su idman növü",
           "su poloçusu qadın",
-          "su polosu"
+          "su polosu",
+          "su polosu üzrə qadın idmançı",
+          "üzgüçülük"
         ],
         "tts": [
           "su poloçusu qadın"
@@ -8304,9 +9212,19 @@
       },
       "🤾": {
         "default": [
+          "adam",
+          "atletika",
+          "atmaq",
           "həndbol",
           "idman",
-          "yarışma"
+          "idman topu",
+          "möhkəm atmaq",
+          "topu atış üçün tullamaq",
+          "topu fırlatmaq",
+          "topu rəqibin üzərindən hündürə atmaq",
+          "tutmaq",
+          "yarışma",
+          "yüngül atmaq"
         ],
         "tts": [
           "həndbol"
@@ -8325,10 +9243,19 @@
       },
       "🤾‍♀": {
         "default": [
+          "atmaq",
           "hendbol",
           "həndbolçu qadın",
           "idman",
-          "qadın"
+          "idman növü",
+          "möhkəm atmaq",
+          "qadın",
+          "top",
+          "topu atış üçün tullamaq",
+          "topu fırlatmaq",
+          "topu rəqibin üzərindən hündürə atmaq",
+          "tutmaq",
+          "yüngül atmaq"
         ],
         "tts": [
           "həndbolçu qadın"
@@ -8336,8 +9263,15 @@
       },
       "🤹": {
         "default": [
+          "eyni anda bir neçə işi görmək",
           "hoqqabaz",
-          "janqlyor"
+          "idarə etmək",
+          "janqlyor",
+          "jonqlyor kişi",
+          "jonqlyorluq",
+          "sirkdə tarazlıq nümayişi",
+          "topları havaya atıb tutmaq",
+          "tutmaq"
         ],
         "tts": [
           "janqlyor"
@@ -8346,8 +9280,14 @@
       "🤹‍♂": {
         "default": [
           "çox-tapşırıqlı",
+          "eyni anda bir neçə işi görmək",
+          "idarə etmək",
           "jonqlyor",
-          "kişi"
+          "jonqlyorluq",
+          "kişi",
+          "sirkdə tarazlıq nümayişi",
+          "topları havaya atıb tutmaq",
+          "tutmaq"
         ],
         "tts": [
           "jonqlyor kişi"
@@ -8356,6 +9296,8 @@
       "🤹‍♀": {
         "default": [
           "çox-tapşırıqlı",
+          "fəndgirlik",
+          "janqlyor",
           "jonqlyor",
           "qadın"
         ],
@@ -8365,9 +9307,18 @@
       },
       "🧘": {
         "default": [
+          "ayaqları haçalanmış",
+          "bardaş",
+          "dincəlmək",
+          "hüzur",
+          "istirahət etmək",
           "lotus pozisiyasında adam",
           "meditasiya",
-          "yoqa"
+          "rahatlamaq",
+          "yoqa",
+          "yoqa ilə məşğul olan adam",
+          "yoqa ilə məşğul olan insan",
+          "zen"
         ],
         "tts": [
           "lotus pozisiyasında adam"
@@ -8407,7 +9358,9 @@
         "default": [
           "otel",
           "yataqda uzanmış adam",
-          "yatmaq"
+          "yatmaq",
+          "yuxu",
+          "yuxu vaxtı"
         ],
         "tts": [
           "yataqda uzanmış adam"
@@ -8427,9 +9380,12 @@
       },
       "👭": {
         "default": [
+          "bacılar",
           "cütlük",
           "əl",
           "əl-ələ tutan iki qadın",
+          "ən yaxın dost",
+          "lgbt",
           "qadın",
           "tutmaq"
         ],
@@ -8445,6 +9401,7 @@
           "əl-ələ tutmaq",
           "kişi",
           "qadın",
+          "sevgi",
           "tutmaq"
         ],
         "tts": [
@@ -8457,6 +9414,7 @@
           "əkizlər",
           "əl-ələ tutan iki kişi",
           "əl-ələ tutmaq",
+          "homoseksual",
           "kişi",
           "tutmaq",
           "zodiak"
@@ -8469,7 +9427,8 @@
         "default": [
           "cütlük",
           "öpüş",
-          "romantika"
+          "romantika",
+          "sevgi"
         ],
         "tts": [
           "öpüş"
@@ -8487,21 +9446,11 @@
           "ürəkli cütlük"
         ]
       },
-      "👪": {
-        "default": [
-          "ailə",
-          "ana",
-          "ata",
-          "uşaq"
-        ],
-        "tts": [
-          "ailə"
-        ]
-      },
       "🗣": {
         "default": [
           "baş",
           "danışan",
+          "danışan adam",
           "danışmaq",
           "siluet",
           "üz"
@@ -8532,25 +9481,99 @@
       },
       "🫂": {
         "default": [
+          "dostluq",
           "qucaqlaşan insanlar",
           "qucaqlaşma",
           "sağ ol",
           "salam",
-          "təşəkkürlər"
+          "sevgi",
+          "təşəkkürlər",
+          "vidalaşma"
         ],
         "tts": [
           "qucaqlaşan insanlar"
+        ]
+      },
+      "👪": {
+        "default": [
+          "ailə",
+          "ana",
+          "ata",
+          "uşaq"
+        ],
+        "tts": [
+          "ailə"
+        ]
+      },
+      "🧑‍🧑‍🧒": {
+        "default": [
+          "ailə: yetkin",
+          "ailə: yetkin, yetkin, uşaq",
+          "uşaq",
+          "yetkin"
+        ],
+        "tts": [
+          "ailə: yetkin, yetkin, uşaq"
+        ]
+      },
+      "🧑‍🧑‍🧒‍🧒": {
+        "default": [
+          "ailə: yetkin",
+          "ailə: yetkin, yetkin, uşaq, uşaq",
+          "uşaq",
+          "yetkin"
+        ],
+        "tts": [
+          "ailə: yetkin, yetkin, uşaq, uşaq"
+        ]
+      },
+      "🧑‍🧒": {
+        "default": [
+          "ailə: yetkin",
+          "ailə: yetkin, uşaq",
+          "uşaq"
+        ],
+        "tts": [
+          "ailə: yetkin, uşaq"
+        ]
+      },
+      "🧑‍🧒‍🧒": {
+        "default": [
+          "ailə: yetkin",
+          "ailə: yetkin, uşaq, uşaq",
+          "uşaq"
+        ],
+        "tts": [
+          "ailə: yetkin, uşaq, uşaq"
         ]
       },
       "👣": {
         "default": [
           "ayaq izi",
           "ayaq izləri",
+          "ayaqyalın",
           "geyim",
-          "iz"
+          "iz",
+          "yerimə"
         ],
         "tts": [
           "ayaq izləri"
+        ]
+      },
+      "🫆": {
+        "default": [
+          "barmaq izi",
+          "cinayət",
+          "detektiv",
+          "ipucu",
+          "iz",
+          "kimlik",
+          "məhkəmə ekspertizası",
+          "sirr",
+          "təhlükəszilik"
+        ],
+        "tts": [
+          "barmaq izi"
         ]
       },
       "🦰": {
@@ -8597,6 +9620,7 @@
       },
       "🐵": {
         "default": [
+          "heyvan",
           "meymun",
           "meymun üzü",
           "üz"
@@ -8615,6 +9639,7 @@
       },
       "🦍": {
         "default": [
+          "heyvan",
           "qorilla"
         ],
         "tts": [
@@ -8624,6 +9649,9 @@
       "🦧": {
         "default": [
           "böyük meymun",
+          "heyvan",
+          "meymun",
+          "oranqutan",
           "oranqutanq"
         ],
         "tts": [
@@ -8644,6 +9672,7 @@
       "🐕": {
         "default": [
           "ev heyvanı",
+          "heyvan",
           "it"
         ],
         "tts": [
@@ -8663,6 +9692,7 @@
       "🐕‍🦺": {
         "default": [
           "it",
+          "köməkçi it",
           "xidmətçi"
         ],
         "tts": [
@@ -8671,6 +9701,7 @@
       },
       "🐩": {
         "default": [
+          "heyvan",
           "it",
           "pudel"
         ],
@@ -8730,6 +9761,7 @@
       },
       "🐈‍⬛": {
         "default": [
+          "hellouin",
           "pişik",
           "qara",
           "uğursuz"
@@ -8754,7 +9786,9 @@
         "default": [
           "pələng",
           "pələng üzü",
-          "üz"
+          "üz",
+          "vəhşi",
+          "yırtıcı"
         ],
         "tts": [
           "pələng üzü"
@@ -8762,7 +9796,9 @@
       },
       "🐅": {
         "default": [
-          "pələng"
+          "pələng",
+          "vəhşi",
+          "yırtıcı"
         ],
         "tts": [
           "pələng"
@@ -8825,6 +9861,7 @@
         "default": [
           "təkbuynuz",
           "təkbuynuz üzü",
+          "unikorn emojisi",
           "üz"
         ],
         "tts": [
@@ -8852,8 +9889,10 @@
       "🦬": {
         "default": [
           "bizon",
+          "heyvan",
           "kəl",
           "sürü",
+          "vəhşi öküz",
           "zubr"
         ],
         "tts": [
@@ -8862,8 +9901,11 @@
       },
       "🐮": {
         "default": [
+          "ferma",
           "inək",
+          "inək başı",
           "inək üzü",
+          "süd",
           "üz"
         ],
         "tts": [
@@ -8892,7 +9934,8 @@
       },
       "🐄": {
         "default": [
-          "inək"
+          "inək",
+          "süd"
         ],
         "tts": [
           "inək"
@@ -8939,7 +9982,9 @@
       },
       "🐏": {
         "default": [
+          "heyvan",
           "qoç",
+          "qoç bürcü",
           "qoyun",
           "zodiak"
         ],
@@ -8950,7 +9995,9 @@
       "🐑": {
         "default": [
           "dişi qoyun",
-          "qoyun"
+          "heyvan",
+          "qoyun",
+          "quzu"
         ],
         "tts": [
           "qoyun"
@@ -9010,7 +10057,8 @@
       },
       "🐘": {
         "default": [
-          "fil"
+          "fil",
+          "heyvan"
         ],
         "tts": [
           "fil"
@@ -9020,6 +10068,7 @@
         "default": [
           "böyük",
           "diş",
+          "heyvan",
           "mamont",
           "xovlu",
           "yox olma"
@@ -9039,6 +10088,8 @@
       },
       "🦛": {
         "default": [
+          "begemot",
+          "heyvan",
           "hippo",
           "hippopotam"
         ],
@@ -9105,7 +10156,8 @@
       "🐿": {
         "default": [
           "brunduk",
-          "burunduk"
+          "burunduk",
+          "dələ"
         ],
         "tts": [
           "brunduk"
@@ -9114,6 +10166,8 @@
       "🦫": {
         "default": [
           "dişi",
+          "dişlər",
+          "heyvan",
           "qunduz"
         ],
         "tts": [
@@ -9142,6 +10196,7 @@
         "default": [
           "ayı",
           "ayı üzü",
+          "heyvan",
           "üz"
         ],
         "tts": [
@@ -9162,6 +10217,7 @@
       "🐨": {
         "default": [
           "ayı",
+          "heyvan",
           "koala"
         ],
         "tts": [
@@ -9170,6 +10226,7 @@
       },
       "🐼": {
         "default": [
+          "heyvan",
           "panda",
           "panda üzü",
           "üz"
@@ -9180,6 +10237,8 @@
       },
       "🦥": {
         "default": [
+          "ərincək",
+          "folivora",
           "tənbəl",
           "yavaş"
         ],
@@ -9241,7 +10300,8 @@
       "🦃": {
         "default": [
           "hinduşka",
-          "quş"
+          "quş",
+          "şükran günü"
         ],
         "tts": [
           "hinduşka"
@@ -9291,7 +10351,8 @@
           "cücə",
           "körpə",
           "qabağa baxan balaca cücə",
-          "quş"
+          "quş",
+          "yenicə yumurtadan çıxmış cücə"
         ],
         "tts": [
           "qabağa baxan balaca cücə"
@@ -9299,6 +10360,7 @@
       },
       "🐦": {
         "default": [
+          "ornitologiya",
           "quş"
         ],
         "tts": [
@@ -9347,6 +10409,7 @@
         "default": [
           "qu",
           "qu balası",
+          "qu quşu",
           "quş",
           "suya girmə"
         ],
@@ -9368,7 +10431,9 @@
         "default": [
           "böyük",
           "dodo",
+          "heyvan",
           "Mavriki",
+          "quş",
           "yox olma"
         ],
         "tts": [
@@ -9402,7 +10467,9 @@
           "farmazon",
           "qürrəli",
           "quş",
-          "tovuz"
+          "rəngli",
+          "tovuz",
+          "tovuzquşu"
         ],
         "tts": [
           "tovuz"
@@ -9426,21 +10493,67 @@
           "mifologiya",
           "qanad",
           "quş",
-          "uçan"
+          "uçan",
+          "uçmaq"
         ],
         "tts": [
           "qanad"
         ]
       },
+      "🐦‍⬛": {
+        "default": [
+          "alaqarğa",
+          "dimdik",
+          "heyvan",
+          "qara",
+          "qaraqarğa",
+          "qarğa",
+          "quş",
+          "zağca"
+        ],
+        "tts": [
+          "qara quş"
+        ]
+      },
       "🪿": {
         "default": [
           "axmaq",
+          "axmaq adam",
+          "dəstə",
+          "ev quşu",
+          "heyvan",
           "korna",
+          "ördək",
           "qaz",
           "quş"
         ],
         "tts": [
           "qaz"
+        ]
+      },
+      "🐦‍🔥": {
+        "default": [
+          "alov quşu",
+          "başdan-ayağa dəyişdirmək",
+          "bərpa",
+          "dirçəliş",
+          "dirçəlmək",
+          "əbədi",
+          "əzəmət",
+          "fantastika",
+          "feniks",
+          "feniks kimi küllərindən yenidən doğmaq",
+          "fentezi",
+          "peyda olmaq",
+          "reinkarnasiya",
+          "ruhu yeni bədənə keçmək",
+          "təkrar doğulma",
+          "yenidən yaratmaq",
+          "yüksəlmə",
+          "yüksəlmək"
+        ],
+        "tts": [
+          "feniks"
         ]
       },
       "🐸": {
@@ -9455,7 +10568,10 @@
       },
       "🐊": {
         "default": [
-          "timsah"
+          "heyvan",
+          "krokodil",
+          "timsah",
+          "zoopark"
         ],
         "tts": [
           "timsah"
@@ -9464,6 +10580,7 @@
       "🐢": {
         "default": [
           "bağa",
+          "heyvan",
           "su tısbağası",
           "tısbağa"
         ],
@@ -9515,6 +10632,7 @@
         "default": [
           "braxiozavr",
           "brontozavr",
+          "dinozavr",
           "diplodok",
           "sauropod"
         ],
@@ -9524,6 +10642,7 @@
       },
       "🦖": {
         "default": [
+          "dinozavr",
           "Tirannozavr Reks",
           "Tireks"
         ],
@@ -9534,6 +10653,8 @@
       "🐳": {
         "default": [
           "balina",
+          "dəniz",
+          "okean",
           "püskürtmək",
           "su püskürdən balina",
           "üz"
@@ -9563,6 +10684,7 @@
       "🦭": {
         "default": [
           "dəniş şiri",
+          "okean",
           "suiti"
         ],
         "tts": [
@@ -9609,6 +10731,8 @@
       },
       "🐙": {
         "default": [
+          "canlı",
+          "okean",
           "osminoq"
         ],
         "tts": [
@@ -9626,6 +10750,8 @@
       },
       "🪸": {
         "default": [
+          "dəniz",
+          "iqlim dəyişikliyi",
           "mərcan",
           "okean",
           "rif"
@@ -9636,10 +10762,15 @@
       },
       "🪼": {
         "default": [
+          "akvarium",
           "dəniz",
+          "dəniz həyatı",
+          "heyvan",
           "jele",
           "meduza",
+          "okean",
           "onurğasız",
+          "plankton",
           "sancmaq",
           "uu",
           "yandırmaq"
@@ -9648,9 +10779,64 @@
           "meduza"
         ]
       },
+      "🦀": {
+        "default": [
+          "qırmızı xərçəng",
+          "xərçəng",
+          "zodiak"
+        ],
+        "tts": [
+          "qırmızı xərçəng"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "caynaq",
+          "dəniz məhsulu",
+          "dəniz mətbəxi",
+          "lobster",
+          "omar",
+          "xərçəng əti"
+        ],
+        "tts": [
+          "lobster"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "krevet",
+          "su canlısı",
+          "xərçəng"
+        ],
+        "tts": [
+          "krevet"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "kalmar",
+          "molyuska",
+          "səkkiz ayaq",
+          "su canlısı"
+        ],
+        "tts": [
+          "səkkiz ayaq"
+        ]
+      },
+      "🦪": {
+        "default": [
+          "mirvari",
+          "stridiya",
+          "suyagirmə"
+        ],
+        "tts": [
+          "stridiya"
+        ]
+      },
       "🐌": {
         "default": [
-          "ilbiz"
+          "ilbiz",
+          "təbiət"
         ],
         "tts": [
           "ilbiz"
@@ -9668,6 +10854,7 @@
       },
       "🐛": {
         "default": [
+          "bağça",
           "böcək",
           "həşərat"
         ],
@@ -9688,7 +10875,9 @@
         "default": [
           "arı",
           "bal arısı",
-          "həşərat"
+          "həşərat",
+          "təbiət",
+          "yaz"
         ],
         "tts": [
           "bal arısı"
@@ -9697,6 +10886,7 @@
       "🪲": {
         "default": [
           "böcək",
+          "heyvan",
           "həşərat",
           "tarakan"
         ],
@@ -9709,7 +10899,8 @@
           "böcək",
           "həşərat",
           "parabizən",
-          "parabüzən"
+          "parabüzən",
+          "uğur böcəyi"
         ],
         "tts": [
           "parabüzən"
@@ -9717,8 +10908,11 @@
       },
       "🦗": {
         "default": [
+          "böcək",
           "çəyirtkə",
-          "cırcırama"
+          "cırcırama",
+          "həşərat",
+          "kriket"
         ],
         "tts": [
           "cırcırama"
@@ -9726,6 +10920,7 @@
       },
       "🪳": {
         "default": [
+          "heyvan",
           "həşərat",
           "mətbəxqurdu",
           "parazit",
@@ -9768,6 +10963,7 @@
           "ağcaqanad",
           "həşərat",
           "malariya",
+          "malyariya",
           "qızdırma",
           "virus",
           "xəstəlik"
@@ -9779,6 +10975,7 @@
       "🪰": {
         "default": [
           "çürümə",
+          "həşərat",
           "milçək",
           "sürfə",
           "xəstəlik",
@@ -9802,6 +10999,7 @@
         "default": [
           "amöb",
           "bakteriya",
+          "elm",
           "mikrob",
           "virus"
         ],
@@ -9811,8 +11009,11 @@
       },
       "💐": {
         "default": [
+          "ad günü",
           "buket",
-          "gül"
+          "çiçək",
+          "gül",
+          "gül dəstəsi"
         ],
         "tts": [
           "buket"
@@ -9843,10 +11044,14 @@
         "default": [
           "Buddizm",
           "çiçək",
+          "dinclik",
+          "gözəllik",
           "Hindistan",
           "Hinduizm",
           "lotus",
           "saflıq",
+          "sakitlik",
+          "sükunət",
           "Vyetnam"
         ],
         "tts": [
@@ -9856,6 +11061,8 @@
       "🏵": {
         "default": [
           "bitki",
+          "gül forması",
+          "rosette",
           "rozetka"
         ],
         "tts": [
@@ -9875,6 +11082,7 @@
       "🥀": {
         "default": [
           "gül",
+          "qurumuş çiçək",
           "solmaq",
           "solmuş gül"
         ],
@@ -9885,6 +11093,7 @@
       "🌺": {
         "default": [
           "bitki",
+          "çiçək",
           "gül",
           "hibiskus"
         ],
@@ -9916,7 +11125,9 @@
       "🌷": {
         "default": [
           "bitki",
+          "çiçək",
           "gül",
+          "lalə",
           "liliya"
         ],
         "tts": [
@@ -9925,12 +11136,21 @@
       },
       "🪻": {
         "default": [
+          "bənövşə",
+          "bənövşəyi",
+          "bitki",
+          "əkin güləvəri",
           "göypapaq",
           "gül",
+          "indiqo",
           "lavanda",
           "lupin",
           "snapdragon",
-          "sümbül"
+          "sümbül",
+          "sünbül",
+          "sünbülçiçəyi",
+          "yasəmən",
+          "yaz"
         ],
         "tts": [
           "sümbül"
@@ -9940,7 +11160,8 @@
         "default": [
           "bitki",
           "cavan",
-          "şitil"
+          "şitil",
+          "toxum"
         ],
         "tts": [
           "şitil"
@@ -9950,6 +11171,7 @@
         "default": [
           "becərmək",
           "bitki",
+          "dibçək",
           "dibçək bitkisi",
           "ev",
           "faydasız",
@@ -9964,7 +11186,10 @@
         "default": [
           "ağac",
           "bitki",
-          "həmişəyaşıl"
+          "həmişəyaşıl",
+          "meşə",
+          "şam ağacı",
+          "yeni ildə bəzədilən şam ağacı"
         ],
         "tts": [
           "həmişəyaşıl"
@@ -9986,7 +11211,8 @@
           "ağac",
           "bitki",
           "palma",
-          "palma ağacı"
+          "palma ağacı",
+          "tropik"
         ],
         "tts": [
           "palma ağacı"
@@ -10004,9 +11230,12 @@
       "🌾": {
         "default": [
           "bitki",
+          "dən",
           "düyü",
           "düyü sünbülü",
-          "qulaq"
+          "qulaq",
+          "sünbül",
+          "taxıl"
         ],
         "tts": [
           "düyü sünbülü"
@@ -10016,6 +11245,7 @@
         "default": [
           "bitki",
           "dərman bitkisi",
+          "ot",
           "yarpaq"
         ],
         "tts": [
@@ -10036,6 +11266,7 @@
           "4",
           "bitki",
           "dörd",
+          "dördyarpaq yonca",
           "yarpaq",
           "yonca"
         ],
@@ -10058,6 +11289,7 @@
       "🍂": {
         "default": [
           "bitki",
+          "payız",
           "tökülən yarpaq",
           "tökülmək",
           "yarpaq"
@@ -10082,6 +11314,9 @@
       "🪹": {
         "default": [
           "boş yuva",
+          "budaq",
+          "ev",
+          "yuva",
           "yuvalama"
         ],
         "tts": [
@@ -10090,7 +11325,12 @@
       },
       "🪺": {
         "default": [
+          "budaq",
+          "quş",
+          "yumurta",
+          "yumurtalar",
           "yumurtalı yuva",
+          "yuva",
           "yuvalama"
         ],
         "tts": [
@@ -10106,6 +11346,23 @@
           "göbələk"
         ]
       },
+      "🪾": {
+        "default": [
+          "ağac",
+          "barsız",
+          "budaqlar",
+          "çılpaq",
+          "ğlü",
+          "gövdə",
+          "oduncaq",
+          "qış",
+          "quraqlıq",
+          "yarpaqsız"
+        ],
+        "tts": [
+          "yarpaqsız ağac"
+        ]
+      },
       "🍇": {
         "default": [
           "meyvə",
@@ -10117,7 +11374,9 @@
       },
       "🍈": {
         "default": [
+          "bostan bitkisi",
           "meyvə",
+          "qovun",
           "yemiş"
         ],
         "tts": [
@@ -10126,6 +11385,7 @@
       },
       "🍉": {
         "default": [
+          "bostan bitkisi",
           "meyvə",
           "qarpız"
         ],
@@ -10137,7 +11397,9 @@
         "default": [
           "mandarin",
           "meyvə",
-          "portağal"
+          "portağal",
+          "sitrus",
+          "vitamin c"
         ],
         "tts": [
           "mandarin"
@@ -10153,6 +11415,31 @@
           "limon"
         ]
       },
+      "🍋‍🟩": {
+        "default": [
+          "içkiyə dad verən ədviyyat",
+          "kokteyl",
+          "kokteyl bəzəyi",
+          "laym",
+          "limonlu piroq",
+          "marqarita",
+          "meyvə",
+          "mohito",
+          "salsa",
+          "sərinləşdirici",
+          "şirə",
+          "sitrus",
+          "tekila",
+          "tropik",
+          "turş",
+          "turşməzə",
+          "turşuluq dərəcəsi",
+          "yaşıl limon"
+        ],
+        "tts": [
+          "laym"
+        ]
+      },
       "🍌": {
         "default": [
           "banan",
@@ -10165,7 +11452,10 @@
       "🍍": {
         "default": [
           "ananas",
-          "meyvə"
+          "kolada",
+          "meyvə",
+          "pina",
+          "tropik"
         ],
         "tts": [
           "ananas"
@@ -10242,6 +11532,7 @@
       "🫐": {
         "default": [
           "giləmeyvə",
+          "meyvə",
           "qaragilə",
           "qaragilələr"
         ],
@@ -10289,7 +11580,8 @@
       "🥑": {
         "default": [
           "avokado",
-          "meyvə"
+          "meyvə",
+          "yemək"
         ],
         "tts": [
           "avokado"
@@ -10327,7 +11619,8 @@
           "qarğıdalı",
           "qarğıdalı qamışı",
           "qarğıdalı sünbülü",
-          "sünbül"
+          "sünbül",
+          "tarla"
         ],
         "tts": [
           "qarğıdalı sünbülü"
@@ -10386,7 +11679,9 @@
       },
       "🧄": {
         "default": [
+          "dad",
           "dadlandırma",
+          "qoxu",
           "sarımsaq"
         ],
         "tts": [
@@ -10395,6 +11690,7 @@
       },
       "🧅": {
         "default": [
+          "dad",
           "dadlandırma",
           "soğan"
         ],
@@ -10405,7 +11701,8 @@
       "🥜": {
         "default": [
           "çərəz",
-          "yer fındığı"
+          "yer fındığı",
+          "yerfındığı"
         ],
         "tts": [
           "yer fındığı"
@@ -10414,6 +11711,7 @@
       "🫘": {
         "default": [
           "böyrək",
+          "kiçik",
           "lobya",
           "paxlalı",
           "qida"
@@ -10433,9 +11731,13 @@
       },
       "🫚": {
         "default": [
+          "bitki",
           "ədviyyat",
           "kök",
           "pivə",
+          "sağlamlıq",
+          "təbii",
+          "zəncəfil",
           "zəncəfil kökü"
         ],
         "tts": [
@@ -10450,10 +11752,52 @@
           "noxud qabığı",
           "paxlalı",
           "pod",
-          "tərəvəz"
+          "soya",
+          "tərəvəz",
+          "vegetarian"
         ],
         "tts": [
           "noxud qabığı"
+        ]
+      },
+      "🍄‍🟫": {
+        "default": [
+          "cücərti",
+          "əlavələr",
+          "göbələk",
+          "göbələk növü",
+          "göbələklər",
+          "hallüsinasiya yaradan göbələk",
+          "pizzanın üzərinə vurulan əlavələr",
+          "portobello",
+          "qəhvəyi göbələk",
+          "qida",
+          "Şiitake göbələyi",
+          "spor",
+          "təbiət",
+          "tərəvəz",
+          "tərəvəz növləri",
+          "trüfel göbələyi",
+          "vegetarian"
+        ],
+        "tts": [
+          "qəhvəyi göbələk"
+        ]
+      },
+      "🫜": {
+        "default": [
+          "bağ",
+          "çuğundur",
+          "kök",
+          "qida",
+          "salat",
+          "şalğam",
+          "tərəvəz",
+          "turp",
+          "vegetarian"
+        ],
+        "tts": [
+          "meyvəköklü"
         ]
       },
       "🍞": {
@@ -10478,6 +11822,7 @@
       },
       "🥖": {
         "default": [
+          "baget çörəyi",
           "çörək",
           "kərpic çörək",
           "tikə",
@@ -10500,6 +11845,7 @@
       "🥨": {
         "default": [
           "burulmuş",
+          "kraker",
           "pretsel"
         ],
         "tts": [
@@ -10509,8 +11855,11 @@
       "🥯": {
         "default": [
           "bublik",
+          "bulka",
           "bulki",
-          "çörəkxana"
+          "çörək",
+          "çörəkxana",
+          "səhər yeməyi"
         ],
         "tts": [
           "bublik"
@@ -10520,6 +11869,7 @@
         "default": [
           "blin",
           "kökə",
+          "pankeyk",
           "yemək"
         ],
         "tts": [
@@ -10530,6 +11880,7 @@
         "default": [
           "dəmir",
           "qərarsız",
+          "səhər yeməyi",
           "vafli"
         ],
         "tts": [
@@ -10569,6 +11920,7 @@
       "🥩": {
         "default": [
           "ət tikəsi",
+          "quzu əti",
           "steyk"
         ],
         "tts": [
@@ -10578,6 +11930,7 @@
       "🥓": {
         "default": [
           "bekon",
+          "ərzaq",
           "ət"
         ],
         "tts": [
@@ -10596,6 +11949,7 @@
       "🍟": {
         "default": [
           "fransız",
+          "fri",
           "kartof qızartması",
           "qızartma"
         ],
@@ -10607,7 +11961,8 @@
         "default": [
           "dilim",
           "pendir",
-          "pizza"
+          "pizza",
+          "pizza dilimi"
         ],
         "tts": [
           "pizza"
@@ -10617,6 +11972,7 @@
         "default": [
           "frankfurter",
           "hot doq",
+          "hot-doq",
           "hotdoq",
           "sosiska"
         ],
@@ -10636,6 +11992,7 @@
       "🌮": {
         "default": [
           "meksika",
+          "meksika mətbəxi",
           "tako"
         ],
         "tts": [
@@ -10645,7 +12002,8 @@
       "🌯": {
         "default": [
           "buritto",
-          "meksika"
+          "meksika",
+          "Meksika mətbəxi"
         ],
         "tts": [
           "buritto"
@@ -10655,7 +12013,8 @@
         "default": [
           "dürüm",
           "meksika",
-          "tamal"
+          "tamal",
+          "yemək"
         ],
         "tts": [
           "tamal"
@@ -10664,6 +12023,8 @@
       "🥙": {
         "default": [
           "bişirmək",
+          "ərzaq",
+          "kabab",
           "qutab",
           "yemək"
         ],
@@ -10675,7 +12036,9 @@
         "default": [
           "falafel",
           "küftə",
-          "noxud"
+          "noxud",
+          "paxlakimilər",
+          "qoyunnoxudu"
         ],
         "tts": [
           "falafel"
@@ -10693,6 +12056,7 @@
       "🍳": {
         "default": [
           "bişirmək",
+          "qayğanaq",
           "qızartmaq",
           "tava",
           "yumurta"
@@ -10706,6 +12070,7 @@
           "dayaz",
           "qazan",
           "qida",
+          "tava",
           "yemək"
         ],
         "tts": [
@@ -10716,6 +12081,7 @@
         "default": [
           "qab",
           "raqu",
+          "sup",
           "yemək qazanı"
         ],
         "tts": [
@@ -10729,7 +12095,8 @@
           "güvəc",
           "İsveçrə",
           "pendir",
-          "şokolad"
+          "şokolad",
+          "yemək"
         ],
         "tts": [
           "fondyu"
@@ -10739,7 +12106,8 @@
         "default": [
           "dənəvər",
           "qaşıq ilə kasa",
-          "səhər yeməyi"
+          "səhər yeməyi",
+          "yulaf sıyığı"
         ],
         "tts": [
           "qaşıq ilə kasa"
@@ -10747,6 +12115,7 @@
       },
       "🥗": {
         "default": [
+          "göyərti",
           "salat",
           "tərəvəz",
           "yaşıl"
@@ -10757,6 +12126,7 @@
       },
       "🍿": {
         "default": [
+          "film",
           "popkorn"
         ],
         "tts": [
@@ -10774,6 +12144,7 @@
       },
       "🧂": {
         "default": [
+          "dad",
           "duz",
           "duzqabı",
           "ədviyyat"
@@ -10785,7 +12156,8 @@
       "🥫": {
         "default": [
           "konserv",
-          "konserv qida"
+          "konserv qida",
+          "konservləşdirilmiş qida"
         ],
         "tts": [
           "konserv qida"
@@ -10793,6 +12165,7 @@
       },
       "🍱": {
         "default": [
+          "bento qutusu",
           "bentu",
           "bentu qutusu",
           "qutu"
@@ -10805,6 +12178,7 @@
         "default": [
           "düyü",
           "düyü krekeri",
+          "ərzaq",
           "kreker"
         ],
         "tts": [
@@ -10835,7 +12209,8 @@
         "default": [
           "düyü",
           "karri",
-          "karri düyüsü"
+          "karri düyüsü",
+          "yemək"
         ],
         "tts": [
           "karri düyüsü"
@@ -10847,7 +12222,10 @@
           "buxarlanan kasa",
           "əriştə",
           "kasa",
-          "ramen"
+          "qaynar",
+          "ramen",
+          "yemək",
+          "yemək çubuqları"
         ],
         "tts": [
           "buxarlanan kasa"
@@ -10855,6 +12233,7 @@
       },
       "🍝": {
         "default": [
+          "İtaliya mətbəxi",
           "makaron",
           "spagetti"
         ],
@@ -10864,9 +12243,11 @@
       },
       "🍠": {
         "default": [
+          "ərzaq",
           "kartof",
           "qızardılmış",
-          "şirin"
+          "şirin",
+          "yemək"
         ],
         "tts": [
           "qızardılmış şirin kartof"
@@ -10886,7 +12267,9 @@
       },
       "🍣": {
         "default": [
-          "suşi"
+          "çin mətbəxi",
+          "suşi",
+          "yemək"
         ],
         "tts": [
           "suşi"
@@ -10906,10 +12289,13 @@
       "🍥": {
         "default": [
           "balıq",
+          "balıq tortu",
           "burulğan",
           "piroq",
+          "restoran",
           "spiralşəkilli balıq piroqu",
-          "xəmir"
+          "xəmir",
+          "Yapon mətbəxi"
         ],
         "tts": [
           "spiralşəkilli balıq piroqu"
@@ -10933,7 +12319,8 @@
           "desert",
           "şirin",
           "şiş",
-          "yapon"
+          "yapon",
+          "Yapon şirniyyatı"
         ],
         "tts": [
           "danqo"
@@ -10955,6 +12342,7 @@
       "🥠": {
         "default": [
           "bəxt peçenyesi",
+          "Çin mətbəxi",
           "peyğəmbərlik"
         ],
         "tts": [
@@ -10964,60 +12352,13 @@
       "🥡": {
         "default": [
           "özünlə aparmaq qutusu",
-          "stridiya vedrəsi"
+          "paketləmə xidməti",
+          "stridiya vedrəsi",
+          "yemək çatdırılması",
+          "yemək çubuqları"
         ],
         "tts": [
           "özünlə aparmaq qutusu"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "qırmızı xərçəng",
-          "xərçəng",
-          "zodiak"
-        ],
-        "tts": [
-          "qırmızı xərçəng"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "caynaq",
-          "dəniz mətbəxi",
-          "lobster",
-          "xərçəng əti"
-        ],
-        "tts": [
-          "lobster"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "krevet",
-          "su canlısı",
-          "xərçəng"
-        ],
-        "tts": [
-          "krevet"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "səkkiz ayaq",
-          "su canlısı"
-        ],
-        "tts": [
-          "səkkiz ayaq"
-        ]
-      },
-      "🦪": {
-        "default": [
-          "mirvari",
-          "stridiya",
-          "suyagirmə"
-        ],
-        "tts": [
-          "stridiya"
         ]
       },
       "🍦": {
@@ -11038,6 +12379,7 @@
         "default": [
           "buz",
           "desert",
+          "restoran",
           "rəndələnmiş",
           "rəndələnmiş dondurma",
           "şirin"
@@ -11084,6 +12426,7 @@
           "ad günü tortu",
           "bayram",
           "desert",
+          "doğum günü tortu",
           "şirin",
           "tort",
           "xəmir"
@@ -11098,6 +12441,7 @@
           "desert",
           "dilim",
           "şirin",
+          "şirniyyat",
           "tort",
           "xəmir"
         ],
@@ -11109,6 +12453,7 @@
         "default": [
           "çörəkxana",
           "keks",
+          "şəkər tozu",
           "şirniyyat"
         ],
         "tts": [
@@ -11117,7 +12462,9 @@
       },
       "🥧": {
         "default": [
+          "meyvəli keks",
           "piroq",
+          "şirniyyat",
           "tort"
         ],
         "tts": [
@@ -11129,6 +12476,7 @@
           "desert",
           "plitka",
           "şirin",
+          "şirniyyat",
           "şokolad",
           "şokolad plitkası"
         ],
@@ -11150,6 +12498,7 @@
         "default": [
           "desert",
           "konfet",
+          "nabat",
           "şirin",
           "şüşəli karamel"
         ],
@@ -11162,7 +12511,8 @@
           "bişirilmiş krem",
           "desert",
           "pudinq",
-          "şirin"
+          "şirin",
+          "şirniyyat"
         ],
         "tts": [
           "bişirilmiş krem"
@@ -11171,6 +12521,7 @@
       "🍯": {
         "default": [
           "bal",
+          "bal küpü",
           "bal qabı",
           "qab",
           "şirin"
@@ -11185,6 +12536,7 @@
           "körpə",
           "süd",
           "şüşə",
+          "uşağın süd şüşəsi",
           "uşaq şüşəsi"
         ],
         "tts": [
@@ -11219,6 +12571,7 @@
         "default": [
           "çay",
           "çaynik",
+          "dəmləmək",
           "içmək",
           "kupə"
         ],
@@ -11242,8 +12595,10 @@
         "default": [
           "bar",
           "fincan",
+          "fincan dəsti",
           "içki",
           "içmək",
+          "restoran",
           "sake",
           "şüşə"
         ],
@@ -11271,6 +12626,7 @@
           "içmək",
           "şərab",
           "şərab bakalı",
+          "spirtli içki",
           "şüşə"
         ],
         "tts": [
@@ -11280,6 +12636,7 @@
       "🍸": {
         "default": [
           "bar",
+          "içki",
           "içmək",
           "kokteyl",
           "kokteyl bakalı",
@@ -11291,8 +12648,10 @@
       },
       "🍹": {
         "default": [
+          "alkoqol",
           "bar",
           "içmək",
+          "kokteyl",
           "tropik",
           "tropik içki"
         ],
@@ -11306,7 +12665,9 @@
           "içmək",
           "krujka",
           "pivə",
-          "pivə krujkası"
+          "pivə bakalı",
+          "pivə krujkası",
+          "spirtli içki"
         ],
         "tts": [
           "pivə krujkası"
@@ -11319,6 +12680,7 @@
           "içmək",
           "krujka",
           "pivə",
+          "pivə bakallarını toqquşdurmaq",
           "pivə krujkalarını toqquşdurmaq"
         ],
         "tts": [
@@ -11329,6 +12691,7 @@
         "default": [
           "badə",
           "badələri qaldırmaq",
+          "qeyd etmək",
           "sağlıq demək",
           "toqquşdurmaq"
         ],
@@ -11340,7 +12703,10 @@
         "default": [
           "içki",
           "likör",
+          "skoç",
           "spirtli",
+          "stəkan",
+          "viski",
           "viski stəkanı"
         ],
         "tts": [
@@ -11352,8 +12718,12 @@
           "boş",
           "içki",
           "maye süzülməsi",
+          "su",
           "şüşə",
-          "tökmək"
+          "süzmək",
+          "tökmək",
+          "tökülmək",
+          "ups"
         ],
         "tts": [
           "maye süzülməsi"
@@ -11362,8 +12732,11 @@
       "🥤": {
         "default": [
           "borucuqlu stəkan",
+          "içki",
           "şirə",
-          "soda"
+          "soda",
+          "su",
+          "təbii şirə"
         ],
         "tts": [
           "borucuqlu stəkan"
@@ -11375,7 +12748,8 @@
           "köpük",
           "köpüklü çay",
           "mirvari",
-          "süd"
+          "süd",
+          "tayvan"
         ],
         "tts": [
           "köpüklü çay"
@@ -11384,7 +12758,9 @@
       "🧃": {
         "default": [
           "içki qutusu",
-          "şirə qutusu"
+          "şirə",
+          "şirə qutusu",
+          "şirin"
         ],
         "tts": [
           "içki qutusu"
@@ -11423,8 +12799,11 @@
           "bişirmək",
           "bıçaq",
           "boşqab",
+          "boşqab və çəngəl-bıçaq dəsti",
           "çəngəl",
-          "çəngəl və bıçaq ilə boşqab"
+          "çəngəl və bıçaq ilə boşqab",
+          "nahar",
+          "yemək"
         ],
         "tts": [
           "çəngəl və bıçaq ilə boşqab"
@@ -11432,10 +12811,13 @@
       },
       "🍴": {
         "default": [
+          "ac",
           "bişirmək",
           "bıçaq",
           "çəngəl",
-          "çəngəl və bıçaq"
+          "çəngəl və bıçaq",
+          "çəngəl-bıçaq",
+          "yemək"
         ],
         "tts": [
           "çəngəl və bıçaq"
@@ -11457,6 +12839,7 @@
           "bişirmək",
           "bıçaq",
           "hoço",
+          "kəsmək",
           "mətbəx bıçağı",
           "silah"
         ],
@@ -11467,8 +12850,10 @@
       "🫙": {
         "default": [
           "banka",
+          "boş",
           "çeşni",
           "ədva",
+          "heç nə",
           "konteyner",
           "mağaza",
           "sous"
@@ -11485,6 +12870,7 @@
           "dolça",
           "içmək",
           "silah",
+          "suqabı",
           "zodiak"
         ],
         "tts": [
@@ -11494,7 +12880,9 @@
       "🌍": {
         "default": [
           "afrika",
+          "Afrika",
           "avropa",
+          "Avropa",
           "Avropa-Afrikanı göstərən qlobus",
           "dünya",
           "qlobus",
@@ -11507,6 +12895,7 @@
       "🌎": {
         "default": [
           "amerika",
+          "Amerika qitələrini göstərən qlobus",
           "amerika-qitələrini göstərən qlobus",
           "dünya",
           "qlobus",
@@ -11614,6 +13003,7 @@
       },
       "🏕": {
         "default": [
+          "düşərgə",
           "kempinq"
         ],
         "tts": [
@@ -11678,6 +13068,7 @@
         "default": [
           "bina",
           "bina tikintisi",
+          "kran",
           "tikinti"
         ],
         "tts": [
@@ -11740,10 +13131,12 @@
       },
       "🏚": {
         "default": [
+          "baxımsız ev",
           "baxımsız ev binası",
           "bina",
           "ev",
-          "tərk edilmiş"
+          "tərk edilmiş",
+          "tərk edilmiş ev"
         ],
         "tts": [
           "baxımsız ev binası"
@@ -11763,6 +13156,7 @@
       "🏡": {
         "default": [
           "bağ",
+          "bağ evi",
           "bağı olan ev",
           "bina",
           "ev",
@@ -11918,7 +13312,8 @@
         "default": [
           "qala",
           "tokio",
-          "tokiyo qalası"
+          "tokiyo qalası",
+          "Tokyo qalası"
         ],
         "tts": [
           "tokiyo qalası"
@@ -11928,7 +13323,8 @@
         "default": [
           "azadlıq",
           "azadlıq heykəli",
-          "heykəl"
+          "heykəl",
+          "Nyu-york"
         ],
         "tts": [
           "azadlıq heykəli"
@@ -11969,6 +13365,7 @@
       "🕍": {
         "default": [
           "din",
+          "iudaizm",
           "məbəd",
           "sinaqoq",
           "yəhudi"
@@ -11981,8 +13378,10 @@
         "default": [
           "din",
           "məbəd",
+          "məqbərə",
           "sinto",
-          "sinto məbədi"
+          "sinto məbədi",
+          "türbə"
         ],
         "tts": [
           "sinto məbədi"
@@ -11991,9 +13390,11 @@
       "🕋": {
         "default": [
           "din",
+          "həc",
           "islam",
           "kəbə",
-          "müsəlman"
+          "müsəlman",
+          "ümrə"
         ],
         "tts": [
           "kəbə"
@@ -12001,6 +13402,7 @@
       },
       "⛲": {
         "default": [
+          "fəvvarə",
           "fontan"
         ],
         "tts": [
@@ -12097,7 +13499,7 @@
       "🌉": {
         "default": [
           "axşam",
-          "gecə körpü",
+          "gecə",
           "hava",
           "körpü"
         ],
@@ -12107,8 +13509,10 @@
       },
       "♨": {
         "default": [
+          "buğ",
           "bulaqlar",
           "buxarlanan",
+          "buxarlanma",
           "isti",
           "qaynar bulaqlar"
         ],
@@ -12129,7 +13533,10 @@
         "default": [
           "əyləncə parkı",
           "oynamaq",
-          "oyun slaydı"
+          "oyun sahəsi",
+          "oyun slaydı",
+          "sürüşkən",
+          "sürüşmək"
         ],
         "tts": [
           "oyun slaydı"
@@ -12160,6 +13567,7 @@
       "💈": {
         "default": [
           "bərbər",
+          "bərbərxana simvolu",
           "saç düzümü",
           "şlaqbaum",
           "sütun"
@@ -12182,6 +13590,7 @@
         "default": [
           "buxar",
           "dəmir yolu",
+          "dəmiryolu",
           "lokomotiv",
           "mühərrik",
           "nəqliyyat",
@@ -12195,8 +13604,12 @@
         "default": [
           "dəmir yolu",
           "dəmir yolu qatarı vaqonu",
+          "dəmiryolu",
           "elektrik",
-          "maşın"
+          "elektrik qatarı",
+          "maşın",
+          "tramvay",
+          "trolleybus"
         ],
         "tts": [
           "dəmir yolu qatarı vaqonu"
@@ -12205,10 +13618,13 @@
       "🚄": {
         "default": [
           "dəmir yolu",
+          "dəmiryolu",
+          "ekspress qatar",
           "nəqliyyat",
           "qatar",
           "sərnişin ekspressi",
           "sürət",
+          "yüksək sürət qatarı",
           "yüksək sürətli qatar"
         ],
         "tts": [
@@ -12218,12 +13634,15 @@
       "🚅": {
         "default": [
           "dəmir yolu",
+          "dəmiryolu",
           "güllə",
           "gülləyə bənzər ucluqlu yüksək sürət qatarı",
           "nəqliyyat",
+          "nəqliyyat vasitəsi",
           "qatar",
           "sərnişin ekspressi",
-          "sürət"
+          "sürət",
+          "sürət qatarı"
         ],
         "tts": [
           "gülləyə bənzər ucluqlu yüksək sürət qatarı"
@@ -12232,6 +13651,7 @@
       "🚆": {
         "default": [
           "dəmir yolu",
+          "dəmiryolu",
           "nəqliyyat",
           "qatar"
         ],
@@ -12242,7 +13662,8 @@
       "🚇": {
         "default": [
           "metro",
-          "nəqliyyat"
+          "nəqliyyat",
+          "nəqliyyat vasitəsi"
         ],
         "tts": [
           "metro"
@@ -12251,7 +13672,9 @@
       "🚈": {
         "default": [
           "dəmir yolu",
+          "dəmiryolu",
           "işıq qatarı",
+          "monorels",
           "nəqliyyat"
         ],
         "tts": [
@@ -12261,7 +13684,9 @@
       "🚉": {
         "default": [
           "dəmir yolu",
+          "dəmiryolu",
           "nəqliyyat",
+          "nəqliyyat vasitəsi",
           "qatar",
           "stansiya"
         ],
@@ -12272,7 +13697,9 @@
       "🚊": {
         "default": [
           "nəqliyyat",
+          "nəqliyyat vasitəsi",
           "stritkar",
+          "tramvay",
           "trolleybus"
         ],
         "tts": [
@@ -12282,7 +13709,8 @@
       "🚝": {
         "default": [
           "monorels",
-          "nəqliyyat"
+          "nəqliyyat",
+          "nəqliyyat vasitəsi"
         ],
         "tts": [
           "monorels"
@@ -12293,6 +13721,7 @@
           "dağ",
           "dağ yolu",
           "dəmir yolu",
+          "dəmiryolu",
           "maşın",
           "nəqliyyat"
         ],
@@ -12302,6 +13731,7 @@
       },
       "🚋": {
         "default": [
+          "avtobus",
           "avtomobil",
           "tramvay",
           "tramvay vaqonu",
@@ -12314,7 +13744,8 @@
       "🚌": {
         "default": [
           "avtobus",
-          "nəqliyyat"
+          "nəqliyyat",
+          "nəqliyyat vasitəsi"
         ],
         "tts": [
           "avtobus"
@@ -12335,6 +13766,7 @@
         "default": [
           "avtobus",
           "nəqliyyat",
+          "nəqliyyat vasitəsi",
           "tramvay",
           "trolleybus"
         ],
@@ -12345,8 +13777,10 @@
       "🚐": {
         "default": [
           "avtobus",
+          "marşrut",
           "mini avtobus",
-          "nəqliyyat"
+          "nəqliyyat",
+          "sürmək"
         ],
         "tts": [
           "mini avtobus"
@@ -12400,7 +13834,9 @@
       "🚕": {
         "default": [
           "nəqliyyat",
-          "taksi"
+          "nəqliyyat vasitəsi",
+          "taksi",
+          "uber"
         ],
         "tts": [
           "taksi"
@@ -12408,7 +13844,9 @@
       },
       "🚖": {
         "default": [
+          "avtomobil",
           "nəqliyyat",
+          "nəqliyyat vasitəsi",
           "taksi",
           "yaxınlaşan taksi",
           "yaxınlaşma"
@@ -12421,7 +13859,8 @@
         "default": [
           "avtomobil",
           "maşın",
-          "nəqliyyat"
+          "nəqliyyat",
+          "nəqliyyat vasitəsi"
         ],
         "tts": [
           "avtomobil"
@@ -12432,6 +13871,7 @@
           "avtomobil",
           "maşın",
           "nəqliyyat",
+          "nəqliyyat vasitəsi",
           "yaxınlaşan avtomobil",
           "yaxınlaşma"
         ],
@@ -12441,7 +13881,9 @@
       },
       "🚙": {
         "default": [
+          "idman avtomobili",
           "nəqliyyat",
+          "nəqliyyat vasitəsi",
           "rekreasiya",
           "rekreasiya avtomobili",
           "rn"
@@ -12452,6 +13894,7 @@
       },
       "🛻": {
         "default": [
+          "avtomobil",
           "pikap",
           "pikap yüngül avtomobil",
           "yük avtomobili"
@@ -12464,6 +13907,7 @@
         "default": [
           "çatdırılma",
           "nəqliyyat",
+          "nəqliyyat vasitəsi",
           "yük maşını"
         ],
         "tts": [
@@ -12474,6 +13918,7 @@
         "default": [
           "konteynerli maşın",
           "nəqliyyat",
+          "nəqliyyat vasitəsi",
           "yarım",
           "yük maşını"
         ],
@@ -12521,6 +13966,7 @@
       },
       "🦽": {
         "default": [
+          "əlil arabası",
           "əlverişlilik",
           "manual təkərli kreslo"
         ],
@@ -12531,6 +13977,7 @@
       "🦼": {
         "default": [
           "əlverişlilik",
+          "motorlu əlil arabası",
           "motorlu təkərli kreslo"
         ],
         "tts": [
@@ -12606,6 +14053,7 @@
       "🛤": {
         "default": [
           "dəmir yolu",
+          "dəmiryolu",
           "qatar"
         ],
         "tts": [
@@ -12615,6 +14063,7 @@
       "🛢": {
         "default": [
           "neft",
+          "neft çəlləyi",
           "neft silindiri",
           "silindir"
         ],
@@ -12625,10 +14074,12 @@
       "⛽": {
         "default": [
           "boru",
+          "nasos",
           "qaz",
           "stansiya",
           "yanacaq",
-          "yanacaq borusu"
+          "yanacaq borusu",
+          "yanacaqdoldurma məntəqəsi"
         ],
         "tts": [
           "yanacaq borusu"
@@ -12637,7 +14088,10 @@
       "🛞": {
         "default": [
           "dairə",
+          "maşın",
+          "minik",
           "növbə",
+          "şin",
           "təkər"
         ],
         "tts": [
@@ -12652,7 +14106,9 @@
           "mayak",
           "nəqliyyat",
           "polis",
-          "polis maşının işığı"
+          "polis maşının işığı",
+          "polis maşınının işığı",
+          "siqnal"
         ],
         "tts": [
           "polis maşının işığı"
@@ -12692,6 +14148,7 @@
       },
       "🚧": {
         "default": [
+          "baryer",
           "maneə",
           "tikinti"
         ],
@@ -12711,11 +14168,13 @@
       },
       "🛟": {
         "default": [
+          "baken",
           "həyat qoruyucu",
           "təhlükəsizlik",
           "üzmək",
           "üzük buy",
-          "xilasetmə"
+          "xilasetmə",
+          "xilaskar"
         ],
         "tts": [
           "üzük buy"
@@ -12726,6 +14185,7 @@
           "dəniz",
           "kurort",
           "nəqliyyat",
+          "nəqliyyat vasitəsi",
           "qayıq",
           "yaxta",
           "yelkənli qayıq"
@@ -12757,6 +14217,7 @@
         "default": [
           "gəmi",
           "nəqliyyat",
+          "nəqliyyat vasitəsi",
           "sərnişin",
           "sərnişin gəmisi"
         ],
@@ -12767,7 +14228,9 @@
       "⛴": {
         "default": [
           "bərə gəmisi",
-          "qayıq"
+          "gəmi",
+          "qayıq",
+          "sərnişin"
         ],
         "tts": [
           "bərə gəmisi"
@@ -12777,6 +14240,7 @@
         "default": [
           "motorlu qayıq",
           "nəqliyyat",
+          "nəqliyyat vasitəsi",
           "qayıq"
         ],
         "tts": [
@@ -12786,7 +14250,10 @@
       "🚢": {
         "default": [
           "gəmi",
-          "nəqliyyat"
+          "nəqliyyat",
+          "sərnişin",
+          "səyahət",
+          "Titanik"
         ],
         "tts": [
           "gəmi"
@@ -12795,6 +14262,7 @@
       "✈": {
         "default": [
           "nəqliyyat",
+          "nəqliyyat vasitəsi",
           "təyyarə"
         ],
         "tts": [
@@ -12805,6 +14273,7 @@
         "default": [
           "balaca təyyarə",
           "nəqliyyat",
+          "nəqliyyat vasitəsi",
           "təyyarə"
         ],
         "tts": [
@@ -12813,6 +14282,7 @@
       },
       "🛫": {
         "default": [
+          "gediş",
           "nəqliyyat",
           "qeydiyyat",
           "təyyarə",
@@ -12830,8 +14300,10 @@
           "daxilolmalar",
           "eniş",
           "nəqliyyat",
+          "nəqliyyat vasitəsi",
           "təyyarə",
-          "təyyarə enir"
+          "təyyarə enir",
+          "uçüş"
         ],
         "tts": [
           "təyyarə enir"
@@ -12859,7 +14331,8 @@
       "🚁": {
         "default": [
           "helikopter",
-          "nəqliyyat"
+          "nəqliyyat",
+          "nəqliyyat vasitəsi"
         ],
         "tts": [
           "helikopter"
@@ -12869,7 +14342,9 @@
         "default": [
           "asılma",
           "asma dəmir yolu",
+          "asma dəmiryolu",
           "dəmir yolu",
+          "dəmiryolu",
           "nəqliyyat"
         ],
         "tts": [
@@ -12913,6 +14388,7 @@
       "🚀": {
         "default": [
           "kosmos",
+          "kosmosa səyahət",
           "nəqliyyat",
           "raket"
         ],
@@ -12942,6 +14418,7 @@
       },
       "🧳": {
         "default": [
+          "çamadan",
           "əşyaları toplamaq",
           "səyahət",
           "yük"
@@ -12982,6 +14459,7 @@
       },
       "⏰": {
         "default": [
+          "oyanmaq",
           "saat",
           "siqnal",
           "zəngli saat"
@@ -12993,7 +14471,8 @@
       "⏱": {
         "default": [
           "saat",
-          "saniyəölçən"
+          "saniyəölçən",
+          "vaxt"
         ],
         "tts": [
           "saniyəölçən"
@@ -13011,7 +14490,8 @@
       "🕰": {
         "default": [
           "buxarı saat",
-          "saat"
+          "saat",
+          "vaxt"
         ],
         "tts": [
           "buxarı saat"
@@ -13382,6 +14862,7 @@
         "default": [
           "ay",
           "böyüyən",
+          "dolan ay",
           "dörddə bir",
           "dörddə bir böyüyən ay",
           "hava",
@@ -13394,6 +14875,7 @@
       "🌕": {
         "default": [
           "ay",
+          "bədirlənmiş ay",
           "hava",
           "kosmos",
           "tam"
@@ -13405,6 +14887,7 @@
       "🌖": {
         "default": [
           "ay",
+          "azalan ay",
           "böyüyən",
           "hava",
           "kosmos",
@@ -13420,7 +14903,8 @@
           "ayın sonuncu dörddə bir hissəsi",
           "dörddə bir",
           "hava",
-          "kosmos"
+          "kosmos",
+          "son rüb"
         ],
         "tts": [
           "ayın sonuncu dörddə bir hissəsi"
@@ -13443,7 +14927,8 @@
           "ay",
           "aypara",
           "hava",
-          "kosmos"
+          "kosmos",
+          "səma"
         ],
         "tts": [
           "aypara"
@@ -13465,6 +14950,7 @@
         "default": [
           "ay",
           "ayın birinci dörrdə bir hissəsinin üzü",
+          "ayın ilk fazası",
           "dörddə bir",
           "hava",
           "kosmos",
@@ -13478,6 +14964,7 @@
         "default": [
           "ay",
           "ayın sonuncu dörddə bir hissəsinin üzü",
+          "ayın sonuncu fazası",
           "dörddə bir",
           "hava",
           "kosmos",
@@ -13525,8 +15012,10 @@
       },
       "🌞": {
         "default": [
+          "gün şüaları",
           "günəş",
           "hava",
+          "işıqlı",
           "kosmos",
           "parlaq",
           "üz",
@@ -13548,6 +15037,7 @@
       "⭐": {
         "default": [
           "ağ orta ulduz",
+          "astronomiya",
           "ulduz"
         ],
         "tts": [
@@ -13572,7 +15062,8 @@
           "kosmos",
           "parlama",
           "tökülmək",
-          "ulduz"
+          "ulduz",
+          "ulduz sürüşməsi"
         ],
         "tts": [
           "düşən ulduz"
@@ -13611,6 +15102,7 @@
       "⛈": {
         "default": [
           "bulud",
+          "göy gurultusu",
           "hava",
           "ildırım",
           "ildırım və yağışlı bulud",
@@ -13624,6 +15116,7 @@
         "default": [
           "balaca buludun arxasına günəş",
           "bulud",
+          "buludun arxasından çıxan günəş",
           "günəş",
           "hava"
         ],
@@ -13737,6 +15230,7 @@
         "default": [
           "göyqurşağı",
           "hava",
+          "lgbt simvolu",
           "yağış"
         ],
         "tts": [
@@ -13749,7 +15243,8 @@
           "çimərlik",
           "geyim",
           "hava",
-          "yağış"
+          "yağış",
+          "yağmur"
         ],
         "tts": [
           "bağlı çətir"
@@ -13781,6 +15276,7 @@
       },
       "⛱": {
         "default": [
+          "çətir",
           "çimərlik",
           "günəş",
           "hava",
@@ -13798,6 +15294,7 @@
           "təhlükə",
           "toqquşma",
           "voltaj",
+          "yüksək gərginlik",
           "yüksək voltaj"
         ],
         "tts": [
@@ -13831,6 +15328,7 @@
           "hava",
           "qar",
           "qar adam",
+          "qar adamı",
           "qarsız qar adam",
           "soyuq"
         ],
@@ -13850,7 +15348,10 @@
       "🔥": {
         "default": [
           "alət",
-          "alov"
+          "alov",
+          "atəş",
+          "isti",
+          "yanmaq"
         ],
         "tts": [
           "alov"
@@ -13873,6 +15374,7 @@
           "dalğa",
           "hava",
           "okean",
+          "sörfinq",
           "su",
           "su dalğası"
         ],
@@ -13897,7 +15399,8 @@
           "ağac",
           "bayram",
           "milad",
-          "milad ağacı"
+          "milad ağacı",
+          "yeni il bayramı"
         ],
         "tts": [
           "milad ağacı"
@@ -13906,7 +15409,9 @@
       "🎆": {
         "default": [
           "bayram",
-          "fişənglər"
+          "əyləncə",
+          "fişənglər",
+          "şənlik"
         ],
         "tts": [
           "fişənglər"
@@ -13927,6 +15432,7 @@
         "default": [
           "dinamit",
           "feyerverk",
+          "fişəng",
           "partlama"
         ],
         "tts": [
@@ -13935,8 +15441,11 @@
       },
       "✨": {
         "default": [
+          "işıltı",
+          "parıltı",
           "qığılcım",
           "qığılcımlar",
+          "sehirli",
           "ulduz"
         ],
         "tts": [
@@ -13955,6 +15464,7 @@
       "🎉": {
         "default": [
           "bayram",
+          "qeyd etmək",
           "qonaqlıq",
           "qonaqlıq stimullaşdırıcısı",
           "stimullaşdırıcı",
@@ -14027,6 +15537,7 @@
         "default": [
           "bayram",
           "külək",
+          "külək səsi",
           "külək zəngi",
           "zəng",
           "zəng səsi"
@@ -14084,7 +15595,8 @@
           "bayram",
           "lent",
           "xatırlatma",
-          "xatırlatma lenti"
+          "xatırlatma lenti",
+          "yadetmə"
         ],
         "tts": [
           "xatırlatma lenti"
@@ -14113,7 +15625,9 @@
         "default": [
           "bayram",
           "hərbi",
-          "medal"
+          "medal",
+          "mükafat",
+          "təltif"
         ],
         "tts": [
           "hərbi medal"
@@ -14131,7 +15645,8 @@
       "🏅": {
         "default": [
           "idman medalı",
-          "medal"
+          "medal",
+          "qalib"
         ],
         "tts": [
           "idman medalı"
@@ -14183,6 +15698,7 @@
       "⚾": {
         "default": [
           "beysbol",
+          "beysbol topu",
           "top"
         ],
         "tts": [
@@ -14192,6 +15708,7 @@
       "🥎": {
         "default": [
           "əlçək",
+          "idman",
           "qoltuqaltı",
           "softbol",
           "top"
@@ -14203,7 +15720,9 @@
       "🏀": {
         "default": [
           "basketbol",
+          "basketbol topu",
           "halqa",
+          "idman",
           "top"
         ],
         "tts": [
@@ -14214,7 +15733,8 @@
         "default": [
           "oyun",
           "top",
-          "voleybol"
+          "voleybol",
+          "voleybol topu"
         ],
         "tts": [
           "voleybol"
@@ -14234,7 +15754,9 @@
       "🏉": {
         "default": [
           "futbol",
+          "idman",
           "reqbi",
+          "reqbi topu",
           "top"
         ],
         "tts": [
@@ -14244,6 +15766,7 @@
       "🎾": {
         "default": [
           "tennis",
+          "tennis topu",
           "top"
         ],
         "tts": [
@@ -14252,6 +15775,7 @@
       },
       "🥏": {
         "default": [
+          "frizbi oyunu",
           "sonuncu",
           "uçan disk"
         ],
@@ -14273,6 +15797,7 @@
         "default": [
           "dəyənək",
           "kriket",
+          "kriket topu",
           "oyun",
           "top"
         ],
@@ -14287,7 +15812,8 @@
           "sahə",
           "sahə xokkeyi",
           "top",
-          "xokkey"
+          "xokkey",
+          "xokkey çubuğu"
         ],
         "tts": [
           "sahə xokkeyi"
@@ -14309,6 +15835,7 @@
       "🥍": {
         "default": [
           "çubuq",
+          "idman",
           "lakross",
           "qol",
           "top"
@@ -14334,7 +15861,9 @@
         "default": [
           "badminton",
           "bödi",
+          "idman",
           "oyun",
+          "raketka",
           "tennis"
         ],
         "tts": [
@@ -14358,6 +15887,7 @@
           "döyüş",
           "döyüş idmanı geyimi",
           "idman",
+          "idman forması",
           "karate"
         ],
         "tts": [
@@ -14370,6 +15900,7 @@
           "futbol",
           "idman",
           "qapı",
+          "qol",
           "top"
         ],
         "tts": [
@@ -14448,6 +15979,7 @@
       },
       "🥌": {
         "default": [
+          "körlinq",
           "oyun",
           "qaya",
           "qıvrım daş"
@@ -14474,7 +16006,8 @@
         "default": [
           "dalğalanma",
           "oyuncaq",
-          "yo-yo"
+          "yo-yo",
+          "yo-yo oyuncağı"
         ],
         "tts": [
           "yo-yo"
@@ -14562,7 +16095,9 @@
         "default": [
           "avtomat",
           "avtomat maşın",
-          "oyun"
+          "kazino",
+          "oyun",
+          "qumar"
         ],
         "tts": [
           "avtomat maşın"
@@ -14592,6 +16127,7 @@
       "🧸": {
         "default": [
           "oyuncaq",
+          "oyuncaq ayı",
           "plüş",
           "plüş ayı",
           "yumşaq"
@@ -14603,6 +16139,8 @@
       "🪅": {
         "default": [
           "bayram",
+          "konfet",
+          "Meksika",
           "pinyata",
           "şənlik"
         ],
@@ -14613,7 +16151,9 @@
       "🪩": {
         "default": [
           "diskoteka",
+          "güzgü",
           "güzgü top",
+          "kürə",
           "parıltı",
           "rəqs",
           "ziyafət"
@@ -14638,6 +16178,7 @@
           "dəst",
           "kart",
           "oyun",
+          "pik",
           "qaratoxmaq",
           "qaratoxmaq dəsti"
         ],
@@ -14648,7 +16189,9 @@
       "♥": {
         "default": [
           "dəst",
+          "eşq kartı",
           "kart",
+          "kupa",
           "oyun",
           "ürək",
           "ürək dəsti",
@@ -14661,6 +16204,7 @@
       "♦": {
         "default": [
           "dəst",
+          "karo",
           "kart",
           "oyun",
           "romb",
@@ -14678,7 +16222,9 @@
           "klub",
           "klub dəsti",
           "klublar",
-          "oyun"
+          "oyun",
+          "üçyarpaq yonca",
+          "xaç"
         ],
         "tts": [
           "klub dəsti"
@@ -14700,7 +16246,8 @@
           "joker",
           "kart",
           "oynamaq",
-          "oyun"
+          "oyun",
+          "uno"
         ],
         "tts": [
           "joker"
@@ -14724,7 +16271,8 @@
           "kart",
           "oynamaq",
           "oyun",
-          "yapon"
+          "yapon",
+          "Yaponiya"
         ],
         "tts": [
           "gül oyun kartları"
@@ -14761,6 +16309,8 @@
           "incəsənət",
           "muzey",
           "palitra",
+          "rəngarəng",
+          "rəsm",
           "rəssam palitrası"
         ],
         "tts": [
@@ -14782,6 +16332,7 @@
         "default": [
           "dərzilik",
           "ilgəklər",
+          "ip",
           "iynə",
           "naxış",
           "tikiş",
@@ -14840,7 +16391,9 @@
         "default": [
           "göz müdafiyəsi",
           "qaynaq",
+          "qaynaq eynəyi",
           "su eynəyi",
+          "üzgüçülük eynəyi",
           "üzmək"
         ],
         "tts": [
@@ -14849,6 +16402,8 @@
       },
       "🥼": {
         "default": [
+          "ağ xalat",
+          "alim",
           "həkim",
           "laboratoriya geyimi",
           "qaynaq",
@@ -14860,10 +16415,12 @@
       },
       "🦺": {
         "default": [
+          "fövqəladə hal",
           "güvənlik",
           "güvənlik jaketi",
           "jaket",
-          "təcililik"
+          "təcililik",
+          "təhlükəsizlik jileti"
         ],
         "tts": [
           "güvənlik jaketi"
@@ -14872,7 +16429,9 @@
       "👔": {
         "default": [
           "geyim",
-          "qalstuk"
+          "köynək",
+          "qalstuk",
+          "rəsmi geyim"
         ],
         "tts": [
           "qalstuk"
@@ -14901,7 +16460,8 @@
       "🧣": {
         "default": [
           "boyun",
-          "şərf"
+          "şərf",
+          "soyuq"
         ],
         "tts": [
           "şərf"
@@ -14910,6 +16470,7 @@
       "🧤": {
         "default": [
           "əl",
+          "əlcək",
           "əlcəklər"
         ],
         "tts": [
@@ -14936,8 +16497,10 @@
       },
       "👗": {
         "default": [
+          "alış-veriş",
           "don",
-          "geyim"
+          "geyim",
+          "paltar"
         ],
         "tts": [
           "don"
@@ -14965,6 +16528,7 @@
       "🩱": {
         "default": [
           "bir hissəli üzgüçülük geyimi",
+          "çimərlik geyimi",
           "hamam geyimi"
         ],
         "tts": [
@@ -14974,8 +16538,10 @@
       "🩲": {
         "default": [
           "alt paltar",
+          "alt paltarı",
           "hamam geyimi",
           "trusik",
+          "tuman",
           "üzgüçülük geyimi"
         ],
         "tts": [
@@ -14985,9 +16551,11 @@
       "🩳": {
         "default": [
           "alt paltar",
+          "alt paltarı",
           "hamam geyimi",
           "şalvar",
-          "şort"
+          "şort",
+          "üzgüçülük geyimi"
         ],
         "tts": [
           "şort"
@@ -14996,6 +16564,7 @@
       "👙": {
         "default": [
           "bikini",
+          "çimərlik",
           "geyim",
           "üzmək"
         ],
@@ -15006,7 +16575,9 @@
       "👚": {
         "default": [
           "geyim",
+          "köynək",
           "qadın",
+          "qadın koftası",
           "qadın paltarı"
         ],
         "tts": [
@@ -15029,6 +16600,7 @@
       },
       "👛": {
         "default": [
+          "əl çantası",
           "geyim",
           "pul kisəsi",
           "qəpik"
@@ -15039,9 +16611,11 @@
       },
       "👜": {
         "default": [
+          "alış-veriş",
           "çanta",
           "əl çantası",
-          "geyim"
+          "geyim",
+          "qadın"
         ],
         "tts": [
           "əl çantası"
@@ -15081,6 +16655,7 @@
       },
       "🩴": {
         "default": [
+          "ayaqqabı",
           "çimərlik səndəlləri",
           "rezin vyetnamka",
           "səndəllər",
@@ -15108,6 +16683,7 @@
           "atletik",
           "ayaqqabı",
           "geyim",
+          "idman ayaqqabısı",
           "krossovka",
           "qaçış ayaqqabısı"
         ],
@@ -15118,10 +16694,12 @@
       "🥾": {
         "default": [
           "botinka",
+          "çəkmə",
           "əşyaları yığmaq",
           "gəzinti",
           "gəzinti botinkası",
-          "kempinq"
+          "kempinq",
+          "piyada gəzmək"
         ],
         "tts": [
           "gəzinti botinkası"
@@ -15129,11 +16707,15 @@
       },
       "🥿": {
         "default": [
+          "balet ayaqqabısı",
           "botinka",
+          "düz altlı",
           "əşyaları yığmaq",
           "gəzinti",
           "kempinq",
-          "yastı ayaqqabı"
+          "rahat",
+          "yastı ayaqqabı",
+          "yastıdaban"
         ],
         "tts": [
           "yastı ayaqqabı"
@@ -15145,6 +16727,7 @@
           "daban",
           "geyim",
           "hündür daban ayaqqabı",
+          "hündürdaban ayaqqabı",
           "qadın"
         ],
         "tts": [
@@ -15187,6 +16770,7 @@
       },
       "🪮": {
         "default": [
+          "afro",
           "Afro",
           "daraq",
           "saç",
@@ -15222,8 +16806,10 @@
       "🎩": {
         "default": [
           "baş",
+          "fokus",
           "geyim",
           "papaq",
+          "sehir",
           "silindr papaq",
           "silindr şlyapa"
         ],
@@ -15236,9 +16822,11 @@
           "bayram",
           "geyim",
           "kepka",
+          "məzun papağı",
           "məzuniyyət",
           "məzuniyyət papağı",
-          "papaq"
+          "papaq",
+          "təhsil"
         ],
         "tts": [
           "məzuniyyət papağı"
@@ -15247,7 +16835,8 @@
       "🧢": {
         "default": [
           "beysbol kepkası",
-          "kepka"
+          "kepka",
+          "papaq"
         ],
         "tts": [
           "kepka"
@@ -15272,7 +16861,8 @@
           "kömək",
           "papaq",
           "üz",
-          "xaç"
+          "xaç",
+          "xilasedici dəbilqə"
         ],
         "tts": [
           "ağ xaçlı dəbilqə"
@@ -15304,6 +16894,7 @@
       "💍": {
         "default": [
           "brilyant",
+          "nişan",
           "romantika",
           "üzük"
         ],
@@ -15328,7 +16919,8 @@
           "səs",
           "səssiz",
           "səsucaldan",
-          "səsucaldan sönülüdür"
+          "səsucaldan sönülüdür",
+          "spiker"
         ],
         "tts": [
           "səsucaldan sönülüdür"
@@ -15372,6 +16964,7 @@
       "📢": {
         "default": [
           "ictimai ünvan",
+          "səs",
           "səsucaldıcı",
           "uca"
         ],
@@ -15382,7 +16975,8 @@
       "📣": {
         "default": [
           "meqafon",
-          "salamlama"
+          "salamlama",
+          "səsi uzağa yayan cihaz"
         ],
         "tts": [
           "meqafon"
@@ -15487,7 +17081,8 @@
         "default": [
           "karaoke",
           "mik",
-          "mikrofon"
+          "mikrofon",
+          "səs"
         ],
         "tts": [
           "mikrofon"
@@ -15525,7 +17120,9 @@
         "default": [
           "akkordeon",
           "akkordion",
+          "instrument",
           "konsertino",
+          "musiqi",
           "qarmon"
         ],
         "tts": [
@@ -15536,7 +17133,8 @@
         "default": [
           "alət",
           "gitara",
-          "musiqi"
+          "musiqi",
+          "musiqi aləti"
         ],
         "tts": [
           "gitara"
@@ -15547,6 +17145,7 @@
           "alət",
           "klaviatura",
           "musiqi",
+          "musiqi aləti",
           "musiqi klaviaturası",
           "piano"
         ],
@@ -15568,6 +17167,7 @@
         "default": [
           "alət",
           "musiqi",
+          "musiqi aləti",
           "skripka"
         ],
         "tts": [
@@ -15577,6 +17177,7 @@
       "🪕": {
         "default": [
           "banco",
+          "bandjo",
           "musiqi",
           "simli alət"
         ],
@@ -15596,6 +17197,7 @@
       },
       "🪘": {
         "default": [
+          "instrument",
           "konqa",
           "ritm",
           "təbil",
@@ -15612,6 +17214,8 @@
           "cingilti",
           "marakas",
           "musiqi",
+          "rəqs",
+          "şənlik",
           "silkələmək",
           "zərb"
         ],
@@ -15626,14 +17230,31 @@
           "fifa",
           "fleyta",
           "musiqi",
+          "musiqi aləti",
+          "nəfəs aləti",
+          "orkestr",
           "yazıcı"
         ],
         "tts": [
           "fleyta"
         ]
       },
+      "🪉": {
+        "default": [
+          "arfa",
+          "instrument",
+          "kupidon",
+          "məhəbbət",
+          "musiqi",
+          "orkestr"
+        ],
+        "tts": [
+          "arfa"
+        ]
+      },
       "📱": {
         "default": [
+          "əlaqə saxlamaq",
           "mobil",
           "telefon"
         ],
@@ -15648,6 +17269,7 @@
           "oxlu mobil telefon",
           "qəbul etmək",
           "telefon",
+          "ünsiyyət",
           "zəng"
         ],
         "tts": [
@@ -15699,8 +17321,11 @@
       },
       "🪫": {
         "default": [
+          "batareya",
           "bitən enerji",
-          "elektron"
+          "elektron",
+          "zəif batareya",
+          "zəif enerji"
         ],
         "tts": [
           "bitən enerji"
@@ -15779,6 +17404,7 @@
         "default": [
           "disk",
           "kompüter",
+          "kompüter diski",
           "mini disk",
           "minidisk",
           "optik"
@@ -15791,6 +17417,7 @@
         "default": [
           "çevik",
           "disk",
+          "disket",
           "kompüter"
         ],
         "tts": [
@@ -15888,6 +17515,7 @@
       },
       "📷": {
         "default": [
+          "foto çəkmək",
           "kamera",
           "video"
         ],
@@ -15897,6 +17525,7 @@
       },
       "📸": {
         "default": [
+          "fleş işığı olan kamera",
           "işıq",
           "işıqlı kamera",
           "kamera",
@@ -15909,7 +17538,8 @@
       "📹": {
         "default": [
           "kamera",
-          "video"
+          "video",
+          "videokamera"
         ],
         "tts": [
           "video kamera"
@@ -15920,7 +17550,8 @@
           "kasset",
           "vhs",
           "video",
-          "video kaset"
+          "video kaset",
+          "videokaset"
         ],
         "tts": [
           "video kaset"
@@ -15929,8 +17560,10 @@
       "🔍": {
         "default": [
           "alət",
+          "axtarış",
           "axtarmaq",
           "böyüdücü",
+          "laboratoriya",
           "sola yönəlmiş böyüdücü şüşə",
           "şüşə"
         ],
@@ -16009,10 +17642,12 @@
       "📔": {
         "default": [
           "bəzəkli cildli dəftər",
+          "bəzəkli üzqabığı olan dəftər",
           "bəzənmiş",
           "cild",
           "dəftər",
-          "kitab"
+          "kitab",
+          "qeyd dəftəri"
         ],
         "tts": [
           "bəzəkli cildli dəftər"
@@ -16030,7 +17665,11 @@
       "📖": {
         "default": [
           "açıq",
-          "kitab"
+          "elm",
+          "kitab",
+          "kitabxana",
+          "öyrənmək",
+          "təhsil"
         ],
         "tts": [
           "açıq kitab"
@@ -16039,6 +17678,7 @@
       "📗": {
         "default": [
           "kitab",
+          "oxumaq",
           "yaşıl"
         ],
         "tts": [
@@ -16048,7 +17688,8 @@
       "📘": {
         "default": [
           "kitab",
-          "mavi"
+          "mavi",
+          "oxumaq"
         ],
         "tts": [
           "mavi kitab"
@@ -16057,7 +17698,8 @@
       "📙": {
         "default": [
           "kitab",
-          "narıncı"
+          "narıncı",
+          "oxumaq"
         ],
         "tts": [
           "narıncı kitab"
@@ -16065,8 +17707,10 @@
       },
       "📚": {
         "default": [
+          "bilik",
           "kitab",
-          "kitablar"
+          "kitablar",
+          "təhsil"
         ],
         "tts": [
           "kitablar"
@@ -16083,7 +17727,8 @@
       "📒": {
         "default": [
           "dəftər",
-          "mühasibatlıq kitabı"
+          "mühasibatlıq kitabı",
+          "qeyd dəftərçəsi"
         ],
         "tts": [
           "mühasibatlıq kitabı"
@@ -16103,7 +17748,10 @@
       "📜": {
         "default": [
           "kağız",
-          "lülə halında bükülmüş kağız"
+          "lülə halında bükülmüş kağız",
+          "manuskript",
+          "qədim əl yazısı",
+          "sürüşdürərək açmaq"
         ],
         "tts": [
           "lülə halında bükülmüş kağız"
@@ -16131,6 +17779,7 @@
       },
       "🗞": {
         "default": [
+          "bükülmüş kağız toplusu",
           "bükülmüş qəzet",
           "burulmuş",
           "kağız",
@@ -16184,9 +17833,12 @@
       },
       "🪙": {
         "default": [
+          "avro",
+          "dollar",
           "gümüş",
           "metal",
           "pul",
+          "qəpik",
           "qızıl",
           "xəzinə",
           "xırda pul"
@@ -16202,6 +17854,9 @@
           "hesab",
           "iena",
           "iena banknotu",
+          "pul",
+          "valyuta",
+          "yen",
           "yen banknotu"
         ],
         "tts": [
@@ -16213,7 +17868,8 @@
           "bank",
           "banknot",
           "dollar",
-          "dollar əskinazı"
+          "dollar əskinazı",
+          "valyuta"
         ],
         "tts": [
           "dollar əskinazı"
@@ -16224,7 +17880,9 @@
           "avro",
           "avro əskinazı",
           "bank",
-          "banknot"
+          "banknot",
+          "pul",
+          "valyuta"
         ],
         "tts": [
           "avro əskinazı"
@@ -16235,7 +17893,9 @@
           "bank",
           "əskinaz",
           "funt",
-          "funt əskinazı"
+          "funt əskinazı",
+          "pul",
+          "valyuta"
         ],
         "tts": [
           "funt əskinazı"
@@ -16248,7 +17908,9 @@
           "əskinaz",
           "hesab",
           "not",
-          "qanadlı pullar"
+          "pul",
+          "qanadlı pullar",
+          "valyuta"
         ],
         "tts": [
           "qanadlı pullar"
@@ -16260,6 +17922,7 @@
           "kart",
           "kredit",
           "kredit kartı",
+          "ödəmək",
           "pul"
         ],
         "tts": [
@@ -16269,6 +17932,7 @@
       "🧾": {
         "default": [
           "dəlil",
+          "faktura",
           "mühasibat",
           "mühasibatlıq",
           "qəbz",
@@ -16285,7 +17949,9 @@
           "bank",
           "bazar",
           "cədvəl",
-          "ien ilə qalxan qrafik"
+          "ien ilə qalxan qrafik",
+          "qrafik",
+          "yen ilə artan qrafik"
         ],
         "tts": [
           "ien ilə qalxan qrafik"
@@ -16295,6 +17961,7 @@
         "default": [
           "e-poçt",
           "elektron poçt",
+          "məktub",
           "zərf"
         ],
         "tts": [
@@ -16303,6 +17970,7 @@
       },
       "📧": {
         "default": [
+          "e-məktub",
           "e-poçt",
           "məktub",
           "poçt"
@@ -16313,6 +17981,7 @@
       },
       "📨": {
         "default": [
+          "e-məktub",
           "e-poçt",
           "elektron poçt",
           "gələn",
@@ -16340,6 +18009,7 @@
       },
       "📤": {
         "default": [
+          "e-məktub",
           "gedən",
           "gedənlər qutusu",
           "göndərmək",
@@ -16353,6 +18023,7 @@
       },
       "📥": {
         "default": [
+          "e-poçt",
           "gələn",
           "gələnlər qutusu",
           "məktub",
@@ -16376,6 +18047,7 @@
       "📫": {
         "default": [
           "bağlı",
+          "bağlı poçt qutusu",
           "poçt",
           "poçt qutusu",
           "qaldırılmış bayraqlı bağlı poçt qutusu"
@@ -16399,6 +18071,7 @@
       "📬": {
         "default": [
           "açıq",
+          "məktub gəlmiş poçt qutusu",
           "poçt",
           "poçt qutusu",
           "qaldırılmış bayraqlı açıq poçt qutusu"
@@ -16449,6 +18122,7 @@
       "✒": {
         "default": [
           "qara qələm",
+          "qara rəngli qələm ucu",
           "qələm",
           "qələm ucu"
         ],
@@ -16459,6 +18133,7 @@
       "🖋": {
         "default": [
           "avto",
+          "doldurma qələm",
           "qələm"
         ],
         "tts": [
@@ -16495,6 +18170,8 @@
       "📝": {
         "default": [
           "karandaş",
+          "media",
+          "qeydlər",
           "yaddaş qeydi"
         ],
         "tts": [
@@ -16503,7 +18180,8 @@
       },
       "💼": {
         "default": [
-          "çemodan"
+          "çemodan",
+          "portfel"
         ],
         "tts": [
           "çemodan"
@@ -16608,8 +18286,10 @@
         "default": [
           "aşağı",
           "cədvəl",
+          "data",
           "düşən qrafik",
           "qrafik",
+          "sxem",
           "trend"
         ],
         "tts": [
@@ -16629,7 +18309,9 @@
       },
       "📋": {
         "default": [
-          "lövhə"
+          "lövhə",
+          "qeydlər",
+          "siyahı tutmaq"
         ],
         "tts": [
           "lövhə"
@@ -16638,7 +18320,8 @@
       "📌": {
         "default": [
           "löhvə düyməsi",
-          "sancaq"
+          "sancaq",
+          "sancmaq"
         ],
         "tts": [
           "löhvə düyməsi"
@@ -16648,7 +18331,9 @@
         "default": [
           "basmadüymə",
           "dairəvi sancaq",
-          "sancaq"
+          "məkan",
+          "sancaq",
+          "xəritə"
         ],
         "tts": [
           "dairəvi sancaq"
@@ -16656,6 +18341,7 @@
       },
       "📎": {
         "default": [
+          "dəftərxana sancağı",
           "skrepka"
         ],
         "tts": [
@@ -16665,6 +18351,7 @@
       "🖇": {
         "default": [
           "birləşmiş sancaqlar",
+          "dəftərxana sancağı",
           "əlaqə",
           "sancaq"
         ],
@@ -16686,6 +18373,7 @@
         "default": [
           "dəst",
           "üçbucaq",
+          "üçbucaq formalı xətkeş",
           "ücbucaq xətkeş",
           "xətkeş"
         ],
@@ -16769,7 +18457,8 @@
           "açarla bağlanmış kilid",
           "bağlı",
           "kilid",
-          "secure"
+          "secure",
+          "təhlükəsiz"
         ],
         "tts": [
           "açarla bağlanmış kilid"
@@ -16819,6 +18508,7 @@
       "⛏": {
         "default": [
           "alət",
+          "çəkic",
           "külüng",
           "mədən"
         ],
@@ -16871,7 +18561,9 @@
       "💣": {
         "default": [
           "bomba",
-          "komik"
+          "komik",
+          "partlayış",
+          "təhlükəli"
         ],
         "tts": [
           "bomba"
@@ -16882,7 +18574,8 @@
           "avstraliya",
           "bumeranq",
           "əksetmə",
-          "rikoşet"
+          "rikoşet",
+          "silah"
         ],
         "tts": [
           "bumeranq"
@@ -16917,6 +18610,7 @@
           "bıçqı",
           "dülgər",
           "əl mişarı",
+          "kəsmək",
           "taxta-şalban"
         ],
         "tts": [
@@ -16926,6 +18620,7 @@
       "🔧": {
         "default": [
           "alət",
+          "qayka açarı",
           "təmir açarı"
         ],
         "tts": [
@@ -16965,6 +18660,7 @@
       "🗜": {
         "default": [
           "alət",
+          "bolt",
           "kəlbətin",
           "sıxma"
         ],
@@ -16978,7 +18674,8 @@
           "çəki",
           "ədalət",
           "libra",
-          "tarazlıq tərəzisi"
+          "tarazlıq tərəzisi",
+          "tərəzi"
         ],
         "tts": [
           "tarazlıq tərəzisi"
@@ -16986,7 +18683,10 @@
       },
       "🦯": {
         "default": [
+          "çəlik",
+          "əlçatımlılıq",
           "əlverişlilik",
+          "əsa",
           "kor",
           "zond"
         ],
@@ -17000,6 +18700,20 @@
         ],
         "tts": [
           "zəncir"
+        ]
+      },
+      "⛓‍💥": {
+        "default": [
+          "azadlıq",
+          "qaçış",
+          "qandal",
+          "qırılmış zəncir",
+          "qırıq zəncir",
+          "sındırmaq",
+          "zəncir"
+        ],
+        "tts": [
+          "qırılmış zəncir"
         ]
       },
       "⛓": {
@@ -17039,6 +18753,7 @@
         "default": [
           "cazibə",
           "maqnit",
+          "müsbət təsir",
           "nal"
         ],
         "tts": [
@@ -17054,6 +18769,22 @@
         ],
         "tts": [
           "nərdivan"
+        ]
+      },
+      "🪏": {
+        "default": [
+          "bağ",
+          "bitki",
+          "çala",
+          "çanaqlı bel",
+          "çömçə",
+          "dəfn etmək",
+          "düz bel",
+          "qar",
+          "qazmaq"
+        ],
+        "tts": [
+          "bel"
         ]
       },
       "⚗": {
@@ -17086,6 +18817,7 @@
           "bioloq",
           "kultura",
           "laboratoriya",
+          "petri qabı",
           "Petri qabı"
         ],
         "tts": [
@@ -17117,6 +18849,7 @@
       "🔭": {
         "default": [
           "alət",
+          "elm",
           "teleskop"
         ],
         "tts": [
@@ -17142,7 +18875,9 @@
           "iynə",
           "naxoş",
           "şpris",
-          "tibb"
+          "tibb",
+          "vaksin",
+          "xəstə"
         ],
         "tts": [
           "şpris"
@@ -17151,6 +18886,7 @@
       "🩸": {
         "default": [
           "aybaşı",
+          "menstruasiya",
           "qan damlası",
           "qan donoru",
           "tibb"
@@ -17161,10 +18897,12 @@
       },
       "💊": {
         "default": [
+          "dərman",
           "həb",
           "həkim",
           "naxoş",
-          "tibb"
+          "tibb",
+          "vitamin"
         ],
         "tts": [
           "həb"
@@ -17173,7 +18911,8 @@
       "🩹": {
         "default": [
           "bandaj",
-          "yapışan bandaj"
+          "yapışan bandaj",
+          "yapışqan lent"
         ],
         "tts": [
           "yapışan bandaj"
@@ -17184,8 +18923,10 @@
           "əlillik",
           "hərəkətlilik yardımı",
           "incitmək",
+          "kömək",
           "qalmaq",
-          "qoltuqağacı"
+          "qoltuqağacı",
+          "yaralanmış"
         ],
         "tts": [
           "qoltuqağacı"
@@ -17194,6 +18935,8 @@
       "🩺": {
         "default": [
           "doktor",
+          "döyünmə",
+          "həkim",
           "stetoskop",
           "tibb",
           "ürək"
@@ -17205,7 +18948,9 @@
       "🩻": {
         "default": [
           "həkim",
+          "kəllə",
           "rentgen",
+          "rentgen şüaları",
           "skelet",
           "sümüklər",
           "tibbi"
@@ -17300,6 +19045,7 @@
           "lehimçi",
           "porşen",
           "sorma",
+          "sorucu nasos",
           "tualet",
           "vantuz"
         ],
@@ -17371,9 +19117,12 @@
       "🧹": {
         "default": [
           "cadugər",
+          "ifritə",
           "süpürgə",
           "süpürmə",
-          "təmizləmə"
+          "süpürmək",
+          "təmizləmə",
+          "təmizləmək"
         ],
         "tts": [
           "süpürgə"
@@ -17381,6 +19130,7 @@
       },
       "🧺": {
         "default": [
+          "ferma",
           "paltar səbəti",
           "piknik",
           "səbət"
@@ -17423,10 +19173,13 @@
       "🫧": {
         "default": [
           "gəyirti",
+          "inci",
+          "köpük",
           "köpüklər",
           "sabun",
           "sualtı",
-          "təmiz"
+          "təmiz",
+          "üzən"
         ],
         "tts": [
           "köpüklər"
@@ -17462,7 +19215,8 @@
           "alov",
           "alov söndürən",
           "ocaq",
-          "söndürmək"
+          "söndürmək",
+          "yanğınsöndürən"
         ],
         "tts": [
           "alov söndürən"
@@ -17501,6 +19255,7 @@
           "başdaşı",
           "məzar",
           "məzarlıq",
+          "ölü",
           "qəbirdaşı",
           "qəbiristanlıq"
         ],
@@ -17512,6 +19267,7 @@
         "default": [
           "cənazə",
           "cənazə urnası",
+          "meyidin külü",
           "ölüm",
           "urna"
         ],
@@ -17539,7 +19295,11 @@
           "hamsa",
           "Məryəm",
           "Miriam",
-          "qorunma"
+          "ovuc",
+          "qorunma",
+          "Xəmsə həmayili",
+          "xoşbəxtlik",
+          "yol göstərmək"
         ],
         "tts": [
           "hamsa"
@@ -17559,6 +19319,7 @@
         "default": [
           "etiraz",
           "işarə",
+          "lövhə",
           "nümayiş",
           "paya",
           "plakat"
@@ -17570,7 +19331,9 @@
       "🪪": {
         "default": [
           "etimadnamələri",
+          "identifikasiya",
           "lisenziya",
+          "sənəd",
           "şəxsiyyət vəsiqəsi",
           "Şəxsiyyət vəsiqəsi",
           "təhlükəsizlik"
@@ -17584,6 +19347,7 @@
           "avtomatik",
           "bank",
           "bankomat",
+          "bankomat işarəsi",
           "Bankomat işarəsi",
           "kassir"
         ],
@@ -17593,6 +19357,7 @@
       },
       "🚮": {
         "default": [
+          "\"zibili qutuya atın\" işarəsi",
           "zibil",
           "zibil qutusu",
           "zibili qutuya atın işarəsi"
@@ -17614,6 +19379,7 @@
       "♿": {
         "default": [
           "əlil arabası işarəsi",
+          "əlil arabası simvolu",
           "giriş"
         ],
         "tts": [
@@ -17648,6 +19414,7 @@
         "default": [
           "ayaqyolu",
           "tualet",
+          "wc",
           "WC"
         ],
         "tts": [
@@ -17689,7 +19456,8 @@
       },
       "🛃": {
         "default": [
-          "gömrük"
+          "gömrük",
+          "qablaşdırma"
         ],
         "tts": [
           "gömrük"
@@ -17698,7 +19466,9 @@
       "🛄": {
         "default": [
           "baqaj",
+          "baqaj tələbi",
           "baqajın verilməsi",
+          "çamadan işarəsi",
           "tələb"
         ],
         "tts": [
@@ -17718,6 +19488,7 @@
       },
       "⚠": {
         "default": [
+          "həyəcan",
           "xəbərdarlıq"
         ],
         "tts": [
@@ -17726,6 +19497,7 @@
       },
       "🚸": {
         "default": [
+          "\"uşaqlar yol keçir\" işarəsi",
           "keçmək",
           "nəqliyyat",
           "piyada",
@@ -17753,8 +19525,10 @@
       "🚫": {
         "default": [
           "giriş",
+          "giriş yoxdur",
           "qadağan olunmuş",
           "qadağandır",
+          "qadağandır işarəsi",
           "xeyr",
           "yox"
         ],
@@ -17769,6 +19543,7 @@
           "qadağa",
           "qadağan olunmuş",
           "velosiped",
+          "velosiped girişi yoxdur",
           "velosiped sürmək olmaz"
         ],
         "tts": [
@@ -17777,6 +19552,7 @@
       },
       "🚭": {
         "default": [
+          "\"siqaret çəkmək qadağandır\" işarəsi",
           "qadağa",
           "qadağan olunmuş",
           "siqaret",
@@ -17790,6 +19566,7 @@
       },
       "🚯": {
         "default": [
+          "\"zibil atmaq qadağandır\" işarəsi",
           "qadağa",
           "qadağan olunmuş",
           "xeyr",
@@ -17806,6 +19583,7 @@
           "içməli deyil",
           "içməyə yararsız",
           "su",
+          "su içmək qadağandır işarəsi",
           "su içməli deyil"
         ],
         "tts": [
@@ -17814,6 +19592,7 @@
       },
       "🚷": {
         "default": [
+          "\"piyadalara keçmək qadağandır\" işarəsi",
           "piyada",
           "piyadalara keçmək olmaz",
           "qadağa",
@@ -17827,10 +19606,12 @@
       },
       "📵": {
         "default": [
+          "\"mobil telefondan istifadə etmək qadağandır\" işarəsi",
           "mobil",
           "mobil telefondan istifadə etmək olmaz",
           "qadağa",
           "qadağan olunmuş",
+          "qadağandır",
           "telefon",
           "xeyr",
           "yox"
@@ -17841,6 +19622,7 @@
       },
       "🔞": {
         "default": [
+          "\"18 yaşdan aşağı olanlara qadağandır\" işarəsi",
           "18",
           "18 yaşından aşağı olanlara olmaz",
           "həddi-buluğa çatmamış",
@@ -17877,7 +19659,8 @@
           "istiqamət",
           "ox",
           "şimal",
-          "üzüyuxarı ox"
+          "üzüyuxarı ox",
+          "yuxarı"
         ],
         "tts": [
           "üzüyuxarı ox"
@@ -17889,7 +19672,9 @@
           "istiqamət",
           "ox",
           "şimal şərq",
-          "üzüyuxarı sağa yönəlmiş ox"
+          "şimal-şərq",
+          "üzüyuxarı sağa yönəlmiş ox",
+          "yuxarı istiqamətdə sağa yönəlmiş ox"
         ],
         "tts": [
           "üzüyuxarı sağa yönəlmiş ox"
@@ -17900,6 +19685,8 @@
           "əsas",
           "istiqamət",
           "ox",
+          "sağ",
+          "sağa doğru ox",
           "sağa ox",
           "şərq"
         ],
@@ -17909,7 +19696,9 @@
       },
       "↘": {
         "default": [
+          "aşağı istiqamətdə sağa yönəlmiş ox",
           "cənub şərq",
+          "cənub-şərq",
           "interkardinal",
           "istiqamət",
           "ox",
@@ -17934,7 +19723,9 @@
       },
       "↙": {
         "default": [
+          "aşağı istiqamətdə sola yönəlmiş ox",
           "cənub qərb",
+          "cənub-qərb",
           "interkardinal",
           "istiqamət",
           "ox",
@@ -17950,6 +19741,8 @@
           "kardinal",
           "ox",
           "qərb",
+          "sol",
+          "sola doğru ox",
           "sola ox"
         ],
         "tts": [
@@ -17962,7 +19755,9 @@
           "istiqamət",
           "ox",
           "şimal qərb",
-          "üzüyuxarı sola yönəlmiş ox"
+          "şimal-qərb",
+          "üzüyuxarı sola yönəlmiş ox",
+          "yuxarı istiqamətdə sola yönəlmiş ox"
         ],
         "tts": [
           "üzüyuxarı sola yönəlmiş ox"
@@ -17970,6 +19765,7 @@
       },
       "↕": {
         "default": [
+          "aşağı-yuxarı yönəlmiş ox",
           "ox",
           "üzü aşağı-yuxarı ox"
         ],
@@ -17980,7 +19776,8 @@
       "↔": {
         "default": [
           "ox",
-          "sola-sağa ox"
+          "sola-sağa ox",
+          "sola-sağa yönəlmiş ox"
         ],
         "tts": [
           "sola-sağa ox"
@@ -17997,6 +19794,7 @@
       "↩": {
         "default": [
           "ox",
+          "sola dönən ox",
           "sola dönən sağ ox"
         ],
         "tts": [
@@ -18006,6 +19804,7 @@
       "↪": {
         "default": [
           "ox",
+          "sağa dönən ox",
           "sağa dönən sol ox"
         ],
         "tts": [
@@ -18015,6 +19814,7 @@
       "⤴": {
         "default": [
           "ox",
+          "soldan yuxarı dönən ox",
           "yuxarı dönən sağ ox"
         ],
         "tts": [
@@ -18025,7 +19825,8 @@
         "default": [
           "aşağı",
           "aşağı dönən sağ ox",
-          "ox"
+          "ox",
+          "soldan aşağı dönən ox"
         ],
         "tts": [
           "aşağı dönən sağ ox"
@@ -18034,9 +19835,11 @@
       "🔃": {
         "default": [
           "ox",
+          "saat əqrəbi istiqaməti",
           "saat istiqaməti",
           "saat istiqamətində yönəlmiş şaquli ox",
-          "yenidən yüklə"
+          "yenidən yüklə",
+          "yenidən yükləmək işarəsi"
         ],
         "tts": [
           "saat istiqamətində yönəlmiş şaquli ox"
@@ -18066,7 +19869,8 @@
         "default": [
           "ox",
           "son",
-          "sona yönəlmiş ox"
+          "sona yönəlmiş ox",
+          "sonluğu göstərən ox işarəsi"
         ],
         "tts": [
           "sona yönəlmiş ox"
@@ -18074,6 +19878,7 @@
       },
       "🔛": {
         "default": [
+          "\"aktivdir\" işarəsi",
           "aktivdir! oxu",
           "işarə",
           "ox",
@@ -18087,6 +19892,7 @@
         "default": [
           "ox",
           "tezliklə",
+          "tezliklə işarəsi",
           "tezliklə oxu"
         ],
         "tts": [
@@ -18098,7 +19904,8 @@
           "ox",
           "üst",
           "yuxarı",
-          "yuxarı yönəlmiş ox"
+          "yuxarı yönəlmiş ox",
+          "yuxarı yönəlmiş ox işarəsi"
         ],
         "tts": [
           "yuxarı yönəlmiş ox"
@@ -18107,6 +19914,8 @@
       "🛐": {
         "default": [
           "din",
+          "dua etmək",
+          "ibadət",
           "tapınaq",
           "tapınmaq"
         ],
@@ -18152,7 +19961,8 @@
           "çarx",
           "dharma",
           "dharma çarxı",
-          "din"
+          "din",
+          "hind fəlsəfəsi"
         ],
         "tts": [
           "dharma çarxı"
@@ -18164,6 +19974,7 @@
           "daoist",
           "din",
           "in",
+          "İn və Yan",
           "yan"
         ],
         "tts": [
@@ -18175,7 +19986,8 @@
           "din",
           "latın xaçı",
           "xaç",
-          "xristian"
+          "xristian",
+          "xristian simvolu"
         ],
         "tts": [
           "latın xaçı"
@@ -18217,7 +20029,9 @@
           "din",
           "hanukiya",
           "kandelyabr",
-          "şamdan"
+          "şamdan",
+          "şamdanlar",
+          "yəhudi"
         ],
         "tts": [
           "hanukiya"
@@ -18235,9 +20049,14 @@
       },
       "🪯": {
         "default": [
+          "Deq Teq Fateh",
           "din",
+          "inanc",
+          "Khalsa",
           "Siqh",
-          "xanda"
+          "Siqhizm",
+          "xanda",
+          "Xanda"
         ],
         "tts": [
           "xanda"
@@ -18245,6 +20064,7 @@
       },
       "♈": {
         "default": [
+          "bürc",
           "qoç",
           "qoç bürcü",
           "zodiak"
@@ -18256,6 +20076,7 @@
       "♉": {
         "default": [
           "buğa",
+          "buğa bürcü",
           "öküz",
           "ox",
           "zodiak"
@@ -18267,6 +20088,7 @@
       "♊": {
         "default": [
           "əkizlər",
+          "əkizlər bürcü",
           "zodiak"
         ],
         "tts": [
@@ -18276,6 +20098,7 @@
       "♋": {
         "default": [
           "xərçəng",
+          "xərçəng bürcü",
           "zodiak"
         ],
         "tts": [
@@ -18286,6 +20109,7 @@
         "default": [
           "aslan",
           "şir",
+          "şir bürcü",
           "zodiak"
         ],
         "tts": [
@@ -18296,6 +20120,7 @@
         "default": [
           "bakirə",
           "qız",
+          "qız bürcü",
           "zodiak"
         ],
         "tts": [
@@ -18307,6 +20132,7 @@
           "balans",
           "ədalət",
           "tərəzi",
+          "tərəzi bürcü",
           "zodiak"
         ],
         "tts": [
@@ -18315,6 +20141,7 @@
       },
       "♏": {
         "default": [
+          "bürc",
           "əqrəb",
           "əqrəb bürcü",
           "zodiak"
@@ -18326,6 +20153,7 @@
       "♐": {
         "default": [
           "oxatan",
+          "oxatan bürcü",
           "zodiak"
         ],
         "tts": [
@@ -18336,6 +20164,7 @@
         "default": [
           "keçi",
           "oğlaq",
+          "oğlaq bürcü",
           "zodiak"
         ],
         "tts": [
@@ -18346,7 +20175,9 @@
         "default": [
           "daşıyan",
           "dolça",
+          "dolça bürcü",
           "su",
+          "sutökən",
           "zodiak"
         ],
         "tts": [
@@ -18357,6 +20188,7 @@
         "default": [
           "balıq",
           "balıqlar",
+          "balıqlar bürcü",
           "zodiak"
         ],
         "tts": [
@@ -18367,6 +20199,7 @@
         "default": [
           "daşıyan",
           "ilan",
+          "ilan simvolu",
           "ilandaşıyan",
           "zodiak"
         ],
@@ -18378,6 +20211,7 @@
         "default": [
           "kəsişən",
           "ox",
+          "trekləri nizamsız səsləndirmək düyməsi",
           "trekləri qarışdır düyməsi"
         ],
         "tts": [
@@ -18399,6 +20233,7 @@
         "default": [
           "bir",
           "bir dəfə təkrarla düyməsi",
+          "bir dəfə təkrarlamaq düyməsi",
           "ox",
           "saat istiqaməti"
         ],
@@ -18410,6 +20245,7 @@
         "default": [
           "işə sal",
           "işə sal düyməsi",
+          "işə salmaq düyməsi",
           "ox",
           "sağ",
           "üçbucaq"
@@ -18423,6 +20259,7 @@
           "ikiqat",
           "irəli",
           "ox",
+          "sürətlə irəliyə keçmək düyməsi",
           "sürətli",
           "sürətli irəliyə çək düyməsi"
         ],
@@ -18444,6 +20281,7 @@
       },
       "⏯": {
         "default": [
+          "dayandırmaq düyməsi",
           "fasilə",
           "işə sal",
           "işə sal və ya fasilə et düyməsi",
@@ -18458,6 +20296,7 @@
       "◀": {
         "default": [
           "əks",
+          "geri qayıtmaq düyməsi",
           "geriyə düyməsi",
           "ox",
           "sol",
@@ -18472,7 +20311,8 @@
           "ikiqat",
           "ox",
           "rekülək",
-          "sürətlə geriyə çək düyməsi"
+          "sürətlə geriyə çək düyməsi",
+          "sürətlə geriyə qayıtmaq düyməsi"
         ],
         "tts": [
           "sürətlə geriyə çək düyməsi"
@@ -18537,6 +20377,7 @@
       "⏸": {
         "default": [
           "fasilə",
+          "fasilə düyməsi",
           "fasilə et düyməsi",
           "ikiqat",
           "şaquli",
@@ -18550,6 +20391,7 @@
         "default": [
           "dayan",
           "dayandır düyməsi",
+          "dayandırmaq düyməsi",
           "kvadrat"
         ],
         "tts": [
@@ -18559,6 +20401,7 @@
       "⏺": {
         "default": [
           "dairə",
+          "qeydə almaq düyməsi",
           "yaz",
           "yaz düyməsi"
         ],
@@ -18589,6 +20432,7 @@
         "default": [
           "aşağı",
           "parlaqlıq",
+          "parlaqlıq düyməsi",
           "tutqun",
           "tutqunluq düyməsi"
         ],
@@ -18612,6 +20456,7 @@
           "antena siqnalları",
           "mobil telefon",
           "mobile",
+          "şəbəkə göstəricisi",
           "siqnal",
           "şkala",
           "telefon"
@@ -18622,10 +20467,14 @@
       },
       "🛜": {
         "default": [
+          "hotspot",
           "internet",
+          "komputer",
           "kompüter",
           "naqilsiz",
-          "şəbəkə"
+          "router",
+          "şəbəkə",
+          "wifi"
         ],
         "tts": [
           "naqilsiz"
@@ -18645,6 +20494,7 @@
       },
       "📴": {
         "default": [
+          "\"mobil telefonu söndürün\" işarəsi",
           "mobil",
           "mobil telefonu söndürün",
           "sönülü",
@@ -18688,7 +20538,8 @@
           "ləğv et",
           "qalın vurma x",
           "vur",
-          "vurma"
+          "vurma",
+          "vurma işarəsi"
         ],
         "tts": [
           "qalın vurma x"
@@ -18698,6 +20549,7 @@
         "default": [
           "+",
           "işarə",
+          "plyus",
           "qalın üstəgəl işarəsi",
           "riyaziyyat",
           "üstəgəl"
@@ -18712,6 +20564,7 @@
           "−",
           "çıxma",
           "işarə",
+          "minus",
           "qalın çıxma işarəsi",
           "riyaziyyat"
         ],
@@ -18732,7 +20585,10 @@
       "🟰": {
         "default": [
           "ağır bərabərlik işarəsi",
+          "bərabər",
           "bərabərlik",
+          "cavab",
+          "eyni",
           "riyaziyyat"
         ],
         "tts": [
@@ -18793,7 +20649,8 @@
           "durğu işarəsi",
           "işarə",
           "qeyd edilmiş",
-          "sual"
+          "sual",
+          "sxematik sual işarəsi"
         ],
         "tts": [
           "ağ sual işarəsi"
@@ -18805,7 +20662,8 @@
           "durğu işarəsi",
           "işarə",
           "nida",
-          "qeyd edilmiş"
+          "qeyd edilmiş",
+          "sxematik nida işarəsi"
         ],
         "tts": [
           "ağ nida işarəsi"
@@ -18816,6 +20674,7 @@
           "durğu işarəsi",
           "işarə",
           "nida",
+          "nida işarəsi",
           "qırmızı nida işarəsi"
         ],
         "tts": [
@@ -18827,6 +20686,7 @@
           "dalğalı tire",
           "dalğavari",
           "durğu işarəsi",
+          "tilda",
           "tire"
         ],
         "tts": [
@@ -18858,6 +20718,7 @@
       },
       "⚕": {
         "default": [
+          "asklepiy",
           "eskulap",
           "heyət",
           "tibb",
@@ -18878,6 +20739,7 @@
       },
       "⚜": {
         "default": [
+          "kral simvolu",
           "zanbaq"
         ],
         "tts": [
@@ -18913,6 +20775,7 @@
           "sarı",
           "şevron",
           "yapon",
+          "yaponların başlanğıc simvolu",
           "yaponların başlayan üçün simvolu"
         ],
         "tts": [
@@ -18924,6 +20787,7 @@
           "dairə",
           "o",
           "q",
+          "qalın böyük dairə",
           "qalın dairə",
           "qırmızı qalın dairə",
           "rm",
@@ -18935,8 +20799,10 @@
       },
       "✅": {
         "default": [
+          "hazırdır",
           "işarə",
           "işarələ",
+          "tamamlandı",
           "təsdiq işarəsi"
         ],
         "tts": [
@@ -18956,9 +20822,14 @@
       },
       "✔": {
         "default": [
+          "hazırdır",
           "işarə",
           "işarələ",
-          "qalın təsdiq işarəsi"
+          "işarələmək",
+          "qalın təsdiq işarəsi",
+          "tamamlandı",
+          "təsdiq işarəsi",
+          "tikləmək"
         ],
         "tts": [
           "qalın təsdiq işarəsi"
@@ -18969,7 +20840,10 @@
           "çarpazlamaq işarəsi",
           "işarə",
           "ləğv et",
+          "ləğv etmək işarəsi",
+          "riyazi əməl",
           "vurma",
+          "vurma işarəsi",
           "vurmaq",
           "x"
         ],
@@ -18981,7 +20855,9 @@
         "default": [
           "çarpazlamaq düyməsi",
           "işarə",
-          "kvadrat"
+          "kəsişmə düyməsi",
+          "kvadrat",
+          "vurma işarəsi"
         ],
         "tts": [
           "çarpazlamaq düyməsi"
@@ -18989,6 +20865,7 @@
       },
       "➰": {
         "default": [
+          "dalğalı sikl",
           "ilmə",
           "spiral"
         ],
@@ -18999,6 +20876,7 @@
       "➿": {
         "default": [
           "ikiqat",
+          "ikiqat dalğalı sikl",
           "ilmə",
           "spiral"
         ],
@@ -19018,6 +20896,7 @@
       },
       "✳": {
         "default": [
+          "səkkiz şüası olan ulduz simvolu",
           "səkkiz tərəfli ulduz",
           "ulduz"
         ],
@@ -19036,6 +20915,7 @@
       },
       "❇": {
         "default": [
+          "işıltı",
           "qığılcım"
         ],
         "tts": [
@@ -19061,12 +20941,29 @@
       },
       "™": {
         "default": [
+          "əmtəə nişanı",
           "işarə",
           "ticarət nişanı",
           "tn"
         ],
         "tts": [
           "ticarət nişanı"
+        ]
+      },
+      "🫟": {
+        "default": [
+          "boya",
+          "dağıtmaq",
+          "damcılamaq",
+          "holi",
+          "maye",
+          "mürəkkəb",
+          "rəng",
+          "səliqəsizlik",
+          "sıçratmaq"
+        ],
+        "tts": [
+          "sıçratmaq"
         ]
       },
       "🔠": {
@@ -19120,6 +21017,7 @@
           "daxiletmə",
           "əlifba",
           "hərflər",
+          "kiçik hərflərlə latın daxiletməsi",
           "latın",
           "latın hərfləri daxiletməsi"
         ],
@@ -19141,6 +21039,7 @@
         "default": [
           "ab",
           "ab düyməsi",
+          "AB düyməsi",
           "qan"
         ],
         "tts": [
@@ -19151,7 +21050,8 @@
         "default": [
           "b",
           "b düyməsi",
-          "qan"
+          "qan",
+          "qan növü"
         ],
         "tts": [
           "b düyməsi"
@@ -19160,6 +21060,7 @@
       "🆑": {
         "default": [
           "cl",
+          "cl düyməsi",
           "kvadrat cl düyməsi"
         ],
         "tts": [
@@ -19168,6 +21069,7 @@
       },
       "🆒": {
         "default": [
+          "\"əla\" düyməsi",
           "əla",
           "kvadrat əla düyməsi"
         ],
@@ -19178,7 +21080,8 @@
       "🆓": {
         "default": [
           "kvadrat ödənişsiz",
-          "ödənişsiz"
+          "ödənişsiz",
+          "ödənişsiz düyməsi"
         ],
         "tts": [
           "kvadrat ödənişsiz"
@@ -19187,6 +21090,7 @@
       "ℹ": {
         "default": [
           "i",
+          "informasiya",
           "məlumat"
         ],
         "tts": [
@@ -19197,7 +21101,8 @@
         "default": [
           "id",
           "kimlik",
-          "kimlik düyməsi"
+          "kimlik düyməsi",
+          "kimlik simvolu"
         ],
         "tts": [
           "kimlik düyməsi"
@@ -19207,7 +21112,9 @@
         "default": [
           "dairə",
           "dairə içində M",
-          "m"
+          "dairəvi m hərfi",
+          "m",
+          "metro"
         ],
         "tts": [
           "dairə içində M"
@@ -19244,6 +21151,7 @@
       "🆗": {
         "default": [
           "OK",
+          "ok düyməsi",
           "OK düyməsi"
         ],
         "tts": [
@@ -19263,7 +21171,9 @@
         "default": [
           "kömək",
           "sos",
-          "SOS düyməsi"
+          "SOS düyməsi",
+          "sos işarəsi",
+          "yardım"
         ],
         "tts": [
           "SOS düyməsi"
@@ -19274,6 +21184,7 @@
           "işarə",
           "YUXARI! düyməsi",
           "yuxarı",
+          "yuxarı işarəsi",
           "yuxarı! düyməsi"
         ],
         "tts": [
@@ -19285,6 +21196,7 @@
           "QARŞI düyməsi",
           "qarşı",
           "qarşı düyməsi",
+          "və",
           "vs"
         ],
         "tts": [
@@ -19294,7 +21206,8 @@
       "🈁": {
         "default": [
           "kvadrat katakana koko",
-          "yapon"
+          "yapon",
+          "yapon dilində \"burada\" düyməsi"
         ],
         "tts": [
           "kvadrat katakana koko"
@@ -19302,6 +21215,7 @@
       },
       "🈂": {
         "default": [
+          "katakana",
           "kvadrat katakana sa",
           "yapon"
         ],
@@ -19315,6 +21229,7 @@
           "ideoqram",
           "Japanese",
           "yapon \"aylıq məbləğ\" düyməsi",
+          "yapon dilində ay ideoqramı düyməsi",
           "月"
         ],
         "tts": [
@@ -19325,8 +21240,11 @@
         "default": [
           "\"pulsuz deyil\"",
           "ideoqram",
+          "pulsuz deyil",
           "yapon",
+          "Yapon",
           "yapon \"pulsuz deyil\" düyməsi",
+          "Yapon \"pulsuz deyil\" düyməsi",
           "有"
         ],
         "tts": [
@@ -19339,6 +21257,7 @@
           "ideoqram",
           "yapon",
           "yapon \"məxsusdur\" düyməsi",
+          "yapon dilində \"rezerv edilib\" düyməsi",
           "指"
         ],
         "tts": [
@@ -19351,6 +21270,7 @@
           "ideoqram",
           "yapon",
           "yapon \"yaxşı sövdələşmə\" düyməsi",
+          "yapon dilində \"sövdələşmə\" düyməsi",
           "得"
         ],
         "tts": [
@@ -19359,8 +21279,10 @@
       },
       "🈹": {
         "default": [
+          "ideoqram",
           "kvadrat bölmə ideoqramı",
-          "yapon"
+          "yapon",
+          "yapon dilində \"endirim\" düyməsi"
         ],
         "tts": [
           "kvadrat bölmə ideoqramı"
@@ -19372,6 +21294,7 @@
           "ideoqram",
           "yapon",
           "yapon \"pulsuzdur\" düyməsi",
+          "yapon dilində \"pulsuzdur\" düyməsi",
           "無"
         ],
         "tts": [
@@ -19380,8 +21303,10 @@
       },
       "🈲": {
         "default": [
+          "ideoqram",
           "kvadrat qadağa ideoqramı",
-          "yapon"
+          "yapon",
+          "yapon dilində \"qadağandır\" düyməsi"
         ],
         "tts": [
           "kvadrat qadağa ideoqramı"
@@ -19393,6 +21318,7 @@
           "ideoqram",
           "yapon",
           "yapon \"qəbul edilə bilən\" düyməsi",
+          "yapon dilində \"qəbul edilir\" düyməsi",
           "可"
         ],
         "tts": [
@@ -19402,7 +21328,9 @@
       "🈸": {
         "default": [
           "çin",
-          "kvadrat tətbiq ideoqramı"
+          "ideoqram",
+          "kvadrat tətbiq ideoqramı",
+          "yapon dilində \"tətbiqetmə\" düyməsi"
         ],
         "tts": [
           "kvadrat tətbiq ideoqramı"
@@ -19414,6 +21342,8 @@
           "ideoqram",
           "yapon",
           "yapon \"keçən qiymət\" düyməsi",
+          "yapon dilində \"imtahandan keçmək\" düyməsi",
+          "yaponların \"imtahandan keçmək\" işarəsi",
           "合"
         ],
         "tts": [
@@ -19423,7 +21353,9 @@
       "🈳": {
         "default": [
           "çin",
-          "kvadrat boş ideoqramı"
+          "ideoqram",
+          "kvadrat boş ideoqramı",
+          "yapon dilində \"vakansiya var\" düyməsi"
         ],
         "tts": [
           "kvadrat boş ideoqramı"
@@ -19432,7 +21364,10 @@
       "㊗": {
         "default": [
           "\"təbriklər\"",
+          "çin",
           "ideoqram",
+          "təbriklər",
+          "təbriklər düyməsi",
           "yapon",
           "yapon \"təbriklər\" düyməsi",
           "祝"
@@ -19444,7 +21379,10 @@
       "㊙": {
         "default": [
           "\"məxfi\"",
+          "çin",
           "ideoqram",
+          "sirr",
+          "sirr düyməsi",
           "yapon",
           "yapon \"məxfi\" düyməsi",
           "秘"
@@ -19459,6 +21397,7 @@
           "ideoqram",
           "yapon",
           "yapon \"iş\" düyməsi",
+          "yapon dilində \"biznes üçün açıqdır\" düyməsi",
           "営"
         ],
         "tts": [
@@ -19471,6 +21410,7 @@
           "ideoqram",
           "yapon",
           "yapon \"tamamilə dolu\" düyməsi",
+          "yapon dilində \"vakansiya yoxdur\" düyməsi",
           "満"
         ],
         "tts": [
@@ -19490,7 +21430,8 @@
       "🟠": {
         "default": [
           "dairə",
-          "narıncı"
+          "narıncı",
+          "narıncı çevrə"
         ],
         "tts": [
           "narıncı dairə"
@@ -19499,7 +21440,8 @@
       "🟡": {
         "default": [
           "dairə",
-          "sarı"
+          "sarı",
+          "sarı çevrə"
         ],
         "tts": [
           "sarı dairə"
@@ -19508,7 +21450,8 @@
       "🟢": {
         "default": [
           "dairə",
-          "yaşıl"
+          "yaşıl",
+          "yaşıl çevrə"
         ],
         "tts": [
           "yaşıl dairə"
@@ -19527,6 +21470,7 @@
       "🟣": {
         "default": [
           "bənövşəyi",
+          "bənövşəyi çevrə",
           "dairə"
         ],
         "tts": [
@@ -19536,7 +21480,8 @@
       "🟤": {
         "default": [
           "dairə",
-          "qəhvəyi"
+          "qəhvəyi",
+          "qəhvəyi çevrə"
         ],
         "tts": [
           "qəhvəyi dairə"
@@ -19669,6 +21614,7 @@
         "default": [
           "həndəsi",
           "kvadrat",
+          "qara orta kiçiklikdə kvadrat",
           "qara orta-kiçik kvadrat"
         ],
         "tts": [
@@ -19689,7 +21635,8 @@
         "default": [
           "həndəsi",
           "kvadrat",
-          "qara balaca kvadrat"
+          "qara balaca kvadrat",
+          "qara rəngli kiçik kvadrat"
         ],
         "tts": [
           "qara balaca kvadrat"
@@ -19698,6 +21645,7 @@
       "▫": {
         "default": [
           "ağ balaca kvadrat",
+          "ağ rəngli kiçik kvadrat",
           "həndəsi",
           "kvadrat"
         ],
@@ -19772,6 +21720,7 @@
       },
       "💠": {
         "default": [
+          "brilyant",
           "daxili",
           "həndəsi",
           "komik",
@@ -19796,6 +21745,7 @@
       "🔳": {
         "default": [
           "ağ kvadrat düymə",
+          "ağ kvadrat düyməsi",
           "düymə",
           "göstərilmiş",
           "həndəsi",
@@ -19810,7 +21760,9 @@
           "düymə",
           "həndəsi",
           "kvadrat",
-          "qara kvadrat düymə"
+          "kvadrat işarəsi",
+          "qara kvadrat düymə",
+          "qara kvadrat düyməsi"
         ],
         "tts": [
           "qara kvadrat düymə"
@@ -19830,7 +21782,9 @@
       "🚩": {
         "default": [
           "poçt",
-          "üçbucaq bayraq"
+          "quruculuq",
+          "üçbucaq bayraq",
+          "üçbucaq formalı bayraq"
         ],
         "tts": [
           "üçbucaq bayraq"
@@ -19851,6 +21805,7 @@
       "🏴": {
         "default": [
           "dalğalanan",
+          "dalğalanan qara bayraq",
           "qara bayraq"
         ],
         "tts": [
@@ -19871,7 +21826,8 @@
         "default": [
           "bayraq",
           "göy qurşağı",
-          "göy qurşağı bayrağı"
+          "göy qurşağı bayrağı",
+          "lgbt bayrağı"
         ],
         "tts": [
           "göy qurşağı bayrağı"
@@ -19880,6 +21836,8 @@
       "🏳‍⚧": {
         "default": [
           "bayraq",
+          "çəhrayı və ağ bayraq",
+          "göy",
           "göy, çəhrayı və ağ bayraq",
           "transgender"
         ],
@@ -20075,24 +22033,6 @@
           "bitkoin"
         ]
       },
-      "₨": {
-        "default": [
-          "rupi",
-          "valyuta"
-        ],
-        "tts": [
-          "rupi"
-        ]
-      },
-      "﷼": {
-        "default": [
-          "rial",
-          "valyuta"
-        ],
-        "tts": [
-          "rial"
-        ]
-      },
       "¹": {
         "default": [
           "bir",
@@ -20125,6 +22065,15 @@
           "üstdə üç"
         ]
       },
+      "₨": {
+        "default": [
+          "rupi",
+          "valyuta"
+        ],
+        "tts": [
+          "rupi"
+        ]
+      },
       "µ": {
         "default": [
           "mikro işarəsi",
@@ -20133,6 +22082,15 @@
         ],
         "tts": [
           "mikro işarəsi"
+        ]
+      },
+      "﷼": {
+        "default": [
+          "rial",
+          "valyuta"
+        ],
+        "tts": [
+          "rial"
         ]
       }
     }

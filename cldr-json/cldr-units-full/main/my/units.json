@@ -2,9 +2,6 @@
   "main": {
     "my": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "my"
       },
       "units": {
@@ -39,6 +36,12 @@
           "10p-24": {
             "unitPrefixPattern": "ယောက်တို{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "ရွန်တို{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "ကွီတို{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ဒက်ကာ{0}"
           },
@@ -68,6 +71,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "ယိုဒါ{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "ရွန်နာ{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "ကွက်တာ{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "ကီဘီ{0}"
@@ -150,7 +159,7 @@
             "perUnitPattern": "တစ်စတုရန်းမီတာလျှင် {0}"
           },
           "area-square-centimeter": {
-            "displayName": "စတုရန်းစင်တီမီတာ",
+            "displayName": "cm²",
             "unitPattern-count-other": "{0} စတုရန်းစင်တီမီတာ",
             "perUnitPattern": "တစ်စတုရန်းစင်တီမီတာလျှင် {0}"
           },
@@ -446,7 +455,7 @@
           },
           "graphics-dot": {
             "displayName": "အစက်",
-            "unitPattern-count-other": "{0} အစက်"
+            "unitPattern-count-other": "အစက် {0} စက်"
           },
           "length-earth-radius": {
             "displayName": "ကမ္ဘာ့ အချင်းဝက်",
@@ -514,8 +523,8 @@
             "unitPattern-count-other": "{0} အလင်းနှစ်"
           },
           "length-astronomical-unit": {
-            "displayName": "နက်ခတ်တဗဒေယူနဈ",
-            "unitPattern-count-other": "{0} နက်ခတ်တဗဒေယူနဈ"
+            "displayName": "နက္ခတဗေဒ ယူနစ်",
+            "unitPattern-count-other": "{0} နက္ခတဗေဒ ယူနစ်"
           },
           "length-furlong": {
             "displayName": "ဖာလုံ",
@@ -701,6 +710,10 @@
             "displayName": "နော့တီကယ်မိုင်",
             "unitPattern-count-other": "{0} နော့တီကယ်မိုင်"
           },
+          "speed-beaufort": {
+            "displayName": "ဗျူးဖို့တ်",
+            "unitPattern-count-other": "ဗျူးဖို့တ် {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "{0}°"
@@ -866,6 +879,19 @@
             "displayName": "ဗြိတိသျှသုံး ကွတ်",
             "unitPattern-count-other": "ဗြိတိသျှသုံး {0} ကွတ်"
           },
+          "speed-light-speed": {
+            "displayName": "အလင်း",
+            "unitPattern-count-other": "{0} အလင်း"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "သန်းတစ်ထောင်ပုံ တစ်ပုံ",
+            "unitPattern-count-other": "သန်းတစ်ထောင်ပုံ {0} ပုံ"
+          },
+          "duration-night": {
+            "displayName": "ည",
+            "unitPattern-count-other": "{0} ည",
+            "perUnitPattern": "{0}/ည"
+          },
           "coordinateUnit": {
             "displayName": "အရပ် လေးမျက်နှာ",
             "east": "{0} အရှေ့",
@@ -905,6 +931,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -934,6 +966,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -1016,7 +1054,7 @@
             "perUnitPattern": "{0}/m²"
           },
           "area-square-centimeter": {
-            "displayName": "စတုရန်းစင်တီမီတာ",
+            "displayName": "cm²",
             "unitPattern-count-other": "{0} cm²",
             "perUnitPattern": "{0}/cm²"
           },
@@ -1311,8 +1349,7 @@
             "unitPattern-count-other": "{0} dpi"
           },
           "graphics-dot": {
-            "displayName": "ပစ်ဆယ်",
-            "unitPattern-count-other": "{0} px"
+            "displayName": "အစက်"
           },
           "length-earth-radius": {
             "displayName": "ကမ္ဘာ့အချင်းဝက်",
@@ -1567,6 +1604,10 @@
             "displayName": "kn",
             "unitPattern-count-other": "{0} kn"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "{0}°"
@@ -1732,6 +1773,19 @@
             "displayName": "ဗြိတိသျှသုံး ကွတ်",
             "unitPattern-count-other": "ဗြိတိသျှသုံး {0} ကွတ်"
           },
+          "speed-light-speed": {
+            "displayName": "အလင်း",
+            "unitPattern-count-other": "{0} အလင်း"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "သန်းတစ်ထောင်ပုံ တစ်ပုံ",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "ည",
+            "unitPattern-count-other": "{0} ည",
+            "perUnitPattern": "{0}/ည"
+          },
           "coordinateUnit": {
             "displayName": "လမ်းကြောင်း",
             "east": "{0} E",
@@ -1771,6 +1825,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -1800,6 +1860,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -1882,7 +1948,7 @@
             "perUnitPattern": "{0}/m²"
           },
           "area-square-centimeter": {
-            "displayName": "စတုရန်းစင်တီမီတာ",
+            "displayName": "cm²",
             "unitPattern-count-other": "{0} cm²",
             "perUnitPattern": "{0}/cm²"
           },
@@ -1949,7 +2015,7 @@
             "unitPattern-count-other": "{0} mol"
           },
           "consumption-liter-per-kilometer": {
-            "displayName": "လီတာ/ကီလိုမီတာ",
+            "displayName": "L/km",
             "unitPattern-count-other": "{0} L/km"
           },
           "consumption-liter-per-100-kilometer": {
@@ -1981,7 +2047,7 @@
             "unitPattern-count-other": "{0} GB"
           },
           "digital-gigabit": {
-            "displayName": "ဂစ်ဂါဘစ်",
+            "displayName": "Gb",
             "unitPattern-count-other": "{0} Gb"
           },
           "digital-megabyte": {
@@ -2001,8 +2067,8 @@
             "unitPattern-count-other": "{0} kb"
           },
           "digital-byte": {
-            "displayName": "ဘိုက်",
-            "unitPattern-count-other": "{0} byte"
+            "displayName": "B",
+            "unitPattern-count-other": "{0}B"
           },
           "digital-bit": {
             "displayName": "ဘစ်",
@@ -2069,7 +2135,7 @@
             "unitPattern-count-other": "{0} ns"
           },
           "electric-ampere": {
-            "displayName": "အမ်ပီယာ",
+            "displayName": "amp",
             "unitPattern-count-other": "{0} A"
           },
           "electric-milliampere": {
@@ -2125,7 +2191,7 @@
             "unitPattern-count-other": "{0} lbf"
           },
           "force-newton": {
-            "displayName": "နယူတန်",
+            "displayName": "N",
             "unitPattern-count-other": "{0} N"
           },
           "force-kilowatt-hour-per-100-kilometer": {
@@ -2133,7 +2199,7 @@
             "unitPattern-count-other": "{0}kWh/100km"
           },
           "frequency-gigahertz": {
-            "displayName": "ဂီဂါဟတ်ဇ်",
+            "displayName": "GHz",
             "unitPattern-count-other": "{0} GHz"
           },
           "frequency-megahertz": {
@@ -2178,7 +2244,7 @@
           },
           "graphics-dot": {
             "displayName": "အစက်",
-            "unitPattern-count-other": "{0} အစက်"
+            "unitPattern-count-other": "{0}စက်"
           },
           "length-earth-radius": {
             "displayName": "R⊕",
@@ -2282,11 +2348,11 @@
             "unitPattern-count-other": "{0} cd"
           },
           "light-lumen": {
-            "displayName": "လူမန်",
-            "unitPattern-count-other": "{0} လူမန်"
+            "displayName": "lm",
+            "unitPattern-count-other": "{0}lm"
           },
           "light-solar-luminosity": {
-            "displayName": "ဆိုလာ လူမီနိုစီးတီးစ်",
+            "displayName": "L☉",
             "unitPattern-count-other": "{0} L☉"
           },
           "mass-tonne": {
@@ -2382,11 +2448,11 @@
             "unitPattern-count-other": "{0} mm Hg"
           },
           "pressure-pound-force-per-square-inch": {
-            "displayName": "ပေါင်/စတုရန်းလက်မ",
+            "displayName": "psi",
             "unitPattern-count-other": "{0} psi"
           },
           "pressure-inch-ofhg": {
-            "displayName": "inHg",
+            "displayName": "″ Hg",
             "unitPattern-count-other": "{0} inHg"
           },
           "pressure-bar": {
@@ -2394,7 +2460,7 @@
             "unitPattern-count-other": "{0} ဘား"
           },
           "pressure-millibar": {
-            "displayName": "မီလီဘား",
+            "displayName": "mbar",
             "unitPattern-count-other": "{0} mbar"
           },
           "pressure-atmosphere": {
@@ -2432,6 +2498,10 @@
           "speed-knot": {
             "displayName": "kn",
             "unitPattern-count-other": "{0} kn"
+          },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
           },
           "temperature-generic": {
             "displayName": "°",
@@ -2498,7 +2568,7 @@
           "volume-liter": {
             "displayName": "လီတာ",
             "unitPattern-count-other": "{0}L",
-            "perUnitPattern": "{0}/l"
+            "perUnitPattern": "{0}/လီတာ"
           },
           "volume-deciliter": {
             "displayName": "ဒက်စီလီတာ",
@@ -2535,8 +2605,8 @@
           },
           "volume-gallon-imperial": {
             "displayName": "ယူကေ ဂါလံ",
-            "unitPattern-count-other": "{0} ယူကေ ဂါလံ",
-            "perUnitPattern": "{0}/gal Imp."
+            "unitPattern-count-other": "ယူကေ ဂါလံ {0} ဂါလံ",
+            "perUnitPattern": "{0}/ယူကေ ဂါလံ"
           },
           "volume-quart": {
             "displayName": "ကွတ်",
@@ -2555,7 +2625,7 @@
             "unitPattern-count-other": "{0} fl oz"
           },
           "volume-fluid-ounce-imperial": {
-            "displayName": "Imp. fl oz",
+            "displayName": "ဗြိတိသျှသုံး အရည်အောင်စ",
             "unitPattern-count-other": "{0}fl oz Im"
           },
           "volume-tablespoon": {
@@ -2567,7 +2637,7 @@
             "unitPattern-count-other": "{0} tsp"
           },
           "volume-barrel": {
-            "displayName": "ဘယ်ရလ်",
+            "displayName": "စည်",
             "unitPattern-count-other": "{0} bbl"
           },
           "volume-dessert-spoon": {
@@ -2579,7 +2649,7 @@
             "unitPattern-count-other": "ဗြိတိသျှသုံးအချိုပွဲဇွန်း {0} ဇွန်း"
           },
           "volume-drop": {
-            "displayName": "တစ်စက်",
+            "displayName": "စက်",
             "unitPattern-count-other": "{0} စက်"
           },
           "volume-dram": {
@@ -2597,6 +2667,19 @@
           "volume-quart-imperial": {
             "displayName": "ဗြိတိသျှသုံး ကွတ်",
             "unitPattern-count-other": "ဗြိတိသျှသုံး {0} ကွတ်"
+          },
+          "speed-light-speed": {
+            "displayName": "အလင်း",
+            "unitPattern-count-other": "{0}အလင်း"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "သန်းတစ်ထောင်ပုံ တစ်ပုံ",
+            "unitPattern-count-other": "{0}ppb"
+          },
+          "duration-night": {
+            "displayName": "ည",
+            "unitPattern-count-other": "{0} ည",
+            "perUnitPattern": "{0}/ည"
           },
           "coordinateUnit": {
             "displayName": "လမ်းကြောင်း",

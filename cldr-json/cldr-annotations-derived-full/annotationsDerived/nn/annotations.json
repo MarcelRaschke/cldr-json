@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "nn"
     },
     "annotations": {
@@ -6940,7 +6937,6 @@
       "🙍🏻‍♀": {
         "default": [
           "hudtype 1–2",
-          "kinne som rynkar bryna",
           "kvinne",
           "kvinne som rynkar bryna",
           "mimikk",
@@ -6954,7 +6950,6 @@
       "🙍🏼‍♀": {
         "default": [
           "hudtype 3",
-          "kinne som rynkar bryna",
           "kvinne",
           "kvinne som rynkar bryna",
           "mimikk",
@@ -6968,7 +6963,6 @@
       "🙍🏽‍♀": {
         "default": [
           "hudtype 4",
-          "kinne som rynkar bryna",
           "kvinne",
           "kvinne som rynkar bryna",
           "mimikk",
@@ -6982,7 +6976,6 @@
       "🙍🏾‍♀": {
         "default": [
           "hudtype 5",
-          "kinne som rynkar bryna",
           "kvinne",
           "kvinne som rynkar bryna",
           "mimikk",
@@ -6996,7 +6989,6 @@
       "🙍🏿‍♀": {
         "default": [
           "hudtype 6",
-          "kinne som rynkar bryna",
           "kvinne",
           "kvinne som rynkar bryna",
           "mimikk",
@@ -7670,6 +7662,7 @@
       "🙋🏻": {
         "default": [
           "hand",
+          "helsing",
           "hudtype 1–2",
           "person",
           "rekker opp",
@@ -7682,6 +7675,7 @@
       "🙋🏼": {
         "default": [
           "hand",
+          "helsing",
           "hudtype 3",
           "person",
           "rekker opp",
@@ -7694,6 +7688,7 @@
       "🙋🏽": {
         "default": [
           "hand",
+          "helsing",
           "hudtype 4",
           "person",
           "rekker opp",
@@ -7706,6 +7701,7 @@
       "🙋🏾": {
         "default": [
           "hand",
+          "helsing",
           "hudtype 5",
           "person",
           "rekker opp",
@@ -7718,6 +7714,7 @@
       "🙋🏿": {
         "default": [
           "hand",
+          "helsing",
           "hudtype 6",
           "person",
           "rekker opp",
@@ -7729,6 +7726,7 @@
       },
       "🙋🏻‍♂": {
         "default": [
+          "helsing",
           "hudtype 1–2",
           "mann",
           "mann som rekker opp handa",
@@ -7740,6 +7738,7 @@
       },
       "🙋🏼‍♂": {
         "default": [
+          "helsing",
           "hudtype 3",
           "mann",
           "mann som rekker opp handa",
@@ -7751,6 +7750,7 @@
       },
       "🙋🏽‍♂": {
         "default": [
+          "helsing",
           "hudtype 4",
           "mann",
           "mann som rekker opp handa",
@@ -7762,6 +7762,7 @@
       },
       "🙋🏾‍♂": {
         "default": [
+          "helsing",
           "hudtype 5",
           "mann",
           "mann som rekker opp handa",
@@ -7773,6 +7774,7 @@
       },
       "🙋🏿‍♂": {
         "default": [
+          "helsing",
           "hudtype 6",
           "mann",
           "mann som rekker opp handa",
@@ -7784,8 +7786,8 @@
       },
       "🙋🏻‍♀": {
         "default": [
+          "helsing",
           "hudtype 1–2",
-          "kinne som rekker opp handa",
           "kvinne",
           "kvinne som rekker opp handa",
           "rekke opp handa"
@@ -7796,8 +7798,8 @@
       },
       "🙋🏼‍♀": {
         "default": [
+          "helsing",
           "hudtype 3",
-          "kinne som rekker opp handa",
           "kvinne",
           "kvinne som rekker opp handa",
           "rekke opp handa"
@@ -7808,8 +7810,8 @@
       },
       "🙋🏽‍♀": {
         "default": [
+          "helsing",
           "hudtype 4",
-          "kinne som rekker opp handa",
           "kvinne",
           "kvinne som rekker opp handa",
           "rekke opp handa"
@@ -7820,8 +7822,8 @@
       },
       "🙋🏾‍♀": {
         "default": [
+          "helsing",
           "hudtype 5",
-          "kinne som rekker opp handa",
           "kvinne",
           "kvinne som rekker opp handa",
           "rekke opp handa"
@@ -7832,8 +7834,8 @@
       },
       "🙋🏿‍♀": {
         "default": [
+          "helsing",
           "hudtype 6",
-          "kinne som rekker opp handa",
           "kvinne",
           "kvinne som rekker opp handa",
           "rekke opp handa"
@@ -8164,7 +8166,7 @@
       },
       "🤦🏻‍♂": {
         "default": [
-          "ansikt",
+          "andlet",
           "facepalm",
           "fjes",
           "hudtype 1–2",
@@ -8180,7 +8182,7 @@
       },
       "🤦🏼‍♂": {
         "default": [
-          "ansikt",
+          "andlet",
           "facepalm",
           "fjes",
           "hudtype 3",
@@ -8196,7 +8198,7 @@
       },
       "🤦🏽‍♂": {
         "default": [
-          "ansikt",
+          "andlet",
           "facepalm",
           "fjes",
           "hudtype 4",
@@ -8212,7 +8214,7 @@
       },
       "🤦🏾‍♂": {
         "default": [
-          "ansikt",
+          "andlet",
           "facepalm",
           "fjes",
           "hudtype 5",
@@ -8228,7 +8230,7 @@
       },
       "🤦🏿‍♂": {
         "default": [
-          "ansikt",
+          "andlet",
           "facepalm",
           "fjes",
           "hudtype 6",
@@ -8244,7 +8246,7 @@
       },
       "🤦🏻‍♀": {
         "default": [
-          "ansikt",
+          "andlet",
           "facepalm",
           "fjes",
           "hudtype 1–2",
@@ -8260,7 +8262,7 @@
       },
       "🤦🏼‍♀": {
         "default": [
-          "ansikt",
+          "andlet",
           "facepalm",
           "fjes",
           "hudtype 3",
@@ -8276,7 +8278,7 @@
       },
       "🤦🏽‍♀": {
         "default": [
-          "ansikt",
+          "andlet",
           "facepalm",
           "fjes",
           "hudtype 4",
@@ -8292,7 +8294,7 @@
       },
       "🤦🏾‍♀": {
         "default": [
-          "ansikt",
+          "andlet",
           "facepalm",
           "fjes",
           "hudtype 5",
@@ -8308,7 +8310,7 @@
       },
       "🤦🏿‍♀": {
         "default": [
-          "ansikt",
+          "andlet",
           "facepalm",
           "fjes",
           "hudtype 6",
@@ -8515,12 +8517,13 @@
       "🧑🏻‍⚕": {
         "default": [
           "dokter",
+          "doktor",
           "helsearbeidar",
           "helsevesen",
           "hudtype 1–2",
           "lege",
           "sjukepleiar",
-          "terapaut"
+          "terapeut"
         ],
         "tts": [
           "helsearbeidar: hudtype 1–2"
@@ -8529,12 +8532,13 @@
       "🧑🏼‍⚕": {
         "default": [
           "dokter",
+          "doktor",
           "helsearbeidar",
           "helsevesen",
           "hudtype 3",
           "lege",
           "sjukepleiar",
-          "terapaut"
+          "terapeut"
         ],
         "tts": [
           "helsearbeidar: hudtype 3"
@@ -8543,12 +8547,13 @@
       "🧑🏽‍⚕": {
         "default": [
           "dokter",
+          "doktor",
           "helsearbeidar",
           "helsevesen",
           "hudtype 4",
           "lege",
           "sjukepleiar",
-          "terapaut"
+          "terapeut"
         ],
         "tts": [
           "helsearbeidar: hudtype 4"
@@ -8557,12 +8562,13 @@
       "🧑🏾‍⚕": {
         "default": [
           "dokter",
+          "doktor",
           "helsearbeidar",
           "helsevesen",
           "hudtype 5",
           "lege",
           "sjukepleiar",
-          "terapaut"
+          "terapeut"
         ],
         "tts": [
           "helsearbeidar: hudtype 5"
@@ -8571,12 +8577,13 @@
       "🧑🏿‍⚕": {
         "default": [
           "dokter",
+          "doktor",
           "helsearbeidar",
           "helsevesen",
           "hudtype 6",
           "lege",
           "sjukepleiar",
-          "terapaut"
+          "terapeut"
         ],
         "tts": [
           "helsearbeidar: hudtype 6"
@@ -8585,6 +8592,7 @@
       "👨🏻‍⚕": {
         "default": [
           "dokter",
+          "doktor",
           "helsevesen",
           "hudtype 1–2",
           "lege",
@@ -8600,6 +8608,7 @@
       "👨🏼‍⚕": {
         "default": [
           "dokter",
+          "doktor",
           "helsevesen",
           "hudtype 3",
           "lege",
@@ -8615,6 +8624,7 @@
       "👨🏽‍⚕": {
         "default": [
           "dokter",
+          "doktor",
           "helsevesen",
           "hudtype 4",
           "lege",
@@ -8630,6 +8640,7 @@
       "👨🏾‍⚕": {
         "default": [
           "dokter",
+          "doktor",
           "helsevesen",
           "hudtype 5",
           "lege",
@@ -8645,6 +8656,7 @@
       "👨🏿‍⚕": {
         "default": [
           "dokter",
+          "doktor",
           "helsevesen",
           "hudtype 6",
           "lege",
@@ -8660,7 +8672,8 @@
       "👩🏻‍⚕": {
         "default": [
           "dokter",
-          "helseesen",
+          "doktor",
+          "helsevesen",
           "hudtype 1–2",
           "kvinne",
           "kvinneleg helsearbeidar",
@@ -8675,7 +8688,8 @@
       "👩🏼‍⚕": {
         "default": [
           "dokter",
-          "helseesen",
+          "doktor",
+          "helsevesen",
           "hudtype 3",
           "kvinne",
           "kvinneleg helsearbeidar",
@@ -8690,7 +8704,8 @@
       "👩🏽‍⚕": {
         "default": [
           "dokter",
-          "helseesen",
+          "doktor",
+          "helsevesen",
           "hudtype 4",
           "kvinne",
           "kvinneleg helsearbeidar",
@@ -8705,7 +8720,8 @@
       "👩🏾‍⚕": {
         "default": [
           "dokter",
-          "helseesen",
+          "doktor",
+          "helsevesen",
           "hudtype 5",
           "kvinne",
           "kvinneleg helsearbeidar",
@@ -8720,7 +8736,8 @@
       "👩🏿‍⚕": {
         "default": [
           "dokter",
-          "helseesen",
+          "doktor",
+          "helsevesen",
           "hudtype 6",
           "kvinne",
           "kvinneleg helsearbeidar",
@@ -9599,12 +9616,11 @@
       },
       "🧑🏻‍🔧": {
         "default": [
-          "bil",
           "elektrikar",
           "handverkar",
           "hudtype 1–2",
           "mekanikar",
-          "motor",
+          "røyrleggar",
           "røyrleggjar"
         ],
         "tts": [
@@ -9613,12 +9629,11 @@
       },
       "🧑🏼‍🔧": {
         "default": [
-          "bil",
           "elektrikar",
           "handverkar",
           "hudtype 3",
           "mekanikar",
-          "motor",
+          "røyrleggar",
           "røyrleggjar"
         ],
         "tts": [
@@ -9627,12 +9642,11 @@
       },
       "🧑🏽‍🔧": {
         "default": [
-          "bil",
           "elektrikar",
           "handverkar",
           "hudtype 4",
           "mekanikar",
-          "motor",
+          "røyrleggar",
           "røyrleggjar"
         ],
         "tts": [
@@ -9641,12 +9655,11 @@
       },
       "🧑🏾‍🔧": {
         "default": [
-          "bil",
           "elektrikar",
           "handverkar",
           "hudtype 5",
           "mekanikar",
-          "motor",
+          "røyrleggar",
           "røyrleggjar"
         ],
         "tts": [
@@ -9655,12 +9668,11 @@
       },
       "🧑🏿‍🔧": {
         "default": [
-          "bil",
           "elektrikar",
           "handverkar",
           "hudtype 6",
           "mekanikar",
-          "motor",
+          "røyrleggar",
           "røyrleggjar"
         ],
         "tts": [
@@ -9969,9 +9981,11 @@
       },
       "👩🏻‍🏭": {
         "default": [
+          "arbeidar",
           "fabrikk",
           "hudtype 1–2",
           "industri",
+          "industriarbeidar",
           "kvinne",
           "kvinneleg industriarbeidar",
           "produksjon"
@@ -9982,9 +9996,11 @@
       },
       "👩🏼‍🏭": {
         "default": [
+          "arbeidar",
           "fabrikk",
           "hudtype 3",
           "industri",
+          "industriarbeidar",
           "kvinne",
           "kvinneleg industriarbeidar",
           "produksjon"
@@ -9995,9 +10011,11 @@
       },
       "👩🏽‍🏭": {
         "default": [
+          "arbeidar",
           "fabrikk",
           "hudtype 4",
           "industri",
+          "industriarbeidar",
           "kvinne",
           "kvinneleg industriarbeidar",
           "produksjon"
@@ -10008,9 +10026,11 @@
       },
       "👩🏾‍🏭": {
         "default": [
+          "arbeidar",
           "fabrikk",
           "hudtype 5",
           "industri",
+          "industriarbeidar",
           "kvinne",
           "kvinneleg industriarbeidar",
           "produksjon"
@@ -10021,9 +10041,11 @@
       },
       "👩🏿‍🏭": {
         "default": [
+          "arbeidar",
           "fabrikk",
           "hudtype 6",
           "industri",
+          "industriarbeidar",
           "kvinne",
           "kvinneleg industriarbeidar",
           "produksjon"
@@ -13166,8 +13188,12 @@
         "default": [
           "andlet",
           "andletsmassasje",
+          "avslapping",
+          "hovudpine",
+          "hovudverk",
           "hudtype 1–2",
           "massasje",
+          "person",
           "venleikssalong"
         ],
         "tts": [
@@ -13178,8 +13204,12 @@
         "default": [
           "andlet",
           "andletsmassasje",
+          "avslapping",
+          "hovudpine",
+          "hovudverk",
           "hudtype 3",
           "massasje",
+          "person",
           "venleikssalong"
         ],
         "tts": [
@@ -13190,8 +13220,12 @@
         "default": [
           "andlet",
           "andletsmassasje",
+          "avslapping",
+          "hovudpine",
+          "hovudverk",
           "hudtype 4",
           "massasje",
+          "person",
           "venleikssalong"
         ],
         "tts": [
@@ -13202,8 +13236,12 @@
         "default": [
           "andlet",
           "andletsmassasje",
+          "avslapping",
+          "hovudpine",
+          "hovudverk",
           "hudtype 5",
           "massasje",
+          "person",
           "venleikssalong"
         ],
         "tts": [
@@ -13214,8 +13252,12 @@
         "default": [
           "andlet",
           "andletsmassasje",
+          "avslapping",
+          "hovudpine",
+          "hovudverk",
           "hudtype 6",
           "massasje",
+          "person",
           "venleikssalong"
         ],
         "tts": [
@@ -13607,6 +13649,528 @@
           "kvinneleg fotgjengar: hudtype 6"
         ]
       },
+      "🚶‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "gåande",
+          "høgre",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "fotgjengar: vendt mot høgre"
+        ]
+      },
+      "🚶🏻‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "gåande",
+          "høgre",
+          "hudtype 1–2",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "fotgjengar: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "🚶🏼‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "gåande",
+          "høgre",
+          "hudtype 3",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "fotgjengar: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "🚶🏽‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "gåande",
+          "høgre",
+          "hudtype 4",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "fotgjengar: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "🚶🏾‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "gåande",
+          "høgre",
+          "hudtype 5",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "fotgjengar: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "🚶🏿‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "gåande",
+          "høgre",
+          "hudtype 6",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "fotgjengar: hudtype 6, vendt mot høgre"
+        ]
+      },
+      "🚶‍♀‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "høgre",
+          "kvinne",
+          "kvinneleg fotgjengar",
+          "mot",
+          "tur",
+          "vendt"
+        ],
+        "tts": [
+          "kvinneleg fotgjengar: vendt mot høgre"
+        ]
+      },
+      "🚶🏻‍♀‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "høgre",
+          "hudtype 1–2",
+          "kvinne",
+          "kvinneleg fotgjengar",
+          "mot",
+          "tur",
+          "vendt"
+        ],
+        "tts": [
+          "kvinneleg fotgjengar: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "🚶🏼‍♀‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "høgre",
+          "hudtype 3",
+          "kvinne",
+          "kvinneleg fotgjengar",
+          "mot",
+          "tur",
+          "vendt"
+        ],
+        "tts": [
+          "kvinneleg fotgjengar: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "🚶🏽‍♀‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "høgre",
+          "hudtype 4",
+          "kvinne",
+          "kvinneleg fotgjengar",
+          "mot",
+          "tur",
+          "vendt"
+        ],
+        "tts": [
+          "kvinneleg fotgjengar: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "🚶🏾‍♀‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "høgre",
+          "hudtype 5",
+          "kvinne",
+          "kvinneleg fotgjengar",
+          "mot",
+          "tur",
+          "vendt"
+        ],
+        "tts": [
+          "kvinneleg fotgjengar: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "🚶🏿‍♀‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "høgre",
+          "hudtype 6",
+          "kvinne",
+          "kvinneleg fotgjengar",
+          "mot",
+          "tur",
+          "vendt"
+        ],
+        "tts": [
+          "kvinneleg fotgjengar: hudtype 6, vendt mot høgre"
+        ]
+      },
+      "🚶‍♂‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "høgre",
+          "mann",
+          "mannleg fotgjengar",
+          "mot",
+          "tur",
+          "vendt"
+        ],
+        "tts": [
+          "mannleg fotgjengar: vendt mot høgre"
+        ]
+      },
+      "🚶🏻‍♂‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "høgre",
+          "hudtype 1–2",
+          "mann",
+          "mannleg fotgjengar",
+          "mot",
+          "tur",
+          "vendt"
+        ],
+        "tts": [
+          "mannleg fotgjengar: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "🚶🏼‍♂‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "høgre",
+          "hudtype 3",
+          "mann",
+          "mannleg fotgjengar",
+          "mot",
+          "tur",
+          "vendt"
+        ],
+        "tts": [
+          "mannleg fotgjengar: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "🚶🏽‍♂‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "høgre",
+          "hudtype 4",
+          "mann",
+          "mannleg fotgjengar",
+          "mot",
+          "tur",
+          "vendt"
+        ],
+        "tts": [
+          "mannleg fotgjengar: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "🚶🏾‍♂‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "høgre",
+          "hudtype 5",
+          "mann",
+          "mannleg fotgjengar",
+          "mot",
+          "tur",
+          "vendt"
+        ],
+        "tts": [
+          "mannleg fotgjengar: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "🚶🏿‍♂‍➡": {
+        "default": [
+          "fotgjengar",
+          "gå",
+          "høgre",
+          "hudtype 6",
+          "mann",
+          "mannleg fotgjengar",
+          "mot",
+          "tur",
+          "vendt"
+        ],
+        "tts": [
+          "mannleg fotgjengar: hudtype 6, vendt mot høgre"
+        ]
+      },
+      "🧎‍➡": {
+        "default": [
+          "høgre",
+          "knele",
+          "kneler",
+          "mot",
+          "person som kneler",
+          "vendt"
+        ],
+        "tts": [
+          "person som kneler: vendt mot høgre"
+        ]
+      },
+      "🧎🏻‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 1–2",
+          "knele",
+          "kneler",
+          "mot",
+          "person som kneler",
+          "vendt"
+        ],
+        "tts": [
+          "person som kneler: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "🧎🏼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 3",
+          "knele",
+          "kneler",
+          "mot",
+          "person som kneler",
+          "vendt"
+        ],
+        "tts": [
+          "person som kneler: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "🧎🏽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 4",
+          "knele",
+          "kneler",
+          "mot",
+          "person som kneler",
+          "vendt"
+        ],
+        "tts": [
+          "person som kneler: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "🧎🏾‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 5",
+          "knele",
+          "kneler",
+          "mot",
+          "person som kneler",
+          "vendt"
+        ],
+        "tts": [
+          "person som kneler: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "🧎🏿‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 6",
+          "knele",
+          "kneler",
+          "mot",
+          "person som kneler",
+          "vendt"
+        ],
+        "tts": [
+          "person som kneler: hudtype 6, vendt mot høgre"
+        ]
+      },
+      "🧎‍♀‍➡": {
+        "default": [
+          "høgre",
+          "kneler",
+          "kvinne",
+          "kvinne som kneler",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne som kneler: vendt mot høgre"
+        ]
+      },
+      "🧎🏻‍♀‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 1–2",
+          "kneler",
+          "kvinne",
+          "kvinne som kneler",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne som kneler: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "🧎🏼‍♀‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 3",
+          "kneler",
+          "kvinne",
+          "kvinne som kneler",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne som kneler: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "🧎🏽‍♀‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 4",
+          "kneler",
+          "kvinne",
+          "kvinne som kneler",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne som kneler: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "🧎🏾‍♀‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 5",
+          "kneler",
+          "kvinne",
+          "kvinne som kneler",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne som kneler: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "🧎🏿‍♀‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 6",
+          "kneler",
+          "kvinne",
+          "kvinne som kneler",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne som kneler: hudtype 6, vendt mot høgre"
+        ]
+      },
+      "🧎‍♂‍➡": {
+        "default": [
+          "høgre",
+          "kneler",
+          "mann",
+          "mann som kneler",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "mann som kneler: vendt mot høgre"
+        ]
+      },
+      "🧎🏻‍♂‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 1–2",
+          "kneler",
+          "mann",
+          "mann som kneler",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "mann som kneler: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "🧎🏼‍♂‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 3",
+          "kneler",
+          "mann",
+          "mann som kneler",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "mann som kneler: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "🧎🏽‍♂‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 4",
+          "kneler",
+          "mann",
+          "mann som kneler",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "mann som kneler: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "🧎🏾‍♂‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 5",
+          "kneler",
+          "mann",
+          "mann som kneler",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "mann som kneler: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "🧎🏿‍♂‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 6",
+          "kneler",
+          "mann",
+          "mann som kneler",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "mann som kneler: hudtype 6, vendt mot høgre"
+        ]
+      },
       "🧑🏻‍🦯": {
         "default": [
           "blind",
@@ -13645,6 +14209,89 @@
           "hudtype 6",
           "person med blindestokk",
           "tilgjenge"
+        ]
+      },
+      "🧑‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "mot",
+          "person med blindestokk",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person med blindestokk: vendt mot høgre"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "hudtype 1–2",
+          "mot",
+          "person med blindestokk",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person med blindestokk: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "🧑🏼‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "hudtype 3",
+          "mot",
+          "person med blindestokk",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person med blindestokk: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "hudtype 4",
+          "mot",
+          "person med blindestokk",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person med blindestokk: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "hudtype 5",
+          "mot",
+          "person med blindestokk",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person med blindestokk: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "hudtype 6",
+          "mot",
+          "person med blindestokk",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person med blindestokk: hudtype 6, vendt mot høgre"
         ]
       },
       "👨🏻‍🦯": {
@@ -13692,6 +14339,95 @@
           "tilgjenge"
         ]
       },
+      "👨‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "mann",
+          "mann med blindestokk",
+          "mot",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann med blindestokk: vendt mot høgre"
+        ]
+      },
+      "👨🏻‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "hudtype 1–2",
+          "mann",
+          "mann med blindestokk",
+          "mot",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann med blindestokk: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "👨🏼‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "hudtype 3",
+          "mann",
+          "mann med blindestokk",
+          "mot",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann med blindestokk: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "👨🏽‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "hudtype 4",
+          "mann",
+          "mann med blindestokk",
+          "mot",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann med blindestokk: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "👨🏾‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "hudtype 5",
+          "mann",
+          "mann med blindestokk",
+          "mot",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann med blindestokk: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "👨🏿‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "hudtype 6",
+          "mann",
+          "mann med blindestokk",
+          "mot",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann med blindestokk: hudtype 6, vendt mot høgre"
+        ]
+      },
       "👩🏻‍🦯": {
         "default": [
           "blind",
@@ -13737,6 +14473,95 @@
           "tilgjenge"
         ]
       },
+      "👩‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "kvinne",
+          "kvinne med blindestokk",
+          "mot",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne med blindestokk: vendt mot høgre"
+        ]
+      },
+      "👩🏻‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "hudtype 1–2",
+          "kvinne",
+          "kvinne med blindestokk",
+          "mot",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne med blindestokk: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "👩🏼‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "hudtype 3",
+          "kvinne",
+          "kvinne med blindestokk",
+          "mot",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne med blindestokk: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "👩🏽‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "hudtype 4",
+          "kvinne",
+          "kvinne med blindestokk",
+          "mot",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne med blindestokk: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "👩🏾‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "hudtype 5",
+          "kvinne",
+          "kvinne med blindestokk",
+          "mot",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne med blindestokk: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "👩🏿‍🦯‍➡": {
+        "default": [
+          "blind",
+          "høgre",
+          "hudtype 6",
+          "kvinne",
+          "kvinne med blindestokk",
+          "mot",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne med blindestokk: hudtype 6, vendt mot høgre"
+        ]
+      },
       "🧑🏻‍🦼": {
         "default": [
           "hudtype 1–2",
@@ -13775,6 +14600,89 @@
           "person i motorisert rullestol",
           "rullestol",
           "tilgjenge"
+        ]
+      },
+      "🧑‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "mot",
+          "person i motorisert rullestol",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person i motorisert rullestol: vendt mot høgre"
+        ]
+      },
+      "🧑🏻‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 1–2",
+          "mot",
+          "person i motorisert rullestol",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person i motorisert rullestol: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "🧑🏼‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 3",
+          "mot",
+          "person i motorisert rullestol",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person i motorisert rullestol: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "🧑🏽‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 4",
+          "mot",
+          "person i motorisert rullestol",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person i motorisert rullestol: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "🧑🏾‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 5",
+          "mot",
+          "person i motorisert rullestol",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person i motorisert rullestol: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "🧑🏿‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 6",
+          "mot",
+          "person i motorisert rullestol",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person i motorisert rullestol: hudtype 6, vendt mot høgre"
         ]
       },
       "👨🏻‍🦼": {
@@ -13822,6 +14730,95 @@
           "tilgjenge"
         ]
       },
+      "👨‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "mann",
+          "mann i motorisert rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann i motorisert rullestol: vendt mot høgre"
+        ]
+      },
+      "👨🏻‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 1–2",
+          "mann",
+          "mann i motorisert rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann i motorisert rullestol: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "👨🏼‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 3",
+          "mann",
+          "mann i motorisert rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann i motorisert rullestol: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "👨🏽‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 4",
+          "mann",
+          "mann i motorisert rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann i motorisert rullestol: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "👨🏾‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 5",
+          "mann",
+          "mann i motorisert rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann i motorisert rullestol: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "👨🏿‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 6",
+          "mann",
+          "mann i motorisert rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann i motorisert rullestol: hudtype 6, vendt mot høgre"
+        ]
+      },
       "👩🏻‍🦼": {
         "default": [
           "hudtype 1–2",
@@ -13867,6 +14864,95 @@
           "tilgjenge"
         ]
       },
+      "👩‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "kvinne",
+          "kvinne i motorisert rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne i motorisert rullestol: vendt mot høgre"
+        ]
+      },
+      "👩🏻‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 1–2",
+          "kvinne",
+          "kvinne i motorisert rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne i motorisert rullestol: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "👩🏼‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 3",
+          "kvinne",
+          "kvinne i motorisert rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne i motorisert rullestol: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "👩🏽‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 4",
+          "kvinne",
+          "kvinne i motorisert rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne i motorisert rullestol: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "👩🏾‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 5",
+          "kvinne",
+          "kvinne i motorisert rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne i motorisert rullestol: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "👩🏿‍🦼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 6",
+          "kvinne",
+          "kvinne i motorisert rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne i motorisert rullestol: hudtype 6, vendt mot høgre"
+        ]
+      },
       "🧑🏻‍🦽": {
         "default": [
           "hudtype 1–2",
@@ -13905,6 +14991,89 @@
           "person i manuell rullestol",
           "rullestol",
           "tilgjenge"
+        ]
+      },
+      "🧑‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "mot",
+          "person i manuell rullestol",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person i manuell rullestol: vendt mot høgre"
+        ]
+      },
+      "🧑🏻‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 1–2",
+          "mot",
+          "person i manuell rullestol",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person i manuell rullestol: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "🧑🏼‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 3",
+          "mot",
+          "person i manuell rullestol",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person i manuell rullestol: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "🧑🏽‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 4",
+          "mot",
+          "person i manuell rullestol",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person i manuell rullestol: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "🧑🏾‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 5",
+          "mot",
+          "person i manuell rullestol",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person i manuell rullestol: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "🧑🏿‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 6",
+          "mot",
+          "person i manuell rullestol",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "person i manuell rullestol: hudtype 6, vendt mot høgre"
         ]
       },
       "👨🏻‍🦽": {
@@ -13952,6 +15121,95 @@
           "tilgjenge"
         ]
       },
+      "👨‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "mann",
+          "mann i manuell rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann i manuell rullestol: vendt mot høgre"
+        ]
+      },
+      "👨🏻‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 1–2",
+          "mann",
+          "mann i manuell rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann i manuell rullestol: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "👨🏼‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 3",
+          "mann",
+          "mann i manuell rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann i manuell rullestol: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "👨🏽‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 4",
+          "mann",
+          "mann i manuell rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann i manuell rullestol: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "👨🏾‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 5",
+          "mann",
+          "mann i manuell rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann i manuell rullestol: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "👨🏿‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 6",
+          "mann",
+          "mann i manuell rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "mann i manuell rullestol: hudtype 6, vendt mot høgre"
+        ]
+      },
       "👩🏻‍🦽": {
         "default": [
           "hudtype 1–2",
@@ -13995,6 +15253,95 @@
           "kvinne i manuell rullestol",
           "rullestol",
           "tilgjenge"
+        ]
+      },
+      "👩‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "kvinne",
+          "kvinne i manuell rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne i manuell rullestol: vendt mot høgre"
+        ]
+      },
+      "👩🏻‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 1–2",
+          "kvinne",
+          "kvinne i manuell rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne i manuell rullestol: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "👩🏼‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 3",
+          "kvinne",
+          "kvinne i manuell rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne i manuell rullestol: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "👩🏽‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 4",
+          "kvinne",
+          "kvinne i manuell rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne i manuell rullestol: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "👩🏾‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 5",
+          "kvinne",
+          "kvinne i manuell rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne i manuell rullestol: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "👩🏿‍🦽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 6",
+          "kvinne",
+          "kvinne i manuell rullestol",
+          "mot",
+          "rullestol",
+          "tilgjenge",
+          "vendt"
+        ],
+        "tts": [
+          "kvinne i manuell rullestol: hudtype 6, vendt mot høgre"
         ]
       },
       "🏃🏻": {
@@ -14195,6 +15542,297 @@
         ],
         "tts": [
           "kvineleg løpar: hudtype 6"
+        ]
+      },
+      "🏃‍➡": {
+        "default": [
+          "høgre",
+          "joggar",
+          "jogging",
+          "løpar",
+          "løping",
+          "maraton",
+          "mot",
+          "sport",
+          "vendt"
+        ],
+        "tts": [
+          "løpar: vendt mot høgre"
+        ]
+      },
+      "🏃🏻‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 1–2",
+          "joggar",
+          "jogging",
+          "løpar",
+          "løping",
+          "maraton",
+          "mot",
+          "sport",
+          "vendt"
+        ],
+        "tts": [
+          "løpar: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "🏃🏼‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 3",
+          "joggar",
+          "jogging",
+          "løpar",
+          "løping",
+          "maraton",
+          "mot",
+          "sport",
+          "vendt"
+        ],
+        "tts": [
+          "løpar: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "🏃🏽‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 4",
+          "joggar",
+          "jogging",
+          "løpar",
+          "løping",
+          "maraton",
+          "mot",
+          "sport",
+          "vendt"
+        ],
+        "tts": [
+          "løpar: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "🏃🏾‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 5",
+          "joggar",
+          "jogging",
+          "løpar",
+          "løping",
+          "maraton",
+          "mot",
+          "sport",
+          "vendt"
+        ],
+        "tts": [
+          "løpar: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "🏃🏿‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 6",
+          "joggar",
+          "jogging",
+          "løpar",
+          "løping",
+          "maraton",
+          "mot",
+          "sport",
+          "vendt"
+        ],
+        "tts": [
+          "løpar: hudtype 6, vendt mot høgre"
+        ]
+      },
+      "🏃‍♀‍➡": {
+        "default": [
+          "høgre",
+          "jogge",
+          "kvineleg løpar",
+          "kvinne",
+          "løpe",
+          "maraton",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "kvineleg løpar: vendt mot høgre"
+        ]
+      },
+      "🏃🏻‍♀‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 1–2",
+          "jogge",
+          "kvineleg løpar",
+          "kvinne",
+          "løpe",
+          "maraton",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "kvineleg løpar: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "🏃🏼‍♀‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 3",
+          "jogge",
+          "kvineleg løpar",
+          "kvinne",
+          "løpe",
+          "maraton",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "kvineleg løpar: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "🏃🏽‍♀‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 4",
+          "jogge",
+          "kvineleg løpar",
+          "kvinne",
+          "løpe",
+          "maraton",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "kvineleg løpar: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "🏃🏾‍♀‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 5",
+          "jogge",
+          "kvineleg løpar",
+          "kvinne",
+          "løpe",
+          "maraton",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "kvineleg løpar: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "🏃🏿‍♀‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 6",
+          "jogge",
+          "kvineleg løpar",
+          "kvinne",
+          "løpe",
+          "maraton",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "kvineleg løpar: hudtype 6, vendt mot høgre"
+        ]
+      },
+      "🏃‍♂‍➡": {
+        "default": [
+          "høgre",
+          "jogge",
+          "løpe",
+          "mann",
+          "mannleg løpar",
+          "maraton",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "mannleg løpar: vendt mot høgre"
+        ]
+      },
+      "🏃🏻‍♂‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 1–2",
+          "jogge",
+          "løpe",
+          "mann",
+          "mannleg løpar",
+          "maraton",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "mannleg løpar: hudtype 1–2, vendt mot høgre"
+        ]
+      },
+      "🏃🏼‍♂‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 3",
+          "jogge",
+          "løpe",
+          "mann",
+          "mannleg løpar",
+          "maraton",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "mannleg løpar: hudtype 3, vendt mot høgre"
+        ]
+      },
+      "🏃🏽‍♂‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 4",
+          "jogge",
+          "løpe",
+          "mann",
+          "mannleg løpar",
+          "maraton",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "mannleg løpar: hudtype 4, vendt mot høgre"
+        ]
+      },
+      "🏃🏾‍♂‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 5",
+          "jogge",
+          "løpe",
+          "mann",
+          "mannleg løpar",
+          "maraton",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "mannleg løpar: hudtype 5, vendt mot høgre"
+        ]
+      },
+      "🏃🏿‍♂‍➡": {
+        "default": [
+          "høgre",
+          "hudtype 6",
+          "jogge",
+          "løpe",
+          "mann",
+          "mannleg løpar",
+          "maraton",
+          "mot",
+          "vendt"
+        ],
+        "tts": [
+          "mannleg løpar: hudtype 6, vendt mot høgre"
         ]
       },
       "💃🏻": {
@@ -16099,7 +17737,7 @@
       },
       "🧑🏻‍🤝‍🧑🏻": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "par",
@@ -16112,7 +17750,7 @@
       },
       "🧑🏻‍🤝‍🧑🏼": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 3",
@@ -16126,7 +17764,7 @@
       },
       "🧑🏻‍🤝‍🧑🏽": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 4",
@@ -16140,7 +17778,7 @@
       },
       "🧑🏻‍🤝‍🧑🏾": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 5",
@@ -16154,7 +17792,7 @@
       },
       "🧑🏻‍🤝‍🧑🏿": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 6",
@@ -16168,7 +17806,7 @@
       },
       "🧑🏼‍🤝‍🧑🏻": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 3",
@@ -16182,7 +17820,7 @@
       },
       "🧑🏼‍🤝‍🧑🏼": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 3",
           "par",
@@ -16195,7 +17833,7 @@
       },
       "🧑🏼‍🤝‍🧑🏽": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 3",
           "hudtype 4",
@@ -16209,7 +17847,7 @@
       },
       "🧑🏼‍🤝‍🧑🏾": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 3",
           "hudtype 5",
@@ -16223,7 +17861,7 @@
       },
       "🧑🏼‍🤝‍🧑🏿": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 3",
           "hudtype 6",
@@ -16237,7 +17875,7 @@
       },
       "🧑🏽‍🤝‍🧑🏻": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 4",
@@ -16251,7 +17889,7 @@
       },
       "🧑🏽‍🤝‍🧑🏼": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 3",
           "hudtype 4",
@@ -16265,7 +17903,7 @@
       },
       "🧑🏽‍🤝‍🧑🏽": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 4",
           "par",
@@ -16278,7 +17916,7 @@
       },
       "🧑🏽‍🤝‍🧑🏾": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 4",
           "hudtype 5",
@@ -16292,7 +17930,7 @@
       },
       "🧑🏽‍🤝‍🧑🏿": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 4",
           "hudtype 6",
@@ -16306,7 +17944,7 @@
       },
       "🧑🏾‍🤝‍🧑🏻": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 5",
@@ -16320,7 +17958,7 @@
       },
       "🧑🏾‍🤝‍🧑🏼": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 3",
           "hudtype 5",
@@ -16334,7 +17972,7 @@
       },
       "🧑🏾‍🤝‍🧑🏽": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 4",
           "hudtype 5",
@@ -16348,7 +17986,7 @@
       },
       "🧑🏾‍🤝‍🧑🏾": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 5",
           "par",
@@ -16361,7 +17999,7 @@
       },
       "🧑🏾‍🤝‍🧑🏿": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 5",
           "hudtype 6",
@@ -16375,7 +18013,7 @@
       },
       "🧑🏿‍🤝‍🧑🏻": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 6",
@@ -16389,7 +18027,7 @@
       },
       "🧑🏿‍🤝‍🧑🏼": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 3",
           "hudtype 6",
@@ -16403,7 +18041,7 @@
       },
       "🧑🏿‍🤝‍🧑🏽": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 4",
           "hudtype 6",
@@ -16417,7 +18055,7 @@
       },
       "🧑🏿‍🤝‍🧑🏾": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 5",
           "hudtype 6",
@@ -16431,7 +18069,7 @@
       },
       "🧑🏿‍🤝‍🧑🏿": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 6",
           "par",
@@ -16444,372 +18082,347 @@
       },
       "👭🏻": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 1–2"
+          "kvinner som leiar: hudtype 1–2"
         ]
       },
       "👩🏻‍🤝‍👩🏼": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 3",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 1–2, hudtype 3"
+          "kvinner som leiar: hudtype 1–2, hudtype 3"
         ]
       },
       "👩🏻‍🤝‍👩🏽": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 4",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 1–2, hudtype 4"
+          "kvinner som leiar: hudtype 1–2, hudtype 4"
         ]
       },
       "👩🏻‍🤝‍👩🏾": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 5",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 1–2, hudtype 5"
+          "kvinner som leiar: hudtype 1–2, hudtype 5"
         ]
       },
       "👩🏻‍🤝‍👩🏿": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 6",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 1–2, hudtype 6"
+          "kvinner som leiar: hudtype 1–2, hudtype 6"
         ]
       },
       "👩🏼‍🤝‍👩🏻": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 3",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 3, hudtype 1–2"
+          "kvinner som leiar: hudtype 3, hudtype 1–2"
         ]
       },
       "👭🏼": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 3",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 3"
+          "kvinner som leiar: hudtype 3"
         ]
       },
       "👩🏼‍🤝‍👩🏽": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 3",
           "hudtype 4",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 3, hudtype 4"
+          "kvinner som leiar: hudtype 3, hudtype 4"
         ]
       },
       "👩🏼‍🤝‍👩🏾": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 3",
           "hudtype 5",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 3, hudtype 5"
+          "kvinner som leiar: hudtype 3, hudtype 5"
         ]
       },
       "👩🏼‍🤝‍👩🏿": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 3",
           "hudtype 6",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 3, hudtype 6"
+          "kvinner som leiar: hudtype 3, hudtype 6"
         ]
       },
       "👩🏽‍🤝‍👩🏻": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 4",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 4, hudtype 1–2"
+          "kvinner som leiar: hudtype 4, hudtype 1–2"
         ]
       },
       "👩🏽‍🤝‍👩🏼": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 3",
           "hudtype 4",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 4, hudtype 3"
+          "kvinner som leiar: hudtype 4, hudtype 3"
         ]
       },
       "👭🏽": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 4",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 4"
+          "kvinner som leiar: hudtype 4"
         ]
       },
       "👩🏽‍🤝‍👩🏾": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 4",
           "hudtype 5",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 4, hudtype 5"
+          "kvinner som leiar: hudtype 4, hudtype 5"
         ]
       },
       "👩🏽‍🤝‍👩🏿": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 4",
           "hudtype 6",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 4, hudtype 6"
+          "kvinner som leiar: hudtype 4, hudtype 6"
         ]
       },
       "👩🏾‍🤝‍👩🏻": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 5",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 5, hudtype 1–2"
+          "kvinner som leiar: hudtype 5, hudtype 1–2"
         ]
       },
       "👩🏾‍🤝‍👩🏼": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 3",
           "hudtype 5",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 5, hudtype 3"
+          "kvinner som leiar: hudtype 5, hudtype 3"
         ]
       },
       "👩🏾‍🤝‍👩🏽": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 4",
           "hudtype 5",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 5, hudtype 4"
+          "kvinner som leiar: hudtype 5, hudtype 4"
         ]
       },
       "👭🏾": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 5",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 5"
+          "kvinner som leiar: hudtype 5"
         ]
       },
       "👩🏾‍🤝‍👩🏿": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 5",
           "hudtype 6",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 5, hudtype 6"
+          "kvinner som leiar: hudtype 5, hudtype 6"
         ]
       },
       "👩🏿‍🤝‍👩🏻": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 1–2",
           "hudtype 6",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 6, hudtype 1–2"
+          "kvinner som leiar: hudtype 6, hudtype 1–2"
         ]
       },
       "👩🏿‍🤝‍👩🏼": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 3",
           "hudtype 6",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 6, hudtype 3"
+          "kvinner som leiar: hudtype 6, hudtype 3"
         ]
       },
       "👩🏿‍🤝‍👩🏽": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 4",
           "hudtype 6",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 6, hudtype 4"
+          "kvinner som leiar: hudtype 6, hudtype 4"
         ]
       },
       "👩🏿‍🤝‍👩🏾": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 5",
           "hudtype 6",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 6, hudtype 5"
+          "kvinner som leiar: hudtype 6, hudtype 5"
         ]
       },
       "👭🏿": {
         "default": [
-          "halde hender",
+          "halda hender",
           "hand",
           "hudtype 6",
-          "kinner som leiar",
           "kvinne",
           "kvinner som leiar",
           "par"
         ],
         "tts": [
-          "kinner som leiar: hudtype 6"
+          "kvinner som leiar: hudtype 6"
         ]
       },
       "👫🏻": {
@@ -18144,11 +19757,6 @@
           "flagg: Austerrike"
         ]
       },
-      "🇧🇾": {
-        "tts": [
-          "flagg: Kviterussland"
-        ]
-      },
       "🇨🇨": {
         "tts": [
           "flagg: Kokosøyane"
@@ -18291,7 +19899,7 @@
       },
       "🇺🇳": {
         "tts": [
-          "flagg: SN"
+          "flagg: Dei sameinte nasjonane"
         ]
       },
       "🇻🇨": {
@@ -18327,6 +19935,11 @@
       "₲": {
         "tts": [
           "paraguayanske guaraní"
+        ]
+      },
+      "₺": {
+        "tts": [
+          "tyrkiske lira"
         ]
       },
       "0⃣": {

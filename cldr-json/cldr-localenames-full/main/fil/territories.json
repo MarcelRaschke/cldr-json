@@ -2,9 +2,6 @@
   "main": {
     "fil": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "fil"
       },
       "localeDisplayNames": {
@@ -160,6 +157,8 @@
           "IM": "Isle of Man",
           "IN": "India",
           "IO": "British Indian Ocean Territory",
+          "IO-alt-biot": "British Indian Ocean Territory",
+          "IO-alt-chagos": "Chagos Archipelago",
           "IQ": "Iraq",
           "IR": "Iran",
           "IS": "Iceland",
@@ -285,7 +284,7 @@
           "TM": "Turkmenistan",
           "TN": "Tunisia",
           "TO": "Tonga",
-          "TR": "Turkey",
+          "TR": "Türkiye",
           "TR-alt-variant": "Türkiye",
           "TT": "Trinidad & Tobago",
           "TV": "Tuvalu",

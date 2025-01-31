@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "sv"
     },
     "annotations": {
@@ -691,8 +688,7 @@
           "hash-tagg",
           "hashtecken",
           "nummer",
-          "nummertecken",
-          "pound"
+          "nummertecken"
         ],
         "tts": [
           "fyrkant"
@@ -3098,7 +3094,9 @@
       },
       "😀": {
         "default": [
-          "ansikte med stort leende",
+          "ansikte",
+          "glad",
+          "kul",
           "leende",
           "roligt",
           "skratt"
@@ -3109,11 +3107,18 @@
       },
       "😃": {
         "default": [
-          "flinande ansikte med stora ögon",
+          "ansikte",
+          "flina",
+          "glad",
+          "kul",
           "leende",
-          "öppen mun",
+          "mun",
+          "ögon",
+          "öppen",
           "roligt",
-          "skratt"
+          "skratt",
+          "stora",
+          "tänder"
         ],
         "tts": [
           "flinande ansikte med stora ögon"
@@ -3121,8 +3126,14 @@
       },
       "😄": {
         "default": [
-          "flinande ansikte med leende ögon",
-          "leende ögon",
+          "ansikte",
+          "blundar",
+          "flina",
+          "glad",
+          "kul",
+          "leende",
+          "lol",
+          "ögon",
           "roligt",
           "skratt"
         ],
@@ -3132,10 +3143,13 @@
       },
       "😁": {
         "default": [
+          "ansikte",
           "leende",
+          "ögon",
           "roligt",
           "skratt",
-          "strålande ansikte med leende ögon"
+          "strålande",
+          "tänder"
         ],
         "tts": [
           "strålande ansikte med leende ögon"
@@ -3144,10 +3158,18 @@
       "😆": {
         "default": [
           "ansikte",
-          "flinande ansikte med kisande ögon",
-          "leende med stängda ögon",
-          "öppen mun",
-          "stängda ögon"
+          "flinande",
+          "hahaha",
+          "jätteroligt",
+          "kiknar",
+          "kisande",
+          "leende",
+          "mun",
+          "ögon",
+          "öppen",
+          "roligt",
+          "skratt",
+          "stängda"
         ],
         "tts": [
           "flinande ansikte med kisande ögon"
@@ -3155,8 +3177,15 @@
       },
       "😅": {
         "default": [
-          "flinande ansikte med svettdroppe",
-          "leende men svettas"
+          "ansikte",
+          "droppe",
+          "glad",
+          "jobbigt",
+          "leende",
+          "nervös",
+          "stress",
+          "svett",
+          "trött"
         ],
         "tts": [
           "flinande ansikte med svettdroppe"
@@ -3165,10 +3194,13 @@
       "🤣": {
         "default": [
           "ansikte",
+          "gapskratt",
           "golv",
+          "gråter",
+          "jätteroligt",
           "rullar",
-          "rullar runt på golvet och skrattar",
-          "skratt"
+          "skratt",
+          "tårar"
         ],
         "tts": [
           "rullar runt på golvet och skrattar"
@@ -3176,8 +3208,13 @@
       },
       "😂": {
         "default": [
-          "ansikte med glädjetårar",
-          "glädjetårar"
+          "ansikte",
+          "gapskratt",
+          "glädjetårar",
+          "gråt",
+          "jätteroligt",
+          "skratt",
+          "tårar"
         ],
         "tts": [
           "ansikte med glädjetårar"
@@ -3186,9 +3223,11 @@
       "🙂": {
         "default": [
           "ansikte",
+          "glad",
           "leende",
           "ler",
-          "småleende ansikte"
+          "litet",
+          "nöjd"
         ],
         "tts": [
           "småleende ansikte"
@@ -3197,8 +3236,8 @@
       "🙃": {
         "default": [
           "ansikte",
-          "upp-och-ner",
-          "upp-och-nervänt ansikte"
+          "leende",
+          "upp-och-ner"
         ],
         "tts": [
           "upp-och-nervänt ansikte"
@@ -3206,11 +3245,12 @@
       },
       "🫠": {
         "default": [
+          "ansikte",
           "flytande",
           "försvinner",
-          "smältande ansikte",
           "smälter",
-          "upplöses"
+          "upplöses",
+          "varmt"
         ],
         "tts": [
           "smältande ansikte"
@@ -3218,20 +3258,26 @@
       },
       "😉": {
         "default": [
-          "ansikte som blinkar med ögonen",
-          "blinkar med ögonen",
-          "blinkning",
+          "ansikte",
+          "blinkar",
           "flört",
+          "öga",
           "skämt"
         ],
         "tts": [
-          "ansikte som blinkar med ögonen"
+          "ansikte som blinkar med ett öga"
         ]
       },
       "😊": {
         "default": [
+          "ansikte",
           "glad",
-          "leende ansikte och ögon"
+          "kinder",
+          "leende",
+          "ler",
+          "nöjd",
+          "ögon",
+          "rosiga"
         ],
         "tts": [
           "leende ansikte och ögon"
@@ -3239,9 +3285,9 @@
       },
       "😇": {
         "default": [
+          "ansikte",
           "gloria",
-          "leende",
-          "leende ansikte med gloria"
+          "leende"
         ],
         "tts": [
           "leende ansikte med gloria"
@@ -3249,9 +3295,13 @@
       },
       "🥰": {
         "default": [
+          "älskar",
+          "ansikte",
           "förtjust",
+          "hjärtan",
           "kär",
-          "leende ansikte med tre hjärtan"
+          "leende",
+          "romantik"
         ],
         "tts": [
           "leende ansikte med tre hjärtan"
@@ -3259,9 +3309,14 @@
       },
       "😍": {
         "default": [
+          "älskar",
+          "ansikte",
+          "gullig",
           "hjärta",
           "kärlek",
-          "leende ansikte med hjärtformade ögon"
+          "leende",
+          "ögon",
+          "söt"
         ],
         "tts": [
           "leende ansikte med hjärtformade ögon"
@@ -3270,8 +3325,11 @@
       "🤩": {
         "default": [
           "ansikte",
-          "stjärnögt ansikte",
-          "stjärnsmäll"
+          "glad",
+          "imponerad",
+          "stjärnögd",
+          "stjärnsmäll",
+          "wow"
         ],
         "tts": [
           "stjärnögt ansikte"
@@ -3279,7 +3337,8 @@
       },
       "😘": {
         "default": [
-          "ansikte ger en slängkyss",
+          "älskar",
+          "ansikte",
           "hjärta",
           "puss",
           "slängkyss"
@@ -3290,8 +3349,9 @@
       },
       "😗": {
         "default": [
-          "puss",
-          "pussande ansikte"
+          "ansikte",
+          "plutar",
+          "puss"
         ],
         "tts": [
           "pussande ansikte"
@@ -3299,7 +3359,10 @@
       },
       "☺": {
         "default": [
-          "leende ansikte",
+          "ansikte",
+          "glad",
+          "leende",
+          "nöjd",
           "smiley"
         ],
         "tts": [
@@ -3308,9 +3371,12 @@
       },
       "😚": {
         "default": [
+          "ansikte",
+          "blundar",
           "glad",
+          "kinder",
           "puss",
-          "pussande ansikte med slutna ögon"
+          "rosiga"
         ],
         "tts": [
           "pussande ansikte med slutna ögon"
@@ -3318,9 +3384,12 @@
       },
       "😙": {
         "default": [
+          "ansikte",
           "glad",
-          "puss",
-          "pussande ansikte med leende ögon"
+          "godnatt",
+          "leende",
+          "ögon",
+          "puss"
         ],
         "tts": [
           "pussande ansikte med leende ögon"
@@ -3328,13 +3397,15 @@
       },
       "🥲": {
         "default": [
+          "ansikte",
           "berörd",
           "lättad",
           "leende",
+          "smiley",
           "stolt",
           "tacksam",
           "tår",
-          "tårögt leende ansikte"
+          "tårögt"
         ],
         "tts": [
           "tårögt leende ansikte"
@@ -3342,11 +3413,17 @@
       },
       "😋": {
         "default": [
-          "ansikte som njuter av god mat",
-          "god mat",
+          "ansikte",
+          "dreglar",
+          "god",
           "gott",
-          "leende ansikte",
-          "smakar gott"
+          "hungrig",
+          "leende",
+          "mat",
+          "mums",
+          "njuter",
+          "smakar",
+          "tunga"
         ],
         "tts": [
           "ansikte som njuter av god mat"
@@ -3355,8 +3432,8 @@
       "😛": {
         "default": [
           "ansikte",
-          "ansikte räcker ut tungan",
-          "räcker ut tungan",
+          "blä",
+          "räcker ut",
           "tunga"
         ],
         "tts": [
@@ -3365,9 +3442,13 @@
       },
       "😜": {
         "default": [
-          "blinkande ansikte",
-          "blinkande ansikte räcker ut tungan",
-          "räcker ut tungan och blinkar"
+          "ansikte",
+          "blinkande",
+          "knäpp",
+          "räcker ut",
+          "skojar",
+          "tokigt",
+          "tungan"
         ],
         "tts": [
           "blinkande ansikte räcker ut tungan"
@@ -3375,10 +3456,13 @@
       },
       "🤪": {
         "default": [
+          "ansikte",
           "liten",
           "öga",
+          "skojar",
           "stor",
-          "tokigt ansikte"
+          "tokigt",
+          "tunga"
         ],
         "tts": [
           "tokigt ansikte"
@@ -3387,8 +3471,10 @@
       "😝": {
         "default": [
           "äckligt",
-          "ansikte räcker ut tungan med stängda ögon",
-          "räcker ut tungan med stängda ögon",
+          "ansikte",
+          "kniper ihop",
+          "ögon",
+          "räcker ut",
           "tunga"
         ],
         "tts": [
@@ -3398,9 +3484,11 @@
       "🤑": {
         "default": [
           "ansikte",
-          "ansikte med dollarögon",
-          "ansikte med pengamun",
-          "pengar"
+          "dollarögon",
+          "girig",
+          "pengamun",
+          "pengar",
+          "tjäna"
         ],
         "tts": [
           "ansikte med dollarögon"
@@ -3409,9 +3497,11 @@
       "🤗": {
         "default": [
           "ansikte",
-          "ansikte som kramas",
-          "kramas",
-          "leende"
+          "glad",
+          "hej",
+          "kram",
+          "leende",
+          "vinkar"
         ],
         "tts": [
           "ansikte som kramas"
@@ -3419,8 +3509,11 @@
       },
       "🤭": {
         "default": [
-          "ansikte med handen för munnen",
-          "hoppsan"
+          "ansikte",
+          "fnissar",
+          "hand",
+          "hoppsan",
+          "mun"
         ],
         "tts": [
           "ansikte med handen för munnen"
@@ -3428,13 +3521,20 @@
       },
       "🫢": {
         "default": [
-          "ansikte med ögonen öppna och handen för munnen",
+          "åh nej",
+          "ansikte",
+          "chockad",
           "förvånad",
           "generad",
+          "hand",
           "misstro",
+          "mun",
+          "ögon",
+          "oops",
           "överraskad",
           "överväldigad",
-          "rädd"
+          "rädd",
+          "stora"
         ],
         "tts": [
           "ansikte med ögonen öppna och handen för munnen"
@@ -3442,10 +3542,14 @@
       },
       "🫣": {
         "default": [
-          "ansikte med kikande öga",
+          "ansikte",
+          "blyg",
           "fängslad",
+          "försiktig",
           "kikar",
-          "stirrar"
+          "öga",
+          "rädd",
+          "tjuvkikar"
         ],
         "tts": [
           "ansikte med kikande öga"
@@ -3453,7 +3557,9 @@
       },
       "🤫": {
         "default": [
-          "hyssjande ansikte",
+          "ansikte",
+          "hemlighet",
+          "hyssjar",
           "tyst"
         ],
         "tts": [
@@ -3463,8 +3569,10 @@
       "🤔": {
         "default": [
           "ansikte",
-          "ansikte som tänker",
-          "tänker"
+          "funderar",
+          "fundersamt",
+          "tänker",
+          "undrar"
         ],
         "tts": [
           "ansikte som tänker"
@@ -3472,11 +3580,13 @@
       },
       "🫡": {
         "default": [
-          "ansikte som gör honnör",
+          "ajaj kapten",
+          "ansikte",
           "hälsa",
           "honnör",
           "instämma",
           "ja",
+          "lycka till",
           "ok",
           "salutera"
         ],
@@ -3487,9 +3597,12 @@
       "🤐": {
         "default": [
           "ansikte",
-          "ansikte som tiger",
           "dragkedja",
-          "hemlighet"
+          "håller",
+          "hemlighet",
+          "mun",
+          "tiger",
+          "tyst"
         ],
         "tts": [
           "ansikte som tiger"
@@ -3498,7 +3611,8 @@
       "🤨": {
         "default": [
           "ansikte",
-          "ansikte med höjt ögonbryn",
+          "höjt",
+          "ögonbryn",
           "skeptisk",
           "tveksam"
         ],
@@ -3508,9 +3622,10 @@
       },
       "😐": {
         "default": [
-          "ingen kommentar",
-          "neutral",
-          "neutralt ansikte"
+          "ansikte",
+          "ingen",
+          "kommentar",
+          "neutralt"
         ],
         "tts": [
           "neutralt ansikte"
@@ -3518,8 +3633,10 @@
       },
       "😑": {
         "default": [
-          "ingen kommentar",
-          "uttryckslöst ansikte"
+          "ansikte",
+          "ingen",
+          "kommentar",
+          "uttryckslöst"
         ],
         "tts": [
           "uttryckslöst ansikte"
@@ -3527,8 +3644,13 @@
       },
       "😶": {
         "default": [
-          "ansikte utan mun",
-          "ingen mun"
+          "ansikte",
+          "hemlighet",
+          "mun",
+          "stum",
+          "tyst",
+          "utan",
+          "uttryckslös"
         ],
         "tts": [
           "ansikte utan mun"
@@ -3536,12 +3658,12 @@
       },
       "🫥": {
         "default": [
+          "ansikte",
           "deprimerad",
           "försvinner",
           "gömd",
           "introvert",
-          "osynlig",
-          "osynligt ansikte"
+          "osynlig"
         ],
         "tts": [
           "osynligt ansikte"
@@ -3549,10 +3671,12 @@
       },
       "😶‍🌫": {
         "default": [
-          "ansikte i moln",
+          "ansikte",
+          "dimma",
           "disträ",
           "glömsk",
-          "tanksprid"
+          "moln",
+          "tankspridd"
         ],
         "tts": [
           "ansikte i moln"
@@ -3560,10 +3684,10 @@
       },
       "😏": {
         "default": [
+          "ansikte",
           "flin",
-          "flinande ansikte",
-          "halvleende ansikte",
-          "småleende ansikte"
+          "halvleende",
+          "småleende"
         ],
         "tts": [
           "halvleende ansikte"
@@ -3571,9 +3695,10 @@
       },
       "😒": {
         "default": [
-          "inte glad",
+          "ansikte",
+          "less",
           "missnöjd",
-          "missnöjt ansikte"
+          "sur"
         ],
         "tts": [
           "missnöjt ansikte"
@@ -3582,8 +3707,9 @@
       "🙄": {
         "default": [
           "ansikte",
-          "ansikte som himlar med ögonen",
-          "himlar med ögonen"
+          "himlar",
+          "ögon",
+          "osäker"
         ],
         "tts": [
           "ansikte som himlar med ögonen"
@@ -3591,8 +3717,10 @@
       },
       "😬": {
         "default": [
-          "grimaserande ansikte",
-          "grimaserar"
+          "ansikte",
+          "biter ihop",
+          "grimaserar",
+          "tänder"
         ],
         "tts": [
           "grimaserande ansikte"
@@ -3600,7 +3728,11 @@
       },
       "😮‍💨": {
         "default": [
-          "ansikte andas ut"
+          "andas ut",
+          "ansikte",
+          "ledsen",
+          "pustar",
+          "suckar"
         ],
         "tts": [
           "ansikte andas ut"
@@ -3609,9 +3741,12 @@
       "🤥": {
         "default": [
           "ansikte",
-          "ljugande ansikte",
+          "ljugande",
+          "ljuger",
           "lögn",
-          "pinocchio"
+          "näsa",
+          "pinocchio",
+          "växer"
         ],
         "tts": [
           "ljugande ansikte"
@@ -3620,7 +3755,12 @@
       "🫨": {
         "default": [
           "ansikte",
+          "chock",
+          "förvirring",
+          "galet",
           "jordbävning",
+          "överraskad",
+          "panik",
           "shock",
           "skakande",
           "vibrera"
@@ -3629,10 +3769,35 @@
           "skakande ansikte"
         ]
       },
+      "🙂‍↔": {
+        "default": [
+          "horisontellt",
+          "huvud",
+          "nej",
+          "skakar"
+        ],
+        "tts": [
+          "huvud skakar horisontellt"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "huvud",
+          "ja",
+          "nickar",
+          "skakar",
+          "vertikalt"
+        ],
+        "tts": [
+          "huvud skakar vertikalt"
+        ]
+      },
       "😌": {
         "default": [
-          "lättat ansikte",
-          "lättnad"
+          "ansikte",
+          "lättat",
+          "lättnad",
+          "lugn"
         ],
         "tts": [
           "lättat ansikte"
@@ -3640,8 +3805,11 @@
       },
       "😔": {
         "default": [
-          "funderande ansikte",
+          "ansikte",
+          "funderande",
           "funderar",
+          "ledsen",
+          "sörjer",
           "tänker"
         ],
         "tts": [
@@ -3650,8 +3818,9 @@
       },
       "😪": {
         "default": [
+          "ansikte",
+          "gråtande",
           "sömnig",
-          "sömnigt ansikte",
           "trött"
         ],
         "tts": [
@@ -3661,7 +3830,6 @@
       "🤤": {
         "default": [
           "ansikte",
-          "dreglande ansikte",
           "dreglar"
         ],
         "tts": [
@@ -3670,19 +3838,41 @@
       },
       "😴": {
         "default": [
-          "sovande ansikte",
-          "sover"
+          "ansikte",
+          "gäsp",
+          "sängdags",
+          "snarkar",
+          "sömnig",
+          "sover",
+          "trött",
+          "zzz"
         ],
         "tts": [
           "sovande ansikte"
         ]
       },
+      "🫩": {
+        "default": [
+          "ansikte",
+          "rödögd",
+          "sent",
+          "sömnig",
+          "trött",
+          "utmattad"
+        ],
+        "tts": [
+          "ansikte med påsar under ögonen"
+        ]
+      },
       "😷": {
         "default": [
-          "ansikte med munskydd",
+          "ansikte",
+          "baciller",
           "läkare",
           "munskydd",
-          "sjuk"
+          "sjuk",
+          "smitta",
+          "virus"
         ],
         "tts": [
           "ansikte med munskydd"
@@ -3691,7 +3881,7 @@
       "🤒": {
         "default": [
           "ansikte",
-          "ansikte med termometer",
+          "feber",
           "sjuk",
           "termometer"
         ],
@@ -3701,10 +3891,10 @@
       },
       "🤕": {
         "default": [
+          "aj",
           "ansikte",
-          "ansikte med bandage",
-          "ansikte med bandage på huvudet",
           "bandage",
+          "huvud",
           "skadad"
         ],
         "tts": [
@@ -3714,10 +3904,10 @@
       "🤢": {
         "default": [
           "äcklad",
-          "äcklat ansikte",
           "ansikte",
           "kasta upp",
           "kräks",
+          "mår illa",
           "spy"
         ],
         "tts": [
@@ -3726,12 +3916,10 @@
       },
       "🤮": {
         "default": [
-          "ansikte som kräks",
+          "ansikte",
           "illamående",
-          "kräkande ansikte",
-          "kräker",
-          "kräkning",
-          "kräks"
+          "kräks",
+          "spyr"
         ],
         "tts": [
           "kräkande ansikte"
@@ -3740,8 +3928,9 @@
       "🤧": {
         "default": [
           "ansikte",
+          "atjoo",
           "nysa",
-          "nysande ansikte",
+          "nyser",
           "prosit"
         ],
         "tts": [
@@ -3750,12 +3939,14 @@
       },
       "🥵": {
         "default": [
+          "ansikte",
           "febrig",
           "hett",
-          "hett ansikte",
-          "rött ansikte",
+          "överhettad",
+          "rött",
           "svett",
-          "värmeslag"
+          "värmeslag",
+          "varmt"
         ],
         "tts": [
           "hett ansikte"
@@ -3763,12 +3954,14 @@
       },
       "🥶": {
         "default": [
-          "blått ansikte",
+          "ansikte",
+          "blått",
           "frostbiten",
           "frusen",
           "istappar",
           "kall",
-          "kallt ansikte"
+          "minus",
+          "snö"
         ],
         "tts": [
           "kallt ansikte"
@@ -3776,12 +3969,14 @@
       },
       "🥴": {
         "default": [
-          "ostadig blick",
+          "ansikte",
+          "full",
+          "mun",
+          "ostadig",
           "på örat",
           "påverkad",
-          "vågig mun",
-          "yr",
-          "yrt ansikte"
+          "vågig",
+          "yr"
         ],
         "tts": [
           "yrt ansikte"
@@ -3789,8 +3984,12 @@
       },
       "😵": {
         "default": [
+          "ansikte",
+          "död",
+          "knockad",
+          "kryss",
+          "ögon",
           "omtumlad",
-          "omtumlat ansikte",
           "yr"
         ],
         "tts": [
@@ -3799,9 +3998,13 @@
       },
       "😵‍💫": {
         "default": [
-          "ansikte med spiralögon",
+          "ansikte",
           "fara",
+          "förvirrad",
+          "fundersam",
           "hypnotiserad",
+          "snurrig",
+          "spiralögon",
           "yrsel"
         ],
         "tts": [
@@ -3811,7 +4014,8 @@
       "🤯": {
         "default": [
           "chockad",
-          "exploderande huvud"
+          "exploderande",
+          "huvud"
         ],
         "tts": [
           "exploderande huvud"
@@ -3820,8 +4024,8 @@
       "🤠": {
         "default": [
           "ansikte",
-          "ansikte med cowboyhatt",
           "cowboy",
+          "cowboyhatt",
           "cowgirl",
           "hatt"
         ],
@@ -3831,11 +4035,12 @@
       },
       "🥳": {
         "default": [
+          "ansikte",
           "fest",
-          "festande ansikte",
+          "födelsedag",
           "hatt",
           "kalas",
-          "party",
+          "partyhatt",
           "tuta"
         ],
         "tts": [
@@ -3859,9 +4064,11 @@
       },
       "😎": {
         "default": [
+          "ansikte",
+          "chillar",
           "cool",
+          "koppla av",
           "leende",
-          "leende ansikte med solglasögon",
           "solglasögon"
         ],
         "tts": [
@@ -3871,9 +4078,12 @@
       "🤓": {
         "default": [
           "ansikte",
+          "expert",
+          "glad",
           "glasögon",
+          "intelligent",
           "nörd",
-          "nördansikte"
+          "smart"
         ],
         "tts": [
           "nördansikte"
@@ -3881,8 +4091,9 @@
       },
       "🧐": {
         "default": [
-          "ansikte med monokel",
+          "ansikte",
           "gammaldags",
+          "monokel",
           "torr"
         ],
         "tts": [
@@ -3891,8 +4102,12 @@
       },
       "😕": {
         "default": [
+          "ansikte",
           "förbryllad",
-          "förbryllat ansikte"
+          "inte",
+          "ledsen",
+          "vad",
+          "vet"
         ],
         "tts": [
           "förbryllat ansikte"
@@ -3900,10 +4115,14 @@
       },
       "🫤": {
         "default": [
-          "ansikte med diagonal mun",
+          "ansikte",
           "besviken",
+          "diagonal",
+          "förvirrad",
+          "mun",
           "osäker",
-          "skeptisk"
+          "skeptisk",
+          "tveksam"
         ],
         "tts": [
           "ansikte med diagonal mun"
@@ -3911,9 +4130,12 @@
       },
       "😟": {
         "default": [
+          "ansikte",
           "bekymrad",
-          "bekymrat ansikte",
-          "orolig"
+          "ledsen",
+          "nervös",
+          "orolig",
+          "rädd"
         ],
         "tts": [
           "bekymrat ansikte"
@@ -3922,7 +4144,8 @@
       "🙁": {
         "default": [
           "ansikte",
-          "ansikte med lite sur mun",
+          "besviken",
+          "mun",
           "sur"
         ],
         "tts": [
@@ -3932,7 +4155,8 @@
       "☹": {
         "default": [
           "ansikte",
-          "ansikte med sur mun",
+          "besviken",
+          "mun",
           "sur"
         ],
         "tts": [
@@ -3941,9 +4165,14 @@
       },
       "😮": {
         "default": [
+          "ansikte",
+          "chockad",
           "förvånad",
-          "förvånat ansikte",
-          "öppen mun"
+          "gapar",
+          "mun",
+          "omg",
+          "öppen",
+          "otroligt"
         ],
         "tts": [
           "förvånat ansikte"
@@ -3951,11 +4180,11 @@
       },
       "😯": {
         "default": [
+          "ansikte",
+          "gapar",
           "hyssjad",
-          "hyssjat ansikte",
           "överraskad",
-          "stum",
-          "tyst ansikte"
+          "stum"
         ],
         "tts": [
           "hyssjat ansikte"
@@ -3963,9 +4192,12 @@
       },
       "😲": {
         "default": [
+          "ansikte",
           "chockad",
-          "chockat ansikte",
-          "förvånad"
+          "förvånad",
+          "inte",
+          "otroligt",
+          "sant"
         ],
         "tts": [
           "chockat ansikte"
@@ -3973,9 +4205,12 @@
       },
       "😳": {
         "default": [
+          "ansikte",
           "generad",
           "omtumlad",
-          "rodnande ansikte"
+          "pinsamt",
+          "rodnar",
+          "skäms"
         ],
         "tts": [
           "rodnande ansikte"
@@ -3983,10 +4218,14 @@
       },
       "🥺": {
         "default": [
-          "bönfallande ansikte",
+          "ansikte",
+          "bönfallande",
           "hundögon",
+          "ledsen",
           "nåd",
-          "tigga"
+          "snälla",
+          "tigga",
+          "varför"
         ],
         "tts": [
           "bönfallande ansikte"
@@ -3994,12 +4233,15 @@
       },
       "🥹": {
         "default": [
-          "ansikte som håller tillbaka tårarna",
-          "arg",
+          "ansikte",
+          "glädjetårar",
           "gråter",
+          "känslosam",
           "ledsen",
+          "ögon",
           "stolt",
-          "tårar i ögonen"
+          "tårar",
+          "tårfyllda"
         ],
         "tts": [
           "ansikte som håller tillbaka tårarna"
@@ -4007,9 +4249,14 @@
       },
       "😦": {
         "default": [
+          "ansikte",
           "bister",
-          "ogillande ansikte med öppen mun",
-          "öppen mun"
+          "mun",
+          "oförstående",
+          "ogillande",
+          "öppen",
+          "rädd",
+          "vad"
         ],
         "tts": [
           "ogillande ansikte med öppen mun"
@@ -4017,9 +4264,13 @@
       },
       "😧": {
         "default": [
+          "åh nej",
           "ångest",
+          "ansikte",
           "lider",
-          "plågat ansikte"
+          "olycklig",
+          "plågat",
+          "rädd"
         ],
         "tts": [
           "plågat ansikte"
@@ -4027,9 +4278,10 @@
       },
       "😨": {
         "default": [
+          "ansikte",
           "rädd",
-          "skräckinjagat ansikte",
-          "skrämt ansikte"
+          "skräckinjagat",
+          "skrämd"
         ],
         "tts": [
           "skrämt ansikte"
@@ -4037,9 +4289,13 @@
       },
       "😰": {
         "default": [
-          "blått ansikte",
+          "ansikte",
+          "blått",
           "kallsvettig",
-          "oroligt svettigt ansikte"
+          "orolig",
+          "panik",
+          "rädd",
+          "svettig"
         ],
         "tts": [
           "oroligt svettigt ansikte"
@@ -4047,10 +4303,11 @@
       },
       "😥": {
         "default": [
+          "ansikte",
           "besviken",
-          "besviken men lättad",
-          "besviket men lättat ansikte",
-          "lättad"
+          "lättad",
+          "nära",
+          "ögat"
         ],
         "tts": [
           "besviket men lättat ansikte"
@@ -4058,9 +4315,12 @@
       },
       "😢": {
         "default": [
-          "gråtande ansikte",
+          "ansikte",
           "gråter",
-          "ledsen"
+          "ledsen",
+          "saknar",
+          "sorgligt",
+          "tårar"
         ],
         "tts": [
           "gråtande ansikte"
@@ -4068,9 +4328,14 @@
       },
       "😭": {
         "default": [
-          "gråt",
+          "ansikte",
+          "bölar",
           "gråter",
-          "storgråtande ansikte"
+          "ledsen",
+          "olycklig",
+          "rinner",
+          "storgråtande",
+          "tårar"
         ],
         "tts": [
           "storgråtande ansikte"
@@ -4078,9 +4343,12 @@
       },
       "😱": {
         "default": [
-          "ansikte som skriker av fasa",
+          "ansikte",
+          "fasa",
+          "katastrof",
           "livrädd",
           "rädd",
+          "skriet",
           "skriker"
         ],
         "tts": [
@@ -4089,8 +4357,11 @@
       },
       "😖": {
         "default": [
+          "ansikte",
+          "besviken",
           "förvirrad",
-          "förvirrat ansikte"
+          "frustrerad",
+          "irriterad"
         ],
         "tts": [
           "förvirrat ansikte"
@@ -4098,10 +4369,13 @@
       },
       "😣": {
         "default": [
+          "ansikte",
           "besviken",
+          "huvudvärk",
           "misslyckades",
           "står ut",
-          "uthålligt ansikte"
+          "uthålligt",
+          "uthärdar"
         ],
         "tts": [
           "uthålligt ansikte"
@@ -4109,9 +4383,10 @@
       },
       "😞": {
         "default": [
-          "besvikelse",
+          "ansikte",
           "besviken",
-          "besviket ansikte"
+          "misslyckades",
+          "nedslagen"
         ],
         "tts": [
           "besviket ansikte"
@@ -4119,7 +4394,11 @@
       },
       "😓": {
         "default": [
-          "nedslaget kallsvettigt ansikte",
+          "ansikte",
+          "kallsvettig",
+          "nedslagen",
+          "nervös",
+          "rädd",
           "svettig"
         ],
         "tts": [
@@ -4128,8 +4407,13 @@
       },
       "😩": {
         "default": [
-          "uttröttad",
-          "uttröttat ansikte"
+          "ansikte",
+          "besviken",
+          "ledsen",
+          "olycklig",
+          "slut",
+          "uppgiven",
+          "uttröttad"
         ],
         "tts": [
           "uttröttat ansikte"
@@ -4137,8 +4421,12 @@
       },
       "😫": {
         "default": [
-          "trött",
-          "trött ansikte"
+          "ansikte",
+          "inte",
+          "ledsen",
+          "less",
+          "orkar",
+          "trött"
         ],
         "tts": [
           "trött ansikte"
@@ -4146,8 +4434,11 @@
       },
       "🥱": {
         "default": [
+          "ansikte",
           "gäspa",
-          "gäspande ansikte",
+          "godnatt",
+          "sängdags",
+          "sömnig",
           "trött",
           "uttråkad"
         ],
@@ -4157,9 +4448,14 @@
       },
       "😤": {
         "default": [
-          "ansikte med ånga ur näsan",
+          "ånga",
+          "ansikte",
+          "arg",
+          "näsan",
+          "rasande",
           "seger",
-          "triumf"
+          "triumf",
+          "vansinnig"
         ],
         "tts": [
           "ansikte med ånga ur näsan"
@@ -4167,21 +4463,22 @@
       },
       "😡": {
         "default": [
+          "ansikte",
           "arg",
-          "plutande",
-          "plutande ansikte",
           "rasande",
-          "röd i ansiktet",
+          "röd",
           "sur"
         ],
         "tts": [
-          "plutande ansikte"
+          "rasande ansikte"
         ]
       },
       "😠": {
         "default": [
+          "ansikte",
           "arg",
-          "argt ansikte"
+          "ilsken",
+          "upprörd"
         ],
         "tts": [
           "argt ansikte"
@@ -4189,8 +4486,13 @@
       },
       "🤬": {
         "default": [
-          "ansikte med symboler på munnen",
-          "svär"
+          "ansikte",
+          "arg",
+          "förbannad",
+          "mun",
+          "svär",
+          "svordomar",
+          "symboler"
         ],
         "tts": [
           "ansikte med symboler på munnen"
@@ -4198,9 +4500,12 @@
       },
       "😈": {
         "default": [
+          "ansikte",
+          "djävul",
+          "elak",
           "horn",
           "leende",
-          "leende ansikte med horn"
+          "lila"
         ],
         "tts": [
           "leende ansikte med horn"
@@ -4208,8 +4513,10 @@
       },
       "👿": {
         "default": [
-          "argt ansikte med horn",
-          "djävul"
+          "ansikte",
+          "arg",
+          "djävul",
+          "horn"
         ],
         "tts": [
           "argt ansikte med horn"
@@ -4226,8 +4533,8 @@
       },
       "☠": {
         "default": [
+          "benknotor",
           "dödskalle",
-          "dödskalle med ben i kors",
           "pirater"
         ],
         "tts": [
@@ -4258,8 +4565,8 @@
       "👹": {
         "default": [
           "ansikte",
-          "japansk demon",
-          "japanskt monster",
+          "demon",
+          "japansk",
           "monster",
           "saga"
         ],
@@ -4270,7 +4577,7 @@
       "👺": {
         "default": [
           "ansikte",
-          "japanskt troll",
+          "japansk",
           "saga",
           "troll"
         ],
@@ -4316,8 +4623,7 @@
       "🤖": {
         "default": [
           "ansikte",
-          "robot",
-          "robotansikte"
+          "robot"
         ],
         "tts": [
           "robotansikte"
@@ -4325,10 +4631,10 @@
       },
       "😺": {
         "default": [
-          "flinande kattansikte",
-          "kattansikte",
-          "leende",
-          "leende katt"
+          "flinande",
+          "glad",
+          "katt",
+          "leende"
         ],
         "tts": [
           "flinande kattansikte"
@@ -4337,10 +4643,12 @@
       "😸": {
         "default": [
           "flin",
-          "flinande kattansikte med leende ögon",
-          "katt",
+          "glad",
+          "grin",
+          "kattansikte",
           "leende",
-          "ögon"
+          "ögon",
+          "tänder"
         ],
         "tts": [
           "flinande kattansikte med leende ögon"
@@ -4348,10 +4656,11 @@
       },
       "😹": {
         "default": [
-          "glädje",
-          "katt med glädjetårar",
+          "glädjetårar",
+          "gråter",
           "kattansikte",
-          "kattansikte med glädjetårar",
+          "roligt",
+          "skrattar",
           "tårar"
         ],
         "tts": [
@@ -4360,10 +4669,12 @@
       },
       "😻": {
         "default": [
+          "älskar",
+          "hjärtan",
           "kärlek",
           "kattansikte",
           "leende",
-          "leende kattansikte med hjärtformade ögon"
+          "ögon"
         ],
         "tts": [
           "leende kattansikte med hjärtformade ögon"
@@ -4371,10 +4682,10 @@
       },
       "😼": {
         "default": [
-          "ironiskt leende",
+          "ironiskt",
           "kattansikte",
-          "kattansikte med snett leende",
-          "leende"
+          "leende",
+          "snett"
         ],
         "tts": [
           "kattansikte med snett leende"
@@ -4382,10 +4693,11 @@
       },
       "😽": {
         "default": [
+          "blundar",
           "kattansikte",
-          "kyssande kattansikte",
-          "kysser",
-          "stängda ögon"
+          "kyss",
+          "plutar",
+          "puss"
         ],
         "tts": [
           "kyssande kattansikte"
@@ -4393,10 +4705,12 @@
       },
       "🙀": {
         "default": [
+          "chockad",
           "förvånad",
-          "katt",
-          "uttröttad",
-          "uttröttat kattansikte"
+          "kattansikte",
+          "överraskad",
+          "rädd",
+          "uttröttad"
         ],
         "tts": [
           "uttröttat kattansikte"
@@ -4404,9 +4718,10 @@
       },
       "😿": {
         "default": [
-          "gråtande kattansikte",
           "gråter",
-          "kattansikte"
+          "kattansikte",
+          "ledsen",
+          "tår"
         ],
         "tts": [
           "gråtande kattansikte"
@@ -4415,8 +4730,9 @@
       "😾": {
         "default": [
           "katt",
+          "sur",
           "tjura",
-          "tjurande katt"
+          "tjurig"
         ],
         "tts": [
           "tjurande katt"
@@ -4425,8 +4741,10 @@
       "🙈": {
         "default": [
           "apa",
-          "apa ser inget",
-          "ser inget"
+          "håller för",
+          "inget",
+          "ögon",
+          "ser"
         ],
         "tts": [
           "apa ser inget"
@@ -4435,8 +4753,10 @@
       "🙉": {
         "default": [
           "apa",
-          "apa hör inget",
-          "hör inget"
+          "håller för",
+          "hör",
+          "inget",
+          "öron"
         ],
         "tts": [
           "apa hör inget"
@@ -4445,8 +4765,12 @@
       "🙊": {
         "default": [
           "apa",
-          "apa säger inget",
-          "säger inget"
+          "håller för",
+          "hemlighet",
+          "inget",
+          "munnen",
+          "säger",
+          "tyst"
         ],
         "tts": [
           "apa säger inget"
@@ -4455,9 +4779,8 @@
       "💌": {
         "default": [
           "brev",
-          "brev med hjärta",
-          "kärlek",
-          "kärleksbrev"
+          "hjärta",
+          "kärlek"
         ],
         "tts": [
           "kärleksbrev"
@@ -4465,8 +4788,8 @@
       },
       "💘": {
         "default": [
+          "amors",
           "hjärta",
-          "hjärta med pil",
           "kärlek",
           "pil"
         ],
@@ -4476,9 +4799,10 @@
       },
       "💝": {
         "default": [
-          "alla hjärtans dag",
           "hjärta",
-          "hjärta med rosett",
+          "kärlek",
+          "present",
+          "rosa",
           "rosett"
         ],
         "tts": [
@@ -4487,7 +4811,8 @@
       },
       "💖": {
         "default": [
-          "gnistrande hjärta",
+          "gnistrande",
+          "hjärta",
           "känslor",
           "kärlek",
           "upprymd"
@@ -4502,8 +4827,9 @@
           "känslor",
           "kärlek",
           "nervös",
+          "puls",
           "upprymd",
-          "växande hjärta"
+          "växande"
         ],
         "tts": [
           "växande hjärta"
@@ -4511,11 +4837,12 @@
       },
       "💓": {
         "default": [
-          "bultande hjärta",
-          "bultar",
+          "bankar",
+          "bultande",
           "hjärta",
           "känslor",
           "kärlek",
+          "puls",
           "slår"
         ],
         "tts": [
@@ -4524,11 +4851,11 @@
       },
       "💞": {
         "default": [
-          "hjärta",
+          "hjärtan",
           "känslor",
           "kärlek",
-          "snurrande hjärtan",
-          "snurrar"
+          "snurrar",
+          "två"
         ],
         "tts": [
           "snurrande hjärtan"
@@ -4536,9 +4863,10 @@
       },
       "💕": {
         "default": [
+          "hjärtan",
           "känslor",
           "kärlek",
-          "två hjärtan"
+          "två"
         ],
         "tts": [
           "två hjärtan"
@@ -4546,8 +4874,10 @@
       },
       "💟": {
         "default": [
+          "dekoration",
           "hjärta",
-          "hjärtdekoration"
+          "lila",
+          "vitt"
         ],
         "tts": [
           "hjärtdekoration"
@@ -4556,8 +4886,8 @@
       "❣": {
         "default": [
           "hjärta",
-          "utropstecken",
-          "utropstecken i form av ett hjärta"
+          "rött",
+          "utropstecken"
         ],
         "tts": [
           "utropstecken i form av ett hjärta"
@@ -4566,9 +4896,9 @@
       "💔": {
         "default": [
           "brustet",
-          "brustet hjärta",
+          "hjärta",
           "känslor",
-          "trasigt hjärta"
+          "trasigt"
         ],
         "tts": [
           "brustet hjärta"
@@ -4576,10 +4906,10 @@
       },
       "❤‍🔥": {
         "default": [
-          "besviken",
-          "brinnande hjärta",
-          "osäker",
-          "skeptisk"
+          "brinnande",
+          "eld",
+          "hjärta",
+          "lust"
         ],
         "tts": [
           "brinnande hjärta"
@@ -4601,8 +4931,9 @@
       "❤": {
         "default": [
           "hjärta",
+          "känslor",
           "kärlek",
-          "rött hjärta"
+          "rött"
         ],
         "tts": [
           "rött hjärta"
@@ -4611,6 +4942,8 @@
       "🩷": {
         "default": [
           "älskar",
+          "bedårande",
+          "gullig",
           "hjärta",
           "kärlek",
           "rosa",
@@ -4622,7 +4955,7 @@
       },
       "🧡": {
         "default": [
-          "hjärta i orange",
+          "hjärta",
           "orange"
         ],
         "tts": [
@@ -4631,8 +4964,7 @@
       },
       "💛": {
         "default": [
-          "gul",
-          "gult hjärta",
+          "gult",
           "hjärta"
         ],
         "tts": [
@@ -4641,8 +4973,7 @@
       },
       "💚": {
         "default": [
-          "grön",
-          "grönt hjärta",
+          "grönt",
           "hjärta"
         ],
         "tts": [
@@ -4651,8 +4982,7 @@
       },
       "💙": {
         "default": [
-          "blå",
-          "blått hjärta",
+          "blått",
           "hjärta"
         ],
         "tts": [
@@ -4664,8 +4994,9 @@
           "cyan",
           "himmelsblå",
           "hjärta",
-          "ljusblå",
-          "ljusblått hjärta"
+          "känsla",
+          "kärlek",
+          "ljusblå"
         ],
         "tts": [
           "ljusblått hjärta"
@@ -4701,8 +5032,10 @@
       },
       "🩶": {
         "default": [
-          "grått",
+          "grå",
           "hjärta",
+          "känsla",
+          "kärlek",
           "silver",
           "skiffer"
         ],
@@ -4743,7 +5076,7 @@
         "default": [
           "arg",
           "ilska",
-          "symbol för ilska"
+          "symbol"
         ],
         "tts": [
           "symbol för ilska"
@@ -4765,6 +5098,7 @@
           "omtumlad",
           "serietidning",
           "stjärna",
+          "stjärnfall",
           "yr"
         ],
         "tts": [
@@ -4773,9 +5107,9 @@
       },
       "💦": {
         "default": [
+          "droppar",
           "serietidning",
-          "stänkande svett",
-          "svett",
+          "stänkande",
           "svettig"
         ],
         "tts": [
@@ -4784,7 +5118,9 @@
       },
       "💨": {
         "default": [
+          "borta",
           "fartsymbol",
+          "pust",
           "springa",
           "springer iväg"
         ],
@@ -4813,7 +5149,6 @@
       "👁‍🗨": {
         "default": [
           "öga",
-          "öga i pratbubbla",
           "pratbubbla",
           "vittne"
         ],
@@ -4824,7 +5159,8 @@
       "🗨": {
         "default": [
           "pratbubbla",
-          "pratbubbla åt vänster"
+          "svart",
+          "vänster"
         ],
         "tts": [
           "pratbubbla åt vänster"
@@ -4833,8 +5169,9 @@
       "🗯": {
         "default": [
           "arg",
-          "arg pratbubbla åt höger",
-          "pratbubbla"
+          "höger",
+          "pratbubbla",
+          "taggig"
         ],
         "tts": [
           "arg pratbubbla åt höger"
@@ -4853,10 +5190,11 @@
       "💤": {
         "default": [
           "snarkar",
-          "snarkningar",
           "sömnig",
+          "sover",
           "trött",
-          "Zzz"
+          "uttråkad",
+          "zzz"
         ],
         "tts": [
           "snarkningar"
@@ -4864,9 +5202,13 @@
       },
       "👋": {
         "default": [
+          "är du där?",
+          "hallå",
           "hand",
+          "hej",
           "vinka",
-          "vinkande hand"
+          "vinkande hand",
+          "vinkning"
         ],
         "tts": [
           "vinkande hand"
@@ -4917,9 +5259,13 @@
       },
       "🫱": {
         "default": [
+          "hälsa",
           "hand",
           "hand som pekar till höger",
+          "handslag",
+          "hej",
           "höger",
+          "skaka",
           "till höger"
         ],
         "tts": [
@@ -4930,6 +5276,7 @@
         "default": [
           "hand",
           "hand som pekar till vänster",
+          "skaka",
           "till vänster",
           "vänster"
         ],
@@ -4942,7 +5289,10 @@
           "avvisa",
           "handflatan nedåt",
           "neka",
-          "schas"
+          "plocka upp",
+          "schas",
+          "släppa",
+          "släppte"
         ],
         "tts": [
           "handflatan nedåt"
@@ -4954,7 +5304,8 @@
           "erbjuda",
           "fånga",
           "handflatan uppåt",
-          "kalla på"
+          "kalla på",
+          "sträcka ut en hand"
         ],
         "tts": [
           "handflatan uppåt"
@@ -4962,8 +5313,11 @@
       },
       "🫷": {
         "default": [
+          "hand",
           "hand som knuffar åt vänster",
           "high five",
+          "neka",
+          "stanna",
           "stopp",
           "till vänster",
           "trycka",
@@ -4975,8 +5329,13 @@
       },
       "🫸": {
         "default": [
+          "blockera",
+          "hand",
           "hand som knuffar åt höger",
           "high five",
+          "neka",
+          "pausa",
+          "stanna",
           "stopp",
           "till höger",
           "trycka",
@@ -4989,6 +5348,9 @@
       "👌": {
         "default": [
           "hand",
+          "Instämmer",
+          "Javisst",
+          "Ok",
           "OK",
           "OK-tecken",
           "tecken"
@@ -5064,10 +5426,13 @@
       },
       "🤘": {
         "default": [
+          "djävulstecken",
           "djävulstecknet",
           "hand",
           "hårdrock",
-          "horn"
+          "horn",
+          "rock",
+          "rocka loss"
         ],
         "tts": [
           "djävulstecknet"
@@ -5106,6 +5471,7 @@
       "👆": {
         "default": [
           "finger",
+          "hand som pekar pekfingret uppåt",
           "peka uppåt",
           "pekfinger",
           "pekfinger upp"
@@ -5160,7 +5526,10 @@
       },
       "👍": {
         "default": [
+          "bra",
           "gillar",
+          "ok",
+          "okej",
           "tumme",
           "tummen upp",
           "upp"
@@ -5241,6 +5610,7 @@
       },
       "🫶": {
         "default": [
+          "älskar",
           "handhjärta",
           "kärlek"
         ],
@@ -5250,7 +5620,9 @@
       },
       "👐": {
         "default": [
+          "hand",
           "händer",
+          "jazzhänder",
           "öppna"
         ],
         "tts": [
@@ -5312,6 +5684,7 @@
       },
       "🤳": {
         "default": [
+          "arm som tar en selfie med telefon",
           "kamera",
           "selfie",
           "telefon"
@@ -5490,7 +5863,8 @@
           "nervös",
           "obekväm",
           "orolig",
-          "rädd"
+          "rädd",
+          "tveksam"
         ],
         "tts": [
           "biter i läppen"
@@ -5511,6 +5885,7 @@
         "default": [
           "barn",
           "könsneutral",
+          "leende barn",
           "ung"
         ],
         "tts": [
@@ -5552,6 +5927,7 @@
       "👱": {
         "default": [
           "blond",
+          "blond man",
           "blond person",
           "människor"
         ],
@@ -5662,8 +6038,10 @@
       },
       "🙍": {
         "default": [
+          "missnöjd",
           "person",
           "sur",
+          "sur kvinna",
           "sur uppsyn"
         ],
         "tts": [
@@ -5674,6 +6052,7 @@
         "default": [
           "gest",
           "man",
+          "missnöjd",
           "sur"
         ],
         "tts": [
@@ -5692,9 +6071,12 @@
       },
       "🙎": {
         "default": [
+          "kvinna som putar med läpparna",
           "person som plutar",
           "plutande person",
-          "plutar"
+          "plutar",
+          "puta med munnen",
+          "putar med läpparna"
         ],
         "tts": [
           "plutande person"
@@ -5725,6 +6107,9 @@
           "förbjudet",
           "gest",
           "gest för NEJ",
+          "icke",
+          "kvinna som gestikulerar NEJ",
+          "nej",
           "person gestikulerar NEJ"
         ],
         "tts": [
@@ -5758,6 +6143,7 @@
           "gest",
           "gest för OK",
           "hand",
+          "kvinna som gestikulerar OK",
           "okej",
           "person gestikulerar OK"
         ],
@@ -5791,10 +6177,14 @@
       },
       "💁": {
         "default": [
+          "hand",
           "information",
+          "kvinna som vinkar med handen",
           "människor",
           "reception",
-          "receptionist"
+          "receptionist",
+          "sarkastisk",
+          "skvaller"
         ],
         "tts": [
           "receptionist"
@@ -5805,7 +6195,8 @@
           "hjälpa",
           "hjälpande man",
           "information",
-          "man"
+          "man",
+          "man som vinkar"
         ],
         "tts": [
           "hjälpande man"
@@ -5824,6 +6215,9 @@
       },
       "🙋": {
         "default": [
+          "fråga",
+          "jag vet",
+          "kvinna som räcker upp handen",
           "person",
           "person som räcker upp handen",
           "räcker upp handen"
@@ -5886,9 +6280,13 @@
       "🙇": {
         "default": [
           "beklagar",
+          "buga",
           "bugande person",
           "bugar",
-          "gest"
+          "gest",
+          "meditation",
+          "meditera",
+          "ursäkt"
         ],
         "tts": [
           "bugande person"
@@ -5974,7 +6372,8 @@
           "man",
           "man som rycker på axlarna",
           "okunskap",
-          "tvivel"
+          "tvivel",
+          "vet inte"
         ],
         "tts": [
           "man som rycker på axlarna"
@@ -6539,7 +6938,8 @@
       "👮": {
         "default": [
           "konstapel",
-          "polis"
+          "polis",
+          "snut"
         ],
         "tts": [
           "polis"
@@ -6563,7 +6963,8 @@
           "kvinna",
           "kvinnlig polis",
           "lagen",
-          "polis"
+          "polis",
+          "snut"
         ],
         "tts": [
           "kvinnlig polis"
@@ -6593,6 +6994,7 @@
       },
       "🕵‍♀": {
         "default": [
+          "detektiv",
           "kommissarie",
           "kvinna",
           "kvinnlig detektiv",
@@ -6767,6 +7169,7 @@
       "🤵": {
         "default": [
           "brudgum",
+          "man i smoking",
           "person",
           "person i smoking",
           "smoking"
@@ -6799,6 +7202,7 @@
         "default": [
           "bröllop",
           "brud",
+          "brud med slöja",
           "brudslöja",
           "person",
           "person i brudslöja"
@@ -6840,6 +7244,7 @@
         "default": [
           "gravid",
           "gravid man",
+          "proppmätt",
           "stor mage",
           "uppsvälld"
         ],
@@ -6884,6 +7289,7 @@
       "👨‍🍼": {
         "default": [
           "amma",
+          "barnskötare",
           "man",
           "man matar spädbarn",
           "mata",
@@ -6896,6 +7302,7 @@
       "🧑‍🍼": {
         "default": [
           "amma",
+          "barnskötare",
           "mata",
           "person",
           "person ammar spädbarn",
@@ -6940,8 +7347,10 @@
       },
       "🧑‍🎄": {
         "default": [
+          "jul",
+          "jultomte",
           "könsneutral tomte",
-          "tomte, jul"
+          "tomte"
         ],
         "tts": [
           "könsneutral tomte"
@@ -7060,7 +7469,8 @@
           "fé",
           "Oberon",
           "Puck",
-          "Titania"
+          "Titania",
+          "vingar"
         ],
         "tts": [
           "fé"
@@ -7088,7 +7498,9 @@
       },
       "🧛": {
         "default": [
+          "blod",
           "Drakula",
+          "huggtänder",
           "vampyr",
           "vandöd"
         ],
@@ -7147,7 +7559,8 @@
       "🧝": {
         "default": [
           "alv",
-          "magisk"
+          "magisk",
+          "mystisk"
         ],
         "tts": [
           "alv"
@@ -7174,6 +7587,7 @@
       "🧞": {
         "default": [
           "ande",
+          "anden i flaskan",
           "djinn"
         ],
         "tts": [
@@ -7248,6 +7662,7 @@
         "default": [
           "ansiktsmassage",
           "behandling",
+          "kvinna som blir masserad",
           "massage",
           "person som blir masserad"
         ],
@@ -7284,7 +7699,9 @@
       "💇": {
         "default": [
           "frisör",
+          "frisyr",
           "hårklippning",
+          "kvinna som får håret klippt",
           "person som får håret klippt",
           "skönhet"
         ],
@@ -7317,7 +7734,10 @@
       "🚶": {
         "default": [
           "fotgängare",
-          "promenerar"
+          "lunka",
+          "man som går",
+          "promenerar",
+          "vandra"
         ],
         "tts": [
           "fotgängare"
@@ -7377,8 +7797,8 @@
       "🧎": {
         "default": [
           "knäsittande",
-          "knästående",
-          "person"
+          "knästående person",
+          "på knäna"
         ],
         "tts": [
           "knäsittande person"
@@ -7419,6 +7839,7 @@
           "blind",
           "blindkäpp",
           "man",
+          "man med blindkäpp",
           "man med vit käpp",
           "vit käpp"
         ],
@@ -7431,6 +7852,7 @@
           "blind",
           "blindkäpp",
           "kvinna",
+          "kvinna med blindkäpp",
           "kvinna med vit käpp",
           "vit käpp"
         ],
@@ -7505,6 +7927,8 @@
         "default": [
           "löpare",
           "löpning",
+          "maraton",
+          "person som löper",
           "person som springer"
         ],
         "tts": [
@@ -7570,6 +7994,7 @@
         "default": [
           "kaninöron",
           "kvinna",
+          "kvinnor med kaninöron",
           "människor",
           "personer med kaninöron",
           "tjej"
@@ -7608,7 +8033,9 @@
         "default": [
           "ångbastu",
           "bastu",
-          "person i ångbastu"
+          "person i ångbastu",
+          "slappna av",
+          "spa"
         ],
         "tts": [
           "person i ångbastu"
@@ -7636,6 +8063,8 @@
       },
       "🧗": {
         "default": [
+          "bergsklättring",
+          "klättra upp",
           "klättrare",
           "person klättrar",
           "person som klättrar"
@@ -7682,7 +8111,8 @@
           "häst",
           "hästkapplöpning",
           "jockey",
-          "kapplöpning"
+          "kapplöpning",
+          "person som galopperar med en häst"
         ],
         "tts": [
           "hästkapplöpning"
@@ -7710,10 +8140,13 @@
       },
       "🏌": {
         "default": [
+          "birdie",
           "golf",
           "golfspelare",
           "person som spelar golf",
-          "sport"
+          "putt",
+          "sport",
+          "tee"
         ],
         "tts": [
           "person som spelar golf"
@@ -7745,7 +8178,9 @@
       },
       "🏄": {
         "default": [
+          "hav",
           "person som surfar",
+          "strand",
           "surfare",
           "surfing",
           "surfning"
@@ -7817,6 +8252,7 @@
       "🏊": {
         "default": [
           "person som simmar",
+          "simma",
           "simmare",
           "simning"
         ],
@@ -7848,7 +8284,10 @@
       },
       "⛹": {
         "default": [
+          "basket",
+          "basketspelare",
           "boll",
+          "dribbla",
           "person med boll",
           "sport"
         ],
@@ -7880,6 +8319,7 @@
       },
       "🏋": {
         "default": [
+          "kroppsbyggare",
           "person som lyfter tyngder",
           "sport",
           "tyngdlyftare"
@@ -7915,6 +8355,7 @@
       "🚴": {
         "default": [
           "cykel",
+          "cykla",
           "cyklist",
           "person som cyklar"
         ],
@@ -7951,6 +8392,7 @@
       "🚵": {
         "default": [
           "cykel",
+          "cykla",
           "cyklist",
           "mountainbikeåkare",
           "person som cyklar på en mountainbike"
@@ -7977,6 +8419,7 @@
           "cyklist",
           "kvinna",
           "kvinna åker mountainbike",
+          "kvinna som cyklar",
           "kvinna som cyklar på en mountainbike"
         ],
         "tts": [
@@ -7997,8 +8440,10 @@
       "🤸‍♂": {
         "default": [
           "gymnastik",
+          "kullerbytta",
           "man",
-          "man som hjular"
+          "man som hjular",
+          "volt"
         ],
         "tts": [
           "man som hjular"
@@ -8007,8 +8452,10 @@
       "🤸‍♀": {
         "default": [
           "gymnastik",
+          "kullerbytta",
           "kvinna",
-          "kvinna som hjular"
+          "kvinna som hjular",
+          "volt"
         ],
         "tts": [
           "kvinna som hjular"
@@ -8031,6 +8478,7 @@
           "brottande män",
           "brottning",
           "män",
+          "män som brottas",
           "manlig",
           "person",
           "sport"
@@ -8109,7 +8557,9 @@
       },
       "🤾‍♀": {
         "default": [
+          "boll",
           "handboll",
+          "kasta",
           "kvinna",
           "kvinna som spelar handboll",
           "sport"
@@ -8122,6 +8572,7 @@
         "default": [
           "balans",
           "färdighet",
+          "jonglera",
           "jonglering",
           "multitasking",
           "person som jonglerar"
@@ -8132,6 +8583,7 @@
       },
       "🤹‍♂": {
         "default": [
+          "jonglera",
           "jonglering",
           "man",
           "man som jonglerar",
@@ -8199,9 +8651,15 @@
       "🛌": {
         "default": [
           "hotell",
+          "hotellnatt",
+          "ligger i sängen",
           "person i en säng",
           "säng",
-          "sömn"
+          "sömn",
+          "sömnig",
+          "sova",
+          "sova middag",
+          "trött"
         ],
         "tts": [
           "person i en säng"
@@ -8275,18 +8733,6 @@
           "par med hjärta"
         ]
       },
-      "👪": {
-        "default": [
-          "barn",
-          "familj",
-          "mamma",
-          "människor",
-          "pappa"
-        ],
-        "tts": [
-          "familj"
-        ]
-      },
       "🗣": {
         "default": [
           "silhuett",
@@ -8329,6 +8775,63 @@
           "personer kramas"
         ]
       },
+      "👪": {
+        "default": [
+          "barn",
+          "familj",
+          "mamma",
+          "mamma och pappa och en son",
+          "människor",
+          "pappa"
+        ],
+        "tts": [
+          "familj"
+        ]
+      },
+      "🧑‍🧑‍🧒": {
+        "default": [
+          "barn",
+          "familj",
+          "familj, vuxen, vuxen, barn",
+          "vuxen"
+        ],
+        "tts": [
+          "familj, vuxen, vuxen, barn"
+        ]
+      },
+      "🧑‍🧑‍🧒‍🧒": {
+        "default": [
+          "barn",
+          "familj",
+          "familj, vuxen, vuxen, barn, barn",
+          "vuxen"
+        ],
+        "tts": [
+          "familj, vuxen, vuxen, barn, barn"
+        ]
+      },
+      "🧑‍🧒": {
+        "default": [
+          "barn",
+          "familj",
+          "familj, vuxen, barn",
+          "vuxen"
+        ],
+        "tts": [
+          "familj, vuxen, barn"
+        ]
+      },
+      "🧑‍🧒‍🧒": {
+        "default": [
+          "barn",
+          "familj",
+          "familj, vuxen, barn, barn",
+          "vuxen"
+        ],
+        "tts": [
+          "familj, vuxen, barn, barn"
+        ]
+      },
       "👣": {
         "default": [
           "avtryck",
@@ -8337,6 +8840,17 @@
         ],
         "tts": [
           "fotavtryck"
+        ]
+      },
+      "🫆": {
+        "default": [
+          "fingeravtryck",
+          "identitet",
+          "kriminalteknik",
+          "säkerhet"
+        ],
+        "tts": [
+          "fingeravtryck"
         ]
       },
       "🦰": {
@@ -8525,8 +9039,12 @@
       },
       "🐈‍⬛": {
         "default": [
+          "djur",
+          "halloween",
           "katt",
+          "mjau",
           "otur",
+          "skrock",
           "svart"
         ],
         "tts": [
@@ -8583,9 +9101,12 @@
       },
       "🫎": {
         "default": [
+          "alces",
           "älg",
+          "älghorn",
           "däggdjur",
           "djur",
+          "hjortdjur",
           "horn"
         ],
         "tts": [
@@ -8598,7 +9119,8 @@
           "däggdjur",
           "djur",
           "envis",
-          "mula"
+          "mula",
+          "mulåsna"
         ],
         "tts": [
           "åsna"
@@ -8608,6 +9130,7 @@
         "default": [
           "djur",
           "galopp",
+          "galopperande häst",
           "häst"
         ],
         "tts": [
@@ -8963,6 +9486,7 @@
         "default": [
           "djur",
           "koala",
+          "koala-ansikte",
           "koalabjörn"
         ],
         "tts": [
@@ -9081,7 +9605,8 @@
       "🐤": {
         "default": [
           "djur",
-          "kyckling"
+          "kyckling",
+          "kycklingansikte"
         ],
         "tts": [
           "kyckling"
@@ -9100,7 +9625,8 @@
       "🐦": {
         "default": [
           "djur",
-          "fågel"
+          "fågel",
+          "fågelansikte"
         ],
         "tts": [
           "fågel"
@@ -9109,7 +9635,8 @@
       "🐧": {
         "default": [
           "fågel",
-          "pingvin"
+          "pingvin",
+          "pingvinansikte"
         ],
         "tts": [
           "pingvin"
@@ -9119,7 +9646,8 @@
         "default": [
           "duva",
           "fågel",
-          "fred"
+          "fred",
+          "fredsduva"
         ],
         "tts": [
           "duva"
@@ -9223,25 +9751,61 @@
         "default": [
           "änglalik",
           "fågel",
+          "flyga",
           "flyger",
+          "himmelsk",
           "mytologi",
+          "stiga",
           "vinge"
         ],
         "tts": [
           "vinge"
         ]
       },
+      "🐦‍⬛": {
+        "default": [
+          "djur",
+          "fågel",
+          "koltrast",
+          "korp",
+          "kråka",
+          "kraxa",
+          "näbb",
+          "råka",
+          "svart"
+        ],
+        "tts": [
+          "koltrast"
+        ]
+      },
       "🪿": {
         "default": [
+          "and",
+          "anka",
           "dum",
           "fä",
           "fågel",
+          "fånig",
+          "flock",
           "gås",
           "kackel",
           "rolig"
         ],
         "tts": [
           "gås"
+        ]
+      },
+      "🐦‍🔥": {
+        "default": [
+          "eldfågel",
+          "fantasy",
+          "fenix",
+          "förnyelse",
+          "pånyttfödelse",
+          "reinkarnation"
+        ],
+        "tts": [
+          "fenix"
         ]
       },
       "🐸": {
@@ -9428,6 +9992,7 @@
       },
       "🪸": {
         "default": [
+          "klimatförändring",
           "korall",
           "ocean",
           "rev"
@@ -9443,10 +10008,68 @@
           "hav",
           "manet",
           "nässeldjur",
-          "svida"
+          "ocean",
+          "svida",
+          "svider",
+          "tentakler"
         ],
         "tts": [
           "manet"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "krabba",
+          "kräfta",
+          "skaldjur",
+          "stjärntecken"
+        ],
+        "tts": [
+          "krabba"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "fisksoppa",
+          "hummer",
+          "klor",
+          "skaldjur"
+        ],
+        "tts": [
+          "hummer"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "liten",
+          "mat",
+          "räka",
+          "skaldjur"
+        ],
+        "tts": [
+          "räka"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "bläck",
+          "bläckfisk",
+          "mat",
+          "mindre bläckfisk",
+          "skaldjur"
+        ],
+        "tts": [
+          "mindre bläckfisk"
+        ]
+      },
+      "🦪": {
+        "default": [
+          "dyka",
+          "ostron",
+          "pärlor"
+        ],
+        "tts": [
+          "ostron"
         ]
       },
       "🐌": {
@@ -9609,6 +10232,7 @@
           "amöba",
           "bakterie",
           "mikrob",
+          "mikrober",
           "virus"
         ],
         "tts": [
@@ -9690,7 +10314,8 @@
       "🌺": {
         "default": [
           "blomma",
-          "hibiskus"
+          "hibiskus",
+          "hibiskusblomma"
         ],
         "tts": [
           "hibiskus"
@@ -9730,8 +10355,12 @@
           "bluebonnet",
           "hyacint",
           "lavendel",
+          "lila",
           "luktärter",
-          "lupin"
+          "lupin",
+          "purpur",
+          "violblå",
+          "violett"
         ],
         "tts": [
           "hyacint"
@@ -9740,7 +10369,8 @@
       "🌱": {
         "default": [
           "grodd",
-          "skott"
+          "skott",
+          "växtskott"
         ],
         "tts": [
           "skott"
@@ -9841,7 +10471,8 @@
         "default": [
           "höst",
           "lönnlöv",
-          "löv"
+          "löv",
+          "rödgult lönnlön"
         ],
         "tts": [
           "lönnlöv"
@@ -9853,6 +10484,7 @@
           "faller",
           "fallna löv",
           "höst",
+          "höstlöv",
           "löv"
         ],
         "tts": [
@@ -9874,6 +10506,7 @@
       },
       "🪹": {
         "default": [
+          "rede",
           "ruva",
           "tomt bo"
         ],
@@ -9884,6 +10517,8 @@
       "🪺": {
         "default": [
           "bo med ägg",
+          "fågelbo",
+          "rede med ägg",
           "ruva"
         ],
         "tts": [
@@ -9892,11 +10527,23 @@
       },
       "🍄": {
         "default": [
+          "flugsvamp",
           "svamp",
           "växt"
         ],
         "tts": [
           "svamp"
+        ]
+      },
+      "🪾": {
+        "default": [
+          "kargt",
+          "torka",
+          "träd utan löv",
+          "vinter"
+        ],
+        "tts": [
+          "träd utan löv"
         ]
       },
       "🍇": {
@@ -9921,7 +10568,8 @@
         "default": [
           "frukt",
           "melon",
-          "vattenmelon"
+          "vattenmelon",
+          "vattenmelonskiva"
         ],
         "tts": [
           "vattenmelon"
@@ -9945,6 +10593,17 @@
         ],
         "tts": [
           "citron"
+        ]
+      },
+      "🍋‍🟩": {
+        "default": [
+          "citrusfrukt",
+          "frukt",
+          "lime",
+          "tropisk"
+        ],
+        "tts": [
+          "lime"
         ]
       },
       "🍌": {
@@ -9979,7 +10638,12 @@
         "default": [
           "äpple",
           "frukt",
-          "rött"
+          "hälsa",
+          "mat",
+          "moget",
+          "nyttigt",
+          "rött",
+          "sunt"
         ],
         "tts": [
           "rött äpple"
@@ -10071,6 +10735,7 @@
       },
       "🥥": {
         "default": [
+          "halv kokosnöt",
           "kokosnöt",
           "palm",
           "piña colada"
@@ -10165,6 +10830,7 @@
           "grönkål",
           "kål",
           "sallad",
+          "salladsblad",
           "sallat"
         ],
         "tts": [
@@ -10191,6 +10857,7 @@
       },
       "🧅": {
         "default": [
+          "gul lök",
           "lök",
           "smaksättning"
         ],
@@ -10214,7 +10881,8 @@
         "default": [
           "bönor",
           "kidneybönor",
-          "mat"
+          "mat",
+          "små"
         ],
         "tts": [
           "bönor"
@@ -10231,9 +10899,12 @@
       },
       "🫚": {
         "default": [
+          "hälsa",
           "ingefära",
           "krydda",
+          "kryddväxt",
           "öl",
+          "ört",
           "rot"
         ],
         "tts": [
@@ -10245,11 +10916,42 @@
           "ärta",
           "ärtskida",
           "bönor",
+          "bönstjälk",
           "edamame",
-          "grönsaker"
+          "grönsaker",
+          "sojaböna"
         ],
         "tts": [
           "ärtskida"
+        ]
+      },
+      "🍄‍🟫": {
+        "default": [
+          "brun flugsvamp",
+          "brun svamp",
+          "brunsvamp",
+          "grönsaker",
+          "mat",
+          "natur",
+          "sopp",
+          "svamp",
+          "trädgårdschampinjon",
+          "tryffel"
+        ],
+        "tts": [
+          "brun svamp"
+        ]
+      },
+      "🫜": {
+        "default": [
+          "grönsak",
+          "rödbeta",
+          "rotfrukt",
+          "rova",
+          "trädgård"
+        ],
+        "tts": [
+          "rotfrukt"
         ]
       },
       "🍞": {
@@ -10498,7 +11200,8 @@
       "🍳": {
         "default": [
           "laga mat",
-          "matlagning"
+          "matlagning",
+          "steka ägg"
         ],
         "tts": [
           "matlagning"
@@ -10581,7 +11284,8 @@
         "default": [
           "krydda",
           "salt",
-          "saltkar"
+          "saltkar",
+          "saltströare"
         ],
         "tts": [
           "salt"
@@ -10768,61 +11472,6 @@
           "hämtmatkartong"
         ]
       },
-      "🦀": {
-        "default": [
-          "krabba",
-          "kräfta",
-          "skaldjur",
-          "stjärntecken"
-        ],
-        "tts": [
-          "krabba"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "fisksoppa",
-          "hummer",
-          "klor",
-          "skaldjur"
-        ],
-        "tts": [
-          "hummer"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "liten",
-          "mat",
-          "räka",
-          "skaldjur"
-        ],
-        "tts": [
-          "räka"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "bläck",
-          "bläckfisk",
-          "mat",
-          "mindre bläckfisk",
-          "skaldjur"
-        ],
-        "tts": [
-          "mindre bläckfisk"
-        ]
-      },
-      "🦪": {
-        "default": [
-          "dyka",
-          "ostron",
-          "pärlor"
-        ],
-        "tts": [
-          "ostron"
-        ]
-      },
       "🍦": {
         "default": [
           "efterrätt",
@@ -10876,9 +11525,13 @@
       "🎂": {
         "default": [
           "fest",
+          "Fest",
           "födelsedag",
           "födelsedagstårta",
-          "tårta"
+          "fördelsedagstårta",
+          "Grattis",
+          "tårta",
+          "Tårta med ljus på"
         ],
         "tts": [
           "födelsedagstårta"
@@ -11045,6 +11698,7 @@
         "default": [
           "dryck",
           "glas",
+          "rödvinsglas",
           "vin",
           "vinglas"
         ],
@@ -11064,7 +11718,17 @@
       },
       "🍹": {
         "default": [
+          "alkohol",
+          "bar",
+          "cocktail",
           "drink",
+          "drinkar",
+          "festa",
+          "full",
+          "mai tai",
+          "nattklubb",
+          "party",
+          "supa",
           "tropisk"
         ],
         "tts": [
@@ -11124,7 +11788,9 @@
         "default": [
           "dryck",
           "glas",
+          "hälla",
           "hälla vätska",
+          "oj då!",
           "spilla",
           "tomt"
         ],
@@ -11195,6 +11861,8 @@
           "äta",
           "bestick",
           "dukning",
+          "kniv och gaffel",
+          "tallrik",
           "tallrik, kniv och gaffel"
         ],
         "tts": [
@@ -11203,11 +11871,16 @@
       },
       "🍴": {
         "default": [
+          "äta",
           "bestick",
           "gaffel",
           "gaffel och kniv",
+          "hungrig",
           "kniv",
-          "kniv och gaffel"
+          "kniv och gaffel",
+          "mat",
+          "matdags",
+          "middag"
         ],
         "tts": [
           "kniv och gaffel"
@@ -11259,7 +11932,8 @@
           "Afrika",
           "Europa",
           "jorden",
-          "jordglob Europa–Afrika"
+          "jordglob Europa–Afrika",
+          "jordglob som visar Europa och Afrika"
         ],
         "tts": [
           "jordglob Europa–Afrika"
@@ -11270,6 +11944,7 @@
           "jorden",
           "jordglob",
           "jordglob nord- och sydamerika",
+          "jordglob som visar nord- och sydamerika",
           "nord- och sydamerika"
         ],
         "tts": [
@@ -11281,7 +11956,8 @@
           "Asien",
           "Australien",
           "jorden",
-          "jordglob Asien–Australien"
+          "jordglob Asien–Australien",
+          "jordglob som visar Asien och Australien"
         ],
         "tts": [
           "jordglob Asien–Australien"
@@ -11332,6 +12008,7 @@
           "berg",
           "kallt",
           "snö",
+          "snöklädda berg",
           "snöklätt berg"
         ],
         "tts": [
@@ -11444,6 +12121,7 @@
           "lera",
           "tegelsten",
           "tegelstenar",
+          "tegelstensvägg",
           "vägg"
         ],
         "tts": [
@@ -11464,6 +12142,7 @@
       "🪵": {
         "default": [
           "stock",
+          "stubbe",
           "timmerstock",
           "trä",
           "trästock",
@@ -11598,6 +12277,7 @@
         "default": [
           "affär",
           "butik",
+          "butik som har öppet dygnet runt",
           "byggnad",
           "jourbutik"
         ],
@@ -11654,6 +12334,7 @@
       "💒": {
         "default": [
           "bröllop",
+          "bröllopskapell",
           "kärlek",
           "kyrka"
         ],
@@ -11664,7 +12345,6 @@
       "🗼": {
         "default": [
           "Tokyo",
-          "Tokyo tower",
           "Tokyo Tower",
           "torn",
           "torn i Tokyo"
@@ -11675,9 +12355,11 @@
       },
       "🗽": {
         "default": [
+          "frihet",
           "frihetsgudinnan",
-          "Frihetsgudinnan",
           "new york",
+          "ny",
+          "nyc",
           "staty"
         ],
         "tts": [
@@ -11992,7 +12674,8 @@
         "default": [
           "fordon",
           "lättbana",
-          "snabbspårväg"
+          "snabbspårväg",
+          "snabbtåg"
         ],
         "tts": [
           "snabbspårväg"
@@ -12140,7 +12823,8 @@
         "default": [
           "fordon",
           "mötande taxi",
-          "taxi"
+          "taxi",
+          "taxi framifrån"
         ],
         "tts": [
           "mötande taxi"
@@ -12158,7 +12842,9 @@
       "🚘": {
         "default": [
           "bil",
+          "bilar",
           "fordon",
+          "körde",
           "mötande"
         ],
         "tts": [
@@ -12331,7 +13017,8 @@
         "default": [
           "järnväg",
           "räls",
-          "tåg"
+          "tåg",
+          "tågräls"
         ],
         "tts": [
           "räls"
@@ -12534,6 +13221,7 @@
           "avgång",
           "avgång med flyg",
           "flyg",
+          "flyg som avgår",
           "resa"
         ],
         "tts": [
@@ -12545,6 +13233,7 @@
           "ankomst",
           "ankomst med flyg",
           "flyg",
+          "flyg som landar",
           "resa"
         ],
         "tts": [
@@ -12656,7 +13345,8 @@
         "default": [
           "bagage",
           "packning",
-          "resa"
+          "resa",
+          "resväska"
         ],
         "tts": [
           "bagage"
@@ -12715,6 +13405,7 @@
         "default": [
           "klocka",
           "tid",
+          "tidtagarklocka",
           "timer"
         ],
         "tts": [
@@ -12734,6 +13425,7 @@
         "default": [
           "00.00",
           "24.00",
+          "klocka som visar tolv",
           "klockan tolv",
           "tolv"
         ],
@@ -12745,7 +13437,8 @@
         "default": [
           "00.30",
           "12.30",
-          "halv ett"
+          "halv ett",
+          "klocka som visar halv ett"
         ],
         "tts": [
           "halv ett"
@@ -12756,6 +13449,7 @@
           "01.00",
           "13.00",
           "ett",
+          "klocka som visar ett",
           "klockan ett"
         ],
         "tts": [
@@ -12766,7 +13460,8 @@
         "default": [
           "01.30",
           "13.30",
-          "halv två"
+          "halv två",
+          "klocka som visar halv två"
         ],
         "tts": [
           "halv två"
@@ -12776,6 +13471,7 @@
         "default": [
           "02.00",
           "14.00",
+          "klocka som visar två",
           "klockan två",
           "två"
         ],
@@ -12787,7 +13483,8 @@
         "default": [
           "02.30",
           "14.30",
-          "halv tre"
+          "halv tre",
+          "klocka som visar halv tre"
         ],
         "tts": [
           "halv tre"
@@ -12797,6 +13494,7 @@
         "default": [
           "03.00",
           "15.00",
+          "klocka som visar tre",
           "klockan tre",
           "tre"
         ],
@@ -12808,7 +13506,8 @@
         "default": [
           "03.30",
           "15.30",
-          "halv fyra"
+          "halv fyra",
+          "klocka som visar halv fyra"
         ],
         "tts": [
           "halv fyra"
@@ -12819,6 +13518,7 @@
           "04.00",
           "16.00",
           "fyra",
+          "klocka som visar fyra",
           "klockan fyra"
         ],
         "tts": [
@@ -12829,7 +13529,8 @@
         "default": [
           "04.30",
           "16.30",
-          "halv fem"
+          "halv fem",
+          "klocka som visar halv fem"
         ],
         "tts": [
           "halv fem"
@@ -12840,6 +13541,7 @@
           "05.00",
           "17.00",
           "fem",
+          "klocka som visar fem",
           "klockan fem"
         ],
         "tts": [
@@ -12850,7 +13552,8 @@
         "default": [
           "05.30",
           "17.30",
-          "halv sex"
+          "halv sex",
+          "klocka som visar halv sex"
         ],
         "tts": [
           "halv sex"
@@ -12860,6 +13563,7 @@
         "default": [
           "06.00",
           "18.00",
+          "klocka som visar sex",
           "klockan sex",
           "sex"
         ],
@@ -12871,7 +13575,8 @@
         "default": [
           "06.30",
           "18.30",
-          "halv sju"
+          "halv sju",
+          "klocka som visar halv sju"
         ],
         "tts": [
           "halv sju"
@@ -12881,6 +13586,7 @@
         "default": [
           "07.00",
           "19.00",
+          "klocka som visar halv sju",
           "klockan sju",
           "sju"
         ],
@@ -12892,7 +13598,8 @@
         "default": [
           "07.30",
           "19.30",
-          "halv åtta"
+          "halv åtta",
+          "klocka som visar halv åtta"
         ],
         "tts": [
           "halv åtta"
@@ -12903,6 +13610,7 @@
           "08.00",
           "20.00",
           "åtta",
+          "klocka som visar åtta",
           "klockan åtta"
         ],
         "tts": [
@@ -12913,7 +13621,8 @@
         "default": [
           "08.30",
           "20.30",
-          "halv nio"
+          "halv nio",
+          "klocka som visar halv nio"
         ],
         "tts": [
           "halv nio"
@@ -12923,6 +13632,7 @@
         "default": [
           "09.00",
           "21.00",
+          "klocka som visar nio",
           "klockan nio",
           "nio"
         ],
@@ -12934,7 +13644,8 @@
         "default": [
           "09.30",
           "21.30",
-          "halv tio"
+          "halv tio",
+          "klocka som visar halv tio"
         ],
         "tts": [
           "halv tio"
@@ -12944,6 +13655,7 @@
         "default": [
           "10.00",
           "22.00",
+          "klocka som visar tio",
           "klockan tio",
           "tio"
         ],
@@ -12955,7 +13667,8 @@
         "default": [
           "10.30",
           "22.30",
-          "halv elva"
+          "halv elva",
+          "klocka som visar halv elva"
         ],
         "tts": [
           "halv elva"
@@ -12966,6 +13679,7 @@
           "11.00",
           "23.00",
           "elva",
+          "klocka som visar elva",
           "klockan elva"
         ],
         "tts": [
@@ -12976,7 +13690,8 @@
         "default": [
           "11.30",
           "23.30",
-          "halv tolv"
+          "halv tolv",
+          "klocka som visar halv tolv"
         ],
         "tts": [
           "halv tolv"
@@ -13036,6 +13751,7 @@
         "default": [
           "måne",
           "måne i tredje kvarteret",
+          "rymden",
           "tilltagande"
         ],
         "tts": [
@@ -13177,8 +13893,11 @@
       "🌟": {
         "default": [
           "blänkande",
+          "glänsande",
           "glittrande",
           "gnistrande",
+          "natt",
+          "seger",
           "stjärna"
         ],
         "tts": [
@@ -13325,6 +14044,7 @@
       },
       "🌬": {
         "default": [
+          "ansikte som blåser luft",
           "blåser",
           "väder",
           "vind"
@@ -13369,6 +14089,7 @@
           "accessoar",
           "paraply",
           "regn",
+          "utfällt paraply",
           "väder"
         ],
         "tts": [
@@ -13486,7 +14207,8 @@
           "Halloween",
           "lykta",
           "lyktgubbe",
-          "pumpa"
+          "pumpa",
+          "pumplykta"
         ],
         "tts": [
           "lyktgubbe"
@@ -13666,8 +14388,12 @@
       "🎁": {
         "default": [
           "fest",
+          "födelsedag",
           "gåva",
           "inslagen",
+          "julklapp",
+          "överraskning",
+          "paket",
           "present"
         ],
         "tts": [
@@ -13705,8 +14431,10 @@
       },
       "🎖": {
         "default": [
+          "firande",
           "medalj",
-          "militär"
+          "militär",
+          "pris"
         ],
         "tts": [
           "militär medalj"
@@ -13859,6 +14587,7 @@
         "default": [
           "bowling",
           "bowlingklot",
+          "bowlingklot och käglor",
           "klot"
         ],
         "tts": [
@@ -13868,6 +14597,7 @@
       "🏏": {
         "default": [
           "cricket",
+          "cricketslagträ och boll",
           "sport"
         ],
         "tts": [
@@ -13878,6 +14608,7 @@
         "default": [
           "landhockey",
           "landhockeyklubba",
+          "landhockeyklubba och boll",
           "sport"
         ],
         "tts": [
@@ -13910,6 +14641,7 @@
       "🏓": {
         "default": [
           "bordtennis",
+          "bordtennisracket med pingisboll",
           "pingis",
           "pingpong",
           "sport"
@@ -13921,6 +14653,7 @@
       "🏸": {
         "default": [
           "badminton",
+          "badmintonracket och badmintonboll",
           "sport"
         ],
         "tts": [
@@ -13940,7 +14673,6 @@
       },
       "🥋": {
         "default": [
-          "dräkt",
           "judo",
           "kampsport",
           "kampsportdräkt",
@@ -14001,6 +14733,7 @@
         "default": [
           "dyka",
           "dykmask",
+          "snorkelmask",
           "snorkla"
         ],
         "tts": [
@@ -14021,6 +14754,7 @@
       "🎿": {
         "default": [
           "skidor",
+          "skidor och pjäxa",
           "skidor och stavar"
         ],
         "tts": [
@@ -14051,6 +14785,7 @@
           "fullträff",
           "mitt i prick",
           "pilkastning",
+          "piltavla med pil mitt i prick",
           "rakt på mål"
         ],
         "tts": [
@@ -14094,7 +14829,8 @@
         "default": [
           "åttan",
           "biljard",
-          "biljardboll"
+          "biljardboll",
+          "biljardboll med nummer 8"
         ],
         "tts": [
           "biljardboll"
@@ -14172,6 +14908,7 @@
           "ledtråd",
           "pussel",
           "pusselbit",
+          "pusselbitar",
           "sammanfoga"
         ],
         "tts": [
@@ -14226,7 +14963,8 @@
         "default": [
           "färg",
           "kort",
-          "spader"
+          "spader",
+          "svart spader"
         ],
         "tts": [
           "spader"
@@ -14236,7 +14974,8 @@
         "default": [
           "färg",
           "hjärter",
-          "kort"
+          "kort",
+          "rött hjärter"
         ],
         "tts": [
           "hjärter"
@@ -14246,6 +14985,7 @@
         "default": [
           "färg",
           "kort",
+          "röd ruter",
           "ruter"
         ],
         "tts": [
@@ -14256,7 +14996,8 @@
         "default": [
           "färg",
           "klöver",
-          "kort"
+          "kort",
+          "svart klöver"
         ],
         "tts": [
           "klöver"
@@ -14274,10 +15015,10 @@
       },
       "🃏": {
         "default": [
-          "joker",
           "Joker",
           "Joker-kort",
-          "spelkort"
+          "spelkort",
+          "spelkort med joker"
         ],
         "tts": [
           "joker"
@@ -14298,6 +15039,7 @@
       "🎴": {
         "default": [
           "blomma",
+          "japanskt spelkort med blomma",
           "kort",
           "kortspel",
           "spelkort",
@@ -14431,6 +15173,7 @@
         "default": [
           "nöd",
           "säkerhet",
+          "varningsväst",
           "varselväst",
           "väst"
         ],
@@ -14559,6 +15302,7 @@
         "default": [
           "badbyxor",
           "badkläder",
+          "badshorts",
           "shorts",
           "underkläder"
         ],
@@ -14589,8 +15333,10 @@
       "🪭": {
         "default": [
           "blyg",
+          "dans",
           "fläkt",
           "fläktar",
+          "flört",
           "hett",
           "solfjäder",
           "svalka"
@@ -14713,6 +15459,7 @@
       "👡": {
         "default": [
           "damsandal",
+          "högklackad damsandal",
           "sandal",
           "sko"
         ],
@@ -14794,6 +15541,7 @@
       "🧢": {
         "default": [
           "basebollkeps",
+          "keps",
           "skärmmössa"
         ],
         "tts": [
@@ -14850,6 +15598,7 @@
       "💍": {
         "default": [
           "diamant",
+          "diamantring",
           "kärlek",
           "ring",
           "romantik"
@@ -15066,6 +15815,7 @@
       },
       "🎸": {
         "default": [
+          "elgitarr",
           "gitarr",
           "musik",
           "musikinstrument"
@@ -15098,6 +15848,7 @@
       "🎻": {
         "default": [
           "fiol",
+          "fiol med stråke",
           "musik",
           "musikinstrument",
           "violin"
@@ -15120,6 +15871,7 @@
         "default": [
           "musik",
           "trumma",
+          "trumma med trumpinnar",
           "trumpinnar"
         ],
         "tts": [
@@ -15153,14 +15905,32 @@
       },
       "🪈": {
         "default": [
+          "band",
           "blockflöjt",
           "flöjt",
+          "flöjtist",
+          "instrument",
           "musik",
+          "orkester",
           "panflöjt",
-          "pickolaflöjt"
+          "pickolaflöjt",
+          "träblås"
         ],
         "tts": [
           "flöjt"
+        ]
+      },
+      "🪉": {
+        "default": [
+          "amor",
+          "harpa",
+          "instrument",
+          "musik",
+          "orkester",
+          "romantik"
+        ],
+        "tts": [
+          "harpa"
         ]
       },
       "📱": {
@@ -15251,6 +16021,7 @@
         "default": [
           "bärbar",
           "dator",
+          "kontor",
           "laptop",
           "pc"
         ],
@@ -16474,6 +17245,18 @@
           "länk"
         ]
       },
+      "⛓‍💥": {
+        "default": [
+          "boja",
+          "bruten länk",
+          "bryta",
+          "frihet",
+          "kedja"
+        ],
+        "tts": [
+          "bruten länk"
+        ]
+      },
       "⛓": {
         "default": [
           "kedja",
@@ -16524,6 +17307,17 @@
         ],
         "tts": [
           "stege"
+        ]
+      },
+      "🪏": {
+        "default": [
+          "gräva",
+          "grop",
+          "skopa",
+          "spade"
+        ],
+        "tts": [
+          "spade"
         ]
       },
       "⚗": {
@@ -16597,7 +17391,8 @@
           "antenn",
           "kommunikation",
           "satellit",
-          "tv-satellit"
+          "tv-satellit",
+          "tv-satellitantenn"
         ],
         "tts": [
           "tv-satellit"
@@ -16615,6 +17410,7 @@
       },
       "🩸": {
         "default": [
+          "bloddroppe",
           "blodsdroppe",
           "ge blod",
           "medicin",
@@ -16754,7 +17550,8 @@
       },
       "🚽": {
         "default": [
-          "toalett"
+          "toalett",
+          "toalettstol"
         ],
         "tts": [
           "toalett"
@@ -16894,6 +17691,7 @@
           "lödder",
           "rap",
           "rent",
+          "såpbubblor",
           "tvål",
           "under vatten"
         ],
@@ -16952,6 +17750,7 @@
           "cigarett",
           "rökning",
           "rökning tillåtet",
+          "rykande cigarett",
           "symbol"
         ],
         "tts": [
@@ -17007,6 +17806,7 @@
           "Fatima",
           "hamsa",
           "hand",
+          "lycka",
           "Maria",
           "Miriam",
           "skydd"
@@ -17135,7 +17935,6 @@
         "default": [
           "toalett",
           "uthus",
-          "wc",
           "WC"
         ],
         "tts": [
@@ -17504,7 +18303,9 @@
       "🔄": {
         "default": [
           "moturs",
-          "pilar"
+          "pilar",
+          "spola tilllbaka",
+          "upprepa"
         ],
         "tts": [
           "pilar moturs"
@@ -17514,6 +18315,7 @@
         "default": [
           "Back med vänsterpil",
           "bakåt",
+          "TILLBAKA med vänsterpil",
           "vänsterpil"
         ],
         "tts": [
@@ -17524,7 +18326,8 @@
         "default": [
           "End med högerpil",
           "framåt",
-          "högerpil"
+          "högerpil",
+          "Slut med högerpil"
         ],
         "tts": [
           "End med högerpil"
@@ -17533,6 +18336,7 @@
       "🔛": {
         "default": [
           "ON! med pil höger och vänster ovanför",
+          "PÅ! med pil höger och vänster ovanför",
           "pil höger och vänster",
           "utropstecken"
         ],
@@ -17544,6 +18348,7 @@
         "default": [
           "högerpil",
           "pil",
+          "SNART med högerpil ovanför",
           "Soon med högerpil ovanför"
         ],
         "tts": [
@@ -17554,6 +18359,7 @@
         "default": [
           "pil",
           "Top med uppåtpil",
+          "UPPÅT med uppåtpil ovanför",
           "uppåtpil"
         ],
         "tts": [
@@ -17696,9 +18502,12 @@
       },
       "🪯": {
         "default": [
+          "Khalsa",
           "khanda",
           "religion",
-          "Sikh"
+          "Sikh",
+          "sikhism",
+          "tro"
         ],
         "tts": [
           "khanda"
@@ -18039,6 +18848,7 @@
       "🔆": {
         "default": [
           "hög",
+          "ljus",
           "ljusstyrka"
         ],
         "tts": [
@@ -18050,7 +18860,8 @@
           "mobil",
           "signalstyrka",
           "stapel signalstyrka",
-          "staplar för mottagning"
+          "staplar för mottagning",
+          "staplar för signalstyrka"
         ],
         "tts": [
           "stapel signalstyrka"
@@ -18059,9 +18870,14 @@
       "🛜": {
         "default": [
           "dator",
+          "hotspot",
           "internet",
           "nätverk",
-          "trådlös"
+          "surfpunkt",
+          "surfzon",
+          "trådlös",
+          "trådlöst",
+          "wifi"
         ],
         "tts": [
           "trådlös"
@@ -18124,6 +18940,7 @@
           "avbryt",
           "multiplicera",
           "multiplikation",
+          "multiplikationstecken",
           "tecken",
           "x"
         ],
@@ -18137,6 +18954,7 @@
           "addera",
           "matte",
           "plus",
+          "plustecken",
           "tecken"
         ],
         "tts": [
@@ -18149,6 +18967,7 @@
           "−",
           "matte",
           "minus",
+          "minustecken",
           "subtrahera",
           "tecken"
         ],
@@ -18161,6 +18980,7 @@
           "÷",
           "dividera",
           "division",
+          "divisionstecken",
           "matte",
           "tecken"
         ],
@@ -18213,6 +19033,7 @@
         "default": [
           "?",
           "fråga",
+          "frågetecken",
           "interpunktion",
           "rött frågetecken",
           "tecken"
@@ -18346,7 +19167,8 @@
           "cirkel",
           "o",
           "röd",
-          "tung stor cirkel"
+          "tung stor cirkel",
+          "vit cirkel med röd kant"
         ],
         "tts": [
           "tung stor cirkel"
@@ -18434,6 +19256,7 @@
       },
       "✳": {
         "default": [
+          "asterisk",
           "åttauddig",
           "spetsig",
           "stjärna"
@@ -18486,6 +19309,18 @@
         ],
         "tts": [
           "skyddat varumärke"
+        ]
+      },
+      "🫟": {
+        "default": [
+          "färg",
+          "fläck",
+          "holi",
+          "stänk",
+          "utspill"
+        ],
+        "tts": [
+          "stänk"
         ]
       },
       "🔠": {
@@ -18586,6 +19421,7 @@
       "🆓": {
         "default": [
           "FREE-knapp",
+          "FRI-knapp",
           "gratis",
           "gratis-symbol",
           "symbol"
@@ -18627,6 +19463,7 @@
       "🆕": {
         "default": [
           "NEW-knapp",
+          "NY-knapp",
           "Nyhet",
           "nyhetssymbol",
           "symbol"
@@ -18689,7 +19526,8 @@
       "🆙": {
         "default": [
           "UP!",
-          "UP!-knapp"
+          "UP!-knapp",
+          "UPP!-knapp"
         ],
         "tts": [
           "UP!-knapp"
@@ -19178,6 +20016,7 @@
         "default": [
           "blå",
           "diamant",
+          "liten blå diamantform",
           "liten blå romb"
         ],
         "tts": [
@@ -19217,7 +20056,8 @@
       "🔘": {
         "default": [
           "alternativknapp",
-          "knapp"
+          "knapp",
+          "vit rund knapp med svart kant"
         ],
         "tts": [
           "alternativknapp"
@@ -19227,6 +20067,7 @@
         "default": [
           "fyrkant",
           "knapp",
+          "svart fyrkantig knapp med vit kant",
           "vit fyrkantig knapp"
         ],
         "tts": [
@@ -19237,7 +20078,8 @@
         "default": [
           "fyrkant",
           "knapp",
-          "svart fyrkantig knapp"
+          "svart fyrkantig knapp",
+          "vit fyrkantig knapp med svart kant"
         ],
         "tts": [
           "svart fyrkantig knapp"
@@ -19246,8 +20088,12 @@
       "🏁": {
         "default": [
           "flagga",
+          "flaggor",
+          "mållinen",
           "racing",
-          "schackrutig"
+          "schackrutig",
+          "sport",
+          "vinna"
         ],
         "tts": [
           "schackrutig flagga"
@@ -19256,7 +20102,8 @@
       "🚩": {
         "default": [
           "flagga",
-          "trekantig flagga"
+          "trekantig flagga",
+          "trekantig röd flagga"
         ],
         "tts": [
           "trekantig flagga"
@@ -19485,22 +20332,6 @@
           "bitcoin"
         ]
       },
-      "₨": {
-        "default": [
-          "rupie"
-        ],
-        "tts": [
-          "rupie"
-        ]
-      },
-      "﷼": {
-        "default": [
-          "rial"
-        ],
-        "tts": [
-          "rial"
-        ]
-      },
       "¹": {
         "default": [
           "ett",
@@ -19533,6 +20364,14 @@
           "upphöjt till tre"
         ]
       },
+      "₨": {
+        "default": [
+          "rupie"
+        ],
+        "tts": [
+          "rupie"
+        ]
+      },
       "µ": {
         "default": [
           "mått",
@@ -19540,6 +20379,14 @@
         ],
         "tts": [
           "mikrotecken"
+        ]
+      },
+      "﷼": {
+        "default": [
+          "rial"
+        ],
+        "tts": [
+          "rial"
         ]
       }
     }

@@ -2,9 +2,6 @@
   "main": {
     "pa-Arab": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "pa",
         "script": "Arab"
       },

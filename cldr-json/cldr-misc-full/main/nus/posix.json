@@ -2,9 +2,6 @@
   "main": {
     "nus": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "nus"
       },
       "posix": {

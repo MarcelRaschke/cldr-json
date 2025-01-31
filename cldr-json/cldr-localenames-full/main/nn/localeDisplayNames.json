@@ -2,9 +2,6 @@
   "main": {
     "nn": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "nn"
       },
       "localeDisplayNames": {
@@ -12,6 +9,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "England",
+          "gbsct": "Skottland",
+          "gbwls": "Wales"
         },
         "keys": {
           "calendar": "kalender",
@@ -44,11 +46,11 @@
             "gregorian": "gregoriansk kalender",
             "hebrew": "hebraisk kalender",
             "indian": "indisk nasjonalkalender",
-            "islamic": "islamsk kalender",
-            "islamic-civil": "islamsk sivil kalender",
+            "islamic": "hijrikalender",
+            "islamic-civil": "hijrikalender (tabell, sivil)",
             "islamic-rgsa": "islamsk kalender (Saudi-Arabia, observasjon)",
             "islamic-tbla": "islamsk kalender (tabell, astronomisk)",
-            "islamic-umalqura": "islamsk kalender (Umm al-Qura)",
+            "islamic-umalqura": "hijrikalender (Umm al-Qura)",
             "iso8601": "ISO 8601-kalender",
             "japanese": "japansk kalender",
             "persian": "persisk kalender",
@@ -86,7 +88,6 @@
             "phonebook": "telefonkatalogsortering",
             "phonetic": "fonetisk sortering",
             "pinyin": "pinyin-sortering",
-            "reformed": "reformert sortering",
             "search": "generelt søk",
             "searchjl": "Søk etter første konsonant i hangul",
             "standard": "standard sorteringsrekkjefølgje",
@@ -116,10 +117,10 @@
             "npinyin": "Numerisk"
           },
           "hc": {
-            "h11": "12-timesystem (0–11)",
-            "h12": "12-timesystem (1–12)",
-            "h23": "24-timesystem (0–23)",
-            "h24": "24-timesystem (1–24)"
+            "h11": "12-timarssystem (0–11)",
+            "h12": "12-timarssystem (1–12)",
+            "h23": "24-timarssystem (0–23)",
+            "h24": "24-timarssystem (1–24)"
           },
           "lb": {
             "loose": "laus lineskiftstil",
@@ -136,7 +137,6 @@
             "ussystem": "amerikansk målesystem"
           },
           "numbers": {
-            "ahom": "ahom",
             "arab": "arabisk-indiske siffer",
             "arabext": "utvida arabisk-indiske siffer",
             "armn": "armenske tal",
@@ -146,15 +146,12 @@
             "brah": "brahmiske tall",
             "cakm": "chakma-sifre",
             "cham": "cham-tall",
-            "cyrl": "cyrl",
+            "cyrl": "kyrilliske tall",
             "deva": "devanagari-siffer",
-            "diak": "diak",
             "ethi": "etiopiske tal",
             "finance": "Finansielle tall",
             "fullwide": "siffer med full breidd",
             "geor": "georgiske tal",
-            "gong": "gong",
-            "gonm": "gonm",
             "grek": "greske tal",
             "greklow": "små greske tal",
             "gujr": "gujarati-siffer",
@@ -165,13 +162,11 @@
             "hant": "tradisjonelle kinesiske tal",
             "hantfin": "tradisjonelle kinesiske finanstal",
             "hebr": "hebraiske tal",
-            "hmng": "hmng",
-            "hmnp": "hmnp",
             "java": "javanesiske siffer",
             "jpan": "japanske tal",
             "jpanfin": "japanske finanstal",
             "kali": "kayah li-tall",
-            "kawi": "kawi",
+            "kawi": "kawi-sifre",
             "khmr": "khmer-siffer",
             "knda": "kannada-siffer",
             "lana": "thai tham hora-tall",
@@ -180,32 +175,20 @@
             "latn": "vestlege siffer",
             "lepc": "lepecha-tall",
             "limb": "limbu-tall",
-            "mathbold": "mathbold",
-            "mathdbl": "mathdbl",
-            "mathmono": "mathmono",
-            "mathsanb": "mathsanb",
-            "mathsans": "mathsans",
             "mlym": "malayalam-siffer",
-            "modi": "modi",
             "mong": "mongolske tall",
-            "mroo": "mroo",
-            "mtei": "meetei mayek-sifre",
+            "mtei": "meetei mayek-siffer",
             "mymr": "burmesiske siffer",
             "mymrshan": "myanmar shan-tall",
-            "mymrtlng": "mymrtlng",
-            "nagm": "nagm",
             "native": "språkspesifikke siffer",
             "nkoo": "n’ko-tall",
             "olck": "ol chiki-sifre",
             "orya": "odia-siffer",
             "osma": "osmanya-tall",
-            "rohg": "rohg",
             "roman": "romartal",
             "romanlow": "små romartal",
             "saur": "sarushatra-tall",
             "shrd": "sharada-tall",
-            "sind": "sind",
-            "sinh": "sinh",
             "sora": "sora sompeng-tall",
             "sund": "sundanese-tall",
             "takr": "takri-tall",
@@ -215,12 +198,10 @@
             "telu": "telugu-siffer",
             "thai": "thailandske siffer",
             "tibt": "tibetanske siffer",
-            "tirh": "tirh",
-            "tnsa": "tnsa",
+            "tirh": "tirhuta-sifre",
+            "tnsa": "tangsa-sifre",
             "traditional": "Tradisjonelle tall",
-            "vaii": "vai-siffer",
-            "wara": "wara",
-            "wcho": "wcho"
+            "vaii": "vai-siffer"
           }
         },
         "codePatterns": {

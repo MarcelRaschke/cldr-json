@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "yo"
     },
     "annotations": {
@@ -919,6 +916,14 @@
           "ọ̀fà didojuko òsì"
         ]
       },
+      "↚": {
+        "default": [
+          "atọ́ka tó kọjú sí òsì pẹ̀lú ìlà"
+        ],
+        "tts": [
+          "atọ́ka tó kọjú sí òsì pẹ̀lú ìlà"
+        ]
+      },
       "→": {
         "default": [
           "ọ̀fà",
@@ -927,6 +932,14 @@
         ],
         "tts": [
           "ọ̀fà didojuko otun"
+        ]
+      },
+      "↛": {
+        "default": [
+          "atọ́ka tó kọjú sí ọ̀tún pẹ̀lú ìlà"
+        ],
+        "tts": [
+          "atọ́ka tó kọjú sí ọ̀tún pẹ̀lú ìlà"
         ]
       },
       "↑": {
@@ -950,6 +963,322 @@
           "ọ̀fà didojuko isàlẹ̀"
         ]
       },
+      "↜": {
+        "default": [
+          "atọ́ka ṣíṣẹ́wẹ́lẹ́ tó kọjú sí òsì"
+        ],
+        "tts": [
+          "atọ́ka ṣíṣẹ́wẹ́lẹ́ tó kọjú sí òsì"
+        ]
+      },
+      "↝": {
+        "default": [
+          "atọ́ka ṣíṣẹ́wẹ́lẹ́ tó kọjú sí ọ̀tún"
+        ],
+        "tts": [
+          "atọ́ka ṣíṣẹ́wẹ́lẹ́ tó kọjú sí ọ̀tún"
+        ]
+      },
+      "↞": {
+        "default": [
+          "atọ́ka olórí-méjì tó kọjú sí òsì"
+        ],
+        "tts": [
+          "atọ́ka olórí-méjì tó kọjú sí òsì"
+        ]
+      },
+      "↟": {
+        "default": [
+          "atọ́ka olórí-méjì tó kọjú sí òkè"
+        ],
+        "tts": [
+          "atọ́ka olórí-méjì tó kọjú sí òkè"
+        ]
+      },
+      "↠": {
+        "default": [
+          "atọ́ka olórí-méjì tó kọjú sí ọ̀tún"
+        ],
+        "tts": [
+          "atọ́ka olórí-méjì tó kọjú sí ọ̀tún"
+        ]
+      },
+      "↡": {
+        "default": [
+          "atọ́ka olórí-méjì tó kọjú sí ìsàlẹ̀"
+        ],
+        "tts": [
+          "atọ́ka olórí-méjì tó kọjú sí ìsàlẹ̀"
+        ]
+      },
+      "↢": {
+        "default": [
+          "atọ́ka onírù tó kọjú sí òsì"
+        ],
+        "tts": [
+          "atọ́ka onírù tó kọjú sí òsì"
+        ]
+      },
+      "↣": {
+        "default": [
+          "atọ́ka onírù tó kọjú sí ọ̀tún"
+        ],
+        "tts": [
+          "atọ́ka onírù tó kọjú sí ọ̀tún"
+        ]
+      },
+      "↤": {
+        "default": [
+          "atọ́ka tó kọjú sí òsì látorí ọ̀pá"
+        ],
+        "tts": [
+          "atọ́ka tó kọjú sí òsì látorí ọ̀pá"
+        ]
+      },
+      "↥": {
+        "default": [
+          "atọ́ka tó kọjú sí òkè látorí ọ̀pá"
+        ],
+        "tts": [
+          "atọ́ka tó kọjú sí òkè látorí ọ̀pá"
+        ]
+      },
+      "↦": {
+        "default": [
+          "atọ́ka tó kọjú sí ọ̀tún látorí ọ̀pá"
+        ],
+        "tts": [
+          "atọ́ka tó kọjú sí ọ̀tún látorí ọ̀pá"
+        ]
+      },
+      "↧": {
+        "default": [
+          "atọ́ka tó kọjú sí ìsàlẹ̀ látorí ọ̀pá"
+        ],
+        "tts": [
+          "atọ́ka tó kọjú sí ìsàlẹ̀ látorí ọ̀pá"
+        ]
+      },
+      "↨": {
+        "default": [
+          "atọ́ka tó lọ sókè àti ìsàlẹ̀ pẹ̀lú ìdí"
+        ],
+        "tts": [
+          "atọ́ka tó lọ sókè àti ìsàlẹ̀ pẹ̀lú ìdí"
+        ]
+      },
+      "↫": {
+        "default": [
+          "atọ́ka tó kọjú sí òsì tó ni kókó ní ìdí"
+        ],
+        "tts": [
+          "atọ́ka tó kọjú sí òsì tó ni kókó ní ìdí"
+        ]
+      },
+      "↬": {
+        "default": [
+          "atọ́ka tó kọjú sí ọ̀tún pẹ̀lú kókó ní ìdí"
+        ],
+        "tts": [
+          "atọ́ka tó kọjú sí ọ̀tún pẹ̀lú kókó ní ìdí"
+        ]
+      },
+      "↭": {
+        "default": [
+          "atọ́ka ṣíṣẹ́wẹ́lẹ́ tó kọjú sí òsì àti ọ̀tún"
+        ],
+        "tts": [
+          "atọ́ka ṣíṣẹ́wẹ́lẹ́ tó kọjú sí òsì àti ọ̀tún"
+        ]
+      },
+      "↯": {
+        "default": [
+          "atọ́ka wíwọ́ tó doríkodò",
+          "wíwọ́"
+        ],
+        "tts": [
+          "atọ́ka wíwọ́ tó doríkodò"
+        ]
+      },
+      "↰": {
+        "default": [
+          "atọ́ka nínàró tó ṣẹ́po korí sí òsì"
+        ],
+        "tts": [
+          "atọ́ka nínàró tó ṣẹ́po korí sí òsì"
+        ]
+      },
+      "↱": {
+        "default": [
+          "atọ́ka nínàró tó ṣẹ́po korí sí ọ̀tún"
+        ],
+        "tts": [
+          "atọ́ka nínàró tó ṣẹ́po korí sí ọ̀tún"
+        ]
+      },
+      "↲": {
+        "default": [
+          "atọ́ka dídoríkodò tó ṣẹ́po korí sí òsì"
+        ],
+        "tts": [
+          "atọ́ka dídoríkodò tó ṣẹ́po korí sí òsì"
+        ]
+      },
+      "↳": {
+        "default": [
+          "atọ́ka dídoríkodò tó ṣẹ́po korí sí ọ̀tún"
+        ],
+        "tts": [
+          "atọ́ka dídoríkodò tó ṣẹ́po korí sí ọ̀tún"
+        ]
+      },
+      "↴": {
+        "default": [
+          "atọ́ka tó dojúkọ ọ̀tún tó ṣẹ́po doríkodò"
+        ],
+        "tts": [
+          "atọ́ka tó dojúkọ ọ̀tún tó ṣẹ́po doríkodò"
+        ]
+      },
+      "↵": {
+        "default": [
+          "atọ́ka tó doríkodò tó ṣẹ́po dojúkọ òsì"
+        ],
+        "tts": [
+          "atọ́ka tó doríkodò tó ṣẹ́po dojúkọ òsì"
+        ]
+      },
+      "↶": {
+        "default": [
+          "atọ́ka tó yípo lókè lòdì sí ọwọ́ aago dé àárín-méjì"
+        ],
+        "tts": [
+          "atọ́ka tó yípo lókè lòdì sí ọwọ́ aago dé àárín-méjì"
+        ]
+      },
+      "↷": {
+        "default": [
+          "atọ́ka tó yípo lókè bí ọwọ́ aago dé àárín-méjì"
+        ],
+        "tts": [
+          "atọ́ka tó yípo lókè bí ọwọ́ aago dé àárín-méjì"
+        ]
+      },
+      "↸": {
+        "default": [
+          "atọ́ka ọlọ́pàá gígùn lórí tó kọjú sí ìwọ̀ oòrùn àríwá"
+        ],
+        "tts": [
+          "atọ́ka ọlọ́pàá gígùn lórí tó kọjú sí ìwọ̀ oòrùn àríwá"
+        ]
+      },
+      "↹": {
+        "default": [
+          "apá-òsì",
+          "ìkọ́",
+          "ọ̀pá",
+          "ọ̀pá oní ìkọ́ apá-òsì lórí apá-ọ̀tún"
+        ],
+        "tts": [
+          "ọ̀pá oní ìkọ́ apá-òsì lórí apá-ọ̀tún"
+        ]
+      },
+      "↺": {
+        "default": [
+          "atọ́ka yíyípo lòdì sí ọwọ́ aago tó ṣísílẹ̀ lókè"
+        ],
+        "tts": [
+          "atọ́ka yíyípo lòdì sí ọwọ́ aago tó ṣísílẹ̀ lókè"
+        ]
+      },
+      "↻": {
+        "default": [
+          "atọ́ka yíyípo bí ọwọ́ aago tó ṣísílẹ̀ lókè"
+        ],
+        "tts": [
+          "atọ́ka yíyípo bí ọwọ́ aago tó ṣísílẹ̀ lókè"
+        ]
+      },
+      "↼": {
+        "default": [
+          "ẹ̀gún",
+          "ọ̀kọ̀ ẹlẹ́gùn-ún òsì tó kọjú sókè"
+        ],
+        "tts": [
+          "ọ̀kọ̀ ẹlẹ́gùn-ún òsì tó kọjú sókè"
+        ]
+      },
+      "↽": {
+        "default": [
+          "ọ̀kọ̀ ẹlẹ́gùn-ún ní òsì tó kọjú sísàlẹ̀",
+          "ọ̀kọ̀ ẹlẹ́gùn-ún òsì tó kọjú sísàlẹ̀"
+        ],
+        "tts": [
+          "ọ̀kọ̀ ẹlẹ́gùn-ún ní òsì tó kọjú sísàlẹ̀"
+        ]
+      },
+      "↾": {
+        "default": [
+          "ẹ̀gún",
+          "ọ̀kọ̀ ẹlẹ́gùn-ún òkè tó kọjú sí ọ̀tún"
+        ],
+        "tts": [
+          "ọ̀kọ̀ ẹlẹ́gùn-ún òkè tó kọjú sí ọ̀tún"
+        ]
+      },
+      "↿": {
+        "default": [
+          "ẹ̀gún",
+          "ọ̀kọ̀ ẹlẹ́gùn-ún òkè tó kọjú sí òsì"
+        ],
+        "tts": [
+          "ọ̀kọ̀ ẹlẹ́gùn-ún òkè tó kọjú sí òsì"
+        ]
+      },
+      "⇀": {
+        "default": [
+          "ìkọ́",
+          "ìkọ́ apá-ọ̀tún tó kọrí sókè"
+        ],
+        "tts": [
+          "ìkọ́ apá-ọ̀tún tó kọrí sókè"
+        ]
+      },
+      "⇁": {
+        "default": [
+          "ìkọ́",
+          "ìkọ́ apá-ọ̀tún tó darí wà lẹ̀"
+        ],
+        "tts": [
+          "ìkọ́ apá-ọ̀tún tó darí wà lẹ̀"
+        ]
+      },
+      "⇂": {
+        "default": [
+          "ẹ̀gún",
+          "ọ̀kọ̀ ẹlẹ́gùn-ún ìsàlẹ̀ tó kọjú sí ọ̀tún"
+        ],
+        "tts": [
+          "ọ̀kọ̀ ẹlẹ́gùn-ún ìsàlẹ̀ tó kọjú sí ọ̀tún"
+        ]
+      },
+      "⇃": {
+        "default": [
+          "ẹ̀gún",
+          "ọ̀kọ̀ ẹlẹ́gùn-ún ìsàlẹ̀ tó kọjú sí òsì"
+        ],
+        "tts": [
+          "ọ̀kọ̀ ẹlẹ́gùn-ún ìsàlẹ̀ tó kọjú sí òsì"
+        ]
+      },
+      "⇄": {
+        "default": [
+          "atọ́ka tó kọjú sí ọ̀tún lórí atọ́ka tó kọjú sí òsì"
+        ],
+        "tts": [
+          "atọ́ka tó kọjú sí ọ̀tún lórí atọ́ka tó kọjú sí òsì"
+        ]
+      },
       "⇅": {
         "default": [
           "ìsàlẹ̀",
@@ -970,6 +1299,335 @@
         ],
         "tts": [
           "ọ̀fà didojuko òsì lórí ọ̀fà didojuko ọ̀tún"
+        ]
+      },
+      "⇇": {
+        "default": [
+          "atọ́ka méjì tó kọjú sí òsì"
+        ],
+        "tts": [
+          "atọ́ka méjì tó kọjú sí òsì"
+        ]
+      },
+      "⇈": {
+        "default": [
+          "atọ́ka méjì tó kọjú sí òkè"
+        ],
+        "tts": [
+          "atọ́ka méjì tó kọjú sí òkè"
+        ]
+      },
+      "⇉": {
+        "default": [
+          "atọ́ka méjì tó kọjú sí ọ̀ọ̀tún",
+          "atọ́ka méjì tó kọjú sí ọ̀tún"
+        ],
+        "tts": [
+          "atọ́ka méjì tó kọjú sí ọ̀tún"
+        ]
+      },
+      "⇊": {
+        "default": [
+          "atọ́ka méjì tó kọjú sí ìsàlẹ̀"
+        ],
+        "tts": [
+          "atọ́ka méjì tó kọjú sí ìsàlẹ̀"
+        ]
+      },
+      "⇋": {
+        "default": [
+          "ọ̀kọ̀ tó kọjú sí òsì lórí ọ̀kọ̀ tó kọjú sí ọ̀tún"
+        ],
+        "tts": [
+          "ọ̀kọ̀ tó kọjú sí òsì lórí ọ̀kọ̀ tó kọjú sí ọ̀tún"
+        ]
+      },
+      "⇌": {
+        "default": [
+          "ọ̀kọ̀ tó kọjú sí ọ̀tún lórí ọ̀kọ̀ tó kọjú sí òsì"
+        ],
+        "tts": [
+          "ọ̀kọ̀ tó kọjú sí ọ̀tún lórí ọ̀kọ̀ tó kọjú sí òsì"
+        ]
+      },
+      "⇐": {
+        "default": [
+          "atọ́ka onílà méjì tó kọjú sí òsì"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì tó kọjú sí òsì"
+        ]
+      },
+      "⇍": {
+        "default": [
+          "atọ́ka onílà méjì tó kọjú sí òsì pẹ̀lú ìlà laarin"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì tó kọjú sí òsì pẹ̀lú ìlà laarin"
+        ]
+      },
+      "⇑": {
+        "default": [
+          "atọ́ka onílà méjì tó kọjú sí òkè"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì tó kọjú sí òkè"
+        ]
+      },
+      "⇒": {
+        "default": [
+          "atọ́ka onílà méjì tó kọjú sí ọ̀tún"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì tó kọjú sí ọ̀tún"
+        ]
+      },
+      "⇏": {
+        "default": [
+          "atọ́ka onílà méjì tó kọjú sí ọ̀tún pẹ̀lú ìlà laarin"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì tó kọjú sí ọ̀tún pẹ̀lú ìlà laarin"
+        ]
+      },
+      "⇓": {
+        "default": [
+          "atọ́ka onílà méjì tó kọjú sí ìsàlẹ̀"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì tó kọjú sí ìsàlẹ̀"
+        ]
+      },
+      "⇔": {
+        "default": [
+          "atọ́ka onílà méjì tó kọjú sí òsì àti ọ̀tún"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì tó kọjú sí òsì àti ọ̀tún"
+        ]
+      },
+      "⇎": {
+        "default": [
+          "atọ́ka onílà méjì tó kọjú sí òsì àti ọ̀tún pẹ̀lú ìlà laarin"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì tó kọjú sí òsì àti ọ̀tún pẹ̀lú ìlà laarin"
+        ]
+      },
+      "⇖": {
+        "default": [
+          "atọ́ka onílà méjì tó kọjú sí ìwọ̀ oòrùn àríwá"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì tó kọjú sí ìwọ̀ oòrùn àríwá"
+        ]
+      },
+      "⇗": {
+        "default": [
+          "atọ́ka onílà méjì tó kọjú sí ìlà oòrùn àríwá"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì tó kọjú sí ìlà oòrùn àríwá"
+        ]
+      },
+      "⇘": {
+        "default": [
+          "atọ́ka onílà méjì tó kọjú sí ìlà oòrùn gúsù"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì tó kọjú sí ìlà oòrùn gúsù"
+        ]
+      },
+      "⇙": {
+        "default": [
+          "atọ́ka onílà méjì tó kọjú sí ìwọ̀ oòrùn gúsù"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì tó kọjú sí ìwọ̀ oòrùn gúsù"
+        ]
+      },
+      "⇚": {
+        "default": [
+          "atọ́ka onílà mẹ́ta tó kọjú sí òsì"
+        ],
+        "tts": [
+          "atọ́ka onílà mẹ́ta tó kọjú sí òsì"
+        ]
+      },
+      "⇛": {
+        "default": [
+          "atọ́ka onílà mẹ́ta tó kọjú sí ọ̀tún"
+        ],
+        "tts": [
+          "atọ́ka onílà mẹ́ta tó kọjú sí ọ̀tún"
+        ]
+      },
+      "⇜": {
+        "default": [
+          "atọ́ka sísúnpọ̀ tó kọjú sí òsì"
+        ],
+        "tts": [
+          "atọ́ka sísúnpọ̀ tó kọjú sí òsì"
+        ]
+      },
+      "⇝": {
+        "default": [
+          "atọ́ka sísúnpọ̀ tó kọjú sí ọ̀tún"
+        ],
+        "tts": [
+          "atọ́ka sísúnpọ̀ tó kọjú sí ọ̀tún"
+        ]
+      },
+      "⇞": {
+        "default": [
+          "atọ́ka tó kọjú sí òkè pẹ̀lú ìlà méjì laarin"
+        ],
+        "tts": [
+          "atọ́ka tó kọjú sí òkè pẹ̀lú ìlà méjì laarin"
+        ]
+      },
+      "⇟": {
+        "default": [
+          "atọ́ka tó kọjú sí ìsàlẹ̀ pẹ̀lú ìlà méjì laarin"
+        ],
+        "tts": [
+          "atọ́ka tó kọjú sí ìsàlẹ̀ pẹ̀lú ìlà méjì laarin"
+        ]
+      },
+      "⇠": {
+        "default": [
+          "atọ́ka onílà dídùbú alálàfo tó kọjú si òsì"
+        ],
+        "tts": [
+          "atọ́ka onílà dídùbú alálàfo tó kọjú si òsì"
+        ]
+      },
+      "⇡": {
+        "default": [
+          "atọ́ka onílà dídùbú alálàfo tó kọjú si òkè"
+        ],
+        "tts": [
+          "atọ́ka onílà dídùbú alálàfo tó kọjú si òkè"
+        ]
+      },
+      "⇢": {
+        "default": [
+          "atọ́ka onílà dídùbú alálàfo tó kọjú si ọ̀tún"
+        ],
+        "tts": [
+          "atọ́ka onílà dídùbú alálàfo tó kọjú si ọ̀tún"
+        ]
+      },
+      "⇣": {
+        "default": [
+          "atọ́ka onílà dídùbú alálàfo tó kọjú si ìsàlẹ̀"
+        ],
+        "tts": [
+          "atọ́ka onílà dídùbú alálàfo tó kọjú si ìsàlẹ̀"
+        ]
+      },
+      "⇤": {
+        "default": [
+          "atọ́ka ọlọ́pàá lórí tó kọjú sí òsì"
+        ],
+        "tts": [
+          "atọ́ka ọlọ́pàá lórí tó kọjú sí òsì"
+        ]
+      },
+      "⇥": {
+        "default": [
+          "atọ́ka ọlọ́pàá lórí tó kọjú sí ọ̀tún"
+        ],
+        "tts": [
+          "atọ́ka ọlọ́pàá lórí tó kọjú sí ọ̀tún"
+        ]
+      },
+      "⇦": {
+        "default": [
+          "atọ́ka onílà méjì àsopọ̀ tó kọjú sí òsì"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì àsopọ̀ tó kọjú sí òsì"
+        ]
+      },
+      "⇧": {
+        "default": [
+          "atọ́ka onílà méjì àsopọ̀ tó kọjú sí òkè"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì àsopọ̀ tó kọjú sí òkè"
+        ]
+      },
+      "⇨": {
+        "default": [
+          "atọ́ka onílà méjì àsopọ̀ tó kọjú sí ọ̀tún"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì àsopọ̀ tó kọjú sí ọ̀tún"
+        ]
+      },
+      "⇩": {
+        "default": [
+          "atọ́ka onílà méjì àsopọ̀ tó kọjú sí ìsàlẹ̀"
+        ],
+        "tts": [
+          "atọ́ka onílà méjì àsopọ̀ tó kọjú sí ìsàlẹ̀"
+        ]
+      },
+      "⇪": {
+        "default": [
+          "atọ́ka oníhò laarin tó kọjú sókè látorí ọ̀pá"
+        ],
+        "tts": [
+          "atọ́ka oníhò laarin tó kọjú sókè látorí ọ̀pá"
+        ]
+      },
+      "⇵": {
+        "default": [
+          "atọ́ka tó kọjú sílẹ̀ lẹ́gbẹ̀ẹ́ òsì atọ́ka tó kọjú sókè"
+        ],
+        "tts": [
+          "atọ́ka tó kọjú sílẹ̀ lẹ́gbẹ̀ẹ́ òsì atọ́ka tó kọjú sókè"
+        ]
+      },
+      "∀": {
+        "default": [
+          "èyóówù",
+          "fifúnni",
+          "fún gbogbogbò",
+          "gbogbogbò",
+          "wíwọ́pọ̀"
+        ],
+        "tts": [
+          "fún gbogbogbò"
+        ]
+      },
+      "∂": {
+        "default": [
+          "ìyàtọ̀",
+          "ìyàtọ́ apákan",
+          "ìyàtọ̀ apákan"
+        ],
+        "tts": [
+          "ìyàtọ́ apákan"
+        ]
+      },
+      "∃": {
+        "default": [
+          "ó wà"
+        ],
+        "tts": [
+          "ó wà"
+        ]
+      },
+      "∅": {
+        "default": [
+          "àkójọ ṣíṣófo",
+          "amúṣẹ́ṣe àkójọ",
+          "ẹ̀kọ́ nípa ìṣirò"
+        ],
+        "tts": [
+          "àkójọ ṣíṣófo"
         ]
       },
       "∆": {
@@ -1000,6 +1658,57 @@
         ],
         "tts": [
           "apa"
+        ]
+      },
+      "∉": {
+        "default": [
+          "ara ohun kan pàtó",
+          "kìí ṣe ara ohun kan pàtó"
+        ],
+        "tts": [
+          "kìí ṣe ara ohun kan pàtó"
+        ]
+      },
+      "∋": {
+        "default": [
+          "ara ohun kan pàtó",
+          "ó wà lára rẹ̀ bí ẹ̀yà-ara"
+        ],
+        "tts": [
+          "ó wà lára rẹ̀ bí ẹ̀yà-ara"
+        ]
+      },
+      "∎": {
+        "default": [
+          "ẹ̀rí ìkẹyìn",
+          "halmos",
+          "òkúta asààmìi ibojì",
+          "òpin ẹ̀rí",
+          "q.e.d.",
+          "qed"
+        ],
+        "tts": [
+          "òpin ẹ̀rí"
+        ]
+      },
+      "∏": {
+        "default": [
+          "àbájáde ìlọ́po n-ary",
+          "àgbéjáde ọjà",
+          "èrò ní ìbámu pẹ̀lú ìlànà"
+        ],
+        "tts": [
+          "àbájáde ìlọ́po n-ary"
+        ]
+      },
+      "∑": {
+        "default": [
+          "àròpọ̀",
+          "àròpọ̀ n-ary",
+          "ẹ̀kọ́ nípa ìṣirò"
+        ],
+        "tts": [
+          "àròpọ̀ n-ary"
         ]
       },
       "+": {
@@ -1052,6 +1761,16 @@
           "kére sí"
         ]
       },
+      "≮": {
+        "default": [
+          "àìdọ́gba",
+          "ẹ̀kọ́ nípa ìṣirò",
+          "kò kéré-sí"
+        ],
+        "tts": [
+          "kò kéré-sí"
+        ]
+      },
       "=": {
         "default": [
           "jẹ́",
@@ -1079,6 +1798,16 @@
         ],
         "tts": [
           "tóbi ju"
+        ]
+      },
+      "≯": {
+        "default": [
+          "àìdọ́gba",
+          "ẹ̀kọ́ nípa ìṣirò",
+          "kò ga-jùlọ"
+        ],
+        "tts": [
+          "kò ga-jùlọ"
         ]
       },
       "¬": {
@@ -1130,6 +1859,65 @@
           "iwe nla iyokuro"
         ]
       },
+      "∓": {
+        "default": [
+          "àròpọ̀-àyọkúrò",
+          "àyọkúrò-tàbí-àròpọ̀",
+          "ìyọkúrò-tàbí-àròpọ̀"
+        ],
+        "tts": [
+          "ìyọkúrò-tàbí-àròpọ̀"
+        ]
+      },
+      "∕": {
+        "default": [
+          "ìlà òòró tó dẹ̀gbẹ́",
+          "ìlà tó dẹ̀gbẹ́",
+          "síláàṣì",
+          "síláàṣì ìpín"
+        ],
+        "tts": [
+          "síláàṣì ìpín"
+        ]
+      },
+      "⁄": {
+        "default": [
+          "ìlà òòró tó dẹ̀gbẹ́",
+          "ìlà tó dẹ̀gbẹ́",
+          "síláàṣì ìdá"
+        ],
+        "tts": [
+          "síláàṣì ìdá"
+        ]
+      },
+      "∗": {
+        "default": [
+          "amojú ẹ̀rọ àmì ìràwọ̀",
+          "ìràwọ̀"
+        ],
+        "tts": [
+          "amojú ẹ̀rọ àmì ìràwọ̀"
+        ]
+      },
+      "∘": {
+        "default": [
+          "amúṣẹ́ṣe",
+          "amúṣẹ́ṣe òrùka",
+          "èròjà inú ohun-èlò"
+        ],
+        "tts": [
+          "amúṣẹ́ṣe òrùka"
+        ]
+      },
+      "∙": {
+        "default": [
+          "amúṣẹ́ṣe",
+          "amúṣẹ́ṣe ọta"
+        ],
+        "tts": [
+          "amúṣẹ́ṣe ọta"
+        ]
+      },
       "√": {
         "default": [
           "ipin",
@@ -1141,6 +1929,15 @@
           "sikuwe rutu"
         ]
       },
+      "∝": {
+        "default": [
+          "níwọ̀n tó báamu",
+          "tó jẹ mọ́ ìwọ̀n tó báamu"
+        ],
+        "tts": [
+          "níwọ̀n tó báamu"
+        ]
+      },
       "∞": {
         "default": [
           "aipari",
@@ -1150,10 +1947,58 @@
           "ami aipari"
         ]
       },
+      "∟": {
+        "default": [
+          "ẹ̀kọ́ nípa ìṣirò",
+          "igun onílà òòró",
+          "onílà òòró"
+        ],
+        "tts": [
+          "igun onílà òòró"
+        ]
+      },
+      "∠": {
+        "default": [
+          "àìtó igun òòró",
+          "igun"
+        ],
+        "tts": [
+          "igun"
+        ]
+      },
+      "∣": {
+        "default": [
+          "ń pín",
+          "olùpín"
+        ],
+        "tts": [
+          "ń pín"
+        ]
+      },
+      "∥": {
+        "default": [
+          "ìlà ọgbọọgba lẹ́gbẹ̀ẹ́ ara"
+        ],
+        "tts": [
+          "ìlà ọgbọọgba lẹ́gbẹ̀ẹ́ ara"
+        ]
+      },
+      "∧": {
+        "default": [
+          "ac",
+          "àti pàápàá",
+          "ti èrò ní ìbámu pẹ̀lú ìlànà àti",
+          "wẹ́ẹ̀jì"
+        ],
+        "tts": [
+          "ti èrò ní ìbámu pẹ̀lú ìlànà àti"
+        ]
+      },
       "∩": {
         "default": [
+          "enta",
           "nipa",
-          "orita,enta",
+          "orita",
           "oritameta"
         ],
         "tts": [
@@ -1170,6 +2015,116 @@
           "isopo"
         ]
       },
+      "∫": {
+        "default": [
+          "kálíkúlọ̀sì",
+          "ti odidi nọ́ńbà"
+        ],
+        "tts": [
+          "ti odidi nọ́ńbà"
+        ]
+      },
+      "∬": {
+        "default": [
+          "kálíkúlọ̀sì",
+          "ti odidi nọ́ńbà aláwẹ́ méjì"
+        ],
+        "tts": [
+          "ti odidi nọ́ńbà aláwẹ́ méjì"
+        ]
+      },
+      "∮": {
+        "default": [
+          "ìṣirò odidi nọ́ńbà ti kọ̀ǹtọ́ọ̀"
+        ],
+        "tts": [
+          "ìṣirò odidi nọ́ńbà ti kọ̀ǹtọ́ọ̀"
+        ]
+      },
+      "∴": {
+        "default": [
+          "èrò ní ìbámu pẹ̀lú ìlànà",
+          "nítori náà",
+          "nítorí náà"
+        ],
+        "tts": [
+          "nítori náà"
+        ]
+      },
+      "∵": {
+        "default": [
+          "èrò ní ìbámu pẹ̀lú ìlànà",
+          "nítorípé"
+        ],
+        "tts": [
+          "nítorípé"
+        ]
+      },
+      "∶": {
+        "default": [
+          "ìwọ̀n ìbáramu nọ́ńbà méjì"
+        ],
+        "tts": [
+          "ìwọ̀n ìbáramu nọ́ńbà méjì"
+        ]
+      },
+      "∷": {
+        "default": [
+          "ìṣirò ìbáramu nọ́ńbà méjì",
+          "nípa ìṣirò ìbáramu nọ́ńbà méjì"
+        ],
+        "tts": [
+          "ìṣirò ìbáramu nọ́ńbà méjì"
+        ]
+      },
+      "∼": {
+        "default": [
+          "amúṣẹ́ṣe",
+          "amúṣẹ́ṣe tílídè"
+        ],
+        "tts": [
+          "amúṣẹ́ṣe tílídè"
+        ]
+      },
+      "∽": {
+        "default": [
+          "tílídè",
+          "tílídè akọjúsódì"
+        ],
+        "tts": [
+          "tílídè akọjúsódì"
+        ]
+      },
+      "∾": {
+        "default": [
+          "s oní-ìdúbùú"
+        ],
+        "tts": [
+          "s oní-ìdúbùú"
+        ]
+      },
+      "≃": {
+        "default": [
+          "ẹ̀kọ́ ìṣirò",
+          "ìlà àléèbá ìlà kọdọrọ",
+          "méjèèjì fẹ́rẹ̀ báradọ́gba"
+        ],
+        "tts": [
+          "méjèèjì fẹ́rẹ̀ báradọ́gba"
+        ]
+      },
+      "≅": {
+        "default": [
+          "aisomọ́fisìmù",
+          "ẹ̀kọ́ ìṣirò",
+          "fẹ́rẹ̀ dọ́gba",
+          "ìbáradọ́gba ìṣirò",
+          "ìdọ́gba"
+        ],
+        "tts": [
+          "fẹ́rẹ̀ dọ́gba"
+        ]
+      },
       "≈": {
         "default": [
           "dí",
@@ -1181,6 +2136,34 @@
           "láti jẹ̀"
         ]
       },
+      "≌": {
+        "default": [
+          "ẹ̀kọ́ ìṣirò",
+          "gbogbo rẹ̀ dọ́gba",
+          "ìdọ́gba"
+        ],
+        "tts": [
+          "gbogbo rẹ̀ dọ́gba"
+        ]
+      },
+      "≒": {
+        "default": [
+          "fẹ́rẹ̀ dọ́gba pẹ̀lú àwòrán náà"
+        ],
+        "tts": [
+          "fẹ́rẹ̀ dọ́gba pẹ̀lú àwòrán náà"
+        ]
+      },
+      "≖": {
+        "default": [
+          "ẹ̀kọ́ ìṣirò",
+          "ìdọ́gba",
+          "òrùka ní ìdọ́gba"
+        ],
+        "tts": [
+          "òrùka ní ìdọ́gba"
+        ]
+      },
       "≡": {
         "default": [
           "bakan naa",
@@ -1190,6 +2173,16 @@
         ],
         "tts": [
           "bakan naa"
+        ]
+      },
+      "≣": {
+        "default": [
+          "ẹ̀kọ́ ìṣirò",
+          "ìdọ́gba",
+          "jẹ́ bákan náà pátápátá"
+        ],
+        "tts": [
+          "jẹ́ bákan náà pátápátá"
         ]
       },
       "≤": {
@@ -1215,6 +2208,95 @@
           "tóbi ju tàbí jẹ́"
         ]
       },
+      "≦": {
+        "default": [
+          "àìdọ́gba",
+          "ẹ̀kọ́ ìṣirò",
+          "kéré-sí lórí dọ́gba"
+        ],
+        "tts": [
+          "kéré-sí lórí dọ́gba"
+        ]
+      },
+      "≧": {
+        "default": [
+          "àìdọ́gba",
+          "ẹ̀kọ́ ìṣirò",
+          "ga-jùlọ lórí dọ́gba"
+        ],
+        "tts": [
+          "ga-jùlọ lórí dọ́gba"
+        ]
+      },
+      "≪": {
+        "default": [
+          "àìdọ́gba",
+          "ẹ̀kọ́ ìṣirò",
+          "kéré-sí púpọ̀"
+        ],
+        "tts": [
+          "kéré-sí púpọ̀"
+        ]
+      },
+      "≫": {
+        "default": [
+          "àìdọ́gba",
+          "ẹ̀kọ́ ìṣirò",
+          "ga-jùlọ púpọ̀"
+        ],
+        "tts": [
+          "ga-jùlọ púpọ̀"
+        ]
+      },
+      "≬": {
+        "default": [
+          "laarin"
+        ],
+        "tts": [
+          "laarin"
+        ]
+      },
+      "≳": {
+        "default": [
+          "àìdọ́gba",
+          "ẹ̀kọ́ ìṣirò",
+          "ga-jù èyí tó jẹ́ bákan náà lọ"
+        ],
+        "tts": [
+          "ga-jù èyí tó jẹ́ bákan náà lọ"
+        ]
+      },
+      "≺": {
+        "default": [
+          "amúṣẹ́ṣe àkójọ",
+          "ẹ̀kọ́ ìṣirò",
+          "wà ṣaájú"
+        ],
+        "tts": [
+          "wà ṣaájú"
+        ]
+      },
+      "≻": {
+        "default": [
+          "amúṣẹ́ṣe àkójọ",
+          "ẹ̀kọ́ ìṣirò",
+          "wá lẹ́yìn",
+          "wá lẹ̀yín"
+        ],
+        "tts": [
+          "wá lẹ́yìn"
+        ]
+      },
+      "⊁": {
+        "default": [
+          "amúṣẹ́ṣe àkójọ",
+          "ẹ̀kọ́ ìṣirò",
+          "kò wá lẹ́yìn"
+        ],
+        "tts": [
+          "kò wá lẹ́yìn"
+        ]
+      },
       "⊂": {
         "default": [
           "lára",
@@ -1222,6 +2304,442 @@
         ],
         "tts": [
           "lára"
+        ]
+      },
+      "⊃": {
+        "default": [
+          "àkójọ-títayọ",
+          "amúṣẹ́ṣe àkójọ",
+          "ẹ̀kọ́ ìṣirò"
+        ],
+        "tts": [
+          "àkójọ-títayọ"
+        ]
+      },
+      "⊆": {
+        "default": [
+          "àkójọ-abẹ́ dọ́gba"
+        ],
+        "tts": [
+          "àkójọ-abẹ́ dọ́gba"
+        ]
+      },
+      "⊇": {
+        "default": [
+          "àkójọ-títayọ dọ́gba",
+          "ẹ̀kọ́ ìṣirò",
+          "ìdọ́gba"
+        ],
+        "tts": [
+          "àkójọ-títayọ dọ́gba"
+        ]
+      },
+      "⊕": {
+        "default": [
+          "ààmì àròpọ̀ nínú òrùka",
+          "àròpọ̀"
+        ],
+        "tts": [
+          "ààmì àròpọ̀ nínú òrùka"
+        ]
+      },
+      "⊖": {
+        "default": [
+          "ààmì àyọkúrò nínú òrùka",
+          "ìwọ́kúrò",
+          "ìyàtọ̀ ọgbọọgba"
+        ],
+        "tts": [
+          "ààmì àyọkúrò nínú òrùka"
+        ]
+      },
+      "⊗": {
+        "default": [
+          "ààmi ìlọ́po nínú òrùka",
+          "àbájáde ìlọ́po",
+          "tẹ́ńsọ̀"
+        ],
+        "tts": [
+          "ààmi ìlọ́po nínú òrùka"
+        ]
+      },
+      "⊘": {
+        "default": [
+          "bíi ti ìpín",
+          "ẹ̀kọ́ ìṣirò",
+          "síláàṣì ìpín nínú òrùka"
+        ],
+        "tts": [
+          "síláàṣì ìpín nínú òrùka"
+        ]
+      },
+      "⊙": {
+        "default": [
+          "amúṣẹ́ṣe",
+          "amúṣẹ́ṣe ojú-ààmì nínú òrùka",
+          "XNOR"
+        ],
+        "tts": [
+          "amúṣẹ́ṣe ojú-ààmì nínú òrùka"
+        ]
+      },
+      "⊚": {
+        "default": [
+          "amúṣẹ́ṣe òrùka nínú òrùka"
+        ],
+        "tts": [
+          "amúṣẹ́ṣe òrùka nínú òrùka"
+        ]
+      },
+      "⊛": {
+        "default": [
+          "ààmì ìràwọ̀",
+          "amúṣẹ́ṣe",
+          "amúṣẹ́ṣe ààmì ìràwọ̀ nínú òrùka"
+        ],
+        "tts": [
+          "amúṣẹ́ṣe ààmì ìràwọ̀ nínú òrùka"
+        ]
+      },
+      "⊞": {
+        "default": [
+          "ààmì àròpọ̀ nínú àpótí onígun-mẹ́rin",
+          "bíi ti àròpọ̀",
+          "ẹ̀kọ́ ìṣirò"
+        ],
+        "tts": [
+          "ààmì àròpọ̀ nínú àpótí onígun-mẹ́rin"
+        ]
+      },
+      "⊟": {
+        "default": [
+          "ààmì àyọkúrò nínú àpótí onígun-mẹ́rin",
+          "bíi ti àyọkúrò",
+          "ẹ̀kọ́ ìṣirò"
+        ],
+        "tts": [
+          "ààmì àyọkúrò nínú àpótí onígun-mẹ́rin"
+        ]
+      },
+      "⊥": {
+        "default": [
+          "eet",
+          "falsum",
+          "ìṣó kékeré",
+          "ìṣó tó kọjú sókè"
+        ],
+        "tts": [
+          "ìṣó tó kọjú sókè"
+        ]
+      },
+      "⊮": {
+        "default": [
+          "kìí lo ipá"
+        ],
+        "tts": [
+          "kìí lo ipá"
+        ]
+      },
+      "⊰": {
+        "default": [
+          "amúṣẹ́ṣe àkójọ",
+          "ẹ̀kọ́ ìṣirò",
+          "wà ṣaájú lábẹ́ àṣepọ̀"
+        ],
+        "tts": [
+          "wà ṣaájú lábẹ́ àṣepọ̀"
+        ]
+      },
+      "⊱": {
+        "default": [
+          "amúṣẹ́ṣe àkójọ",
+          "ẹ̀kọ́ ìṣirò",
+          "wá lẹ́yìn lábẹ́ àṣepọ̀"
+        ],
+        "tts": [
+          "wá lẹ́yìn lábẹ́ àṣepọ̀"
+        ]
+      },
+      "⋭": {
+        "default": [
+          "ẹ̀kọ́ ìṣirò",
+          "ìdábàá èròǹgbà ẹgbẹ́",
+          "kò ní ohun kan bíi dídọ́gba ẹgbẹ́-abẹ́ déédé"
+        ],
+        "tts": [
+          "kò ní ohun kan bíi dídọ́gba ẹgbẹ́-abẹ́ déédé"
+        ]
+      },
+      "⊶": {
+        "default": [
+          "ojúlówó"
+        ],
+        "tts": [
+          "ojúlówó"
+        ]
+      },
+      "⊹": {
+        "default": [
+          "ẹ̀kọ́ ìṣirò",
+          "mátíríìsì àpótí onígun ọgbọọgba mẹ́rin",
+          "mátíríìsì hermitian conjugate",
+          "mátíríìsì tó fẹ̀gbẹ́ tira"
+        ],
+        "tts": [
+          "mátíríìsì hermitian conjugate"
+        ]
+      },
+      "⊿": {
+        "default": [
+          "àpótí onígun mẹ́ta pẹ̀lú igun òòró",
+          "ẹ̀kọ́ ìṣirò"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta pẹ̀lú igun òòró"
+        ]
+      },
+      "⋁": {
+        "default": [
+          "àìsopọ̀ ohun ọ̀tọ̀ méjì",
+          "èrò ní ìbámu pẹ̀lú ìlànà",
+          "n-ary ti èrò ní ìbámu pẹ̀lú ìlànà tàbí"
+        ],
+        "tts": [
+          "n-ary ti èrò ní ìbámu pẹ̀lú ìlànà tàbí"
+        ]
+      },
+      "⋂": {
+        "default": [
+          "amúṣẹ́ṣe àkójọ",
+          "ẹ̀kọ́ ìṣirò",
+          "ipò ìpàdépọ̀",
+          "ipò ìpàdépọ̀ n-ary"
+        ],
+        "tts": [
+          "ipò ìpàdépọ̀ n-ary"
+        ]
+      },
+      "⋃": {
+        "default": [
+          "amúṣẹ́ṣe àkójọ",
+          "ẹ̀kọ́ ìṣirò",
+          "ìsọdọ̀kan",
+          "ìsọdọ̀kan n-ary"
+        ],
+        "tts": [
+          "ìsọdọ̀kan n-ary"
+        ]
+      },
+      "⋅": {
+        "default": [
+          "amúṣẹ́ṣe",
+          "amúṣẹ́ṣe ojú-ààmì"
+        ],
+        "tts": [
+          "amúṣẹ́ṣe ojú-ààmì"
+        ]
+      },
+      "⋆": {
+        "default": [
+          "amúṣẹ́ṣe",
+          "amúṣẹ́ṣe ààmì ìràwọ̀"
+        ],
+        "tts": [
+          "amúṣẹ́ṣe ààmì ìràwọ̀"
+        ]
+      },
+      "⋈": {
+        "default": [
+          "amúṣẹ́ṣe aláwẹ́-méjì",
+          "bótaì",
+          "ìsopọ̀ déédé"
+        ],
+        "tts": [
+          "ìsopọ̀ déédé"
+        ]
+      },
+      "⋒": {
+        "default": [
+          "amúṣẹ́ṣe àkójọ",
+          "ẹ̀kọ́ ìṣirò",
+          "ipò ìpàdépọ̀",
+          "ipò ìpàdépọ̀ lẹ́ẹ̀mejì"
+        ],
+        "tts": [
+          "ipò ìpàdépọ̀ lẹ́ẹ̀mejì"
+        ]
+      },
+      "⋘": {
+        "default": [
+          "àìdọ́gba",
+          "ẹ̀kọ́ ìṣirò",
+          "kéré-sí púpọ̀ gidi"
+        ],
+        "tts": [
+          "kéré-sí púpọ̀ gidi"
+        ]
+      },
+      "⋙": {
+        "default": [
+          "àìdọ́gba",
+          "ẹ̀kọ́ ìṣirò",
+          "ga-jùlọ púpọ̀ gidi"
+        ],
+        "tts": [
+          "ga-jùlọ púpọ̀ gidi"
+        ]
+      },
+      "⋮": {
+        "default": [
+          "ẹ̀kọ́ ìṣirò",
+          "ojú-ààmì mẹ́ta",
+          "ojú-ààmì mẹ́ta olóòró"
+        ],
+        "tts": [
+          "ojú-ààmì mẹ́ta olóòró"
+        ]
+      },
+      "⋯": {
+        "default": [
+          "ojú-ààmì mẹ́ta",
+          "ojú-ààmì mẹ́ta onídùbú àárín-méjì"
+        ],
+        "tts": [
+          "ojú-ààmì mẹ́ta onídùbú àárín-méjì"
+        ]
+      },
+      "⋰": {
+        "default": [
+          "ẹ̀kọ́ ìṣirò",
+          "ojú-ààmì mẹ́ta",
+          "ojú-ààmì mẹ́ta tó nàró dẹ̀gbẹ́",
+          "ojú-ààmì mẹ́ta tó nàró dẹ̀gbẹ́ sọ́tùn-ún"
+        ],
+        "tts": [
+          "ojú-ààmì mẹ́ta tó nàró dẹ̀gbẹ́ sọ́tùn-ún"
+        ]
+      },
+      "⋱": {
+        "default": [
+          "ẹ̀kọ́ ìṣirò",
+          "ojú-ààmì mẹ́ta",
+          "ojú-ààmì mẹ́ta tó doríkodò dẹ̀gbẹ́ sọ́tùn-ún"
+        ],
+        "tts": [
+          "ojú-ààmì mẹ́ta tó doríkodò dẹ̀gbẹ́ sọ́tùn-ún"
+        ]
+      },
+      "■": {
+        "default": [
+          "àpótí onígun mẹ́rin ẹlẹ́kùn-ún"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́rin ẹlẹ́kùn-ún"
+        ]
+      },
+      "□": {
+        "default": [
+          "àpótí onígun mẹ́rin oníhò"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́rin oníhò"
+        ]
+      },
+      "▢": {
+        "default": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú igun róbóróbó"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú igun róbóróbó"
+        ]
+      },
+      "▣": {
+        "default": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú àpótí ẹlẹ́kùn-ún"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú àpótí ẹlẹ́kùn-ún"
+        ]
+      },
+      "▤": {
+        "default": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú ìlà dídùbú"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú ìlà dídùbú"
+        ]
+      },
+      "▥": {
+        "default": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú ìlà nínàró"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú ìlà nínàró"
+        ]
+      },
+      "▦": {
+        "default": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú ìlà dídùbú-nínàró"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú ìlà dídùbú-nínàró"
+        ]
+      },
+      "▧": {
+        "default": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú ìlà òkè-òsì ìsàlẹ̀-ọ̀tún"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú ìlà òkè-òsì ìsàlẹ̀-ọ̀tún"
+        ]
+      },
+      "▨": {
+        "default": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú ìlà òkè-ọ̀tún ìsàlẹ̀-òsì"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú ìlà òkè-ọ̀tún ìsàlẹ̀-òsì"
+        ]
+      },
+      "▩": {
+        "default": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú ìlà ẹgbẹ́ ọ̀tún-sósì",
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú ìlà ẹ̀gbẹ́ ọ̀tún-sósì"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́rin oníhò pẹ̀lú ìlà ẹ̀gbẹ́ ọ̀tún-sósì"
+        ]
+      },
+      "▬": {
+        "default": [
+          "àpótí onílà àìdọ́gba mẹ́rin ẹlẹ́kùn-ún"
+        ],
+        "tts": [
+          "àpótí onílà àìdọ́gba mẹ́rin ẹlẹ́kùn-ún"
+        ]
+      },
+      "▭": {
+        "default": [
+          "àpótí onílà àìdọ́gba mẹ́rin oníhò"
+        ],
+        "tts": [
+          "àpótí onílà àìdọ́gba mẹ́rin oníhò"
+        ]
+      },
+      "▮": {
+        "default": [
+          "àpótí onílà àìdọ́gba mẹ́rin olóòró ẹlẹ́kùn-ún"
+        ],
+        "tts": [
+          "àpótí onílà àìdọ́gba mẹ́rin olóòró ẹlẹ́kùn-ún"
+        ]
+      },
+      "▰": {
+        "default": [
+          "àpótí onílà àìdọ́gba mẹ́rin dídùbú ẹlẹ́kùn-ún"
+        ],
+        "tts": [
+          "àpótí onílà àìdọ́gba mẹ́rin dídùbú ẹlẹ́kùn-ún"
         ]
       },
       "▲": {
@@ -1237,6 +2755,70 @@
           "tírángù títọ́ka sí òkè"
         ]
       },
+      "△": {
+        "default": [
+          "àpótí onígun mẹ́ta oníhò tó kọrí sókè"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta oníhò tó kọrí sókè"
+        ]
+      },
+      "▴": {
+        "default": [
+          "àpótí onígun mẹ́ta kékeré ẹlẹ́kùn-ún tó kọrí sókè"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta kékeré ẹlẹ́kùn-ún tó kọrí sókè"
+        ]
+      },
+      "▵": {
+        "default": [
+          "àpótí onígun mẹ́ta kékeré oníhò tó kọrí sókè"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta kékeré oníhò tó kọrí sókè"
+        ]
+      },
+      "▷": {
+        "default": [
+          "àpótí onígun mẹ́ta oníhò tó kọrí sọ́tùn-ún"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta oníhò tó kọrí sọ́tùn-ún"
+        ]
+      },
+      "▸": {
+        "default": [
+          "àpótí onígun mẹ́ta kékeré ẹlẹ́kùn-ún tó kọrí sọ́tùn-ún"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta kékeré ẹlẹ́kùn-ún tó kọrí sọ́tùn-ún"
+        ]
+      },
+      "▹": {
+        "default": [
+          "àpótí onígun mẹ́ta kékeré oníhò tó kọrí sọ́tùn-ún"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta kékeré oníhò tó kọrí sọ́tùn-ún"
+        ]
+      },
+      "►": {
+        "default": [
+          "atọ́ka ẹlẹ́kùn-ún tó kọrí sọ́tùn-ún"
+        ],
+        "tts": [
+          "atọ́ka ẹlẹ́kùn-ún tó kọrí sọ́tùn-ún"
+        ]
+      },
+      "▻": {
+        "default": [
+          "atọ́ka oníhò tó kọrí sọ́tùn-ún"
+        ],
+        "tts": [
+          "atọ́ka oníhò tó kọrí sọ́tùn-ún"
+        ]
+      },
       "▼": {
         "default": [
           "ftírángù títọ́ka sí ilẹ̀",
@@ -1248,6 +2830,106 @@
         ],
         "tts": [
           "tírángù títọ́ka sí ilẹ̀"
+        ]
+      },
+      "▽": {
+        "default": [
+          "àpótí onígun mẹ́ta oníhò tó kọrí sísàlẹ̀"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta oníhò tó kọrí sísàlẹ̀"
+        ]
+      },
+      "▾": {
+        "default": [
+          "àpótí onígun mẹ́ta kékeré ẹlẹ́kùn-ún tó kọrí sísàlẹ̀"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta kékeré ẹlẹ́kùn-ún tó kọrí sísàlẹ̀"
+        ]
+      },
+      "▿": {
+        "default": [
+          "àpótí onígun mẹ́ta kékeré oníhò tó kọrí sísàlẹ̀"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta kékeré oníhò tó kọrí sísàlẹ̀"
+        ]
+      },
+      "◁": {
+        "default": [
+          "àpótí onígun mẹ́ta oníhò tó kọrí sósì"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta oníhò tó kọrí sósì"
+        ]
+      },
+      "◂": {
+        "default": [
+          "àpótí onígun mẹ́ta kékeré ẹlẹ́kùn-ún tó kọrí sósì"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta kékeré ẹlẹ́kùn-ún tó kọrí sósì"
+        ]
+      },
+      "◃": {
+        "default": [
+          "àpótí onígun mẹ́ta kékeré oníhò tó kọrí sósì"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta kékeré oníhò tó kọrí sósì"
+        ]
+      },
+      "◄": {
+        "default": [
+          "atọ́ka ẹlẹ́kùn-ún tó kọrí sósì"
+        ],
+        "tts": [
+          "atọ́ka ẹlẹ́kùn-ún tó kọrí sósì"
+        ]
+      },
+      "◅": {
+        "default": [
+          "atọ́ka oníhò tó kọrí sósì"
+        ],
+        "tts": [
+          "atọ́ka oníhò tó kọrí sósì"
+        ]
+      },
+      "◆": {
+        "default": [
+          "dáyámọ́ǹdì ẹlẹ́kùn-ún"
+        ],
+        "tts": [
+          "dáyámọ́ǹdì ẹlẹ́kùn-ún"
+        ]
+      },
+      "◇": {
+        "default": [
+          "dáyámọ́ǹdì oníhò"
+        ],
+        "tts": [
+          "dáyámọ́ǹdì oníhò"
+        ]
+      },
+      "◈": {
+        "default": [
+          "dáyámọ́ǹdì oníhò pẹ̀lú dáyámọ́ǹdì ẹlẹ́kùn-ún nínú"
+        ],
+        "tts": [
+          "dáyámọ́ǹdì oníhò pẹ̀lú dáyámọ́ǹdì ẹlẹ́kùn-ún nínú"
+        ]
+      },
+      "◉": {
+        "default": [
+          "àwọn òrùka nínú ara wọn",
+          "fisheye",
+          "ojú-ààmì nínú òrùka",
+          "òrùka oníhò pẹ̀lú òrùka ẹlẹ́kùn-ún nínú",
+          "wọ́ọ̀dì"
+        ],
+        "tts": [
+          "òrùka oníhò pẹ̀lú òrùka ẹlẹ́kùn-ún nínú"
         ]
       },
       "◊": {
@@ -1271,6 +2953,32 @@
           "sákù oníhò"
         ]
       },
+      "◌": {
+        "default": [
+          "òrùka olójú-ààmì yípo"
+        ],
+        "tts": [
+          "òrùka olójú-ààmì yípo"
+        ]
+      },
+      "◍": {
+        "default": [
+          "òrùka pẹ̀lú ìlà ninàró"
+        ],
+        "tts": [
+          "òrùka pẹ̀lú ìlà ninàró"
+        ]
+      },
+      "◎": {
+        "default": [
+          "àfojúsun",
+          "àwọn òrùka nínú ara wọn",
+          "òrùka aláwẹ́-méjì"
+        ],
+        "tts": [
+          "àwọn òrùka nínú ara wọn"
+        ]
+      },
       "●": {
         "default": [
           "sákù",
@@ -1278,6 +2986,176 @@
         ],
         "tts": [
           "sákù kíkún"
+        ]
+      },
+      "◐": {
+        "default": [
+          "òrùka ẹlẹ́kùn-ùn ààbọ̀ òsì"
+        ],
+        "tts": [
+          "òrùka ẹlẹ́kùn-ùn ààbọ̀ òsì"
+        ]
+      },
+      "◑": {
+        "default": [
+          "òrùka ẹlẹ́kùn-ùn ààbọ̀ ọ̀tún"
+        ],
+        "tts": [
+          "òrùka ẹlẹ́kùn-ùn ààbọ̀ ọ̀tún"
+        ]
+      },
+      "◒": {
+        "default": [
+          "òrùka ẹlẹ́kùn-ùn ààbọ̀ ìsàlẹ̀"
+        ],
+        "tts": [
+          "òrùka ẹlẹ́kùn-ùn ààbọ̀ ìsàlẹ̀"
+        ]
+      },
+      "◓": {
+        "default": [
+          "òrùka ẹlẹ́kùn-ùn ààbọ̀ òkè"
+        ],
+        "tts": [
+          "òrùka ẹlẹ́kùn-ùn ààbọ̀ òkè"
+        ]
+      },
+      "◔": {
+        "default": [
+          "òrùka ẹlẹ́kùn-ùn ọ̀tún apákan lókè"
+        ],
+        "tts": [
+          "òrùka ẹlẹ́kùn-ùn ọ̀tún apákan lókè"
+        ]
+      },
+      "◕": {
+        "default": [
+          "òrùka ẹlẹ́kùn-ùn yàtọ̀ sí apákan òsi lókè"
+        ],
+        "tts": [
+          "òrùka ẹlẹ́kùn-ùn yàtọ̀ sí apákan òsi lókè"
+        ]
+      },
+      "◖": {
+        "default": [
+          "ààbọ̀ òrùka ẹlẹ́kùn-ún apá òsì"
+        ],
+        "tts": [
+          "ààbọ̀ òrùka ẹlẹ́kùn-ún apá òsì"
+        ]
+      },
+      "◗": {
+        "default": [
+          "ààbọ̀ òrùka ẹlẹ́kùn-ún apá ọ̀tún"
+        ],
+        "tts": [
+          "ààbọ̀ òrùka ẹlẹ́kùn-ún apá ọ̀tún"
+        ]
+      },
+      "◘": {
+        "default": [
+          "ọta tó doríkodò"
+        ],
+        "tts": [
+          "ọta tó doríkodò"
+        ]
+      },
+      "◙": {
+        "default": [
+          "àpótí onígun mẹ́rin ẹlẹ́kùn-ún pẹ̀lú òrùka oníhò",
+          "òrùka oníhò tó doríkodò"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́rin ẹlẹ́kùn-ún pẹ̀lú òrùka oníhò"
+        ]
+      },
+      "◜": {
+        "default": [
+          "ègé òrùka ẹlẹ́gbẹ̀ẹ́ òsì lókè"
+        ],
+        "tts": [
+          "ègé òrùka ẹlẹ́gbẹ̀ẹ́ òsì lókè"
+        ]
+      },
+      "◝": {
+        "default": [
+          "ègé òrùka ẹlẹ́gbẹ̀ẹ́ ọ̀tún lókè",
+          "ègé ọ̀tún ẹlẹ́gbẹ̀ẹ́ òsì lókè"
+        ],
+        "tts": [
+          "ègé òrùka ẹlẹ́gbẹ̀ẹ́ ọ̀tún lókè"
+        ]
+      },
+      "◞": {
+        "default": [
+          "ègé òrùka ẹlẹ́gbẹ̀ẹ́ ọ̀tún nísàlẹ̀"
+        ],
+        "tts": [
+          "ègé òrùka ẹlẹ́gbẹ̀ẹ́ ọ̀tún nísàlẹ̀"
+        ]
+      },
+      "◟": {
+        "default": [
+          "ègé òrùka ẹlẹ́gbẹ̀ẹ́ òsì nísàlẹ̀"
+        ],
+        "tts": [
+          "ègé òrùka ẹlẹ́gbẹ̀ẹ́ òsì nísàlẹ̀"
+        ]
+      },
+      "◠": {
+        "default": [
+          "ààbọ̀ òrùka lókè"
+        ],
+        "tts": [
+          "ààbọ̀ òrùka lókè"
+        ]
+      },
+      "◡": {
+        "default": [
+          "ààbọ̀ òrùka nísàlẹ̀"
+        ],
+        "tts": [
+          "ààbọ̀ òrùka nísàlẹ̀"
+        ]
+      },
+      "◢": {
+        "default": [
+          "àpótí onígun mẹ́ta ẹlẹ́kùn-ún pẹ̀lú igun òòró ìsàlẹ̀-ọ́tùn"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta ẹlẹ́kùn-ún pẹ̀lú igun òòró ìsàlẹ̀-ọ́tùn"
+        ]
+      },
+      "◣": {
+        "default": [
+          "àpótí onígun mẹ́ta ẹlẹ́kùn-ún pẹ̀lú igun òòró ìsàlẹ̀-ósì"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta ẹlẹ́kùn-ún pẹ̀lú igun òòró ìsàlẹ̀-ósì"
+        ]
+      },
+      "◤": {
+        "default": [
+          "àpótí onígun mẹ́ta ẹlẹ́kùn-ún pẹ̀lú igun òòró òkè-ósì"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta ẹlẹ́kùn-ún pẹ̀lú igun òòró òkè-ósì"
+        ]
+      },
+      "◥": {
+        "default": [
+          "àpótí onígun mẹ́ta ẹlẹ́kùn-ún pẹ̀lú igun òòró òkè-ọ́tùn"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta ẹlẹ́kùn-ún pẹ̀lú igun òòró òkè-ọ́tùn"
+        ]
+      },
+      "◦": {
+        "default": [
+          "ọta oníhò"
+        ],
+        "tts": [
+          "ọta oníhò"
         ]
       },
       "◯": {
@@ -1290,6 +3168,30 @@
           "sákù oníhò ńlá"
         ]
       },
+      "◳": {
+        "default": [
+          "àpótí onígun mẹ́rin oníhò ẹ̀gbẹ́ ọ̀tún lókè"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́rin oníhò ẹ̀gbẹ́ ọ̀tún lókè"
+        ]
+      },
+      "◷": {
+        "default": [
+          "òrùka oníhò ẹ̀gbẹ́ ọ̀tún lókè"
+        ],
+        "tts": [
+          "òrùka oníhò ẹ̀gbẹ́ ọ̀tún lókè"
+        ]
+      },
+      "◿": {
+        "default": [
+          "àpótí onígun mẹ́ta pẹ̀lú igun òòró ìsàlẹ̀-ọ́tùn"
+        ],
+        "tts": [
+          "àpótí onígun mẹ́ta pẹ̀lú igun òòró ìsàlẹ̀-ọ́tùn"
+        ]
+      },
       "♪": {
         "default": [
           "ìwé",
@@ -1298,6 +3200,72 @@
         ],
         "tts": [
           "ìwé kẹ́jọ"
+        ]
+      },
+      "⨧": {
+        "default": [
+          "ààmì àròpọ̀ pẹ̀lú ééjì lábẹ́"
+        ],
+        "tts": [
+          "ààmì àròpọ̀ pẹ̀lú ééjì lábẹ́"
+        ]
+      },
+      "⨯": {
+        "default": [
+          "ààmì àgbélébùú ìlọ́po"
+        ],
+        "tts": [
+          "ààmì àgbélébùú ìlọ́po"
+        ]
+      },
+      "⨼": {
+        "default": [
+          "ìlọ́po ti inú"
+        ],
+        "tts": [
+          "ìlọ́po ti inú"
+        ]
+      },
+      "⩣": {
+        "default": [
+          "ọ̀pá abẹ́ ti èrò ìbámu ìlànà tàbí aláwẹ́-méjì"
+        ],
+        "tts": [
+          "ọ̀pá abẹ́ ti èrò ìbámu ìlànà tàbí aláwẹ́-méjì"
+        ]
+      },
+      "⩽": {
+        "default": [
+          "kéré-sí pẹ̀lú dídọ́gba tó dẹ̀gbẹ́"
+        ],
+        "tts": [
+          "kéré-sí pẹ̀lú dídọ́gba tó dẹ̀gbẹ́"
+        ]
+      },
+      "⪍": {
+        "default": [
+          "kéré-sí lókè dídọ́gba bákan náà"
+        ],
+        "tts": [
+          "kéré-sí lókè dídọ́gba bákan náà"
+        ]
+      },
+      "⪚": {
+        "default": [
+          "àìdọ́gba",
+          "ẹ̀kọ́ ìṣirò",
+          "ìlà aláwẹ́-méjì dọ́gba pẹ̀lú ga-jùlọ"
+        ],
+        "tts": [
+          "ìlà aláwẹ́-méjì dọ́gba pẹ̀lú ga-jùlọ"
+        ]
+      },
+      "⪺": {
+        "default": [
+          "wá lẹ́yìn lókè kò fẹ́rẹ̀ dọ́gba"
+        ],
+        "tts": [
+          "wá lẹ́yìn lókè kò fẹ́rẹ̀ dọ́gba"
         ]
       },
       "♭": {
@@ -1442,7 +3410,6 @@
       },
       "🫠": {
         "default": [
-          "Oju Ti o tẹ̀",
           "Oju Ti O tẹ̀",
           "olómi",
           "parẹ́",
@@ -1817,6 +3784,17 @@
           "ojú ìlà tótótó"
         ]
       },
+      "😶‍🌫": {
+        "default": [
+          "àìfọkànsí",
+          "ojú ní kùrukùru",
+          "ojú nínú àwọ̀sánmà",
+          "orí nínú àwọ̀sánmọ̀"
+        ],
+        "tts": [
+          "ojú nínú àwọ̀sánmà"
+        ]
+      },
       "😏": {
         "default": [
           "ojú",
@@ -1859,6 +3837,20 @@
           "Oju Ifaro"
         ]
       },
+      "😮‍💨": {
+        "default": [
+          "ìtura",
+          "kérora",
+          "mí hẹlẹhẹlẹ",
+          "mí síta",
+          "ojú ń mí síta",
+          "sọ̀rọ̀ kẹ́lẹ́kẹ́lẹ́",
+          "súfèé"
+        ],
+        "tts": [
+          "ojú ń mí síta"
+        ]
+      },
       "🤥": {
         "default": [
           "irọ́",
@@ -1881,6 +3873,26 @@
         ],
         "tts": [
           "ojú gbígbọ̀n"
+        ]
+      },
+      "🙂‍↔": {
+        "default": [
+          "gbọn orí",
+          "orí mímì látọ̀tún-sósì",
+          "rárá"
+        ],
+        "tts": [
+          "orí mímì látọ̀tún-sósì"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "bẹ́ẹ̀ni",
+          "fi orí dáhùn",
+          "orí mímì látòkè-sílẹ̀"
+        ],
+        "tts": [
+          "orí mímì látòkè-sílẹ̀"
         ]
       },
       "😌": {
@@ -1933,6 +3945,17 @@
         ],
         "tts": [
           "Oju Ti O N Sun"
+        ]
+      },
+      "🫩": {
+        "default": [
+          "ojú pẹ̀lú ìsàlẹ̀ ojú tó wú",
+          "rẹ̀",
+          "rírẹ̀ tọwọ́ tẹsẹ̀",
+          "tòògbé"
+        ],
+        "tts": [
+          "ojú pẹ̀lú ìsàlẹ̀ ojú tó wú"
         ]
       },
       "😷": {
@@ -2048,6 +4071,19 @@
           "Oju Itoogbe"
         ]
       },
+      "😵‍💫": {
+        "default": [
+          "háà",
+          "ìràníyè",
+          "lílọ́pọ̀",
+          "ojú pẹ̀lú ẹyinjú lílọ́pọ̀",
+          "òòyì",
+          "wàhálà"
+        ],
+        "tts": [
+          "ojú pẹ̀lú ẹyinjú lílọ́pọ̀"
+        ]
+      },
       "🤯": {
         "default": [
           "Ìjayà",
@@ -2121,7 +4157,7 @@
           "ọ̀mọ̀wé tí kò jáfáfá"
         ],
         "tts": [
-          "Oju Ọmọwe Ti Ko Jafafa"
+          "Oju Ọmọwe Ti O Jafafa"
         ]
       },
       "🧐": {
@@ -2433,7 +4469,7 @@
           "yege"
         ],
         "tts": [
-          "Oju Pẹlu Ikun Nimu"
+          "Oju Pẹlu Ooru Nimu"
         ]
       },
       "😡": {
@@ -2477,7 +4513,7 @@
           "rẹ́rìn músẹ́"
         ],
         "tts": [
-          "Oju Ẹrin Pẹlu Awọn Iho"
+          "Oju Ẹrin Pẹlu Awọn Iwo"
         ]
       },
       "👿": {
@@ -2491,7 +4527,7 @@
           "Oju Ibinu Pẹlu Iho"
         ],
         "tts": [
-          "Oju Ibinu Pẹlu Iho"
+          "Oju Ibinu Pẹlu Awọn Iwo"
         ]
       },
       "💀": {
@@ -2690,7 +4726,7 @@
           "olóngbò"
         ],
         "tts": [
-          "Oju Ologbo Afẹnukonu Pẹlu Awọn Oju Didi"
+          "Oju Ologbo Afẹnukonu"
         ]
       },
       "🙀": {
@@ -2860,7 +4896,7 @@
           "Ọkan Ti A Ṣe Lọṣọ"
         ],
         "tts": [
-          "Ọkan Ti A Ṣe Lọṣọ"
+          "Ọṣọ Ọkan"
         ]
       },
       "❣": {
@@ -2882,6 +4918,34 @@
         ],
         "tts": [
           "Ibanujẹ Ọkan"
+        ]
+      },
+      "❤‍🔥": {
+        "default": [
+          "àyà mímọ́",
+          "ìfẹ́",
+          "ìfẹ́kúfẹ̀ẹ́",
+          "iná ń jóni lọ́kàn",
+          "jóná",
+          "ọkàn",
+          "ọkàn ń jóná"
+        ],
+        "tts": [
+          "iná ń jóni lọ́kàn"
+        ]
+      },
+      "❤‍🩹": {
+        "default": [
+          "ìlera tó pọ̀ síi",
+          "ń bọ̀sípò lẹ́yìn àìsàn",
+          "ń dára síi",
+          "ń padàbọ̀sípò",
+          "ń ṣàtúnṣe",
+          "ọkàn tó ń ṣàtúnṣe ara rẹ̀",
+          "wà ní ìlera"
+        ],
+        "tts": [
+          "ọkàn tó ń ṣàtúnṣe ara rẹ̀"
         ]
       },
       "❤": {
@@ -2912,7 +4976,7 @@
           "ọlakàn ọsàn"
         ],
         "tts": [
-          "ọlakàn ọsàn"
+          "ọlọkàn omi ọsàn"
         ]
       },
       "💛": {
@@ -3155,9 +5219,12 @@
       },
       "👋": {
         "default": [
-          "juwọ́",
-          "N Juwọ",
-          "ń juwọ́",
+          "báwo",
+          "ìkínni",
+          "ìwọ",
+          "ju wọ́",
+          "ó dàbọ̀",
+          "ó dìgbà kan",
           "ọwọ́"
         ],
         "tts": [
@@ -3500,7 +5567,7 @@
           "òwọ́ ẹ̀ṣẹ́"
         ],
         "tts": [
-          "Naṣẹ Soke"
+          "Ẹṣẹ Ti a Na Soke"
         ]
       },
       "👊": {
@@ -3588,7 +5655,6 @@
       "🤝": {
         "default": [
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
@@ -3904,6 +5970,16 @@
           "apárí"
         ]
       },
+      "🧔‍♂": {
+        "default": [
+          "irùgbọ̀n",
+          "ọkùnrin",
+          "ọkùnrin: irùgbọ̀n"
+        ],
+        "tts": [
+          "ọkùnrin: irùgbọ̀n"
+        ]
+      },
       "👱‍♂": {
         "default": [
           "ọkùnrin",
@@ -3920,6 +5996,16 @@
         ],
         "tts": [
           "Obìnrin"
+        ]
+      },
+      "🧔‍♀": {
+        "default": [
+          "irùgbọ̀n",
+          "obìnrin",
+          "obìnrin: irùgbọ̀n"
+        ],
+        "tts": [
+          "obìnrin: irùgbọ̀n"
         ]
       },
       "👱‍♀": {
@@ -3955,7 +6041,6 @@
       "👵": {
         "default": [
           "agbalagba",
-          "Agbalagba Obinrin",
           "obinrin"
         ],
         "tts": [
@@ -4178,6 +6263,24 @@
           "odi"
         ]
       },
+      "🧏‍♂": {
+        "default": [
+          "adití",
+          "ọkùnrin"
+        ],
+        "tts": [
+          "ọkùnrin adití"
+        ]
+      },
+      "🧏‍♀": {
+        "default": [
+          "adití",
+          "obìnrin"
+        ],
+        "tts": [
+          "obìnrin adití"
+        ]
+      },
       "🙇": {
         "default": [
           "bẹ̀bẹ̀",
@@ -4292,6 +6395,18 @@
           "obìǹrin tí ń gúnpa"
         ]
       },
+      "🧑‍⚕": {
+        "default": [
+          "aṣèwòsàn nípasẹ̀ ìmọ̀ràn",
+          "dọ̀kítà",
+          "ìtọ́jú ìlera",
+          "nọ́ọ̀sì",
+          "òṣìṣẹ́ ìlera"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ìlera"
+        ]
+      },
       "👨‍⚕": {
         "default": [
           "ajọ ìlera",
@@ -4318,10 +6433,19 @@
           "obìrin òṣìṣẹ́ ètò ìlera"
         ]
       },
-      "👨‍🎓": {
+      "🧑‍🎓": {
         "default": [
           "akẹ́kọ̀ọ́",
-          "kàwégboyè",
+          "akẹ́kọ̀ọ́gboyè"
+        ],
+        "tts": [
+          "akẹ́kọ̀ọ́"
+        ]
+      },
+      "👨‍🎓": {
+        "default": [
+          "akàwégboyè",
+          "akẹ́kọ̀ọ́",
           "ọkùnrin"
         ],
         "tts": [
@@ -4330,12 +6454,22 @@
       },
       "👩‍🎓": {
         "default": [
+          "akàwégboyè",
           "akẹ́kọ̀ọ́",
-          "kàwégboyè",
-          "obìrin"
+          "obinrin"
         ],
         "tts": [
           "obìrin akẹ́kọ̀ọ́"
+        ]
+      },
+      "🧑‍🏫": {
+        "default": [
+          "ọ̀jọ̀gbọ́n",
+          "olùkọ́",
+          "olùtọ́sọ́nà"
+        ],
+        "tts": [
+          "olùkọ́"
         ]
       },
       "👨‍🏫": {
@@ -4361,6 +6495,16 @@
           "obìnrin olùkọ́"
         ]
       },
+      "🧑‍⚖": {
+        "default": [
+          "adájọ́",
+          "ìdájọ́ òdodo",
+          "ìwọ̀n"
+        ],
+        "tts": [
+          "adájọ́"
+        ]
+      },
       "👨‍⚖": {
         "default": [
           "òdodo onídajọ",
@@ -4378,6 +6522,17 @@
         ],
         "tts": [
           "obìnrin adájọ́"
+        ]
+      },
+      "🧑‍🌾": {
+        "default": [
+          "àgbẹ̀",
+          "àgbẹẹ̀",
+          "darandaran",
+          "olùtọ́jú ọgbà"
+        ],
+        "tts": [
+          "àgbẹ̀"
         ]
       },
       "👨‍🌾": {
@@ -4403,6 +6558,15 @@
           "obìrinàgbẹ́"
         ]
       },
+      "🧑‍🍳": {
+        "default": [
+          "alásè",
+          "olórí alásè"
+        ],
+        "tts": [
+          "alásè"
+        ]
+      },
       "👨‍🍳": {
         "default": [
           "ọkùnrin",
@@ -4423,6 +6587,17 @@
         ],
         "tts": [
           "obìrin olùse ónjẹ"
+        ]
+      },
+      "🧑‍🔧": {
+        "default": [
+          "arólélópòó",
+          "mẹkáníìkì",
+          "oníṣẹ́-ẹ̀lẹ́tíríìkì",
+          "oníṣẹ́-ọwọ́"
+        ],
+        "tts": [
+          "mẹkáníìkì"
         ]
       },
       "👨‍🔧": {
@@ -4451,6 +6626,18 @@
           "obìrin atún ọkọ̀ ṣe"
         ]
       },
+      "🧑‍🏭": {
+        "default": [
+          "ilé-iṣẹ́ aṣàgbéjáde ọjà",
+          "nípa àkójọpọ̀ àwọn ilé-iṣẹ́ oníṣòwò ọjà",
+          "òṣìṣẹ́",
+          "òṣìṣẹ́ ilé-iṣẹ́ aṣàgbéjáde ọjà",
+          "ṣíṣe àtòpọ̀ ẹ̀rọ"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ilé-iṣẹ́ aṣàgbéjáde ọjà"
+        ]
+      },
       "👨‍🏭": {
         "default": [
           "ilé iṣẹ́",
@@ -4473,6 +6660,18 @@
         ],
         "tts": [
           "obìrin òṣìṣẹ́ ilé-iṣẹ́"
+        ]
+      },
+      "🧑‍💼": {
+        "default": [
+          "ayàwòrán ilé-kíkọ́",
+          "okòwò",
+          "olùṣàkóso",
+          "òṣìṣẹ́ ọ́fíìsì",
+          "tó jẹ mọ́ iṣẹ́ ọ́fíìsì"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ọ́fíìsì"
         ]
       },
       "👨‍💼": {
@@ -4501,6 +6700,18 @@
         ],
         "tts": [
           "obìrin òṣìṣẹ́ ọ́físì"
+        ]
+      },
+      "🧑‍🔬": {
+        "default": [
+          "onímọ̀ ẹ̀rọ",
+          "onímọ̀ sáyẹ́ǹsì",
+          "onímọ̀ sáyẹ́ǹsì àwọn ohun alààyè",
+          "onímọ̀ sáyẹ́ǹsì ìṣẹ̀dá àti àwọn ohun àdáyébá",
+          "onímọ̀ sáyẹ́ǹsì nípa kẹ́míkà"
+        ],
+        "tts": [
+          "onímọ̀ sáyẹ́ǹsì"
         ]
       },
       "👨‍🔬": {
@@ -4533,6 +6744,18 @@
           "obìrin síyẹ́nsì"
         ]
       },
+      "🧑‍💻": {
+        "default": [
+          "akọ́ṣẹ́mọṣẹ́ ìmọ̀-ẹ̀rọ",
+          "aláròṣe ohun tuntun",
+          "ẹ̀yà àìrídìmú inú ẹ̀rọ",
+          "olúkọ-kóòdù",
+          "onímọ̀ kóòdù"
+        ],
+        "tts": [
+          "akọ́ṣẹ́mọṣẹ́ ìmọ̀-ẹ̀rọ"
+        ]
+      },
       "👨‍💻": {
         "default": [
           "ẹ̀yà àrídimú",
@@ -4559,6 +6782,18 @@
         ],
         "tts": [
           "obìrin onímọ̀ ẹ̀rọ"
+        ]
+      },
+      "🧑‍🎤": {
+        "default": [
+          "adánilárayá",
+          "akọrin",
+          "ìràwọ̀",
+          "jó lẹ́sọ̀lẹ́sọ̀ sí orin",
+          "òṣèré"
+        ],
+        "tts": [
+          "akọrin"
         ]
       },
       "👨‍🎤": {
@@ -4589,6 +6824,15 @@
           "obìnrin olórin"
         ]
       },
+      "🧑‍🎨": {
+        "default": [
+          "aṣẹ̀dá àwòrán",
+          "àtẹ àwọ̀ ìyàwòrán"
+        ],
+        "tts": [
+          "aṣẹ̀dá àwòrán"
+        ]
+      },
       "👨‍🎨": {
         "default": [
           "ọkùnrin",
@@ -4607,6 +6851,15 @@
         ],
         "tts": [
           "obìrin òṣèré"
+        ]
+      },
+      "🧑‍✈": {
+        "default": [
+          "atukọ̀-òfurufú",
+          "ọkọ̀-òfurufú"
+        ],
+        "tts": [
+          "atukọ̀-òfurufú"
         ]
       },
       "👨‍✈": {
@@ -4631,6 +6884,15 @@
           "obìrin awa ọkọ́ bàlú"
         ]
       },
+      "🧑‍🚀": {
+        "default": [
+          "arìnrìn-àjò lọ sí ayé mìíràn",
+          "rọ́kẹ́ẹ̀tì"
+        ],
+        "tts": [
+          "arìnrìn-àjò lọ sí ayé mìíràn"
+        ]
+      },
       "👨‍🚀": {
         "default": [
           "òkùnrin",
@@ -4639,7 +6901,7 @@
           "rọ́kẹ̀tì"
         ],
         "tts": [
-          "ọkùnrin olùwádìí inú òṣùpá ọkùnrin"
+          "ọkùnrin olùwádìí inú òṣùpá"
         ]
       },
       "👩‍🚀": {
@@ -4651,6 +6913,15 @@
         ],
         "tts": [
           "obìrinolùwádìí inú òṣùpá"
+        ]
+      },
+      "🧑‍🚒": {
+        "default": [
+          "ọkọ̀ panápaná",
+          "panápaná"
+        ],
+        "tts": [
+          "panápaná"
         ]
       },
       "👨‍🚒": {
@@ -4899,6 +7170,26 @@
           "Ọkunrin Pẹlu Kootu"
         ]
       },
+      "🤵‍♂": {
+        "default": [
+          "kóòtù àwọ̀lọsóde ìrọ̀lẹ́",
+          "ọkùnrin",
+          "ọkùnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́"
+        ],
+        "tts": [
+          "ọkùnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́"
+        ]
+      },
+      "🤵‍♀": {
+        "default": [
+          "kóòtù àwọ̀lọsóde ìrọ̀lẹ́",
+          "obìnrin",
+          "obìnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́"
+        ],
+        "tts": [
+          "obìnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́"
+        ]
+      },
       "👰": {
         "default": [
           "ìbòjú",
@@ -4908,6 +7199,26 @@
         ],
         "tts": [
           "Iyawo Pẹlu Iboju"
+        ]
+      },
+      "👰‍♂": {
+        "default": [
+          "aṣọ ìbojú",
+          "ọkùnrin",
+          "ọkùnrin tó fi aṣọ bojú"
+        ],
+        "tts": [
+          "ọkùnrin tó fi aṣọ bojú"
+        ]
+      },
+      "👰‍♀": {
+        "default": [
+          "aṣọ ìbojú",
+          "obìnrin",
+          "obìnrin tó fi aṣọ bojú"
+        ],
+        "tts": [
+          "obìnrin tó fi aṣọ bojú"
         ]
       },
       "🤰": {
@@ -4955,6 +7266,42 @@
           "ìfọ́mọlọ́yàn"
         ]
       },
+      "👩‍🍼": {
+        "default": [
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "obìnrin",
+          "obìnrin tó ń fọ́mọ lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "obìnrin tó ń fọ́mọ lóúnjẹ"
+        ]
+      },
+      "👨‍🍼": {
+        "default": [
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "ọkùnrin",
+          "ọkùnrin tó ń fọ́mọ lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "ọkùnrin tó ń fọ́mọ lóúnjẹ"
+        ]
+      },
+      "🧑‍🍼": {
+        "default": [
+          "ẹnìkan",
+          "ẹnìkan tó ń fọ́mọ lóúnjẹ",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "ẹnìkan tó ń fọ́mọ lóúnjẹ"
+        ]
+      },
       "👼": {
         "default": [
           "àlá",
@@ -4992,6 +7339,16 @@
           "Arabinrin Keresi"
         ]
       },
+      "🧑‍🎄": {
+        "default": [
+          "claus",
+          "kérésìmesì",
+          "mx claus"
+        ],
+        "tts": [
+          "mx claus"
+        ]
+      },
       "🦸": {
         "default": [
           "akin nlá",
@@ -5005,6 +7362,30 @@
           "akọni alágbára"
         ]
       },
+      "🦸‍♂": {
+        "default": [
+          "agbára ńlá",
+          "akọni",
+          "dára",
+          "ọkùnrin",
+          "ọkùnrin akọni ńlá"
+        ],
+        "tts": [
+          "ọkùnrin akọni ńlá"
+        ]
+      },
+      "🦸‍♀": {
+        "default": [
+          "agbára ńlá",
+          "akọni",
+          "dára",
+          "obìnrin",
+          "obìnrin akọni ńlá"
+        ],
+        "tts": [
+          "obìnrin akọni ńlá"
+        ]
+      },
       "🦹": {
         "default": [
           "[búburú",
@@ -5015,6 +7396,32 @@
         ],
         "tts": [
           "alátakọ̀ alágbára"
+        ]
+      },
+      "🦹‍♂": {
+        "default": [
+          "agbára ńlá",
+          "aṣèbájẹ́",
+          "ibi",
+          "ọ̀daràn",
+          "ọkùnrin",
+          "ọkùnrin aṣèbàjẹ́ ńlá"
+        ],
+        "tts": [
+          "ọkùnrin aṣèbàjẹ́ ńlá"
+        ]
+      },
+      "🦹‍♀": {
+        "default": [
+          "agbára ńlá",
+          "aṣèbàjẹ́",
+          "ibi",
+          "ọbìnrin",
+          "obìnrin aṣèbàjẹ́ ńlá",
+          "ọ̀daràn"
+        ],
+        "tts": [
+          "obìnrin aṣèbàjẹ́ ńlá"
         ]
       },
       "🧙": {
@@ -5236,7 +7643,7 @@
           "ojú"
         ],
         "tts": [
-          "ẹni N gba Iṣẹ"
+          "ẹni N gba Ifọwọwọnilara"
         ]
       },
       "💆‍♂": {
@@ -5247,7 +7654,7 @@
           "ọkùnrin tí ń gba ìfiránṣẹ́"
         ],
         "tts": [
-          "ọkùnrin tí ń gba ìfiránṣẹ́"
+          "ọkùnrin tí ń gba ifọwọwọnilara"
         ]
       },
       "💆‍♀": {
@@ -5258,7 +7665,7 @@
           "ojú"
         ],
         "tts": [
-          "obìnrin tí ń gba ìfiránṣẹ́"
+          "obìnrin tí ń gba ifọwọwọnilara"
         ]
       },
       "💇": {
@@ -5333,6 +7740,26 @@
           "ènìyàn dídúró"
         ]
       },
+      "🧍‍♂": {
+        "default": [
+          "ń dúró",
+          "ọkùnrin",
+          "ọkùnrin tó dúró"
+        ],
+        "tts": [
+          "ọkùnrin tó dúró"
+        ]
+      },
+      "🧍‍♀": {
+        "default": [
+          "ń dúró",
+          "obìnrin",
+          "obìnrin tó dúró"
+        ],
+        "tts": [
+          "obìnrin tó dúró"
+        ]
+      },
       "🧎": {
         "default": [
           "ènìyàn kíkúnlẹ̀",
@@ -5341,6 +7768,122 @@
         ],
         "tts": [
           "ènìyàn kíkúnlẹ̀"
+        ]
+      },
+      "🧎‍♂": {
+        "default": [
+          "ń kúnlẹ̀",
+          "ọkùnrin",
+          "ọkùnrin tó kúnlẹ̀"
+        ],
+        "tts": [
+          "ọkùnrin tó kúnlẹ̀"
+        ]
+      },
+      "🧎‍♀": {
+        "default": [
+          "ń kúnlẹ̀",
+          "obìnrin",
+          "obìnrin tó kúnlẹ̀"
+        ],
+        "tts": [
+          "obìnrin tó kúnlẹ̀"
+        ]
+      },
+      "🧑‍🦯": {
+        "default": [
+          "afọ́jú",
+          "ènìyàn pẹ̀lú ọ̀pá funfun",
+          "ìráàyèsí"
+        ],
+        "tts": [
+          "ènìyàn pẹ̀lú ọ̀pá funfun"
+        ]
+      },
+      "👨‍🦯": {
+        "default": [
+          "afọ́jú",
+          "ìráàyèsí",
+          "ọkùnrin",
+          "ọkùnrin pẹ̀lú ọ̀pá funfun"
+        ],
+        "tts": [
+          "ọkùnrin pẹ̀lú ọ̀pá funfun"
+        ]
+      },
+      "👩‍🦯": {
+        "default": [
+          "afọ́jú",
+          "ìráàyèsí",
+          "obìnrin",
+          "obìnrin pẹ̀lú ọ̀pá funfun"
+        ],
+        "tts": [
+          "obìnrin pẹ̀lú ọ̀pá funfun"
+        ]
+      },
+      "🧑‍🦼": {
+        "default": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò"
+        ]
+      },
+      "👨‍🦼": {
+        "default": [
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò"
+        ]
+      },
+      "👩‍🦼": {
+        "default": [
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò"
+        ]
+      },
+      "🧑‍🦽": {
+        "default": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí"
+        ]
+      },
+      "👨‍🦽": {
+        "default": [
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí"
+        ]
+      },
+      "👩‍🦽": {
+        "default": [
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí"
         ]
       },
       "🏃": {
@@ -5416,7 +7959,7 @@
           "oníjó"
         ],
         "tts": [
-          "awọn eniyan eleti ehoro n sariya"
+          "awọn eniyan eleti ehoro"
         ]
       },
       "👯‍♂": {
@@ -5428,7 +7971,7 @@
           "oníjó"
         ],
         "tts": [
-          "àwọn ọkùnrin elétí ehoro n ṣàríyá"
+          "àwọn ọkùnrin elétí ehoro"
         ]
       },
       "👯‍♀": {
@@ -5439,7 +7982,7 @@
           "oníjó"
         ],
         "tts": [
-          "awọn obìnrin eleti ehoro n sariya"
+          "awọn obìnrin eleti ehoro"
         ]
       },
       "🧖": {
@@ -5525,7 +8068,7 @@
           "yínyìn"
         ],
         "tts": [
-          "ẹni síkì"
+          "ẹni n síkì"
         ]
       },
       "🏂": {
@@ -5616,7 +8159,7 @@
           "ọkùnrin tí ń wakọ̀ ojú omo kékeré"
         ],
         "tts": [
-          "ọkùnrin tí ń wakọ̀ ojú omo kékeré"
+          "ọkùnrin tí ń wakọ̀ ojú omi kékeré"
         ]
       },
       "🚣‍♀": {
@@ -5627,7 +8170,7 @@
           "ọkọ́ ojú omi kékeré"
         ],
         "tts": [
-          "obìnrin tí ń wakọ̀ ojú omo kékeré"
+          "obìnrin tí ń wakọ̀ ojú omi kékeré"
         ]
       },
       "🏊": {
@@ -5838,7 +8381,7 @@
           "gídígbò"
         ],
         "tts": [
-          "àwọn ọkùnrin gídígbò"
+          "àwọn ọkùnrin ti n ja ijakadi"
         ]
       },
       "🤼‍♀": {
@@ -5848,7 +8391,7 @@
           "gídígbò"
         ],
         "tts": [
-          "àwọn obìnrn tí ń jà"
+          "àwọn obìnrn tí ń jà ijakadi"
         ]
       },
       "🤽": {
@@ -5995,6 +8538,20 @@
           "Ẹniyan Nibusun"
         ]
       },
+      "🧑‍🤝‍🧑": {
+        "default": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú"
+        ]
+      },
       "👭": {
         "default": [
           "dìmú",
@@ -6054,14 +8611,6 @@
           "Lọkọlaya Pẹlu ọkan"
         ]
       },
-      "👪": {
-        "default": [
-          "Ẹbí"
-        ],
-        "tts": [
-          "Ẹbí"
-        ]
-      },
       "🗣": {
         "default": [
           "bíríbírí",
@@ -6108,6 +8657,56 @@
           "àwọn ènìyàn tóndìmọ́ra"
         ]
       },
+      "👪": {
+        "default": [
+          "Ẹbí"
+        ],
+        "tts": [
+          "Ẹbí"
+        ]
+      },
+      "🧑‍🧑‍🧒": {
+        "default": [
+          "àgbàlagbà",
+          "ìdílé: àgbàlagbà",
+          "ìdílé: àgbàlagbà, àgbàlagbà, ọmọdé",
+          "ọmọdé"
+        ],
+        "tts": [
+          "ìdílé: àgbàlagbà, àgbàlagbà, ọmọdé"
+        ]
+      },
+      "🧑‍🧑‍🧒‍🧒": {
+        "default": [
+          "àgbàlagbà",
+          "ìdílé: àgbàlagbà",
+          "ìdílé: àgbàlagbà, àgbàlagbà, ọmọdé, ọmọdé",
+          "ọmọdé"
+        ],
+        "tts": [
+          "ìdílé: àgbàlagbà, àgbàlagbà, ọmọdé, ọmọdé"
+        ]
+      },
+      "🧑‍🧒": {
+        "default": [
+          "ìdílé: àgbàlagbà",
+          "ìdílé: àgbàlagbà, ọmọdé",
+          "ọmọdé"
+        ],
+        "tts": [
+          "ìdílé: àgbàlagbà, ọmọdé"
+        ]
+      },
+      "🧑‍🧒‍🧒": {
+        "default": [
+          "ìdílé: àgbàlagbà",
+          "ìdílé: àgbàlagbà, ọmọdé, ọmọdé",
+          "ọmọdé"
+        ],
+        "tts": [
+          "ìdílé: àgbàlagbà, ọmọdé, ọmọdé"
+        ]
+      },
       "👣": {
         "default": [
           "aṣọ",
@@ -6119,11 +8718,23 @@
           "Ipa ẹsẹ"
         ]
       },
+      "🫆": {
+        "default": [
+          "ààbò",
+          "ìdánimọ̀",
+          "ìtẹ̀ka",
+          "ìwádìí ọ̀ràn pẹ̀lú ìmọ̀ ìjìnlẹ̀"
+        ],
+        "tts": [
+          "ìtẹ̀ka"
+        ]
+      },
       "🦰": {
         "default": [
-          "irun pupa",
+          "irun",
           "jínjà",
-          "orípupa"
+          "orí-pupa",
+          "pupa"
         ],
         "tts": [
           "irun pupa"
@@ -6203,8 +8814,7 @@
         "default": [
           "ajá",
           "ǹkan ìsìn",
-          "ojú",
-          "Ojú ajá"
+          "ojú"
         ],
         "tts": [
           "Ojú ajá"
@@ -6230,6 +8840,18 @@
           "ajá ìtóni"
         ]
       },
+      "🐕‍🦺": {
+        "default": [
+          "ajá",
+          "ajá iṣẹ́ àwọn abirùn",
+          "ìráàyèsí",
+          "ìrànlọ́wọ́",
+          "iṣẹ́"
+        ],
+        "tts": [
+          "ajá iṣẹ́ àwọn abirùn"
+        ]
+      },
       "🐩": {
         "default": [
           "Ajá",
@@ -6246,7 +8868,7 @@
           "Oju Ikooko"
         ],
         "tts": [
-          "Oju Ikooko"
+          "Ikooko"
         ]
       },
       "🦊": {
@@ -6256,7 +8878,7 @@
           "Oju Kọlọkọlọ"
         ],
         "tts": [
-          "Oju Kọlọkọlọ"
+          "Kọlọkọlọ"
         ]
       },
       "🦝": {
@@ -6289,6 +8911,17 @@
           "Olóńgbò"
         ]
       },
+      "🐈‍⬛": {
+        "default": [
+          "àìṣoríire",
+          "dúdú",
+          "ológbó",
+          "ológbò dúdú"
+        ],
+        "tts": [
+          "ológbò dúdú"
+        ]
+      },
       "🦁": {
         "default": [
           "àmi oṣù ìbí",
@@ -6298,7 +8931,7 @@
           "Oju Kiniun"
         ],
         "tts": [
-          "Oju Kiniun"
+          "Kiniun"
         ]
       },
       "🐯": {
@@ -6410,8 +9043,7 @@
       "🐮": {
         "default": [
           "maalu",
-          "oju",
-          "Oju Maalu"
+          "oju"
         ],
         "tts": [
           "Oju Maalu"
@@ -6642,7 +9274,6 @@
       },
       "🐇": {
         "default": [
-          "ehoro",
           "Ehoro",
           "ǹkan ìsìn"
         ],
@@ -6689,11 +9320,21 @@
       "🐻": {
         "default": [
           "biari",
-          "oju",
-          "Oju Biari"
+          "oju"
         ],
         "tts": [
           "Oju Biari"
+        ]
+      },
+      "🐻‍❄": {
+        "default": [
+          "agbègbè òtútù",
+          "ẹranko beari",
+          "ẹranko beari funfun tí ń gbé orí yìnyín",
+          "funfun"
+        ],
+        "tts": [
+          "ẹranko beari funfun tí ń gbé orí yìnyín"
         ]
       },
       "🐨": {
@@ -6851,7 +9492,6 @@
       "🐧": {
         "default": [
           "ẹyẹ",
-          "ẹyẹ oko",
           "Ẹyẹ Oko"
         ],
         "tts": [
@@ -6871,7 +9511,6 @@
       },
       "🦅": {
         "default": [
-          "àṣá",
           "Àṣá",
           "ẹyẹ"
         ],
@@ -6882,7 +9521,6 @@
       "🦆": {
         "default": [
           "ẹyẹ",
-          "pẹ́pẹ́yẹ",
           "Pẹ́pẹ́yẹ"
         ],
         "tts": [
@@ -6979,6 +9617,18 @@
           "iye"
         ]
       },
+      "🐦‍⬛": {
+        "default": [
+          "dúdú",
+          "ẹyẹ",
+          "ẹyẹ ìwò",
+          "kannakánná",
+          "oríṣi kannakánná kan"
+        ],
+        "tts": [
+          "ẹyẹ dúdú"
+        ]
+      },
       "🪿": {
         "default": [
           "adie",
@@ -6991,6 +9641,18 @@
           "tòlotòló"
         ]
       },
+      "🐦‍🔥": {
+        "default": [
+          "àlá àìlèṣẹ",
+          "àtúnbí",
+          "àtúnwáyé",
+          "ẹyẹ ìtàn àìlèkú",
+          "ẹyẹ oníná"
+        ],
+        "tts": [
+          "ẹyẹ ìtàn àìlèkú"
+        ]
+      },
       "🐸": {
         "default": [
           "ojú",
@@ -6998,7 +9660,7 @@
           "ọpọlọ"
         ],
         "tts": [
-          "Oju Ọpọlọ"
+          "ọ̀pọ̀lọ́"
         ]
       },
       "🐊": {
@@ -7033,7 +9695,6 @@
       "🐍": {
         "default": [
           "àmi oṣù ìbí",
-          "ejò",
           "Ejò",
           "olùgbé",
           "Ophiuchus"
@@ -7150,7 +9811,6 @@
       "🦈": {
         "default": [
           "ẹja",
-          "ṣáàkì",
           "Ṣáàkì"
         ],
         "tts": [
@@ -7197,6 +9857,59 @@
           "ẹ̀ja jẹ́lì"
         ]
       },
+      "🦀": {
+        "default": [
+          "Alákàn",
+          "àmi oṣù ìbí",
+          "Cancer"
+        ],
+        "tts": [
+          "Alákàn"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "akàn",
+          "alakan",
+          "ounje omi"
+        ],
+        "tts": [
+          "akàn"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "Ede",
+          "edé",
+          "ẹja inú ìkarahun",
+          "kékeré",
+          "ónjẹ"
+        ],
+        "tts": [
+          "Ede"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "mólúsì",
+          "ónjẹ",
+          "Sikidi",
+          "síkídì"
+        ],
+        "tts": [
+          "Sikidi"
+        ]
+      },
+      "🦪": {
+        "default": [
+          "alákàn ńlá",
+          "bibe somi",
+          "pálì"
+        ],
+        "tts": [
+          "alákàn ńlá"
+        ]
+      },
       "🐌": {
         "default": [
           "Ìgbín"
@@ -7237,7 +9950,6 @@
       "🐝": {
         "default": [
           "kòkòrò",
-          "kòkòrò oyin",
           "Oyin"
         ],
         "tts": [
@@ -7520,7 +10232,6 @@
       "🌴": {
         "default": [
           "igi",
-          "ọpẹ",
           "Ọpẹ"
         ],
         "tts": [
@@ -7638,6 +10349,17 @@
           "Olu"
         ]
       },
+      "🪾": {
+        "default": [
+          "ìgbà òtútù",
+          "igi tí kò léwé",
+          "ọ̀gbẹlẹ̀",
+          "yàgàn"
+        ],
+        "tts": [
+          "igi tí kò léwẹ́"
+        ]
+      },
       "🍇": {
         "default": [
           "Èso",
@@ -7684,6 +10406,17 @@
         ],
         "tts": [
           "Orombo-wẹwẹ Chiffon"
+        ]
+      },
+      "🍋‍🟩": {
+        "default": [
+          "agbègbè mímóoru",
+          "àwọn èso ọsàn",
+          "èso",
+          "ọsàn wẹ́wẹ́"
+        ],
+        "tts": [
+          "ọsàn wẹ́wẹ́"
         ]
       },
       "🍌": {
@@ -7809,7 +10542,6 @@
       },
       "🫒": {
         "default": [
-          "olifi",
           "Olifi",
           "oúnjẹ́"
         ],
@@ -7850,7 +10582,6 @@
       },
       "🥔": {
         "default": [
-          "ànàmọ́",
           "Ànàmọ́",
           "ẹ̀fọ́",
           "ónjẹ"
@@ -7905,7 +10636,6 @@
       "🥒": {
         "default": [
           "ẹ̀fọ́",
-          "kùkúmbà",
           "Kùkúmbà",
           "ónjẹ",
           "píkù"
@@ -8008,6 +10738,30 @@
           "eap"
         ]
       },
+      "🍄‍🟫": {
+        "default": [
+          "ewébẹ̀",
+          "ìṣẹ̀dá",
+          "olú aláwọ̀ pupa rẹ́súrẹ́sú",
+          "olú híhù",
+          "oúnjẹ"
+        ],
+        "tts": [
+          "olú aláwọ̀ pupa rẹ́súrẹ́sú"
+        ]
+      },
+      "🫜": {
+        "default": [
+          "bíìtì",
+          "ẹ̀fọ́",
+          "gbòǹgbò",
+          "ọgbà",
+          "túníìpù"
+        ],
+        "tts": [
+          "ohun ọ̀gbìn onígbòǹgbọ̀"
+        ]
+      },
       "🍞": {
         "default": [
           "Búrẹ́dì",
@@ -8022,7 +10776,6 @@
           "búrẹ́dì",
           "faransé",
           "kírísẹ́ntì",
-          "kurosanti",
           "Kurosanti",
           "ónjẹ"
         ],
@@ -8251,7 +11004,6 @@
       },
       "🥚": {
         "default": [
-          "ẹyin",
           "Ẹyin",
           "ónjẹ"
         ],
@@ -8537,59 +11289,6 @@
         ],
         "tts": [
           "àpótí àgbéjáde"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "Alákàn",
-          "àmi oṣù ìbí",
-          "Cancer"
-        ],
-        "tts": [
-          "Alákàn"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "akàn",
-          "alakan",
-          "ounje omi"
-        ],
-        "tts": [
-          "akàn"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "Ede",
-          "edé",
-          "ẹja inú ìkarahun",
-          "kékeré",
-          "ónjẹ"
-        ],
-        "tts": [
-          "Ede"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "mólúsì",
-          "ónjẹ",
-          "Sikidi",
-          "síkídì"
-        ],
-        "tts": [
-          "Sikidi"
-        ]
-      },
-      "🦪": {
-        "default": [
-          "alákàn ńlá",
-          "bibe somi",
-          "pálì"
-        ],
-        "tts": [
-          "alákàn ńlá"
         ]
       },
       "🍦": {
@@ -8963,12 +11662,11 @@
           "júùsì"
         ],
         "tts": [
-          "ibi oúnjẹ́"
+          "àpótí ohun mímu"
         ]
       },
       "🧉": {
         "default": [
-          "egbé",
           "ẹgbẹ́",
           "mu"
         ],
@@ -8978,13 +11676,13 @@
       },
       "🧊": {
         "default": [
-          "di",
-          "dídì",
-          "kúùbù dídí",
-          "tutu"
+          "ìrísín àpótí",
+          "ọ̀kìtì yìyín inún òòkun",
+          "omi dídì",
+          "tútù"
         ],
         "tts": [
-          "dídì"
+          "omi dídì"
         ]
       },
       "🥢": {
@@ -8993,7 +11691,7 @@
           "ìlàrí"
         ],
         "tts": [
-          "ìlàrí"
+          "igi ìjẹun"
         ]
       },
       "🍽": {
@@ -9022,7 +11720,6 @@
       "🥄": {
         "default": [
           "ǹkan ilé ìdáná",
-          "ṣíbí",
           "Ṣíbí"
         ],
         "tts": [
@@ -9317,7 +12014,6 @@
       "🏠": {
         "default": [
           "ara ilé",
-          "ilé",
           "Ilé"
         ],
         "tts": [
@@ -10076,7 +12772,6 @@
       },
       "🚲": {
         "default": [
-          "kẹ̀kẹ́",
           "Kẹ̀kẹ́"
         ],
         "tts": [
@@ -10504,7 +13199,6 @@
       },
       "⌚": {
         "default": [
-          "ago",
           "Ago"
         ],
         "tts": [
@@ -11338,7 +14032,6 @@
       },
       "🔥": {
         "default": [
-          "iná",
           "Iná",
           "irinṣẹ́"
         ],
@@ -12157,7 +14850,6 @@
       "♟": {
         "default": [
           "dúpẹ́",
-          "pọ́nì ṣẹ́ẹ̀sì",
           "pọ́nì Ṣẹ́ẹ̀sì",
           "ṣẹ́ẹ̀sì"
         ],
@@ -12210,7 +14902,7 @@
           "tíátà"
         ],
         "tts": [
-          "Ere Awokọṣe"
+          "Eré oríìtàgé"
         ]
       },
       "🖼": {
@@ -12286,13 +14978,13 @@
       "👓": {
         "default": [
           "aṣọ",
-          "Digi",
+          "dígí",
           "ẹyinjú",
           "gíláásì ojú",
           "ìbòjú"
         ],
         "tts": [
-          "Digi"
+          "Dígí"
         ]
       },
       "🕶": {
@@ -12309,9 +15001,13 @@
       },
       "🥽": {
         "default": [
+          "bẹ̀ sómi",
           "gọ́gú",
-          "ibo ojú",
-          "wíwẹ́"
+          "ìdáàbò bò",
+          "jíjọ́ irin pọ̀",
+          "ojú",
+          "wíwẹ́",
+          "wíwẹ́ nínú odò pẹ̀lù ohun èlò tí a fi ń mí"
         ],
         "tts": [
           "gọ́gú"
@@ -12326,7 +15022,7 @@
           "onísegub"
         ],
         "tts": [
-          "aso laabi"
+          "aṣọ ilé ìṣàyẹ̀wò"
         ]
       },
       "🦺": {
@@ -12336,7 +15032,7 @@
           "pàjáwìrì"
         ],
         "tts": [
-          "aso abo"
+          "aṣọ àbò"
         ]
       },
       "👔": {
@@ -12356,7 +15052,7 @@
           "tṣẹ́ẹ̀tì"
         ],
         "tts": [
-          "Ṣẹẹti"
+          "Ṣẹ́ẹ̀tì"
         ]
       },
       "👖": {
@@ -13040,7 +15736,6 @@
       "🥁": {
         "default": [
           "igi ìlù",
-          "ìlù",
           "Ìlù",
           "orin"
         ],
@@ -13081,6 +15776,19 @@
         ],
         "tts": [
           "fèrè"
+        ]
+      },
+      "🪉": {
+        "default": [
+          "ẹgbẹ́ akọrin",
+          "háàpù",
+          "ìfẹ́",
+          "ohun èlò",
+          "orin",
+          "òrìṣà ìfẹ́"
+        ],
+        "tts": [
+          "háàpù"
         ]
       },
       "📱": {
@@ -13461,14 +16169,16 @@
       },
       "📔": {
         "default": [
-          "àfikọ̀wé pẹlu ẹyin ọlọṣọ",
+          "ẹ̀kọ́",
           "ẹ̀yìn ìwé",
+          "ilé-ìwé",
           "ìṣelẹ́ṣọ̀ó̩",
           "ìwé",
-          "ìwé àkọsílè̩"
+          "ìwé àkọsílè̩",
+          "ohun àfi ṣẹ̀ṣọ́"
         ],
         "tts": [
-          "àfikọ̀wé pẹlu ẹyin ọlọṣọ"
+          "àfikọ̀wé pẹ̀lú ẹ̀yìn ọlọ́ọ̀ṣó"
         ]
       },
       "📕": {
@@ -13478,7 +16188,7 @@
           "pípadé"
         ],
         "tts": [
-          "iwe ti pade"
+          "ìwé tó padé"
         ]
       },
       "📖": {
@@ -14482,6 +17192,19 @@
           "ìtọ́kasí"
         ]
       },
+      "⛓‍💥": {
+        "default": [
+          "àwọn ìdè ọwọ́ tàbí ẹsẹ̀",
+          "ìdè",
+          "ìdè tó ti já",
+          "já",
+          "ń já",
+          "òmìnira"
+        ],
+        "tts": [
+          "ìdè tó ti já"
+        ]
+      },
       "⛓": {
         "default": [
           "àwọn ṣe̩kẹ́ṣẹkẹ̀",
@@ -14531,6 +17254,18 @@
         ],
         "tts": [
           "àkàbà"
+        ]
+      },
+      "🪏": {
+        "default": [
+          "bù",
+          "gbẹ́",
+          "ihò",
+          "ṣọ̀bìrì",
+          "ṣọ̀bìrì ìgbẹ́lẹ̀"
+        ],
+        "tts": [
+          "ṣọ́bìrì"
         ]
       },
       "⚗": {
@@ -15469,6 +18204,14 @@
         ],
         "tts": [
           "àmì ìtó̩sọ́nà o̩lọ́fà tọ̀tún-tòsì"
+        ]
+      },
+      "↮": {
+        "default": [
+          "atọ́ka tó kọjú sí òsì àti ọ̀tún pẹ̀lú ìlà"
+        ],
+        "tts": [
+          "atọ́ka tó kọjú sí òsì àti ọ̀tún pẹ̀lú ìlà"
         ]
       },
       "↩": {
@@ -16542,6 +19285,18 @@
           "àmì ìdánimọ̀ iléeṣẹ́"
         ]
       },
+      "🫟": {
+        "default": [
+          "àbàwọ́n",
+          "dànù",
+          "fọ́nká",
+          "holi",
+          "ọ̀dà"
+        ],
+        "tts": [
+          "fọ́nká"
+        ]
+      },
       "🔠": {
         "default": [
           "ABCD",
@@ -16680,7 +19435,6 @@
       "Ⓜ": {
         "default": [
           "m",
-          "M òdo",
           "òdo"
         ],
         "tts": [
@@ -17368,6 +20122,30 @@
           "àsíá olóṣùmarè"
         ]
       },
+      "🏳‍⚧": {
+        "default": [
+          "aṣàyípadà-akọ-n-bábo",
+          "àsíá",
+          "búlúù rẹ́súrẹ́sú",
+          "funfun",
+          "pinki"
+        ],
+        "tts": [
+          "àsíá aṣàyípadà-akọ-n-bábo"
+        ]
+      },
+      "🏴‍☠": {
+        "default": [
+          "àsíá jàgùdà orí omi-òkun",
+          "jàgùdà orí omi-òkun",
+          "Jolly Roger",
+          "ohun-ìṣura",
+          "olè-jíjà"
+        ],
+        "tts": [
+          "àsíá jàgùdà orí omi-òkun"
+        ]
+      },
       "¢": {
         "default": [
           "sẹ́ntì"
@@ -17410,6 +20188,35 @@
           "yẹ́nì"
         ]
       },
+      "₢": {
+        "default": [
+          "BRB",
+          "kùrùséírò",
+          "oríṣi owó"
+        ],
+        "tts": [
+          "kùrùséírò"
+        ]
+      },
+      "₣": {
+        "default": [
+          "fíráànkì",
+          "fíráànkì faransé",
+          "oríṣi owó"
+        ],
+        "tts": [
+          "fíráànkì faransé"
+        ]
+      },
+      "₤": {
+        "default": [
+          "lírà",
+          "oríṣi owó"
+        ],
+        "tts": [
+          "lírà"
+        ]
+      },
       "₥": {
         "default": [
           "míìlì",
@@ -17439,12 +20246,50 @@
           "yúrò"
         ]
       },
+      "₰": {
+        "default": [
+          "éépìnì jámánì",
+          "oríṣi owó",
+          "pfennig"
+        ],
+        "tts": [
+          "éépìnì jámánì"
+        ]
+      },
       "₱": {
         "default": [
           "pẹ́sò"
         ],
         "tts": [
           "pẹ́sò"
+        ]
+      },
+      "₳": {
+        "default": [
+          "ARA",
+          "australi",
+          "oríṣi owó"
+        ],
+        "tts": [
+          "australi"
+        ]
+      },
+      "₶": {
+        "default": [
+          "livre tournois",
+          "oríṣi owó"
+        ],
+        "tts": [
+          "livre tournois"
+        ]
+      },
+      "₷": {
+        "default": [
+          "oríṣi owó",
+          "spesmilo"
+        ],
+        "tts": [
+          "spesmilo"
         ]
       },
       "₹": {
@@ -17510,6 +20355,15 @@
           "síkuwe"
         ]
       },
+      "₨": {
+        "default": [
+          "oríṣi owó",
+          "rupee"
+        ],
+        "tts": [
+          "rupee"
+        ]
+      },
       "µ": {
         "default": [
           "ami die",
@@ -17517,6 +20371,15 @@
         ],
         "tts": [
           "ami die"
+        ]
+      },
+      "﷼": {
+        "default": [
+          "oríṣi owó",
+          "riali"
+        ],
+        "tts": [
+          "riali"
         ]
       }
     }

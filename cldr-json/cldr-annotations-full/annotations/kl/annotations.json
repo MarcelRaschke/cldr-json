@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "kl"
     },
     "annotations": {
@@ -1406,7 +1403,6 @@
       "👌": {
         "default": [
           "OK-håndtegn",
-          "ok-tegn",
           "OK-tegn"
         ],
         "tts": [
@@ -1415,7 +1411,6 @@
       },
       "✌": {
         "default": [
-          "v-tegn",
           "V-tegn",
           "yeah"
         ],
@@ -3525,18 +3520,6 @@
           "par med hjerte"
         ]
       },
-      "👪": {
-        "default": [
-          "barn",
-          "familie",
-          "far",
-          "menneske",
-          "mor"
-        ],
-        "tts": [
-          "familie"
-        ]
-      },
       "🗣": {
         "default": [
           "ansigt",
@@ -3565,6 +3548,18 @@
         ],
         "tts": [
           "buster i silhuet"
+        ]
+      },
+      "👪": {
+        "default": [
+          "barn",
+          "familie",
+          "far",
+          "menneske",
+          "mor"
+        ],
+        "tts": [
+          "familie"
         ]
       },
       "👣": {
@@ -4295,6 +4290,45 @@
         ],
         "tts": [
           "konkylie"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "krabbe",
+          "krebsen",
+          "stjernetegn"
+        ],
+        "tts": [
+          "krabbe"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "dyr",
+          "havdyr",
+          "mad",
+          "reje",
+          "skaldyr"
+        ],
+        "tts": [
+          "reje"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "arme",
+          "blæk",
+          "blæksprutte",
+          "bløddyr",
+          "dyr",
+          "flerarmet",
+          "havdyr",
+          "mad",
+          "multitasking",
+          "sprutte"
+        ],
+        "tts": [
+          "sprutte"
         ]
       },
       "🐌": {
@@ -5187,45 +5221,6 @@
         ],
         "tts": [
           "iskugler på pind"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "krabbe",
-          "krebsen",
-          "stjernetegn"
-        ],
-        "tts": [
-          "krabbe"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "dyr",
-          "havdyr",
-          "mad",
-          "reje",
-          "skaldyr"
-        ],
-        "tts": [
-          "reje"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "arme",
-          "blæk",
-          "blæksprutte",
-          "bløddyr",
-          "dyr",
-          "flerarmet",
-          "havdyr",
-          "mad",
-          "multitasking",
-          "sprutte"
-        ],
-        "tts": [
-          "sprutte"
         ]
       },
       "🍦": {

@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "br"
     },
     "annotations": {
@@ -808,8 +805,7 @@
           "krocʼhen teñval",
           "lid",
           "Nedeleg",
-          "tad",
-          "Tad Nedeleg"
+          "tad"
         ],
         "tts": [
           "Tad Nedeleg : krocʼhen teñval"
@@ -822,7 +818,6 @@
           "krocʼhen teñval",
           "lid",
           "mamm",
-          "Mamm Nedeleg",
           "Nedeleg"
         ],
         "tts": [
@@ -3406,11 +3401,6 @@
           "naira Nigeria"
         ]
       },
-      "₧": {
-        "tts": [
-          "peseta Spagn"
-        ]
-      },
       "₪": {
         "tts": [
           "shekel nevez Israel"
@@ -3464,6 +3454,11 @@
       "₾": {
         "tts": [
           "lari Jorjia"
+        ]
+      },
+      "₧": {
+        "tts": [
+          "peseta Spagn"
         ]
       }
     }

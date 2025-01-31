@@ -2,9 +2,6 @@
   "main": {
     "nl-SR": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "nl",
         "territory": "SR"
       },

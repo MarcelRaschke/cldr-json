@@ -2,9 +2,6 @@
   "main": {
     "saq": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "saq"
       },
       "localeDisplayNames": {

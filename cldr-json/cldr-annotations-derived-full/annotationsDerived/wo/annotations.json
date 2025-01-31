@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "wo"
     },
     "annotations": {
@@ -607,9 +604,50 @@
           "laxo waaw-kay: xeesaayu der bu ñuul"
         ]
       },
+      "🤌🏻": {
+        "default": [
+          "xeesaayu der bu woyof"
+        ],
+        "tts": [
+          "dompat baaraam: xeesaayu der bu woyof"
+        ]
+      },
+      "🤌🏼": {
+        "default": [
+          "xeesaayu der bu xeereer"
+        ],
+        "tts": [
+          "dompat baaraam: xeesaayu der bu xeereer"
+        ]
+      },
+      "🤌🏽": {
+        "default": [
+          "xeesaayu der bu yam"
+        ],
+        "tts": [
+          "dompat baaraam: xeesaayu der bu yam"
+        ]
+      },
+      "🤌🏾": {
+        "default": [
+          "xeesaayu der bu xawa ñuul"
+        ],
+        "tts": [
+          "dompat baaraam: xeesaayu der bu xawa ñuul"
+        ]
+      },
+      "🤌🏿": {
+        "default": [
+          "xeesaayu der bu ñuul"
+        ],
+        "tts": [
+          "dompat baaraam: xeesaayu der bu ñuul"
+        ]
+      },
       "✌🏻": {
         "default": [
-          "loxo",
+          "jaam",
+          "jaam loxo",
           "ndam",
           "v",
           "xeesaayu der bu woyof"
@@ -620,7 +658,8 @@
       },
       "✌🏼": {
         "default": [
-          "loxo",
+          "jaam",
+          "jaam loxo",
           "ndam",
           "v",
           "xeesaayu der bu xeereer"
@@ -631,7 +670,8 @@
       },
       "✌🏽": {
         "default": [
-          "loxo",
+          "jaam",
+          "jaam loxo",
           "ndam",
           "v",
           "xeesaayu der bu yam"
@@ -642,7 +682,8 @@
       },
       "✌🏾": {
         "default": [
-          "loxo",
+          "jaam",
+          "jaam loxo",
           "ndam",
           "v",
           "xeesaayu der bu xawa ñuul"
@@ -653,7 +694,8 @@
       },
       "✌🏿": {
         "default": [
-          "loxo",
+          "jaam",
+          "jaam loxo",
           "ndam",
           "v",
           "xeesaayu der bu ñuul"
@@ -2624,7 +2666,7 @@
           "xeesaayu der bu woyof"
         ],
         "tts": [
-          "mag: xeesaayu der bu woyof"
+          "nit: xeesaayu der bu woyof"
         ]
       },
       "🧑🏼": {
@@ -2634,7 +2676,7 @@
           "xeesaayu der bu xeereer"
         ],
         "tts": [
-          "mag: xeesaayu der bu xeereer"
+          "nit: xeesaayu der bu xeereer"
         ]
       },
       "🧑🏽": {
@@ -2644,7 +2686,7 @@
           "xeesaayu der bu yam"
         ],
         "tts": [
-          "mag: xeesaayu der bu yam"
+          "nit: xeesaayu der bu yam"
         ]
       },
       "🧑🏾": {
@@ -2654,7 +2696,7 @@
           "xeesaayu der bu xawa ñuul"
         ],
         "tts": [
-          "mag: xeesaayu der bu xawa ñuul"
+          "nit: xeesaayu der bu xawa ñuul"
         ]
       },
       "🧑🏿": {
@@ -2664,7 +2706,7 @@
           "xeesaayu der bu ñuul"
         ],
         "tts": [
-          "mag: xeesaayu der bu ñuul"
+          "nit: xeesaayu der bu ñuul"
         ]
       },
       "👱🏻": {
@@ -2721,500 +2763,500 @@
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu woyof",
           "xeesaayu der bu xeereer"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu woyof, xeesaayu der bu xeereer"
+          "fóon: nit, nit, xeesaayu der bu woyof, xeesaayu der bu xeereer"
         ]
       },
       "🧑🏻‍❤‍💋‍🧑🏽": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu woyof",
           "xeesaayu der bu yam"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu woyof, xeesaayu der bu yam"
+          "fóon: nit, nit, xeesaayu der bu woyof, xeesaayu der bu yam"
         ]
       },
       "🧑🏻‍❤‍💋‍🧑🏾": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu woyof",
           "xeesaayu der bu xawa ñuul"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu woyof, xeesaayu der bu xawa ñuul"
+          "fóon: nit, nit, xeesaayu der bu woyof, xeesaayu der bu xawa ñuul"
         ]
       },
       "🧑🏻‍❤‍💋‍🧑🏿": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu woyof"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu woyof, xeesaayu der bu ñuul"
+          "fóon: nit, nit, xeesaayu der bu woyof, xeesaayu der bu ñuul"
         ]
       },
       "🧑🏼‍❤‍💋‍🧑🏻": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu woyof",
           "xeesaayu der bu xeereer"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu xeereer, xeesaayu der bu woyof"
+          "fóon: nit, nit, xeesaayu der bu xeereer, xeesaayu der bu woyof"
         ]
       },
       "🧑🏼‍❤‍💋‍🧑🏽": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu xeereer",
           "xeesaayu der bu yam"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu xeereer, xeesaayu der bu yam"
+          "fóon: nit, nit, xeesaayu der bu xeereer, xeesaayu der bu yam"
         ]
       },
       "🧑🏼‍❤‍💋‍🧑🏾": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu xawa ñuul",
           "xeesaayu der bu xeereer"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu xeereer, xeesaayu der bu xawa ñuul"
+          "fóon: nit, nit, xeesaayu der bu xeereer, xeesaayu der bu xawa ñuul"
         ]
       },
       "🧑🏼‍❤‍💋‍🧑🏿": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu xeereer"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu xeereer, xeesaayu der bu ñuul"
+          "fóon: nit, nit, xeesaayu der bu xeereer, xeesaayu der bu ñuul"
         ]
       },
       "🧑🏽‍❤‍💋‍🧑🏻": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu woyof",
           "xeesaayu der bu yam"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu yam, xeesaayu der bu woyof"
+          "fóon: nit, nit, xeesaayu der bu yam, xeesaayu der bu woyof"
         ]
       },
       "🧑🏽‍❤‍💋‍🧑🏼": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu xeereer",
           "xeesaayu der bu yam"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu yam, xeesaayu der bu xeereer"
+          "fóon: nit, nit, xeesaayu der bu yam, xeesaayu der bu xeereer"
         ]
       },
       "🧑🏽‍❤‍💋‍🧑🏾": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu xawa ñuul",
           "xeesaayu der bu yam"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu yam, xeesaayu der bu xawa ñuul"
+          "fóon: nit, nit, xeesaayu der bu yam, xeesaayu der bu xawa ñuul"
         ]
       },
       "🧑🏽‍❤‍💋‍🧑🏿": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu yam"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu yam, xeesaayu der bu ñuul"
+          "fóon: nit, nit, xeesaayu der bu yam, xeesaayu der bu ñuul"
         ]
       },
       "🧑🏾‍❤‍💋‍🧑🏻": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu woyof",
           "xeesaayu der bu xawa ñuul"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu xawa ñuul, xeesaayu der bu woyof"
+          "fóon: nit, nit, xeesaayu der bu xawa ñuul, xeesaayu der bu woyof"
         ]
       },
       "🧑🏾‍❤‍💋‍🧑🏼": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu xawa ñuul",
           "xeesaayu der bu xeereer"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu xawa ñuul, xeesaayu der bu xeereer"
+          "fóon: nit, nit, xeesaayu der bu xawa ñuul, xeesaayu der bu xeereer"
         ]
       },
       "🧑🏾‍❤‍💋‍🧑🏽": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu xawa ñuul",
           "xeesaayu der bu yam"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu xawa ñuul, xeesaayu der bu yam"
+          "fóon: nit, nit, xeesaayu der bu xawa ñuul, xeesaayu der bu yam"
         ]
       },
       "🧑🏾‍❤‍💋‍🧑🏿": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu xawa ñuul"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu xawa ñuul, xeesaayu der bu ñuul"
+          "fóon: nit, nit, xeesaayu der bu xawa ñuul, xeesaayu der bu ñuul"
         ]
       },
       "🧑🏿‍❤‍💋‍🧑🏻": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu woyof"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu ñuul, xeesaayu der bu woyof"
+          "fóon: nit, nit, xeesaayu der bu ñuul, xeesaayu der bu woyof"
         ]
       },
       "🧑🏿‍❤‍💋‍🧑🏼": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu xeereer"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu ñuul, xeesaayu der bu xeereer"
+          "fóon: nit, nit, xeesaayu der bu ñuul, xeesaayu der bu xeereer"
         ]
       },
       "🧑🏿‍❤‍💋‍🧑🏽": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu yam"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu ñuul, xeesaayu der bu yam"
+          "fóon: nit, nit, xeesaayu der bu ñuul, xeesaayu der bu yam"
         ]
       },
       "🧑🏿‍❤‍💋‍🧑🏾": {
         "default": [
           "fóon",
           "góor ak jigéen",
-          "mag",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu xawa ñuul"
         ],
         "tts": [
-          "fóon: mag, mag, xeesaayu der bu ñuul, xeesaayu der bu xawa ñuul"
+          "fóon: nit, nit, xeesaayu der bu ñuul, xeesaayu der bu xawa ñuul"
         ]
       },
       "🧑🏻‍❤‍🧑🏼": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu woyof",
           "xeesaayu der bu xeereer",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu woyof, xeesaayu der bu xeereer"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu woyof, xeesaayu der bu xeereer"
         ]
       },
       "🧑🏻‍❤‍🧑🏽": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu woyof",
           "xeesaayu der bu yam",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu woyof, xeesaayu der bu yam"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu woyof, xeesaayu der bu yam"
         ]
       },
       "🧑🏻‍❤‍🧑🏾": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu woyof",
           "xeesaayu der bu xawa ñuul",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu woyof, xeesaayu der bu xawa ñuul"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu woyof, xeesaayu der bu xawa ñuul"
         ]
       },
       "🧑🏻‍❤‍🧑🏿": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu woyof",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu woyof, xeesaayu der bu ñuul"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu woyof, xeesaayu der bu ñuul"
         ]
       },
       "🧑🏼‍❤‍🧑🏻": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu woyof",
           "xeesaayu der bu xeereer",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu xeereer, xeesaayu der bu woyof"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu xeereer, xeesaayu der bu woyof"
         ]
       },
       "🧑🏼‍❤‍🧑🏽": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu xeereer",
           "xeesaayu der bu yam",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu xeereer, xeesaayu der bu yam"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu xeereer, xeesaayu der bu yam"
         ]
       },
       "🧑🏼‍❤‍🧑🏾": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu xawa ñuul",
           "xeesaayu der bu xeereer",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu xeereer, xeesaayu der bu xawa ñuul"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu xeereer, xeesaayu der bu xawa ñuul"
         ]
       },
       "🧑🏼‍❤‍🧑🏿": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu xeereer",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu xeereer, xeesaayu der bu ñuul"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu xeereer, xeesaayu der bu ñuul"
         ]
       },
       "🧑🏽‍❤‍🧑🏻": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu woyof",
           "xeesaayu der bu yam",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu yam, xeesaayu der bu woyof"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu yam, xeesaayu der bu woyof"
         ]
       },
       "🧑🏽‍❤‍🧑🏼": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu xeereer",
           "xeesaayu der bu yam",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu yam, xeesaayu der bu xeereer"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu yam, xeesaayu der bu xeereer"
         ]
       },
       "🧑🏽‍❤‍🧑🏾": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu xawa ñuul",
           "xeesaayu der bu yam",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu yam, xeesaayu der bu xawa ñuul"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu yam, xeesaayu der bu xawa ñuul"
         ]
       },
       "🧑🏽‍❤‍🧑🏿": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu yam",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu yam, xeesaayu der bu ñuul"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu yam, xeesaayu der bu ñuul"
         ]
       },
       "🧑🏾‍❤‍🧑🏻": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu woyof",
           "xeesaayu der bu xawa ñuul",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu xawa ñuul, xeesaayu der bu woyof"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu xawa ñuul, xeesaayu der bu woyof"
         ]
       },
       "🧑🏾‍❤‍🧑🏼": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu xawa ñuul",
           "xeesaayu der bu xeereer",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu xawa ñuul, xeesaayu der bu xeereer"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu xawa ñuul, xeesaayu der bu xeereer"
         ]
       },
       "🧑🏾‍❤‍🧑🏽": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu xawa ñuul",
           "xeesaayu der bu yam",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu xawa ñuul, xeesaayu der bu yam"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu xawa ñuul, xeesaayu der bu yam"
         ]
       },
       "🧑🏾‍❤‍🧑🏿": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu xawa ñuul",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu xawa ñuul, xeesaayu der bu ñuul"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu xawa ñuul, xeesaayu der bu ñuul"
         ]
       },
       "🧑🏿‍❤‍🧑🏻": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu woyof",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu ñuul, xeesaayu der bu woyof"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu ñuul, xeesaayu der bu woyof"
         ]
       },
       "🧑🏿‍❤‍🧑🏼": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu xeereer",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu ñuul, xeesaayu der bu xeereer"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu ñuul, xeesaayu der bu xeereer"
         ]
       },
       "🧑🏿‍❤‍🧑🏽": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu yam",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu ñuul, xeesaayu der bu yam"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu ñuul, xeesaayu der bu yam"
         ]
       },
       "🧑🏿‍❤‍🧑🏾": {
         "default": [
           "góor ak jigéen",
-          "mag",
           "mbëggeel",
+          "nit",
           "xeesaayu der bu ñuul",
           "xeesaayu der bu xawa ñuul",
           "xol ak ñaar ñu bëggante"
         ],
         "tts": [
-          "xol ak ñaar ñu bëggante: mag, mag, xeesaayu der bu ñuul, xeesaayu der bu xawa ñuul"
+          "xol ak ñaar ñu bëggante: nit, nit, xeesaayu der bu ñuul, xeesaayu der bu xawa ñuul"
         ]
       },
       "👨🏻": {
@@ -10728,7 +10770,6 @@
           "nowel",
           "papa",
           "pere",
-          "Pere nowel",
           "xeesaayu der bu woyof"
         ],
         "tts": [
@@ -10741,7 +10782,6 @@
           "nowel",
           "papa",
           "pere",
-          "Pere nowel",
           "xeesaayu der bu xeereer"
         ],
         "tts": [
@@ -10754,7 +10794,6 @@
           "nowel",
           "papa",
           "pere",
-          "Pere nowel",
           "xeesaayu der bu yam"
         ],
         "tts": [
@@ -10767,7 +10806,6 @@
           "nowel",
           "papa",
           "pere",
-          "Pere nowel",
           "xeesaayu der bu xawa ñuul"
         ],
         "tts": [
@@ -10780,7 +10818,6 @@
           "nowel",
           "papa",
           "pere",
-          "Pere nowel",
           "xeesaayu der bu ñuul"
         ],
         "tts": [
@@ -16845,6 +16882,96 @@
       "¤": {
         "tts": [
           "Xaalis buñ Xamul"
+        ]
+      },
+      "֏": {
+        "tts": [
+          "Armenian Dram"
+        ]
+      },
+      "؋": {
+        "tts": [
+          "Afghan Afghani"
+        ]
+      },
+      "৳": {
+        "tts": [
+          "Bangladeshi Taka"
+        ]
+      },
+      "฿": {
+        "tts": [
+          "Thai Baht"
+        ]
+      },
+      "៛": {
+        "tts": [
+          "Cambodian Riel"
+        ]
+      },
+      "₡": {
+        "tts": [
+          "Costa Rican Colón"
+        ]
+      },
+      "₦": {
+        "tts": [
+          "Nigerian Naira"
+        ]
+      },
+      "₪": {
+        "tts": [
+          "Israeli New Shekel"
+        ]
+      },
+      "₫": {
+        "tts": [
+          "Vietnamese Dong"
+        ]
+      },
+      "₭": {
+        "tts": [
+          "Laotian Kip"
+        ]
+      },
+      "₮": {
+        "tts": [
+          "Mongolian Tugrik"
+        ]
+      },
+      "₲": {
+        "tts": [
+          "Paraguayan Guaranis"
+        ]
+      },
+      "₴": {
+        "tts": [
+          "UAHS"
+        ]
+      },
+      "₵": {
+        "tts": [
+          "Ghanaian Cedi"
+        ]
+      },
+      "₸": {
+        "tts": [
+          "Kazakhstani Tenge"
+        ]
+      },
+      "₺": {
+        "tts": [
+          "Turkish Lira"
+        ]
+      },
+      "₼": {
+        "tts": [
+          "Azerbaijani Manat"
+        ]
+      },
+      "₾": {
+        "tts": [
+          "Georgian Lari"
         ]
       }
     }

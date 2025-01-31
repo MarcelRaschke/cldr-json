@@ -2,9 +2,6 @@
   "main": {
     "hi-Latn": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "en",
         "script": "Latn"
       },
@@ -12,7 +9,7 @@
         "languages": {
           "aa": "Afar",
           "ab": "Abkhazian",
-          "ace": "Achinese",
+          "ace": "Acehnese",
           "ach": "Acoli",
           "ada": "Adangme",
           "ady": "Adyghe",
@@ -72,7 +69,7 @@
           "bfd": "Bafut",
           "bfq": "Badaga",
           "bg": "Bulgarian",
-          "bgc": "Haryanvi",
+          "bgc": "Hariyaanvi",
           "bgn": "Western Balochi",
           "bho": "Bhojpuri",
           "bi": "Bislama",
@@ -81,6 +78,7 @@
           "bjn": "Banjar",
           "bkm": "Kom",
           "bla": "Siksika",
+          "blo": "Anii",
           "blt": "Tai Dam",
           "bm": "Bambara",
           "bn": "Bangla",
@@ -226,7 +224,6 @@
           "gmh": "Middle High German",
           "gn": "Guarani",
           "goh": "Old High German",
-          "gom": "Goan Konkani",
           "gon": "Gondi",
           "gor": "Gorontalo",
           "got": "Gothic",
@@ -341,6 +338,7 @@
           "kv": "Komi",
           "kw": "Cornish",
           "kwk": "Kwakʼwala",
+          "kxv": "Kuvi",
           "ky": "Kyrgyz",
           "ky-alt-variant": "Kirghiz",
           "la": "Latin",
@@ -413,6 +411,7 @@
           "mua": "Mundang",
           "mul": "Multiple languages",
           "mus": "Muscogee",
+          "mus-alt-official": "Mvskoke",
           "mwl": "Mirandese",
           "mwr": "Marwari",
           "mwv": "Mentawai",
@@ -649,6 +648,7 @@
           "vi": "Vietnamese",
           "vls": "West Flemish",
           "vmf": "Main-Franconian",
+          "vmw": "Makhuwa",
           "vo": "Volapük",
           "vot": "Votic",
           "vro": "Võro",
@@ -664,6 +664,7 @@
           "xal": "Kalmyk",
           "xh": "Xhosa",
           "xmf": "Mingrelian",
+          "xnr": "Kangri",
           "xog": "Soga",
           "yao": "Yao",
           "yap": "Yapese",

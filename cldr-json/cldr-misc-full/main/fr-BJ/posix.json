@@ -2,9 +2,6 @@
   "main": {
     "fr-BJ": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "fr",
         "territory": "BJ"
       },

@@ -2,9 +2,6 @@
   "main": {
     "ceb": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ceb"
       },
       "units": {
@@ -39,6 +36,12 @@
           "10p-24": {
             "unitPrefixPattern": "yocto{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "deka{0}"
           },
@@ -68,6 +71,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "yotta{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "kibi{0}"
@@ -420,11 +429,6 @@
             "unitPattern-count-one": "{0} ka calorie",
             "unitPattern-count-other": "{0} ka mga calorie"
           },
-          "energy-foodcalorie": {
-            "displayName": "mga Calorie",
-            "unitPattern-count-one": "{0} ka Calorie",
-            "unitPattern-count-other": "{0} ka mga Calorie"
-          },
           "energy-kilojoule": {
             "displayName": "mga kilojoule",
             "unitPattern-count-one": "{0} ka kilojoule",
@@ -513,20 +517,6 @@
             "displayName": "mga pixel kada pulgada",
             "unitPattern-count-one": "{0} ka pixel kada pulgada",
             "unitPattern-count-other": "{0} ka mga pixel kada pulgada"
-          },
-          "graphics-dot-per-centimeter": {
-            "displayName": "mga dot kada sentimetro",
-            "unitPattern-count-one": "{0} ka dot kada sentimetro",
-            "unitPattern-count-other": "{0} ka mga dot kada sentimetro"
-          },
-          "graphics-dot-per-inch": {
-            "displayName": "mga dot kada pulgada",
-            "unitPattern-count-one": "{0} ka dot kada pulgada",
-            "unitPattern-count-other": "{0} ka mga dot kada pulgada"
-          },
-          "graphics-dot": {
-            "unitPattern-count-one": "{0} dot",
-            "unitPattern-count-other": "{0} px"
           },
           "length-earth-radius": {
             "displayName": "radyus sa yuta",
@@ -839,6 +829,10 @@
             "unitPattern-count-one": "{0} ka knot",
             "unitPattern-count-other": "{0} ka mga knot"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "{0}°"
@@ -1042,6 +1036,19 @@
             "unitPattern-count-one": "{0} ka Imp. quart",
             "unitPattern-count-other": "{0} ka Imp. quart"
           },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "night",
+            "unitPattern-count-other": "{0} night",
+            "perUnitPattern": "{0}/night"
+          },
           "coordinateUnit": {
             "displayName": "cardinal nga direksyon",
             "east": "{0} sidlakan",
@@ -1081,6 +1088,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -1110,6 +1123,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -1234,7 +1253,6 @@
           },
           "concentr-milligram-ofglucose-per-deciliter": {
             "displayName": "mg/dL",
-            "unitPattern-count-one": "{0} mg/dL",
             "unitPattern-count-other": "{0} mg/dL"
           },
           "concentr-millimole-per-liter": {
@@ -1263,7 +1281,6 @@
           },
           "concentr-mole": {
             "displayName": "mole",
-            "unitPattern-count-one": "{0} mol",
             "unitPattern-count-other": "{0} mol"
           },
           "consumption-liter-per-kilometer": {
@@ -1282,7 +1299,6 @@
           },
           "consumption-mile-per-gallon-imperial": {
             "displayName": "mga milya/gal Imp.",
-            "unitPattern-count-one": "{0} mpg Imp.",
             "unitPattern-count-other": "{0} mpg Imp."
           },
           "digital-petabyte": {
@@ -1404,12 +1420,10 @@
           },
           "electric-milliampere": {
             "displayName": "mga milliamp",
-            "unitPattern-count-one": "{0} mA",
             "unitPattern-count-other": "{0} mA"
           },
           "electric-ohm": {
             "displayName": "mga ohm",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
@@ -1755,6 +1769,10 @@
             "displayName": "kn",
             "unitPattern-count-other": "{0} kn"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "{0}°"
@@ -1881,7 +1899,6 @@
           },
           "volume-fluid-ounce-imperial": {
             "displayName": "Imp. fl oz",
-            "unitPattern-count-one": "{0} fl oz Imp.",
             "unitPattern-count-other": "{0} fl oz Imp."
           },
           "volume-tablespoon": {
@@ -1929,6 +1946,19 @@
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0} qt Imp."
           },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "night",
+            "unitPattern-count-other": "{0} night",
+            "perUnitPattern": "{0}/night"
+          },
           "coordinateUnit": {
             "displayName": "direksyon",
             "east": "{0} E",
@@ -1968,6 +1998,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -1997,6 +2033,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -2121,7 +2163,6 @@
           },
           "concentr-milligram-ofglucose-per-deciliter": {
             "displayName": "mg/dL",
-            "unitPattern-count-one": "{0} mg/dL",
             "unitPattern-count-other": "{0} mg/dL"
           },
           "concentr-millimole-per-liter": {
@@ -2150,7 +2191,6 @@
           },
           "concentr-mole": {
             "displayName": "mole",
-            "unitPattern-count-one": "{0} mol",
             "unitPattern-count-other": "{0} mol"
           },
           "consumption-liter-per-kilometer": {
@@ -2169,7 +2209,6 @@
           },
           "consumption-mile-per-gallon-imperial": {
             "displayName": "mga milya/gal Imp.",
-            "unitPattern-count-one": "{0} mpg Imp.",
             "unitPattern-count-other": "{0} mpg Imp."
           },
           "digital-petabyte": {
@@ -2292,12 +2331,10 @@
           },
           "electric-milliampere": {
             "displayName": "mga milliamp",
-            "unitPattern-count-one": "{0} mA",
             "unitPattern-count-other": "{0} mA"
           },
           "electric-ohm": {
             "displayName": "mga ohm",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
@@ -2649,6 +2686,10 @@
             "displayName": "kn",
             "unitPattern-count-other": "{0} kn"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "{0}°"
@@ -2775,7 +2816,6 @@
           },
           "volume-fluid-ounce-imperial": {
             "displayName": "Imp. fl oz",
-            "unitPattern-count-one": "{0} fl oz Imp.",
             "unitPattern-count-other": "{0} fl oz Imp."
           },
           "volume-tablespoon": {
@@ -2822,6 +2862,19 @@
           "volume-quart-imperial": {
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0} qt Imp."
+          },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "night",
+            "unitPattern-count-other": "{0} night",
+            "perUnitPattern": "{0}/night"
           },
           "coordinateUnit": {
             "displayName": "direksyon",

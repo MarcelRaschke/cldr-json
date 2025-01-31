@@ -2,9 +2,6 @@
   "main": {
     "to": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "to"
       },
       "units": {
@@ -39,6 +36,12 @@
           "10p-24": {
             "unitPrefixPattern": "iōkito{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "teka{0}"
           },
@@ -68,6 +71,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "iota{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "kipi{0}"
@@ -398,7 +407,7 @@
           },
           "force-kilowatt-hour-per-100-kilometer": {
             "displayName": "kilouate-houa he kilomita ʻe 100",
-            "unitPattern-count-other": "{0} kWh/100km"
+            "unitPattern-count-other": "kilouate-houa ʻe {0} he kilomita ʻe 100"
           },
           "frequency-gigahertz": {
             "displayName": "kikahēti",
@@ -701,6 +710,10 @@
             "displayName": "fakapona",
             "unitPattern-count-other": "fakapona ʻe {0}"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "tikili",
             "unitPattern-count-other": "tikili ʻe {0}"
@@ -866,6 +879,19 @@
             "displayName": "kuata fakaʻemipaea",
             "unitPattern-count-other": "kuata fakaʻemipaea ʻe {0}"
           },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "night",
+            "unitPattern-count-other": "{0} night",
+            "perUnitPattern": "{0}/night"
+          },
           "coordinateUnit": {
             "displayName": "fua tefitoʻi",
             "east": "hahake ʻe {0}",
@@ -905,6 +931,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ta{0}"
           },
@@ -934,6 +966,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "ki{0}"
@@ -1099,7 +1137,7 @@
             "unitPattern-count-other": "mi ʻe {0}/kā-ʻem"
           },
           "digital-petabyte": {
-            "displayName": "PB",
+            "displayName": "petapaiti",
             "unitPattern-count-other": "PB ʻe {0}"
           },
           "digital-terabyte": {
@@ -1567,6 +1605,10 @@
             "displayName": "fp",
             "unitPattern-count-other": "fp ʻe {0}"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "° ʻe {0}"
@@ -1732,6 +1774,19 @@
             "displayName": "ku-ʻem",
             "unitPattern-count-other": "ku-ʻem ʻe {0}"
           },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "night",
+            "unitPattern-count-other": "{0} night",
+            "perUnitPattern": "{0}/night"
+          },
           "coordinateUnit": {
             "displayName": "fua",
             "east": "ha ʻe {0}",
@@ -1771,6 +1826,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ta{0}"
           },
@@ -1800,6 +1861,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "ki{0}"
@@ -1962,7 +2029,7 @@
           },
           "consumption-mile-per-gallon-imperial": {
             "displayName": "mi/kāʻ-em",
-            "unitPattern-count-other": "{0}m/kāʻem"
+            "unitPattern-count-other": "{0} mi/kāʻem"
           },
           "digital-petabyte": {
             "displayName": "PB",
@@ -2433,6 +2500,10 @@
             "displayName": "fp",
             "unitPattern-count-other": "{0} fp"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "{0}°"
@@ -2597,6 +2668,19 @@
           "volume-quart-imperial": {
             "displayName": "ku-ʻem",
             "unitPattern-count-other": "{0} ku-ʻem"
+          },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "night",
+            "unitPattern-count-other": "{0} night",
+            "perUnitPattern": "{0}/night"
           },
           "coordinateUnit": {
             "displayName": "fua",

@@ -2,9 +2,6 @@
   "main": {
     "ga-GB": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ga",
         "territory": "GB"
       },
@@ -51,11 +48,12 @@
           "bem": "Beimbis",
           "bez": "Beinis",
           "bg": "Bulgáiris",
-          "bgc": "bgc",
+          "bgc": "Haryanvi",
           "bho": "Vóispiris",
           "bi": "Bioslaimis",
           "bin": "Binis",
           "bla": "Sicsicis",
+          "blo": "Anii",
           "bm": "Bambairis",
           "bn": "Beangáilis",
           "bo": "Tibéidis",
@@ -179,8 +177,6 @@
           "hax": "Haídis an Deiscirt",
           "he": "Eabhrais",
           "hi": "Hiondúis",
-          "hi-Latn": "Hiondúis (Laidineach)",
-          "hi-Latn-alt-variant": "Hiondúis (Laidineach)",
           "hif": "Hiondúis Fhidsí",
           "hil": "Hilgeanóinis",
           "hit": "Hitis",
@@ -256,6 +252,7 @@
           "kv": "Coimis",
           "kw": "Coirnis",
           "kwk": "Kwakʼwala",
+          "kxv": "Kuvi",
           "ky": "Cirgisis",
           "la": "Laidin",
           "lad": "Laidínis",
@@ -376,7 +373,7 @@
           "pt-PT": "Portaingéilis Ibéarach",
           "qu": "Ceatsuais",
           "quc": "Cuitséis",
-          "raj": "raj",
+          "raj": "Rajasthani",
           "rap": "Rapanúis",
           "rar": "Raratongais",
           "rhg": "Róihinis",
@@ -482,6 +479,7 @@
           "vec": "Veinéisis",
           "vi": "Vítneaimis",
           "vls": "Pléimeannais Iartharach",
+          "vmw": "Macuais",
           "vo": "Volapük",
           "vun": "Vunjo",
           "wa": "Vallúnais",
@@ -492,6 +490,7 @@
           "wuu": "Sínis Wu",
           "xal": "Cailmícis",
           "xh": "Cóisis",
+          "xnr": "Kangri",
           "xog": "Soga",
           "yav": "Yangben",
           "ybb": "Yemba",

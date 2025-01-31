@@ -2,9 +2,6 @@
   "main": {
     "bg": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "bg"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} – съвместимост",
         "enclosed": "{0} – оградени",
         "extended": "{0} – разширени",
+        "facing-left": "{0} в посока наляво",
+        "facing-right": "{0} в посока надясно",
         "historic": "{0} – исторически",
         "miscellaneous": "{0} – разни",
         "other": "{0} – други",

@@ -2,9 +2,6 @@
   "main": {
     "ar-TN": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ar",
         "territory": "TN"
       },

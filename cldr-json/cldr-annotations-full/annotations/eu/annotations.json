@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "eu"
     },
     "annotations": {
@@ -1098,10 +1095,16 @@
       },
       "↹": {
         "default": [
-          "ezkerrerako barradun gezia eskuinerako barradun geziaren gainean"
+          "barra",
+          "eskuinera",
+          "eskuinerantz",
+          "ezkerrera",
+          "ezkerrerako gezi barraduna eskuinerako gezi barradunaren gainean",
+          "ezkerrerantz",
+          "gezia"
         ],
         "tts": [
-          "ezkerrerako barradun gezia eskuinerako barradun geziaren gainean"
+          "ezkerrerako gezi barraduna eskuinerako gezi barradunaren gainean"
         ]
       },
       "↺": {
@@ -2057,6 +2060,8 @@
       },
       "≒": {
         "default": [
+          "gutxi gorabehera",
+          "irudiaren berdina",
           "irudiaren berdina, gutxi gorabehera"
         ],
         "tts": [
@@ -3203,12 +3208,26 @@
       },
       "😃": {
         "default": [
-          "aho",
-          "aurpegi",
-          "barre egiten ari den aurpegia, ahoa irekita",
-          "ireki",
-          "irribarre",
-          "irribarre egiten ari den aurpegia, ahoa irekita"
+          "ahoa",
+          "alai",
+          "aparta",
+          "aupa",
+          "aurpegia",
+          "bikaina",
+          "egundokoa",
+          "haginak",
+          "hortzak",
+          "irekita",
+          "irribarre egiten",
+          "irribarre egiten ari den eta ahoa irekita daukan aurpegia",
+          "irribarre egiten ari den eta begi handiak dituen aurpegia",
+          "irribarrea",
+          "irribarreka",
+          "itzela",
+          "itzelezkoa",
+          "pozik",
+          "zabalduta",
+          "zabalik"
         ],
         "tts": [
           "barre egiten ari den aurpegia, ahoa irekita"
@@ -3216,13 +3235,22 @@
       },
       "😄": {
         "default": [
-          "aho",
-          "aurpegi",
-          "begi",
-          "begiez barreka ari den aurpegia",
-          "begiez irribarre egiten ari den aurpegia, ahoa irekita",
-          "ireki",
-          "irribarre"
+          "ahoa",
+          "alai",
+          "aurpegia",
+          "barrea",
+          "barrez lehertzen",
+          "begia",
+          "irekita",
+          "irri egiten",
+          "irria",
+          "irribarre egiten",
+          "irribarre egiten ari den eta begiez barreka ari den aurpegia",
+          "irribarre egiten ari den, ahoa irekita daukan eta begiez irri egiten ari den aurpegia",
+          "irribarrea",
+          "irribarreka",
+          "lol",
+          "pozik"
         ],
         "tts": [
           "begiez barreka ari den aurpegia"
@@ -3242,14 +3270,26 @@
       },
       "😆": {
         "default": [
-          "aho",
-          "asebeteta",
-          "aurpegi",
-          "barre",
-          "barreka ari den aurpegia, begiak itxita",
-          "ireki",
-          "irribarre",
-          "irribarre egiten ari den aurpegia, begiak itxita"
+          "ahoa",
+          "alai",
+          "ase",
+          "asebete",
+          "aurpegia",
+          "barre egin",
+          "barrea",
+          "barrez lehertzen",
+          "irekita",
+          "irri egiten",
+          "irria",
+          "irribarre egiten",
+          "irribarre egiten ari den eta begiak itxita dauzkan aurpegia",
+          "irribarre egiten ari den, ahora irekita daukan eta begiak itxita dauzkan aurpegia",
+          "irribarrea",
+          "irribarreka",
+          "karkar",
+          "karkarkar",
+          "lol",
+          "pozik"
         ],
         "tts": [
           "barreka ari den aurpegia, begiak itxita"
@@ -3258,12 +3298,15 @@
       "😅": {
         "default": [
           "aurpegi",
+          "barreka ari den aurpegia",
           "barreka ari den aurpegia, izerdi hotzarekin",
           "hotz",
           "ireki",
           "irribarre",
-          "irribarre egiten ari den aurpegia, izerdi hotzarekin eta ahora irekita",
-          "izerdi"
+          "irribarre egiten ari den aurpegia",
+          "izerdi",
+          "izerdi hotzarekin",
+          "izerdi hotzarekin eta ahora irekita"
         ],
         "tts": [
           "barreka ari den aurpegia, izerdi hotzarekin"
@@ -3362,11 +3405,22 @@
       },
       "🥰": {
         "default": [
+          "amodioa",
+          "amz",
+          "aurpegia",
+          "bihotza",
+          "bihotzak",
           "irri egiten ari den aurpegia, 3 bihotzekin",
-          "irribarre egiten ari den aurpegia, 3 bihotzekin",
+          "irribarre egiten ari den aurpegia, bihotzekin",
+          "irribarre egiten ari diren bihotzak",
+          "irribarrea",
+          "maitasuna",
+          "maite zaitut",
           "maiteminduta",
-          "oso gustuko",
-          "txoratze"
+          "mz",
+          "oso gustukoa",
+          "txora-txora eginda",
+          "txoratzea"
         ],
         "tts": [
           "irri egiten ari den aurpegia, 3 bihotzekin"
@@ -3374,13 +3428,23 @@
       },
       "😍": {
         "default": [
-          "aurpegi",
-          "aurpegia barreka, bihotz-itxurako begiekin",
-          "begi",
-          "bihotz",
-          "irribarre",
+          "143",
+          "amodioa",
+          "amz",
+          "aurpegia",
+          "begia",
+          "bihotza",
+          "bihotzak",
+          "erromantikoa",
           "irribarre egiten ari den aurpegia, bihotz-itxurako begiekin",
-          "maitasun"
+          "irribarrea",
+          "laztana",
+          "maitasuna",
+          "maitekorra",
+          "maiteminduta",
+          "musuak",
+          "mz",
+          "sentimenduak"
         ],
         "tts": [
           "aurpegia barreka, bihotz-itxurako begiekin"
@@ -3432,11 +3496,26 @@
       },
       "😚": {
         "default": [
-          "aurpegi",
-          "begi",
+          "143",
+          "amz",
+          "aurpegia",
+          "begia",
+          "begiak itxita dituen eta musuka ari den aurpegia",
+          "flirtean",
+          "geratzea",
+          "hitzordua",
           "itxi",
-          "musu",
-          "musuka ari den aurpegia, begiak itxita"
+          "itxita",
+          "laztana",
+          "lotsagorritu",
+          "maite-jokoetan",
+          "maite-jolasean",
+          "maite-kontuetan",
+          "musua",
+          "musuak",
+          "musutxoak",
+          "mz",
+          "zita"
         ],
         "tts": [
           "musuka ari den aurpegia, begiak itxita"
@@ -3457,14 +3536,24 @@
       },
       "🥲": {
         "default": [
-          "barreka ari den aurpegia, malko batekin",
-          "esker on",
+          "alai",
+          "alaitasuna",
+          "esker ona",
+          "esker onekoa",
           "harro",
-          "hunkitu",
-          "irribarre",
-          "irribarre egiten ari den aurpegia, malko batekin",
+          "hunkituta",
+          "irribarre egiten",
+          "irribarre egiten ari den eta malko bat duen aurpegia",
+          "irribarrea",
+          "irribarreka",
+          "irribarretsua",
+          "lasai",
           "lasaitu",
-          "malko"
+          "malkoa",
+          "mina",
+          "pozik",
+          "poztasuna",
+          "zoriona"
         ],
         "tts": [
           "barreka ari den aurpegia, malko batekin"
@@ -3768,16 +3857,39 @@
       },
       "🫨": {
         "default": [
-          "aurpegia",
-          "bibratu",
-          "bibrazioa",
-          "dardarka",
-          "dardarka ari den aurpegia",
-          "harrituta",
-          "lurrikara"
+          "ai ene",
+          "beldurra",
+          "dar-dar egin",
+          "ene",
+          "ezustea",
+          "ikara",
+          "omg",
+          "sorpresa",
+          "uau",
+          "zorabiatu"
         ],
         "tts": [
           "dardarka ari den aurpegia"
+        ]
+      },
+      "🙂‍↔": {
+        "default": [
+          "buruarekin ezetz egin",
+          "ez",
+          "horizontalki mugitzen ari den burua"
+        ],
+        "tts": [
+          "horizontalki mugitzen ari den burua"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "bai",
+          "bertikalki mugitzen ari den burua",
+          "buruarekin baietz egin"
+        ],
+        "tts": [
+          "bertikalki mugitzen ari den burua"
         ]
       },
       "😌": {
@@ -3831,6 +3943,19 @@
         ],
         "tts": [
           "lo dagoen aurpegia"
+        ]
+      },
+      "🫩": {
+        "default": [
+          "begien azpian poltsak dituen aurpegia",
+          "leher eginda",
+          "lehertuta",
+          "logalea",
+          "logura",
+          "nekatuta"
+        ],
+        "tts": [
+          "begien azpian poltsak dituen aurpegia"
         ]
       },
       "😷": {
@@ -4010,13 +4135,26 @@
       },
       "😎": {
         "default": [
-          "argitasun",
-          "aurpegi",
-          "aurpegia barreka, eguzkitako betaurrekoekin",
-          "begi",
-          "cool",
-          "eguzkitako betaurreko",
-          "irribarre egiten ari den aurpegia, eguzkitako betaurrekoekin"
+          "argitsua",
+          "atseden hartzen",
+          "aurpegia",
+          "bai horixe",
+          "betaurrekoak",
+          "bikaina",
+          "eguzkia",
+          "eguzkitako betaurrekoak",
+          "erlaxatzen",
+          "estiloa",
+          "ezin hobe",
+          "hondartza",
+          "irabazi",
+          "irabazlea",
+          "irribarre egin",
+          "irribarre egiten ari den eta eguzkitako betaurrekoak dituen aurpegia",
+          "irribarrea",
+          "oso ondo",
+          "oso ongi",
+          "primeran"
         ],
         "tts": [
           "aurpegia barreka, eguzkitako betaurrekoekin"
@@ -4581,11 +4719,14 @@
       },
       "😻": {
         "default": [
+          "animalia",
           "aurpegia",
           "begia",
           "bihotz-itxurako begiak dituen eta irribarre egiten ari den katu-aurpegia",
+          "bihotz-itxurako begiekin",
           "bihotza",
           "irribarrea",
+          "katu irribarretsua",
           "katu irribarretsua, bihotz-itxurako begiekin",
           "katua",
           "maitasuna"
@@ -4857,6 +4998,7 @@
       },
       "🩷": {
         "default": [
+          "143",
           "arrosa",
           "atsegin",
           "bihotz arrosa",
@@ -4911,6 +5053,7 @@
       },
       "🩵": {
         "default": [
+          "143",
           "anila",
           "bihotz urdin argia",
           "bihotza",
@@ -4955,11 +5098,14 @@
       },
       "🩶": {
         "default": [
+          "143",
           "arbela",
           "bihotz grisa",
           "bihotza",
+          "emozioa",
           "grisa",
-          "zilarra"
+          "zilarra",
+          "zirrara"
         ],
         "tts": [
           "bihotz grisa"
@@ -5072,10 +5218,13 @@
       },
       "👁‍🗨": {
         "default": [
-          "begi",
           "begi bat duen bunbuiloa",
-          "bunbuilo",
-          "lekuko"
+          "begia",
+          "bunbuiloa",
+          "burbuila",
+          "hizketa",
+          "lekukoa",
+          "puxika"
         ],
         "tts": [
           "begi bat duen bunbuiloa"
@@ -5083,9 +5232,12 @@
       },
       "🗨": {
         "default": [
+          "bunbuiloa",
+          "burbuila",
           "elkarrizketa",
           "ezkerrera doan bunbuiloa",
-          "hizketa"
+          "hizketa",
+          "puxika"
         ],
         "tts": [
           "ezkerrera doan bunbuiloa"
@@ -5116,7 +5268,8 @@
       },
       "💤": {
         "default": [
-          "komiki",
+          "gabon",
+          "komikia",
           "lo",
           "zzz"
         ],
@@ -5225,6 +5378,7 @@
       },
       "🫷": {
         "default": [
+          "blokeatu",
           "bostekoa",
           "bultza",
           "ezkerrerantz",
@@ -5240,6 +5394,7 @@
       },
       "🫸": {
         "default": [
+          "blokeatu",
           "bostekoa",
           "bultza",
           "eskuinerantz",
@@ -5313,6 +5468,7 @@
       },
       "🫰": {
         "default": [
+          "<3",
           "bihotza",
           "dirua",
           "erakuslea eta erpurua gurutzatuta",
@@ -7354,8 +7510,9 @@
       },
       "🧑‍🎄": {
         "default": [
-          "bizar zuri",
-          "bizarzuri"
+          "bizarzuri",
+          "eguberriak",
+          "gabonak"
         ],
         "tts": [
           "bizarzuri"
@@ -8604,7 +8761,8 @@
       },
       "🛌": {
         "default": [
-          "hotel",
+          "gabon",
+          "hotela",
           "lo",
           "pertsona bat ohean"
         ],
@@ -8686,17 +8844,6 @@
           "bihotza erdian duen bikotea"
         ]
       },
-      "👪": {
-        "default": [
-          "aita",
-          "ama",
-          "familia",
-          "haurra"
-        ],
-        "tts": [
-          "familia"
-        ]
-      },
       "🗣": {
         "default": [
           "aurpegi",
@@ -8742,6 +8889,57 @@
           "elkar besarkatzen ari den jendea"
         ]
       },
+      "👪": {
+        "default": [
+          "aita",
+          "ama",
+          "familia",
+          "haurra"
+        ],
+        "tts": [
+          "familia"
+        ]
+      },
+      "🧑‍🧑‍🧒": {
+        "default": [
+          "familia",
+          "haurra",
+          "nagusia"
+        ],
+        "tts": [
+          "familia: nagusia, nagusia, haurra"
+        ]
+      },
+      "🧑‍🧑‍🧒‍🧒": {
+        "default": [
+          "familia",
+          "haurra",
+          "nagusia"
+        ],
+        "tts": [
+          "familia: nagusia, nagusia, haurra, haurra"
+        ]
+      },
+      "🧑‍🧒": {
+        "default": [
+          "familia",
+          "haurra",
+          "nagusia"
+        ],
+        "tts": [
+          "familia: nagusia, haurra"
+        ]
+      },
+      "🧑‍🧒‍🧒": {
+        "default": [
+          "familia",
+          "haurra",
+          "nagusia"
+        ],
+        "tts": [
+          "familia: nagusia, haurra, haurra"
+        ]
+      },
       "👣": {
         "default": [
           "arropa",
@@ -8752,6 +8950,18 @@
         ],
         "tts": [
           "oin-aztarnak"
+        ]
+      },
+      "🫆": {
+        "default": [
+          "forentsea",
+          "hatz-marka",
+          "identitatea",
+          "nortasuna",
+          "segurtasuna"
+        ],
+        "tts": [
+          "hatz-marka"
         ]
       },
       "🦰": {
@@ -9008,6 +9218,7 @@
       "🫏": {
         "default": [
           "animalia",
+          "astakiloa",
           "astarra",
           "astoa",
           "astokoa",
@@ -9385,8 +9596,9 @@
       },
       "🐨": {
         "default": [
-          "hartz",
-          "koala"
+          "aurpegia",
+          "koala",
+          "martsupiala"
         ],
         "tts": [
           "koala"
@@ -9432,11 +9644,13 @@
       },
       "🦘": {
         "default": [
-          "Australia",
-          "jauzi",
-          "kanguru",
-          "martsupial",
-          "martsupial txiki"
+          "jauzi egin",
+          "jauzia",
+          "kangurua",
+          "kangurukumea",
+          "martsupiala",
+          "saltatu",
+          "saltoa"
         ],
         "tts": [
           "kanguru"
@@ -9655,6 +9869,7 @@
           "hegaz",
           "hegazkinta",
           "hegoa",
+          "igo",
           "mitologia",
           "txoria"
         ],
@@ -9676,15 +9891,33 @@
       },
       "🪿": {
         "default": [
+          "ahatea",
           "antzara",
           "etxeko hegaztia",
           "hegaztia",
           "karran-karran",
           "karranka",
+          "ornitologia",
+          "samalda",
           "txoria"
         ],
         "tts": [
           "antzara"
+        ]
+      },
+      "🐦‍🔥": {
+        "default": [
+          "berpiztea",
+          "berraragiztatzea",
+          "birsortzea",
+          "biziberritzea",
+          "fantasia",
+          "fenixa",
+          "haragitzea",
+          "suzko hegaztia"
+        ],
+        "tts": [
+          "fenixa"
         ]
       },
       "🐸": {
@@ -9808,7 +10041,7 @@
       "🦭": {
         "default": [
           "foka",
-          "itsas txakur",
+          "itsas lehoia",
           "itsas txakurra"
         ],
         "tts": [
@@ -9899,6 +10132,58 @@
         ],
         "tts": [
           "marmoka"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "cancer",
+          "karramarroa",
+          "zodiako"
+        ],
+        "tts": [
+          "karramarroa"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "itsaski",
+          "itsaski-krema",
+          "matxarda",
+          "otarrain"
+        ],
+        "tts": [
+          "otarrain"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "ganba",
+          "itsaski",
+          "janari",
+          "txiki"
+        ],
+        "tts": [
+          "ganba"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "janari",
+          "molusku",
+          "txibia"
+        ],
+        "tts": [
+          "txibia"
+        ]
+      },
+      "🦪": {
+        "default": [
+          "ostra",
+          "perla",
+          "urpekaritza"
+        ],
+        "tts": [
+          "ostra"
         ]
       },
       "🐌": {
@@ -10101,16 +10386,16 @@
       },
       "🪷": {
         "default": [
+          "araztasuna",
           "budismoa",
+          "garbitasuna",
           "hinduismoa",
-          "India",
           "lorea",
-          "lotusa",
-          "purutasuna",
-          "Vietnam"
+          "lotoa",
+          "purutasuna"
         ],
         "tts": [
-          "lotusa"
+          "lotoa"
         ]
       },
       "🏵": {
@@ -10186,6 +10471,7 @@
       },
       "🪻": {
         "default": [
+          "anila",
           "dragoi-muturra",
           "hiazintoa",
           "izpilikua",
@@ -10361,6 +10647,24 @@
           "barrengorria"
         ]
       },
+      "🪾": {
+        "default": [
+          "agorra",
+          "agorraldia",
+          "agortea",
+          "antzua",
+          "elkorra",
+          "hosto gabeko zuhaitza",
+          "idorra",
+          "idortea",
+          "lehorra",
+          "lehortea",
+          "negua"
+        ],
+        "tts": [
+          "hosto gabeko zuhaitza"
+        ]
+      },
       "🍇": {
         "default": [
           "fruitu",
@@ -10412,6 +10716,22 @@
         ],
         "tts": [
           "limoia"
+        ]
+      },
+      "🍋‍🟩": {
+        "default": [
+          "azidoa",
+          "freskagarria",
+          "fruta",
+          "koktela",
+          "lima",
+          "margarita",
+          "mojitoa",
+          "tropikala",
+          "zitrikoa"
+        ],
+        "tts": [
+          "lima"
         ]
       },
       "🍌": {
@@ -10724,6 +11044,7 @@
           "espezia",
           "garagardoa",
           "jengibrea",
+          "osasuna",
           "sustraia",
           "zurtoina"
         ],
@@ -10740,10 +11061,45 @@
           "ilar-zorroa",
           "ilarra",
           "leka",
+          "lekalea",
           "zorroa"
         ],
         "tts": [
           "ilar-zorroa"
+        ]
+      },
+      "🍄‍🟫": {
+        "default": [
+          "barazkia",
+          "janaria",
+          "natura",
+          "onddoa",
+          "perretxiko marroia",
+          "pizza",
+          "portobelloa",
+          "shiitakea"
+        ],
+        "tts": [
+          "perretxiko marroia"
+        ]
+      },
+      "🫜": {
+        "default": [
+          "arbia",
+          "barazkia",
+          "beterraba",
+          "erremolatxa",
+          "erroa",
+          "errozerba",
+          "frantses-arbia",
+          "lorategia",
+          "ortuaria",
+          "sustraia",
+          "txerri-arbia",
+          "zuztarra"
+        ],
+        "tts": [
+          "tuberkulua"
         ]
       },
       "🍞": {
@@ -11284,58 +11640,6 @@
           "eramateko kaxa"
         ]
       },
-      "🦀": {
-        "default": [
-          "cancer",
-          "karramarroa",
-          "zodiako"
-        ],
-        "tts": [
-          "karramarroa"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "itsaski",
-          "itsaski-krema",
-          "matxarda",
-          "otarrain"
-        ],
-        "tts": [
-          "otarrain"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "ganba",
-          "itsaski",
-          "janari",
-          "txiki"
-        ],
-        "tts": [
-          "ganba"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "janari",
-          "molusku",
-          "txibia"
-        ],
-        "tts": [
-          "txibia"
-        ]
-      },
-      "🦪": {
-        "default": [
-          "ostra",
-          "perla",
-          "urpekaritza"
-        ],
-        "tts": [
-          "ostra"
-        ]
-      },
       "🍦": {
         "default": [
           "esne",
@@ -11741,11 +12045,12 @@
       },
       "🍽": {
         "default": [
-          "janari",
+          "janaria",
           "labana",
-          "plater",
+          "platera",
           "platera, sardeska eta labanarekin",
-          "sardeska"
+          "sardeska",
+          "sardeska eta labanarekin"
         ],
         "tts": [
           "platera, sardeska eta labanarekin"
@@ -12920,10 +13225,10 @@
       },
       "🚏": {
         "default": [
-          "autobus",
           "autobus-geltokia",
-          "geltoki",
-          "stop"
+          "autobusa",
+          "geltokia",
+          "geralekua"
         ],
         "tts": [
           "autobus-geltokia"
@@ -15370,6 +15675,7 @@
           "flamenkoa",
           "freskatu",
           "haizemailea",
+          "ligatu",
           "lotsatia"
         ],
         "tts": [
@@ -15536,6 +15842,7 @@
         "default": [
           "afroa",
           "apain-orrazia",
+          "apaindu",
           "apaingarria",
           "flamenkoa",
           "ilea",
@@ -15953,7 +16260,9 @@
       "🪇": {
         "default": [
           "astindu",
+          "festa",
           "instrumentua",
+          "jaia",
           "marakak",
           "musika",
           "musika-tresna",
@@ -15974,6 +16283,21 @@
         ],
         "tts": [
           "txirula"
+        ]
+      },
+      "🪉": {
+        "default": [
+          "harpa",
+          "instrumentua",
+          "kupido",
+          "maitasuna",
+          "musika",
+          "musika-instrumentua",
+          "musika-tresna",
+          "orkestra"
+        ],
+        "tts": [
+          "harpa"
         ]
       },
       "📱": {
@@ -16154,12 +16478,11 @@
       "💿": {
         "default": [
           "blu-ray",
-          "cd",
-          "disko",
+          "CDa",
           "disko optikoa",
-          "dvd",
-          "optiko",
-          "ordenagailu"
+          "diskoa",
+          "optikoa",
+          "ordenagailua"
         ],
         "tts": [
           "disko optikoa"
@@ -16167,12 +16490,12 @@
       },
       "📀": {
         "default": [
-          "blu-ray",
-          "cd",
-          "disko",
-          "DVD",
-          "optiko",
-          "ordenagailu"
+          "Blue-ray",
+          "CDa",
+          "diskoa",
+          "DVDa",
+          "optikoa",
+          "ordenagailua"
         ],
         "tts": [
           "DVD"
@@ -17254,8 +17577,6 @@
       "🪃": {
         "default": [
           "aurkakoa",
-          "australia",
-          "bumeran",
           "bumerana",
           "errebotea",
           "itzulera",
@@ -17378,6 +17699,24 @@
           "kate-maila"
         ]
       },
+      "⛓‍💥": {
+        "default": [
+          "apurtu",
+          "apurtzen",
+          "askatasuna",
+          "bilurrak",
+          "eskuburdinak",
+          "hausten",
+          "hautsi",
+          "kate hautsia",
+          "katea",
+          "puskatu",
+          "puskatzen"
+        ],
+        "tts": [
+          "kate hautsia"
+        ]
+      },
       "⛓": {
         "default": [
           "kate",
@@ -17431,6 +17770,18 @@
         ],
         "tts": [
           "esku-eskailera"
+        ]
+      },
+      "🪏": {
+        "default": [
+          "aitzurtu",
+          "endaia",
+          "pala",
+          "zulatu",
+          "zuloa"
+        ],
+        "tts": [
+          "pala"
         ]
       },
       "⚗": {
@@ -17976,9 +18327,13 @@
       },
       "🏧": {
         "default": [
-          "automatiko",
-          "banku",
-          "kutxazain",
+          "ATM",
+          "automatikoa",
+          "automatizatua",
+          "bankua",
+          "kutxazain automatikoa",
+          "kutxazain automatikoaren seinalea",
+          "kutxazaina",
           "kutxazainaren seinalea"
         ],
         "tts": [
@@ -18018,10 +18373,15 @@
       },
       "🚹": {
         "default": [
-          "gizon",
+          "bainugela",
+          "garbigela",
+          "gizona",
           "gizonen komuna",
-          "komun",
-          "wc"
+          "gizonezkoa",
+          "gizonezkoen komuna",
+          "komun-ontzia",
+          "komuna",
+          "WC"
         ],
         "tts": [
           "gizonen komuna"
@@ -18029,10 +18389,15 @@
       },
       "🚺": {
         "default": [
-          "emakume",
+          "bainugela",
+          "emakumea",
           "emakumeen komuna",
-          "komun",
-          "wc"
+          "emakumezkoa",
+          "emakumezkoen komuna",
+          "garbigela",
+          "komun-ontzia",
+          "komuna",
+          "WC"
         ],
         "tts": [
           "emakumeen komuna"
@@ -18040,9 +18405,11 @@
       },
       "🚻": {
         "default": [
-          "komun",
+          "bainugela",
+          "garbigela",
+          "komun-ontzia",
           "komuna",
-          "wc"
+          "WC"
         ],
         "tts": [
           "komuna"
@@ -18060,10 +18427,12 @@
       },
       "🚾": {
         "default": [
-          "komun",
+          "bainugela",
+          "garbigela",
+          "komun-ontzia",
+          "komuna",
           "komunak",
-          "ur",
-          "wc"
+          "WC"
         ],
         "tts": [
           "komunak"
@@ -18442,8 +18811,8 @@
       "🔙": {
         "default": [
           "atzera",
-          "atzera gezia",
-          "gezi"
+          "BACK",
+          "gezia"
         ],
         "tts": [
           "atzera gezia"
@@ -18452,8 +18821,8 @@
       "🔚": {
         "default": [
           "amaiera",
-          "amaiera gezia",
-          "gezi"
+          "END",
+          "gezia"
         ],
         "tts": [
           "amaiera gezia"
@@ -18461,10 +18830,9 @@
       },
       "🔛": {
         "default": [
-          "“on” testua duen gezia",
-          "gezi",
-          "markatu",
-          "on"
+          "\"on\" testua",
+          "gezia",
+          "marka"
         ],
         "tts": [
           "“on” testua duen gezia"
@@ -18472,9 +18840,9 @@
       },
       "🔜": {
         "default": [
-          "“soon” testua duen gezia",
-          "gezi",
-          "soon"
+          "\"soon\" hitza",
+          "gezia",
+          "SOON"
         ],
         "tts": [
           "“soon” testua duen gezia"
@@ -18482,10 +18850,10 @@
       },
       "🔝": {
         "default": [
-          "“top” testua duen gezia",
-          "gezi",
-          "gora",
-          "top"
+          "\"top\" hitza",
+          "gezia",
+          "onena",
+          "TOP"
         ],
         "tts": [
           "“top” testua duen gezia"
@@ -18625,7 +18993,8 @@
         "default": [
           "erlijioa",
           "khanda",
-          "sikh"
+          "sikh",
+          "sikismoa"
         ],
         "tts": [
           "khanda"
@@ -18890,10 +19259,9 @@
       },
       "🔼": {
         "default": [
-          "botoi",
-          "gezi",
-          "gora egiteko botoia",
-          "gorri"
+          "botoia",
+          "gezia",
+          "gora egiteko botoia"
         ],
         "tts": [
           "gora egiteko botoia"
@@ -18913,9 +19281,9 @@
         "default": [
           "behera",
           "behera egiteko botoia",
-          "botoi",
-          "gezi",
-          "gorri"
+          "beherantz",
+          "botoia",
+          "gezia"
         ],
         "tts": [
           "behera egiteko botoia"
@@ -19021,11 +19389,14 @@
       },
       "🛜": {
         "default": [
-          "hari gabe",
+          "banda zabala",
           "internet",
-          "kablerik gabe",
+          "kablerik gabekoa",
           "ordenagailua",
-          "sarea"
+          "routerra",
+          "sarea",
+          "wifia",
+          "wlan"
         ],
         "tts": [
           "hari gabe"
@@ -19453,7 +19824,7 @@
       },
       "©": {
         "default": [
-          "copyright",
+          "C",
           "copyrighta"
         ],
         "tts": [
@@ -19463,8 +19834,9 @@
       "®": {
         "default": [
           "erregistratu",
-          "marka",
-          "marka erregistratua"
+          "erregistratuta",
+          "marka erregistratua",
+          "R"
         ],
         "tts": [
           "marka erregistratua"
@@ -19479,6 +19851,24 @@
         ],
         "tts": [
           "marka komertziala"
+        ]
+      },
+      "🫟": {
+        "default": [
+          "erion",
+          "holi",
+          "isuri",
+          "jariatu",
+          "margoa",
+          "orbana",
+          "zapasta",
+          "zetaka",
+          "zikingunea",
+          "ziliporta",
+          "zipriztina"
+        ],
+        "tts": [
+          "zipriztina"
         ]
       },
       "🔠": {
@@ -19542,9 +19932,9 @@
       },
       "🅰": {
         "default": [
-          "a",
-          "a botoia",
-          "odol"
+          "botoia",
+          "odol-taldea",
+          "odola"
         ],
         "tts": [
           "a botoia"
@@ -19552,9 +19942,10 @@
       },
       "🆎": {
         "default": [
-          "ab",
-          "ab botoia",
-          "odol"
+          "AB",
+          "botoia",
+          "odol-taldea",
+          "odola"
         ],
         "tts": [
           "ab botoia"
@@ -19562,9 +19953,10 @@
       },
       "🅱": {
         "default": [
-          "b",
-          "b botoia",
-          "odol"
+          "B",
+          "botoia",
+          "odol-taldea",
+          "odola"
         ],
         "tts": [
           "b botoia"
@@ -19572,8 +19964,8 @@
       },
       "🆑": {
         "default": [
-          "“cl” testua karratu batean",
-          "cl"
+          "botoia",
+          "CL"
         ],
         "tts": [
           "“cl” testua karratu batean"
@@ -19581,9 +19973,9 @@
       },
       "🆒": {
         "default": [
-          "“cool” hitza karratu batean",
-          "cool",
-          "eder"
+          "\"cool\" hitza",
+          "botoia",
+          "COOL"
         ],
         "tts": [
           "“cool” hitza karratu batean"
@@ -19591,10 +19983,9 @@
       },
       "🆓": {
         "default": [
-          "“free” hitza karratu batean",
-          "doan",
-          "free",
-          "libre"
+          "\"free\" hitza",
+          "botoia",
+          "FREE"
         ],
         "tts": [
           "“free” hitza karratu batean"
@@ -19612,10 +20003,10 @@
       },
       "🆔": {
         "default": [
-          "“id” testua karratu batean",
-          "id",
-          "identitate",
-          "nortasun"
+          "\"ID\" hitza",
+          "botoia",
+          "ID",
+          "nortasuna"
         ],
         "tts": [
           "“id” testua karratu batean"
@@ -19623,9 +20014,10 @@
       },
       "Ⓜ": {
         "default": [
-          "“m” hizkia zirkulu batean",
-          "m",
-          "zirkulu"
+          "\"m\" hitza",
+          "M",
+          "zirkulu baten barruan",
+          "zirkulua"
         ],
         "tts": [
           "“m” hizkia zirkulu batean"
@@ -19633,9 +20025,9 @@
       },
       "🆕": {
         "default": [
-          "“new” hitza zirkulu batean",
-          "berri",
-          "new"
+          "\"new\" hitza",
+          "botoia",
+          "NEW"
         ],
         "tts": [
           "“new” hitza zirkulu batean"
@@ -19643,8 +20035,9 @@
       },
       "🆖": {
         "default": [
-          "“ng” testua karratu batean",
-          "ng"
+          "\"ng\" hitza",
+          "botoia",
+          "NG"
         ],
         "tts": [
           "“ng” testua karratu batean"
@@ -19652,9 +20045,10 @@
       },
       "🅾": {
         "default": [
-          "“o” botoia",
-          "o",
-          "odol"
+          "botoia",
+          "O",
+          "odol-taldea",
+          "odola"
         ],
         "tts": [
           "“o” botoia"
@@ -19672,9 +20066,10 @@
       },
       "🅿": {
         "default": [
-          "“p” botoia",
-          "aparkaleku",
-          "parking"
+          "\"p\" letra",
+          "aparkalekua",
+          "botoia",
+          "P"
         ],
         "tts": [
           "“p” botoia"
@@ -19682,30 +20077,33 @@
       },
       "🆘": {
         "default": [
-          "“sos” hitza karratu batean",
           "laguntza",
-          "sos"
+          "SOS",
+          "SOS botoia"
         ],
         "tts": [
-          "“sos” hitza karratu batean"
+          "SOS botoia"
         ]
       },
       "🆙": {
         "default": [
-          "“up!” botoia",
           "gora",
+          "marka",
           "markatu",
-          "up"
+          "UP",
+          "UP!",
+          "UP! botoia"
         ],
         "tts": [
-          "“up!” botoia"
+          "UP! botoia"
         ]
       },
       "🆚": {
         "default": [
-          "“vs” testua karratu batean",
+          "\"VS\" testua",
+          "botoia",
           "versus",
-          "vs"
+          "VS"
         ],
         "tts": [
           "“vs” testua karratu batean"
@@ -20495,24 +20893,6 @@
           "bitcoina"
         ]
       },
-      "₨": {
-        "default": [
-          "errupia",
-          "moneta"
-        ],
-        "tts": [
-          "errupia"
-        ]
-      },
-      "﷼": {
-        "default": [
-          "moneta",
-          "riala"
-        ],
-        "tts": [
-          "riala"
-        ]
-      },
       "¹": {
         "default": [
           "bat",
@@ -20544,6 +20924,15 @@
           "goi-indizeko hiru"
         ]
       },
+      "₨": {
+        "default": [
+          "errupia",
+          "moneta"
+        ],
+        "tts": [
+          "errupia"
+        ]
+      },
       "µ": {
         "default": [
           "mikro-ikur",
@@ -20552,6 +20941,15 @@
         ],
         "tts": [
           "mikro-ikurra"
+        ]
+      },
+      "﷼": {
+        "default": [
+          "moneta",
+          "riala"
+        ],
+        "tts": [
+          "riala"
         ]
       }
     }

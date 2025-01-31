@@ -2,9 +2,6 @@
   "main": {
     "el-CY": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "el",
         "territory": "CY"
       },
@@ -119,6 +116,9 @@
               },
               "Chihuahua": {
                 "exemplarCity": "Τσιουάουα"
+              },
+              "Ciudad_Juarez": {
+                "exemplarCity": "Σιουδάδ Χουάρες"
               },
               "Coral_Harbour": {
                 "exemplarCity": "Ατικόκαν"
@@ -328,9 +328,6 @@
               "New_York": {
                 "exemplarCity": "Νέα Υόρκη"
               },
-              "Nipigon": {
-                "exemplarCity": "Νιπιγκόν"
-              },
               "Nome": {
                 "exemplarCity": "Νόμε"
               },
@@ -354,9 +351,6 @@
               "Panama": {
                 "exemplarCity": "Παναμάς"
               },
-              "Pangnirtung": {
-                "exemplarCity": "Πανγκνίρτουνγκ"
-              },
               "Paramaribo": {
                 "exemplarCity": "Παραμαρίμπο"
               },
@@ -378,9 +372,6 @@
               "Punta_Arenas": {
                 "exemplarCity": "Πούντα Αρένας"
               },
-              "Rainy_River": {
-                "exemplarCity": "Ρέινι Ρίβερ"
-              },
               "Rankin_Inlet": {
                 "exemplarCity": "Ράνκιν Ίνλετ"
               },
@@ -395,9 +386,6 @@
               },
               "Rio_Branco": {
                 "exemplarCity": "Ρίο Μπράνκο"
-              },
-              "Santa_Isabel": {
-                "exemplarCity": "Σάντα Ιζαμπέλ"
               },
               "Santarem": {
                 "exemplarCity": "Σανταρέμ"
@@ -444,9 +432,6 @@
               "Thule": {
                 "exemplarCity": "Θούλη"
               },
-              "Thunder_Bay": {
-                "exemplarCity": "Θάντερ Μπέι"
-              },
               "Tijuana": {
                 "exemplarCity": "Τιχουάνα"
               },
@@ -467,9 +452,6 @@
               },
               "Yakutat": {
                 "exemplarCity": "Γιάκουτατ"
-              },
-              "Yellowknife": {
-                "exemplarCity": "Γέλοουναϊφ"
               }
             },
             "Atlantic": {
@@ -661,9 +643,6 @@
               "Ulyanovsk": {
                 "exemplarCity": "Ουλιάνοφσκ"
               },
-              "Uzhgorod": {
-                "exemplarCity": "Ούζχοροντ"
-              },
               "Vaduz": {
                 "exemplarCity": "Βαντούζ"
               },
@@ -684,9 +663,6 @@
               },
               "Zagreb": {
                 "exemplarCity": "Ζάγκρεμπ"
-              },
-              "Zaporozhye": {
-                "exemplarCity": "Ζαπορόζιε"
               },
               "Zurich": {
                 "exemplarCity": "Ζυρίχη"
@@ -904,9 +880,6 @@
               },
               "Chita": {
                 "exemplarCity": "Τσιτά"
-              },
-              "Choibalsan": {
-                "exemplarCity": "Τσοϊμπαλσάν"
               },
               "Colombo": {
                 "exemplarCity": "Κολόμπο"
@@ -1146,9 +1119,6 @@
               "Broken_Hill": {
                 "exemplarCity": "Μπρόκεν Χιλ"
               },
-              "Currie": {
-                "exemplarCity": "Κάρι"
-              },
               "Darwin": {
                 "exemplarCity": "Ντάργουιν"
               },
@@ -1219,9 +1189,6 @@
               },
               "Honolulu": {
                 "exemplarCity": "Χονολουλού"
-              },
-              "Johnston": {
-                "exemplarCity": "Τζόνστον"
               },
               "Kanton": {
                 "exemplarCity": "Καντών"
@@ -1573,13 +1540,6 @@
                 "daylight": "Θερινή ώρα Κίνας"
               }
             },
-            "Choibalsan": {
-              "long": {
-                "generic": "Ώρα Τσοϊμπαλσάν",
-                "standard": "Χειμερινή ώρα Τσοϊμπαλσάν",
-                "daylight": "Θερινή ώρα Τσοϊμπαλσάν"
-              }
-            },
             "Christmas": {
               "long": {
                 "standard": "Ώρα Νήσου Χριστουγέννων"
@@ -1845,6 +1805,11 @@
                 "daylight": "Θερινή ώρα Πετροπαβλόβσκ-Καμτσάτσκι"
               }
             },
+            "Kazakhstan": {
+              "long": {
+                "standard": "Ώρα Καζακστάν"
+              }
+            },
             "Kazakhstan_Eastern": {
               "long": {
                 "standard": "Ώρα Ανατολικού Καζακστάν"
@@ -1898,11 +1863,6 @@
                 "daylight": "Θερινή ώρα Μακάο"
               }
             },
-            "Macquarie": {
-              "long": {
-                "standard": "Ώρα Νησιού Μακουάρι"
-              }
-            },
             "Magadan": {
               "long": {
                 "generic": "Ώρα Μαγκαντάν",
@@ -1940,13 +1900,6 @@
             "Mawson": {
               "long": {
                 "standard": "Ώρα Μόσον"
-              }
-            },
-            "Mexico_Northwest": {
-              "long": {
-                "generic": "Ώρα Βορειοδυτικού Μεξικού",
-                "standard": "Χειμερινή ώρα Βορειοδυτικού Μεξικού",
-                "daylight": "Θερινή ώρα Βορειοδυτικού Μεξικού"
               }
             },
             "Mexico_Pacific": {

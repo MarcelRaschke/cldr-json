@@ -2,9 +2,6 @@
   "main": {
     "ast": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ast"
       },
       "localeDisplayNames": {
@@ -38,7 +35,6 @@
           "151": "Europa Oriental",
           "154": "Europa del Norte",
           "155": "Europa Occidental",
-          "202": "202",
           "419": "América Llatina",
           "AC": "Islla Ascensión",
           "AD": "Andorra",
@@ -159,7 +155,6 @@
           "IL": "Israel",
           "IM": "Islla de Man",
           "IN": "India",
-          "IO": "Territoriu Británicu del Océanu Índicu",
           "IQ": "Iraq",
           "IR": "Irán",
           "IS": "Islandia",
@@ -197,7 +192,6 @@
           "MF": "Saint Martin",
           "MG": "Madagascar",
           "MH": "Islles Marshall",
-          "MK": "MK",
           "ML": "Malí",
           "MM": "Myanmar (Birmania)",
           "MN": "Mongolia",
@@ -308,8 +302,6 @@
           "VU": "Vanuatu",
           "WF": "Wallis y Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
           "XK": "Kosovu",
           "YE": "Yemen",
           "YT": "Mayotte",

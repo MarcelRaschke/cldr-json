@@ -2,9 +2,6 @@
   "main": {
     "zh-Hant-HK": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "zh",
         "script": "Hant",
         "territory": "HK"
@@ -21,6 +18,9 @@
           "yue",
           "zh"
         ],
+        "formality": "formal",
+        "length": "medium",
+        "nativeSpaceReplacement": "",
         "foreignSpaceReplacement": "·",
         "initial": "{0}.",
         "initialSequence": "{0} {1}",
@@ -28,11 +28,11 @@
           "givenFirst": {
             "long": {
               "referring": {
-                "formal": "{prefix} {given} {given2} {surname} {surname2} {suffix}",
-                "informal": "{prefix} {given} {given2} {surname} {surname2} {suffix}"
+                "formal": "{title} {given} {given2} {surname} {generation}, {credentials}",
+                "informal": "{given-informal}{surname}"
               },
               "addressing": {
-                "formal": "{surname} {prefix}",
+                "formal": "{surname} {title}",
                 "informal": "{given-informal}"
               },
               "monogram": {
@@ -42,11 +42,11 @@
             },
             "medium": {
               "referring": {
-                "formal": "{prefix} {given} {given2} {surname} {surname2} {suffix}",
-                "informal": "{prefix} {given} {given2} {surname} {surname2} {suffix}"
+                "formal": "{title} {given} {given2} {surname} {generation}, {credentials}",
+                "informal": "{given-informal}{surname}"
               },
               "addressing": {
-                "formal": "{surname} {prefix}",
+                "formal": "{surname} {title}",
                 "informal": "{given-informal}"
               },
               "monogram": {
@@ -56,11 +56,11 @@
             },
             "short": {
               "referring": {
-                "formal": "{prefix} {given} {given2} {surname} {surname2} {suffix}",
-                "informal": "{prefix} {given} {given2} {surname} {surname2} {suffix}"
+                "formal": "{title} {given} {given2} {surname} {generation}, {credentials}",
+                "informal": "{given-informal}{surname-initial}"
               },
               "addressing": {
-                "formal": "{surname} {prefix}",
+                "formal": "{surname} {title}",
                 "informal": "{given-informal}"
               },
               "monogram": {
@@ -72,11 +72,11 @@
           "surnameFirst": {
             "long": {
               "referring": {
-                "formal": "{surname}{given}{given2}{suffix}",
+                "formal": "{surname} {given} {given2} {generation}{credentials}",
                 "informal": "{surname}{given-informal}"
               },
               "addressing": {
-                "formal": "{surname}{suffix}",
+                "formal": "{surname}{title}",
                 "informal": "{given-informal}"
               },
               "monogram": {
@@ -86,72 +86,97 @@
             },
             "medium": {
               "referring": {
-                "formal": "{surname}{given}{given2}{suffix}",
+                "formal": "{surname}{given}{given2-initial}{generation}，{credentials}",
                 "informal": "{surname}{given-informal}"
               },
               "addressing": {
-                "formal": "{surname}{suffix}",
+                "formal": "{surname}{title}",
                 "informal": "{given-informal}"
               },
               "monogram": {
-                "formal": "{surname-monogram-allCaps}{given-monogram-allCaps}{given2-monogram-allCaps}",
+                "formal": "{surname-monogram-allCaps}",
                 "informal": "{surname-monogram-allCaps}{given-monogram-allCaps}{given2-monogram-allCaps}"
               }
             },
             "short": {
               "referring": {
-                "formal": "{surname}{given}{given2}",
-                "informal": "{surname}{given}"
+                "formal": "{surname} {given-initial} {given2-initial}",
+                "informal": "{surname}{given-initial}"
               },
               "addressing": {
-                "formal": "{surname}{suffix}",
+                "formal": "{surname}{title}",
                 "informal": "{given-informal}"
               },
               "monogram": {
-                "formal": "{surname-monogram-allCaps}{given-monogram-allCaps}{given2-monogram-allCaps}",
-                "informal": "{surname-monogram-allCaps}{given-monogram-allCaps}{given2-monogram-allCaps}"
+                "formal": "{surname-monogram-allCaps}",
+                "informal": "{given-informal-monogram-allCaps}"
               }
             }
           },
           "sorting": {
             "long": {
               "referring": {
-                "formal": "{surname}{given}{given2}",
+                "formal": "{surname} {given} {given2}",
                 "informal": "{surname}{given-informal}"
               }
             },
             "medium": {
               "referring": {
-                "formal": "{surname}{given}",
+                "formal": "{surname} {given}",
                 "informal": "{surname}{given-informal}"
               }
             },
             "short": {
               "referring": {
-                "formal": "{surname}{given}",
-                "informal": "{surname}{given-informal}"
+                "formal": "{surname} {given}",
+                "informal": "{surname} {given-informal}"
               }
             }
           }
         },
         "sampleName": {
-          "givenOnly": {
+          "nativeG": {
             "given": "文傑"
           },
-          "givenSurnameOnly": {
+          "nativeGS": {
             "given": "雅婷",
             "surname": "張"
           },
-          "given12Surname": {
+          "nativeGGS": {
             "given": "家豪",
             "given2": "明德",
             "surname": "林"
           },
-          "full": {
+          "nativeFull": {
+            "title": "先生",
+            "given": "雅婷",
+            "given-informal": "婷婷",
+            "given2": "婷婷",
+            "surname-core": "王",
+            "generation": "二世",
+            "credentials": "議員"
+          },
+          "foreignG": {
+            "given": "雅婷"
+          },
+          "foreignGS": {
+            "given": "雅婷",
+            "surname": "王"
+          },
+          "foreignGGS": {
+            "given": "雅婷",
+            "given2": "婷婷",
+            "surname": "王"
+          },
+          "foreignFull": {
+            "title": "博士",
             "given": "怡君",
             "given-informal": "小君",
             "given2": "達印",
-            "suffix": "博士"
+            "surname-prefix": "馮",
+            "surname-core": "陳",
+            "generation": "二世",
+            "credentials": "醫學博士"
           }
         }
       }

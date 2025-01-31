@@ -2,9 +2,6 @@
   "main": {
     "zh-Hans": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "zh",
         "script": "Hans"
       },
@@ -1092,10 +1089,7 @@
                 "_value": "rMMMd",
                 "_numbers": "d=hanidays"
               },
-              "medium": {
-                "_value": "rMMMd",
-                "_numbers": "d=hanidays"
-              },
+              "medium": "rMMMd",
               "short": "rMd"
             },
             "timeFormats": {

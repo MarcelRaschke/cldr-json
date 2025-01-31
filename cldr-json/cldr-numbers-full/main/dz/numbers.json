@@ -2,9 +2,6 @@
   "main": {
     "dz": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "dz"
       },
       "numbers": {

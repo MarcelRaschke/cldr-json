@@ -2,9 +2,6 @@
   "main": {
     "cs": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "cs"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} – kompatibilita",
         "enclosed": "{0} – uzavřené",
         "extended": "{0} – rozšířené",
+        "facing-left": "{0} – směr doleva",
+        "facing-right": "{0} – směr doprava",
         "historic": "{0} – historické",
         "miscellaneous": "{0} – různé",
         "other": "{0} – jiné",

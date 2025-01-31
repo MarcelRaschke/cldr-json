@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "kab"
     },
     "annotations": {
@@ -145,46 +142,51 @@
       "✋🏻": {
         "default": [
           "afus irefden",
+          "argaz: acebbub awreɣ",
           "taglimt taceɛlalt"
         ],
         "tts": [
-          "afus irefden: taglimt taceɛlalt"
+          "argaz: acebbub awreɣ: taglimt taceɛlalt"
         ]
       },
       "✋🏼": {
         "default": [
           "afus irefden",
+          "argaz: acebbub awreɣ",
           "tagwlimt taceɛlalt talemmast"
         ],
         "tts": [
-          "afus irefden: tagwlimt taceɛlalt talemmast"
+          "argaz: acebbub awreɣ: tagwlimt taceɛlalt talemmast"
         ]
       },
       "✋🏽": {
         "default": [
           "afus irefden",
+          "argaz: acebbub awreɣ",
           "taglimt talemmast"
         ],
         "tts": [
-          "afus irefden: taglimt talemmast"
+          "argaz: acebbub awreɣ: taglimt talemmast"
         ]
       },
       "✋🏾": {
         "default": [
           "afus irefden",
+          "argaz: acebbub awreɣ",
           "taglimt tubrikt talemmast"
         ],
         "tts": [
-          "afus irefden: taglimt tubrikt talemmast"
+          "argaz: acebbub awreɣ: taglimt tubrikt talemmast"
         ]
       },
       "✋🏿": {
         "default": [
           "afus irefden",
+          "argaz: acebbub awreɣ",
           "taglimt tubrikt"
         ],
         "tts": [
-          "afus irefden: taglimt tubrikt"
+          "argaz: acebbub awreɣ: taglimt tubrikt"
         ]
       },
       "🖖🏻": {
@@ -610,6 +612,96 @@
         ],
         "tts": [
           "tidikelt d asawen: taglimt tubrikt"
+        ]
+      },
+      "🫷🏻": {
+        "default": [
+          "afus ijebden ɣer zelmeḍ",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "afus ijebden ɣer zelmeḍ: taglimt taceɛlalt"
+        ]
+      },
+      "🫷🏼": {
+        "default": [
+          "afus ijebden ɣer zelmeḍ",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "afus ijebden ɣer zelmeḍ: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🫷🏽": {
+        "default": [
+          "afus ijebden ɣer zelmeḍ",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "afus ijebden ɣer zelmeḍ: taglimt talemmast"
+        ]
+      },
+      "🫷🏾": {
+        "default": [
+          "afus ijebden ɣer zelmeḍ",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "afus ijebden ɣer zelmeḍ: taglimt tubrikt talemmast"
+        ]
+      },
+      "🫷🏿": {
+        "default": [
+          "afus ijebden ɣer zelmeḍ",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "afus ijebden ɣer zelmeḍ: taglimt tubrikt"
+        ]
+      },
+      "🫸🏻": {
+        "default": [
+          "afus ijebden ɣer yeffus",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "afus ijebden ɣer yeffus: taglimt taceɛlalt"
+        ]
+      },
+      "🫸🏼": {
+        "default": [
+          "afus ijebden ɣer yeffus",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "afus ijebden ɣer yeffus: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🫸🏽": {
+        "default": [
+          "afus ijebden ɣer yeffus",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "afus ijebden ɣer yeffus: taglimt talemmast"
+        ]
+      },
+      "🫸🏾": {
+        "default": [
+          "afus ijebden ɣer yeffus",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "afus ijebden ɣer yeffus: taglimt tubrikt talemmast"
+        ]
+      },
+      "🫸🏿": {
+        "default": [
+          "afus ijebden ɣer yeffus",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "afus ijebden ɣer yeffus: taglimt tubrikt"
         ]
       },
       "👌🏻": {
@@ -2052,6 +2144,51 @@
           "asilfi: taglimt tubrikt"
         ]
       },
+      "💪🏻": {
+        "default": [
+          "akras n lbunya",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "akras n lbunya: taglimt taceɛlalt"
+        ]
+      },
+      "💪🏼": {
+        "default": [
+          "akras n lbunya",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "akras n lbunya: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "💪🏽": {
+        "default": [
+          "akras n lbunya",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "akras n lbunya: taglimt talemmast"
+        ]
+      },
+      "💪🏾": {
+        "default": [
+          "akras n lbunya",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "akras n lbunya: taglimt tubrikt talemmast"
+        ]
+      },
+      "💪🏿": {
+        "default": [
+          "akras n lbunya",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "akras n lbunya: taglimt tubrikt"
+        ]
+      },
       "🦵🏻": {
         "default": [
           "aqejjir",
@@ -3103,6 +3240,111 @@
           "amdan: taglimt tubrikt, tamart"
         ]
       },
+      "🧔🏻‍♂": {
+        "default": [
+          "argaz: tamart",
+          "taglimt taceɛlalt",
+          "tamart"
+        ],
+        "tts": [
+          "argaz: taglimt taceɛlalt, tamart"
+        ]
+      },
+      "🧔🏼‍♂": {
+        "default": [
+          "argaz: tamart",
+          "tagwlimt taceɛlalt talemmast",
+          "tamart"
+        ],
+        "tts": [
+          "argaz: tagwlimt taceɛlalt talemmast, tamart"
+        ]
+      },
+      "🧔🏽‍♂": {
+        "default": [
+          "argaz: tamart",
+          "taglimt talemmast",
+          "tamart"
+        ],
+        "tts": [
+          "argaz: taglimt talemmast, tamart"
+        ]
+      },
+      "🧔🏾‍♂": {
+        "default": [
+          "argaz: tamart",
+          "taglimt tubrikt talemmast",
+          "tamart"
+        ],
+        "tts": [
+          "argaz: taglimt tubrikt talemmast, tamart"
+        ]
+      },
+      "🧔🏿‍♂": {
+        "default": [
+          "argaz: tamart",
+          "taglimt tubrikt",
+          "tamart"
+        ],
+        "tts": [
+          "argaz: taglimt tubrikt, tamart"
+        ]
+      },
+      "👱🏻‍♂": {
+        "default": [
+          "acebbub aceɛlla",
+          "argaz: acebbub aceɛlal",
+          "argaz: acebbub aceɛlla",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz: taglimt taceɛlalt, acebbub aceɛlla"
+        ]
+      },
+      "👱🏼‍♂": {
+        "default": [
+          "acebbub aceɛlla",
+          "argaz: acebbub aceɛlal",
+          "argaz: acebbub aceɛlla",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz: tagwlimt taceɛlalt talemmast, acebbub aceɛlla"
+        ]
+      },
+      "👱🏽‍♂": {
+        "default": [
+          "acebbub aceɛlla",
+          "argaz: acebbub aceɛlal",
+          "argaz: acebbub aceɛlla",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz: taglimt talemmast, acebbub aceɛlla"
+        ]
+      },
+      "👱🏾‍♂": {
+        "default": [
+          "acebbub aceɛlla",
+          "argaz: acebbub aceɛlal",
+          "argaz: acebbub aceɛlla",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz: taglimt tubrikt talemmast, acebbub aceɛlla"
+        ]
+      },
+      "👱🏿‍♂": {
+        "default": [
+          "acebbub aceɛlla",
+          "argaz: acebbub aceɛlal",
+          "argaz: acebbub aceɛlla",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "argaz: taglimt tubrikt, acebbub aceɛlla"
+        ]
+      },
       "👨🏻‍❤‍👨🏻": {
         "default": [
           "argaz",
@@ -3652,6 +3894,106 @@
         ],
         "tts": [
           "tameṭṭut: taglimt tubrikt"
+        ]
+      },
+      "🧔🏻‍♀": {
+        "default": [
+          "taglimt taceɛlalt",
+          "tamart",
+          "tameṭṭut: tamart"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt taceɛlalt, tamart"
+        ]
+      },
+      "🧔🏼‍♀": {
+        "default": [
+          "tagwlimt taceɛlalt talemmast",
+          "tamart",
+          "tameṭṭut: tamart"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt taceɛlalt talemmast, tamart"
+        ]
+      },
+      "🧔🏽‍♀": {
+        "default": [
+          "taglimt talemmast",
+          "tamart",
+          "tameṭṭut: tamart"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt talemmast, tamart"
+        ]
+      },
+      "🧔🏾‍♀": {
+        "default": [
+          "taglimt tubrikt talemmast",
+          "tamart",
+          "tameṭṭut: tamart"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt tubrikt talemmast, tamart"
+        ]
+      },
+      "🧔🏿‍♀": {
+        "default": [
+          "taglimt tubrikt",
+          "tamart",
+          "tameṭṭut: tamart"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt tubrikt, tamart"
+        ]
+      },
+      "👱🏻‍♀": {
+        "default": [
+          "acebbub awreɣ",
+          "taglimt taceɛlalt",
+          "tameṭṭut: acebbub awreɣ"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt taceɛlalt, acebbub awreɣ"
+        ]
+      },
+      "👱🏼‍♀": {
+        "default": [
+          "acebbub awreɣ",
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut: acebbub awreɣ"
+        ],
+        "tts": [
+          "tameṭṭut: tagwlimt taceɛlalt talemmast, acebbub awreɣ"
+        ]
+      },
+      "👱🏽‍♀": {
+        "default": [
+          "acebbub awreɣ",
+          "taglimt talemmast",
+          "tameṭṭut: acebbub awreɣ"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt talemmast, acebbub awreɣ"
+        ]
+      },
+      "👱🏾‍♀": {
+        "default": [
+          "acebbub awreɣ",
+          "taglimt tubrikt talemmast",
+          "tameṭṭut: acebbub awreɣ"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt tubrikt talemmast, acebbub awreɣ"
+        ]
+      },
+      "👱🏿‍♀": {
+        "default": [
+          "acebbub awreɣ",
+          "taglimt tubrikt",
+          "tameṭṭut: acebbub awreɣ"
+        ],
+        "tts": [
+          "tameṭṭut: taglimt tubrikt, acebbub awreɣ"
         ]
       },
       "👩🏻‍❤‍👨🏻": {
@@ -4590,6 +4932,276 @@
           "tamɣart: taglimt tubrikt"
         ]
       },
+      "🙍🏻": {
+        "default": [
+          "amdan imesxenfeṛ",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "amdan imexenfeṛ: taglimt taceɛlalt"
+        ]
+      },
+      "🙍🏼": {
+        "default": [
+          "amdan imesxenfeṛ",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "amdan imexenfeṛ: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🙍🏽": {
+        "default": [
+          "amdan imesxenfeṛ",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "amdan imexenfeṛ: taglimt talemmast"
+        ]
+      },
+      "🙍🏾": {
+        "default": [
+          "amdan imesxenfeṛ",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "amdan imexenfeṛ: taglimt tubrikt talemmast"
+        ]
+      },
+      "🙍🏿": {
+        "default": [
+          "amdan imesxenfeṛ",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "amdan imexenfeṛ: taglimt tubrikt"
+        ]
+      },
+      "🙍🏻‍♂": {
+        "default": [
+          "argaz imesxenfeṛ",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz imesxenfeṛ: taglimt taceɛlalt"
+        ]
+      },
+      "🙍🏼‍♂": {
+        "default": [
+          "argaz imesxenfeṛ",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz imesxenfeṛ: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🙍🏽‍♂": {
+        "default": [
+          "argaz imesxenfeṛ",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz imesxenfeṛ: taglimt talemmast"
+        ]
+      },
+      "🙍🏾‍♂": {
+        "default": [
+          "argaz imesxenfeṛ",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz imesxenfeṛ: taglimt tubrikt talemmast"
+        ]
+      },
+      "🙍🏿‍♂": {
+        "default": [
+          "argaz imesxenfeṛ",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "argaz imesxenfeṛ: taglimt tubrikt"
+        ]
+      },
+      "🙍🏻‍♀": {
+        "default": [
+          "taglimt taceɛlalt",
+          "tameṭṭut timesxenfeṛt"
+        ],
+        "tts": [
+          "tameṭṭut timesxenfeṛt: taglimt taceɛlalt"
+        ]
+      },
+      "🙍🏼‍♀": {
+        "default": [
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut timesxenfeṛt"
+        ],
+        "tts": [
+          "tameṭṭut timesxenfeṛt: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🙍🏽‍♀": {
+        "default": [
+          "taglimt talemmast",
+          "tameṭṭut timesxenfeṛt"
+        ],
+        "tts": [
+          "tameṭṭut timesxenfeṛt: taglimt talemmast"
+        ]
+      },
+      "🙍🏾‍♀": {
+        "default": [
+          "taglimt tubrikt talemmast",
+          "tameṭṭut timesxenfeṛt"
+        ],
+        "tts": [
+          "tameṭṭut timesxenfeṛt: taglimt tubrikt talemmast"
+        ]
+      },
+      "🙍🏿‍♀": {
+        "default": [
+          "taglimt tubrikt",
+          "tameṭṭut timesxenfeṛt"
+        ],
+        "tts": [
+          "tameṭṭut timesxenfeṛt: taglimt tubrikt"
+        ]
+      },
+      "🙎🏻": {
+        "default": [
+          "amdan imcennef",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "amdan imcennef: taglimt taceɛlalt"
+        ]
+      },
+      "🙎🏼": {
+        "default": [
+          "amdan imcennef",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "amdan imcennef: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🙎🏽": {
+        "default": [
+          "amdan imcennef",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "amdan imcennef: taglimt talemmast"
+        ]
+      },
+      "🙎🏾": {
+        "default": [
+          "amdan imcennef",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "amdan imcennef: taglimt tubrikt talemmast"
+        ]
+      },
+      "🙎🏿": {
+        "default": [
+          "amdan imcennef",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "amdan imcennef: taglimt tubrikt"
+        ]
+      },
+      "🙎🏻‍♂": {
+        "default": [
+          "argaz imcennef",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz imcennef: taglimt taceɛlalt"
+        ]
+      },
+      "🙎🏼‍♂": {
+        "default": [
+          "argaz imcennef",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz imcennef: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🙎🏽‍♂": {
+        "default": [
+          "argaz imcennef",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz imcennef: taglimt talemmast"
+        ]
+      },
+      "🙎🏾‍♂": {
+        "default": [
+          "argaz imcennef",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz imcennef: taglimt tubrikt talemmast"
+        ]
+      },
+      "🙎🏿‍♂": {
+        "default": [
+          "argaz imcennef",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "argaz imcennef: taglimt tubrikt"
+        ]
+      },
+      "🙎🏻‍♀": {
+        "default": [
+          "taglimt taceɛlalt",
+          "tameṭṭut timcenneft"
+        ],
+        "tts": [
+          "tameṭṭut timcenneft: taglimt taceɛlalt"
+        ]
+      },
+      "🙎🏼‍♀": {
+        "default": [
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut timcenneft"
+        ],
+        "tts": [
+          "tameṭṭut timcenneft: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🙎🏽‍♀": {
+        "default": [
+          "taglimt talemmast",
+          "tameṭṭut timcenneft"
+        ],
+        "tts": [
+          "tameṭṭut timcenneft: taglimt talemmast"
+        ]
+      },
+      "🙎🏾‍♀": {
+        "default": [
+          "taglimt tubrikt talemmast",
+          "tameṭṭut timcenneft"
+        ],
+        "tts": [
+          "tameṭṭut timcenneft: taglimt tubrikt talemmast"
+        ]
+      },
+      "🙎🏿‍♀": {
+        "default": [
+          "taglimt tubrikt",
+          "tameṭṭut timcenneft"
+        ],
+        "tts": [
+          "tameṭṭut timcenneft: taglimt tubrikt"
+        ]
+      },
       "🧏🏻": {
         "default": [
           "amdan aɛeẓẓug",
@@ -4633,6 +5245,501 @@
         ],
         "tts": [
           "amdan aɛeẓẓug: taglimt tubrikt"
+        ]
+      },
+      "🧏🏻‍♂": {
+        "default": [
+          "argaz aεeẓẓug",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz aεeẓẓug: taglimt taceɛlalt"
+        ]
+      },
+      "🧏🏼‍♂": {
+        "default": [
+          "argaz aεeẓẓug",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz aεeẓẓug: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🧏🏽‍♂": {
+        "default": [
+          "argaz aεeẓẓug",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz aεeẓẓug: taglimt talemmast"
+        ]
+      },
+      "🧏🏾‍♂": {
+        "default": [
+          "argaz aεeẓẓug",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz aεeẓẓug: taglimt tubrikt talemmast"
+        ]
+      },
+      "🧏🏿‍♂": {
+        "default": [
+          "argaz aεeẓẓug",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "argaz aεeẓẓug: taglimt tubrikt"
+        ]
+      },
+      "🧏🏻‍♀": {
+        "default": [
+          "taglimt taceɛlalt",
+          "tameṭṭut taεeẓẓugt"
+        ],
+        "tts": [
+          "tameṭṭut taεeẓẓugt: taglimt taceɛlalt"
+        ]
+      },
+      "🧏🏼‍♀": {
+        "default": [
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut taεeẓẓugt"
+        ],
+        "tts": [
+          "tameṭṭut taεeẓẓugt: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🧏🏽‍♀": {
+        "default": [
+          "taglimt talemmast",
+          "tameṭṭut taεeẓẓugt"
+        ],
+        "tts": [
+          "tameṭṭut taεeẓẓugt: taglimt talemmast"
+        ]
+      },
+      "🧏🏾‍♀": {
+        "default": [
+          "taglimt tubrikt talemmast",
+          "tameṭṭut taεeẓẓugt"
+        ],
+        "tts": [
+          "tameṭṭut taεeẓẓugt: taglimt tubrikt talemmast"
+        ]
+      },
+      "🧏🏿‍♀": {
+        "default": [
+          "taglimt tubrikt",
+          "tameṭṭut taεeẓẓugt"
+        ],
+        "tts": [
+          "tameṭṭut taεeẓẓugt: taglimt tubrikt"
+        ]
+      },
+      "🙇🏻": {
+        "default": [
+          "amdan yettanez",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "amdan yettanez: taglimt taceɛlalt"
+        ]
+      },
+      "🙇🏼": {
+        "default": [
+          "amdan yettanez",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "amdan yettanez: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🙇🏽": {
+        "default": [
+          "amdan yettanez",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "amdan yettanez: taglimt talemmast"
+        ]
+      },
+      "🙇🏾": {
+        "default": [
+          "amdan yettanez",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "amdan yettanez: taglimt tubrikt talemmast"
+        ]
+      },
+      "🙇🏿": {
+        "default": [
+          "amdan yettanez",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "amdan yettanez: taglimt tubrikt"
+        ]
+      },
+      "🙇🏻‍♂": {
+        "default": [
+          "argaz yettanez",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz yettanez: taglimt taceɛlalt"
+        ]
+      },
+      "🙇🏼‍♂": {
+        "default": [
+          "argaz yettanez",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz yettanez: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🙇🏽‍♂": {
+        "default": [
+          "argaz yettanez",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz yettanez: taglimt talemmast"
+        ]
+      },
+      "🙇🏾‍♂": {
+        "default": [
+          "argaz yettanez",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz yettanez: taglimt tubrikt talemmast"
+        ]
+      },
+      "🙇🏿‍♂": {
+        "default": [
+          "argaz yettanez",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "argaz yettanez: taglimt tubrikt"
+        ]
+      },
+      "🙇🏻‍♀": {
+        "default": [
+          "taglimt taceɛlalt",
+          "tameṭṭut tettanez"
+        ],
+        "tts": [
+          "tameṭṭut tettanez: taglimt taceɛlalt"
+        ]
+      },
+      "🙇🏼‍♀": {
+        "default": [
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut tettanez"
+        ],
+        "tts": [
+          "tameṭṭut tettanez: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🙇🏽‍♀": {
+        "default": [
+          "taglimt talemmast",
+          "tameṭṭut tettanez"
+        ],
+        "tts": [
+          "tameṭṭut tettanez: taglimt talemmast"
+        ]
+      },
+      "🙇🏾‍♀": {
+        "default": [
+          "taglimt tubrikt talemmast",
+          "tameṭṭut tettanez"
+        ],
+        "tts": [
+          "tameṭṭut tettanez: taglimt tubrikt talemmast"
+        ]
+      },
+      "🙇🏿‍♀": {
+        "default": [
+          "taglimt tubrikt",
+          "tameṭṭut tettanez"
+        ],
+        "tts": [
+          "tameṭṭut tettanez: taglimt tubrikt"
+        ]
+      },
+      "🧑🏻‍🎓": {
+        "default": [
+          "anelmad",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "anelmad: taglimt taceɛlalt"
+        ]
+      },
+      "🧑🏼‍🎓": {
+        "default": [
+          "anelmad",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "anelmad: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🧑🏽‍🎓": {
+        "default": [
+          "anelmad",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "anelmad: taglimt talemmast"
+        ]
+      },
+      "🧑🏾‍🎓": {
+        "default": [
+          "anelmad",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "anelmad: taglimt tubrikt talemmast"
+        ]
+      },
+      "🧑🏿‍🎓": {
+        "default": [
+          "anelmad",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "anelmad: taglimt tubrikt"
+        ]
+      },
+      "👨🏻‍🎓": {
+        "default": [
+          "argaz anelmad",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz anelmad: taglimt taceɛlalt"
+        ]
+      },
+      "👨🏼‍🎓": {
+        "default": [
+          "argaz anelmad",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz anelmad: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "👨🏽‍🎓": {
+        "default": [
+          "argaz anelmad",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz anelmad: taglimt talemmast"
+        ]
+      },
+      "👨🏾‍🎓": {
+        "default": [
+          "argaz anelmad",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz anelmad: taglimt tubrikt talemmast"
+        ]
+      },
+      "👨🏿‍🎓": {
+        "default": [
+          "argaz anelmad",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "argaz anelmad: taglimt tubrikt"
+        ]
+      },
+      "👩🏻‍🎓": {
+        "default": [
+          "taglimt taceɛlalt",
+          "tameṭṭut tanelmadt"
+        ],
+        "tts": [
+          "tameṭṭut tanelmadt: taglimt taceɛlalt"
+        ]
+      },
+      "👩🏼‍🎓": {
+        "default": [
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut tanelmadt"
+        ],
+        "tts": [
+          "tameṭṭut tanelmadt: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "👩🏽‍🎓": {
+        "default": [
+          "taglimt talemmast",
+          "tameṭṭut tanelmadt"
+        ],
+        "tts": [
+          "tameṭṭut tanelmadt: taglimt talemmast"
+        ]
+      },
+      "👩🏾‍🎓": {
+        "default": [
+          "taglimt tubrikt talemmast",
+          "tameṭṭut tanelmadt"
+        ],
+        "tts": [
+          "tameṭṭut tanelmadt: taglimt tubrikt talemmast"
+        ]
+      },
+      "👩🏿‍🎓": {
+        "default": [
+          "taglimt tubrikt",
+          "tameṭṭut tanelmadt"
+        ],
+        "tts": [
+          "tameṭṭut tanelmadt: taglimt tubrikt"
+        ]
+      },
+      "🧑🏻‍🏫": {
+        "default": [
+          "aselmad",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "aselmad: taglimt taceɛlalt"
+        ]
+      },
+      "🧑🏼‍🏫": {
+        "default": [
+          "aselmad",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "aselmad: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🧑🏽‍🏫": {
+        "default": [
+          "aselmad",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "aselmad: taglimt talemmast"
+        ]
+      },
+      "🧑🏾‍🏫": {
+        "default": [
+          "aselmad",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "aselmad: taglimt tubrikt talemmast"
+        ]
+      },
+      "🧑🏿‍🏫": {
+        "default": [
+          "aselmad",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "aselmad: taglimt tubrikt"
+        ]
+      },
+      "👨🏻‍🏫": {
+        "default": [
+          "argaz aselmad",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz aselmad: taglimt taceɛlalt"
+        ]
+      },
+      "👨🏼‍🏫": {
+        "default": [
+          "argaz aselmad",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz aselmad: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "👨🏽‍🏫": {
+        "default": [
+          "argaz aselmad",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz aselmad: taglimt talemmast"
+        ]
+      },
+      "👨🏾‍🏫": {
+        "default": [
+          "argaz aselmad",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz aselmad: taglimt tubrikt talemmast"
+        ]
+      },
+      "👨🏿‍🏫": {
+        "default": [
+          "argaz aselmad",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "argaz aselmad: taglimt tubrikt"
+        ]
+      },
+      "👩🏻‍🏫": {
+        "default": [
+          "taglimt taceɛlalt",
+          "tameṭṭut taselmadt"
+        ],
+        "tts": [
+          "tameṭṭut taselmadt: taglimt taceɛlalt"
+        ]
+      },
+      "👩🏼‍🏫": {
+        "default": [
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut taselmadt"
+        ],
+        "tts": [
+          "tameṭṭut taselmadt: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "👩🏽‍🏫": {
+        "default": [
+          "taglimt talemmast",
+          "tameṭṭut taselmadt"
+        ],
+        "tts": [
+          "tameṭṭut taselmadt: taglimt talemmast"
+        ]
+      },
+      "👩🏾‍🏫": {
+        "default": [
+          "taglimt tubrikt talemmast",
+          "tameṭṭut taselmadt"
+        ],
+        "tts": [
+          "tameṭṭut taselmadt: taglimt tubrikt talemmast"
+        ]
+      },
+      "👩🏿‍🏫": {
+        "default": [
+          "taglimt tubrikt",
+          "tameṭṭut taselmadt"
+        ],
+        "tts": [
+          "tameṭṭut taselmadt: taglimt tubrikt"
         ]
       },
       "👮🏻": {
@@ -5130,6 +6237,96 @@
           "amdan ileḥḥun: taglimt tubrikt"
         ]
       },
+      "🚶🏻‍♂": {
+        "default": [
+          "argaz ileḥḥun",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz ileḥḥun: taglimt taceɛlalt"
+        ]
+      },
+      "🚶🏼‍♂": {
+        "default": [
+          "argaz ileḥḥun",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz ileḥḥun: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🚶🏽‍♂": {
+        "default": [
+          "argaz ileḥḥun",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz ileḥḥun: taglimt talemmast"
+        ]
+      },
+      "🚶🏾‍♂": {
+        "default": [
+          "argaz ileḥḥun",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz ileḥḥun: taglimt tubrikt talemmast"
+        ]
+      },
+      "🚶🏿‍♂": {
+        "default": [
+          "argaz ileḥḥun",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "argaz ileḥḥun: taglimt tubrikt"
+        ]
+      },
+      "🚶🏻‍♀": {
+        "default": [
+          "taglimt taceɛlalt",
+          "tameṭṭut ileḥḥun"
+        ],
+        "tts": [
+          "tameṭṭut ileḥḥun: taglimt taceɛlalt"
+        ]
+      },
+      "🚶🏼‍♀": {
+        "default": [
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut ileḥḥun"
+        ],
+        "tts": [
+          "tameṭṭut ileḥḥun: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🚶🏽‍♀": {
+        "default": [
+          "taglimt talemmast",
+          "tameṭṭut ileḥḥun"
+        ],
+        "tts": [
+          "tameṭṭut ileḥḥun: taglimt talemmast"
+        ]
+      },
+      "🚶🏾‍♀": {
+        "default": [
+          "taglimt tubrikt talemmast",
+          "tameṭṭut ileḥḥun"
+        ],
+        "tts": [
+          "tameṭṭut ileḥḥun: taglimt tubrikt talemmast"
+        ]
+      },
+      "🚶🏿‍♀": {
+        "default": [
+          "taglimt tubrikt",
+          "tameṭṭut ileḥḥun"
+        ],
+        "tts": [
+          "tameṭṭut ileḥḥun: taglimt tubrikt"
+        ]
+      },
       "🧍🏻": {
         "default": [
           "amdan ibedden",
@@ -5173,6 +6370,96 @@
         ],
         "tts": [
           "amdan ibedden: taglimt tubrikt"
+        ]
+      },
+      "🧍🏻‍♂": {
+        "default": [
+          "argaz ibedden",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz ibedden: taglimt taceɛlalt"
+        ]
+      },
+      "🧍🏼‍♂": {
+        "default": [
+          "argaz ibedden",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz ibedden: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🧍🏽‍♂": {
+        "default": [
+          "argaz ibedden",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz ibedden: taglimt talemmast"
+        ]
+      },
+      "🧍🏾‍♂": {
+        "default": [
+          "argaz ibedden",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz ibedden: taglimt tubrikt talemmast"
+        ]
+      },
+      "🧍🏿‍♂": {
+        "default": [
+          "argaz ibedden",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "argaz ibedden: taglimt tubrikt"
+        ]
+      },
+      "🧍🏻‍♀": {
+        "default": [
+          "taglimt taceɛlalt",
+          "tameṭṭut ibedden"
+        ],
+        "tts": [
+          "tameṭṭut ibedden: taglimt taceɛlalt"
+        ]
+      },
+      "🧍🏼‍♀": {
+        "default": [
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut ibedden"
+        ],
+        "tts": [
+          "tameṭṭut ibedden: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🧍🏽‍♀": {
+        "default": [
+          "taglimt talemmast",
+          "tameṭṭut ibedden"
+        ],
+        "tts": [
+          "tameṭṭut ibedden: taglimt talemmast"
+        ]
+      },
+      "🧍🏾‍♀": {
+        "default": [
+          "taglimt tubrikt talemmast",
+          "tameṭṭut ibedden"
+        ],
+        "tts": [
+          "tameṭṭut ibedden: taglimt tubrikt talemmast"
+        ]
+      },
+      "🧍🏿‍♀": {
+        "default": [
+          "taglimt tubrikt",
+          "tameṭṭut ibedden"
+        ],
+        "tts": [
+          "tameṭṭut ibedden: taglimt tubrikt"
         ]
       },
       "🧎🏻": {
@@ -5220,6 +6507,96 @@
           "amdan ɣef tgecrar: taglimt tubrikt"
         ]
       },
+      "🧎🏻‍♂": {
+        "default": [
+          "argaz ɣef tgecrar",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz ɣef tgecrar: taglimt taceɛlalt"
+        ]
+      },
+      "🧎🏼‍♂": {
+        "default": [
+          "argaz ɣef tgecrar",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz ɣef tgecrar: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🧎🏽‍♂": {
+        "default": [
+          "argaz ɣef tgecrar",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz ɣef tgecrar: taglimt talemmast"
+        ]
+      },
+      "🧎🏾‍♂": {
+        "default": [
+          "argaz ɣef tgecrar",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz ɣef tgecrar: taglimt tubrikt talemmast"
+        ]
+      },
+      "🧎🏿‍♂": {
+        "default": [
+          "argaz ɣef tgecrar",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "argaz ɣef tgecrar: taglimt tubrikt"
+        ]
+      },
+      "🧎🏻‍♀": {
+        "default": [
+          "taglimt taceɛlalt",
+          "tameṭṭut ɣef tgecrar"
+        ],
+        "tts": [
+          "tameṭṭut ɣef tgecrar: taglimt taceɛlalt"
+        ]
+      },
+      "🧎🏼‍♀": {
+        "default": [
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut ɣef tgecrar"
+        ],
+        "tts": [
+          "tameṭṭut ɣef tgecrar: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🧎🏽‍♀": {
+        "default": [
+          "taglimt talemmast",
+          "tameṭṭut ɣef tgecrar"
+        ],
+        "tts": [
+          "tameṭṭut ɣef tgecrar: taglimt talemmast"
+        ]
+      },
+      "🧎🏾‍♀": {
+        "default": [
+          "taglimt tubrikt talemmast",
+          "tameṭṭut ɣef tgecrar"
+        ],
+        "tts": [
+          "tameṭṭut ɣef tgecrar: taglimt tubrikt talemmast"
+        ]
+      },
+      "🧎🏿‍♀": {
+        "default": [
+          "taglimt tubrikt",
+          "tameṭṭut ɣef tgecrar"
+        ],
+        "tts": [
+          "tameṭṭut ɣef tgecrar: taglimt tubrikt"
+        ]
+      },
       "🏃🏻": {
         "default": [
           "amdan yettazzalen",
@@ -5263,6 +6640,96 @@
         ],
         "tts": [
           "amdan yettazzalen: taglimt tubrikt"
+        ]
+      },
+      "🏃🏻‍♂": {
+        "default": [
+          "argaz yettazzalen",
+          "taglimt taceɛlalt"
+        ],
+        "tts": [
+          "argaz yettazzalen: taglimt taceɛlalt"
+        ]
+      },
+      "🏃🏼‍♂": {
+        "default": [
+          "argaz yettazzalen",
+          "tagwlimt taceɛlalt talemmast"
+        ],
+        "tts": [
+          "argaz yettazzalen: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🏃🏽‍♂": {
+        "default": [
+          "argaz yettazzalen",
+          "taglimt talemmast"
+        ],
+        "tts": [
+          "argaz yettazzalen: taglimt talemmast"
+        ]
+      },
+      "🏃🏾‍♂": {
+        "default": [
+          "argaz yettazzalen",
+          "taglimt tubrikt talemmast"
+        ],
+        "tts": [
+          "argaz yettazzalen: taglimt tubrikt talemmast"
+        ]
+      },
+      "🏃🏿‍♂": {
+        "default": [
+          "argaz yettazzalen",
+          "taglimt tubrikt"
+        ],
+        "tts": [
+          "argaz yettazzalen: taglimt tubrikt"
+        ]
+      },
+      "🏃🏻‍♀": {
+        "default": [
+          "taglimt taceɛlalt",
+          "tameṭṭut yettazzalen"
+        ],
+        "tts": [
+          "tameṭṭut yettazzalen: taglimt taceɛlalt"
+        ]
+      },
+      "🏃🏼‍♀": {
+        "default": [
+          "tagwlimt taceɛlalt talemmast",
+          "tameṭṭut yettazzalen"
+        ],
+        "tts": [
+          "tameṭṭut yettazzalen: tagwlimt taceɛlalt talemmast"
+        ]
+      },
+      "🏃🏽‍♀": {
+        "default": [
+          "taglimt talemmast",
+          "tameṭṭut yettazzalen"
+        ],
+        "tts": [
+          "tameṭṭut yettazzalen: taglimt talemmast"
+        ]
+      },
+      "🏃🏾‍♀": {
+        "default": [
+          "taglimt tubrikt talemmast",
+          "tameṭṭut yettazzalen"
+        ],
+        "tts": [
+          "tameṭṭut yettazzalen: taglimt tubrikt talemmast"
+        ]
+      },
+      "🏃🏿‍♀": {
+        "default": [
+          "taglimt tubrikt",
+          "tameṭṭut yettazzalen"
+        ],
+        "tts": [
+          "tameṭṭut yettazzalen: taglimt tubrikt"
         ]
       },
       "💃🏻": {
@@ -6646,30 +8113,6 @@
         ],
         "tts": [
           "tawacult: tameṭṭut, taqcict, taqcict"
-        ]
-      },
-      "#⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: #"
-        ]
-      },
-      "*⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: *"
-        ]
-      },
-      "🔟": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 10"
         ]
       },
       "🇦🇨": {
@@ -8400,6 +9843,14 @@
           "anay: Salvadur"
         ]
       },
+      "🇸🇽": {
+        "default": [
+          "anay"
+        ],
+        "tts": [
+          "anay: Sint Maarten"
+        ]
+      },
       "🇸🇾": {
         "default": [
           "anay"
@@ -8768,11 +10219,6 @@
           "Anayra Anijiri"
         ]
       },
-      "₧": {
-        "tts": [
-          "Apisetas n Spanya"
-        ]
-      },
       "₪": {
         "tts": [
           "Acikil amaynut n Izrayil"
@@ -8828,84 +10274,9 @@
           "Alari n Jyurjya"
         ]
       },
-      "0⃣": {
-        "default": [
-          "keycap"
-        ],
+      "₧": {
         "tts": [
-          "keycap: 0"
-        ]
-      },
-      "1⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 1"
-        ]
-      },
-      "2⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 2"
-        ]
-      },
-      "3⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 3"
-        ]
-      },
-      "4⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 4"
-        ]
-      },
-      "5⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 5"
-        ]
-      },
-      "6⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 6"
-        ]
-      },
-      "7⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 7"
-        ]
-      },
-      "8⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 8"
-        ]
-      },
-      "9⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 9"
+          "Apisetas n Spanya"
         ]
       }
     }

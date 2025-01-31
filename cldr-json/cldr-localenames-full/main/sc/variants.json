@@ -2,9 +2,6 @@
   "main": {
     "sc": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sc"
       },
       "localeDisplayNames": {
@@ -66,6 +63,8 @@
           "LEMOSIN": "limosinu",
           "LENGADOC": "languedocianu",
           "LIPAW": "su dialetu lipovaz de su resianu",
+          "LTG1929": "ortografia de sa limba latgaliana de su 1929",
+          "LTG2007": "ortografia de sa limba latgaliana de su 2007",
           "LUNA1918": "ortografia russa riformada de su 1918",
           "METELKO": "alfabetu Metelko",
           "MONOTON": "monotònicu",

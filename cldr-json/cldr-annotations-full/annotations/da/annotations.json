@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "da"
     },
     "annotations": {
@@ -71,7 +68,10 @@
       },
       "‾": {
         "default": [
-          "høj streg"
+          "forbindelsesstreg",
+          "høj streg",
+          "overstreg",
+          "vinculum"
         ],
         "tts": [
           "høj streg"
@@ -864,7 +864,8 @@
       },
       "⁂": {
         "default": [
-          "asterisme"
+          "asterisme",
+          "stjerner"
         ],
         "tts": [
           "asterisme"
@@ -1186,7 +1187,9 @@
       },
       "↶": {
         "default": [
-          "halvcirkelpil mod uret, top"
+          "halvcirkelpil mod uret",
+          "halvcirkelpil mod uret, top",
+          "top"
         ],
         "tts": [
           "halvcirkelpil mod uret, top"
@@ -1194,7 +1197,9 @@
       },
       "↷": {
         "default": [
-          "halvcirkelpil med uret, top"
+          "halvcirkelpil med uret",
+          "halvcirkelpil med uret, top",
+          "top"
         ],
         "tts": [
           "halvcirkelpil med uret, top"
@@ -1210,6 +1215,10 @@
       },
       "↹": {
         "default": [
+          "højre",
+          "pil",
+          "streg",
+          "venstre",
           "venstrepil med streg over højrepil med streg"
         ],
         "tts": [
@@ -1616,7 +1625,12 @@
       },
       "∀": {
         "default": [
-          "for alle"
+          "alkvantor",
+          "alle",
+          "for alle",
+          "givet",
+          "omvendt A",
+          "universal"
         ],
         "tts": [
           "for alle"
@@ -1624,6 +1638,8 @@
       },
       "∂": {
         "default": [
+          "differentiale",
+          "differentialligning",
           "partiel differentialligning"
         ],
         "tts": [
@@ -1632,7 +1648,10 @@
       },
       "∃": {
         "default": [
-          "der findes"
+          "der findes",
+          "eksistenskvantor",
+          "findes",
+          "omvendt E"
         ],
         "tts": [
           "der findes"
@@ -1640,6 +1659,8 @@
       },
       "∅": {
         "default": [
+          "mængdeoperator",
+          "matematik",
           "tom mængde"
         ],
         "tts": [
@@ -1680,6 +1701,8 @@
       },
       "∉": {
         "default": [
+          "element",
+          "ikke i",
           "tilhører ikke"
         ],
         "tts": [
@@ -1688,6 +1711,8 @@
       },
       "∋": {
         "default": [
+          "element",
+          "indeholder",
           "indeholder som element"
         ],
         "tts": [
@@ -1696,6 +1721,9 @@
       },
       "∎": {
         "default": [
+          "halmos",
+          "hvilket skulle bevises",
+          "q.e.d.",
           "slut på bevis"
         ],
         "tts": [
@@ -1704,18 +1732,25 @@
       },
       "∏": {
         "default": [
+          "logik",
+          "matematik",
+          "multiplikation",
+          "n-ært produkt",
           "produkt"
         ],
         "tts": [
-          "produkt"
+          "n-ært produkt"
         ]
       },
       "∑": {
         "default": [
-          "sum"
+          "n-ær summering",
+          "sigma",
+          "sum",
+          "summering"
         ],
         "tts": [
-          "sum"
+          "n-ær summering"
         ]
       },
       "+": {
@@ -1774,7 +1809,9 @@
       },
       "≮": {
         "default": [
-          "ikke mindre end"
+          "ikke mindre end",
+          "matematik",
+          "ulighed"
         ],
         "tts": [
           "ikke mindre end"
@@ -1812,7 +1849,9 @@
       },
       "≯": {
         "default": [
-          "ikke større end"
+          "ikke større end",
+          "matematik",
+          "ulighed"
         ],
         "tts": [
           "ikke større end"
@@ -1873,7 +1912,8 @@
       },
       "∓": {
         "default": [
-          "minus eller plus"
+          "minus eller plus",
+          "plus/minus"
         ],
         "tts": [
           "minus eller plus"
@@ -1881,7 +1921,11 @@
       },
       "∕": {
         "default": [
-          "division"
+          "division",
+          "divisionsstreg",
+          "divisionstegn",
+          "skråstreg",
+          "streg"
         ],
         "tts": [
           "division"
@@ -1889,7 +1933,11 @@
       },
       "⁄": {
         "default": [
-          "brøkdel"
+          "brøk",
+          "brøkdel",
+          "brøkstreg",
+          "brøktegn",
+          "skråstreg"
         ],
         "tts": [
           "brøkdel"
@@ -1897,7 +1945,10 @@
       },
       "∗": {
         "default": [
-          "asteriskoperator"
+          "asterisk",
+          "asteriskoperator",
+          "stjerne",
+          "stjerneoperator"
         ],
         "tts": [
           "asteriskoperator"
@@ -1905,6 +1956,8 @@
       },
       "∘": {
         "default": [
+          "komposition",
+          "operator",
           "ringoperator"
         ],
         "tts": [
@@ -1913,6 +1966,8 @@
       },
       "∙": {
         "default": [
+          "operator",
+          "punkt",
           "punktoperator"
         ],
         "tts": [
@@ -1933,10 +1988,11 @@
       },
       "∝": {
         "default": [
-          "proportional"
+          "proportionalitet",
+          "proportionalt med"
         ],
         "tts": [
-          "proportional"
+          "proportionalt med"
         ]
       },
       "∞": {
@@ -1950,6 +2006,7 @@
       },
       "∟": {
         "default": [
+          "matematik",
           "ret vinkel"
         ],
         "tts": [
@@ -1958,6 +2015,7 @@
       },
       "∠": {
         "default": [
+          "spids",
           "vinkel"
         ],
         "tts": [
@@ -1966,7 +2024,8 @@
       },
       "∣": {
         "default": [
-          "deler"
+          "deler",
+          "fordeler"
         ],
         "tts": [
           "deler"
@@ -1982,6 +2041,9 @@
       },
       "∧": {
         "default": [
+          "ac",
+          "atque",
+          "kile",
           "logisk og"
         ],
         "tts": [
@@ -2010,7 +2072,9 @@
       },
       "∫": {
         "default": [
-          "integral"
+          "integral",
+          "matematik",
+          "regning"
         ],
         "tts": [
           "integral"
@@ -2018,7 +2082,9 @@
       },
       "∬": {
         "default": [
-          "dobbelt integral"
+          "dobbelt integral",
+          "matematik",
+          "regning"
         ],
         "tts": [
           "dobbelt integral"
@@ -2036,7 +2102,8 @@
       },
       "∴": {
         "default": [
-          "derfor"
+          "derfor",
+          "logik"
         ],
         "tts": [
           "derfor"
@@ -2044,7 +2111,8 @@
       },
       "∵": {
         "default": [
-          "fordi"
+          "fordi",
+          "logik"
         ],
         "tts": [
           "fordi"
@@ -2060,7 +2128,8 @@
       },
       "∷": {
         "default": [
-          "proportion"
+          "proportion",
+          "proportionalitet"
         ],
         "tts": [
           "proportion"
@@ -2068,6 +2137,7 @@
       },
       "∼": {
         "default": [
+          "operator",
           "tilde-operator"
         ],
         "tts": [
@@ -2076,7 +2146,8 @@
       },
       "∽": {
         "default": [
-          "omvendt tilde"
+          "omvendt tilde",
+          "tilde"
         ],
         "tts": [
           "omvendt tilde"
@@ -2093,7 +2164,9 @@
       },
       "≃": {
         "default": [
-          "asymptotisk lig med"
+          "asymptotisk",
+          "asymptotisk lig med",
+          "matematik"
         ],
         "tts": [
           "asymptotisk lig med"
@@ -2101,7 +2174,11 @@
       },
       "≅": {
         "default": [
-          "cirka lig med"
+          "cirka lig med",
+          "isomorfi",
+          "kongruens",
+          "lighed",
+          "matematik"
         ],
         "tts": [
           "cirka lig med"
@@ -2120,7 +2197,9 @@
       },
       "≌": {
         "default": [
-          "alle lig med"
+          "alle lig med",
+          "lighed",
+          "matematik"
         ],
         "tts": [
           "alle lig med"
@@ -2136,6 +2215,8 @@
       },
       "≖": {
         "default": [
+          "lighed",
+          "matematik",
           "ring i lighedstegn"
         ],
         "tts": [
@@ -2191,7 +2272,9 @@
       },
       "≦": {
         "default": [
-          "mindre end over lig med"
+          "matematik",
+          "mindre end over lig med",
+          "ulighed"
         ],
         "tts": [
           "mindre end over lig med"
@@ -2199,7 +2282,9 @@
       },
       "≧": {
         "default": [
-          "større end over lig med"
+          "matematik",
+          "større end over lig med",
+          "ulighed"
         ],
         "tts": [
           "større end over lig med"
@@ -2207,7 +2292,9 @@
       },
       "≪": {
         "default": [
-          "meget mindre end"
+          "matematik",
+          "meget mindre end",
+          "ulighed"
         ],
         "tts": [
           "meget mindre end"
@@ -2215,7 +2302,9 @@
       },
       "≫": {
         "default": [
-          "meget større end"
+          "matematik",
+          "meget større end",
+          "ulighed"
         ],
         "tts": [
           "meget større end"
@@ -2231,8 +2320,9 @@
       },
       "≳": {
         "default": [
+          "matematik",
           "større end-ækvivalent",
-          "større end-ekvivalent"
+          "ulighed"
         ],
         "tts": [
           "større end-ækvivalent"
@@ -2240,7 +2330,9 @@
       },
       "≺": {
         "default": [
-          "kommer før"
+          "kommer før",
+          "mængdeoperator",
+          "matematik"
         ],
         "tts": [
           "kommer før"
@@ -2248,7 +2340,9 @@
       },
       "≻": {
         "default": [
-          "kommer efter"
+          "kommer efter",
+          "mængdeoperator",
+          "matematik"
         ],
         "tts": [
           "kommer efter"
@@ -2256,7 +2350,9 @@
       },
       "⊁": {
         "default": [
-          "kommer ikke efter"
+          "kommer ikke efter",
+          "mængdeoperator",
+          "matematik"
         ],
         "tts": [
           "kommer ikke efter"
@@ -2292,6 +2388,8 @@
       },
       "⊇": {
         "default": [
+          "lighed",
+          "matematik",
           "supermængde eller lig med"
         ],
         "tts": [
@@ -2300,6 +2398,7 @@
       },
       "⊕": {
         "default": [
+          "plus",
           "plus med ring"
         ],
         "tts": [
@@ -2308,7 +2407,9 @@
       },
       "⊖": {
         "default": [
-          "minus med ring"
+          "erosion",
+          "minus med ring",
+          "symmetrisk differens"
         ],
         "tts": [
           "minus med ring"
@@ -2316,7 +2417,9 @@
       },
       "⊗": {
         "default": [
-          "gange med ring"
+          "gange med ring",
+          "produkt",
+          "tensor"
         ],
         "tts": [
           "gange med ring"
@@ -2324,7 +2427,9 @@
       },
       "⊘": {
         "default": [
-          "division med ring"
+          "division",
+          "division med ring",
+          "matematik"
         ],
         "tts": [
           "division med ring"
@@ -2332,7 +2437,9 @@
       },
       "⊙": {
         "default": [
-          "punktoperator med ring"
+          "operator",
+          "punktoperator med ring",
+          "XNOR"
         ],
         "tts": [
           "punktoperator med ring"
@@ -2348,6 +2455,9 @@
       },
       "⊛": {
         "default": [
+          "asterisk",
+          "operator",
+          "stjerne",
           "stjerne-operator med ring"
         ],
         "tts": [
@@ -2356,7 +2466,10 @@
       },
       "⊞": {
         "default": [
-          "firkant med plus"
+          "firkant med plus",
+          "kvadrat med plus",
+          "ligner addition",
+          "matematik"
         ],
         "tts": [
           "firkant med plus"
@@ -2364,7 +2477,10 @@
       },
       "⊟": {
         "default": [
-          "firkant med minus"
+          "firkant med minus",
+          "kvadrat med minus",
+          "ligner subtraktion",
+          "matematik"
         ],
         "tts": [
           "firkant med minus"
@@ -2391,7 +2507,9 @@
       },
       "⊰": {
         "default": [
-          "kommer før under relation"
+          "kommer før under relation",
+          "mængdeoperator",
+          "matematik"
         ],
         "tts": [
           "kommer før under relation"
@@ -2399,7 +2517,9 @@
       },
       "⊱": {
         "default": [
-          "følger efter under relation"
+          "følger efter under relation",
+          "mængdeoperator",
+          "matematik"
         ],
         "tts": [
           "følger efter under relation"
@@ -2407,7 +2527,9 @@
       },
       "⋭": {
         "default": [
-          "indeholder ikke som normal undergruppe lig med"
+          "gruppeteori",
+          "indeholder ikke som normal undergruppe lig med",
+          "matematik"
         ],
         "tts": [
           "indeholder ikke som normal undergruppe lig med"
@@ -2423,7 +2545,11 @@
       },
       "⊹": {
         "default": [
-          "hermitisk transponeret matrix"
+          "hermitisk transponeret matrix",
+          "kvadratisk matrix",
+          "matematik",
+          "selv-invers matrix",
+          "selvtransponeret matrix"
         ],
         "tts": [
           "hermitisk transponeret matrix"
@@ -2431,6 +2557,7 @@
       },
       "⊿": {
         "default": [
+          "matematik",
           "retvinklet trekant"
         ],
         "tts": [
@@ -2439,6 +2566,8 @@
       },
       "⋁": {
         "default": [
+          "disjunktion",
+          "logik",
           "n-ært logisk eller"
         ],
         "tts": [
@@ -2447,6 +2576,8 @@
       },
       "⋂": {
         "default": [
+          "fællesmængde",
+          "matematik",
           "n-ær fællesmængde"
         ],
         "tts": [
@@ -2455,6 +2586,8 @@
       },
       "⋃": {
         "default": [
+          "foreningsmængde",
+          "matematik",
           "n-ær foreningsmængde"
         ],
         "tts": [
@@ -2463,6 +2596,8 @@
       },
       "⋅": {
         "default": [
+          "operator",
+          "prik",
           "prikoperator"
         ],
         "tts": [
@@ -2471,6 +2606,8 @@
       },
       "⋆": {
         "default": [
+          "operator",
+          "stjerne",
           "stjerneoperator"
         ],
         "tts": [
@@ -2479,6 +2616,8 @@
       },
       "⋈": {
         "default": [
+          "binær operator",
+          "butterfly",
           "naturlig join"
         ],
         "tts": [
@@ -2487,7 +2626,9 @@
       },
       "⋒": {
         "default": [
-          "dobbelt fællesmængde"
+          "dobbelt fællesmængde",
+          "matematik",
+          "sætoperator"
         ],
         "tts": [
           "dobbelt fællesmængde"
@@ -2495,7 +2636,9 @@
       },
       "⋘": {
         "default": [
-          "langt mindre end"
+          "langt mindre end",
+          "matematik",
+          "ulighed"
         ],
         "tts": [
           "langt mindre end"
@@ -2503,7 +2646,9 @@
       },
       "⋙": {
         "default": [
-          "langt større end"
+          "langt større end",
+          "matematik",
+          "ulighed"
         ],
         "tts": [
           "langt større end"
@@ -2511,7 +2656,9 @@
       },
       "⋮": {
         "default": [
-          "lodret ellipse"
+          "ellipse",
+          "lodret ellipse",
+          "matematik"
         ],
         "tts": [
           "lodret ellipse"
@@ -2519,6 +2666,7 @@
       },
       "⋯": {
         "default": [
+          "ellipse",
           "vandret ellipse"
         ],
         "tts": [
@@ -2527,7 +2675,9 @@
       },
       "⋰": {
         "default": [
-          "diagonal ellipse opad mod højre"
+          "diagonal ellipse opad mod højre",
+          "ellipse",
+          "matematik"
         ],
         "tts": [
           "diagonal ellipse opad mod højre"
@@ -2535,7 +2685,9 @@
       },
       "⋱": {
         "default": [
-          "diagonal ellipse nedad mod højre"
+          "diagonal ellipse nedad mod højre",
+          "ellipse",
+          "matematik"
         ],
         "tts": [
           "diagonal ellipse nedad mod højre"
@@ -2543,82 +2695,87 @@
       },
       "■": {
         "default": [
-          "udfyldt firkant"
+          "udfyldt kvadrat"
         ],
         "tts": [
-          "udfyldt firkant"
+          "udfyldt kvadrat"
         ]
       },
       "□": {
         "default": [
-          "hul firkant"
+          "hult kvadrat"
         ],
         "tts": [
-          "hul firkant"
+          "hult kvadrat"
         ]
       },
       "▢": {
         "default": [
-          "hul firkant med afrundede hjørner"
+          "afrundede hjørner",
+          "hult",
+          "kvadrat"
         ],
         "tts": [
-          "hul firkant med afrundede hjørner"
+          "hult kvadrat med afrundede hjørner"
         ]
       },
       "▣": {
         "default": [
-          "hul firkant, der indeholder udfyldt firkant"
+          "hult",
+          "indeholder udfyldt kvadrat",
+          "kvadrat",
+          "udfyldt"
         ],
         "tts": [
-          "hul firkant, der indeholder udfyldt firkant"
+          "hult kvadrat, der indeholder udfyldt kvadrat"
         ]
       },
       "▤": {
         "default": [
-          "firkant med vandret udfyldning"
+          "kvadrat med vandret udfyldning"
         ],
         "tts": [
-          "firkant med vandret udfyldning"
+          "kvadrat med vandret udfyldning"
         ]
       },
       "▥": {
         "default": [
-          "firkant med lodret udfyldning"
+          "kvadrat med lodret udfyldning"
         ],
         "tts": [
-          "firkant med lodret udfyldning"
+          "kvadrat med lodret udfyldning"
         ]
       },
       "▦": {
         "default": [
-          "firkant med krydsskraveret udfyldning"
+          "kvadrat med krydsskraveret udfyldning"
         ],
         "tts": [
-          "firkant med krydsskraveret udfyldning"
+          "kvadrat med krydsskraveret udfyldning"
         ]
       },
       "▧": {
         "default": [
-          "firkant med skravering øverst til venstre mod nederst til højre"
+          "kvadrat med skravering øverst til venstre mod nederst til højre"
         ],
         "tts": [
-          "firkant med skravering øverst til venstre mod nederst til højre"
+          "kvadrat med skravering øverst til venstre mod nederst til højre"
         ]
       },
       "▨": {
         "default": [
-          "firkant med skravering øverst til højre mod nederst til venstre"
+          "kvadrat med skravering øverst til højre mod nederst til venstre"
         ],
         "tts": [
-          "firkant med skravering øverst til højre mod nederst til venstre"
+          "kvadrat med skravering øverst til højre mod nederst til venstre"
         ]
       },
       "▩": {
         "default": [
-          "firkant med diagonal krydsskraveret udfyldning"
+          "kvadrat med diagonal krydsskraveret udfyldning"
         ],
         "tts": [
-          "firkant med diagonal krydsskraveret udfyldning"
+          "kvadrat med diagonal krydsskraveret udfyldning"
         ]
       },
       "▬": {
@@ -2667,6 +2824,8 @@
       },
       "△": {
         "default": [
+          "der peger opad",
+          "hul trekant",
           "hul trekant, der peger opad"
         ],
         "tts": [
@@ -2675,6 +2834,8 @@
       },
       "▴": {
         "default": [
+          "der peger opad",
+          "udfyldt lille trekant",
           "udfyldt lille trekant, der peger opad"
         ],
         "tts": [
@@ -2683,6 +2844,8 @@
       },
       "▵": {
         "default": [
+          "der peger opad",
+          "hul lille trekant",
           "hul lille trekant, der peger opad"
         ],
         "tts": [
@@ -2691,6 +2854,8 @@
       },
       "▷": {
         "default": [
+          "der peger mod højre",
+          "hul trekant",
           "hul trekant, der peger mod højre"
         ],
         "tts": [
@@ -2699,6 +2864,8 @@
       },
       "▸": {
         "default": [
+          "der peger mod højre",
+          "udfyldt lille trekant",
           "udfyldt lille trekant, der peger mod højre"
         ],
         "tts": [
@@ -2707,6 +2874,8 @@
       },
       "▹": {
         "default": [
+          "der peger mod højre",
+          "hul lille trekant",
           "hul lille trekant, der peger mod højre"
         ],
         "tts": [
@@ -2715,6 +2884,8 @@
       },
       "►": {
         "default": [
+          "der peger mod højre",
+          "udfyldt pointer",
           "udfyldt pointer, der peger mod højre"
         ],
         "tts": [
@@ -2723,6 +2894,8 @@
       },
       "▻": {
         "default": [
+          "der peger mod højre",
+          "hul pointer",
           "hul pointer, der peger mod højre"
         ],
         "tts": [
@@ -2744,6 +2917,8 @@
       },
       "▽": {
         "default": [
+          "der peger nedad",
+          "hul trekant",
           "hul trekant, der peger nedad"
         ],
         "tts": [
@@ -2752,6 +2927,8 @@
       },
       "▾": {
         "default": [
+          "der peger nedad",
+          "udfyldt lille trekant",
           "udfyldt lille trekant, der peger nedad"
         ],
         "tts": [
@@ -2760,6 +2937,8 @@
       },
       "▿": {
         "default": [
+          "der peger nedad",
+          "hul lille trekant",
           "hul lille trekant, der peger nedad"
         ],
         "tts": [
@@ -2768,6 +2947,8 @@
       },
       "◁": {
         "default": [
+          "der peger mod venstre",
+          "hul trekant",
           "hul trekant, der peger mod venstre"
         ],
         "tts": [
@@ -2776,6 +2957,8 @@
       },
       "◂": {
         "default": [
+          "der peger mod venstre",
+          "udfyldt lille trekant",
           "udfyldt lille trekant, der peger mod venstre"
         ],
         "tts": [
@@ -2784,6 +2967,8 @@
       },
       "◃": {
         "default": [
+          "der peger mod venstre",
+          "hul lille trekant",
           "hul lille trekant, der peger mod venstre"
         ],
         "tts": [
@@ -2792,6 +2977,8 @@
       },
       "◄": {
         "default": [
+          "der peger mod venstre",
+          "udfyldt pointer",
           "udfyldt pointer, der peger mod venstre"
         ],
         "tts": [
@@ -2800,6 +2987,8 @@
       },
       "◅": {
         "default": [
+          "der peger mod venstre",
+          "hul pointer",
           "hul pointer, der peger mod venstre"
         ],
         "tts": [
@@ -2824,6 +3013,8 @@
       },
       "◈": {
         "default": [
+          "der indeholder udfyldt ruder",
+          "hul ruder",
           "hul ruder, der indeholder udfyldt ruder"
         ],
         "tts": [
@@ -2832,7 +3023,12 @@
       },
       "◉": {
         "default": [
-          "hul cirkel, der indeholder udfyldt cirkel"
+          "cirkel med prik",
+          "der indeholder udfyldt cirkel",
+          "fiskeøje",
+          "hul cirkel",
+          "hul cirkel, der indeholder udfyldt cirkel",
+          "udfyldte koncentriske cirkler"
         ],
         "tts": [
           "hul cirkel, der indeholder udfyldt cirkel"
@@ -2876,7 +3072,10 @@
       },
       "◎": {
         "default": [
-          "koncentriske cirkler"
+          "dobbelt cirkel",
+          "dobbeltcirkel",
+          "koncentriske cirkler",
+          "mål"
         ],
         "tts": [
           "koncentriske cirkler"
@@ -2965,10 +3164,15 @@
       },
       "◙": {
         "default": [
-          "udfyldt firkant, der indeholder hul cirkel"
+          "cirkel",
+          "der indeholder hul cirkel",
+          "hul cirkel",
+          "omvendt hul cirkel",
+          "udfyldt kvadrat",
+          "udfyldt kvadrat, der indeholder hul cirkel"
         ],
         "tts": [
-          "udfyldt firkant, der indeholder hul cirkel"
+          "udfyldt kvadrat, der indeholder hul cirkel"
         ]
       },
       "◜": {
@@ -2997,10 +3201,10 @@
       },
       "◟": {
         "default": [
-          "nederste vendstre kvadrant af cirkelbue"
+          "nederste venstre kvadrant af cirkelbue"
         ],
         "tts": [
-          "nederste vendstre kvadrant af cirkelbue"
+          "nederste venstre kvadrant af cirkelbue"
         ]
       },
       "◠": {
@@ -3114,7 +3318,9 @@
       },
       "⨯": {
         "default": [
-          "krydsprodukt, vektor"
+          "krydsprodukt",
+          "krydsprodukt, vektor",
+          "vektor"
         ],
         "tts": [
           "krydsprodukt, vektor"
@@ -3154,7 +3360,9 @@
       },
       "⪚": {
         "default": [
-          "dobbeltstreget lighedstegn og større end"
+          "dobbeltstreget lighedstegn og større end",
+          "matematik",
+          "ulighed"
         ],
         "tts": [
           "dobbeltstreget lighedstegn og større end"
@@ -3198,6 +3406,7 @@
       },
       "😀": {
         "default": [
+          "ansigt",
           "glad",
           "grinende ansigt",
           "smilende ansigt",
@@ -3209,10 +3418,14 @@
       },
       "😃": {
         "default": [
+          "åben mund",
+          "ansigt",
           "glad",
+          "grin",
           "grinende ansigt med store øjne",
           "smiler",
-          "smiley"
+          "smiley",
+          "store øjne"
         ],
         "tts": [
           "grinende ansigt med store øjne"
@@ -3220,6 +3433,7 @@
       },
       "😄": {
         "default": [
+          "ansigt",
           "glad",
           "grinende ansigt med smilende øjne",
           "smil",
@@ -3232,10 +3446,15 @@
       },
       "😁": {
         "default": [
-          "ansigt der griner",
+          "ansigt",
           "glad",
+          "grin",
+          "grinende",
+          "smilende øjne",
           "smiley",
-          "strålende ansigt med smilende øjne"
+          "strålende",
+          "tænder",
+          "tandsmil"
         ],
         "tts": [
           "strålende ansigt med smilende øjne"
@@ -3243,12 +3462,19 @@
       },
       "😆": {
         "default": [
+          "åben mund",
+          "ansigt",
           "glad",
-          "grinende ansigt med åben mund og lukkede øjne",
-          "grinende ansigt med lukkede øjne",
+          "grin",
+          "grinende",
+          "grineren",
+          "hahaha",
+          "lol",
           "lukkede øjne",
+          "morsomt",
+          "sjovt",
           "smil",
-          "smil med lukkede øjne"
+          "stort smil"
         ],
         "tts": [
           "grinende ansigt med lukkede øjne"
@@ -3257,8 +3483,13 @@
       "😅": {
         "default": [
           "åben mund",
+          "ansigt",
           "grine",
           "grinende ansigt med sveddråbe",
+          "lettet",
+          "smilende ansigt med åben mund og koldsved",
+          "stress",
+          "stresset",
           "sved"
         ],
         "tts": [
@@ -3268,11 +3499,17 @@
       "🤣": {
         "default": [
           "ansigt",
+          "græder af grin",
           "griner",
           "gulv",
+          "hahaha",
+          "hylende morsomt",
           "ler",
+          "lol",
+          "morsomt",
           "ruller",
-          "ruller rundt på gulvet af grin"
+          "ruller rundt på gulvet af grin",
+          "sjovt"
         ],
         "tts": [
           "ruller rundt på gulvet af grin"
@@ -3280,9 +3517,18 @@
       },
       "😂": {
         "default": [
+          "ansigt",
           "ansigt med glædestårer",
           "glad",
           "glæde",
+          "græder af grin",
+          "grineren",
+          "haha",
+          "hahaha",
+          "hylende morsomt",
+          "lol",
+          "morsomt",
+          "sjov",
           "tårer"
         ],
         "tts": [
@@ -3311,11 +3557,22 @@
       },
       "🫠": {
         "default": [
+          "flov",
           "flydende",
           "forsvinde",
+          "haha",
+          "lol",
           "opløse",
+          "pinlig",
+          "pinlig berørt",
+          "pinligt",
+          "sarkasme",
+          "sarkastisk",
           "smelte",
-          "smeltende ansigt"
+          "smeltende ansigt",
+          "smelter",
+          "varm",
+          "varme"
         ],
         "tts": [
           "smeltende ansigt"
@@ -3326,7 +3583,9 @@
           "ansigt",
           "ansigt der blinker",
           "blink",
-          "blinkende ansigt"
+          "blink med øjet",
+          "blinkende ansigt",
+          "flirt"
         ],
         "tts": [
           "blinkende ansigt"
@@ -3334,6 +3593,7 @@
       },
       "😊": {
         "default": [
+          "ansigt",
           "smil med smileøjne",
           "smilende ansigt og øjne",
           "smileøjne"
@@ -3356,6 +3616,8 @@
       },
       "🥰": {
         "default": [
+          "ansigt",
+          "elsker",
           "forelsket",
           "forgude",
           "kærlighed",
@@ -3368,6 +3630,8 @@
       },
       "😍": {
         "default": [
+          "ansigt",
+          "forelsket",
           "hjerteøjne",
           "hjerter",
           "kærlighed",
@@ -3381,6 +3645,7 @@
         "default": [
           "ansigt",
           "benovet",
+          "fantastisk",
           "leende",
           "øjne",
           "stjerne"
@@ -3435,6 +3700,7 @@
       "😙": {
         "default": [
           "ansigt",
+          "kys",
           "kysseansigt med smilende øjne",
           "smilende øjne"
         ],
@@ -3444,10 +3710,12 @@
       },
       "🥲": {
         "default": [
+          "glad",
           "lettet",
           "rørt",
           "smilende",
           "smilende ansigt med tåre",
+          "smiley",
           "stolt",
           "taknemmelig",
           "tåre"
@@ -3460,8 +3728,11 @@
         "default": [
           "ansigt",
           "god mad",
+          "lækkert",
+          "mæt",
           "nydende ansigt",
-          "smil"
+          "smil",
+          "sulten"
         ],
         "tts": [
           "nydende ansigt"
@@ -3491,6 +3762,7 @@
       },
       "🤪": {
         "default": [
+          "ansigt",
           "fjoget",
           "fjollet",
           "lille",
@@ -3538,7 +3810,11 @@
       },
       "🤭": {
         "default": [
+          "ansigt",
           "ansigt med hånd over munden",
+          "fnis",
+          "hihi",
+          "overrasket",
           "ups"
         ],
         "tts": [
@@ -3550,10 +3826,20 @@
           "ærefrygt",
           "ansigt med åbne øjne og hånden over munden",
           "bange",
+          "chok",
+          "chokeret",
+          "du godeste",
           "forbavselse",
+          "forbavset",
           "forbløffelse",
+          "forbløffet",
+          "gisp",
+          "gisper",
+          "omg",
           "overraskelse",
-          "pinlig"
+          "pinlig",
+          "stille",
+          "ti stille"
         ],
         "tts": [
           "ansigt med åbne øjne og hånden over munden"
@@ -3561,10 +3847,18 @@
       },
       "🫣": {
         "default": [
-          "ansigt, der smugkigger",
-          "betaget",
+          "angst",
+          "ansigt",
+          "bange",
           "fascineret",
-          "smugkigge",
+          "flov",
+          "gemme",
+          "genert",
+          "kigge frem",
+          "kigge ud",
+          "pinlig",
+          "skjule",
+          "smugkigger",
           "stirre"
         ],
         "tts": [
@@ -3573,6 +3867,8 @@
       },
       "🤫": {
         "default": [
+          "ansigt",
+          "shh",
           "stille",
           "tysse",
           "tyssende ansigt"
@@ -3584,7 +3880,10 @@
       "🤔": {
         "default": [
           "ansigt",
+          "hmm",
+          "spekulerer",
           "tænkende",
+          "tænker",
           "tanker"
         ],
         "tts": [
@@ -3593,11 +3892,23 @@
       },
       "🫡": {
         "default": [
+          "ansigt",
           "ansigt, der gør honnør",
+          "der gør honnør",
           "gøre honnør",
+          "held og lykke",
+          "hilsen",
+          "honnør",
           "ja",
+          "ja frøken",
+          "ja frue",
+          "ja hr",
+          "javel frøken",
+          "javel frue",
+          "javel hr",
           "militær",
           "ok",
+          "respekt",
           "solskin"
         ],
         "tts": [
@@ -3608,8 +3919,13 @@
         "default": [
           "ansigt",
           "ansigt med lynlåsmund",
+          "hemmelighed",
           "lynlås",
-          "mund"
+          "mund",
+          "mund lukket",
+          "siger intet",
+          "stille",
+          "tavs"
         ],
         "tts": [
           "ansigt med lynlåsmund"
@@ -3617,9 +3933,15 @@
       },
       "🤨": {
         "default": [
-          "ansigt med løftet øjenbryn",
+          "ansigt",
+          "elevatorblik",
+          "hævet øjenbryn",
+          "hmm",
+          "løftede øjenbryn",
           "mistro",
-          "skepsis"
+          "overrasket",
+          "skepsis",
+          "skeptisk"
         ],
         "tts": [
           "ansigt med løftet øjenbryn"
@@ -3627,9 +3949,13 @@
       },
       "😐": {
         "default": [
+          "ansigt",
+          "ikke sjovt",
           "ingen kommentar",
           "neutralt ansigt",
-          "pokeransigt"
+          "pokeransigt",
+          "udtryksløst",
+          "uimponeret"
         ],
         "tts": [
           "neutralt ansigt"
@@ -3637,9 +3963,15 @@
       },
       "😑": {
         "default": [
+          "ansigt",
+          "ikke glad",
           "ingen kommentar",
+          "nej",
           "pokeransigt",
-          "udtryksløst ansigt"
+          "udtryksløst ansigt",
+          "uimponeret",
+          "whatever",
+          "wtf"
         ],
         "tts": [
           "udtryksløst ansigt"
@@ -3663,9 +3995,14 @@
           "forsvinde",
           "gemme",
           "introvert",
+          "lige meget",
+          "ligeglad",
           "skjule",
+          "skjult",
           "stiplet linje ansigt",
-          "usynlig"
+          "tja",
+          "usynlig",
+          "whatever"
         ],
         "tts": [
           "stiplet linje ansigt"
@@ -3697,7 +4034,9 @@
         "default": [
           "ansigt",
           "ikke glad",
-          "uimponeret ansigt"
+          "sur",
+          "uimponeret",
+          "whatever"
         ],
         "tts": [
           "uimponeret ansigt"
@@ -3707,7 +4046,9 @@
         "default": [
           "ansigt",
           "ansigt med rullende øjne",
+          "det hvide ud af øjnene",
           "øjne",
+          "okay så",
           "rullende"
         ],
         "tts": [
@@ -3734,8 +4075,10 @@
           "lettelse",
           "pift",
           "pyha",
+          "smiley",
           "udåndende ansigt",
-          "udånding"
+          "udånding",
+          "udmattet"
         ],
         "tts": [
           "udåndende ansigt"
@@ -3759,19 +4102,46 @@
           "ansigt",
           "chok",
           "jordskælv",
+          "omg",
+          "overraskelse",
+          "panik",
           "rystende ansigt",
           "ryster",
-          "vibrer"
+          "skør",
+          "vibrer",
+          "vibrerer",
+          "wow"
         ],
         "tts": [
           "rystende ansigt"
         ]
       },
+      "🙂‍↔": {
+        "default": [
+          "hovedrysten",
+          "nej",
+          "ryster på hovedet vandret"
+        ],
+        "tts": [
+          "ryster på hovedet vandret"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "ja",
+          "nikke"
+        ],
+        "tts": [
+          "ryster på hovedet lodret"
+        ]
+      },
       "😌": {
         "default": [
           "ansigt",
+          "fred",
           "lettelse",
-          "lettet ansigt"
+          "lettet ansigt",
+          "ro"
         ],
         "tts": [
           "lettet ansigt"
@@ -3792,6 +4162,8 @@
         "default": [
           "ansigt",
           "dyb søvn",
+          "græder",
+          "ked af det",
           "søvnigt ansigt",
           "træt"
         ],
@@ -3813,13 +4185,28 @@
       "😴": {
         "default": [
           "ansigt",
+          "godnat",
+          "sengetid",
           "sove",
           "sovende ansigt",
           "søvn",
+          "søvnig",
+          "træt",
           "zzz"
         ],
         "tts": [
           "sovende ansigt"
+        ]
+      },
+      "🫩": {
+        "default": [
+          "ansigt med poser under øjnene",
+          "søvnig",
+          "træt",
+          "udmattet"
+        ],
+        "tts": [
+          "ansigt med poser under øjnene"
         ]
       },
       "😷": {
@@ -3874,9 +4261,14 @@
       },
       "🤮": {
         "default": [
+          "ad",
           "ansigt, der kaster op",
+          "bræk",
+          "brække sig",
+          "kaste op",
+          "knække sig",
           "opkast",
-          "syg"
+          "ulækkert"
         ],
         "tts": [
           "ansigt, der kaster op"
@@ -3928,6 +4320,7 @@
         "default": [
           "beruset",
           "bølget mund",
+          "fuld",
           "ørt ansigt",
           "småfuld",
           "svimmel",
@@ -3964,7 +4357,11 @@
       "🤯": {
         "default": [
           "chokeret",
-          "hoved, der eksploderer"
+          "eksploderer",
+          "hoved",
+          "no way",
+          "overrasket",
+          "what"
         ],
         "tts": [
           "hoved, der eksploderer"
@@ -3988,7 +4385,12 @@
           "fejring",
           "fest",
           "festansigt",
+          "fødselsdag",
           "hat",
+          "højt humør",
+          "hurra",
+          "nytår",
+          "tillykke",
           "truthorn"
         ],
         "tts": [
@@ -4001,7 +4403,12 @@
           "briller",
           "maske",
           "maskeret",
-          "næse"
+          "moustache",
+          "næse",
+          "øjenbryn",
+          "overskæg",
+          "spion",
+          "udklædning"
         ],
         "tts": [
           "maske"
@@ -4022,8 +4429,15 @@
       "🤓": {
         "default": [
           "ansigt",
+          "briller",
+          "ekspert",
+          "fjollet",
+          "intelligent",
+          "klog",
           "nørd",
-          "nørdansigt"
+          "nørdansigt",
+          "smiley",
+          "talentfuld"
         ],
         "tts": [
           "nørdansigt"
@@ -4032,7 +4446,10 @@
       "🧐": {
         "default": [
           "ansigt med monokel",
-          "gammeldags"
+          "gammeldags",
+          "monokel",
+          "rig",
+          "skeptisk"
         ],
         "tts": [
           "ansigt med monokel"
@@ -4041,7 +4458,10 @@
       "😕": {
         "default": [
           "ansigt",
-          "forvirret ansigt"
+          "forvirret ansigt",
+          "ikke sikker",
+          "undskyld",
+          "utilfreds"
         ],
         "tts": [
           "forvirret ansigt"
@@ -4050,9 +4470,17 @@
       "🫤": {
         "default": [
           "ansigt med skrå mund",
+          "forvirret",
+          "forvirring",
+          "frustration",
+          "frustreret",
+          "lige meget",
+          "ligeglad",
           "nåh",
           "skeptisk",
           "skuffet",
+          "tja",
+          "tvivl",
           "uimponeret",
           "usikker"
         ],
@@ -4064,7 +4492,8 @@
         "default": [
           "ansigt",
           "bekymret",
-          "bekymring"
+          "bekymring",
+          "trist"
         ],
         "tts": [
           "bekymret ansigt"
@@ -4073,6 +4502,7 @@
       "🙁": {
         "default": [
           "ansigt",
+          "ked af det",
           "lidt trist ansigt",
           "trist"
         ],
@@ -4083,6 +4513,8 @@
       "☹": {
         "default": [
           "ansigt",
+          "ked af det",
+          "sur",
           "trist"
         ],
         "tts": [
@@ -4091,8 +4523,14 @@
       },
       "😮": {
         "default": [
+          "åben mund",
           "ansigt",
-          "ansigt med åben mund"
+          "chokeret",
+          "måbe",
+          "overrasket",
+          "ubegribeligt",
+          "utroligt",
+          "wow"
         ],
         "tts": [
           "ansigt med åben mund"
@@ -4100,6 +4538,9 @@
       },
       "😯": {
         "default": [
+          "ansigt",
+          "forbavset",
+          "overrasket",
           "stille ansigt",
           "tavst ansigt"
         ],
@@ -4109,8 +4550,11 @@
       },
       "😲": {
         "default": [
+          "åh nej",
           "chokeret",
-          "overrasket ansigt"
+          "omg",
+          "overrasket ansigt",
+          "wow"
         ],
         "tts": [
           "overrasket ansigt"
@@ -4130,6 +4574,7 @@
       },
       "🥺": {
         "default": [
+          "ansigt",
           "barmhjertighed",
           "bede",
           "bønfaldende ansigt",
@@ -4142,13 +4587,24 @@
       },
       "🥹": {
         "default": [
+          "ansigt",
           "ansigt, der holder tårer tilbage",
+          "beundre",
+          "beundring",
+          "flov",
+          "følelser",
+          "glædestårer",
           "græde",
           "ked af det",
           "modstå",
+          "nårh",
+          "pinligt",
+          "så er du sød",
           "stolt",
+          "taknemmelig",
+          "taknemmelighed",
           "trist",
-          "vred"
+          "tristhed"
         ],
         "tts": [
           "ansigt, der holder tårer tilbage"
@@ -4158,7 +4614,8 @@
         "default": [
           "åben mund",
           "ansigt",
-          "måbende ansigt med åben mund"
+          "måbende ansigt med åben mund",
+          "overrasket"
         ],
         "tts": [
           "måbende ansigt med åben mund"
@@ -4169,7 +4626,9 @@
           "ansigt",
           "forpint ansigt",
           "lider",
-          "smerte"
+          "overrasket",
+          "smerte",
+          "utilfreds"
         ],
         "tts": [
           "forpint ansigt"
@@ -4177,7 +4636,10 @@
       },
       "😨": {
         "default": [
+          "åh nej",
+          "ansigt",
           "bange ansigt",
+          "bekymret",
           "frygt"
         ],
         "tts": [
@@ -4197,9 +4659,14 @@
       },
       "😥": {
         "default": [
+          "ansigt",
+          "ked",
+          "lettet",
+          "nervøs",
           "puha",
-          "skuffet med lettet",
-          "skuffet men lettet ansigt"
+          "skuffet",
+          "skuffet men lettet",
+          "tæt på"
         ],
         "tts": [
           "skuffet men lettet ansigt"
@@ -4242,7 +4709,11 @@
         "default": [
           "ansigt",
           "forbandet",
-          "forbistret ansigt"
+          "forbistret ansigt",
+          "forvirret",
+          "frustreret",
+          "ked af det",
+          "vred"
         ],
         "tts": [
           "forbistret ansigt"
@@ -4250,6 +4721,9 @@
       },
       "😣": {
         "default": [
+          "ansigt",
+          "hovedpine",
+          "koncentration",
           "stædigt ansigt",
           "udholdenhed"
         ],
@@ -4260,7 +4734,9 @@
       "😞": {
         "default": [
           "ansigt",
-          "skuffet ansigt"
+          "ked af det",
+          "skuffet ansigt",
+          "trist"
         ],
         "tts": [
           "skuffet ansigt"
@@ -4269,7 +4745,10 @@
       "😓": {
         "default": [
           "ansigt",
-          "ansigt med koldsved"
+          "ansigt med koldsved",
+          "bange",
+          "ked",
+          "nervøs"
         ],
         "tts": [
           "ansigt med koldsved"
@@ -4277,9 +4756,13 @@
       },
       "😩": {
         "default": [
+          "ansigt",
+          "græde",
+          "nej",
+          "trist",
           "udkørt",
           "udmattet",
-          "udmattet ansigt"
+          "ulykkelig"
         ],
         "tts": [
           "udmattet ansigt"
@@ -4288,6 +4771,9 @@
       "😫": {
         "default": [
           "ansigt",
+          "fortvivlet",
+          "gabe",
+          "nyse",
           "træt ansigt"
         ],
         "tts": [
@@ -4296,10 +4782,18 @@
       },
       "🥱": {
         "default": [
+          "ansigt",
           "gab",
           "gabende ansigt",
+          "godnat",
+          "i seng",
+          "kedeligt",
+          "søvnig",
           "træt",
-          "uinteresseret"
+          "uinteresseret",
+          "zz",
+          "zzz",
+          "zzzz"
         ],
         "tts": [
           "gabende ansigt"
@@ -4309,7 +4803,10 @@
         "default": [
           "fnysende ansigt",
           "hånligt ansigt",
-          "jeg vandt"
+          "jeg vandt",
+          "rasende",
+          "sur",
+          "vred"
         ],
         "tts": [
           "fnysende ansigt"
@@ -4317,6 +4814,7 @@
       },
       "😡": {
         "default": [
+          "rasende",
           "rød",
           "surt ansigt",
           "vred",
@@ -4338,8 +4836,11 @@
       },
       "🤬": {
         "default": [
+          "ansigt",
           "ansigt med symboler på munden",
-          "bande"
+          "bande",
+          "bandeord",
+          "svovle"
         ],
         "tts": [
           "ansigt med symboler på munden"
@@ -4347,10 +4848,13 @@
       },
       "😈": {
         "default": [
+          "djævel",
           "fantasi",
           "glad lilla djævel",
           "griner",
-          "smil"
+          "lilla djævel",
+          "smil",
+          "smilende djævel"
         ],
         "tts": [
           "glad lilla djævel"
@@ -4359,6 +4863,7 @@
       "👿": {
         "default": [
           "dæmon",
+          "djævel",
           "horn",
           "sur",
           "sur lilla djævel"
@@ -4380,6 +4885,7 @@
       "☠": {
         "default": [
           "død",
+          "dødningehoved",
           "korslagte knogler",
           "kranie",
           "kranium",
@@ -4413,7 +4919,8 @@
       },
       "👹": {
         "default": [
-          "japansk uhyre",
+          "djævel",
+          "maske",
           "monster",
           "trold",
           "uhyre"
@@ -4425,7 +4932,10 @@
       "👺": {
         "default": [
           "ånd",
-          "japansk ånd"
+          "ansigt",
+          "maske",
+          "monster",
+          "vred"
         ],
         "tts": [
           "ånd"
@@ -4436,7 +4946,10 @@
           "ansigt",
           "eventyr",
           "fantasi",
+          "farlig",
+          "fjollet",
           "gespenst",
+          "halloween",
           "monster",
           "spøgelse",
           "væsen"
@@ -4459,6 +4972,7 @@
         "default": [
           "alien",
           "alien-monster",
+          "monster",
           "rummet",
           "rumvæsen",
           "ufo"
@@ -4480,6 +4994,7 @@
       },
       "😺": {
         "default": [
+          "dyr",
           "glad kat",
           "smilende kat"
         ],
@@ -4489,6 +5004,7 @@
       },
       "😸": {
         "default": [
+          "dyr",
           "grinende kat",
           "kat"
         ],
@@ -4498,6 +5014,7 @@
       },
       "😹": {
         "default": [
+          "græder af grin",
           "kat",
           "kat med glædestårer"
         ],
@@ -4516,6 +5033,7 @@
       },
       "😼": {
         "default": [
+          "dyr",
           "ironisk kat",
           "kat med ironisk smil"
         ],
@@ -4525,6 +5043,7 @@
       },
       "😽": {
         "default": [
+          "dyr",
           "kat",
           "kyssende kat",
           "kysser"
@@ -4536,6 +5055,8 @@
       "🙀": {
         "default": [
           "chokeret kat",
+          "dyr",
+          "kat",
           "overrasket kat"
         ],
         "tts": [
@@ -4553,6 +5074,8 @@
       },
       "😾": {
         "default": [
+          "dyr",
+          "kattehoved",
           "sur kat",
           "surmulende kat"
         ],
@@ -4562,7 +5085,13 @@
       },
       "🙈": {
         "default": [
+          "abe",
+          "dyr",
+          "glemt",
+          "hemmelighed",
           "ikke se",
+          "pinlig",
+          "skjule",
           "tre vise aber"
         ],
         "tts": [
@@ -4571,7 +5100,11 @@
       },
       "🙉": {
         "default": [
+          "abe",
+          "dyr",
+          "hemmelighed",
           "ikke høre",
+          "lytter ikke",
           "tre vise aber"
         ],
         "tts": [
@@ -4580,6 +5113,9 @@
       },
       "🙊": {
         "default": [
+          "abe",
+          "dyr",
+          "hemmelighed",
           "ikke tale",
           "tre vise aber"
         ],
@@ -4614,7 +5150,9 @@
           "bånd",
           "følelser",
           "hjerte",
-          "hjerte med bånd"
+          "hjerte med bånd",
+          "kærlighed",
+          "romantik"
         ],
         "tts": [
           "hjerte med bånd"
@@ -4658,6 +5196,7 @@
         "default": [
           "følelser",
           "hjerter",
+          "kærlighed",
           "roterende hjerter"
         ],
         "tts": [
@@ -4677,7 +5216,8 @@
       "💟": {
         "default": [
           "hjerte",
-          "hjertedekoration"
+          "hjertedekoration",
+          "lilla hjerte"
         ],
         "tts": [
           "hjertedekoration"
@@ -4696,8 +5236,12 @@
       },
       "💔": {
         "default": [
-          "knust hjerte",
-          "ulykkelig kærlighed"
+          "hjerte",
+          "itu",
+          "kærlighed",
+          "ked af det",
+          "knust",
+          "ulykkelig"
         ],
         "tts": [
           "knust hjerte"
@@ -4732,7 +5276,9 @@
       },
       "❤": {
         "default": [
+          "følelse",
           "hjerte",
+          "kærlighed",
           "rødt hjerte"
         ],
         "tts": [
@@ -4741,11 +5287,16 @@
       },
       "🩷": {
         "default": [
+          "elsker",
+          "følelse",
           "hjerte",
           "kærlighed",
           "lyserød",
           "lyserødt hjerte",
           "nuttet",
+          "pink",
+          "særligt",
+          "sødt",
           "synes om"
         ],
         "tts": [
@@ -4798,10 +5349,15 @@
       "🩵": {
         "default": [
           "cyan",
+          "elsker",
+          "følelse",
           "grønblå",
+          "himmelblå",
           "hjerte",
           "lyseblå",
-          "lyseblåt hjerte"
+          "lyseblåt hjerte",
+          "nuttet",
+          "særligt"
         ],
         "tts": [
           "lyseblåt hjerte"
@@ -4840,8 +5396,11 @@
       },
       "🩶": {
         "default": [
+          "elsker",
+          "følelse",
           "gråt",
           "hjerte",
+          "særligt",
           "skifer",
           "sølv"
         ],
@@ -4864,7 +5423,8 @@
           "kys",
           "læbeaftryk",
           "læber",
-          "romantik"
+          "romantik",
+          "sexy"
         ],
         "tts": [
           "læbeaftryk"
@@ -4875,7 +5435,9 @@
           "100",
           "alle rigtige",
           "hundrede",
-          "point"
+          "perfekt",
+          "point",
+          "rigtigt"
         ],
         "tts": [
           "100 point"
@@ -4893,9 +5455,11 @@
       },
       "💥": {
         "default": [
+          "bombe",
+          "eksplosion",
           "følelser",
           "kollision",
-          "kollitionstegn"
+          "kollisionstegn"
         ],
         "tts": [
           "kollision"
@@ -4905,6 +5469,7 @@
         "default": [
           "følelser",
           "se stjerner",
+          "stjerneskud",
           "svimmel"
         ],
         "tts": [
@@ -4913,9 +5478,11 @@
       },
       "💦": {
         "default": [
+          "dråber",
           "følelser",
           "sved",
-          "sveddråber"
+          "sveddråber",
+          "vanddråber"
         ],
         "tts": [
           "sveddråber"
@@ -4926,6 +5493,8 @@
           "er løbet",
           "følelser",
           "løber væk",
+          "røg",
+          "sky",
           "smutter"
         ],
         "tts": [
@@ -4997,9 +5566,15 @@
       "💤": {
         "default": [
           "følelse",
+          "godnat",
+          "kedeligt",
+          "sengetid",
           "snorke",
           "sove",
-          "søvnig"
+          "søvn",
+          "søvnig",
+          "træt",
+          "zzz"
         ],
         "tts": [
           "søvnig"
@@ -5007,7 +5582,13 @@
       },
       "👋": {
         "default": [
+          "farvel",
+          "hallo",
           "hånd",
+          "hej",
+          "hilsen",
+          "vi ses",
+          "vink",
           "vinker"
         ],
         "tts": [
@@ -5032,7 +5613,8 @@
           "hånd",
           "hånd med spredte fingre",
           "krop",
-          "spredte"
+          "spredte",
+          "stop"
         ],
         "tts": [
           "hånd med spredte fingre"
@@ -5040,9 +5622,12 @@
       },
       "✋": {
         "default": [
+          "hævet hånd",
           "hånd",
+          "high five",
           "krop",
-          "løftet hånd"
+          "løftet hånd",
+          "stop"
         ],
         "tts": [
           "løftet hånd"
@@ -5063,9 +5648,15 @@
       },
       "🫱": {
         "default": [
+          "give hånd",
           "hånd",
           "hånd til højre",
-          "højre"
+          "håndtryk",
+          "højre",
+          "holde",
+          "nå",
+          "række ud",
+          "rækkevidde"
         ],
         "tts": [
           "hånd til højre"
@@ -5073,8 +5664,14 @@
       },
       "🫲": {
         "default": [
+          "give hånd",
           "hånd",
           "hånd til venstre",
+          "håndtryk",
+          "holde",
+          "nå",
+          "række ud",
+          "rækkevidde",
           "venstre"
         ],
         "tts": [
@@ -5086,8 +5683,13 @@
           "afslå",
           "afvise",
           "genne væk",
+          "hånd",
           "håndflade nedad",
-          "tabe"
+          "samle op",
+          "tabe",
+          "tabt",
+          "tag op",
+          "tage op"
         ],
         "tts": [
           "håndflade nedad"
@@ -5095,12 +5697,16 @@
       },
       "🫴": {
         "default": [
-          "gribe",
+          "fortæl mig",
+          "hånd",
           "håndflade opad",
+          "holde",
           "kom",
+          "løfte",
           "lokke",
+          "tilbud",
           "tilbyde",
-          "vinke hen"
+          "ved ikke"
         ],
         "tts": [
           "håndflade opad"
@@ -5109,10 +5715,13 @@
       "🫷": {
         "default": [
           "afslå",
+          "blokere",
+          "hånd",
           "hånd skubber mod venstre",
           "highfive",
           "mod venstre",
-          "skub",
+          "nægte",
+          "skubbe",
           "stop",
           "vent"
         ],
@@ -5123,10 +5732,13 @@
       "🫸": {
         "default": [
           "afslå",
+          "blokere",
+          "hånd",
           "hånd skubber mod højre",
           "highfive",
           "mod højre",
-          "skub",
+          "nægte",
+          "skubbe",
           "stop",
           "vent"
         ],
@@ -5136,9 +5748,17 @@
       },
       "👌": {
         "default": [
+          "aftale",
+          "fino",
+          "forstået",
+          "godt",
+          "i orden",
+          "OK",
           "OK-håndtegn",
-          "ok-tegn",
-          "OK-tegn"
+          "OK-tegn",
+          "okay",
+          "perfekt",
+          "super"
         ],
         "tts": [
           "ok-tegn"
@@ -5149,6 +5769,7 @@
           "fingre",
           "gestus",
           "håndtegn",
+          "kom nu",
           "samlede fingre",
           "sammenknebne",
           "sarkastisk",
@@ -5160,8 +5781,15 @@
       },
       "🤏": {
         "default": [
+          "en smule",
+          "fingre",
+          "hånd",
           "lidt",
-          "lidt vist med tommel- og pegefinger"
+          "lille smule",
+          "mængde",
+          "nive",
+          "pegefinger",
+          "tommelfinger"
         ],
         "tts": [
           "lidt vist med tommel- og pegefinger"
@@ -5169,6 +5797,8 @@
       },
       "✌": {
         "default": [
+          "fred",
+          "sejr",
           "v-tegn",
           "V-tegn",
           "yeah"
@@ -5193,7 +5823,10 @@
       },
       "🫰": {
         "default": [
+          "<3",
           "dyrt",
+          "elsker",
+          "hånd",
           "hjerte",
           "kærlighed",
           "knips",
@@ -5206,9 +5839,11 @@
       },
       "🤟": {
         "default": [
-          "Elsker dig",
+          "elsker dig",
           "elsker dig-gestus",
-          "Hånd"
+          "hånd",
+          "håndtegn",
+          "tre fingre"
         ],
         "tts": [
           "elsker dig-gestus"
@@ -5218,6 +5853,7 @@
         "default": [
           "djævletegn",
           "finger",
+          "fingre",
           "hånd",
           "heavy metal",
           "horn",
@@ -5280,6 +5916,7 @@
       "🖕": {
         "default": [
           "finger",
+          "fuck",
           "hånd",
           "krop",
           "langefinger"
@@ -5317,7 +5954,11 @@
       "🫵": {
         "default": [
           "dig",
+          "finger",
+          "hånd",
+          "pege",
           "pegefinger",
+          "peger",
           "peger på seeren"
         ],
         "tts": [
@@ -5326,10 +5967,16 @@
       },
       "👍": {
         "default": [
+          "forstået",
+          "godt",
           "håndtegn",
+          "ja",
           "ok",
-          "OK",
-          "tommelfinger op"
+          "okay",
+          "super",
+          "thumbs up",
+          "tommelfinger op",
+          "yes"
         ],
         "tts": [
           "tommelfinger op"
@@ -5337,8 +5984,11 @@
       },
       "👎": {
         "default": [
+          "dårligt",
           "håndtegn",
+          "ikke okay",
           "nedstemt",
+          "nej",
           "tommelfinger ned"
         ],
         "tts": [
@@ -5351,7 +6001,8 @@
           "knytnæve",
           "knyttet",
           "løftet knytnæve",
-          "slå"
+          "slå",
+          "solidaritet"
         ],
         "tts": [
           "løftet knytnæve"
@@ -5397,6 +6048,7 @@
         "default": [
           "applaus",
           "bifald",
+          "klap",
           "klappende hænder",
           "klapper",
           "klapsalve"
@@ -5419,6 +6071,12 @@
       },
       "🫶": {
         "default": [
+          "<3",
+          "elsker",
+          "elsker dig",
+          "elsker jer",
+          "hænder",
+          "hjerte",
           "hjertehænder",
           "kærlighed"
         ],
@@ -5438,8 +6096,10 @@
       },
       "🤲": {
         "default": [
+          "bede",
           "bøn",
-          "håndflader samlet og løftet"
+          "håndflader samlet og løftet",
+          "ønske"
         ],
         "tts": [
           "håndflader samlet og løftet"
@@ -5460,10 +6120,13 @@
       },
       "🙏": {
         "default": [
+          "bede",
           "bøn",
           "foldede hænder",
+          "high five",
           "namaste",
-          "namasté"
+          "namasté",
+          "tak"
         ],
         "tts": [
           "foldede hænder"
@@ -5481,6 +6144,7 @@
       },
       "💅": {
         "default": [
+          "hånd",
           "kosmetik",
           "manicure",
           "negle",
@@ -5507,8 +6171,13 @@
       "💪": {
         "default": [
           "armmuskler",
+          "biceps",
+          "bodybuilder",
+          "bodybuilding",
+          "flex",
           "muskel",
-          "stærk"
+          "stærk",
+          "vægtløfter"
         ],
         "tts": [
           "armmuskler"
@@ -5539,6 +6208,7 @@
           "ben",
           "halte",
           "humpe",
+          "knæ",
           "sparke"
         ],
         "tts": [
@@ -5547,6 +6217,7 @@
       },
       "🦶": {
         "default": [
+          "ankel",
           "fod",
           "sparke",
           "trampe"
@@ -5559,6 +6230,8 @@
         "default": [
           "høre",
           "krop",
+          "lyd",
+          "lytte",
           "øre"
         ],
         "tts": [
@@ -5567,7 +6240,9 @@
       },
       "🦻": {
         "default": [
-          "øre med høreapparat"
+          "høreapparat",
+          "øre med høreapparat",
+          "tilgængelighed"
         ],
         "tts": [
           "øre med høreapparat"
@@ -5575,9 +6250,10 @@
       },
       "👃": {
         "default": [
+          "ansigt",
           "dufte",
           "krop",
-          "lugte ansigt",
+          "lugte",
           "næse"
         ],
         "tts": [
@@ -5595,11 +6271,16 @@
       },
       "🫀": {
         "default": [
-          "centrum",
+          "anatomi",
+          "blodomløb",
           "hjerte",
+          "hjerteklap",
+          "hjertekule",
           "hjerteslag",
           "organ",
-          "puls"
+          "puls",
+          "rigtigt hjerte",
+          "rød"
         ],
         "tts": [
           "hjerte"
@@ -5610,9 +6291,11 @@
           "ånde",
           "åndedræt",
           "indånding",
+          "krop",
           "lunger",
           "organ",
           "respiration",
+          "trække vejret",
           "udånding",
           "vejrtrækning"
         ],
@@ -5631,7 +6314,9 @@
       },
       "🦴": {
         "default": [
+          "hund",
           "knogle",
+          "kødben",
           "skelet"
         ],
         "tts": [
@@ -5660,6 +6345,7 @@
       "👅": {
         "default": [
           "krop",
+          "slikke",
           "smage",
           "tunge"
         ],
@@ -5669,9 +6355,10 @@
       },
       "👄": {
         "default": [
-          "ansigt",
           "krop",
+          "kys",
           "læber",
+          "læbestift",
           "mund"
         ],
         "tts": [
@@ -5683,9 +6370,17 @@
           "angst",
           "bange",
           "bekymret",
+          "bekymring",
+          "bid",
+          "bide",
           "bider i læben",
+          "flirt",
           "flirte",
+          "kys",
+          "kysse",
+          "læbestift",
           "nervøs",
+          "sexet",
           "utryg"
         ],
         "tts": [
@@ -5696,7 +6391,9 @@
         "default": [
           "baby",
           "barn",
-          "menneske"
+          "dreng",
+          "menneske",
+          "nyfødt"
         ],
         "tts": [
           "baby"
@@ -5713,6 +6410,7 @@
       },
       "👦": {
         "default": [
+          "barn",
           "dreng",
           "menneske",
           "person",
@@ -5724,6 +6422,7 @@
       },
       "👧": {
         "default": [
+          "barn",
           "menneske",
           "person",
           "pige",
@@ -5744,9 +6443,12 @@
       },
       "👱": {
         "default": [
+          "ansigt",
           "blond",
-          "blond person",
-          "hår"
+          "hår",
+          "lyshåret",
+          "menneske",
+          "person"
         ],
         "tts": [
           "blond person"
@@ -5765,6 +6467,8 @@
       "🧔": {
         "default": [
           "fuldskæg",
+          "mand",
+          "mand med skæg",
           "person",
           "person med skæg",
           "skæg"
@@ -5833,7 +6537,7 @@
           "voksen"
         ],
         "tts": [
-          "gammel person"
+          "ældre menneske"
         ]
       },
       "👴": {
@@ -5848,9 +6552,12 @@
       },
       "👵": {
         "default": [
+          "bedstemor",
+          "farmor",
           "gammel kvinde",
           "kvinde",
-          "menneske"
+          "menneske",
+          "mormor"
         ],
         "tts": [
           "gammel kvinde"
@@ -5859,9 +6566,18 @@
       "🙍": {
         "default": [
           "alvorlig mine",
+          "frustreret",
+          "gestus",
+          "ikke glad",
+          "irriteret",
+          "mut",
+          "oprørt",
+          "person med rynket pande",
+          "rynke panden",
+          "skuffet",
           "udtryk",
           "utilfreds",
-          "Utilfreds person"
+          "utilfreds person"
         ],
         "tts": [
           "Utilfreds person"
@@ -5869,11 +6585,11 @@
       },
       "🙍‍♂": {
         "default": [
+          "alvorlig",
           "mand",
           "mand med alvorlig mine",
           "panderynken",
-          "utilfreds",
-          "Utilfreds mand"
+          "utilfreds"
         ],
         "tts": [
           "Utilfreds mand"
@@ -5884,8 +6600,7 @@
           "kvinde",
           "kvinde med alvorlig mine",
           "panderynken",
-          "utilfreds",
-          "Utilfreds kvinde"
+          "utilfreds"
         ],
         "tts": [
           "Utilfreds kvinde"
@@ -5894,6 +6609,13 @@
       "🙎": {
         "default": [
           "gestus",
+          "grimasse",
+          "klynke",
+          "nedtrykt",
+          "oprørt",
+          "rynke panden",
+          "skuffet",
+          "skule",
           "surmule",
           "surmulende person"
         ],
@@ -5927,9 +6649,16 @@
       },
       "🙅": {
         "default": [
+          "aldrig i livet",
+          "bevægelse",
+          "ekskludere",
           "forbudt",
+          "forbyde",
+          "hånd",
           "nej",
-          "signalerer nej"
+          "niks",
+          "signalerer nej",
+          "udelukke"
         ],
         "tts": [
           "signalerer nej"
@@ -5965,7 +6694,16 @@
         "default": [
           "allright",
           "ansigt",
-          "signalerer ok"
+          "bevægelse",
+          "gestus",
+          "hånd",
+          "ok",
+          "okay",
+          "øvelse",
+          "person er ok",
+          "person signalerer ok",
+          "signalerer ok",
+          "træning"
         ],
         "tts": [
           "signalerer ok"
@@ -5976,9 +6714,12 @@
           "gestus",
           "i orden",
           "mand",
+          "mand er ok",
           "mand signalerer ok",
           "ok",
-          "tilladt"
+          "okay",
+          "person signalerer ok",
+          "signalerer ok"
         ],
         "tts": [
           "mand signalerer ok"
@@ -5986,11 +6727,15 @@
       },
       "🙆‍♀": {
         "default": [
+          "alt i orden",
           "gestus",
           "i orden",
           "kvinde",
           "kvinde signalerer ok",
           "ok",
+          "okay",
+          "person signalerer",
+          "signalerer ok",
           "tilladt"
         ],
         "tts": [
@@ -5999,8 +6744,20 @@
       },
       "💁": {
         "default": [
+          "fræk",
           "hjælp",
-          "person vender håndfladen op"
+          "info",
+          "information",
+          "kaster håret tilbage",
+          "kaster med håret",
+          "ligeglad",
+          "oplysninger",
+          "person vender håndfladen op",
+          "sarkasme",
+          "sarkastisk",
+          "seriøst",
+          "sladder",
+          "sladre"
         ],
         "tts": [
           "person vender håndfladen op"
@@ -6033,9 +6790,18 @@
       },
       "🙋": {
         "default": [
+          "fingeren oppe",
+          "hånd",
           "hej",
+          "hilsen",
+          "i vejret",
+          "kvinde",
           "løftet hånd",
-          "person med løftet hånd"
+          "mand",
+          "person",
+          "spørgsmål",
+          "svare",
+          "vælg mig"
         ],
         "tts": [
           "person med løftet hånd"
@@ -6048,7 +6814,8 @@
           "hilsen",
           "løftet hånd",
           "mand",
-          "mand med løftet hånd"
+          "mand med løftet hånd",
+          "person"
         ],
         "tts": [
           "mand med løftet hånd"
@@ -6071,6 +6838,7 @@
         "default": [
           "døv",
           "døv person",
+          "handicap",
           "høre",
           "øre",
           "tilgængelighed"
@@ -6081,7 +6849,8 @@
       },
       "🧏‍♂": {
         "default": [
-          "døv mand"
+          "døv",
+          "mand"
         ],
         "tts": [
           "døv mand"
@@ -6089,7 +6858,8 @@
       },
       "🧏‍♀": {
         "default": [
-          "døv kvinde"
+          "døv",
+          "kvinde"
         ],
         "tts": [
           "døv kvinde"
@@ -6097,11 +6867,23 @@
       },
       "🙇": {
         "default": [
+          "bevægelse",
+          "bukkende person",
           "bukker",
+          "fortrudt",
+          "fortryder",
+          "gestus",
+          "meditation",
+          "meditere",
+          "synd",
+          "synd for",
+          "tigger",
+          "tilgiv",
+          "tilgive",
           "undskyld"
         ],
         "tts": [
-          "bukker"
+          "person bukker dybt"
         ]
       },
       "🙇‍♂": {
@@ -6121,6 +6903,7 @@
           "buk",
           "kvinde",
           "kvinde bukker dybt",
+          "meditation",
           "undskyld",
           "undskyldning"
         ],
@@ -6130,13 +6913,20 @@
       },
       "🤦": {
         "default": [
+          "åh nej",
           "ansigt",
+          "chok",
           "dumt",
           "facepalm",
           "hånd",
+          "ikke igen",
+          "irritation",
           "irriteret",
+          "omg",
+          "person",
+          "ryster på hovedet",
           "skepsis",
-          "slå sig for panden"
+          "slår sig for panden"
         ],
         "tts": [
           "slå sig for panden"
@@ -6144,14 +6934,19 @@
       },
       "🤦‍♂": {
         "default": [
+          "åh nej",
+          "chok",
           "facepalm",
           "græmmes",
           "håndflade",
+          "ikke igen",
           "irritation",
           "irriteret",
           "mand",
           "mand slår sig for panden",
-          "skepsis"
+          "omg",
+          "skepsis",
+          "skuffelse"
         ],
         "tts": [
           "mand slår sig for panden"
@@ -6159,14 +6954,19 @@
       },
       "🤦‍♀": {
         "default": [
+          "åh nej",
+          "chok",
           "facepalm",
           "græmmes",
           "håndflade",
+          "ikke igen",
           "irritation",
           "irriteret",
           "kvinde",
           "kvinde slår sig for panden",
-          "skepsis"
+          "omg",
+          "skepsis",
+          "skuffelse"
         ],
         "tts": [
           "kvinde slår sig for panden"
@@ -6175,11 +6975,17 @@
       "🤷": {
         "default": [
           "aner det ikke",
+          "jeg ved det ikke",
           "ligeglad",
           "ligegyldigt",
+          "måske",
+          "muligvis",
           "pas",
+          "person",
           "trækker på skuldrene",
           "tvivl",
+          "uvidende",
+          "uvidenhed",
           "ved det ikke"
         ],
         "tts": [
@@ -6188,15 +6994,22 @@
       },
       "🤷‍♂": {
         "default": [
+          "aner det ikke",
           "ingen anelse",
+          "jeg ved ikke",
+          "lige meget",
           "ligeglad",
           "ligegyldighed",
           "mand",
           "mand trækker på skuldrene",
+          "måske",
+          "muligvis",
           "pas",
           "skuldre",
           "tvivl",
-          "uvidenhed"
+          "uvidende",
+          "uvidenhed",
+          "ved ikke"
         ],
         "tts": [
           "mand trækker på skuldrene"
@@ -6204,15 +7017,22 @@
       },
       "🤷‍♀": {
         "default": [
+          "aner det ikke",
           "ingen anelse",
+          "jeg ved ikke",
           "kvinde",
           "kvinde trækker på skuldrene",
+          "lige meget",
           "ligeglad",
           "ligegyldighed",
+          "måske",
+          "muligvis",
           "pas",
           "skuldre",
           "tvivl",
-          "uvidenhed"
+          "uvidende",
+          "uvidenhed",
+          "ved ikke"
         ],
         "tts": [
           "kvinde trækker på skuldrene"
@@ -6283,6 +7103,7 @@
       "👩‍🎓": {
         "default": [
           "dimittend",
+          "eksamen",
           "eksamenshat",
           "kvinde",
           "kvindelig studerende",
@@ -6518,7 +7339,7 @@
           "kontormedarbejder"
         ],
         "tts": [
-          "kontormedarbejder"
+          "kontoransat"
         ]
       },
       "👨‍💼": {
@@ -6557,11 +7378,12 @@
           "videnskabsmand"
         ],
         "tts": [
-          "videnskabsmand"
+          "forsker"
         ]
       },
       "👨‍🔬": {
         "default": [
+          "forsker",
           "mandlig forsker",
           "naturvidenskab",
           "naturvidenskabsmand",
@@ -6643,7 +7465,7 @@
           "stjerne"
         ],
         "tts": [
-          "sangsolist"
+          "sanger"
         ]
       },
       "👨‍🎤": {
@@ -6651,6 +7473,8 @@
           "entertainer",
           "karaoke",
           "mand",
+          "mandlig sanger",
+          "rock",
           "sang",
           "sanger",
           "skuespiller",
@@ -6658,7 +7482,7 @@
           "synge"
         ],
         "tts": [
-          "sanger"
+          "mandlig sanger"
         ]
       },
       "👩‍🎤": {
@@ -6666,6 +7490,7 @@
           "entertainer",
           "karaoke",
           "kvinde",
+          "rock",
           "sang",
           "sangerinde",
           "skuespiller",
@@ -6758,6 +7583,7 @@
       },
       "👨‍🚀": {
         "default": [
+          "astronaut",
           "mand",
           "mandlig astronaut",
           "raket",
@@ -6820,9 +7646,16 @@
       },
       "👮": {
         "default": [
+          "arrestere",
           "betjent",
+          "bøde",
+          "lov",
+          "loven",
+          "lovgivning",
           "politi",
-          "politibetjent"
+          "politibetjent",
+          "stoppet af politiet",
+          "undercover"
         ],
         "tts": [
           "politibetjent"
@@ -6842,10 +7675,17 @@
       },
       "👮‍♀": {
         "default": [
+          "arrestere",
           "betjent",
+          "bøde",
           "kvinde",
           "kvindelig politibetjent",
-          "politi"
+          "lov",
+          "lovgivning",
+          "politi",
+          "politibetjent",
+          "stoppet af politiet",
+          "undercover"
         ],
         "tts": [
           "kvindelig politibetjent"
@@ -6888,7 +7728,8 @@
         "default": [
           "garder",
           "garderofficer",
-          "gardist"
+          "gardist",
+          "livgarde"
         ],
         "tts": [
           "garder"
@@ -6922,9 +7763,16 @@
       },
       "🥷": {
         "default": [
+          "hemmelig",
+          "krig",
+          "kriger",
+          "liste",
+          "maske",
           "ninja",
           "ninjakriger",
+          "person",
           "skjult",
+          "soldat",
           "stealth"
         ],
         "tts": [
@@ -6933,9 +7781,19 @@
       },
       "👷": {
         "default": [
+          "arbejde",
           "arbejder",
+          "bygge",
+          "byggearbejde",
           "byggeri",
-          "bygningsarbejder"
+          "bygningsarbejder",
+          "genopbygge",
+          "hjelm",
+          "ombygge",
+          "person",
+          "reparation",
+          "reparere",
+          "sikkerhedshjelm"
         ],
         "tts": [
           "bygningsarbejder"
@@ -6957,9 +7815,10 @@
       "👷‍♀": {
         "default": [
           "arbejder",
-          "byggearbejder",
           "byggeri",
+          "bygningsarbejder",
           "hammer",
+          "hjelm",
           "kvinde",
           "kvindelig bygningsarbejder"
         ],
@@ -6970,7 +7829,10 @@
       "🫅": {
         "default": [
           "adelig",
+          "dronning",
+          "konge",
           "kongelig",
+          "krone",
           "monark",
           "person med krone",
           "royal"
@@ -6993,7 +7855,9 @@
       },
       "👸": {
         "default": [
+          "dronning",
           "eventyr",
+          "krone",
           "menneske",
           "prinsesse"
         ],
@@ -7003,8 +7867,9 @@
       },
       "👳": {
         "default": [
-          "menneske",
-          "person med turban"
+          "person",
+          "person med turban",
+          "turban"
         ],
         "tts": [
           "person med turban"
@@ -7086,10 +7951,12 @@
       "👰": {
         "default": [
           "brud",
+          "brud med slør",
           "brudeslør",
           "bryllup",
           "person",
-          "person med brudeslør"
+          "person med brudeslør",
+          "slør"
         ],
         "tts": [
           "person med brudeslør"
@@ -7137,10 +8004,12 @@
       "🫃": {
         "default": [
           "gravid",
-          "gravid mand",
           "mæt",
+          "mand",
           "mave",
-          "oppustet"
+          "oppustet",
+          "overspise",
+          "overspisning"
         ],
         "tts": [
           "gravid mand"
@@ -7152,7 +8021,9 @@
           "gravid person",
           "mæt",
           "mave",
-          "oppustet"
+          "oppustet",
+          "overspise",
+          "overspisning"
         ],
         "tts": [
           "gravid person"
@@ -7160,8 +8031,11 @@
       },
       "🤱": {
         "default": [
+          "amme",
+          "amning",
           "baby",
           "bryst",
+          "der ammer",
           "kvinde",
           "kvinde, der ammer"
         ],
@@ -7173,9 +8047,13 @@
         "default": [
           "amme",
           "baby",
+          "der mader baby",
           "kvinde",
           "kvinde, der mader baby",
-          "made"
+          "made",
+          "nyfødt",
+          "person",
+          "sutteflaske"
         ],
         "tts": [
           "kvinde, der mader baby"
@@ -7185,9 +8063,13 @@
         "default": [
           "amme",
           "baby",
+          "der mader baby",
+          "far",
           "made",
           "mand",
-          "mand, der mader baby"
+          "mand, der mader baby",
+          "nyfødt",
+          "person"
         ],
         "tts": [
           "mand, der mader baby"
@@ -7197,9 +8079,12 @@
         "default": [
           "amme",
           "baby",
+          "der mader baby",
           "made",
+          "nyfødt",
           "person",
-          "person, der mader baby"
+          "person, der mader baby",
+          "sutteflaske"
         ],
         "tts": [
           "person, der mader baby"
@@ -7207,6 +8092,7 @@
       },
       "👼": {
         "default": [
+          "baby",
           "babyengel",
           "engel"
         ],
@@ -7216,9 +8102,12 @@
       },
       "🎅": {
         "default": [
+          "eventyr",
+          "fantasi",
           "jul",
           "julemand",
-          "nisse"
+          "nisse",
+          "nissehue"
         ],
         "tts": [
           "julemand"
@@ -7239,9 +8128,14 @@
       },
       "🧑‍🎄": {
         "default": [
+          "glædelig jul",
+          "god jul",
           "jul",
+          "julemand",
           "julenisse",
-          "nisse"
+          "nisse",
+          "nissehue",
+          "person"
         ],
         "tts": [
           "julenisse"
@@ -7253,6 +8147,8 @@
           "helt",
           "heltinde",
           "superhelt",
+          "superheltinde",
+          "superkræfter",
           "superkraft"
         ],
         "tts": [
@@ -7288,7 +8184,9 @@
         "default": [
           "kriminel",
           "ond",
+          "person",
           "skurk",
+          "superkræfter",
           "superkraft",
           "superskurk"
         ],
@@ -7324,9 +8222,16 @@
       },
       "🧙": {
         "default": [
+          "fantasi",
+          "fortrylle",
+          "fortryllelse",
+          "heks",
+          "hidkalde",
           "magi",
           "magiker",
-          "mand"
+          "mand",
+          "rollespil",
+          "troldmand"
         ],
         "tts": [
           "magiker"
@@ -7355,8 +8260,14 @@
       },
       "🧚": {
         "default": [
+          "eventyr",
+          "fantasi",
           "fe",
-          "magi"
+          "magi",
+          "myte",
+          "sagn",
+          "Titania",
+          "vinger"
         ],
         "tts": [
           "fe"
@@ -7384,7 +8295,17 @@
       },
       "🧛": {
         "default": [
+          "blod",
           "Dracula",
+          "farlig",
+          "halloween",
+          "hugtænder",
+          "kostume",
+          "levende død",
+          "overnaturlig",
+          "tænder",
+          "udød",
+          "uhyggelig",
           "vampyr"
         ],
         "tts": [
@@ -7394,6 +8315,7 @@
       "🧛‍♂": {
         "default": [
           "Dracula",
+          "levende død",
           "mandlig vampyr"
         ],
         "tts": [
@@ -7403,6 +8325,7 @@
       "🧛‍♀": {
         "default": [
           "kvindelig vampyr",
+          "levende død",
           "vampyr"
         ],
         "tts": [
@@ -7411,9 +8334,17 @@
       },
       "🧜": {
         "default": [
+          "eventyr",
           "hav",
           "havfolk",
-          "havvæsen"
+          "havfrue",
+          "havmand",
+          "havvæsen",
+          "havvæsener",
+          "sagn",
+          "sirene",
+          "trefork",
+          "under havet"
         ],
         "tts": [
           "havvæsen"
@@ -7442,8 +8373,15 @@
       },
       "🧝": {
         "default": [
+          "alf",
           "elver",
-          "magi"
+          "fortryllende",
+          "fortryllet",
+          "legende",
+          "magi",
+          "myte",
+          "mytisk",
+          "sagn"
         ],
         "tts": [
           "elver"
@@ -7471,9 +8409,16 @@
       },
       "🧞": {
         "default": [
+          "ånden i lampen",
+          "fantasi",
+          "gnid på lampen",
           "lampe",
+          "lampens ånd",
           "magi",
-          "magisk ånd"
+          "magisk ånd",
+          "myte",
+          "mytisk",
+          "ønsker"
         ],
         "tts": [
           "magisk ånd"
@@ -7481,6 +8426,7 @@
       },
       "🧞‍♂": {
         "default": [
+          "lampeånd",
           "magi",
           "mand",
           "mandlig magisk ånd"
@@ -7493,6 +8439,7 @@
         "default": [
           "kvinde",
           "kvindelig magisk ånd",
+          "lampeånd",
           "magi"
         ],
         "tts": [
@@ -7501,7 +8448,15 @@
       },
       "🧟": {
         "default": [
+          "apokalypsen",
+          "farlig",
+          "gys",
+          "halloween",
+          "horror",
           "levende død",
+          "udød",
+          "uhyggelig",
+          "walking dead",
           "zombie"
         ],
         "tts": [
@@ -7510,7 +8465,7 @@
       },
       "🧟‍♂": {
         "default": [
-          "lavende død",
+          "levende død",
           "mand",
           "mandlig zombie"
         ],
@@ -7533,7 +8488,12 @@
           "eventyr",
           "fantasy",
           "monster",
-          "trold"
+          "provokation",
+          "provokere",
+          "trold",
+          "troll",
+          "troller",
+          "trolling"
         ],
         "tts": [
           "trold"
@@ -7541,9 +8501,21 @@
       },
       "💆": {
         "default": [
+          "afslapning",
+          "afslappende",
+          "ansigt",
           "ansigtsmassage",
+          "behandling",
+          "hovedpine",
+          "lindre",
           "massage",
-          "salon"
+          "person får massage",
+          "salon",
+          "slapper af",
+          "spa",
+          "spændinger",
+          "terapi",
+          "wellness"
         ],
         "tts": [
           "ansigtsmassage"
@@ -7574,8 +8546,17 @@
       "💇": {
         "default": [
           "bliver klippet",
+          "frisør",
+          "frisure",
           "hår",
-          "klipning"
+          "hårklipning",
+          "klipning",
+          "klippe hår",
+          "kosmetik",
+          "person bliver klippet",
+          "saks",
+          "salon",
+          "skønhed"
         ],
         "tts": [
           "bliver klippet"
@@ -7584,6 +8565,7 @@
       "💇‍♂": {
         "default": [
           "frisør",
+          "frisure",
           "hår",
           "klipning",
           "klippe",
@@ -7611,8 +8593,14 @@
         "default": [
           "fodgænger",
           "gå",
+          "gående",
+          "gående person",
           "gang",
+          "gåtur",
           "hike",
+          "skridt",
+          "slente",
+          "tempo",
           "vandre",
           "vandring"
         ],
@@ -7656,7 +8644,10 @@
       },
       "🧍": {
         "default": [
-          "stående person"
+          "person",
+          "stå",
+          "stående",
+          "står"
         ],
         "tts": [
           "stående person"
@@ -7664,7 +8655,9 @@
       },
       "🧍‍♂": {
         "default": [
-          "stående mand"
+          "mand",
+          "stående",
+          "står"
         ],
         "tts": [
           "stående mand"
@@ -7672,7 +8665,9 @@
       },
       "🧍‍♀": {
         "default": [
-          "stående kvinde"
+          "kvinde",
+          "stående",
+          "står"
         ],
         "tts": [
           "stående kvinde"
@@ -7720,7 +8715,13 @@
       },
       "👨‍🦯": {
         "default": [
-          "mand med blindestok"
+          "blind",
+          "blindestok",
+          "handicap",
+          "mand",
+          "mand med blindestok",
+          "synshandicap",
+          "tilgængelighed"
         ],
         "tts": [
           "mand med blindestok"
@@ -7728,7 +8729,13 @@
       },
       "👩‍🦯": {
         "default": [
-          "kvinde med blindestok"
+          "blind",
+          "blindestok",
+          "handicap",
+          "kvinde",
+          "kvinde med blindestok",
+          "synshandicap",
+          "tilgængelighed"
         ],
         "tts": [
           "kvinde med blindestok"
@@ -7748,7 +8755,15 @@
       },
       "👨‍🦼": {
         "default": [
-          "mand i elektrisk kørestol"
+          "adgangsforhold",
+          "handicap",
+          "handikap",
+          "kørestol",
+          "mand",
+          "mand i elektrisk kørestol",
+          "mand i elkørestol",
+          "rullestol",
+          "tilgængelighed"
         ],
         "tts": [
           "mand i elektrisk kørestol"
@@ -7756,7 +8771,15 @@
       },
       "👩‍🦼": {
         "default": [
-          "kvinde i elektrisk kørestol"
+          "adgangsforhold",
+          "handicap",
+          "handikap",
+          "kørestol",
+          "kvinde",
+          "kvinde i elektrisk kørestol",
+          "kvinde i elkørestol",
+          "rullestol",
+          "tilgængelighed"
         ],
         "tts": [
           "kvinde i elektrisk kørestol"
@@ -7776,7 +8799,14 @@
       },
       "👨‍🦽": {
         "default": [
-          "mand i manuel kørestol"
+          "adgangsforhold",
+          "handicap",
+          "handikap",
+          "kørestol",
+          "mand",
+          "mand i manuel kørestol",
+          "rullestol",
+          "tilgængelighed"
         ],
         "tts": [
           "mand i manuel kørestol"
@@ -7784,7 +8814,14 @@
       },
       "👩‍🦽": {
         "default": [
-          "kvinde i manuel kørestol"
+          "adgangsforhold",
+          "handicap",
+          "handikap",
+          "kørestol",
+          "kvinde",
+          "kvinde i manuel kørestol",
+          "rullestol",
+          "tilgængelighed"
         ],
         "tts": [
           "kvinde i manuel kørestol"
@@ -7792,10 +8829,21 @@
       },
       "🏃": {
         "default": [
+          "bevægelse",
+          "bevæger",
+          "er på vej",
+          "hastighed",
+          "hurtig",
+          "hurtigt",
+          "kommer nu",
+          "løb",
+          "løbende person",
           "løber",
           "løbetræning",
           "maraton",
-          "sport"
+          "skynd dig",
+          "sport",
+          "tempo"
         ],
         "tts": [
           "løber"
@@ -7830,7 +8878,12 @@
       "💃": {
         "default": [
           "dans",
-          "danser"
+          "danser",
+          "fest",
+          "flamenco",
+          "kvinde",
+          "salsa",
+          "tango"
         ],
         "tts": [
           "danser"
@@ -7861,9 +8914,23 @@
       },
       "👯": {
         "default": [
+          "bedste ven",
+          "bedste veninde",
+          "bff",
+          "danser",
+          "dansere",
+          "dobbelt",
+          "fest",
+          "fester",
+          "identisk",
+          "kaninører",
           "kvinder",
           "ører",
-          "personer med kaninører"
+          "par",
+          "personer med kaninører",
+          "soulmate",
+          "tvilling",
+          "tvillinger"
         ],
         "tts": [
           "personer med kaninører"
@@ -7895,9 +8962,19 @@
       },
       "🧖": {
         "default": [
+          "afslappende",
+          "damp",
           "dampbad",
+          "dampende",
+          "forkæle",
+          "forkælelse",
+          "luksuriøst",
+          "luksus",
           "person i dampbad",
-          "sauna"
+          "person i sauna",
+          "sauna",
+          "slapper af",
+          "spa"
         ],
         "tts": [
           "person i dampbad"
@@ -7927,9 +9004,14 @@
       },
       "🧗": {
         "default": [
+          "bestige",
           "bjerg",
           "bjergbestiger",
-          "klatring"
+          "klatre",
+          "klatre op",
+          "klatrer",
+          "klatring",
+          "person klatrer"
         ],
         "tts": [
           "bjergbestiger"
@@ -8005,9 +9087,17 @@
       },
       "🏌": {
         "default": [
+          "birdie",
           "bold",
+          "caddie",
+          "driving range",
           "golf",
-          "golfspiller"
+          "golfspiller",
+          "green",
+          "person med golfkølle",
+          "pga",
+          "putt",
+          "tee"
         ],
         "tts": [
           "golfspiller"
@@ -8029,7 +9119,8 @@
           "golf",
           "golfkølle",
           "kvinde",
-          "kvindelig golfspiller"
+          "kvindelig golfspiller",
+          "sport"
         ],
         "tts": [
           "kvindelig golfspiller"
@@ -8037,7 +9128,13 @@
       },
       "🏄": {
         "default": [
+          "bølger",
+          "hav",
+          "havet",
+          "person på surfbræt",
           "sport",
+          "strand",
+          "surfe",
           "surfer",
           "surfing"
         ],
@@ -8069,9 +9166,19 @@
       },
       "🚣": {
         "default": [
+          "åre",
           "båd",
+          "flåde",
+          "flod",
+          "kano",
+          "krydstogt",
+          "pagaj",
+          "person i en båd",
+          "ro",
           "robåd",
-          "roer"
+          "roer",
+          "sø",
+          "tømmerflåde"
         ],
         "tts": [
           "roer"
@@ -8103,10 +9210,13 @@
       },
       "🏊": {
         "default": [
+          "freestyle",
           "sport",
           "svømme",
+          "svømmende person",
           "svømmer",
-          "svømning"
+          "svømning",
+          "triatlon"
         ],
         "tts": [
           "svømmer"
@@ -8135,9 +9245,15 @@
       },
       "⛹": {
         "default": [
+          "atletik",
+          "basketball",
+          "basketballspiller",
           "bold",
           "drible",
-          "person, der dibler med en bold",
+          "dribler",
+          "dribler med en bold",
+          "mesterskab",
+          "person",
           "person, der dribler med en bold"
         ],
         "tts": [
@@ -8146,11 +9262,14 @@
       },
       "⛹‍♂": {
         "default": [
+          "basketball",
           "bold",
           "boldspil",
           "boldspiller",
-          "mand",
-          "mand, der dribler med en bold"
+          "drible",
+          "dribler med en bold",
+          "håndbold",
+          "mand"
         ],
         "tts": [
           "mand, der dribler med en bold"
@@ -8158,9 +9277,12 @@
       },
       "⛹‍♀": {
         "default": [
+          "basket",
           "bold",
           "boldspil",
           "boldspiller",
+          "der dribler med en bold",
+          "håndbold",
           "kvinde",
           "kvinde, der dribler med en bold"
         ],
@@ -8170,9 +9292,16 @@
       },
       "🏋": {
         "default": [
+          "bodybuilder",
+          "dødløft",
           "løfter",
+          "styrkeløft",
+          "træning",
           "vægt",
-          "vægtløfter"
+          "vægtløfter",
+          "vægtløftning",
+          "vægtstang",
+          "vægttræning"
         ],
         "tts": [
           "vægtløfter"
@@ -8205,7 +9334,12 @@
       "🚴": {
         "default": [
           "cykel",
-          "cyklist"
+          "cykelrytter",
+          "cyklende person",
+          "cykler",
+          "cyklist",
+          "person på cykel",
+          "sport"
         ],
         "tts": [
           "cyklist"
@@ -8237,11 +9371,17 @@
       },
       "🚵": {
         "default": [
+          "atletisk",
           "bjerg",
           "cykel",
+          "cykelrytter",
+          "cykle",
+          "cykler",
           "cyklist",
           "mountainbike",
-          "mountainbikerytter"
+          "mountainbikerytter",
+          "person på mountainbike",
+          "sport"
         ],
         "tts": [
           "mountainbikerytter"
@@ -8271,11 +9411,15 @@
       },
       "🤸": {
         "default": [
+          "aktiv",
+          "glad",
           "gymnastik",
           "menneske",
           "person",
           "person slår vejrmølle",
+          "spændt",
           "sport",
+          "spring",
           "vejrmølle"
         ],
         "tts": [
@@ -8284,9 +9428,14 @@
       },
       "🤸‍♂": {
         "default": [
+          "aktiv",
+          "glad",
+          "gymnast",
           "gymnastik",
           "mand",
           "mand slår vejrmøller",
+          "spændt",
+          "spring",
           "vejrmølle"
         ],
         "tts": [
@@ -8295,9 +9444,14 @@
       },
       "🤸‍♀": {
         "default": [
+          "aktiv",
+          "glad",
+          "gymnast",
           "gymnastik",
           "kvinde",
           "kvinde slår vejrmøller",
+          "spændt",
+          "spring",
           "vejrmølle"
         ],
         "tts": [
@@ -8308,9 +9462,14 @@
         "default": [
           "bryder",
           "brydere",
+          "brydeturnering",
           "brydning",
+          "kamp",
           "personer",
-          "sport"
+          "sport",
+          "turnering",
+          "wrestle",
+          "wrestling"
         ],
         "tts": [
           "brydere"
@@ -8319,9 +9478,13 @@
       "🤼‍♂": {
         "default": [
           "brydere",
+          "brydeturnering",
           "brydning",
+          "kamp",
           "mænd",
           "mandlige brydere",
+          "turnering",
+          "wrestle",
           "wrestling"
         ],
         "tts": [
@@ -8331,9 +9494,14 @@
       "🤼‍♀": {
         "default": [
           "brydere",
+          "brydeturnering",
           "brydning",
+          "kamp",
+          "konkurrence",
           "kvindelige brydere",
           "kvinder",
+          "turnering",
+          "wrestle",
           "wrestling"
         ],
         "tts": [
@@ -8342,8 +9510,11 @@
       },
       "🤽": {
         "default": [
+          "person",
           "polo",
           "sport",
+          "svømmer",
+          "svømning",
           "vand",
           "vandpolo",
           "vandpolospiller",
@@ -8357,7 +9528,11 @@
         "default": [
           "mand",
           "mandlig vandpolospiller",
-          "vandpolo"
+          "sport",
+          "svømning",
+          "vandpolo",
+          "vandpolospiller",
+          "vandsport"
         ],
         "tts": [
           "mandlig vandpolospiller"
@@ -8367,7 +9542,10 @@
         "default": [
           "kvinde",
           "kvindelig vandpolospiller",
-          "vandpolo"
+          "svømning",
+          "vandpolo",
+          "vandpolospiller",
+          "vandsport"
         ],
         "tts": [
           "kvindelig vandpolospiller"
@@ -8375,9 +9553,13 @@
       },
       "🤾": {
         "default": [
+          "atletik",
           "bold",
+          "gribe",
           "håndbold",
           "håndboldspiller",
+          "kaste",
+          "person",
           "sport"
         ],
         "tts": [
@@ -8397,10 +9579,16 @@
       },
       "🤾‍♀": {
         "default": [
+          "atletik",
+          "bold",
+          "gribe",
           "håndbold",
           "håndboldspiller",
+          "kaste",
           "kvinde",
-          "kvindelig håndboldspiller"
+          "kvindelig håndboldspiller",
+          "smide",
+          "sport"
         ],
         "tts": [
           "kvindelig håndboldspiller"
@@ -8409,12 +9597,16 @@
       "🤹": {
         "default": [
           "balance",
+          "balancere",
           "behændighed",
           "dygtighed",
+          "håndtere",
           "jonglere",
           "jonglør",
+          "menneske",
           "multitaske",
-          "multitasking"
+          "multitasking",
+          "person"
         ],
         "tts": [
           "jonglør"
@@ -8422,11 +9614,13 @@
       },
       "🤹‍♂": {
         "default": [
+          "balancere",
           "bolde",
+          "håndtere",
           "jonglere",
           "mand",
           "mandlig jonglør",
-          "multitakse",
+          "multitaske",
           "multitasking"
         ],
         "tts": [
@@ -8448,9 +9642,17 @@
       },
       "🧘": {
         "default": [
+          "afslappende",
+          "fred",
           "lotusstilling",
           "meditation",
-          "yoga"
+          "person i lotusstilling",
+          "ro",
+          "skrædderstilling",
+          "slapper af",
+          "yoga",
+          "yogi",
+          "zen"
         ],
         "tts": [
           "lotusstilling"
@@ -8490,9 +9692,19 @@
       },
       "🛌": {
         "default": [
+          "godnat",
           "hotel",
+          "nat",
           "person i seng",
-          "sove"
+          "seng",
+          "sengetid",
+          "sove",
+          "sover",
+          "søvn",
+          "træt",
+          "zz",
+          "zzz",
+          "zzzz"
         ],
         "tts": [
           "person i seng"
@@ -8500,16 +9712,29 @@
       },
       "🧑‍🤝‍🧑": {
         "default": [
-          "mennesker, der holder hånd"
+          "hånd",
+          "holde",
+          "holde i hånd",
+          "mennesker, der holder hånd",
+          "par",
+          "personer",
+          "personer hånd i hånd",
+          "to personer"
         ],
         "tts": [
-          "mennesker, der holder hånd"
+          "personer hånd i hånd"
         ]
       },
       "👭": {
         "default": [
+          "elsker",
+          "kærlighed",
+          "lesbisk",
+          "lgbt",
           "par",
-          "to kvinder hånd i hånd"
+          "søstre",
+          "to kvinder hånd i hånd",
+          "veninder"
         ],
         "tts": [
           "to kvinder hånd i hånd"
@@ -8517,8 +9742,12 @@
       },
       "👫": {
         "default": [
+          "flirt",
+          "holde hånd",
+          "kærlighed",
           "mand og kvinde hånd i hånd",
-          "par"
+          "par",
+          "venner"
         ],
         "tts": [
           "mand og kvinde hånd i hånd"
@@ -8527,6 +9756,8 @@
       "👬": {
         "default": [
           "hånd i hånd",
+          "kærlighed",
+          "lgbt",
           "mænd",
           "par",
           "stjernetegn",
@@ -8540,6 +9771,7 @@
       },
       "💏": {
         "default": [
+          "årsdag",
           "kærlighed",
           "kys",
           "par med hjerte",
@@ -8557,18 +9789,6 @@
         ],
         "tts": [
           "par med hjerte"
-        ]
-      },
-      "👪": {
-        "default": [
-          "barn",
-          "familie",
-          "far",
-          "menneske",
-          "mor"
-        ],
-        "tts": [
-          "familie"
         ]
       },
       "🗣": {
@@ -8608,10 +9828,79 @@
           "hej",
           "knus",
           "kram",
-          "tak"
+          "omfavne",
+          "tak",
+          "trøste",
+          "venskab"
         ],
         "tts": [
           "knus"
+        ]
+      },
+      "👪": {
+        "default": [
+          "barn",
+          "familie",
+          "far",
+          "menneske",
+          "mor",
+          "par"
+        ],
+        "tts": [
+          "familie"
+        ]
+      },
+      "🧑‍🧑‍🧒": {
+        "default": [
+          "barn",
+          "familie",
+          "forældre",
+          "menneske",
+          "voksen",
+          "voksne"
+        ],
+        "tts": [
+          "familie: voksen, voksen, barn"
+        ]
+      },
+      "🧑‍🧑‍🧒‍🧒": {
+        "default": [
+          "barn",
+          "børn",
+          "familie",
+          "forældre",
+          "menneske",
+          "to",
+          "voksen",
+          "voksne"
+        ],
+        "tts": [
+          "familie: voksen, voksen, barn, barn"
+        ]
+      },
+      "🧑‍🧒": {
+        "default": [
+          "barn",
+          "familie",
+          "forælder",
+          "menneske",
+          "voksen"
+        ],
+        "tts": [
+          "familie: voksen, barn"
+        ]
+      },
+      "🧑‍🧒‍🧒": {
+        "default": [
+          "barn",
+          "børn",
+          "familie",
+          "forælder",
+          "menneske",
+          "voksen"
+        ],
+        "tts": [
+          "familie: voksen, barn, barn"
         ]
       },
       "👣": {
@@ -8621,6 +9910,17 @@
         ],
         "tts": [
           "fodspor"
+        ]
+      },
+      "🫆": {
+        "default": [
+          "fingeraftryk",
+          "identitet",
+          "retsmedicin",
+          "sikkerhed"
+        ],
+        "tts": [
+          "fingeraftryk"
         ]
       },
       "🦰": {
@@ -8680,6 +9980,7 @@
       "🐒": {
         "default": [
           "abe",
+          "banan",
           "dyr"
         ],
         "tts": [
@@ -8700,6 +10001,7 @@
       "🦧": {
         "default": [
           "abe",
+          "dyr",
           "orangutang"
         ],
         "tts": [
@@ -8731,7 +10033,10 @@
       "🦮": {
         "default": [
           "blind",
+          "dyr",
           "førerhund",
+          "handikap",
+          "hund",
           "tilgængelighed"
         ],
         "tts": [
@@ -8740,6 +10045,7 @@
       },
       "🐕‍🦺": {
         "default": [
+          "dyr",
           "førerhund",
           "hjælp",
           "hund",
@@ -8754,7 +10060,8 @@
         "default": [
           "dyr",
           "hund",
-          "puddel"
+          "puddel",
+          "puddelhund"
         ],
         "tts": [
           "puddel"
@@ -8762,6 +10069,7 @@
       },
       "🐺": {
         "default": [
+          "dyr",
           "ulv",
           "ulvehoved"
         ],
@@ -8771,6 +10079,7 @@
       },
       "🦊": {
         "default": [
+          "dyr",
           "ræv",
           "rævehoved"
         ],
@@ -8803,7 +10112,8 @@
         "default": [
           "dyr",
           "kæledyr",
-          "kat"
+          "kat",
+          "killing"
         ],
         "tts": [
           "kat"
@@ -8811,8 +10121,13 @@
       },
       "🐈‍⬛": {
         "default": [
+          "dyr",
+          "fastelavn",
           "kat",
+          "miav",
+          "mis",
           "sort",
+          "sort uheld",
           "uheldig",
           "ulykke"
         ],
@@ -8873,9 +10188,10 @@
       },
       "🫎": {
         "default": [
+          "alces",
           "dyr",
           "elg",
-          "elk",
+          "elsdyr",
           "gevir",
           "pattedyr"
         ],
@@ -8887,6 +10203,7 @@
         "default": [
           "æsel",
           "dyr",
+          "mulæsel",
           "muldyr",
           "pakæsel",
           "pattedyr",
@@ -8909,8 +10226,11 @@
       },
       "🦄": {
         "default": [
+          "dyr",
+          "enhjørning",
           "enhjørningehoved",
-          "hoved"
+          "hoved",
+          "magi"
         ],
         "tts": [
           "enhjørningehoved"
@@ -8928,6 +10248,7 @@
       },
       "🦌": {
         "default": [
+          "dådyr",
           "gevir",
           "hjort",
           "rådyr",
@@ -8941,6 +10262,7 @@
         "default": [
           "bison",
           "bøffel",
+          "dyr",
           "flok"
         ],
         "tts": [
@@ -8988,6 +10310,7 @@
       },
       "🐷": {
         "default": [
+          "bacon",
           "dyr",
           "gris",
           "grisehoved",
@@ -9018,6 +10341,7 @@
       "🐽": {
         "default": [
           "dyr",
+          "gris",
           "grisetryne",
           "hoved",
           "tryne"
@@ -9040,7 +10364,9 @@
       "🐑": {
         "default": [
           "dyr",
-          "får"
+          "får",
+          "mæh",
+          "uld"
         ],
         "tts": [
           "får"
@@ -9078,6 +10404,7 @@
       "🦙": {
         "default": [
           "alpaka",
+          "dyr",
           "guanako",
           "lama",
           "uld",
@@ -9108,6 +10435,7 @@
       },
       "🦣": {
         "default": [
+          "dyr",
           "mammut",
           "stødtænder",
           "stor",
@@ -9198,6 +10526,7 @@
       },
       "🐿": {
         "default": [
+          "dyr",
           "egern",
           "jordegern"
         ],
@@ -9209,7 +10538,9 @@
         "default": [
           "bæver",
           "dæmning",
-          "gnaver"
+          "dyr",
+          "gnaver",
+          "tænder"
         ],
         "tts": [
           "bæver"
@@ -9217,6 +10548,7 @@
       },
       "🦔": {
         "default": [
+          "dyr",
           "pigge",
           "pindsvin"
         ],
@@ -9237,8 +10569,11 @@
       },
       "🐻": {
         "default": [
+          "bamse",
           "bjørn",
-          "bjørnehoved"
+          "bjørnehoved",
+          "dyr",
+          "honning"
         ],
         "tts": [
           "bjørnehoved"
@@ -9257,8 +10592,10 @@
       },
       "🐨": {
         "default": [
+          "australien",
           "dyr",
-          "koala"
+          "koala",
+          "pungdyr"
         ],
         "tts": [
           "koala"
@@ -9266,6 +10603,7 @@
       },
       "🐼": {
         "default": [
+          "dyr",
           "panda",
           "pandahoved"
         ],
@@ -9277,6 +10615,7 @@
         "default": [
           "doven",
           "dovendyr",
+          "dyr",
           "langsom"
         ],
         "tts": [
@@ -9295,6 +10634,7 @@
       },
       "🦨": {
         "default": [
+          "dyr",
           "stank",
           "stinkdyr"
         ],
@@ -9305,6 +10645,7 @@
       "🦘": {
         "default": [
           "Australien",
+          "dyr",
           "hop",
           "kænguru",
           "pungdyr"
@@ -9315,6 +10656,7 @@
       },
       "🦡": {
         "default": [
+          "dyr",
           "grævling",
           "honninggrævling",
           "plage"
@@ -9327,6 +10669,7 @@
         "default": [
           "dyr",
           "poteaftryk",
+          "poter",
           "spor"
         ],
         "tts": [
@@ -9335,6 +10678,7 @@
       },
       "🦃": {
         "default": [
+          "dyr",
           "fugl",
           "kalkun"
         ],
@@ -9345,7 +10689,8 @@
       "🐔": {
         "default": [
           "dyr",
-          "høne"
+          "høne",
+          "kylling"
         ],
         "tts": [
           "høne"
@@ -9373,7 +10718,8 @@
       "🐤": {
         "default": [
           "dyr",
-          "kylling"
+          "kylling",
+          "kyllingehoved"
         ],
         "tts": [
           "kylling"
@@ -9392,7 +10738,8 @@
       "🐦": {
         "default": [
           "dyr",
-          "fugl"
+          "fugl",
+          "ornitologi"
         ],
         "tts": [
           "fugl"
@@ -9400,6 +10747,7 @@
       },
       "🐧": {
         "default": [
+          "antarktis",
           "dyr",
           "pingvin"
         ],
@@ -9410,6 +10758,7 @@
       "🕊": {
         "default": [
           "due",
+          "dyr",
           "flyve",
           "fred",
           "fugl"
@@ -9442,6 +10791,7 @@
       },
       "🦢": {
         "default": [
+          "dyr",
           "fugl",
           "grim ælling",
           "svane",
@@ -9468,6 +10818,7 @@
       "🦤": {
         "default": [
           "dronte",
+          "dyr",
           "kæmpefugl",
           "Mauritius",
           "uddød",
@@ -9482,7 +10833,9 @@
           "fjer",
           "fjerdragt",
           "flyve",
-          "let"
+          "let",
+          "pen",
+          "skrive"
         ],
         "tts": [
           "fjer"
@@ -9490,8 +10843,10 @@
       },
       "🦩": {
         "default": [
+          "dyr",
           "flamboyant",
           "flamingo",
+          "pink",
           "tropisk"
         ],
         "tts": [
@@ -9500,6 +10855,7 @@
       },
       "🦚": {
         "default": [
+          "dyr",
           "fugl",
           "påfugl",
           "påfuglehøne",
@@ -9512,8 +10868,10 @@
       },
       "🦜": {
         "default": [
+          "dyr",
           "fugl",
           "papegøje",
+          "pirat",
           "sørøver",
           "tale"
         ],
@@ -9524,26 +10882,73 @@
       "🪽": {
         "default": [
           "engleagtig",
+          "flyve",
           "flyver",
           "flyvning",
           "fugl",
+          "himlen",
+          "himmel",
           "mytologi",
+          "opad",
+          "svæve",
+          "svæver",
           "vinge"
         ],
         "tts": [
           "vinge"
         ]
       },
+      "🐦‍⬛": {
+        "default": [
+          "dyr",
+          "fugl",
+          "krage",
+          "kragefugl",
+          "næb",
+          "råge",
+          "ravn",
+          "skræppe",
+          "sort"
+        ],
+        "tts": [
+          "sort fugl"
+        ]
+      },
       "🪿": {
         "default": [
+          "ænder",
+          "and",
+          "dyr",
           "fjerkræ",
           "fjollet",
           "fugl",
+          "gæs",
           "gås",
           "skræp"
         ],
         "tts": [
           "gås"
+        ]
+      },
+      "🐦‍🔥": {
+        "default": [
+          "fantasi",
+          "føniks",
+          "forny",
+          "fornyelse",
+          "genfødsel",
+          "genskabe",
+          "genskabelse",
+          "ildfugl",
+          "opstige",
+          "opstigning",
+          "reinkarnation",
+          "reinkarnere",
+          "transformere",
+          "udødelig"
+        ],
+        "tts": [
+          "føniks"
         ]
       },
       "🐸": {
@@ -9567,6 +10972,7 @@
       "🐢": {
         "default": [
           "dyr",
+          "langsom",
           "skildpadde"
         ],
         "tts": [
@@ -9606,7 +11012,8 @@
       "🐉": {
         "default": [
           "drage",
-          "eventyr"
+          "eventyr",
+          "kinesisk drage"
         ],
         "tts": [
           "drage"
@@ -9616,6 +11023,8 @@
         "default": [
           "brachiosaurus",
           "brontosaurus",
+          "dinosaur",
+          "dinosaurus",
           "diplodocus",
           "sauropod"
         ],
@@ -9625,6 +11034,8 @@
       },
       "🦖": {
         "default": [
+          "dinosaur",
+          "dinosaurus",
           "T-Rex",
           "Tyrannosaurus Rex"
         ],
@@ -9634,9 +11045,12 @@
       },
       "🐳": {
         "default": [
+          "blåhval",
           "dyr",
+          "hav",
           "hval",
-          "hval med vandsprøjt"
+          "ocean",
+          "vandsprøjt"
         ],
         "tts": [
           "hval med vandsprøjt"
@@ -9662,6 +11076,9 @@
       },
       "🦭": {
         "default": [
+          "dyr",
+          "hav",
+          "ocean",
           "sæl",
           "søløve"
         ],
@@ -9720,7 +11137,8 @@
       "🐚": {
         "default": [
           "dyr",
-          "konkylie"
+          "konkylie",
+          "muslingeskal"
         ],
         "tts": [
           "konkylie"
@@ -9729,6 +11147,7 @@
       "🪸": {
         "default": [
           "hav",
+          "klimaforandring",
           "koral",
           "rev"
         ],
@@ -9738,16 +11157,83 @@
       },
       "🪼": {
         "default": [
+          "akvarium",
           "av",
           "brandmand",
+          "dyr",
           "fangtråd",
           "gople",
           "hav",
+          "havdyr",
+          "havet",
           "hvirvelløs",
-          "svide"
+          "plankton",
+          "svide",
+          "tentakler"
         ],
         "tts": [
           "gople"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "krabbe",
+          "krebsen",
+          "stjernetegn"
+        ],
+        "tts": [
+          "krabbe"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "bisque",
+          "hummer",
+          "kløer",
+          "krebs",
+          "skaldyr"
+        ],
+        "tts": [
+          "hummer"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "dyr",
+          "havdyr",
+          "mad",
+          "reje",
+          "skaldyr"
+        ],
+        "tts": [
+          "reje"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "arme",
+          "blæk",
+          "blæksprutte",
+          "bløddyr",
+          "flerarmet",
+          "havdyr",
+          "mad",
+          "multitasking",
+          "sprutte"
+        ],
+        "tts": [
+          "sprutte"
+        ]
+      },
+      "🦪": {
+        "default": [
+          "dykke",
+          "gourmet",
+          "østers",
+          "perle"
+        ],
+        "tts": [
+          "østers"
         ]
       },
       "🐌": {
@@ -9776,6 +11262,7 @@
         "default": [
           "dyr",
           "larve",
+          "orm",
           "sommerfuglelarve",
           "tusindben"
         ],
@@ -9805,7 +11292,9 @@
       "🪲": {
         "default": [
           "bille",
-          "insekt"
+          "dyr",
+          "insekt",
+          "kryb"
         ],
         "tts": [
           "bille"
@@ -9823,7 +11312,8 @@
       "🦗": {
         "default": [
           "fårekylling",
-          "græshoppe"
+          "græshoppe",
+          "insekt"
         ],
         "tts": [
           "fårekylling"
@@ -9831,6 +11321,7 @@
       },
       "🪳": {
         "default": [
+          "dyr",
           "insekt",
           "kakerlak",
           "skadedyr"
@@ -9841,8 +11332,10 @@
       },
       "🕷": {
         "default": [
+          "dyr",
           "edderkop",
-          "insekt"
+          "insekt",
+          "spindler"
         ],
         "tts": [
           "edderkop"
@@ -9883,11 +11376,14 @@
       },
       "🪰": {
         "default": [
+          "dyr",
           "flue",
           "hestebremse",
+          "insekt",
           "klæg",
           "maddike",
           "rådden",
+          "spyflue",
           "stueflue",
           "sygdom",
           "tsetse"
@@ -9898,6 +11394,7 @@
       },
       "🪱": {
         "default": [
+          "dyr",
           "ledorm",
           "orm",
           "parasit",
@@ -9912,6 +11409,7 @@
           "amøbe",
           "bakterie",
           "mikrobe",
+          "videnskab",
           "virus"
         ],
         "tts": [
@@ -9952,10 +11450,14 @@
         "default": [
           "blomst",
           "buddhisme",
+          "fred",
           "hinduisme",
           "Indien",
           "lotus",
           "renhed",
+          "ro",
+          "sindsro",
+          "skønhed",
           "Vietnam"
         ],
         "tts": [
@@ -9974,6 +11476,7 @@
       "🌹": {
         "default": [
           "blomst",
+          "kærlighed",
           "rose"
         ],
         "tts": [
@@ -10031,11 +11534,16 @@
       "🪻": {
         "default": [
           "blå lupin",
+          "blålilla",
           "blomst",
+          "blomstre",
+          "forår",
           "hyacint",
           "lavendel",
+          "lilla",
           "løvemund",
-          "lupin"
+          "lupin",
+          "plante"
         ],
         "tts": [
           "hyacint"
@@ -10054,6 +11562,8 @@
         "default": [
           "hjem",
           "hus",
+          "indretning",
+          "kaktus",
           "kedelig",
           "nære",
           "plante",
@@ -10067,6 +11577,8 @@
       },
       "🌲": {
         "default": [
+          "grantræ",
+          "juletræ",
           "nåletræ",
           "stedsegrøn",
           "træ"
@@ -10078,7 +11590,10 @@
       "🌳": {
         "default": [
           "løvfældende træ",
-          "løvtræ"
+          "løvtræ",
+          "skov",
+          "træ",
+          "trækrone"
         ],
         "tts": [
           "løvtræ"
@@ -10097,6 +11612,7 @@
         "default": [
           "kaktus",
           "kaktusplante",
+          "ørken",
           "plante"
         ],
         "tts": [
@@ -10105,6 +11621,7 @@
       },
       "🌾": {
         "default": [
+          "korn",
           "ris",
           "risplante"
         ],
@@ -10115,6 +11632,7 @@
       "🌿": {
         "default": [
           "blade",
+          "plante",
           "urt"
         ],
         "tts": [
@@ -10123,6 +11641,8 @@
       },
       "☘": {
         "default": [
+          "grøn",
+          "Irland",
           "kløver",
           "plante"
         ],
@@ -10156,7 +11676,8 @@
         "default": [
           "blade",
           "efterårsblade",
-          "faldende blade"
+          "faldende blade",
+          "løvfald"
         ],
         "tts": [
           "faldende blade"
@@ -10175,6 +11696,8 @@
       },
       "🪹": {
         "default": [
+          "hjem",
+          "rede",
           "redebygning",
           "tom rede"
         ],
@@ -10184,6 +11707,9 @@
       },
       "🪺": {
         "default": [
+          "æg",
+          "fugl",
+          "rede",
           "rede med æg",
           "redebygning"
         ],
@@ -10193,11 +11719,23 @@
       },
       "🍄": {
         "default": [
+          "fluesvamp",
           "plante",
           "svamp"
         ],
         "tts": [
           "svamp"
+        ]
+      },
+      "🪾": {
+        "default": [
+          "gold",
+          "tørke",
+          "træ uden blade",
+          "vinter"
+        ],
+        "tts": [
+          "træ uden blade"
         ]
       },
       "🍇": {
@@ -10249,6 +11787,31 @@
         ],
         "tts": [
           "citron"
+        ]
+      },
+      "🍋‍🟩": {
+        "default": [
+          "citrus",
+          "citrusfrugt",
+          "cocktail",
+          "forfriskende",
+          "frugt",
+          "grøn",
+          "juice",
+          "lime",
+          "margarita",
+          "mojito",
+          "pynt",
+          "salsa",
+          "sur",
+          "surhed",
+          "syrlig",
+          "tequila",
+          "troperne",
+          "tropisk"
+        ],
+        "tts": [
+          "lime"
         ]
       },
       "🍌": {
@@ -10342,7 +11905,10 @@
         "default": [
           "bær",
           "blå",
-          "blåbær"
+          "blåbær",
+          "frugt",
+          "mad",
+          "solbær"
         ],
         "tts": [
           "blåbær"
@@ -10370,7 +11936,9 @@
       },
       "🫒": {
         "default": [
+          "gren",
           "mad",
+          "olie",
           "oliven"
         ],
         "tts": [
@@ -10379,6 +11947,7 @@
       },
       "🥥": {
         "default": [
+          "kokos",
           "kokosnød",
           "palme"
         ],
@@ -10440,6 +12009,8 @@
       "🌶": {
         "default": [
           "chili",
+          "grøntsag",
+          "mad",
           "peber",
           "plante",
           "stærk"
@@ -10450,11 +12021,12 @@
       },
       "🫑": {
         "default": [
+          "grøn peber",
           "grøntsag",
+          "mad",
           "paprika",
           "peber",
-          "peberfrugt",
-          "rød peber"
+          "peberfrugt"
         ],
         "tts": [
           "peberfrugt"
@@ -10486,6 +12058,7 @@
       "🥦": {
         "default": [
           "broccoli",
+          "grøntsag",
           "kål"
         ],
         "tts": [
@@ -10504,7 +12077,8 @@
       "🧅": {
         "default": [
           "give smag",
-          "løg"
+          "løg",
+          "smag"
         ],
         "tts": [
           "løg"
@@ -10529,7 +12103,9 @@
           "bælgfrugt",
           "bønner",
           "kidney",
-          "mad"
+          "lille",
+          "mad",
+          "små"
         ],
         "tts": [
           "bønner"
@@ -10546,10 +12122,13 @@
       },
       "🫚": {
         "default": [
+          "ginger ale",
+          "ingefær",
           "ingefærrod",
           "krydderi",
-          "øl",
-          "rod"
+          "naturlig",
+          "rod",
+          "sundhed"
         ],
         "tts": [
           "ingefærrod"
@@ -10563,16 +12142,49 @@
           "bælgfrugt",
           "bønner",
           "edamame",
-          "grøntsag"
+          "grøntsag",
+          "soyabønne"
         ],
         "tts": [
           "ærtebælg"
         ]
       },
+      "🍄‍🟫": {
+        "default": [
+          "brun svamp",
+          "grøntsag",
+          "ingrediens på pizza",
+          "mad",
+          "natur",
+          "paddehat",
+          "pizzaingrediens",
+          "portobello",
+          "svamp",
+          "trøffel",
+          "vegetar",
+          "vegetarisk"
+        ],
+        "tts": [
+          "brun svamp"
+        ]
+      },
+      "🫜": {
+        "default": [
+          "grøntsag",
+          "have",
+          "majroe",
+          "rod",
+          "roe"
+        ],
+        "tts": [
+          "rodfrugt"
+        ]
+      },
       "🍞": {
         "default": [
           "bage",
-          "brød"
+          "brød",
+          "toastbrød"
         ],
         "tts": [
           "brød"
@@ -10608,6 +12220,7 @@
           "arepas",
           "fladbrød",
           "lavash",
+          "mad",
           "naan",
           "nan",
           "pita",
@@ -10619,6 +12232,7 @@
       },
       "🥨": {
         "default": [
+          "bager",
           "kringle",
           "saltkringle"
         ],
@@ -10650,7 +12264,8 @@
         "default": [
           "jern",
           "ubeslutsom",
-          "vaffel"
+          "vaffel",
+          "vaffeljern"
         ],
         "tts": [
           "vaffel"
@@ -10676,8 +12291,11 @@
       },
       "🍗": {
         "default": [
+          "fjerkræ",
+          "kalkun",
           "kylling",
-          "kyllingelår"
+          "kyllingelår",
+          "mad"
         ],
         "tts": [
           "kyllingelår"
@@ -10686,9 +12304,11 @@
       "🥩": {
         "default": [
           "bøf",
+          "kød",
           "kødudskæring",
           "kotelet",
           "lammekotelet",
+          "rødt kød",
           "svinekotelet"
         ],
         "tts": [
@@ -10710,7 +12330,8 @@
       "🍔": {
         "default": [
           "burger",
-          "hamburger"
+          "hamburger",
+          "mad"
         ],
         "tts": [
           "hamburger"
@@ -10718,6 +12339,7 @@
       },
       "🍟": {
         "default": [
+          "fastfood",
           "pomfrit",
           "pomfritter",
           "pommes frites"
@@ -10728,6 +12350,7 @@
       },
       "🍕": {
         "default": [
+          "mad",
           "pizza",
           "pizzastykke",
           "stykke pizza"
@@ -10767,7 +12390,8 @@
       "🌯": {
         "default": [
           "burrito",
-          "mexicansk"
+          "mexicansk",
+          "wrap"
         ],
         "tts": [
           "burrito"
@@ -10775,6 +12399,7 @@
       },
       "🫔": {
         "default": [
+          "mad",
           "mexicansk",
           "tamales",
           "wraps"
@@ -10792,7 +12417,8 @@
           "gyros",
           "kebab",
           "mad",
-          "pita"
+          "pita",
+          "pitabrød"
         ],
         "tts": [
           "fyldt pitabrød"
@@ -10819,7 +12445,9 @@
       },
       "🍳": {
         "default": [
+          "æg",
           "madlavning",
+          "morgenmad",
           "spejlæg",
           "stegepande",
           "stegepande med æg"
@@ -10870,6 +12498,7 @@
           "havregrød",
           "morgenmad",
           "mysli",
+          "skål",
           "ske i skål"
         ],
         "tts": [
@@ -10888,6 +12517,8 @@
       },
       "🍿": {
         "default": [
+          "biograf",
+          "film",
           "popcorn"
         ],
         "tts": [
@@ -10927,7 +12558,9 @@
         "default": [
           "bento",
           "bentoboks",
-          "boks"
+          "boks",
+          "sushi",
+          "sushiboks"
         ],
         "tts": [
           "bento"
@@ -10936,6 +12569,7 @@
       "🍘": {
         "default": [
           "kiks",
+          "mad",
           "riskiks"
         ],
         "tts": [
@@ -10944,6 +12578,8 @@
       },
       "🍙": {
         "default": [
+          "japansk",
+          "mad",
           "onigiri",
           "ris",
           "riskugle"
@@ -10964,7 +12600,8 @@
       },
       "🍛": {
         "default": [
-          "curry",
+          "karry",
+          "karryret",
           "ris",
           "ris og karry"
         ],
@@ -11008,6 +12645,7 @@
           "fisk",
           "grillspyd",
           "kebab",
+          "mad",
           "mad på spyd",
           "pind",
           "skaldyr",
@@ -11019,6 +12657,8 @@
       },
       "🍣": {
         "default": [
+          "mad",
+          "nigiri",
           "sushi",
           "sushi-restaurant"
         ],
@@ -11029,7 +12669,8 @@
       "🍤": {
         "default": [
           "dybstegt reje",
-          "reje"
+          "reje",
+          "skaldyr"
         ],
         "tts": [
           "dybstegt reje"
@@ -11048,6 +12689,7 @@
         "default": [
           "efterår",
           "festival",
+          "kage",
           "månekage",
           "yuèbǐng"
         ],
@@ -11058,7 +12700,10 @@
       "🍡": {
         "default": [
           "dango",
-          "iskugler"
+          "is",
+          "iskugler",
+          "japansk",
+          "spyd"
         ],
         "tts": [
           "dango"
@@ -11096,65 +12741,6 @@
           "kinesisk takeaway"
         ]
       },
-      "🦀": {
-        "default": [
-          "krabbe",
-          "krebsen",
-          "stjernetegn"
-        ],
-        "tts": [
-          "krabbe"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "bisque",
-          "hummer",
-          "kløer",
-          "skaldyr"
-        ],
-        "tts": [
-          "hummer"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "dyr",
-          "havdyr",
-          "mad",
-          "reje",
-          "skaldyr"
-        ],
-        "tts": [
-          "reje"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "arme",
-          "blæk",
-          "blæksprutte",
-          "bløddyr",
-          "flerarmet",
-          "havdyr",
-          "mad",
-          "multitasking",
-          "sprutte"
-        ],
-        "tts": [
-          "sprutte"
-        ]
-      },
-      "🦪": {
-        "default": [
-          "dykke",
-          "østers",
-          "perle"
-        ],
-        "tts": [
-          "østers"
-        ]
-      },
       "🍦": {
         "default": [
           "is",
@@ -11169,6 +12755,7 @@
           "is",
           "isdessert",
           "slush ice",
+          "slushice",
           "snow cone"
         ],
         "tts": [
@@ -11177,6 +12764,7 @@
       },
       "🍨": {
         "default": [
+          "dessert",
           "is",
           "isdessert"
         ],
@@ -11186,6 +12774,7 @@
       },
       "🍩": {
         "default": [
+          "dessert",
           "donut",
           "kage"
         ],
@@ -11195,6 +12784,7 @@
       },
       "🍪": {
         "default": [
+          "cookie",
           "kage",
           "småkage"
         ],
@@ -11204,9 +12794,13 @@
       },
       "🎂": {
         "default": [
+          "dessert",
+          "fødselsdag",
           "fødselsdagskage",
           "kage",
-          "lagkage"
+          "lagkage",
+          "til lykke",
+          "tillykke"
         ],
         "tts": [
           "fødselsdagskage"
@@ -11226,6 +12820,8 @@
         "default": [
           "bagværk",
           "cupcake",
+          "dessert",
+          "kage",
           "kager",
           "muffin"
         ],
@@ -11235,8 +12831,10 @@
       },
       "🥧": {
         "default": [
+          "dessert",
           "fyld",
           "kage",
+          "linse",
           "tærte"
         ],
         "tts": [
@@ -11281,9 +12879,11 @@
       },
       "🍯": {
         "default": [
+          "bjørn",
           "honning",
           "honningkrukke",
-          "krukke honning"
+          "krukke honning",
+          "Peter Plys"
         ],
         "tts": [
           "honning"
@@ -11316,6 +12916,7 @@
           "drik",
           "drikkevare",
           "kaffe",
+          "kakao",
           "te",
           "varm"
         ],
@@ -11327,9 +12928,11 @@
         "default": [
           "drik",
           "kande",
+          "mad",
           "te",
           "tekande",
-          "tepotte"
+          "tepotte",
+          "the"
         ],
         "tts": [
           "tekande"
@@ -11360,6 +12963,9 @@
       "🍾": {
         "default": [
           "bar",
+          "bobler",
+          "cava",
+          "champagne",
           "drik",
           "flaske",
           "flaske med flyvende prop",
@@ -11372,8 +12978,10 @@
       "🍷": {
         "default": [
           "et glas vin",
+          "glas",
           "hvidvin",
           "rødvin",
+          "vin",
           "vinglas"
         ],
         "tts": [
@@ -11401,8 +13009,9 @@
       },
       "🍺": {
         "default": [
+          "fadøl",
           "krus",
-          "krus øl",
+          "øl",
           "ølglas",
           "ølkrus"
         ],
@@ -11412,6 +13021,7 @@
       },
       "🍻": {
         "default": [
+          "fadøl",
           "krus",
           "krus øl",
           "ølglas",
@@ -11425,6 +13035,7 @@
       },
       "🥂": {
         "default": [
+          "champagne",
           "drikke",
           "fejring",
           "glas",
@@ -11452,9 +13063,12 @@
         "default": [
           "drik",
           "glas",
-          "hælde vand",
+          "hælde",
           "spilde",
-          "tom"
+          "tom",
+          "uheld",
+          "ups",
+          "vand"
         ],
         "tts": [
           "hælde vand"
@@ -11476,6 +13090,7 @@
           "bobler",
           "boblete",
           "bubble tea",
+          "mad",
           "mælk",
           "perler",
           "te"
@@ -11487,6 +13102,7 @@
       "🧃": {
         "default": [
           "brik",
+          "juice",
           "juicebrik"
         ],
         "tts": [
@@ -11495,6 +13111,7 @@
       },
       "🧉": {
         "default": [
+          "Argentina",
           "drik",
           "mate"
         ],
@@ -11504,6 +13121,7 @@
       },
       "🧊": {
         "default": [
+          "is",
           "isbjerg",
           "isterning",
           "kold"
@@ -11538,7 +13156,13 @@
           "bestik",
           "gaffel",
           "kniv",
-          "kniv og gaffel"
+          "kniv og gaffel",
+          "mad",
+          "madlavning",
+          "menu",
+          "restaurant",
+          "spise",
+          "sulten"
         ],
         "tts": [
           "kniv og gaffel"
@@ -11556,7 +13180,10 @@
       "🔪": {
         "default": [
           "kniv",
-          "køkkenkniv"
+          "kok",
+          "køkkenkniv",
+          "madlavning",
+          "våben"
         ],
         "tts": [
           "køkkenkniv"
@@ -11566,6 +13193,8 @@
         "default": [
           "beholder",
           "glas",
+          "ingenting",
+          "intet",
           "konservere",
           "krukke",
           "sylte",
@@ -11582,6 +13211,7 @@
           "drik",
           "kande",
           "krukke",
+          "lerkrukke",
           "madlavning",
           "stjernetegn",
           "vandmand"
@@ -11595,7 +13225,8 @@
           "Afrika",
           "Europa",
           "globus med Europa og Afrika",
-          "jorden"
+          "jorden",
+          "verden"
         ],
         "tts": [
           "globus med Europa og Afrika"
@@ -11606,7 +13237,9 @@
           "Amerika",
           "globus med Nord- og Sydamerika",
           "jorden",
-          "Nord- og Sydamerika"
+          "Nordamerika",
+          "Sydamerika",
+          "verden"
         ],
         "tts": [
           "globus med Nord- og Sydamerika"
@@ -11617,7 +13250,8 @@
           "Asien",
           "Australien",
           "globus med Asien og Australien",
-          "jorden"
+          "jorden",
+          "verden"
         ],
         "tts": [
           "globus med Asien og Australien"
@@ -11626,8 +13260,11 @@
       "🌐": {
         "default": [
           "breddegrader",
+          "globus",
           "globus med meridianer",
-          "længdegrader"
+          "internet",
+          "længdegrader",
+          "verden"
         ],
         "tts": [
           "globus med meridianer"
@@ -11647,7 +13284,8 @@
         "default": [
           "Japan",
           "kort",
-          "kort over Japan"
+          "kort over Japan",
+          "landkort"
         ],
         "tts": [
           "kort over Japan"
@@ -11658,6 +13296,7 @@
           "kompas",
           "magnetisk",
           "navigation",
+          "orientering",
           "verdenshjørne"
         ],
         "tts": [
@@ -11669,7 +13308,8 @@
           "bjerg",
           "koldt",
           "sne",
-          "sneklædt bjerg"
+          "sneklædt bjerg",
+          "tinde"
         ],
         "tts": [
           "sneklædt bjerg"
@@ -11734,7 +13374,8 @@
       "🏝": {
         "default": [
           "ø",
-          "øde"
+          "øde",
+          "palme"
         ],
         "tts": [
           "øde ø"
@@ -11751,6 +13392,7 @@
       },
       "🏟": {
         "default": [
+          "sport",
           "stadion"
         ],
         "tts": [
@@ -11760,7 +13402,9 @@
       "🏛": {
         "default": [
           "bygning",
-          "klassisk"
+          "klassisk",
+          "søjler",
+          "tempel"
         ],
         "tts": [
           "klassisk bygning"
@@ -11769,8 +13413,10 @@
       "🏗": {
         "default": [
           "byggeplads",
+          "byggeri",
           "bygning",
-          "konstruktion"
+          "konstruktion",
+          "kran"
         ],
         "tts": [
           "byggeplads"
@@ -11781,7 +13427,8 @@
           "ler",
           "mørtel",
           "mur",
-          "mursten"
+          "mursten",
+          "væg"
         ],
         "tts": [
           "mursten"
@@ -11801,10 +13448,12 @@
       },
       "🪵": {
         "default": [
+          "bjælke",
           "brænde",
           "tømmer",
           "træ",
-          "træstamme"
+          "træstamme",
+          "træstub"
         ],
         "tts": [
           "træ"
@@ -11823,6 +13472,7 @@
       },
       "🏘": {
         "default": [
+          "by",
           "bygning",
           "hus",
           "huse"
@@ -11846,7 +13496,8 @@
         "default": [
           "bygning",
           "hjem",
-          "hus"
+          "hus",
+          "villa"
         ],
         "tts": [
           "hus"
@@ -11856,7 +13507,9 @@
         "default": [
           "have",
           "hjem",
-          "hus med have"
+          "hus",
+          "hus med have",
+          "villa"
         ],
         "tts": [
           "hus med have"
@@ -11884,8 +13537,11 @@
       },
       "🏤": {
         "default": [
+          "bygning",
           "europæisk posthus",
-          "posthus"
+          "post",
+          "posthus",
+          "postkontor"
         ],
         "tts": [
           "posthus"
@@ -11907,7 +13563,8 @@
       "🏦": {
         "default": [
           "bank",
-          "bygning"
+          "bygning",
+          "pengeinstitut"
         ],
         "tts": [
           "bank"
@@ -11934,6 +13591,7 @@
       },
       "🏪": {
         "default": [
+          "døgnåben",
           "døgnkiosk",
           "kiosk",
           "købmand"
@@ -11954,6 +13612,7 @@
       "🏬": {
         "default": [
           "butik",
+          "forretning",
           "stormagasin",
           "varehus"
         ],
@@ -11982,7 +13641,10 @@
       },
       "🏰": {
         "default": [
+          "borg",
           "bygning",
+          "Europa",
+          "europæisk",
           "slot"
         ],
         "tts": [
@@ -12002,6 +13664,8 @@
       },
       "🗼": {
         "default": [
+          "Japan",
+          "tårn",
           "Tokyo",
           "Tokyo Tower"
         ],
@@ -12013,7 +13677,9 @@
         "default": [
           "frihed",
           "Frihedsgudinden",
-          "gudinde"
+          "gudinde",
+          "New York",
+          "Statue of Liberty"
         ],
         "tts": [
           "Frihedsgudinden"
@@ -12116,8 +13782,10 @@
       "🌃": {
         "default": [
           "nat",
+          "skyline",
           "stjernehimmel",
-          "stjerner"
+          "stjerner",
+          "storby"
         ],
         "tts": [
           "stjernehimmel"
@@ -12127,7 +13795,10 @@
         "default": [
           "by",
           "bygning",
-          "bylandskab"
+          "bylandskab",
+          "højhus",
+          "skyline",
+          "storby"
         ],
         "tts": [
           "bylandskab"
@@ -12166,9 +13837,13 @@
       },
       "🌇": {
         "default": [
+          "by",
+          "højhuse",
           "skumring",
+          "skyline",
           "solnedgang",
-          "solnedgang bag bygninger"
+          "solnedgang bag bygninger",
+          "storby"
         ],
         "tts": [
           "solnedgang"
@@ -12176,6 +13851,7 @@
       },
       "🌉": {
         "default": [
+          "bro",
           "bro i mørke",
           "bro i natten",
           "nat"
@@ -12209,8 +13885,13 @@
       "🛝": {
         "default": [
           "forlystelsespark",
+          "glide",
           "leg",
-          "legeplads-rutsjebane"
+          "lege",
+          "legeplads",
+          "legeplads-rutsjebane",
+          "rutsje",
+          "rutsjebane"
         ],
         "tts": [
           "legeplads-rutsjebane"
@@ -12269,8 +13950,11 @@
       },
       "🚃": {
         "default": [
+          "jernbane",
+          "sporvogn",
           "tog",
-          "togvogn"
+          "togvogn",
+          "vogn"
         ],
         "tts": [
           "togvogn"
@@ -12278,6 +13962,8 @@
       },
       "🚄": {
         "default": [
+          "højhastighedstog",
+          "jernbane",
           "lyntog",
           "tog"
         ],
@@ -12296,6 +13982,7 @@
       },
       "🚆": {
         "default": [
+          "jernbane",
           "køretøj",
           "tog"
         ],
@@ -12326,6 +14013,7 @@
       },
       "🚉": {
         "default": [
+          "jernbane",
           "station",
           "tog",
           "togstation"
@@ -12337,6 +14025,7 @@
       "🚊": {
         "default": [
           "køretøj",
+          "letbane",
           "sporvogn",
           "trolleybus"
         ],
@@ -12355,8 +14044,11 @@
       },
       "🚞": {
         "default": [
+          "bjerg",
           "bjergbane",
-          "svævebane"
+          "jernbane",
+          "svævebane",
+          "tog"
         ],
         "tts": [
           "bjergbane"
@@ -12376,7 +14068,8 @@
       "🚌": {
         "default": [
           "bus",
-          "køretøj"
+          "køretøj",
+          "skolebus"
         ],
         "tts": [
           "bus"
@@ -12397,6 +14090,7 @@
         "default": [
           "bus",
           "køretøj",
+          "letbane",
           "sporvogn",
           "trolley",
           "trolleybus"
@@ -12408,7 +14102,8 @@
       "🚐": {
         "default": [
           "bus",
-          "minibus"
+          "minibus",
+          "varevogn"
         ],
         "tts": [
           "minibus"
@@ -12417,7 +14112,8 @@
       "🚑": {
         "default": [
           "ambulance",
-          "køretøj"
+          "køretøj",
+          "nødsituation"
         ],
         "tts": [
           "ambulance"
@@ -12466,7 +14162,9 @@
       "🚖": {
         "default": [
           "kørende taxa",
-          "taxa forfra"
+          "taxa",
+          "taxa forfra",
+          "taxi"
         ],
         "tts": [
           "taxa forfra"
@@ -12494,6 +14192,7 @@
       },
       "🚙": {
         "default": [
+          "bil",
           "firehjulstrækker",
           "fritid",
           "jeep",
@@ -12506,8 +14205,13 @@
       "🛻": {
         "default": [
           "åbent lad",
+          "bil",
+          "køretøj",
+          "ladvogn",
+          "lastbil",
           "pickup",
           "pickup truck",
+          "transport",
           "varevogn"
         ],
         "tts": [
@@ -12520,7 +14224,8 @@
           "lastbil",
           "levering",
           "transport",
-          "truck"
+          "truck",
+          "varevogn"
         ],
         "tts": [
           "lastbil"
@@ -12569,6 +14274,7 @@
       },
       "🛵": {
         "default": [
+          "knallert",
           "scooter",
           "transportmiddel"
         ],
@@ -12578,8 +14284,12 @@
       },
       "🦽": {
         "default": [
+          "handicap",
           "handikap",
-          "manuel kørestol"
+          "kørestol",
+          "manuel kørestol",
+          "rullestol",
+          "tilgængelighed"
         ],
         "tts": [
           "manuel kørestol"
@@ -12588,7 +14298,11 @@
       "🦼": {
         "default": [
           "elektrisk kørestol",
-          "handikap"
+          "handicap",
+          "handikap",
+          "kørestol",
+          "rullestol",
+          "tilgængelighed"
         ],
         "tts": [
           "elektrisk kørestol"
@@ -12597,6 +14311,7 @@
       "🛺": {
         "default": [
           "motor-rickshaw",
+          "rickshaw",
           "tuk tuk"
         ],
         "tts": [
@@ -12606,6 +14321,8 @@
       "🚲": {
         "default": [
           "cykel",
+          "drengecykel",
+          "herrecykel",
           "tohjulet"
         ],
         "tts": [
@@ -12624,6 +14341,8 @@
       "🛹": {
         "default": [
           "bræt",
+          "hjul",
+          "skate",
           "skateboard"
         ],
         "tts": [
@@ -12634,7 +14353,8 @@
         "default": [
           "rulle",
           "rulleskøjte",
-          "skøjte"
+          "skøjte",
+          "sport"
         ],
         "tts": [
           "rulleskøjte"
@@ -12683,6 +14403,8 @@
       "⛽": {
         "default": [
           "benzinpumpe",
+          "benzintank",
+          "tank",
           "tankstation"
         ],
         "tts": [
@@ -12691,10 +14413,13 @@
       },
       "🛞": {
         "default": [
+          "bil",
           "cirkel",
           "dæk",
           "dreje",
-          "hjul"
+          "fælg",
+          "hjul",
+          "køretøj"
         ],
         "tts": [
           "hjul"
@@ -12714,6 +14439,7 @@
       },
       "🚥": {
         "default": [
+          "blinklys",
           "liggende trafiklys",
           "lys",
           "signal",
@@ -12725,6 +14451,7 @@
       },
       "🚦": {
         "default": [
+          "blinklys",
           "lys",
           "signal",
           "trafik",
@@ -12749,7 +14476,8 @@
       "🚧": {
         "default": [
           "byggeri",
-          "spærring"
+          "spærring",
+          "vejspærring"
         ],
         "tts": [
           "byggeri"
@@ -12760,6 +14488,7 @@
           "anker",
           "båd",
           "skib",
+          "sømand",
           "værktøj"
         ],
         "tts": [
@@ -12782,7 +14511,9 @@
       "⛵": {
         "default": [
           "båd",
-          "sejlbåd"
+          "sejlbåd",
+          "skib",
+          "yacht"
         ],
         "tts": [
           "sejlbåd"
@@ -12792,6 +14523,7 @@
         "default": [
           "båd",
           "kano",
+          "ro",
           "transportmiddel"
         ],
         "tts": [
@@ -12809,6 +14541,7 @@
       },
       "🛳": {
         "default": [
+          "færge",
           "fartøj",
           "passager",
           "passagerskib",
@@ -12839,8 +14572,11 @@
       },
       "🚢": {
         "default": [
+          "færge",
           "fartøj",
-          "skib"
+          "rejse",
+          "skib",
+          "titanic"
         ],
         "tts": [
           "skib"
@@ -12849,7 +14585,8 @@
       "✈": {
         "default": [
           "fly",
-          "flyvemaskine"
+          "flyvemaskine",
+          "rejse"
         ],
         "tts": [
           "fly"
@@ -12858,6 +14595,8 @@
       "🛩": {
         "default": [
           "fly",
+          "flyvemaskine",
+          "flyver",
           "lille fly",
           "lille flyvemaskine"
         ],
@@ -12926,6 +14665,7 @@
           "fartøj",
           "hængende",
           "luftbane",
+          "svævebane",
           "togbane"
         ],
         "tts": [
@@ -12938,7 +14678,8 @@
           "fartøj",
           "gondol",
           "kabel",
-          "kabelbane"
+          "kabelbane",
+          "lift"
         ],
         "tts": [
           "kabelbane"
@@ -12949,6 +14690,7 @@
           "fartøj",
           "gondol",
           "kabel",
+          "lift",
           "svæve",
           "svævebane"
         ],
@@ -12981,6 +14723,9 @@
       "🛸": {
         "default": [
           "flyvende tallerken",
+          "marsmand",
+          "rummet",
+          "rumvæsen",
           "ufo"
         ],
         "tts": [
@@ -12991,7 +14736,8 @@
         "default": [
           "hotel",
           "hotelklokke",
-          "klokke"
+          "klokke",
+          "reception"
         ],
         "tts": [
           "hotelklokke"
@@ -13002,7 +14748,8 @@
           "bagage",
           "kuffert",
           "pakke",
-          "rejse"
+          "rejse",
+          "trolley"
         ],
         "tts": [
           "bagage"
@@ -13012,6 +14759,7 @@
         "default": [
           "sand",
           "tid",
+          "timeglas",
           "udløbet timeglas"
         ],
         "tts": [
@@ -13051,6 +14799,7 @@
       "⏱": {
         "default": [
           "stopur",
+          "tid",
           "ur"
         ],
         "tts": [
@@ -13081,7 +14830,8 @@
           "12.00",
           "24.00",
           "kl. 24",
-          "kl. tolv"
+          "kl. tolv",
+          "tolv"
         ],
         "tts": [
           "kl. tolv"
@@ -13091,7 +14841,9 @@
         "default": [
           "0.30",
           "12.30",
-          "halv et"
+          "halv et",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "halv et"
@@ -13102,7 +14854,9 @@
           "1.00",
           "13.00",
           "kl. 13",
-          "kl. et"
+          "kl. et",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "kl. et"
@@ -13112,7 +14866,9 @@
         "default": [
           "1.30",
           "13.30",
-          "halv to"
+          "halv to",
+          "klokken",
+          "ur"
         ],
         "tts": [
           "halv to"
@@ -13123,7 +14879,9 @@
           "14.00",
           "2.00",
           "kl. to",
-          "kl.14"
+          "kl.14",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "kl. to"
@@ -13133,7 +14891,8 @@
         "default": [
           "14.30",
           "2.30",
-          "halv tre"
+          "halv tre",
+          "ur"
         ],
         "tts": [
           "halv tre"
@@ -13144,7 +14903,9 @@
           "15.00",
           "3.00",
           "kl. tre",
-          "kl.15"
+          "kl.15",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "kl. tre"
@@ -13154,7 +14915,9 @@
         "default": [
           "15.30",
           "3.30",
-          "halv fire"
+          "halv fire",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "halv fire"
@@ -13165,7 +14928,9 @@
           "16.00",
           "4.00",
           "kl. 16",
-          "kl. fire"
+          "kl. fire",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "kl. fire"
@@ -13175,7 +14940,9 @@
         "default": [
           "16.30",
           "4.30",
-          "halv fem"
+          "halv fem",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "halv fem"
@@ -13186,7 +14953,9 @@
           "17.00",
           "5.00",
           "kl. 17",
-          "kl. fem"
+          "kl. fem",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "kl. fem"
@@ -13196,7 +14965,9 @@
         "default": [
           "17.30",
           "5.30",
-          "halv seks"
+          "halv seks",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "halv seks"
@@ -13207,7 +14978,8 @@
           "18.00",
           "6.00",
           "kl. 18",
-          "kl. seks"
+          "kl. seks",
+          "ur"
         ],
         "tts": [
           "kl. seks"
@@ -13217,7 +14989,9 @@
         "default": [
           "18.30",
           "6.30",
-          "halv syv"
+          "halv syv",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "halv syv"
@@ -13228,7 +15002,9 @@
           "19.00",
           "7.00",
           "kl. 19",
-          "kl. syv"
+          "kl. syv",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "kl. syv"
@@ -13238,7 +15014,9 @@
         "default": [
           "19.30",
           "7.30",
-          "halv otte"
+          "halv otte",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "halv otte"
@@ -13249,7 +15027,9 @@
           "20.00",
           "8.00",
           "kl. 20",
-          "kl. otte"
+          "kl. otte",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "kl. otte"
@@ -13259,7 +15039,9 @@
         "default": [
           "20.30",
           "8.30",
-          "halv ni"
+          "halv ni",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "halv ni"
@@ -13270,7 +15052,9 @@
           "21.00",
           "9.00",
           "kl. 21",
-          "kl. ni"
+          "kl. ni",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "kl. ni"
@@ -13280,7 +15064,9 @@
         "default": [
           "21.30",
           "9.30",
-          "halv ti"
+          "halv ti",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "halv ti"
@@ -13291,7 +15077,9 @@
           "10.00",
           "22.00",
           "kl. 22",
-          "kl. ti"
+          "kl. ti",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "kl. ti"
@@ -13301,7 +15089,9 @@
         "default": [
           "10.30",
           "22.30",
-          "halv elleve"
+          "halv elleve",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "halv elleve"
@@ -13312,7 +15102,9 @@
           "11.00",
           "23.00",
           "kl. 23",
-          "kl. elleve"
+          "kl. elleve",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "kl. elleve"
@@ -13322,7 +15114,9 @@
         "default": [
           "11.30",
           "23.30",
-          "halv tolv"
+          "halv tolv",
+          "klokkeslæt",
+          "ur"
         ],
         "tts": [
           "halv tolv"
@@ -13431,6 +15225,7 @@
       },
       "🌛": {
         "default": [
+          "halvmåne",
           "måne",
           "måne med ansigt 1. fjerdedel",
           "måneansigt"
@@ -13441,6 +15236,7 @@
       },
       "🌜": {
         "default": [
+          "halvmåne",
           "måne",
           "måne med ansigt 4. fjerdedel",
           "måneansigt"
@@ -13494,6 +15290,7 @@
       },
       "🪐": {
         "default": [
+          "planet",
           "planet med ringe",
           "Saturn"
         ],
@@ -13686,6 +15483,7 @@
       },
       "🌈": {
         "default": [
+          "lgbt",
           "regn",
           "regnbue",
           "vejr"
@@ -13697,6 +15495,7 @@
       "🌂": {
         "default": [
           "lukket paraply",
+          "paraply",
           "regn",
           "regnvejr"
         ],
@@ -13742,8 +15541,10 @@
       "⚡": {
         "default": [
           "advarsel",
+          "elektricitet",
           "fare",
-          "højspænding"
+          "højspænding",
+          "lyn"
         ],
         "tts": [
           "højspænding"
@@ -13752,6 +15553,7 @@
       "❄": {
         "default": [
           "kulde",
+          "rimfrost",
           "sne",
           "snefnug",
           "vejr"
@@ -13773,7 +15575,9 @@
       },
       "⛄": {
         "default": [
+          "koldt",
           "sne",
+          "snemand",
           "snemand uden snevejr"
         ],
         "tts": [
@@ -13792,7 +15596,8 @@
       "🔥": {
         "default": [
           "flamme",
-          "ild"
+          "ild",
+          "varm"
         ],
         "tts": [
           "ild"
@@ -13803,7 +15608,10 @@
           "dråbe",
           "dråbe sved",
           "følelser",
-          "koldsved"
+          "ked af det",
+          "koldsved",
+          "sveddråbe",
+          "vand"
         ],
         "tts": [
           "dråbe"
@@ -13832,6 +15640,7 @@
       },
       "🎄": {
         "default": [
+          "grantræ",
           "jul",
           "juletræ",
           "træ"
@@ -13844,7 +15653,8 @@
         "default": [
           "fest",
           "fyrværkeri",
-          "nytår"
+          "nytår",
+          "raket"
         ],
         "tts": [
           "fyrværkeri"
@@ -13854,6 +15664,7 @@
         "default": [
           "fyrværkeri",
           "nytår",
+          "raket",
           "stjernekaster"
         ],
         "tts": [
@@ -13865,7 +15676,8 @@
           "dynamit",
           "eksplosiv",
           "fyrværkeri",
-          "kanonslag"
+          "kanonslag",
+          "sprængstof"
         ],
         "tts": [
           "kanonslag"
@@ -13873,6 +15685,8 @@
       },
       "✨": {
         "default": [
+          "glimt",
+          "magi",
           "skinne",
           "stjerne",
           "stjerner"
@@ -13895,6 +15709,7 @@
         "default": [
           "bordbombe",
           "fest",
+          "konfetti",
           "nytår"
         ],
         "tts": [
@@ -14056,6 +15871,7 @@
         "default": [
           "pokal",
           "præmie",
+          "pris",
           "trofæ"
         ],
         "tts": [
@@ -14064,8 +15880,10 @@
       },
       "🏅": {
         "default": [
+          "guld",
           "medalje",
-          "sportsmedalje"
+          "sportsmedalje",
+          "vinder"
         ],
         "tts": [
           "sportsmedalje"
@@ -14122,7 +15940,8 @@
       "⚾": {
         "default": [
           "baseball",
-          "bold"
+          "bold",
+          "sport"
         ],
         "tts": [
           "baseball"
@@ -14132,7 +15951,8 @@
         "default": [
           "bold",
           "handske",
-          "softball"
+          "softball",
+          "sport"
         ],
         "tts": [
           "softball"
@@ -14152,6 +15972,7 @@
         "default": [
           "bold",
           "spil",
+          "sport",
           "volleyball"
         ],
         "tts": [
@@ -14215,7 +16036,8 @@
           "bat",
           "bold",
           "cricket",
-          "spil"
+          "spil",
+          "sport"
         ],
         "tts": [
           "cricket"
@@ -14226,6 +16048,7 @@
           "bold",
           "hockey",
           "spil",
+          "sport",
           "stav"
         ],
         "tts": [
@@ -14240,6 +16063,7 @@
           "ishockeystav og puck",
           "puck",
           "spil",
+          "sport",
           "stav"
         ],
         "tts": [
@@ -14265,6 +16089,7 @@
           "bordtennis",
           "pingpong",
           "spil",
+          "sport",
           "tennis"
         ],
         "tts": [
@@ -14276,7 +16101,8 @@
           "badminton",
           "fjerbold",
           "ketsjer",
-          "spil"
+          "spil",
+          "sport"
         ],
         "tts": [
           "badminton"
@@ -14322,7 +16148,8 @@
       "⛳": {
         "default": [
           "golf",
-          "golfhul med flag"
+          "golfhul med flag",
+          "sport"
         ],
         "tts": [
           "golfhul med flag"
@@ -14339,9 +16166,11 @@
       },
       "🎣": {
         "default": [
+          "fisk",
           "fiskeri",
           "fiskestang",
-          "fiskestang med fisk"
+          "fiskestang med fisk",
+          "sport"
         ],
         "tts": [
           "fiskestang"
@@ -14360,6 +16189,7 @@
       },
       "🎽": {
         "default": [
+          "atletik",
           "løbe",
           "løbetrøje",
           "løbetrøje med bånd"
@@ -14371,7 +16201,9 @@
       "🎿": {
         "default": [
           "ski",
-          "skisport"
+          "skisport",
+          "sne",
+          "sport"
         ],
         "tts": [
           "ski"
@@ -14388,8 +16220,10 @@
       },
       "🥌": {
         "default": [
+          "curling",
           "curlingsten",
           "spil",
+          "sport",
           "sten"
         ],
         "tts": [
@@ -14398,6 +16232,9 @@
       },
       "🎯": {
         "default": [
+          "bullseye",
+          "dart",
+          "mål",
           "plet",
           "pletskud"
         ],
@@ -14416,6 +16253,8 @@
       },
       "🪁": {
         "default": [
+          "drage",
+          "drageflyver",
           "flyve",
           "legetøjsdrage",
           "svæve"
@@ -14460,6 +16299,7 @@
           "heks",
           "magi",
           "troldmand",
+          "tryllekunstner",
           "tryllestav"
         ],
         "tts": [
@@ -14488,6 +16328,8 @@
       },
       "🎰": {
         "default": [
+          "enarmet tyveknægt",
+          "kasino",
           "spil",
           "spillemaskine"
         ],
@@ -14497,8 +16339,10 @@
       },
       "🎲": {
         "default": [
+          "spil",
           "terning",
-          "terningspil"
+          "terningspil",
+          "underholdning"
         ],
         "tts": [
           "terning"
@@ -14521,7 +16365,8 @@
           "bamse",
           "bjørn",
           "legetøj",
-          "plys"
+          "plys",
+          "tøjdyr"
         ],
         "tts": [
           "bamse"
@@ -14529,6 +16374,8 @@
       },
       "🪅": {
         "default": [
+          "cinco de mayo",
+          "fastelavn",
           "fejring",
           "fest",
           "piñata"
@@ -14544,6 +16391,8 @@
           "diskokugle",
           "fest",
           "glitter",
+          "kugle",
+          "spejl",
           "spejlkugle"
         ],
         "tts": [
@@ -14564,6 +16413,7 @@
       },
       "♠": {
         "default": [
+          "es",
           "kort",
           "spar",
           "spil"
@@ -14574,6 +16424,7 @@
       },
       "♥": {
         "default": [
+          "hjerte",
           "hjerter",
           "kort",
           "spil"
@@ -14617,6 +16468,8 @@
         "default": [
           "joker",
           "kort",
+          "kortspil",
+          "spil",
           "spillekort"
         ],
         "tts": [
@@ -14647,6 +16500,8 @@
       "🎭": {
         "default": [
           "masker",
+          "optræden",
+          "skuespiller",
           "teater"
         ],
         "tts": [
@@ -14680,6 +16535,7 @@
       "🧵": {
         "default": [
           "nål",
+          "rød tråd",
           "sy",
           "tråd",
           "trisse"
@@ -14696,7 +16552,8 @@
           "sting",
           "sutur",
           "synål",
-          "syning"
+          "syning",
+          "tråd"
         ],
         "tts": [
           "synål"
@@ -14707,7 +16564,8 @@
           "garn",
           "garnnøgle",
           "hækle",
-          "strikke"
+          "strikke",
+          "tråd"
         ],
         "tts": [
           "garn"
@@ -14728,7 +16586,8 @@
       "👓": {
         "default": [
           "beklædning",
-          "briller"
+          "briller",
+          "solbriller"
         ],
         "tts": [
           "briller"
@@ -14747,6 +16606,8 @@
       },
       "🥽": {
         "default": [
+          "beskyttelsesbriller",
+          "dykkerbriller",
           "øjenbeskyttelse",
           "sikkerhedsbriller",
           "svejse",
@@ -14761,7 +16622,9 @@
           "eksperiment",
           "forsker",
           "kittel",
-          "læge"
+          "laboratorie",
+          "læge",
+          "videnskabsmand"
         ],
         "tts": [
           "kittel"
@@ -14781,6 +16644,7 @@
       "👔": {
         "default": [
           "beklædning",
+          "skjorte",
           "slips"
         ],
         "tts": [
@@ -14802,7 +16666,8 @@
         "default": [
           "beklædning",
           "bukser",
-          "jeans"
+          "jeans",
+          "tøj"
         ],
         "tts": [
           "bukser"
@@ -14824,6 +16689,7 @@
           "beklædning",
           "hånd",
           "handsker",
+          "vanter",
           "vinter"
         ],
         "tts": [
@@ -14833,6 +16699,7 @@
       "🧥": {
         "default": [
           "beklædning",
+          "dynejakke",
           "frakke",
           "jakke",
           "vinter"
@@ -14882,7 +16749,8 @@
       },
       "🩱": {
         "default": [
-          "badedragt"
+          "badedragt",
+          "badetøj"
         ],
         "tts": [
           "badedragt"
@@ -14913,7 +16781,9 @@
         "default": [
           "badetøj",
           "beklædning",
-          "bikini"
+          "bikini",
+          "pool",
+          "strand"
         ],
         "tts": [
           "bikini"
@@ -14930,8 +16800,11 @@
       },
       "🪭": {
         "default": [
+          "afkøle",
           "blafre",
           "danse",
+          "flirt",
+          "flirte",
           "genert",
           "kølende",
           "sammenklappelig håndvifte",
@@ -14994,8 +16867,11 @@
       },
       "🩴": {
         "default": [
+          "badesandaler",
+          "ferie",
           "klipklapper",
           "sandaler",
+          "strand",
           "strandsandaler",
           "zōri"
         ],
@@ -15015,8 +16891,10 @@
       "👟": {
         "default": [
           "fritidssko",
+          "gummisko",
           "løbesko",
           "sko",
+          "sneakers",
           "tennissko"
         ],
         "tts": [
@@ -15039,6 +16917,7 @@
       "🥿": {
         "default": [
           "ballerina",
+          "ballerinasko",
           "damesko",
           "flad sko",
           "slippers"
@@ -15061,7 +16940,8 @@
       "👡": {
         "default": [
           "damesandal",
-          "sandaler"
+          "sandaler",
+          "sko"
         ],
         "tts": [
           "damesandal"
@@ -15069,9 +16949,11 @@
       },
       "🩰": {
         "default": [
+          "ballerina",
           "ballet",
           "balletsko",
-          "dans"
+          "dans",
+          "danserinde"
         ],
         "tts": [
           "balletsko"
@@ -15080,6 +16962,7 @@
       "👢": {
         "default": [
           "damestøvle",
+          "sko",
           "støvler"
         ],
         "tts": [
@@ -15091,7 +16974,8 @@
           "afro",
           "afrokam",
           "hår",
-          "kam"
+          "kam",
+          "rede"
         ],
         "tts": [
           "afrokam"
@@ -15112,6 +16996,7 @@
         "default": [
           "beklædning",
           "damehat",
+          "festhat",
           "hat"
         ],
         "tts": [
@@ -15122,7 +17007,8 @@
         "default": [
           "hat",
           "høj hat",
-          "sort hat"
+          "sort hat",
+          "tryllekunstner"
         ],
         "tts": [
           "høj hat"
@@ -15199,6 +17085,9 @@
       },
       "💍": {
         "default": [
+          "bryllup",
+          "diamant",
+          "forlovelse",
           "ring",
           "romantik"
         ],
@@ -15209,6 +17098,7 @@
       "💎": {
         "default": [
           "ædelsten",
+          "diamant",
           "juvel",
           "romantik"
         ],
@@ -15230,6 +17120,7 @@
       },
       "🔈": {
         "default": [
+          "højttaler",
           "højttaler lav lydstyrke",
           "lav"
         ],
@@ -15263,6 +17154,7 @@
         "default": [
           "elektrisk megafon",
           "højttaler",
+          "megafon",
           "offentlig tale",
           "tale"
         ],
@@ -15272,6 +17164,7 @@
       },
       "📣": {
         "default": [
+          "højttaler",
           "kommunikation",
           "megafon"
         ],
@@ -15290,6 +17183,7 @@
       },
       "🔔": {
         "default": [
+          "kirke",
           "klokke"
         ],
         "tts": [
@@ -15300,7 +17194,8 @@
         "default": [
           "ingen klokke",
           "ingen lyd",
-          "klokke med streg over"
+          "klokke med streg over",
+          "lydløs"
         ],
         "tts": [
           "ingen klokke"
@@ -15310,6 +17205,7 @@
         "default": [
           "g-nøgle",
           "musik",
+          "noder",
           "partitur"
         ],
         "tts": [
@@ -15348,6 +17244,7 @@
       },
       "🎚": {
         "default": [
+          "lydstyrke",
           "musik",
           "volumenkontrol"
         ],
@@ -15379,6 +17276,7 @@
         "default": [
           "høretelefon",
           "hovedtelefon",
+          "lyd",
           "lytte",
           "musik"
         ],
@@ -15413,7 +17311,8 @@
           "bandoneon",
           "harmonika",
           "koncertina",
-          "musette"
+          "musette",
+          "musik"
         ],
         "tts": [
           "akkordeon"
@@ -15421,6 +17320,8 @@
       },
       "🎸": {
         "default": [
+          "elektrisk guitar",
+          "elguitar",
           "guitar",
           "instrument",
           "musik",
@@ -15503,6 +17404,8 @@
       },
       "🪇": {
         "default": [
+          "danse",
+          "fest",
           "instrument",
           "maracas",
           "musik",
@@ -15516,14 +17419,32 @@
       },
       "🪈": {
         "default": [
+          "band",
           "blokfløjte",
           "fløjte",
+          "fløjtenist",
+          "instrument",
+          "marchorkester",
           "musik",
           "orgelpibe",
+          "orkester",
           "træblæseinstrument"
         ],
         "tts": [
           "fløjte"
+        ]
+      },
+      "🪉": {
+        "default": [
+          "amor",
+          "harpe",
+          "instrument",
+          "kærlighed",
+          "musik",
+          "orkester"
+        ],
+        "tts": [
+          "harpe"
         ]
       },
       "📱": {
@@ -15597,7 +17518,10 @@
       },
       "🪫": {
         "default": [
+          "batteri",
+          "drænet",
           "elektronik",
+          "ingen energi",
           "lav energi",
           "lavt batteriniveau"
         ],
@@ -15619,6 +17543,8 @@
       "💻": {
         "default": [
           "bærbar computer",
+          "computer",
+          "laptop",
           "pc"
         ],
         "tts": [
@@ -15628,6 +17554,7 @@
       "🖥": {
         "default": [
           "computer",
+          "skærm",
           "stationær"
         ],
         "tts": [
@@ -15676,8 +17603,12 @@
       },
       "💽": {
         "default": [
+          "cd",
           "cd-rom",
-          "disk"
+          "computer",
+          "disk",
+          "dvd",
+          "minidisk"
         ],
         "tts": [
           "cd-rom"
@@ -15694,7 +17625,10 @@
       },
       "💿": {
         "default": [
+          "blu-ray",
           "cd",
+          "computer",
+          "disk",
           "dvd"
         ],
         "tts": [
@@ -15718,7 +17652,8 @@
         "default": [
           "kugleramme",
           "matematik",
-          "regne"
+          "regne",
+          "regning"
         ],
         "tts": [
           "kugleramme"
@@ -15780,7 +17715,11 @@
       },
       "📷": {
         "default": [
+          "foto",
+          "instagram",
           "kamera",
+          "selfie",
+          "snapshot",
           "video"
         ],
         "tts": [
@@ -15810,6 +17749,9 @@
       },
       "📼": {
         "default": [
+          "bånd",
+          "gammeldags",
+          "vhs",
           "video",
           "videobånd"
         ],
@@ -15822,6 +17764,7 @@
           "forstørrelse",
           "forstørrelsesglas",
           "forstørrelsesglas til venstre",
+          "lup",
           "søgning",
           "værktøj"
         ],
@@ -15834,6 +17777,7 @@
           "forstørrelse",
           "forstørrelsesglas",
           "forstørrelsesglas til højre",
+          "lup",
           "søgning",
           "værktøj"
         ],
@@ -15855,7 +17799,8 @@
           "elpære",
           "ide",
           "idé",
-          "lys ide"
+          "lys ide",
+          "pære"
         ],
         "tts": [
           "elpære"
@@ -15872,7 +17817,9 @@
       },
       "🏮": {
         "default": [
+          "kulørte lamper",
           "lanterne",
+          "papirlampe",
           "papirlanterne",
           "rød lygte"
         ],
@@ -15930,8 +17877,13 @@
       },
       "📘": {
         "default": [
+          "bibliotek",
           "blå bog",
-          "bog"
+          "bog",
+          "læse",
+          "læsning",
+          "skolebog",
+          "uddannelse"
         ],
         "tts": [
           "blå bog"
@@ -15948,8 +17900,15 @@
       },
       "📚": {
         "default": [
+          "bibliotek",
           "bog",
-          "bøger"
+          "bøger",
+          "læse",
+          "læsning",
+          "romaner",
+          "skole",
+          "studie",
+          "uddannelse"
         ],
         "tts": [
           "bøger"
@@ -15975,6 +17934,9 @@
       },
       "📃": {
         "default": [
+          "ark",
+          "dokument",
+          "papir",
           "side",
           "side med fold"
         ],
@@ -16065,6 +18027,7 @@
           "metal",
           "mønt",
           "penge",
+          "rig",
           "skat",
           "sølv"
         ],
@@ -16086,7 +18049,10 @@
         "default": [
           "dollar",
           "dollarseddel",
-          "penge"
+          "penge",
+          "pengesedler",
+          "seddelbundt",
+          "sedler"
         ],
         "tts": [
           "dollarseddel"
@@ -16150,7 +18116,10 @@
       "💹": {
         "default": [
           "opadgående graf",
-          "stigende marked"
+          "stigende marked",
+          "tendens",
+          "vækst",
+          "yen"
         ],
         "tts": [
           "stigende marked"
@@ -16161,6 +18130,7 @@
           "brev",
           "e-mail",
           "konvolut",
+          "kuvert",
           "mail"
         ],
         "tts": [
@@ -16170,6 +18140,7 @@
       "📧": {
         "default": [
           "brev",
+          "e-mail",
           "kommunikation",
           "mail"
         ],
@@ -16179,9 +18150,13 @@
       },
       "📨": {
         "default": [
+          "brev",
           "e-mail",
           "indgående post",
-          "modtaget post"
+          "konvolut",
+          "modtag",
+          "modtaget post",
+          "post"
         ],
         "tts": [
           "indgående post"
@@ -16189,7 +18164,11 @@
       },
       "📩": {
         "default": [
+          "brev",
           "e-mail",
+          "konvolut",
+          "post",
+          "send",
           "sendt post",
           "udgående post"
         ],
@@ -16219,8 +18198,10 @@
       },
       "📦": {
         "default": [
+          "boks",
           "kasse",
-          "pakke"
+          "pakke",
+          "papkasse"
         ],
         "tts": [
           "pakke"
@@ -16228,8 +18209,10 @@
       },
       "📫": {
         "default": [
+          "brev",
           "lukket postkasse med hævet flag",
           "post",
+          "postkasse",
           "postkasse med flag op"
         ],
         "tts": [
@@ -16238,8 +18221,10 @@
       },
       "📪": {
         "default": [
+          "brev",
           "lukket postkasse med sænket flag",
           "post",
+          "postkasse",
           "postkasse med flag nede"
         ],
         "tts": [
@@ -16249,7 +18234,9 @@
       "📬": {
         "default": [
           "åben postkasse med hævet flag",
+          "brev",
           "post",
+          "postkasse",
           "postkasse med brev"
         ],
         "tts": [
@@ -16260,7 +18247,9 @@
         "default": [
           "åben postkasse",
           "åben postkasse med sænket flag",
-          "post"
+          "brev",
+          "post",
+          "postkasse"
         ],
         "tts": [
           "åben postkasse med sænket flag"
@@ -16328,7 +18317,8 @@
         "default": [
           "maleri",
           "malerpensel",
-          "maling"
+          "maling",
+          "pensel"
         ],
         "tts": [
           "malerpensel"
@@ -16367,6 +18357,7 @@
       "📁": {
         "default": [
           "dokument",
+          "filer",
           "mappe"
         ],
         "tts": [
@@ -16376,7 +18367,8 @@
       "📂": {
         "default": [
           "åben mappe",
-          "dokument"
+          "dokument",
+          "filer"
         ],
         "tts": [
           "åben mappe"
@@ -16404,6 +18396,7 @@
       "📆": {
         "default": [
           "afrivningskalender",
+          "dato",
           "kalender",
           "kalenderblok"
         ],
@@ -16447,6 +18440,7 @@
       },
       "📈": {
         "default": [
+          "diagram",
           "graf",
           "opadgående graf",
           "tendens"
@@ -16457,6 +18451,7 @@
       },
       "📉": {
         "default": [
+          "diagram",
           "graf",
           "nedadgående graf",
           "tendens"
@@ -16468,6 +18463,7 @@
       "📊": {
         "default": [
           "diagram",
+          "graf",
           "søjlediagram"
         ],
         "tts": [
@@ -16477,6 +18473,8 @@
       "📋": {
         "default": [
           "clipboard",
+          "noter",
+          "skriveunderlag",
           "udklipsholder"
         ],
         "tts": [
@@ -16494,6 +18492,7 @@
       },
       "📍": {
         "default": [
+          "nål",
           "rund tegnestift",
           "stift",
           "tegnestift"
@@ -16513,6 +18512,7 @@
       },
       "🖇": {
         "default": [
+          "clips",
           "papirclip",
           "sammensat",
           "sammensatte papirclips"
@@ -16524,7 +18524,8 @@
       "📏": {
         "default": [
           "lige kant",
-          "lineal"
+          "lineal",
+          "matematik"
         ],
         "tts": [
           "lineal"
@@ -16532,6 +18533,7 @@
       },
       "📐": {
         "default": [
+          "matematik",
           "tegnetrekant",
           "vinkel",
           "vinkelmåler"
@@ -16542,6 +18544,8 @@
       },
       "✂": {
         "default": [
+          "klippe",
+          "papir",
           "saks",
           "værktøj"
         ],
@@ -16582,7 +18586,8 @@
       "🔒": {
         "default": [
           "låst",
-          "lukket hængelås"
+          "lukket hængelås",
+          "privat"
         ],
         "tts": [
           "lukket hængelås"
@@ -16717,6 +18722,8 @@
       "💣": {
         "default": [
           "bombe",
+          "eksplosion",
+          "fare",
           "følelse"
         ],
         "tts": [
@@ -16784,6 +18791,7 @@
       },
       "🪛": {
         "default": [
+          "redskab",
           "skrue",
           "skruetrækker",
           "værktøj"
@@ -16848,11 +18856,26 @@
       },
       "🔗": {
         "default": [
+          "kæde",
           "link",
           "link-tegn"
         ],
         "tts": [
           "link"
+        ]
+      },
+      "⛓‍💥": {
+        "default": [
+          "brække",
+          "brudt kæde",
+          "bryde",
+          "frihed",
+          "håndjern",
+          "kæde",
+          "knække"
+        ],
+        "tts": [
+          "brudt kæde"
         ]
       },
       "⛓": {
@@ -16871,6 +18894,7 @@
           "fange",
           "fangst",
           "hage",
+          "klo",
           "krog",
           "lokkemiddel"
         ],
@@ -16882,6 +18906,7 @@
         "default": [
           "håndværker",
           "mekaniker",
+          "skruenøgle",
           "værktøj",
           "værktøjskasse"
         ],
@@ -16904,11 +18929,24 @@
         "default": [
           "bestige",
           "klatre",
+          "ribbe",
           "stige",
           "trin"
         ],
         "tts": [
           "stige"
+        ]
+      },
+      "🪏": {
+        "default": [
+          "grave",
+          "hul",
+          "skovl",
+          "skovle",
+          "spade"
+        ],
+        "tts": [
+          "skovl"
         ]
       },
       "⚗": {
@@ -16976,6 +19014,7 @@
         "default": [
           "astronomi",
           "redskab",
+          "stjernekikkert",
           "teleskop",
           "værktøj",
           "videnskab"
@@ -16986,8 +19025,12 @@
       },
       "📡": {
         "default": [
+          "aliens",
+          "antenne",
           "parabol",
           "parabolantenne",
+          "radioteleskop",
+          "rumvæsner",
           "satellit"
         ],
         "tts": [
@@ -16998,6 +19041,7 @@
         "default": [
           "indsprøjtning",
           "injektion",
+          "kanyle",
           "læge",
           "medicin",
           "sprøjte"
@@ -17040,7 +19084,9 @@
       "🩼": {
         "default": [
           "handicap",
+          "hjælp",
           "hjælp til førlighed",
+          "hjælpe",
           "invaliditet",
           "krykke",
           "skadet",
@@ -17065,6 +19111,8 @@
       "🩻": {
         "default": [
           "knogler",
+          "kranie",
+          "kranium",
           "læge",
           "medicinsk",
           "røntgen",
@@ -17079,6 +19127,7 @@
       "🚪": {
         "default": [
           "dør",
+          "hoveddør",
           "lukket dør"
         ],
         "tts": [
@@ -17101,6 +19150,8 @@
       "🪞": {
         "default": [
           "genspejling",
+          "makeup",
+          "sminke",
           "spejl",
           "spejlbillede",
           "spejling",
@@ -17149,6 +19200,7 @@
       },
       "🪑": {
         "default": [
+          "spisestuestol",
           "stol"
         ],
         "tts": [
@@ -17157,6 +19209,7 @@
       },
       "🚽": {
         "default": [
+          "badeværelse",
           "toilet",
           "wc"
         ],
@@ -17183,7 +19236,8 @@
       "🚿": {
         "default": [
           "bad",
-          "brusebad"
+          "brusebad",
+          "vand"
         ],
         "tts": [
           "brusebad"
@@ -17204,7 +19258,9 @@
           "fælde",
           "fange",
           "lokkemad",
+          "mus",
           "musefælde",
+          "ost",
           "snare"
         ],
         "tts": [
@@ -17213,7 +19269,12 @@
       },
       "🪒": {
         "default": [
-          "ragekniv"
+          "barberblad",
+          "barbering",
+          "barberkniv",
+          "barberskraber",
+          "ragekniv",
+          "skraber"
         ],
         "tts": [
           "ragekniv"
@@ -17222,6 +19283,7 @@
       "🧴": {
         "default": [
           "bodylotion",
+          "creme",
           "fugtighedscreme",
           "lotion",
           "shampoo",
@@ -17267,7 +19329,9 @@
         "default": [
           "køkkenrulle",
           "papirrulle",
-          "toiletpapir"
+          "toiletpapir",
+          "toiletrulle",
+          "wc"
         ],
         "tts": [
           "papirrulle"
@@ -17298,10 +19362,15 @@
       },
       "🫧": {
         "default": [
+          "boble",
           "bobler",
           "bøvs",
+          "flyde",
+          "flyder",
+          "perle",
           "ren",
           "sæbe",
+          "svæve",
           "under vand",
           "undervands"
         ],
@@ -17328,6 +19397,8 @@
         "default": [
           "absorbere",
           "porøs",
+          "suge",
+          "svamp",
           "vaske",
           "vaskesvamp"
         ],
@@ -17363,6 +19434,7 @@
       "🚬": {
         "default": [
           "cigaret",
+          "rygning",
           "rygning tilladt"
         ],
         "tts": [
@@ -17381,9 +19453,12 @@
       },
       "🪦": {
         "default": [
+          "død",
           "grav",
           "gravsten",
-          "kirkegård"
+          "hvil i fred",
+          "kirkegård",
+          "rip"
         ],
         "tts": [
           "gravsten"
@@ -17401,6 +19476,8 @@
       },
       "🧿": {
         "default": [
+          "amulet",
+          "blå øje",
           "det onde øje",
           "lykkebringer",
           "nazar",
@@ -17415,12 +19492,20 @@
       "🪬": {
         "default": [
           "amulet",
+          "beskyt",
+          "beskytte",
           "beskyttelse",
           "Fatima",
           "hamsa",
           "hånd",
+          "håndflade",
+          "lykke",
           "Maria",
-          "Mirjam"
+          "Mirjam",
+          "vejlede",
+          "vejleder",
+          "vejledning",
+          "velsignelse"
         ],
         "tts": [
           "hamsa"
@@ -17455,7 +19540,10 @@
         "default": [
           "autorisation",
           "brugeroplysninger",
+          "dokument",
           "id",
+          "identifikation",
+          "kørekort",
           "legitimationskort",
           "sikkerhed",
           "tilladelse"
@@ -17476,6 +19564,7 @@
       },
       "🚮": {
         "default": [
+          "affald",
           "brug affaldsspanden",
           "skraldespand"
         ],
@@ -17487,7 +19576,8 @@
         "default": [
           "drik",
           "drikkevand",
-          "vand"
+          "vand",
+          "vandhane"
         ],
         "tts": [
           "drikkevand"
@@ -17495,10 +19585,11 @@
       },
       "♿": {
         "default": [
-          "adgang",
           "handicap",
+          "kørestol",
           "rullestol",
-          "symbol for kørestol"
+          "symbol for kørestol",
+          "tilgængelighed"
         ],
         "tts": [
           "symbol for kørestol"
@@ -17576,8 +19667,9 @@
       },
       "🛄": {
         "default": [
+          "bagage",
           "bagageudlevering",
-          "baggage"
+          "rejse"
         ],
         "tts": [
           "bagageudlevering"
@@ -17596,7 +19688,8 @@
       "⚠": {
         "default": [
           "advarsel",
-          "advarselsskilt"
+          "advarselsskilt",
+          "advarselstrekant"
         ],
         "tts": [
           "advarselsskilt"
@@ -17617,6 +19710,7 @@
           "adgang",
           "forbudt",
           "ingen adgang",
+          "skilt",
           "trafik"
         ],
         "tts": [
@@ -17626,6 +19720,7 @@
       "🚫": {
         "default": [
           "adgang forbudt",
+          "forbudt",
           "ingen adgang"
         ],
         "tts": [
@@ -17693,8 +19788,11 @@
       },
       "🔞": {
         "default": [
+          "aldersgrænse",
+          "forbudt for børn",
           "forbudt for under 18",
-          "ingen under 18"
+          "ingen under 18",
+          "mindst 18"
         ],
         "tts": [
           "forbudt for under 18"
@@ -17829,6 +19927,7 @@
       },
       "↔": {
         "default": [
+          "dobbeltpil",
           "pil",
           "pil mod venstre og højre"
         ],
@@ -17908,6 +20007,8 @@
       "🔙": {
         "default": [
           "BACK-pil",
+          "pil",
+          "tilbage",
           "tilbage-pil",
           "venstrepil"
         ],
@@ -17917,8 +20018,8 @@
       },
       "🔚": {
         "default": [
-          "end-pil",
           "END-pil",
+          "slut",
           "venstrepil"
         ],
         "tts": [
@@ -17938,6 +20039,7 @@
       },
       "🔜": {
         "default": [
+          "snart",
           "snart med højrepil",
           "snart-tegn",
           "SOON-pil"
@@ -18068,9 +20170,12 @@
       },
       "🕎": {
         "default": [
+          "hanukkah",
+          "jødisk",
           "lysestage",
-          "religion",
-          "syvarmet lysestage"
+          "menorah",
+          "niarmet lysestage",
+          "religion"
         ],
         "tts": [
           "syvarmet lysestage"
@@ -18078,7 +20183,9 @@
       },
       "🔯": {
         "default": [
+          "davidsstjerne",
           "horoskop",
+          "jødisk",
           "sekstakket stjerne med prik",
           "stjerne"
         ],
@@ -18088,9 +20195,13 @@
       },
       "🪯": {
         "default": [
+          "Deg Tegh Fateh",
+          "khalsa",
           "khanda",
           "religion",
-          "sikh"
+          "sikh",
+          "sikhisme",
+          "tro"
         ],
         "tts": [
           "khanda"
@@ -18312,6 +20423,7 @@
       "⏪": {
         "default": [
           "dobbelt venstrepil",
+          "pil",
           "spol tilbage-knap",
           "venstre"
         ],
@@ -18421,7 +20533,9 @@
           "biograf",
           "film",
           "filme",
-          "teater"
+          "filmkamera",
+          "teater",
+          "videokamera"
         ],
         "tts": [
           "film"
@@ -18439,7 +20553,8 @@
       "🔆": {
         "default": [
           "høj lysstyrke",
-          "lysstyrke"
+          "lysstyrke",
+          "sol"
         ],
         "tts": [
           "høj lysstyrke"
@@ -18447,6 +20562,7 @@
       },
       "📶": {
         "default": [
+          "dækning",
           "mobilsignal",
           "signalstyrke"
         ],
@@ -18456,10 +20572,16 @@
       },
       "🛜": {
         "default": [
+          "bredbånd",
           "computer",
+          "forbindelse",
+          "hotspot",
           "internet",
           "netværk",
-          "trådløs"
+          "router",
+          "smartphone",
+          "trådløs",
+          "wi-fi"
         ],
         "tts": [
           "trådløs"
@@ -18468,6 +20590,8 @@
       "📳": {
         "default": [
           "mobil",
+          "orange",
+          "symbol",
           "vibration"
         ],
         "tts": [
@@ -18477,7 +20601,9 @@
       "📴": {
         "default": [
           "mobil",
-          "mobil slået fra"
+          "mobil slået fra",
+          "offline",
+          "slukket"
         ],
         "tts": [
           "mobil slået fra"
@@ -18570,10 +20696,14 @@
       },
       "🟰": {
         "default": [
+          "er lig med",
           "fedt lighedstegn",
+          "lig med",
           "lighed",
           "lighedstegn",
-          "matematik"
+          "matematik",
+          "svar",
+          "svare"
         ],
         "tts": [
           "fedt lighedstegn"
@@ -18606,6 +20736,7 @@
       "⁉": {
         "default": [
           "spørgsmål",
+          "spørgsmålstegn",
           "tegn",
           "tegnsætning",
           "udråbstegn",
@@ -18633,6 +20764,7 @@
           "hvidt spørgsmålstegn",
           "omrids",
           "spørgsmål",
+          "spørgsmålstegn",
           "tegn",
           "tegnsætning"
         ],
@@ -18733,6 +20865,8 @@
       },
       "🔱": {
         "default": [
+          "havgud",
+          "poseidon",
           "trefork",
           "trefork-symbol"
         ],
@@ -18742,6 +20876,7 @@
       },
       "📛": {
         "default": [
+          "badge",
           "navn",
           "navneskilt",
           "skilt"
@@ -18773,8 +20908,10 @@
       },
       "✅": {
         "default": [
+          "færdig",
           "hvidt flueben",
-          "markering"
+          "markering",
+          "udført"
         ],
         "tts": [
           "hvidt flueben"
@@ -18783,9 +20920,12 @@
       "☑": {
         "default": [
           "✓",
+          "afkrydsning",
           "afkrydsningsfelt med flueben",
           "felt",
-          "flueben"
+          "flueben",
+          "godkendt",
+          "markering"
         ],
         "tts": [
           "afkrydsningsfelt med flueben"
@@ -18805,6 +20945,7 @@
         "default": [
           "×",
           "annuller",
+          "forkert",
           "gange",
           "kryds",
           "markering",
@@ -18817,6 +20958,7 @@
       },
       "❎": {
         "default": [
+          "gange",
           "krydsknap",
           "kvadrat",
           "mærke",
@@ -18861,7 +21003,8 @@
         "default": [
           "*",
           "asterisk",
-          "ottetakket spids stjerne"
+          "ottetakket spids stjerne",
+          "stjerne"
         ],
         "tts": [
           "ottetakket spids stjerne"
@@ -18880,7 +21023,8 @@
       "❇": {
         "default": [
           "*",
-          "funkle"
+          "funkle",
+          "glimte"
         ],
         "tts": [
           "funkle"
@@ -18912,6 +21056,18 @@
         ],
         "tts": [
           "varemærke"
+        ]
+      },
+      "🫟": {
+        "default": [
+          "holi",
+          "klat",
+          "maling",
+          "plet",
+          "spild"
+        ],
+        "tts": [
+          "klat"
         ]
       },
       "🔠": {
@@ -18998,8 +21154,11 @@
       },
       "🆑": {
         "default": [
+          "CL",
           "CL-knap",
           "CL-tegn",
+          "knap",
+          "Ryd",
           "ryd-tegn"
         ],
         "tts": [
@@ -19008,6 +21167,7 @@
       },
       "🆒": {
         "default": [
+          "cool",
           "COOL-knap",
           "cool-tegn"
         ],
@@ -19018,7 +21178,9 @@
       "🆓": {
         "default": [
           "FREE-knap",
-          "gratis-tegn"
+          "gratis",
+          "gratis-tegn",
+          "knap"
         ],
         "tts": [
           "FREE-knap"
@@ -19037,8 +21199,10 @@
       },
       "🆔": {
         "default": [
+          "ID",
           "ID-knap",
-          "id-tegn"
+          "id-tegn",
+          "knap"
         ],
         "tts": [
           "ID-knap"
@@ -19056,6 +21220,7 @@
       },
       "🆕": {
         "default": [
+          "knap",
           "NEW-knap",
           "nyhed",
           "nyt-tegn"
@@ -19066,7 +21231,9 @@
       },
       "🆖": {
         "default": [
+          "ikke godt",
           "ikke godt-tegn",
+          "NG",
           "NG-knap",
           "NG-tegn"
         ],
@@ -19088,7 +21255,8 @@
       "🆗": {
         "default": [
           "OK",
-          "OK-tegn"
+          "OK-tegn",
+          "Okay"
         ],
         "tts": [
           "OK"
@@ -19096,6 +21264,7 @@
       },
       "🅿": {
         "default": [
+          "P-skilt",
           "parkering",
           "parkeringsplads"
         ],
@@ -19116,6 +21285,7 @@
       },
       "🆙": {
         "default": [
+          "OP",
           "OP!-tegn",
           "UP!-knap",
           "UP!-tegn"
@@ -19126,6 +21296,7 @@
       },
       "🆚": {
         "default": [
+          "knap",
           "versus",
           "versus-tegn",
           "vs.",
@@ -19156,7 +21327,8 @@
       "🈷": {
         "default": [
           "japansk",
-          "kvadratisk ideogram for månedligt beløb"
+          "kvadratisk ideogram for månedligt beløb",
+          "månedligt beløb"
         ],
         "tts": [
           "kvadratisk ideogram for månedligt beløb"
@@ -19164,6 +21336,7 @@
       },
       "🈶": {
         "default": [
+          "ikke gratis",
           "japansk",
           "kvadratisk ideogram for ikke gratis"
         ],
@@ -19192,7 +21365,8 @@
       "🈹": {
         "default": [
           "japansk",
-          "kvadratisk ideogram for rabat"
+          "kvadratisk ideogram for rabat",
+          "rabat"
         ],
         "tts": [
           "kvadratisk ideogram for rabat"
@@ -19218,6 +21392,7 @@
       },
       "🉑": {
         "default": [
+          "accept",
           "cirkulært ideogram for accept",
           "japansk"
         ],
@@ -19227,6 +21402,7 @@
       },
       "🈸": {
         "default": [
+          "anvendelse",
           "japansk",
           "kvadratisk ideogram for anvendelse"
         ],
@@ -19245,8 +21421,11 @@
       },
       "🈳": {
         "default": [
+          "ideogram",
           "japansk",
-          "kvadratisk ideogram for ledig"
+          "kvadratisk ideogram for ledig",
+          "ledig",
+          "空"
         ],
         "tts": [
           "kvadratisk ideogram for ledig"
@@ -19277,6 +21456,7 @@
       },
       "🈺": {
         "default": [
+          "åben",
           "japansk",
           "kvadratisk ideogram for åben"
         ],
@@ -19305,7 +21485,8 @@
       },
       "🟠": {
         "default": [
-          "orange cirkel"
+          "cirkel",
+          "orange"
         ],
         "tts": [
           "orange cirkel"
@@ -19313,7 +21494,8 @@
       },
       "🟡": {
         "default": [
-          "gul cirkel"
+          "cirkel",
+          "gul"
         ],
         "tts": [
           "gul cirkel"
@@ -19321,7 +21503,8 @@
       },
       "🟢": {
         "default": [
-          "grøn cirkel"
+          "cirkel",
+          "grøn"
         ],
         "tts": [
           "grøn cirkel"
@@ -19378,64 +21561,76 @@
       "🟥": {
         "default": [
           "firkant",
-          "rød"
+          "kvadrat",
+          "rød",
+          "rødt kvadrat"
         ],
         "tts": [
-          "rød firkant"
+          "rødt kvadrat"
         ]
       },
       "🟧": {
         "default": [
           "firkant",
+          "kvadrat",
           "orange"
         ],
         "tts": [
-          "orange firkant"
+          "orange kvadrat"
         ]
       },
       "🟨": {
         "default": [
           "firkant",
-          "gul"
+          "gul",
+          "gult",
+          "kvadrat"
         ],
         "tts": [
-          "gul firkant"
+          "gult kvadrat"
         ]
       },
       "🟩": {
         "default": [
           "firkant",
-          "grøn"
+          "grøn",
+          "grønt",
+          "kvadrat"
         ],
         "tts": [
-          "grøn firkant"
+          "grønt kvadrat"
         ]
       },
       "🟦": {
         "default": [
           "blå",
-          "firkant"
+          "blåt",
+          "firkant",
+          "kvadrat"
         ],
         "tts": [
-          "blå firkant"
+          "blåt kvadrat"
         ]
       },
       "🟪": {
         "default": [
           "firkant",
+          "kvadrat",
           "lilla"
         ],
         "tts": [
-          "lilla firkant"
+          "lilla kvadrat"
         ]
       },
       "🟫": {
         "default": [
           "brun",
-          "firkant"
+          "brunt",
+          "firkant",
+          "kvadrat"
         ],
         "tts": [
-          "brun firkant"
+          "brunt kvadrat"
         ]
       },
       "⬛": {
@@ -19596,7 +21791,8 @@
       },
       "🔘": {
         "default": [
-          "alternativknap"
+          "alternativknap",
+          "knap"
         ],
         "tts": [
           "alternativknap"
@@ -19627,9 +21823,10 @@
       },
       "🏁": {
         "default": [
+          "flag",
+          "mål",
           "motorsport",
-          "ternet",
-          "ternet flag"
+          "ternet"
         ],
         "tts": [
           "ternet flag"
@@ -19637,6 +21834,8 @@
       },
       "🚩": {
         "default": [
+          "flag",
+          "golf",
           "post",
           "trekantet flag"
         ],
@@ -19675,6 +21874,9 @@
       },
       "🏳‍🌈": {
         "default": [
+          "lgbt",
+          "lgbtq",
+          "pride",
           "regnbue",
           "regnbueflag"
         ],
@@ -19752,7 +21954,9 @@
       },
       "₢": {
         "default": [
-          "cruzeiro"
+          "BRB",
+          "cruzeiro",
+          "valuta"
         ],
         "tts": [
           "cruzeiro"
@@ -19760,15 +21964,18 @@
       },
       "₣": {
         "default": [
-          "franske franc"
+          "franc",
+          "fransk franc",
+          "valuta"
         ],
         "tts": [
-          "franske franc"
+          "fransk franc"
         ]
       },
       "₤": {
         "default": [
-          "lira"
+          "lira",
+          "valuta"
         ],
         "tts": [
           "lira"
@@ -19808,7 +22015,9 @@
       },
       "₰": {
         "default": [
-          "tysk pfennig"
+          "pfennig",
+          "tysk pfennig",
+          "valuta"
         ],
         "tts": [
           "tysk pfennig"
@@ -19824,7 +22033,9 @@
       },
       "₳": {
         "default": [
-          "austral"
+          "ARA",
+          "austral",
+          "valuta"
         ],
         "tts": [
           "austral"
@@ -19832,7 +22043,8 @@
       },
       "₶": {
         "default": [
-          "livre tournois"
+          "livre tournois",
+          "valuta"
         ],
         "tts": [
           "livre tournois"
@@ -19840,7 +22052,8 @@
       },
       "₷": {
         "default": [
-          "spesmilo"
+          "spesmilo",
+          "valuta"
         ],
         "tts": [
           "spesmilo"
@@ -19872,22 +22085,6 @@
         ],
         "tts": [
           "bitcoin"
-        ]
-      },
-      "₨": {
-        "default": [
-          "rupee"
-        ],
-        "tts": [
-          "rupee"
-        ]
-      },
-      "﷼": {
-        "default": [
-          "rial"
-        ],
-        "tts": [
-          "rial"
         ]
       },
       "¹": {
@@ -19925,6 +22122,15 @@
           "hævet tretal"
         ]
       },
+      "₨": {
+        "default": [
+          "rupee",
+          "valuta"
+        ],
+        "tts": [
+          "rupee"
+        ]
+      },
       "µ": {
         "default": [
           "mål",
@@ -19935,6 +22141,15 @@
         ],
         "tts": [
           "mikrotegn"
+        ]
+      },
+      "﷼": {
+        "default": [
+          "rial",
+          "valuta"
+        ],
+        "tts": [
+          "rial"
         ]
       }
     }

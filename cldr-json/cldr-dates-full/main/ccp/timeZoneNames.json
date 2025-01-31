@@ -2,9 +2,6 @@
   "main": {
     "ccp": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ccp"
       },
       "dates": {
@@ -118,6 +115,9 @@
               },
               "Chihuahua": {
                 "exemplarCity": "𑄌𑄨𑄦𑄪𑄠𑄦𑄪𑄠"
+              },
+              "Ciudad_Juarez": {
+                "exemplarCity": "Ciudad Juárez"
               },
               "Coral_Harbour": {
                 "exemplarCity": "𑄇𑄮𑄢𑄣𑄴 𑄦𑄢𑄴𑄝𑄢𑄴"
@@ -327,9 +327,6 @@
               "New_York": {
                 "exemplarCity": "𑄚𑄨𑄅𑄪𑄃𑄨𑄠𑄧𑄢𑄴𑄇𑄴"
               },
-              "Nipigon": {
-                "exemplarCity": "𑄚𑄨𑄛𑄨𑄉𑄮𑄚𑄴"
-              },
               "Nome": {
                 "exemplarCity": "𑄚𑄮𑄟𑄴"
               },
@@ -353,9 +350,6 @@
               "Panama": {
                 "exemplarCity": "𑄛𑄚𑄟"
               },
-              "Pangnirtung": {
-                "exemplarCity": "𑄛𑄳𑄠𑄋𑄴𑄉𑄧𑄚𑄨𑄢𑄴𑄑𑄪𑄁"
-              },
               "Paramaribo": {
                 "exemplarCity": "𑄛𑄳𑄠𑄢𑄟𑄬𑄢𑄨𑄝𑄮"
               },
@@ -374,12 +368,6 @@
               "Puerto_Rico": {
                 "exemplarCity": "𑄛𑄪𑄠𑄬𑄢𑄴𑄖𑄮 𑄢𑄨𑄇𑄮"
               },
-              "Punta_Arenas": {
-                "exemplarCity": "Punta Arenas"
-              },
-              "Rainy_River": {
-                "exemplarCity": "𑄣𑄬𑄭𑄚𑄨 𑄢𑄨𑄞𑄢𑄴"
-              },
               "Rankin_Inlet": {
                 "exemplarCity": "𑄢𑄳𑄠𑄋𑄴𑄇𑄨𑄚𑄴 𑄃𑄨𑄚𑄴𑄣𑄬𑄑𑄴"
               },
@@ -394,9 +382,6 @@
               },
               "Rio_Branco": {
                 "exemplarCity": "𑄢𑄨𑄃𑄮 𑄝𑄳𑄢𑄋𑄴𑄇𑄮"
-              },
-              "Santa_Isabel": {
-                "exemplarCity": "𑄥𑄚𑄴𑄖 𑄃𑄨𑄥𑄝𑄬𑄣𑄴"
               },
               "Santarem": {
                 "exemplarCity": "𑄥𑄬𑄚𑄴𑄑𑄪𑄢𑄬𑄟𑄴"
@@ -443,9 +428,6 @@
               "Thule": {
                 "exemplarCity": "𑄗𑄪𑄣𑄨"
               },
-              "Thunder_Bay": {
-                "exemplarCity": "𑄐𑄚𑄴𑄓𑄢𑄴 𑄝𑄬"
-              },
               "Tijuana": {
                 "exemplarCity": "𑄖𑄨𑄎𑄪𑄠𑄚"
               },
@@ -466,9 +448,6 @@
               },
               "Yakutat": {
                 "exemplarCity": "𑄃𑄨𑄠𑄇𑄪𑄑𑄑𑄴"
-              },
-              "Yellowknife": {
-                "exemplarCity": "𑄃𑄨𑄠𑄬𑄣𑄮𑄚𑄭𑄜𑄴"
               }
             },
             "Atlantic": {
@@ -636,9 +615,6 @@
               "Sarajevo": {
                 "exemplarCity": "𑄥𑄢𑄎𑄨𑄞𑄮"
               },
-              "Saratov": {
-                "exemplarCity": "Saratov"
-              },
               "Simferopol": {
                 "exemplarCity": "𑄥𑄨𑄟𑄴𑄜𑄬𑄢𑄮𑄛𑄮𑄣𑄴"
               },
@@ -660,9 +636,6 @@
               "Ulyanovsk": {
                 "exemplarCity": "𑄅𑄪𑄣𑄨𑄠𑄚𑄮𑄞𑄴𑄥𑄴𑄇𑄴"
               },
-              "Uzhgorod": {
-                "exemplarCity": "𑄅𑄪𑄏𑄴𑄉𑄮𑄢𑄮𑄓𑄴"
-              },
               "Vaduz": {
                 "exemplarCity": "𑄞𑄘𑄪𑄎𑄴"
               },
@@ -683,9 +656,6 @@
               },
               "Zagreb": {
                 "exemplarCity": "𑄎𑄉𑄳𑄢𑄬𑄛𑄴"
-              },
-              "Zaporozhye": {
-                "exemplarCity": "𑄎𑄬𑄛𑄮𑄢𑄮𑄎𑄭𑄠𑄭"
               },
               "Zurich": {
                 "exemplarCity": "𑄎𑄪𑄢𑄨𑄈𑄴"
@@ -871,9 +841,6 @@
               "Ashgabat": {
                 "exemplarCity": "𑄃𑄌𑄴𑄉𑄪𑄝𑄖𑄴"
               },
-              "Atyrau": {
-                "exemplarCity": "Atyrau"
-              },
               "Baghdad": {
                 "exemplarCity": "𑄝𑄇𑄴𑄘𑄖𑄴"
               },
@@ -904,9 +871,6 @@
               "Chita": {
                 "exemplarCity": "𑄌𑄨𑄖"
               },
-              "Choibalsan": {
-                "exemplarCity": "𑄌𑄰𑄱𑄝𑄣𑄴𑄥𑄳𑄠𑄚𑄴"
-              },
               "Colombo": {
                 "exemplarCity": "𑄇𑄧𑄣𑄧𑄟𑄳𑄝𑄧𑄧𑄱𑄱"
               },
@@ -924,9 +888,6 @@
               },
               "Dushanbe": {
                 "exemplarCity": "𑄘𑄪𑄥𑄚𑄴𑄝𑄬"
-              },
-              "Famagusta": {
-                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "𑄉𑄎"
@@ -1020,9 +981,6 @@
               },
               "Qatar": {
                 "exemplarCity": "𑄇𑄖𑄢𑄴"
-              },
-              "Qostanay": {
-                "exemplarCity": "Qostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "𑄇𑄨𑄎𑄨𑄣𑄧𑄢𑄴𑄓"
@@ -1145,9 +1103,6 @@
               "Broken_Hill": {
                 "exemplarCity": "𑄝𑄳𑄢𑄮𑄇𑄬𑄚𑄴 𑄦𑄨𑄣𑄴"
               },
-              "Currie": {
-                "exemplarCity": "𑄇𑄨𑄃𑄪𑄢𑄨"
-              },
               "Darwin": {
                 "exemplarCity": "𑄓𑄢𑄴𑄃𑄪𑄃𑄨𑄚𑄴"
               },
@@ -1218,12 +1173,6 @@
               },
               "Honolulu": {
                 "exemplarCity": "𑄦𑄧𑄚𑄮𑄣𑄪𑄣𑄪"
-              },
-              "Johnston": {
-                "exemplarCity": "𑄎𑄧𑄚𑄴𑄥𑄳𑄑𑄧𑄚𑄴"
-              },
-              "Kanton": {
-                "exemplarCity": "Kanton"
               },
               "Kiritimati": {
                 "exemplarCity": "𑄇𑄨𑄢𑄨𑄖𑄨𑄟𑄖𑄨"
@@ -1565,13 +1514,6 @@
                 "daylight": "𑄌𑄨𑄚𑄴 𑄘𑄨𑄚𑄮𑄃𑄣𑄮𑄢𑄴 𑄃𑄧𑄇𑄴𑄖𑄧"
               }
             },
-            "Choibalsan": {
-              "long": {
-                "generic": "𑄌𑄧𑄠𑄴𑄝𑄣𑄴𑄥𑄧𑄚𑄴 𑄃𑄧𑄇𑄴𑄖𑄧",
-                "standard": "𑄌𑄧𑄠𑄴𑄝𑄣𑄴𑄥𑄧𑄚𑄴 𑄟𑄚𑄧𑄇𑄴 𑄃𑄧𑄇𑄴𑄖𑄧",
-                "daylight": "𑄌𑄧𑄠𑄴𑄝𑄣𑄴𑄥𑄧𑄚𑄴 𑄉𑄧𑄢𑄧𑄟𑄴𑄇𑄣𑄧𑄢𑄴 𑄃𑄧𑄇𑄴𑄖𑄧"
-              }
-            },
             "Christmas": {
               "long": {
                 "standard": "𑄇𑄳𑄢𑄨𑄌𑄴𑄟𑄥𑄴 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄬 𑄃𑄧𑄇𑄴𑄖𑄧"
@@ -1866,11 +1808,6 @@
                 "daylight": "𑄣𑄧𑄢𑄴𑄓𑄴 𑄦𑄤𑄬 𑄘𑄨𑄚𑄮𑄃𑄣𑄮𑄢𑄴 𑄃𑄧𑄇𑄴𑄖𑄧"
               }
             },
-            "Macquarie": {
-              "long": {
-                "standard": "𑄟𑄳𑄠𑄇𑄴𑄇𑄪𑄢𑄨 𑄉𑄭 𑄉𑄭 𑄞𑄬𑄘 𑄃𑄧𑄇𑄴𑄖𑄧"
-              }
-            },
             "Magadan": {
               "long": {
                 "generic": "𑄟𑄳𑄠𑄉𑄓𑄚𑄴 𑄃𑄧𑄇𑄴𑄖𑄧",
@@ -1908,13 +1845,6 @@
             "Mawson": {
               "long": {
                 "standard": "𑄟𑄧𑄥𑄳𑄦𑄧𑄚𑄴 𑄃𑄧𑄇𑄴𑄖𑄧"
-              }
-            },
-            "Mexico_Northwest": {
-              "long": {
-                "generic": "𑄃𑄪𑄖𑄴𑄖𑄮𑄢𑄴 𑄛𑄧𑄏𑄨𑄟𑄴 𑄟𑄬𑄇𑄴𑄥𑄨𑄇𑄮𑄢𑄴 𑄃𑄧𑄇𑄴𑄖𑄧",
-                "standard": "𑄃𑄪𑄖𑄴𑄖𑄮𑄢𑄴 𑄛𑄧𑄏𑄨𑄟𑄴 𑄟𑄬𑄇𑄴𑄥𑄨𑄇𑄮𑄢𑄴 𑄟𑄚𑄧𑄇𑄴 𑄃𑄧𑄇𑄴𑄖𑄧",
-                "daylight": "𑄃𑄪𑄖𑄴𑄖𑄮𑄢𑄴 𑄛𑄧𑄏𑄨𑄟𑄴 𑄟𑄬𑄇𑄴𑄥𑄨𑄇𑄮𑄢𑄴 𑄘𑄨𑄚𑄮𑄢𑄴 𑄃𑄧𑄇𑄴𑄖𑄧"
               }
             },
             "Mexico_Pacific": {

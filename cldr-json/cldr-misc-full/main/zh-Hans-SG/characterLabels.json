@@ -2,9 +2,6 @@
   "main": {
     "zh-Hans-SG": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "zh",
         "script": "Hans",
         "territory": "SG"
@@ -15,6 +12,8 @@
         "compatibility": "{0} — 兼容",
         "enclosed": "{0} — 带圈",
         "extended": "{0} — 扩展",
+        "facing-left": "{0}面向左边",
+        "facing-right": "{0}面向右边",
         "historic": "{0} — 古代",
         "miscellaneous": "{0} — 杂项",
         "other": "{0} — 其它",

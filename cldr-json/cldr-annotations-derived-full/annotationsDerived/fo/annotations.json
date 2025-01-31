@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "fo"
     },
     "annotations": {
@@ -277,6 +274,71 @@
           "vulkan heilsan: myrkur húðarlitur"
         ]
       },
+      "🫱🏻": {
+        "default": [
+          "høgra",
+          "høgra hond",
+          "hond til høgru",
+          "ljósur húðarlitur",
+          "lógvatak",
+          "taka í hond"
+        ],
+        "tts": [
+          "hond til høgru: ljósur húðarlitur"
+        ]
+      },
+      "🫱🏼": {
+        "default": [
+          "høgra",
+          "høgra hond",
+          "hond til høgru",
+          "lógvatak",
+          "miðalljósur húðarlitur",
+          "taka í hond"
+        ],
+        "tts": [
+          "hond til høgru: miðalljósur húðarlitur"
+        ]
+      },
+      "🫱🏽": {
+        "default": [
+          "høgra",
+          "høgra hond",
+          "hond til høgru",
+          "lógvatak",
+          "miðal húðarlitur",
+          "taka í hond"
+        ],
+        "tts": [
+          "hond til høgru: miðal húðarlitur"
+        ]
+      },
+      "🫱🏾": {
+        "default": [
+          "høgra",
+          "høgra hond",
+          "hond til høgru",
+          "lógvatak",
+          "miðalmyrkur húðarlitur",
+          "taka í hond"
+        ],
+        "tts": [
+          "hond til høgru: miðalmyrkur húðarlitur"
+        ]
+      },
+      "🫱🏿": {
+        "default": [
+          "høgra",
+          "høgra hond",
+          "hond til høgru",
+          "lógvatak",
+          "myrkur húðarlitur",
+          "taka í hond"
+        ],
+        "tts": [
+          "hond til høgru: myrkur húðarlitur"
+        ]
+      },
       "🫱🏻‍🫲🏼": {
         "default": [
           "hendur",
@@ -535,6 +597,341 @@
         ],
         "tts": [
           "lógvatak: myrkur húðarlitur, miðalmyrkur húðarlitur"
+        ]
+      },
+      "🫲🏻": {
+        "default": [
+          "hond til vinstru",
+          "ljósur húðarlitur",
+          "lógvatak",
+          "taka í hond",
+          "vinsta hond",
+          "vinstra"
+        ],
+        "tts": [
+          "hond til vinstru: ljósur húðarlitur"
+        ]
+      },
+      "🫲🏼": {
+        "default": [
+          "hond til vinstru",
+          "lógvatak",
+          "miðalljósur húðarlitur",
+          "taka í hond",
+          "vinsta hond",
+          "vinstra"
+        ],
+        "tts": [
+          "hond til vinstru: miðalljósur húðarlitur"
+        ]
+      },
+      "🫲🏽": {
+        "default": [
+          "hond til vinstru",
+          "lógvatak",
+          "miðal húðarlitur",
+          "taka í hond",
+          "vinsta hond",
+          "vinstra"
+        ],
+        "tts": [
+          "hond til vinstru: miðal húðarlitur"
+        ]
+      },
+      "🫲🏾": {
+        "default": [
+          "hond til vinstru",
+          "lógvatak",
+          "miðalmyrkur húðarlitur",
+          "taka í hond",
+          "vinsta hond",
+          "vinstra"
+        ],
+        "tts": [
+          "hond til vinstru: miðalmyrkur húðarlitur"
+        ]
+      },
+      "🫲🏿": {
+        "default": [
+          "hond til vinstru",
+          "lógvatak",
+          "myrkur húðarlitur",
+          "taka í hond",
+          "vinsta hond",
+          "vinstra"
+        ],
+        "tts": [
+          "hond til vinstru: myrkur húðarlitur"
+        ]
+      },
+      "🫳🏻": {
+        "default": [
+          "hond",
+          "ljósur húðarlitur",
+          "lógvi",
+          "lógvi niðureftir",
+          "missa",
+          "niður",
+          "sleppa",
+          "tak upp"
+        ],
+        "tts": [
+          "lógvi niðureftir: ljósur húðarlitur"
+        ]
+      },
+      "🫳🏼": {
+        "default": [
+          "hond",
+          "lógvi",
+          "lógvi niðureftir",
+          "miðalljósur húðarlitur",
+          "missa",
+          "niður",
+          "sleppa",
+          "tak upp"
+        ],
+        "tts": [
+          "lógvi niðureftir: miðalljósur húðarlitur"
+        ]
+      },
+      "🫳🏽": {
+        "default": [
+          "hond",
+          "lógvi",
+          "lógvi niðureftir",
+          "miðal húðarlitur",
+          "missa",
+          "niður",
+          "sleppa",
+          "tak upp"
+        ],
+        "tts": [
+          "lógvi niðureftir: miðal húðarlitur"
+        ]
+      },
+      "🫳🏾": {
+        "default": [
+          "hond",
+          "lógvi",
+          "lógvi niðureftir",
+          "miðalmyrkur húðarlitur",
+          "missa",
+          "niður",
+          "sleppa",
+          "tak upp"
+        ],
+        "tts": [
+          "lógvi niðureftir: miðalmyrkur húðarlitur"
+        ]
+      },
+      "🫳🏿": {
+        "default": [
+          "hond",
+          "lógvi",
+          "lógvi niðureftir",
+          "missa",
+          "myrkur húðarlitur",
+          "niður",
+          "sleppa",
+          "tak upp"
+        ],
+        "tts": [
+          "lógvi niðureftir: myrkur húðarlitur"
+        ]
+      },
+      "🫴🏻": {
+        "default": [
+          "gev",
+          "hond",
+          "ljósur húðarlitur",
+          "lofta",
+          "lógvi",
+          "lógvi uppeftir"
+        ],
+        "tts": [
+          "lógvi uppeftir: ljósur húðarlitur"
+        ]
+      },
+      "🫴🏼": {
+        "default": [
+          "gev",
+          "hond",
+          "lofta",
+          "lógvi",
+          "lógvi uppeftir",
+          "miðalljósur húðarlitur"
+        ],
+        "tts": [
+          "lógvi uppeftir: miðalljósur húðarlitur"
+        ]
+      },
+      "🫴🏽": {
+        "default": [
+          "gev",
+          "hond",
+          "lofta",
+          "lógvi",
+          "lógvi uppeftir",
+          "miðal húðarlitur"
+        ],
+        "tts": [
+          "lógvi uppeftir: miðal húðarlitur"
+        ]
+      },
+      "🫴🏾": {
+        "default": [
+          "gev",
+          "hond",
+          "lofta",
+          "lógvi",
+          "lógvi uppeftir",
+          "miðalmyrkur húðarlitur"
+        ],
+        "tts": [
+          "lógvi uppeftir: miðalmyrkur húðarlitur"
+        ]
+      },
+      "🫴🏿": {
+        "default": [
+          "gev",
+          "hond",
+          "lofta",
+          "lógvi",
+          "lógvi uppeftir",
+          "myrkur húðarlitur"
+        ],
+        "tts": [
+          "lógvi uppeftir: myrkur húðarlitur"
+        ]
+      },
+      "🫷🏻": {
+        "default": [
+          "hond skumpar til vinstru",
+          "ljósur húðarlitur",
+          "nei",
+          "stop",
+          "stoppa",
+          "vinstra"
+        ],
+        "tts": [
+          "hond skumpar til vinstru: ljósur húðarlitur"
+        ]
+      },
+      "🫷🏼": {
+        "default": [
+          "hond skumpar til vinstru",
+          "miðalljósur húðarlitur",
+          "nei",
+          "stop",
+          "stoppa",
+          "vinstra"
+        ],
+        "tts": [
+          "hond skumpar til vinstru: miðalljósur húðarlitur"
+        ]
+      },
+      "🫷🏽": {
+        "default": [
+          "hond skumpar til vinstru",
+          "miðal húðarlitur",
+          "nei",
+          "stop",
+          "stoppa",
+          "vinstra"
+        ],
+        "tts": [
+          "hond skumpar til vinstru: miðal húðarlitur"
+        ]
+      },
+      "🫷🏾": {
+        "default": [
+          "hond skumpar til vinstru",
+          "miðalmyrkur húðarlitur",
+          "nei",
+          "stop",
+          "stoppa",
+          "vinstra"
+        ],
+        "tts": [
+          "hond skumpar til vinstru: miðalmyrkur húðarlitur"
+        ]
+      },
+      "🫷🏿": {
+        "default": [
+          "hond skumpar til vinstru",
+          "myrkur húðarlitur",
+          "nei",
+          "stop",
+          "stoppa",
+          "vinstra"
+        ],
+        "tts": [
+          "hond skumpar til vinstru: myrkur húðarlitur"
+        ]
+      },
+      "🫸🏻": {
+        "default": [
+          "høgra",
+          "hond skumpar til høgru",
+          "ljósur húðarlitur",
+          "nei",
+          "stop",
+          "stoppa"
+        ],
+        "tts": [
+          "hond skumpar til høgru: ljósur húðarlitur"
+        ]
+      },
+      "🫸🏼": {
+        "default": [
+          "høgra",
+          "hond skumpar til høgru",
+          "miðalljósur húðarlitur",
+          "nei",
+          "stop",
+          "stoppa"
+        ],
+        "tts": [
+          "hond skumpar til høgru: miðalljósur húðarlitur"
+        ]
+      },
+      "🫸🏽": {
+        "default": [
+          "høgra",
+          "hond skumpar til høgru",
+          "miðal húðarlitur",
+          "nei",
+          "stop",
+          "stoppa"
+        ],
+        "tts": [
+          "hond skumpar til høgru: miðal húðarlitur"
+        ]
+      },
+      "🫸🏾": {
+        "default": [
+          "høgra",
+          "hond skumpar til høgru",
+          "miðalmyrkur húðarlitur",
+          "nei",
+          "stop",
+          "stoppa"
+        ],
+        "tts": [
+          "hond skumpar til høgru: miðalmyrkur húðarlitur"
+        ]
+      },
+      "🫸🏿": {
+        "default": [
+          "høgra",
+          "hond skumpar til høgru",
+          "myrkur húðarlitur",
+          "nei",
+          "stop",
+          "stoppa"
+        ],
+        "tts": [
+          "hond skumpar til høgru: myrkur húðarlitur"
         ]
       },
       "👌🏻": {
@@ -855,6 +1252,71 @@
         ],
         "tts": [
           "krossaðir fingrar: myrkur húðarlitur"
+        ]
+      },
+      "🫰🏻": {
+        "default": [
+          "fingrar",
+          "hond",
+          "krossa",
+          "ljósur húðarlitur",
+          "peikifingur",
+          "tummil"
+        ],
+        "tts": [
+          "krossa tummil og peikifingur: ljósur húðarlitur"
+        ]
+      },
+      "🫰🏼": {
+        "default": [
+          "fingrar",
+          "hond",
+          "krossa",
+          "miðalljósur húðarlitur",
+          "peikifingur",
+          "tummil"
+        ],
+        "tts": [
+          "krossa tummil og peikifingur: miðalljósur húðarlitur"
+        ]
+      },
+      "🫰🏽": {
+        "default": [
+          "fingrar",
+          "hond",
+          "krossa",
+          "miðal húðarlitur",
+          "peikifingur",
+          "tummil"
+        ],
+        "tts": [
+          "krossa tummil og peikifingur: miðal húðarlitur"
+        ]
+      },
+      "🫰🏾": {
+        "default": [
+          "fingrar",
+          "hond",
+          "krossa",
+          "miðalmyrkur húðarlitur",
+          "peikifingur",
+          "tummil"
+        ],
+        "tts": [
+          "krossa tummil og peikifingur: miðalmyrkur húðarlitur"
+        ]
+      },
+      "🫰🏿": {
+        "default": [
+          "fingrar",
+          "hond",
+          "krossa",
+          "myrkur húðarlitur",
+          "peikifingur",
+          "tummil"
+        ],
+        "tts": [
+          "krossa tummil og peikifingur: myrkur húðarlitur"
         ]
       },
       "🤟🏻": {
@@ -1472,6 +1934,66 @@
           "lógvi og fremstifingur peikar uppeftir: myrkur húðarlitur"
         ]
       },
+      "🫵🏻": {
+        "default": [
+          "hond",
+          "ljósur húðarlitur",
+          "peikar",
+          "peikifingur",
+          "tú"
+        ],
+        "tts": [
+          "peikar eftir tær: ljósur húðarlitur"
+        ]
+      },
+      "🫵🏼": {
+        "default": [
+          "hond",
+          "miðalljósur húðarlitur",
+          "peikar",
+          "peikifingur",
+          "tú"
+        ],
+        "tts": [
+          "peikar eftir tær: miðalljósur húðarlitur"
+        ]
+      },
+      "🫵🏽": {
+        "default": [
+          "hond",
+          "miðal húðarlitur",
+          "peikar",
+          "peikifingur",
+          "tú"
+        ],
+        "tts": [
+          "peikar eftir tær: miðal húðarlitur"
+        ]
+      },
+      "🫵🏾": {
+        "default": [
+          "hond",
+          "miðalmyrkur húðarlitur",
+          "peikar",
+          "peikifingur",
+          "tú"
+        ],
+        "tts": [
+          "peikar eftir tær: miðalmyrkur húðarlitur"
+        ]
+      },
+      "🫵🏿": {
+        "default": [
+          "hond",
+          "myrkur húðarlitur",
+          "peikar",
+          "peikifingur",
+          "tú"
+        ],
+        "tts": [
+          "peikar eftir tær: myrkur húðarlitur"
+        ]
+      },
       "👍🏻": {
         "default": [
           "gott",
@@ -1940,6 +2462,66 @@
         ],
         "tts": [
           "upplyftar hendur: myrkur húðarlitur"
+        ]
+      },
+      "🫶🏻": {
+        "default": [
+          "hendur",
+          "hjarta",
+          "hond",
+          "kærleiki",
+          "ljósur húðarlitur"
+        ],
+        "tts": [
+          "hjarta hendur: ljósur húðarlitur"
+        ]
+      },
+      "🫶🏼": {
+        "default": [
+          "hendur",
+          "hjarta",
+          "hond",
+          "kærleiki",
+          "miðalljósur húðarlitur"
+        ],
+        "tts": [
+          "hjarta hendur: miðalljósur húðarlitur"
+        ]
+      },
+      "🫶🏽": {
+        "default": [
+          "hendur",
+          "hjarta",
+          "hond",
+          "kærleiki",
+          "miðal húðarlitur"
+        ],
+        "tts": [
+          "hjarta hendur: miðal húðarlitur"
+        ]
+      },
+      "🫶🏾": {
+        "default": [
+          "hendur",
+          "hjarta",
+          "hond",
+          "kærleiki",
+          "miðalmyrkur húðarlitur"
+        ],
+        "tts": [
+          "hjarta hendur: miðalmyrkur húðarlitur"
+        ]
+      },
+      "🫶🏿": {
+        "default": [
+          "hendur",
+          "hjarta",
+          "hond",
+          "kærleiki",
+          "myrkur húðarlitur"
+        ],
+        "tts": [
+          "hjarta hendur: myrkur húðarlitur"
         ]
       },
       "👐🏻": {
@@ -11550,8 +12132,7 @@
           "ljósur húðarlitur",
           "maður",
           "mannligur flogskipari",
-          "pilotur",
-          "René"
+          "pilotur"
         ],
         "tts": [
           "mannligur flogskipari: ljósur húðarlitur"
@@ -11563,8 +12144,7 @@
           "maður",
           "mannligur flogskipari",
           "miðalljósur húðarlitur",
-          "pilotur",
-          "René"
+          "pilotur"
         ],
         "tts": [
           "mannligur flogskipari: miðalljósur húðarlitur"
@@ -11576,8 +12156,7 @@
           "maður",
           "mannligur flogskipari",
           "miðal húðarlitur",
-          "pilotur",
-          "René"
+          "pilotur"
         ],
         "tts": [
           "mannligur flogskipari: miðal húðarlitur"
@@ -11589,8 +12168,7 @@
           "maður",
           "mannligur flogskipari",
           "miðalmyrkur húðarlitur",
-          "pilotur",
-          "René"
+          "pilotur"
         ],
         "tts": [
           "mannligur flogskipari: miðalmyrkur húðarlitur"
@@ -11602,8 +12180,7 @@
           "maður",
           "mannligur flogskipari",
           "myrkur húðarlitur",
-          "pilotur",
-          "René"
+          "pilotur"
         ],
         "tts": [
           "mannligur flogskipari: myrkur húðarlitur"
@@ -12814,6 +13391,61 @@
           "kvinnuligur byggiverkfrøðingur: myrkur húðarlitur"
         ]
       },
+      "🫅🏻": {
+        "default": [
+          "kongalig",
+          "krúna",
+          "ljósur húðarlitur",
+          "persónur"
+        ],
+        "tts": [
+          "persónur við krúnu: ljósur húðarlitur"
+        ]
+      },
+      "🫅🏼": {
+        "default": [
+          "kongalig",
+          "krúna",
+          "miðalljósur húðarlitur",
+          "persónur"
+        ],
+        "tts": [
+          "persónur við krúnu: miðalljósur húðarlitur"
+        ]
+      },
+      "🫅🏽": {
+        "default": [
+          "kongalig",
+          "krúna",
+          "miðal húðarlitur",
+          "persónur"
+        ],
+        "tts": [
+          "persónur við krúnu: miðal húðarlitur"
+        ]
+      },
+      "🫅🏾": {
+        "default": [
+          "kongalig",
+          "krúna",
+          "miðalmyrkur húðarlitur",
+          "persónur"
+        ],
+        "tts": [
+          "persónur við krúnu: miðalmyrkur húðarlitur"
+        ]
+      },
+      "🫅🏿": {
+        "default": [
+          "kongalig",
+          "krúna",
+          "myrkur húðarlitur",
+          "persónur"
+        ],
+        "tts": [
+          "persónur við krúnu: myrkur húðarlitur"
+        ]
+      },
       "🤴🏻": {
         "default": [
           "fúrsti",
@@ -13659,12 +14291,155 @@
           "kvinna við barn: myrkur húðarlitur"
         ]
       },
+      "🫃🏻": {
+        "default": [
+          "búkur",
+          "eti ov nógv",
+          "ljósur húðarlitur",
+          "maður",
+          "maður við barn",
+          "upp á vegin",
+          "við barn"
+        ],
+        "tts": [
+          "maður við barn: ljósur húðarlitur"
+        ]
+      },
+      "🫃🏼": {
+        "default": [
+          "búkur",
+          "eti ov nógv",
+          "maður",
+          "maður við barn",
+          "miðalljósur húðarlitur",
+          "upp á vegin",
+          "við barn"
+        ],
+        "tts": [
+          "maður við barn: miðalljósur húðarlitur"
+        ]
+      },
+      "🫃🏽": {
+        "default": [
+          "búkur",
+          "eti ov nógv",
+          "maður",
+          "maður við barn",
+          "miðal húðarlitur",
+          "upp á vegin",
+          "við barn"
+        ],
+        "tts": [
+          "maður við barn: miðal húðarlitur"
+        ]
+      },
+      "🫃🏾": {
+        "default": [
+          "búkur",
+          "eti ov nógv",
+          "maður",
+          "maður við barn",
+          "miðalmyrkur húðarlitur",
+          "upp á vegin",
+          "við barn"
+        ],
+        "tts": [
+          "maður við barn: miðalmyrkur húðarlitur"
+        ]
+      },
+      "🫃🏿": {
+        "default": [
+          "búkur",
+          "eti ov nógv",
+          "maður",
+          "maður við barn",
+          "myrkur húðarlitur",
+          "upp á vegin",
+          "við barn"
+        ],
+        "tts": [
+          "maður við barn: myrkur húðarlitur"
+        ]
+      },
+      "🫄🏻": {
+        "default": [
+          "búkur",
+          "eti ov nógv",
+          "ljósur húðarlitur",
+          "persónur",
+          "persónur við barn",
+          "upp á vegin",
+          "við barn"
+        ],
+        "tts": [
+          "persónur við barn: ljósur húðarlitur"
+        ]
+      },
+      "🫄🏼": {
+        "default": [
+          "búkur",
+          "eti ov nógv",
+          "miðalljósur húðarlitur",
+          "persónur",
+          "persónur við barn",
+          "upp á vegin",
+          "við barn"
+        ],
+        "tts": [
+          "persónur við barn: miðalljósur húðarlitur"
+        ]
+      },
+      "🫄🏽": {
+        "default": [
+          "búkur",
+          "eti ov nógv",
+          "miðal húðarlitur",
+          "persónur",
+          "persónur við barn",
+          "upp á vegin",
+          "við barn"
+        ],
+        "tts": [
+          "persónur við barn: miðal húðarlitur"
+        ]
+      },
+      "🫄🏾": {
+        "default": [
+          "búkur",
+          "eti ov nógv",
+          "miðalmyrkur húðarlitur",
+          "persónur",
+          "persónur við barn",
+          "upp á vegin",
+          "við barn"
+        ],
+        "tts": [
+          "persónur við barn: miðalmyrkur húðarlitur"
+        ]
+      },
+      "🫄🏿": {
+        "default": [
+          "búkur",
+          "eti ov nógv",
+          "myrkur húðarlitur",
+          "persónur",
+          "persónur við barn",
+          "upp á vegin",
+          "við barn"
+        ],
+        "tts": [
+          "persónur við barn: myrkur húðarlitur"
+        ]
+      },
       "🤱🏻": {
         "default": [
           "bróstaføði",
           "bróstageving",
           "geva bróst",
           "ljósur húðarlitur",
+          "mamma",
+          "móður",
+          "móðurmjólk",
           "pinkubarn"
         ],
         "tts": [
@@ -13676,7 +14451,10 @@
           "bróstaføði",
           "bróstageving",
           "geva bróst",
+          "mamma",
           "miðalljósur húðarlitur",
+          "móður",
+          "móðurmjólk",
           "pinkubarn"
         ],
         "tts": [
@@ -13688,7 +14466,10 @@
           "bróstaføði",
           "bróstageving",
           "geva bróst",
+          "mamma",
           "miðal húðarlitur",
+          "móður",
+          "móðurmjólk",
           "pinkubarn"
         ],
         "tts": [
@@ -13700,7 +14481,10 @@
           "bróstaføði",
           "bróstageving",
           "geva bróst",
+          "mamma",
           "miðalmyrkur húðarlitur",
+          "móður",
+          "móðurmjólk",
           "pinkubarn"
         ],
         "tts": [
@@ -13712,11 +14496,204 @@
           "bróstaføði",
           "bróstageving",
           "geva bróst",
+          "mamma",
+          "móður",
+          "móðurmjólk",
           "myrkur húðarlitur",
           "pinkubarn"
         ],
         "tts": [
           "geva bróst: myrkur húðarlitur"
+        ]
+      },
+      "👩🏻‍🍼": {
+        "default": [
+          "fløska",
+          "geva fløsku",
+          "ljósur húðarlitur",
+          "mamma",
+          "móður",
+          "pinkubarn"
+        ],
+        "tts": [
+          "kvinna gevur fløsku: ljósur húðarlitur"
+        ]
+      },
+      "👩🏼‍🍼": {
+        "default": [
+          "fløska",
+          "geva fløsku",
+          "mamma",
+          "miðalljósur húðarlitur",
+          "móður",
+          "pinkubarn"
+        ],
+        "tts": [
+          "kvinna gevur fløsku: miðalljósur húðarlitur"
+        ]
+      },
+      "👩🏽‍🍼": {
+        "default": [
+          "fløska",
+          "geva fløsku",
+          "mamma",
+          "miðal húðarlitur",
+          "móður",
+          "pinkubarn"
+        ],
+        "tts": [
+          "kvinna gevur fløsku: miðal húðarlitur"
+        ]
+      },
+      "👩🏾‍🍼": {
+        "default": [
+          "fløska",
+          "geva fløsku",
+          "mamma",
+          "miðalmyrkur húðarlitur",
+          "móður",
+          "pinkubarn"
+        ],
+        "tts": [
+          "kvinna gevur fløsku: miðalmyrkur húðarlitur"
+        ]
+      },
+      "👩🏿‍🍼": {
+        "default": [
+          "fløska",
+          "geva fløsku",
+          "mamma",
+          "móður",
+          "myrkur húðarlitur",
+          "pinkubarn"
+        ],
+        "tts": [
+          "kvinna gevur fløsku: myrkur húðarlitur"
+        ]
+      },
+      "👨🏻‍🍼": {
+        "default": [
+          "babba",
+          "faðir",
+          "fløska",
+          "ljósur húðarlitur",
+          "maður gevur fløsku",
+          "pinkubarn"
+        ],
+        "tts": [
+          "maður gevur fløsku: ljósur húðarlitur"
+        ]
+      },
+      "👨🏼‍🍼": {
+        "default": [
+          "babba",
+          "faðir",
+          "fløska",
+          "maður gevur fløsku",
+          "miðalljósur húðarlitur",
+          "pinkubarn"
+        ],
+        "tts": [
+          "maður gevur fløsku: miðalljósur húðarlitur"
+        ]
+      },
+      "👨🏽‍🍼": {
+        "default": [
+          "babba",
+          "faðir",
+          "fløska",
+          "maður gevur fløsku",
+          "miðal húðarlitur",
+          "pinkubarn"
+        ],
+        "tts": [
+          "maður gevur fløsku: miðal húðarlitur"
+        ]
+      },
+      "👨🏾‍🍼": {
+        "default": [
+          "babba",
+          "faðir",
+          "fløska",
+          "maður gevur fløsku",
+          "miðalmyrkur húðarlitur",
+          "pinkubarn"
+        ],
+        "tts": [
+          "maður gevur fløsku: miðalmyrkur húðarlitur"
+        ]
+      },
+      "👨🏿‍🍼": {
+        "default": [
+          "babba",
+          "faðir",
+          "fløska",
+          "maður gevur fløsku",
+          "myrkur húðarlitur",
+          "pinkubarn"
+        ],
+        "tts": [
+          "maður gevur fløsku: myrkur húðarlitur"
+        ]
+      },
+      "🧑🏻‍🍼": {
+        "default": [
+          "fløska",
+          "ljósur húðarlitur",
+          "persónur",
+          "persónur gevur fløsku",
+          "pinkubarn"
+        ],
+        "tts": [
+          "persónur gevur fløsku: ljósur húðarlitur"
+        ]
+      },
+      "🧑🏼‍🍼": {
+        "default": [
+          "fløska",
+          "miðalljósur húðarlitur",
+          "persónur",
+          "persónur gevur fløsku",
+          "pinkubarn"
+        ],
+        "tts": [
+          "persónur gevur fløsku: miðalljósur húðarlitur"
+        ]
+      },
+      "🧑🏽‍🍼": {
+        "default": [
+          "fløska",
+          "miðal húðarlitur",
+          "persónur",
+          "persónur gevur fløsku",
+          "pinkubarn"
+        ],
+        "tts": [
+          "persónur gevur fløsku: miðal húðarlitur"
+        ]
+      },
+      "🧑🏾‍🍼": {
+        "default": [
+          "fløska",
+          "miðalmyrkur húðarlitur",
+          "persónur",
+          "persónur gevur fløsku",
+          "pinkubarn"
+        ],
+        "tts": [
+          "persónur gevur fløsku: miðalmyrkur húðarlitur"
+        ]
+      },
+      "🧑🏿‍🍼": {
+        "default": [
+          "fløska",
+          "myrkur húðarlitur",
+          "persónur",
+          "persónur gevur fløsku",
+          "pinkubarn"
+        ],
+        "tts": [
+          "persónur gevur fløsku: myrkur húðarlitur"
         ]
       },
       "👼🏻": {
@@ -13912,6 +14889,61 @@
         ],
         "tts": [
           "jólakonan: myrkur húðarlitur"
+        ]
+      },
+      "🧑🏻‍🎄": {
+        "default": [
+          "fólk",
+          "jól",
+          "ljósur húðarlitur",
+          "persónur"
+        ],
+        "tts": [
+          "jólafólk: ljósur húðarlitur"
+        ]
+      },
+      "🧑🏼‍🎄": {
+        "default": [
+          "fólk",
+          "jól",
+          "miðalljósur húðarlitur",
+          "persónur"
+        ],
+        "tts": [
+          "jólafólk: miðalljósur húðarlitur"
+        ]
+      },
+      "🧑🏽‍🎄": {
+        "default": [
+          "fólk",
+          "jól",
+          "miðal húðarlitur",
+          "persónur"
+        ],
+        "tts": [
+          "jólafólk: miðal húðarlitur"
+        ]
+      },
+      "🧑🏾‍🎄": {
+        "default": [
+          "fólk",
+          "jól",
+          "miðalmyrkur húðarlitur",
+          "persónur"
+        ],
+        "tts": [
+          "jólafólk: miðalmyrkur húðarlitur"
+        ]
+      },
+      "🧑🏿‍🎄": {
+        "default": [
+          "fólk",
+          "jól",
+          "myrkur húðarlitur",
+          "persónur"
+        ],
+        "tts": [
+          "jólafólk: myrkur húðarlitur"
         ]
       },
       "🦸🏻": {
@@ -15839,6 +16871,285 @@
           "kvinna sum gongur: myrkur húðarlitur"
         ]
       },
+      "🚶‍➡": {
+        "default": [
+          "fólk",
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "persónur",
+          "persónur sum gongur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "persónur sum gongur: til høgru"
+        ]
+      },
+      "🚶🏻‍➡": {
+        "default": [
+          "fólk",
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "ljósur húðarlitur",
+          "persónur",
+          "persónur sum gongur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "persónur sum gongur: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "🚶🏼‍➡": {
+        "default": [
+          "fólk",
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "miðalljósur húðarlitur",
+          "persónur",
+          "persónur sum gongur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "persónur sum gongur: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "🚶🏽‍➡": {
+        "default": [
+          "fólk",
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "miðal húðarlitur",
+          "persónur",
+          "persónur sum gongur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "persónur sum gongur: miðal húðarlitur, til høgru"
+        ]
+      },
+      "🚶🏾‍➡": {
+        "default": [
+          "fólk",
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "miðalmyrkur húðarlitur",
+          "persónur",
+          "persónur sum gongur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "persónur sum gongur: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "🚶🏿‍➡": {
+        "default": [
+          "fólk",
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "myrkur húðarlitur",
+          "persónur",
+          "persónur sum gongur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "persónur sum gongur: myrkur húðarlitur, til høgru"
+        ]
+      },
+      "🚶‍♀‍➡": {
+        "default": [
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "kona",
+          "kvinna",
+          "kvinna sum gongur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "kvinna sum gongur: til høgru"
+        ]
+      },
+      "🚶🏻‍♀‍➡": {
+        "default": [
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "kona",
+          "kvinna",
+          "kvinna sum gongur",
+          "ljósur húðarlitur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "kvinna sum gongur: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "🚶🏼‍♀‍➡": {
+        "default": [
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "kona",
+          "kvinna",
+          "kvinna sum gongur",
+          "miðalljósur húðarlitur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "kvinna sum gongur: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "🚶🏽‍♀‍➡": {
+        "default": [
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "kona",
+          "kvinna",
+          "kvinna sum gongur",
+          "miðal húðarlitur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "kvinna sum gongur: miðal húðarlitur, til høgru"
+        ]
+      },
+      "🚶🏾‍♀‍➡": {
+        "default": [
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "kona",
+          "kvinna",
+          "kvinna sum gongur",
+          "miðalmyrkur húðarlitur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "kvinna sum gongur: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "🚶🏿‍♀‍➡": {
+        "default": [
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "kona",
+          "kvinna",
+          "kvinna sum gongur",
+          "myrkur húðarlitur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "kvinna sum gongur: myrkur húðarlitur, til høgru"
+        ]
+      },
+      "🚶‍♂‍➡": {
+        "default": [
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "maður",
+          "maður sum gongur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "maður sum gongur: til høgru"
+        ]
+      },
+      "🚶🏻‍♂‍➡": {
+        "default": [
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "ljósur húðarlitur",
+          "maður",
+          "maður sum gongur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "maður sum gongur: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "🚶🏼‍♂‍➡": {
+        "default": [
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "maður",
+          "maður sum gongur",
+          "miðalljósur húðarlitur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "maður sum gongur: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "🚶🏽‍♂‍➡": {
+        "default": [
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "maður",
+          "maður sum gongur",
+          "miðal húðarlitur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "maður sum gongur: miðal húðarlitur, til høgru"
+        ]
+      },
+      "🚶🏾‍♂‍➡": {
+        "default": [
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "maður",
+          "maður sum gongur",
+          "miðalmyrkur húðarlitur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "maður sum gongur: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "🚶🏿‍♂‍➡": {
+        "default": [
+          "gongur",
+          "gongutúr",
+          "høgru",
+          "maður",
+          "maður sum gongur",
+          "myrkur húðarlitur",
+          "til",
+          "til gongu"
+        ],
+        "tts": [
+          "maður sum gongur: myrkur húðarlitur, til høgru"
+        ]
+      },
       "🧍🏻": {
         "default": [
           "ljósur húðarlitur",
@@ -16194,6 +17505,261 @@
           "kvinna á knæ: myrkur húðarlitur"
         ]
       },
+      "🧎‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "persónur",
+          "persónur á knæ",
+          "til"
+        ],
+        "tts": [
+          "persónur á knæ: til høgru"
+        ]
+      },
+      "🧎🏻‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "ljósur húðarlitur",
+          "persónur",
+          "persónur á knæ",
+          "til"
+        ],
+        "tts": [
+          "persónur á knæ: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "🧎🏼‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "miðalljósur húðarlitur",
+          "persónur",
+          "persónur á knæ",
+          "til"
+        ],
+        "tts": [
+          "persónur á knæ: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "🧎🏽‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "miðal húðarlitur",
+          "persónur",
+          "persónur á knæ",
+          "til"
+        ],
+        "tts": [
+          "persónur á knæ: miðal húðarlitur, til høgru"
+        ]
+      },
+      "🧎🏾‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "miðalmyrkur húðarlitur",
+          "persónur",
+          "persónur á knæ",
+          "til"
+        ],
+        "tts": [
+          "persónur á knæ: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "🧎🏿‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "myrkur húðarlitur",
+          "persónur",
+          "persónur á knæ",
+          "til"
+        ],
+        "tts": [
+          "persónur á knæ: myrkur húðarlitur, til høgru"
+        ]
+      },
+      "🧎‍♀‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "kona",
+          "kvinna",
+          "kvinna á knæ",
+          "til"
+        ],
+        "tts": [
+          "kvinna á knæ: til høgru"
+        ]
+      },
+      "🧎🏻‍♀‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "kona",
+          "kvinna",
+          "kvinna á knæ",
+          "ljósur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "kvinna á knæ: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "🧎🏼‍♀‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "kona",
+          "kvinna",
+          "kvinna á knæ",
+          "miðalljósur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "kvinna á knæ: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "🧎🏽‍♀‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "kona",
+          "kvinna",
+          "kvinna á knæ",
+          "miðal húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "kvinna á knæ: miðal húðarlitur, til høgru"
+        ]
+      },
+      "🧎🏾‍♀‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "kona",
+          "kvinna",
+          "kvinna á knæ",
+          "miðalmyrkur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "kvinna á knæ: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "🧎🏿‍♀‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "kona",
+          "kvinna",
+          "kvinna á knæ",
+          "myrkur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "kvinna á knæ: myrkur húðarlitur, til høgru"
+        ]
+      },
+      "🧎‍♂‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "maður",
+          "maður á knæ",
+          "til"
+        ],
+        "tts": [
+          "maður á knæ: til høgru"
+        ]
+      },
+      "🧎🏻‍♂‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "ljósur húðarlitur",
+          "maður",
+          "maður á knæ",
+          "til"
+        ],
+        "tts": [
+          "maður á knæ: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "🧎🏼‍♂‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "maður",
+          "maður á knæ",
+          "miðalljósur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "maður á knæ: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "🧎🏽‍♂‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "maður",
+          "maður á knæ",
+          "miðal húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "maður á knæ: miðal húðarlitur, til høgru"
+        ]
+      },
+      "🧎🏾‍♂‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "maður",
+          "maður á knæ",
+          "miðalmyrkur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "maður á knæ: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "🧎🏿‍♂‍➡": {
+        "default": [
+          "á knæ",
+          "høgru",
+          "knæ",
+          "maður",
+          "maður á knæ",
+          "myrkur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "maður á knæ: myrkur húðarlitur, til høgru"
+        ]
+      },
       "🧑🏻‍🦯": {
         "default": [
           "blind",
@@ -16264,6 +17830,101 @@
           "persónur við blindastavi: myrkur húðarlitur"
         ]
       },
+      "🧑‍🦯‍➡": {
+        "default": [
+          "blind",
+          "blindastavur",
+          "blindur",
+          "høgru",
+          "persónur",
+          "persónur við blindastavi",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "persónur við blindastavi: til høgru"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "blind",
+          "blindastavur",
+          "blindur",
+          "høgru",
+          "ljósur húðarlitur",
+          "persónur",
+          "persónur við blindastavi",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "persónur við blindastavi: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "🧑🏼‍🦯‍➡": {
+        "default": [
+          "blind",
+          "blindastavur",
+          "blindur",
+          "høgru",
+          "miðalljósur húðarlitur",
+          "persónur",
+          "persónur við blindastavi",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "persónur við blindastavi: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "blind",
+          "blindastavur",
+          "blindur",
+          "høgru",
+          "miðal húðarlitur",
+          "persónur",
+          "persónur við blindastavi",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "persónur við blindastavi: miðal húðarlitur, til høgru"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "blind",
+          "blindastavur",
+          "blindur",
+          "høgru",
+          "miðalmyrkur húðarlitur",
+          "persónur",
+          "persónur við blindastavi",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "persónur við blindastavi: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "blind",
+          "blindastavur",
+          "blindur",
+          "høgru",
+          "myrkur húðarlitur",
+          "persónur",
+          "persónur við blindastavi",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "persónur við blindastavi: myrkur húðarlitur, til høgru"
+        ]
+      },
       "👨🏻‍🦯": {
         "default": [
           "blindastavur",
@@ -16327,6 +17988,95 @@
         ],
         "tts": [
           "maður við blindastavi: myrkur húðarlitur"
+        ]
+      },
+      "👨‍🦯‍➡": {
+        "default": [
+          "blindastavur",
+          "blindur",
+          "høgru",
+          "maður",
+          "maður við blindastavi",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "maður við blindastavi: til høgru"
+        ]
+      },
+      "👨🏻‍🦯‍➡": {
+        "default": [
+          "blindastavur",
+          "blindur",
+          "høgru",
+          "ljósur húðarlitur",
+          "maður",
+          "maður við blindastavi",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "maður við blindastavi: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "👨🏼‍🦯‍➡": {
+        "default": [
+          "blindastavur",
+          "blindur",
+          "høgru",
+          "maður",
+          "maður við blindastavi",
+          "miðalljósur húðarlitur",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "maður við blindastavi: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "👨🏽‍🦯‍➡": {
+        "default": [
+          "blindastavur",
+          "blindur",
+          "høgru",
+          "maður",
+          "maður við blindastavi",
+          "miðal húðarlitur",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "maður við blindastavi: miðal húðarlitur, til høgru"
+        ]
+      },
+      "👨🏾‍🦯‍➡": {
+        "default": [
+          "blindastavur",
+          "blindur",
+          "høgru",
+          "maður",
+          "maður við blindastavi",
+          "miðalmyrkur húðarlitur",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "maður við blindastavi: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "👨🏿‍🦯‍➡": {
+        "default": [
+          "blindastavur",
+          "blindur",
+          "høgru",
+          "maður",
+          "maður við blindastavi",
+          "myrkur húðarlitur",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "maður við blindastavi: myrkur húðarlitur, til høgru"
         ]
       },
       "👩🏻‍🦯": {
@@ -16399,6 +18149,101 @@
           "kvinna við blindastavi: myrkur húðarlitur"
         ]
       },
+      "👩‍🦯‍➡": {
+        "default": [
+          "blind",
+          "blindastavur",
+          "høgru",
+          "kona",
+          "kvinna",
+          "kvinna við blindastavi",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "kvinna við blindastavi: til høgru"
+        ]
+      },
+      "👩🏻‍🦯‍➡": {
+        "default": [
+          "blind",
+          "blindastavur",
+          "høgru",
+          "kona",
+          "kvinna",
+          "kvinna við blindastavi",
+          "ljósur húðarlitur",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "kvinna við blindastavi: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "👩🏼‍🦯‍➡": {
+        "default": [
+          "blind",
+          "blindastavur",
+          "høgru",
+          "kona",
+          "kvinna",
+          "kvinna við blindastavi",
+          "miðalljósur húðarlitur",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "kvinna við blindastavi: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "👩🏽‍🦯‍➡": {
+        "default": [
+          "blind",
+          "blindastavur",
+          "høgru",
+          "kona",
+          "kvinna",
+          "kvinna við blindastavi",
+          "miðal húðarlitur",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "kvinna við blindastavi: miðal húðarlitur, til høgru"
+        ]
+      },
+      "👩🏾‍🦯‍➡": {
+        "default": [
+          "blind",
+          "blindastavur",
+          "høgru",
+          "kona",
+          "kvinna",
+          "kvinna við blindastavi",
+          "miðalmyrkur húðarlitur",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "kvinna við blindastavi: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "👩🏿‍🦯‍➡": {
+        "default": [
+          "blind",
+          "blindastavur",
+          "høgru",
+          "kona",
+          "kvinna",
+          "kvinna við blindastavi",
+          "myrkur húðarlitur",
+          "stavur",
+          "til"
+        ],
+        "tts": [
+          "kvinna við blindastavi: myrkur húðarlitur, til høgru"
+        ]
+      },
       "🧑🏻‍🦼": {
         "default": [
           "koyristólur",
@@ -16459,6 +18304,89 @@
           "persónur í motorkoyristóli: myrkur húðarlitur"
         ]
       },
+      "🧑‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "motorkoyristólur",
+          "persónur",
+          "persónur í motorkoyristóli",
+          "til"
+        ],
+        "tts": [
+          "persónur í motorkoyristóli: til høgru"
+        ]
+      },
+      "🧑🏻‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "ljósur húðarlitur",
+          "motorkoyristólur",
+          "persónur",
+          "persónur í motorkoyristóli",
+          "til"
+        ],
+        "tts": [
+          "persónur í motorkoyristóli: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "🧑🏼‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "miðalljósur húðarlitur",
+          "motorkoyristólur",
+          "persónur",
+          "persónur í motorkoyristóli",
+          "til"
+        ],
+        "tts": [
+          "persónur í motorkoyristóli: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "🧑🏽‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "miðal húðarlitur",
+          "motorkoyristólur",
+          "persónur",
+          "persónur í motorkoyristóli",
+          "til"
+        ],
+        "tts": [
+          "persónur í motorkoyristóli: miðal húðarlitur, til høgru"
+        ]
+      },
+      "🧑🏾‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "miðalmyrkur húðarlitur",
+          "motorkoyristólur",
+          "persónur",
+          "persónur í motorkoyristóli",
+          "til"
+        ],
+        "tts": [
+          "persónur í motorkoyristóli: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "🧑🏿‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "motorkoyristólur",
+          "myrkur húðarlitur",
+          "persónur",
+          "persónur í motorkoyristóli",
+          "til"
+        ],
+        "tts": [
+          "persónur í motorkoyristóli: myrkur húðarlitur, til høgru"
+        ]
+      },
       "👨🏻‍🦼": {
         "default": [
           "koyristólur",
@@ -16517,6 +18445,89 @@
         ],
         "tts": [
           "maður í motorkoyristóli: myrkur húðarlitur"
+        ]
+      },
+      "👨‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "maður",
+          "maður í motorkoyristóli",
+          "motorkoyristólur",
+          "til"
+        ],
+        "tts": [
+          "maður í motorkoyristóli: til høgru"
+        ]
+      },
+      "👨🏻‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "ljósur húðarlitur",
+          "maður",
+          "maður í motorkoyristóli",
+          "motorkoyristólur",
+          "til"
+        ],
+        "tts": [
+          "maður í motorkoyristóli: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "👨🏼‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "maður",
+          "maður í motorkoyristóli",
+          "miðalljósur húðarlitur",
+          "motorkoyristólur",
+          "til"
+        ],
+        "tts": [
+          "maður í motorkoyristóli: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "👨🏽‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "maður",
+          "maður í motorkoyristóli",
+          "miðal húðarlitur",
+          "motorkoyristólur",
+          "til"
+        ],
+        "tts": [
+          "maður í motorkoyristóli: miðal húðarlitur, til høgru"
+        ]
+      },
+      "👨🏾‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "maður",
+          "maður í motorkoyristóli",
+          "miðalmyrkur húðarlitur",
+          "motorkoyristólur",
+          "til"
+        ],
+        "tts": [
+          "maður í motorkoyristóli: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "👨🏿‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "maður",
+          "maður í motorkoyristóli",
+          "motorkoyristólur",
+          "myrkur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "maður í motorkoyristóli: myrkur húðarlitur, til høgru"
         ]
       },
       "👩🏻‍🦼": {
@@ -16584,6 +18595,95 @@
           "kvinna í motorkoyristóli: myrkur húðarlitur"
         ]
       },
+      "👩‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "kona",
+          "koyristólur",
+          "kvinna",
+          "kvinna í motorkoyristóli",
+          "motorkoyristólur",
+          "til"
+        ],
+        "tts": [
+          "kvinna í motorkoyristóli: til høgru"
+        ]
+      },
+      "👩🏻‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "kona",
+          "koyristólur",
+          "kvinna",
+          "kvinna í motorkoyristóli",
+          "ljósur húðarlitur",
+          "motorkoyristólur",
+          "til"
+        ],
+        "tts": [
+          "kvinna í motorkoyristóli: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "👩🏼‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "kona",
+          "koyristólur",
+          "kvinna",
+          "kvinna í motorkoyristóli",
+          "miðalljósur húðarlitur",
+          "motorkoyristólur",
+          "til"
+        ],
+        "tts": [
+          "kvinna í motorkoyristóli: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "👩🏽‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "kona",
+          "koyristólur",
+          "kvinna",
+          "kvinna í motorkoyristóli",
+          "miðal húðarlitur",
+          "motorkoyristólur",
+          "til"
+        ],
+        "tts": [
+          "kvinna í motorkoyristóli: miðal húðarlitur, til høgru"
+        ]
+      },
+      "👩🏾‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "kona",
+          "koyristólur",
+          "kvinna",
+          "kvinna í motorkoyristóli",
+          "miðalmyrkur húðarlitur",
+          "motorkoyristólur",
+          "til"
+        ],
+        "tts": [
+          "kvinna í motorkoyristóli: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "👩🏿‍🦼‍➡": {
+        "default": [
+          "høgru",
+          "kona",
+          "koyristólur",
+          "kvinna",
+          "kvinna í motorkoyristóli",
+          "motorkoyristólur",
+          "myrkur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "kvinna í motorkoyristóli: myrkur húðarlitur, til høgru"
+        ]
+      },
       "🧑🏻‍🦽": {
         "default": [
           "koyristólur",
@@ -16639,6 +18739,83 @@
           "persónur í koyristóli: myrkur húðarlitur"
         ]
       },
+      "🧑‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "persónur",
+          "persónur í koyristóli",
+          "til"
+        ],
+        "tts": [
+          "persónur í koyristóli: til høgru"
+        ]
+      },
+      "🧑🏻‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "ljósur húðarlitur",
+          "persónur",
+          "persónur í koyristóli",
+          "til"
+        ],
+        "tts": [
+          "persónur í koyristóli: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "🧑🏼‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "miðalljósur húðarlitur",
+          "persónur",
+          "persónur í koyristóli",
+          "til"
+        ],
+        "tts": [
+          "persónur í koyristóli: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "🧑🏽‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "miðal húðarlitur",
+          "persónur",
+          "persónur í koyristóli",
+          "til"
+        ],
+        "tts": [
+          "persónur í koyristóli: miðal húðarlitur, til høgru"
+        ]
+      },
+      "🧑🏾‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "miðalmyrkur húðarlitur",
+          "persónur",
+          "persónur í koyristóli",
+          "til"
+        ],
+        "tts": [
+          "persónur í koyristóli: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "🧑🏿‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "myrkur húðarlitur",
+          "persónur",
+          "persónur í koyristóli",
+          "til"
+        ],
+        "tts": [
+          "persónur í koyristóli: myrkur húðarlitur, til høgru"
+        ]
+      },
       "👨🏻‍🦽": {
         "default": [
           "koyristólur",
@@ -16692,6 +18869,83 @@
         ],
         "tts": [
           "maður í koyristóli: myrkur húðarlitur"
+        ]
+      },
+      "👨‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "maður",
+          "maður í koyristóli",
+          "til"
+        ],
+        "tts": [
+          "maður í koyristóli: til høgru"
+        ]
+      },
+      "👨🏻‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "ljósur húðarlitur",
+          "maður",
+          "maður í koyristóli",
+          "til"
+        ],
+        "tts": [
+          "maður í koyristóli: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "👨🏼‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "maður",
+          "maður í koyristóli",
+          "miðalljósur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "maður í koyristóli: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "👨🏽‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "maður",
+          "maður í koyristóli",
+          "miðal húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "maður í koyristóli: miðal húðarlitur, til høgru"
+        ]
+      },
+      "👨🏾‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "maður",
+          "maður í koyristóli",
+          "miðalmyrkur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "maður í koyristóli: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "👨🏿‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "koyristólur",
+          "maður",
+          "maður í koyristóli",
+          "myrkur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "maður í koyristóli: myrkur húðarlitur, til høgru"
         ]
       },
       "👩🏻‍🦽": {
@@ -16752,6 +19006,89 @@
         ],
         "tts": [
           "kvinna í koyristóli: myrkur húðarlitur"
+        ]
+      },
+      "👩‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "kona",
+          "koyristólur",
+          "kvinna",
+          "kvinna í koyristóli",
+          "til"
+        ],
+        "tts": [
+          "kvinna í koyristóli: til høgru"
+        ]
+      },
+      "👩🏻‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "kona",
+          "koyristólur",
+          "kvinna",
+          "kvinna í koyristóli",
+          "ljósur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "kvinna í koyristóli: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "👩🏼‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "kona",
+          "koyristólur",
+          "kvinna",
+          "kvinna í koyristóli",
+          "miðalljósur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "kvinna í koyristóli: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "👩🏽‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "kona",
+          "koyristólur",
+          "kvinna",
+          "kvinna í koyristóli",
+          "miðal húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "kvinna í koyristóli: miðal húðarlitur, til høgru"
+        ]
+      },
+      "👩🏾‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "kona",
+          "koyristólur",
+          "kvinna",
+          "kvinna í koyristóli",
+          "miðalmyrkur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "kvinna í koyristóli: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "👩🏿‍🦽‍➡": {
+        "default": [
+          "høgru",
+          "kona",
+          "koyristólur",
+          "kvinna",
+          "kvinna í koyristóli",
+          "myrkur húðarlitur",
+          "til"
+        ],
+        "tts": [
+          "kvinna í koyristóli: myrkur húðarlitur, til høgru"
         ]
       },
       "🏃🏻": {
@@ -16952,6 +19289,279 @@
         ],
         "tts": [
           "kvinna sum rennur: myrkur húðarlitur"
+        ]
+      },
+      "🏃‍➡": {
+        "default": [
+          "fólk",
+          "høgru",
+          "maraton",
+          "persónur",
+          "persónur sum rennur",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "persónur sum rennur: til høgru"
+        ]
+      },
+      "🏃🏻‍➡": {
+        "default": [
+          "fólk",
+          "høgru",
+          "ljósur húðarlitur",
+          "maraton",
+          "persónur",
+          "persónur sum rennur",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "persónur sum rennur: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "🏃🏼‍➡": {
+        "default": [
+          "fólk",
+          "høgru",
+          "maraton",
+          "miðalljósur húðarlitur",
+          "persónur",
+          "persónur sum rennur",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "persónur sum rennur: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "🏃🏽‍➡": {
+        "default": [
+          "fólk",
+          "høgru",
+          "maraton",
+          "miðal húðarlitur",
+          "persónur",
+          "persónur sum rennur",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "persónur sum rennur: miðal húðarlitur, til høgru"
+        ]
+      },
+      "🏃🏾‍➡": {
+        "default": [
+          "fólk",
+          "høgru",
+          "maraton",
+          "miðalmyrkur húðarlitur",
+          "persónur",
+          "persónur sum rennur",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "persónur sum rennur: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "🏃🏿‍➡": {
+        "default": [
+          "fólk",
+          "høgru",
+          "maraton",
+          "myrkur húðarlitur",
+          "persónur",
+          "persónur sum rennur",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "persónur sum rennur: myrkur húðarlitur, til høgru"
+        ]
+      },
+      "🏃‍♀‍➡": {
+        "default": [
+          "høgru",
+          "kvinna",
+          "kvinna sum rennur",
+          "maraton",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "kvinna sum rennur: til høgru"
+        ]
+      },
+      "🏃🏻‍♀‍➡": {
+        "default": [
+          "høgru",
+          "kvinna",
+          "kvinna sum rennur",
+          "ljósur húðarlitur",
+          "maraton",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "kvinna sum rennur: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "🏃🏼‍♀‍➡": {
+        "default": [
+          "høgru",
+          "kvinna",
+          "kvinna sum rennur",
+          "maraton",
+          "miðalljósur húðarlitur",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "kvinna sum rennur: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "🏃🏽‍♀‍➡": {
+        "default": [
+          "høgru",
+          "kvinna",
+          "kvinna sum rennur",
+          "maraton",
+          "miðal húðarlitur",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "kvinna sum rennur: miðal húðarlitur, til høgru"
+        ]
+      },
+      "🏃🏾‍♀‍➡": {
+        "default": [
+          "høgru",
+          "kvinna",
+          "kvinna sum rennur",
+          "maraton",
+          "miðalmyrkur húðarlitur",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "kvinna sum rennur: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "🏃🏿‍♀‍➡": {
+        "default": [
+          "høgru",
+          "kvinna",
+          "kvinna sum rennur",
+          "maraton",
+          "myrkur húðarlitur",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "kvinna sum rennur: myrkur húðarlitur, til høgru"
+        ]
+      },
+      "🏃‍♂‍➡": {
+        "default": [
+          "høgru",
+          "maður",
+          "maður sum rennur",
+          "maraton",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "maður sum rennur: til høgru"
+        ]
+      },
+      "🏃🏻‍♂‍➡": {
+        "default": [
+          "høgru",
+          "ljósur húðarlitur",
+          "maður",
+          "maður sum rennur",
+          "maraton",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "maður sum rennur: ljósur húðarlitur, til høgru"
+        ]
+      },
+      "🏃🏼‍♂‍➡": {
+        "default": [
+          "høgru",
+          "maður",
+          "maður sum rennur",
+          "maraton",
+          "miðalljósur húðarlitur",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "maður sum rennur: miðalljósur húðarlitur, til høgru"
+        ]
+      },
+      "🏃🏽‍♂‍➡": {
+        "default": [
+          "høgru",
+          "maður",
+          "maður sum rennur",
+          "maraton",
+          "miðal húðarlitur",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "maður sum rennur: miðal húðarlitur, til høgru"
+        ]
+      },
+      "🏃🏾‍♂‍➡": {
+        "default": [
+          "høgru",
+          "maður",
+          "maður sum rennur",
+          "maraton",
+          "miðalmyrkur húðarlitur",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "maður sum rennur: miðalmyrkur húðarlitur, til høgru"
+        ]
+      },
+      "🏃🏿‍♂‍➡": {
+        "default": [
+          "høgru",
+          "maður",
+          "maður sum rennur",
+          "maraton",
+          "myrkur húðarlitur",
+          "renn",
+          "rennur",
+          "til"
+        ],
+        "tts": [
+          "maður sum rennur: myrkur húðarlitur, til høgru"
         ]
       },
       "💃🏻": {
@@ -22655,6 +25265,14 @@
           "Flagg: Clipperton"
         ]
       },
+      "🇨🇶": {
+        "default": [
+          "Flagg"
+        ],
+        "tts": [
+          "Flagg: Sark"
+        ]
+      },
       "🇨🇷": {
         "default": [
           "Flagg"
@@ -24313,7 +26931,7 @@
       },
       "¤": {
         "tts": [
-          "ókent gjaldoyra"
+          "Ókent gjaldoyra"
         ]
       },
       "֏": {

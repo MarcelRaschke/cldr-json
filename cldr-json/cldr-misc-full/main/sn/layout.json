@@ -2,9 +2,6 @@
   "main": {
     "sn": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sn"
       },
       "layout": {

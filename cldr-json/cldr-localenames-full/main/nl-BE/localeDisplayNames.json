@@ -2,9 +2,6 @@
   "main": {
     "nl-BE": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "nl",
         "territory": "BE"
       },
@@ -13,6 +10,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Engeland",
+          "gbsct": "Schotland",
+          "gbwls": "Wales"
         },
         "keys": {
           "calendar": "kalender",
@@ -87,7 +89,6 @@
             "phonebook": "Telefoonboeksorteervolgorde",
             "phonetic": "Fonetische sorteervolgorde",
             "pinyin": "Pinyinsorteervolgorde",
-            "reformed": "Herziene sorteervolgorde",
             "search": "algemeen zoeken",
             "searchjl": "Zoeken op eerste Hangul-medeklinker",
             "standard": "standaard sorteervolgorde",

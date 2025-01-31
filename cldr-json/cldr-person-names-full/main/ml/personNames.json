@@ -2,9 +2,6 @@
   "main": {
     "ml": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ml"
       },
       "personNames": {
@@ -13,14 +10,15 @@
           "ml"
         ],
         "surnameFirst": [
+          "ja",
           "ko",
-          "si",
-          "ta",
-          "te",
           "vi",
           "yue",
           "zh"
         ],
+        "formality": "informal",
+        "length": "medium",
+        "nativeSpaceReplacement": " ",
         "foreignSpaceReplacement": " ",
         "initial": "{0}.",
         "initialSequence": "{0} {1}",
@@ -28,11 +26,11 @@
           "givenFirst": {
             "long": {
               "referring": {
-                "formal": "{given} {given2} {surname} {suffix}",
+                "formal": "{given} {given2} {surname} {credentials}",
                 "informal": "{given-informal} {surname}"
               },
               "addressing": {
-                "formal": "{prefix} {surname}",
+                "formal": "{title} {surname}",
                 "informal": "{given-informal}"
               },
               "monogram": {
@@ -42,11 +40,11 @@
             },
             "medium": {
               "referring": {
-                "formal": "{given} {given2-initial} {surname} {suffix}",
+                "formal": "{given} {given2-initial} {surname} {credentials}",
                 "informal": "{given-informal} {surname}"
               },
               "addressing": {
-                "formal": "{prefix} {surname}",
+                "formal": "{title} {surname}",
                 "informal": "{given-informal}"
               },
               "monogram": {
@@ -60,7 +58,7 @@
                 "informal": "{given-informal} {surname-initial}"
               },
               "addressing": {
-                "formal": "{prefix} {surname}",
+                "formal": "{title} {surname}",
                 "informal": "{given-informal}"
               },
               "monogram": {
@@ -72,11 +70,11 @@
           "surnameFirst": {
             "long": {
               "referring": {
-                "formal": "{surname} {given} {given2} {suffix}",
+                "formal": "{surname} {title} {given} {given2} {generation}, {credentials}",
                 "informal": "{surname} {given-informal}"
               },
               "addressing": {
-                "formal": "{prefix} {surname}",
+                "formal": "{title} {surname}",
                 "informal": "{given-informal}"
               },
               "monogram": {
@@ -86,11 +84,11 @@
             },
             "medium": {
               "referring": {
-                "formal": "{surname} {given} {given2-initial} {suffix}",
+                "formal": "{surname} {given} {given2-initial} {credentials}",
                 "informal": "{surname} {given-informal}"
               },
               "addressing": {
-                "formal": "{prefix} {surname}",
+                "formal": "{title} {surname}",
                 "informal": "{given-informal}"
               },
               "monogram": {
@@ -104,7 +102,7 @@
                 "informal": "{surname} {given-initial}"
               },
               "addressing": {
-                "formal": "{prefix} {surname}",
+                "formal": "{title} {surname}",
                 "informal": "{given-informal}"
               },
               "monogram": {
@@ -135,27 +133,49 @@
           }
         },
         "sampleName": {
-          "givenOnly": {
-            "given": "സിൻബാഡ്"
+          "nativeG": {
+            "given": "ദീപ"
           },
-          "givenSurnameOnly": {
-            "given": "ഐറീൻ",
-            "surname": "ആഡ്‌ലർ"
+          "nativeGS": {
+            "given": "അശ്വതി",
+            "surname": "നായർ"
           },
-          "given12Surname": {
+          "nativeGGS": {
             "given": "ജോൺ",
             "given2": "ചാണ്ടി",
             "surname": "പടവീട്ടിൽ"
           },
-          "full": {
-            "prefix": "പ്രൊഫ. ഡോ.",
+          "nativeFull": {
+            "title": "ശ്രീ.",
+            "given": "തോമസ് കുരുവിള",
+            "given-informal": "ടോമിച്ചൻ",
+            "given2": "അന്തോണി",
+            "surname-core": "കറുവാപ്പറമ്പിൽ",
+            "generation": "ജൂനിയർ",
+            "credentials": "എംപി"
+          },
+          "foreignG": {
+            "given": "സിൻബാദ്"
+          },
+          "foreignGS": {
+            "given": "കാത്തി",
+            "surname": "മുള്ളർ"
+          },
+          "foreignGGS": {
+            "given": "സസിലിയ",
+            "given2": "ഹാമിഷ്",
+            "surname": "സ്‌റ്റോബർ"
+          },
+          "foreignFull": {
+            "title": "പ്രൊഫ. ഡോ.",
             "given": "എയ്‌ഡ കോർണീലിയ",
             "given-informal": "നീൽ",
-            "given2": "ഇവ സോഫിയ",
-            "surname-prefix": "വാൻ ഡെൻ",
-            "surname-core": "വൂൾഫ്",
-            "surname2": "ബേക്കർ ഷ്മിത്ത്",
-            "suffix": "എം.ഡി. പിഎച്ച്ഡി."
+            "given2": "സീസ൪ മാ൪ട്ടിൻ",
+            "surname-prefix": "വാൻ",
+            "surname-core": "ബ്ര്യൂൾ",
+            "surname2": "ഗോൺസാലെസ് ഡൊമിംഗോ",
+            "generation": "ജൂനിയർ",
+            "credentials": "എം.ഡി. ഡി.ഡി.എസ്"
           }
         }
       }

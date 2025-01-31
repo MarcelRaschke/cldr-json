@@ -2,9 +2,6 @@
   "main": {
     "pt-CV": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "pt",
         "territory": "CV"
       },
@@ -14,6 +11,8 @@
         "compatibility": "{0} – compatibilidade",
         "enclosed": "{0} – incluso",
         "extended": "{0} – estendido",
+        "facing-left": "{0} de frente para a esquerda",
+        "facing-right": "{0} de frente para a direita",
         "historic": "{0} – histórico",
         "miscellaneous": "{0} – diversos",
         "other": "{0} – outro",

@@ -2,16 +2,13 @@
   "main": {
     "sr": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sr"
       },
       "delimiters": {
         "quotationStart": "„",
-        "quotationEnd": "“",
-        "alternateQuotationStart": "‘",
-        "alternateQuotationEnd": "‘"
+        "quotationEnd": "”",
+        "alternateQuotationStart": "’",
+        "alternateQuotationEnd": "’"
       }
     }
   }

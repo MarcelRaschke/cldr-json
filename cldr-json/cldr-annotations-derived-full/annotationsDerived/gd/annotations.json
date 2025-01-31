@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "gd"
     },
     "annotations": {
@@ -1655,6 +1652,7 @@
       "👈🏻": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh clì",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh clì",
@@ -1670,6 +1668,7 @@
       "👈🏼": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh clì",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh clì",
@@ -1685,6 +1684,7 @@
       "👈🏽": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh clì",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh clì",
@@ -1700,6 +1700,7 @@
       "👈🏾": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh clì",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh clì",
@@ -1715,6 +1716,7 @@
       "👈🏿": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh clì",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh clì",
@@ -1730,6 +1732,7 @@
       "👉🏻": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh deas",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh deas",
@@ -1745,6 +1748,7 @@
       "👉🏼": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh deas",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh deas",
@@ -1760,6 +1764,7 @@
       "👉🏽": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh deas",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh deas",
@@ -1775,6 +1780,7 @@
       "👉🏾": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh deas",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh deas",
@@ -1790,6 +1796,7 @@
       "👉🏿": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh deas",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh deas",
@@ -1805,6 +1812,7 @@
       "👆🏻": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh suas",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh suas",
@@ -1821,6 +1829,7 @@
       "👆🏼": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh suas",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh suas",
@@ -1837,6 +1846,7 @@
       "👆🏽": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh suas",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh suas",
@@ -1853,6 +1863,7 @@
       "👆🏾": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh suas",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh suas",
@@ -1869,6 +1880,7 @@
       "👆🏿": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh suas",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh suas",
@@ -1945,6 +1957,7 @@
       "👇🏻": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh sìos",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh sìos",
@@ -1961,6 +1974,7 @@
       "👇🏼": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh sìos",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh sìos",
@@ -1977,6 +1991,7 @@
       "👇🏽": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh sìos",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh sìos",
@@ -1993,6 +2008,7 @@
       "👇🏾": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh sìos",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh sìos",
@@ -2009,6 +2025,7 @@
       "👇🏿": {
         "default": [
           "colgag",
+          "colgag a’ tomhadh sìos",
           "corrag",
           "druim na làimhe",
           "druim na làimhe, colgag a’ tomhadh sìos",
@@ -8499,10 +8516,12 @@
       "💁🏻": {
         "default": [
           "bas",
+          "bas air uachdar",
           "cobhair",
           "fiosrachadh",
           "làmh",
-          "neach le làmh sìnte a-mach, bas air uachdar",
+          "neach le làmh sìnte",
+          "neach le làmh sìnte a-mach",
           "neach le làmh sìnte, bas air uachdar",
           "sìnte",
           "taic",
@@ -8516,10 +8535,12 @@
       "💁🏼": {
         "default": [
           "bas",
+          "bas air uachdar",
           "cobhair",
           "fiosrachadh",
           "làmh",
-          "neach le làmh sìnte a-mach, bas air uachdar",
+          "neach le làmh sìnte",
+          "neach le làmh sìnte a-mach",
           "neach le làmh sìnte, bas air uachdar",
           "sìnte",
           "taic",
@@ -8533,10 +8554,12 @@
       "💁🏽": {
         "default": [
           "bas",
+          "bas air uachdar",
           "cobhair",
           "fiosrachadh",
           "làmh",
-          "neach le làmh sìnte a-mach, bas air uachdar",
+          "neach le làmh sìnte",
+          "neach le làmh sìnte a-mach",
           "neach le làmh sìnte, bas air uachdar",
           "sìnte",
           "taic",
@@ -8550,10 +8573,12 @@
       "💁🏾": {
         "default": [
           "bas",
+          "bas air uachdar",
           "cobhair",
           "fiosrachadh",
           "làmh",
-          "neach le làmh sìnte a-mach, bas air uachdar",
+          "neach le làmh sìnte",
+          "neach le làmh sìnte a-mach",
           "neach le làmh sìnte, bas air uachdar",
           "sìnte",
           "taic",
@@ -8567,10 +8592,12 @@
       "💁🏿": {
         "default": [
           "bas",
+          "bas air uachdar",
           "cobhair",
           "fiosrachadh",
           "làmh",
-          "neach le làmh sìnte a-mach, bas air uachdar",
+          "neach le làmh sìnte",
+          "neach le làmh sìnte a-mach",
           "neach le làmh sìnte, bas air uachdar",
           "sìnte",
           "taic",
@@ -8584,9 +8611,11 @@
       "💁🏻‍♂": {
         "default": [
           "bas",
+          "bas air uachdar",
           "cobhair",
           "duine",
-          "duine le làmh sìnte a-mach, bas air uachdar",
+          "duine le làmh sìnte",
+          "duine le làmh sìnte a-mach",
           "duine le làmh sìnte, bas air uachdar",
           "fear",
           "fiosrachadh",
@@ -8604,9 +8633,11 @@
       "💁🏼‍♂": {
         "default": [
           "bas",
+          "bas air uachdar",
           "cobhair",
           "duine",
-          "duine le làmh sìnte a-mach, bas air uachdar",
+          "duine le làmh sìnte",
+          "duine le làmh sìnte a-mach",
           "duine le làmh sìnte, bas air uachdar",
           "fear",
           "fiosrachadh",
@@ -8624,9 +8655,11 @@
       "💁🏽‍♂": {
         "default": [
           "bas",
+          "bas air uachdar",
           "cobhair",
           "duine",
-          "duine le làmh sìnte a-mach, bas air uachdar",
+          "duine le làmh sìnte",
+          "duine le làmh sìnte a-mach",
           "duine le làmh sìnte, bas air uachdar",
           "fear",
           "fiosrachadh",
@@ -8644,9 +8677,11 @@
       "💁🏾‍♂": {
         "default": [
           "bas",
+          "bas air uachdar",
           "cobhair",
           "duine",
-          "duine le làmh sìnte a-mach, bas air uachdar",
+          "duine le làmh sìnte",
+          "duine le làmh sìnte a-mach",
           "duine le làmh sìnte, bas air uachdar",
           "fear",
           "fiosrachadh",
@@ -8664,9 +8699,11 @@
       "💁🏿‍♂": {
         "default": [
           "bas",
+          "bas air uachdar",
           "cobhair",
           "duine",
-          "duine le làmh sìnte a-mach, bas air uachdar",
+          "duine le làmh sìnte",
+          "duine le làmh sìnte a-mach",
           "duine le làmh sìnte, bas air uachdar",
           "fear",
           "fiosrachadh",
@@ -8684,14 +8721,16 @@
       "💁🏻‍♀": {
         "default": [
           "bas",
+          "bas air uachdar",
           "boireannach",
-          "boireannach le làmh sìnte a-mach, bas air uachdar",
+          "boireannach le làmh sìnte a-mach",
           "cobhair",
           "fiosrachadh",
           "làmh",
           "sìnte",
           "taic",
           "tè",
+          "tè le làmh sìnte a-mach",
           "tè le làmh sìnte a-mach, bas air uachdar",
           "tòna soilleir a’ chraicinn",
           "uachdar"
@@ -8703,14 +8742,16 @@
       "💁🏼‍♀": {
         "default": [
           "bas",
+          "bas air uachdar",
           "boireannach",
-          "boireannach le làmh sìnte a-mach, bas air uachdar",
+          "boireannach le làmh sìnte a-mach",
           "cobhair",
           "fiosrachadh",
           "làmh",
           "sìnte",
           "taic",
           "tè",
+          "tè le làmh sìnte a-mach",
           "tè le làmh sìnte a-mach, bas air uachdar",
           "tòna meadhanach soilleir a’ chraicinn",
           "uachdar"
@@ -8722,14 +8763,16 @@
       "💁🏽‍♀": {
         "default": [
           "bas",
+          "bas air uachdar",
           "boireannach",
-          "boireannach le làmh sìnte a-mach, bas air uachdar",
+          "boireannach le làmh sìnte a-mach",
           "cobhair",
           "fiosrachadh",
           "làmh",
           "sìnte",
           "taic",
           "tè",
+          "tè le làmh sìnte a-mach",
           "tè le làmh sìnte a-mach, bas air uachdar",
           "tòna meadhanach a’ chraicinn",
           "uachdar"
@@ -8741,14 +8784,16 @@
       "💁🏾‍♀": {
         "default": [
           "bas",
+          "bas air uachdar",
           "boireannach",
-          "boireannach le làmh sìnte a-mach, bas air uachdar",
+          "boireannach le làmh sìnte a-mach",
           "cobhair",
           "fiosrachadh",
           "làmh",
           "sìnte",
           "taic",
           "tè",
+          "tè le làmh sìnte a-mach",
           "tè le làmh sìnte a-mach, bas air uachdar",
           "tòna meadhanach doilleir a’ chraicinn",
           "uachdar"
@@ -8760,14 +8805,16 @@
       "💁🏿‍♀": {
         "default": [
           "bas",
+          "bas air uachdar",
           "boireannach",
-          "boireannach le làmh sìnte a-mach, bas air uachdar",
+          "boireannach le làmh sìnte a-mach",
           "cobhair",
           "fiosrachadh",
           "làmh",
           "sìnte",
           "taic",
           "tè",
+          "tè le làmh sìnte a-mach",
           "tè le làmh sìnte a-mach, bas air uachdar",
           "tòna doilleir a’ chraicinn",
           "uachdar"
@@ -15609,7 +15656,6 @@
       "🎅🏻": {
         "default": [
           "athair",
-          "bodach na nollaig",
           "bodach na Nollaig",
           "comharrachadh",
           "Nollaig",
@@ -15622,7 +15668,6 @@
       "🎅🏼": {
         "default": [
           "athair",
-          "bodach na nollaig",
           "bodach na Nollaig",
           "comharrachadh",
           "Nollaig",
@@ -15635,7 +15680,6 @@
       "🎅🏽": {
         "default": [
           "athair",
-          "bodach na nollaig",
           "bodach na Nollaig",
           "comharrachadh",
           "Nollaig",
@@ -15648,7 +15692,6 @@
       "🎅🏾": {
         "default": [
           "athair",
-          "bodach na nollaig",
           "bodach na Nollaig",
           "comharrachadh",
           "Nollaig",
@@ -15661,7 +15704,6 @@
       "🎅🏿": {
         "default": [
           "athair",
-          "bodach na nollaig",
           "bodach na Nollaig",
           "comharrachadh",
           "Nollaig",
@@ -17691,6 +17733,303 @@
           "boireannach a’ coiseachd: tòna doilleir a’ chraicinn"
         ]
       },
+      "🚶‍➡": {
+        "default": [
+          "an",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "neach a’ coiseachd",
+          "ris",
+          "taobh"
+        ],
+        "tts": [
+          "neach a’ coiseachd: ris an taobh deas"
+        ]
+      },
+      "🚶🏻‍➡": {
+        "default": [
+          "an",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "neach a’ coiseachd",
+          "ris",
+          "taobh",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach a’ coiseachd: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🚶🏼‍➡": {
+        "default": [
+          "an",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "neach a’ coiseachd",
+          "ris",
+          "taobh",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach a’ coiseachd: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🚶🏽‍➡": {
+        "default": [
+          "an",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "neach a’ coiseachd",
+          "ris",
+          "taobh",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "neach a’ coiseachd: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🚶🏾‍➡": {
+        "default": [
+          "an",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "neach a’ coiseachd",
+          "ris",
+          "taobh",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach a’ coiseachd: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🚶🏿‍➡": {
+        "default": [
+          "an",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "neach a’ coiseachd",
+          "ris",
+          "taobh",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach a’ coiseachd: tòna doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🚶‍♀‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach a’ coiseachd",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "ris",
+          "taobh",
+          "tè"
+        ],
+        "tts": [
+          "boireannach a’ coiseachd: ris an taobh deas"
+        ]
+      },
+      "🚶🏻‍♀‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach a’ coiseachd",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "ris",
+          "taobh",
+          "tè",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireannach a’ coiseachd: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🚶🏼‍♀‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach a’ coiseachd",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "ris",
+          "taobh",
+          "tè",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireannach a’ coiseachd: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🚶🏽‍♀‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach a’ coiseachd",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "ris",
+          "taobh",
+          "tè",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "boireannach a’ coiseachd: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🚶🏾‍♀‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach a’ coiseachd",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "ris",
+          "taobh",
+          "tè",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireannach a’ coiseachd: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🚶🏿‍♀‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach a’ coiseachd",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "ris",
+          "taobh",
+          "tè",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireannach a’ coiseachd: tòna doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🚶‍♂‍➡": {
+        "default": [
+          "an",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "duine",
+          "duine a’ coiseachd",
+          "fear",
+          "fireannach",
+          "ris",
+          "taobh"
+        ],
+        "tts": [
+          "duine a’ coiseachd: ris an taobh deas"
+        ]
+      },
+      "🚶🏻‍♂‍➡": {
+        "default": [
+          "an",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "duine",
+          "duine a’ coiseachd",
+          "fear",
+          "fireannach",
+          "ris",
+          "taobh",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine a’ coiseachd: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🚶🏼‍♂‍➡": {
+        "default": [
+          "an",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "duine",
+          "duine a’ coiseachd",
+          "fear",
+          "fireannach",
+          "ris",
+          "taobh",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine a’ coiseachd: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🚶🏽‍♂‍➡": {
+        "default": [
+          "an",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "duine",
+          "duine a’ coiseachd",
+          "fear",
+          "fireannach",
+          "ris",
+          "taobh",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "duine a’ coiseachd: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🚶🏾‍♂‍➡": {
+        "default": [
+          "an",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "duine",
+          "duine a’ coiseachd",
+          "fear",
+          "fireannach",
+          "ris",
+          "taobh",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine a’ coiseachd: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🚶🏿‍♂‍➡": {
+        "default": [
+          "an",
+          "coiseachd",
+          "coisich",
+          "deas",
+          "duine",
+          "duine a’ coiseachd",
+          "fear",
+          "fireannach",
+          "ris",
+          "taobh",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine a’ coiseachd: tòna doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
       "🧍🏻": {
         "default": [
           "neach ’na sheasamh",
@@ -18051,6 +18390,291 @@
           "boireanach air a ghlùinean: tòna doilleir a’ chraicinn"
         ]
       },
+      "🧎‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "glùin",
+          "glùinean",
+          "neach air a ghlùinean",
+          "ris",
+          "taobh"
+        ],
+        "tts": [
+          "neach air a ghlùinean: ris an taobh deas"
+        ]
+      },
+      "🧎🏻‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "glùin",
+          "glùinean",
+          "neach air a ghlùinean",
+          "ris",
+          "taobh",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach air a ghlùinean: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧎🏼‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "glùin",
+          "glùinean",
+          "neach air a ghlùinean",
+          "ris",
+          "taobh",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach air a ghlùinean: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧎🏽‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "glùin",
+          "glùinean",
+          "neach air a ghlùinean",
+          "ris",
+          "taobh",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "neach air a ghlùinean: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧎🏾‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "glùin",
+          "glùinean",
+          "neach air a ghlùinean",
+          "ris",
+          "taobh",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach air a ghlùinean: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧎🏿‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "glùin",
+          "glùinean",
+          "neach air a ghlùinean",
+          "ris",
+          "taobh",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach air a ghlùinean: tòna doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧎‍♀‍➡": {
+        "default": [
+          "an",
+          "boireanach air a ghlùinean",
+          "boireannach",
+          "deas",
+          "glùin",
+          "glùinean",
+          "ris",
+          "taobh"
+        ],
+        "tts": [
+          "boireanach air a ghlùinean: ris an taobh deas"
+        ]
+      },
+      "🧎🏻‍♀‍➡": {
+        "default": [
+          "an",
+          "boireanach air a ghlùinean",
+          "boireannach",
+          "deas",
+          "glùin",
+          "glùinean",
+          "ris",
+          "taobh",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireanach air a ghlùinean: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧎🏼‍♀‍➡": {
+        "default": [
+          "an",
+          "boireanach air a ghlùinean",
+          "boireannach",
+          "deas",
+          "glùin",
+          "glùinean",
+          "ris",
+          "taobh",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireanach air a ghlùinean: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧎🏽‍♀‍➡": {
+        "default": [
+          "an",
+          "boireanach air a ghlùinean",
+          "boireannach",
+          "deas",
+          "glùin",
+          "glùinean",
+          "ris",
+          "taobh",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "boireanach air a ghlùinean: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧎🏾‍♀‍➡": {
+        "default": [
+          "an",
+          "boireanach air a ghlùinean",
+          "boireannach",
+          "deas",
+          "glùin",
+          "glùinean",
+          "ris",
+          "taobh",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireanach air a ghlùinean: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧎🏿‍♀‍➡": {
+        "default": [
+          "an",
+          "boireanach air a ghlùinean",
+          "boireannach",
+          "deas",
+          "glùin",
+          "glùinean",
+          "ris",
+          "taobh",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireanach air a ghlùinean: tòna doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧎‍♂‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "duine",
+          "duine air a ghlùinean",
+          "fireannach",
+          "glùin",
+          "glùinean",
+          "ris",
+          "taobh"
+        ],
+        "tts": [
+          "duine air a ghlùinean: ris an taobh deas"
+        ]
+      },
+      "🧎🏻‍♂‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "duine",
+          "duine air a ghlùinean",
+          "fireannach",
+          "glùin",
+          "glùinean",
+          "ris",
+          "taobh",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine air a ghlùinean: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧎🏼‍♂‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "duine",
+          "duine air a ghlùinean",
+          "fireannach",
+          "glùin",
+          "glùinean",
+          "ris",
+          "taobh",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine air a ghlùinean: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧎🏽‍♂‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "duine",
+          "duine air a ghlùinean",
+          "fireannach",
+          "glùin",
+          "glùinean",
+          "ris",
+          "taobh",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "duine air a ghlùinean: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧎🏾‍♂‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "duine",
+          "duine air a ghlùinean",
+          "fireannach",
+          "glùin",
+          "glùinean",
+          "ris",
+          "taobh",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine air a ghlùinean: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧎🏿‍♂‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "duine",
+          "duine air a ghlùinean",
+          "fireannach",
+          "glùin",
+          "glùinean",
+          "ris",
+          "taobh",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine air a ghlùinean: tòna doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
       "🧑🏻‍🦯": {
         "default": [
           "dall",
@@ -18109,6 +18733,101 @@
         ],
         "tts": [
           "neach dall le batachan: tòna doilleir a’ chraicinn"
+        ]
+      },
+      "🧑‍🦯‍➡": {
+        "default": [
+          "an",
+          "dall",
+          "deas",
+          "doille",
+          "neach dall le batachan",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh"
+        ],
+        "tts": [
+          "neach dall le batachan: ris an taobh deas"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "an",
+          "dall",
+          "deas",
+          "doille",
+          "neach dall le batachan",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach dall le batachan: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧑🏼‍🦯‍➡": {
+        "default": [
+          "an",
+          "dall",
+          "deas",
+          "doille",
+          "neach dall le batachan",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach dall le batachan: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "an",
+          "dall",
+          "deas",
+          "doille",
+          "neach dall le batachan",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "neach dall le batachan: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "an",
+          "dall",
+          "deas",
+          "doille",
+          "neach dall le batachan",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach dall le batachan: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "an",
+          "dall",
+          "deas",
+          "doille",
+          "neach dall le batachan",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach dall le batachan: tòna doilleir a’ chraicinn ’s ris an taobh deas"
         ]
       },
       "👨🏻‍🦯": {
@@ -18181,6 +18900,113 @@
           "duine dall le batachan: tòna doilleir a’ chraicinn"
         ]
       },
+      "👨‍🦯‍➡": {
+        "default": [
+          "an",
+          "dall",
+          "deas",
+          "doille",
+          "duine",
+          "duine dall le batachan",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh"
+        ],
+        "tts": [
+          "duine dall le batachan: ris an taobh deas"
+        ]
+      },
+      "👨🏻‍🦯‍➡": {
+        "default": [
+          "an",
+          "dall",
+          "deas",
+          "doille",
+          "duine",
+          "duine dall le batachan",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine dall le batachan: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👨🏼‍🦯‍➡": {
+        "default": [
+          "an",
+          "dall",
+          "deas",
+          "doille",
+          "duine",
+          "duine dall le batachan",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine dall le batachan: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👨🏽‍🦯‍➡": {
+        "default": [
+          "an",
+          "dall",
+          "deas",
+          "doille",
+          "duine",
+          "duine dall le batachan",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "duine dall le batachan: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👨🏾‍🦯‍➡": {
+        "default": [
+          "an",
+          "dall",
+          "deas",
+          "doille",
+          "duine",
+          "duine dall le batachan",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine dall le batachan: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👨🏿‍🦯‍➡": {
+        "default": [
+          "an",
+          "dall",
+          "deas",
+          "doille",
+          "duine",
+          "duine dall le batachan",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine dall le batachan: tòna doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
       "👩🏻‍🦯": {
         "default": [
           "boireannach",
@@ -18246,6 +19072,107 @@
           "boireannach dall le batachan: tòna doilleir a’ chraicinn"
         ]
       },
+      "👩‍🦯‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach dall le batachan",
+          "dall",
+          "deas",
+          "doille",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh"
+        ],
+        "tts": [
+          "boireannach dall le batachan: ris an taobh deas"
+        ]
+      },
+      "👩🏻‍🦯‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach dall le batachan",
+          "dall",
+          "deas",
+          "doille",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireannach dall le batachan: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👩🏼‍🦯‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach dall le batachan",
+          "dall",
+          "deas",
+          "doille",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireannach dall le batachan: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👩🏽‍🦯‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach dall le batachan",
+          "dall",
+          "deas",
+          "doille",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "boireannach dall le batachan: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👩🏾‍🦯‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach dall le batachan",
+          "dall",
+          "deas",
+          "doille",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireannach dall le batachan: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👩🏿‍🦯‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach dall le batachan",
+          "dall",
+          "deas",
+          "doille",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireannach dall le batachan: tòna doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
       "🧑🏻‍🦼": {
         "default": [
           "cathair-chuibhle",
@@ -18299,6 +19226,95 @@
         ],
         "tts": [
           "neach ann an cathair-chuibhle le einnsein: tòna doilleir a’ chraicinn"
+        ]
+      },
+      "🧑‍🦼‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "neach ann an cathair-chuibhle le einnsein",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh"
+        ],
+        "tts": [
+          "neach ann an cathair-chuibhle le einnsein: ris an taobh deas"
+        ]
+      },
+      "🧑🏻‍🦼‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "neach ann an cathair-chuibhle le einnsein",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach ann an cathair-chuibhle le einnsein: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧑🏼‍🦼‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "neach ann an cathair-chuibhle le einnsein",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach ann an cathair-chuibhle le einnsein: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧑🏽‍🦼‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "neach ann an cathair-chuibhle le einnsein",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "neach ann an cathair-chuibhle le einnsein: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧑🏾‍🦼‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "neach ann an cathair-chuibhle le einnsein",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach ann an cathair-chuibhle le einnsein: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧑🏿‍🦼‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "neach ann an cathair-chuibhle le einnsein",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach ann an cathair-chuibhle le einnsein: tòna doilleir a’ chraicinn ’s ris an taobh deas"
         ]
       },
       "👨🏻‍🦼": {
@@ -18366,6 +19382,107 @@
           "duine ann an cathair-chuibhle le einnsein: tòna doilleir a’ chraicinn"
         ]
       },
+      "👨‍🦼‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "duine",
+          "duine ann an cathair-chuibhle le einnsein",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh"
+        ],
+        "tts": [
+          "duine ann an cathair-chuibhle le einnsein: ris an taobh deas"
+        ]
+      },
+      "👨🏻‍🦼‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "duine",
+          "duine ann an cathair-chuibhle le einnsein",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine ann an cathair-chuibhle le einnsein: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👨🏼‍🦼‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "duine",
+          "duine ann an cathair-chuibhle le einnsein",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine ann an cathair-chuibhle le einnsein: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👨🏽‍🦼‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "duine",
+          "duine ann an cathair-chuibhle le einnsein",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "duine ann an cathair-chuibhle le einnsein: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👨🏾‍🦼‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "duine",
+          "duine ann an cathair-chuibhle le einnsein",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine ann an cathair-chuibhle le einnsein: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👨🏿‍🦼‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "duine",
+          "duine ann an cathair-chuibhle le einnsein",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine ann an cathair-chuibhle le einnsein: tòna doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
       "👩🏻‍🦼": {
         "default": [
           "boireannach",
@@ -18431,6 +19548,107 @@
           "tè ann an cathair-chuibhle le einnsein: tòna doilleir a’ chraicinn"
         ]
       },
+      "👩‍🦼‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach ann an cathair-chuibhle le einnsein",
+          "cathair-chuibhle",
+          "deas",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tè ann an cathair-chuibhle le einnsein"
+        ],
+        "tts": [
+          "tè ann an cathair-chuibhle le einnsein: ris an taobh deas"
+        ]
+      },
+      "👩🏻‍🦼‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach ann an cathair-chuibhle le einnsein",
+          "cathair-chuibhle",
+          "deas",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tè ann an cathair-chuibhle le einnsein",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "tè ann an cathair-chuibhle le einnsein: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👩🏼‍🦼‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach ann an cathair-chuibhle le einnsein",
+          "cathair-chuibhle",
+          "deas",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tè ann an cathair-chuibhle le einnsein",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "tè ann an cathair-chuibhle le einnsein: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👩🏽‍🦼‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach ann an cathair-chuibhle le einnsein",
+          "cathair-chuibhle",
+          "deas",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tè ann an cathair-chuibhle le einnsein",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "tè ann an cathair-chuibhle le einnsein: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👩🏾‍🦼‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach ann an cathair-chuibhle le einnsein",
+          "cathair-chuibhle",
+          "deas",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tè ann an cathair-chuibhle le einnsein",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "tè ann an cathair-chuibhle le einnsein: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👩🏿‍🦼‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach ann an cathair-chuibhle le einnsein",
+          "cathair-chuibhle",
+          "deas",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tè ann an cathair-chuibhle le einnsein",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "tè ann an cathair-chuibhle le einnsein: tòna doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
       "🧑🏻‍🦽": {
         "default": [
           "cathair-chuibhle",
@@ -18484,6 +19702,95 @@
         ],
         "tts": [
           "neach ann an cathair-chuibhle a làimh: tòna doilleir a’ chraicinn"
+        ]
+      },
+      "🧑‍🦽‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "neach ann an cathair-chuibhle a làimh",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh"
+        ],
+        "tts": [
+          "neach ann an cathair-chuibhle a làimh: ris an taobh deas"
+        ]
+      },
+      "🧑🏻‍🦽‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "neach ann an cathair-chuibhle a làimh",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach ann an cathair-chuibhle a làimh: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧑🏼‍🦽‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "neach ann an cathair-chuibhle a làimh",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach ann an cathair-chuibhle a làimh: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧑🏽‍🦽‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "neach ann an cathair-chuibhle a làimh",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "neach ann an cathair-chuibhle a làimh: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧑🏾‍🦽‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "neach ann an cathair-chuibhle a làimh",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach ann an cathair-chuibhle a làimh: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🧑🏿‍🦽‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "neach ann an cathair-chuibhle a làimh",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach ann an cathair-chuibhle a làimh: tòna doilleir a’ chraicinn ’s ris an taobh deas"
         ]
       },
       "👨🏻‍🦽": {
@@ -18551,6 +19858,107 @@
           "duine ann an cathair-chuibhle a làimh: tòna doilleir a’ chraicinn"
         ]
       },
+      "👨‍🦽‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "duine",
+          "duine ann an cathair-chuibhle a làimh",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh"
+        ],
+        "tts": [
+          "duine ann an cathair-chuibhle a làimh: ris an taobh deas"
+        ]
+      },
+      "👨🏻‍🦽‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "duine",
+          "duine ann an cathair-chuibhle a làimh",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine ann an cathair-chuibhle a làimh: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👨🏼‍🦽‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "duine",
+          "duine ann an cathair-chuibhle a làimh",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine ann an cathair-chuibhle a làimh: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👨🏽‍🦽‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "duine",
+          "duine ann an cathair-chuibhle a làimh",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "duine ann an cathair-chuibhle a làimh: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👨🏾‍🦽‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "duine",
+          "duine ann an cathair-chuibhle a làimh",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine ann an cathair-chuibhle a làimh: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👨🏿‍🦽‍➡": {
+        "default": [
+          "an",
+          "cathair-chuibhle",
+          "deas",
+          "duine",
+          "duine ann an cathair-chuibhle a làimh",
+          "fireannach",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine ann an cathair-chuibhle a làimh: tòna doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
       "👩🏻‍🦽": {
         "default": [
           "boireannach",
@@ -18614,6 +20022,107 @@
         ],
         "tts": [
           "tè ann an cathair-chuibhle a làimh: tòna doilleir a’ chraicinn"
+        ]
+      },
+      "👩‍🦽‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach ann an cathair-chuibhle a làimh",
+          "cathair-chuibhle",
+          "deas",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tè ann an cathair-chuibhle a làimh"
+        ],
+        "tts": [
+          "tè ann an cathair-chuibhle a làimh: ris an taobh deas"
+        ]
+      },
+      "👩🏻‍🦽‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach ann an cathair-chuibhle a làimh",
+          "cathair-chuibhle",
+          "deas",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tè ann an cathair-chuibhle a làimh",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "tè ann an cathair-chuibhle a làimh: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👩🏼‍🦽‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach ann an cathair-chuibhle a làimh",
+          "cathair-chuibhle",
+          "deas",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tè ann an cathair-chuibhle a làimh",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "tè ann an cathair-chuibhle a làimh: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👩🏽‍🦽‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach ann an cathair-chuibhle a làimh",
+          "cathair-chuibhle",
+          "deas",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tè ann an cathair-chuibhle a làimh",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "tè ann an cathair-chuibhle a làimh: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👩🏾‍🦽‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach ann an cathair-chuibhle a làimh",
+          "cathair-chuibhle",
+          "deas",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tè ann an cathair-chuibhle a làimh",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "tè ann an cathair-chuibhle a làimh: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "👩🏿‍🦽‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach ann an cathair-chuibhle a làimh",
+          "cathair-chuibhle",
+          "deas",
+          "ris",
+          "so-ruigsinneachd",
+          "taobh",
+          "tè ann an cathair-chuibhle a làimh",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "tè ann an cathair-chuibhle a làimh: tòna doilleir a’ chraicinn ’s ris an taobh deas"
         ]
       },
       "🏃🏻": {
@@ -18814,6 +20323,315 @@
         ],
         "tts": [
           "boireannach a’ ruith: tòna doilleir a’ chraicinn"
+        ]
+      },
+      "🏃‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "marathon",
+          "neach a’ ruith",
+          "ris",
+          "ruith",
+          "taobh"
+        ],
+        "tts": [
+          "neach a’ ruith: ris an taobh deas"
+        ]
+      },
+      "🏃🏻‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "marathon",
+          "neach a’ ruith",
+          "ris",
+          "ruith",
+          "taobh",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach a’ ruith: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🏃🏼‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "marathon",
+          "neach a’ ruith",
+          "ris",
+          "ruith",
+          "taobh",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach a’ ruith: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🏃🏽‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "marathon",
+          "neach a’ ruith",
+          "ris",
+          "ruith",
+          "taobh",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "neach a’ ruith: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🏃🏾‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "marathon",
+          "neach a’ ruith",
+          "ris",
+          "ruith",
+          "taobh",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach a’ ruith: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🏃🏿‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "marathon",
+          "neach a’ ruith",
+          "ris",
+          "ruith",
+          "taobh",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "neach a’ ruith: tòna doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🏃‍♀‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach a’ ruith",
+          "deas",
+          "marathon",
+          "rèis",
+          "ris",
+          "ruith",
+          "taobh",
+          "tè"
+        ],
+        "tts": [
+          "boireannach a’ ruith: ris an taobh deas"
+        ]
+      },
+      "🏃🏻‍♀‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach a’ ruith",
+          "deas",
+          "marathon",
+          "rèis",
+          "ris",
+          "ruith",
+          "taobh",
+          "tè",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireannach a’ ruith: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🏃🏼‍♀‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach a’ ruith",
+          "deas",
+          "marathon",
+          "rèis",
+          "ris",
+          "ruith",
+          "taobh",
+          "tè",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireannach a’ ruith: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🏃🏽‍♀‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach a’ ruith",
+          "deas",
+          "marathon",
+          "rèis",
+          "ris",
+          "ruith",
+          "taobh",
+          "tè",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "boireannach a’ ruith: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🏃🏾‍♀‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach a’ ruith",
+          "deas",
+          "marathon",
+          "rèis",
+          "ris",
+          "ruith",
+          "taobh",
+          "tè",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireannach a’ ruith: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🏃🏿‍♀‍➡": {
+        "default": [
+          "an",
+          "boireannach",
+          "boireannach a’ ruith",
+          "deas",
+          "marathon",
+          "rèis",
+          "ris",
+          "ruith",
+          "taobh",
+          "tè",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "boireannach a’ ruith: tòna doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🏃‍♂‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "duine",
+          "duine a’ ruith",
+          "fear",
+          "fireannach",
+          "marathon",
+          "rèis",
+          "ris",
+          "ruith",
+          "taobh"
+        ],
+        "tts": [
+          "duine a’ ruith: ris an taobh deas"
+        ]
+      },
+      "🏃🏻‍♂‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "duine",
+          "duine a’ ruith",
+          "fear",
+          "fireannach",
+          "marathon",
+          "rèis",
+          "ris",
+          "ruith",
+          "taobh",
+          "tòna soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine a’ ruith: tòna soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🏃🏼‍♂‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "duine",
+          "duine a’ ruith",
+          "fear",
+          "fireannach",
+          "marathon",
+          "rèis",
+          "ris",
+          "ruith",
+          "taobh",
+          "tòna meadhanach soilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine a’ ruith: tòna meadhanach soilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🏃🏽‍♂‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "duine",
+          "duine a’ ruith",
+          "fear",
+          "fireannach",
+          "marathon",
+          "rèis",
+          "ris",
+          "ruith",
+          "taobh",
+          "tòna meadhanach a’ chraicinn"
+        ],
+        "tts": [
+          "duine a’ ruith: tòna meadhanach a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🏃🏾‍♂‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "duine",
+          "duine a’ ruith",
+          "fear",
+          "fireannach",
+          "marathon",
+          "rèis",
+          "ris",
+          "ruith",
+          "taobh",
+          "tòna meadhanach doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine a’ ruith: tòna meadhanach doilleir a’ chraicinn ’s ris an taobh deas"
+        ]
+      },
+      "🏃🏿‍♂‍➡": {
+        "default": [
+          "an",
+          "deas",
+          "duine",
+          "duine a’ ruith",
+          "fear",
+          "fireannach",
+          "marathon",
+          "rèis",
+          "ris",
+          "ruith",
+          "taobh",
+          "tòna doilleir a’ chraicinn"
+        ],
+        "tts": [
+          "duine a’ ruith: tòna doilleir a’ chraicinn ’s ris an taobh deas"
         ]
       },
       "💃🏻": {
@@ -24643,6 +26461,14 @@
           "bratach: Eilean Clipperton"
         ]
       },
+      "🇨🇶": {
+        "default": [
+          "bratach"
+        ],
+        "tts": [
+          "bratach: Sarc"
+        ]
+      },
       "🇨🇷": {
         "default": [
           "bratach"
@@ -24784,7 +26610,7 @@
           "bratach"
         ],
         "tts": [
-          "bratach: An Èiphit"
+          "bratach: An Èipheit"
         ]
       },
       "🇪🇭": {
@@ -25040,7 +26866,7 @@
           "bratach"
         ],
         "tts": [
-          "bratach: Eilean Heard is MhicDhòmhnaill"
+          "bratach: Eilean Heard is Eileanan MhicDhòmhnaill"
         ]
       },
       "🇭🇳": {
@@ -26363,14 +28189,9 @@
           "Naira Nigèiriach"
         ]
       },
-      "₧": {
-        "tts": [
-          "Peseta Spàinnteach"
-        ]
-      },
       "₪": {
         "tts": [
-          "Sheqel ùr Iosraeleach"
+          "Secel ùr Iosraeleach"
         ]
       },
       "₫": {
@@ -26501,6 +28322,11 @@
         ],
         "tts": [
           "còmhdachadh iuchrach: 9"
+        ]
+      },
+      "₧": {
+        "tts": [
+          "Peseta Spàinnteach"
         ]
       }
     }

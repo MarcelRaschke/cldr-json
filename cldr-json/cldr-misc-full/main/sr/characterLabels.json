@@ -2,9 +2,6 @@
   "main": {
     "sr": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sr"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — компатибилност",
         "enclosed": "{0} — затворено",
         "extended": "{0} — проширено",
+        "facing-left": "{0} гледа улево",
+        "facing-right": "{0} гледа удесно",
         "historic": "{0} — историјско",
         "miscellaneous": "{0} — разно",
         "other": "{0} — друго",

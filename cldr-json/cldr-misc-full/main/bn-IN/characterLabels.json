@@ -2,9 +2,6 @@
   "main": {
     "bn-IN": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "bn",
         "territory": "IN"
       },
@@ -14,6 +11,8 @@
         "compatibility": "{0} — সঙ্গতি",
         "enclosed": "{0} — আবদ্ধ",
         "extended": "{0} — প্রসারিত",
+        "facing-left": "{0} বাম দিকে মুখ করে আছে",
+        "facing-right": "{0} ডান দিকে মুখ করে আছে",
         "historic": "{0} — ঐতিহাসিক",
         "miscellaneous": "{0} — বিবিধ",
         "other": "{0} — অন্য",

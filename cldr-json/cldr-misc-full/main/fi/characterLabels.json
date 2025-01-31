@@ -2,9 +2,6 @@
   "main": {
     "fi": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "fi"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} – yhteensopivuus",
         "enclosed": "{0} – ympäröity",
         "extended": "{0} – laajennettu",
+        "facing-left": "{0} kohti vasenta",
+        "facing-right": "{0} kohti oikeaa",
         "historic": "{0} – historiallinen",
         "miscellaneous": "{0} – sekalaiset",
         "other": "{0} – muut",

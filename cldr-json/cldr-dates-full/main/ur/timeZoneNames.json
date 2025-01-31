@@ -2,9 +2,6 @@
   "main": {
     "ur": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ur"
       },
       "dates": {
@@ -118,6 +115,9 @@
               },
               "Chihuahua": {
                 "exemplarCity": "چیہوآہوآ"
+              },
+              "Ciudad_Juarez": {
+                "exemplarCity": "سیوداد جیوریز"
               },
               "Coral_Harbour": {
                 "exemplarCity": "اٹیکوکن"
@@ -327,9 +327,6 @@
               "New_York": {
                 "exemplarCity": "نیو یارک"
               },
-              "Nipigon": {
-                "exemplarCity": "نپیگون"
-              },
               "Nome": {
                 "exemplarCity": "نوم"
               },
@@ -353,9 +350,6 @@
               "Panama": {
                 "exemplarCity": "پنامہ"
               },
-              "Pangnirtung": {
-                "exemplarCity": "پینگنِرٹنگ"
-              },
               "Paramaribo": {
                 "exemplarCity": "پراماریبو"
               },
@@ -377,9 +371,6 @@
               "Punta_Arenas": {
                 "exemplarCity": "پنٹا اریناس"
               },
-              "Rainy_River": {
-                "exemplarCity": "رینی ریور"
-              },
               "Rankin_Inlet": {
                 "exemplarCity": "رینکن انلیٹ"
               },
@@ -394,9 +385,6 @@
               },
               "Rio_Branco": {
                 "exemplarCity": "ریئو برینکو"
-              },
-              "Santa_Isabel": {
-                "exemplarCity": "سانتا ایزابیل"
               },
               "Santarem": {
                 "exemplarCity": "سنٹارین"
@@ -443,9 +431,6 @@
               "Thule": {
                 "exemplarCity": "تھولو"
               },
-              "Thunder_Bay": {
-                "exemplarCity": "تھنڈر بے"
-              },
               "Tijuana": {
                 "exemplarCity": "تیجوآنا"
               },
@@ -466,9 +451,6 @@
               },
               "Yakutat": {
                 "exemplarCity": "یکوٹیٹ"
-              },
-              "Yellowknife": {
-                "exemplarCity": "ایلو نائف"
               }
             },
             "Atlantic": {
@@ -660,9 +642,6 @@
               "Ulyanovsk": {
                 "exemplarCity": "الیانوسک"
               },
-              "Uzhgorod": {
-                "exemplarCity": "ازہوراڈ"
-              },
               "Vaduz": {
                 "exemplarCity": "ویڈوز"
               },
@@ -683,9 +662,6 @@
               },
               "Zagreb": {
                 "exemplarCity": "زیگریب"
-              },
-              "Zaporozhye": {
-                "exemplarCity": "زیپوروزائی"
               },
               "Zurich": {
                 "exemplarCity": "زیورخ"
@@ -903,9 +879,6 @@
               },
               "Chita": {
                 "exemplarCity": "چیتا"
-              },
-              "Choibalsan": {
-                "exemplarCity": "چوئبالسان"
               },
               "Colombo": {
                 "exemplarCity": "کولمبو"
@@ -1145,9 +1118,6 @@
               "Broken_Hill": {
                 "exemplarCity": "بروکن ہِل"
               },
-              "Currie": {
-                "exemplarCity": "کیوری"
-              },
               "Darwin": {
                 "exemplarCity": "ڈارون"
               },
@@ -1218,9 +1188,6 @@
               },
               "Honolulu": {
                 "exemplarCity": "ہونولولو"
-              },
-              "Johnston": {
-                "exemplarCity": "جانسٹن"
               },
               "Kanton": {
                 "exemplarCity": "کانٹن"
@@ -1572,13 +1539,6 @@
                 "daylight": "چینی ڈے لائٹ ٹائم"
               }
             },
-            "Choibalsan": {
-              "long": {
-                "generic": "کوئبلسان ٹائم",
-                "standard": "کوئبلسان سٹینڈرڈ ٹائم",
-                "daylight": "کوائبلسان سمر ٹائم"
-              }
-            },
             "Christmas": {
               "long": {
                 "standard": "کرسمس آئلینڈ ٹائم"
@@ -1824,6 +1784,11 @@
                 "daylight": "پیٹروپاؤلووسک-کیمچسکی سمر ٹائم"
               }
             },
+            "Kazakhstan": {
+              "long": {
+                "standard": "قازقستان کا وقت"
+              }
+            },
             "Kazakhstan_Eastern": {
               "long": {
                 "standard": "مشرقی قزاخستان کا وقت"
@@ -1870,11 +1835,6 @@
                 "daylight": "لارڈ ہووے ڈے لائٹ ٹائم"
               }
             },
-            "Macquarie": {
-              "long": {
-                "standard": "مکوآری آئلینڈ کا وقت"
-              }
-            },
             "Magadan": {
               "long": {
                 "generic": "میگیدن ٹائم",
@@ -1912,13 +1872,6 @@
             "Mawson": {
               "long": {
                 "standard": "ماؤسن ٹائم"
-              }
-            },
-            "Mexico_Northwest": {
-              "long": {
-                "generic": "شمال مغربی میکسیکو ٹائم",
-                "standard": "شمال مغربی میکسیکو اسٹینڈرڈ ٹائم",
-                "daylight": "شمال مغربی میکسیکو ڈے لائٹ ٹائم"
               }
             },
             "Mexico_Pacific": {

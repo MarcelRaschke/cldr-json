@@ -2,9 +2,6 @@
   "main": {
     "be": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "be"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — Сумяшчальнасць",
         "enclosed": "{0} — Уключаны",
         "extended": "{0} — Пашыраны",
+        "facing-left": "{0}, накіраваныя ўлева",
+        "facing-right": "{0}, накіраваныя ўправа",
         "historic": "{0} — Гістарычны",
         "miscellaneous": "{0} — Рознае",
         "other": "{0} — Іншае",

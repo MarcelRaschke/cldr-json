@@ -2,9 +2,6 @@
   "main": {
     "bs-Latn": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "bs",
         "script": "Latn"
       },

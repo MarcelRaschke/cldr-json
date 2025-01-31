@@ -2,9 +2,6 @@
   "main": {
     "hi-Latn": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "en",
         "script": "Latn"
       },
@@ -96,6 +93,7 @@
           "CN": "China",
           "CO": "Colombia",
           "CP": "Clipperton Island",
+          "CQ": "Sark",
           "CR": "Costa Rica",
           "CU": "Cuba",
           "CV": "Cape Verde",
@@ -161,8 +159,10 @@
           "IE": "Ireland",
           "IL": "Israel",
           "IM": "Isle of Man",
-          "IN": "India",
+          "IN": "Bharat",
           "IO": "British Indian Ocean Territory",
+          "IO-alt-biot": "British Indian Ocean Territory",
+          "IO-alt-chagos": "Chagos Archipelago",
           "IQ": "Iraq",
           "IR": "Iran",
           "IS": "Iceland",
@@ -289,7 +289,7 @@
           "TM": "Turkmenistan",
           "TN": "Tunisia",
           "TO": "Tonga",
-          "TR": "Turkey",
+          "TR": "Turkiye",
           "TR-alt-variant": "Turkiye",
           "TT": "Trinidad & Tobago",
           "TV": "Tuvalu",

@@ -1,12 +1,21 @@
 {
   "rbnf": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "uk"
     },
     "rbnf": {
+      "OrdinalRules": {
+        "%digits-ordinal": [
+          [
+            "-x",
+            "−→→;"
+          ],
+          [
+            "0",
+            "=#,##0=;"
+          ]
+        ]
+      },
       "SpelloutRules": {
         "%spellout-numbering-year": [
           [

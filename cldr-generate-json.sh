@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#     Copyright © 1991-2020 Unicode, Inc. All rights reserved. Distributed under
+#     Copyright © 1991-2023 Unicode, Inc. All rights reserved. Distributed under
 # the Terms of Use in http://www.unicode.org/copyright.html.
 #
 # Creates JSON data under ./cldr-json in this directory.
@@ -12,11 +12,17 @@ then
     . ./local-config.sh
 fi
 
+if [[ -z "$VERSION" ]];
+then
+    echo "VERSION is undefined, exiting from $0"
+    exit 1
+fi
+
 # for now, seed has to exist.
 mkdir -p -v ${OUT} ${INDATA}/seed/main ${INDATA}/seed/annotations ${DIST}
 MAIN_CLASS=org.unicode.cldr.json.Ldml2JsonConverter
-export MAVEN_OPTS="-Xmx8192m -Dexec.cleanupDaemonThreads=false -Dexec.mainClass=${MAIN_CLASS}"
-MVN="mvn --file=${CLDR_DIR}/tools/pom.xml -pl cldr-code"
+export MAVEN_OPTS="-Xmx16384m -Dexec.cleanupDaemonThreads=false -Dexec.mainClass=${MAIN_CLASS}"
+MVN="mvn ${MVN_OPTS} --file=${CLDR_DIR}/tools/pom.xml -pl cldr-code"
 MVN_COMPILE="${MVN} compile"
 MVN_EXEC="${MVN} -DCLDR_DIR=${INDATA} exec:java"
 
@@ -24,7 +30,7 @@ set -x
 ${MVN_COMPILE} || exit 1
 
 for type in ${TYPES}; do
-    ${MVN_EXEC}  -Dexec.args="-m ${MATCH} -p true -o true -r true -t ${type} -d ${OUT} -s ${DRAFTSTATUS} -V ${VERSION}" || exit 1
+    ${MVN_EXEC}  -Dexec.args="-m ${MATCH} -p true -o true -r true -t ${type} -d ${OUT} -s ${DRAFTSTATUS} -V ${VERSION} ${EXTRA_JSON_OPTS}" || exit 1
 done
 
 echo "Finshed converting '${TYPES}' to ${OUT}"

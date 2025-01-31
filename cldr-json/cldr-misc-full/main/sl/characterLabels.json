@@ -2,9 +2,6 @@
   "main": {
     "sl": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sl"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} – združljivost",
         "enclosed": "{0} – vključeno",
         "extended": "{0} – razširjeno",
+        "facing-left": "{0}, obrnjen v levo",
+        "facing-right": "{0}, obrnjen v desno",
         "historic": "{0} – zgodovinsko",
         "miscellaneous": "{0} – razno",
         "other": "{0} – drugo",

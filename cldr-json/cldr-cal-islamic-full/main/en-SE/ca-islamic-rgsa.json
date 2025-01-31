@@ -2,9 +2,6 @@
   "main": {
     "en-SE": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "en",
         "territory": "SE"
       },
@@ -314,7 +311,7 @@
               "full": "EEEE, d MMMM y G",
               "long": "d MMMM y G",
               "medium": "d MMM y G",
-              "short": "G y-MM-dd"
+              "short": "dd/MM/y GGGGG"
             },
             "dateSkeletons": {
               "full": "GyMMMMEEEEd",
@@ -324,9 +321,13 @@
             },
             "timeFormats": {
               "full": "HH:mm:ss zzzz",
+              "full-alt-ascii": "h:mm:ss a zzzz",
               "long": "HH:mm:ss z",
+              "long-alt-ascii": "h:mm:ss a z",
               "medium": "HH:mm:ss",
-              "short": "HH:mm"
+              "medium-alt-ascii": "h:mm:ss a",
+              "short": "HH:mm",
+              "short-alt-ascii": "h:mm a"
             },
             "timeSkeletons": {
               "full": "HHmmsszzzz",
@@ -347,10 +348,12 @@
                 "E": "ccc",
                 "EBhm": "E h:mm B",
                 "EBhms": "E h:mm:ss B",
-                "Ed": "E d",
+                "Ed": "d E",
                 "Ehm": "E h:mm a",
+                "Ehm-alt-ascii": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
+                "Ehms-alt-ascii": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
                 "Gy": "y G",
                 "GyMd": "dd/MM/y GGGGG",
@@ -358,12 +361,15 @@
                 "GyMMMd": "d MMM y G",
                 "GyMMMEd": "E, d MMM y G",
                 "h": "h a",
+                "h-alt-ascii": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
+                "hm-alt-ascii": "h:mm a",
                 "Hm": "HH:mm",
                 "hms": "h:mm:ss a",
+                "hms-alt-ascii": "h:mm:ss a",
                 "Hms": "HH:mm:ss",
-                "M": "LL",
+                "M": "L",
                 "Md": "dd/MM",
                 "MEd": "E dd/MM",
                 "MMM": "LLL",
@@ -373,9 +379,9 @@
                 "ms": "mm:ss",
                 "y": "y G",
                 "yyyy": "y G",
-                "yyyyM": "y-MM G",
-                "yyyyMd": "y-MM-dd G",
-                "yyyyMEd": "E y-MM-dd G",
+                "yyyyM": "M/y GGGGG",
+                "yyyyMd": "dd/MM/y GGGGG",
+                "yyyyMEd": "E, dd/MM/y GGGGG",
                 "yyyyMMM": "MMM y G",
                 "yyyyMMMd": "d MMM y G",
                 "yyyyMMMEd": "E, d MMM y G",

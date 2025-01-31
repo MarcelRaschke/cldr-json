@@ -2,9 +2,6 @@
   "main": {
     "ar-JO": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ar",
         "territory": "JO"
       },

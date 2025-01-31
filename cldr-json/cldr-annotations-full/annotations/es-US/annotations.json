@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "es",
       "territory": "US"
     },
@@ -20,9 +17,6 @@
         "default": [
           "línea superpuesta",
           "sobreraya",
-          "vinculum"
-        ],
-        "tts": [
           "vinculum"
         ]
       },
@@ -1124,9 +1118,6 @@
         "default": [
           "derivada",
           "derivada parcial"
-        ],
-        "tts": [
-          "derivada parcial"
         ]
       },
       "∃": {
@@ -1303,33 +1294,9 @@
           "operador matemático de punto"
         ]
       },
-      "∝": {
-        "default": [
-          "proporcional",
-          "proporcionalidad"
-        ]
-      },
-      "∟": {
-        "default": [
-          "ángulo recto",
-          "matemáticas"
-        ],
-        "tts": [
-          "ángulo recto"
-        ]
-      },
       "∠": {
         "default": [
           "ángulo agudo"
-        ],
-        "tts": [
-          "ángulo agudo"
-        ]
-      },
-      "∣": {
-        "default": [
-          "divide",
-          "divisor"
         ]
       },
       "∧": {
@@ -1341,12 +1308,6 @@
         ],
         "tts": [
           "conjunción"
-        ]
-      },
-      "∫": {
-        "default": [
-          "cálculo",
-          "integral"
         ]
       },
       "∬": {
@@ -1362,15 +1323,6 @@
         "default": [
           "lógica",
           "por lo tanto"
-        ],
-        "tts": [
-          "por lo tanto"
-        ]
-      },
-      "∵": {
-        "default": [
-          "lógica",
-          "porque"
         ]
       },
       "∶": {
@@ -1379,12 +1331,6 @@
         ],
         "tts": [
           "razón"
-        ]
-      },
-      "∷": {
-        "default": [
-          "proporción",
-          "proporcionalidad"
         ]
       },
       "∼": {
@@ -1435,13 +1381,6 @@
           "aproximadamente igual"
         ]
       },
-      "≌": {
-        "default": [
-          "igualdad",
-          "matemáticas",
-          "todo igual"
-        ]
-      },
       "≒": {
         "default": [
           "aproximadamente igual a la imagen"
@@ -1467,13 +1406,6 @@
           "exacto",
           "idéntico",
           "triple"
-        ]
-      },
-      "≣": {
-        "default": [
-          "estrictamente equivalente",
-          "igualdad",
-          "matemáticas"
         ]
       },
       "≤": {
@@ -1518,13 +1450,6 @@
         ],
         "tts": [
           "signo de mayor que sobre signo de igual"
-        ]
-      },
-      "≪": {
-        "default": [
-          "desigualdad",
-          "matemáticas",
-          "mucho menor que"
         ]
       },
       "≫": {
@@ -1579,13 +1504,6 @@
         ],
         "tts": [
           "superconjunto"
-        ]
-      },
-      "⊇": {
-        "default": [
-          "igualdad",
-          "matemáticas",
-          "superconjunto igual a"
         ]
       },
       "⊕": {
@@ -1718,10 +1636,8 @@
         "default": [
           "matemáticas",
           "no contenido como subgrupo normal o igual",
+          "no contiene como subgrupo normal o igual a",
           "teoría de grupo"
-        ],
-        "tts": [
-          "no contenido como subgrupo normal o igual"
         ]
       },
       "⊹": {
@@ -1777,12 +1693,6 @@
           "unión n elementos"
         ]
       },
-      "⋅": {
-        "default": [
-          "operador",
-          "operador de punto"
-        ]
-      },
       "⋈": {
         "default": [
           "corbata de moño",
@@ -1799,26 +1709,6 @@
         ],
         "tts": [
           "intersección doble"
-        ]
-      },
-      "⋘": {
-        "default": [
-          "desigualdad",
-          "matemáticas",
-          "mucho mucho menos que"
-        ],
-        "tts": [
-          "mucho mucho menos que"
-        ]
-      },
-      "⋙": {
-        "default": [
-          "desigualdad",
-          "matemáticas",
-          "mucho mucho más que"
-        ],
-        "tts": [
-          "mucho mucho más que"
         ]
       },
       "⋮": {
@@ -1841,7 +1731,7 @@
         "default": [
           "elipsis",
           "elipsis diagonal hacia arriba dercha",
-          "elipsis diagonal hacia arriba derecha",
+          "elipsis en diagonal hacia la derecha",
           "matemáticas"
         ],
         "tts": [
@@ -1856,6 +1746,21 @@
         ],
         "tts": [
           "elipsis diagonal hacia abajo derecha"
+        ]
+      },
+      "□": {
+        "default": [
+          "cuadrado vacío",
+          "cuadro vacío"
+        ],
+        "tts": [
+          "cuadrado vacío"
+        ]
+      },
+      "▢": {
+        "default": [
+          "cuadrado hueco con esquinas redondeadas",
+          "cuadrado vacío con bordes redondeados"
         ]
       },
       "▣": {
@@ -2042,14 +1947,6 @@
           "apuntador vacío hacia la izquierda"
         ]
       },
-      "◆": {
-        "default": [
-          "rombo relleno"
-        ],
-        "tts": [
-          "rombo relleno"
-        ]
-      },
       "◇": {
         "default": [
           "rombo vacío"
@@ -2068,10 +1965,15 @@
       },
       "◉": {
         "default": [
-          "círculo vacío conteniendo un círculo relleno"
+          "círculo punteado",
+          "círculo vacío con círculo relleno dentro",
+          "círculo vacío conteniendo un círculo relleno",
+          "círculos concéntricos rellenos",
+          "división",
+          "ojo de pez"
         ],
         "tts": [
-          "círculo vacío conteniendo un círculo relleno"
+          "círculo vacío con círculo relleno dentro"
         ]
       },
       "◌": {
@@ -2080,13 +1982,6 @@
         ],
         "tts": [
           "circulo discontinuo"
-        ]
-      },
-      "◎": {
-        "default": [
-          "círculo doble",
-          "círculos concéntricos",
-          "diana"
         ]
       },
       "◐": {
@@ -2134,7 +2029,7 @@
           "círculo relleno menos cuadrante superior izquierdo"
         ],
         "tts": [
-          "círculo relleno menos cuadrante superior izquierdo"
+          "círculo sin cuadrante superior izquierdo"
         ]
       },
       "◖": {
@@ -2250,14 +2145,6 @@
           "círculo vacío cuadrante superior derecho"
         ]
       },
-      "◿": {
-        "default": [
-          "triángulo inferior derecho"
-        ],
-        "tts": [
-          "triángulo inferior derecho"
-        ]
-      },
       "⨧": {
         "default": [
           "signo de más con subíndice dos"
@@ -2279,29 +2166,11 @@
           "disyunción lógica con subrayado doble"
         ]
       },
-      "⩽": {
-        "default": [
-          "menos que y signo de igual inclinado"
-        ],
-        "tts": [
-          "menos que y signo de igual inclinado"
-        ]
-      },
-      "⪍": {
-        "default": [
-          "menos que sobre signo de similar"
-        ],
-        "tts": [
-          "menos que sobre signo de similar"
-        ]
-      },
       "⪚": {
         "default": [
           "desigualdad",
+          "doble línea sobre mayor que",
           "matemáticas",
-          "signo de igual de doble línea y mayor que"
-        ],
-        "tts": [
           "signo de igual de doble línea y mayor que"
         ]
       },
@@ -2320,9 +2189,6 @@
           "cara",
           "cara sonriendo con ojos grandes",
           "sonrisa"
-        ],
-        "tts": [
-          "cara sonriendo con ojos grandes"
         ]
       },
       "😁": {
@@ -2332,9 +2198,6 @@
           "divertido",
           "ojo",
           "sonrisa"
-        ],
-        "tts": [
-          "cara radiante con ojos sonrientes"
         ]
       },
       "😆": {
@@ -2345,9 +2208,6 @@
           "carcajada",
           "satisfecho",
           "sonrisa"
-        ],
-        "tts": [
-          "cara sonriendo con los ojos cerrados"
         ]
       },
       "😅": {
@@ -2358,9 +2218,6 @@
           "frío",
           "sonrisa",
           "sudor"
-        ],
-        "tts": [
-          "cara sonriendo con sudor frío"
         ]
       },
       "😂": {
@@ -2393,9 +2250,6 @@
           "cara",
           "cara guiñando el ojo",
           "guiño"
-        ],
-        "tts": [
-          "cara guiñando el ojo"
         ]
       },
       "😊": {
@@ -2404,9 +2258,6 @@
           "cara feliz con ojos sonrientes",
           "ojos sonrientes",
           "sonrisa"
-        ],
-        "tts": [
-          "cara feliz con ojos sonrientes"
         ]
       },
       "😇": {
@@ -2424,6 +2275,21 @@
           "cara sonriente con aureola"
         ]
       },
+      "🥰": {
+        "default": [
+          "amor",
+          "cara",
+          "carita",
+          "carita feliz con 3 corazones",
+          "corazón",
+          "corazones",
+          "enamorada",
+          "enamorado",
+          "la adoro",
+          "lo adoro",
+          "me encanta"
+        ]
+      },
       "😍": {
         "default": [
           "amor",
@@ -2434,6 +2300,20 @@
         ],
         "tts": [
           "cara sonriente con ojos de corazón"
+        ]
+      },
+      "🤩": {
+        "default": [
+          "cara",
+          "emocionada",
+          "emocionado",
+          "emocionante",
+          "estrella",
+          "estrellados",
+          "hermosa",
+          "hermoso",
+          "increíble",
+          "ojos"
         ]
       },
       "😘": {
@@ -2457,9 +2337,6 @@
           "cara besando con los ojos cerrados",
           "cerrados",
           "ojos"
-        ],
-        "tts": [
-          "cara besando con los ojos cerrados"
         ]
       },
       "😋": {
@@ -2469,9 +2346,20 @@
           "delicioso",
           "rico",
           "sonriente"
-        ],
-        "tts": [
-          "cara saboreando comida"
+        ]
+      },
+      "😛": {
+        "default": [
+          "broma",
+          "cara",
+          "cara feliz",
+          "cara sacando la lengua",
+          "divertido",
+          "lengua",
+          "lengua fuera",
+          "risa",
+          "sacar",
+          "sacar la lengua"
         ]
       },
       "😝": {
@@ -2497,13 +2385,6 @@
         ]
       },
       "🤔": {
-        "default": [
-          "cara",
-          "cara pensante",
-          "cara pensativa",
-          "duda",
-          "pensar"
-        ],
         "tts": [
           "cara pensativa"
         ]
@@ -2528,9 +2409,18 @@
           "zipper"
         ]
       },
-      "😶‍🌫": {
+      "🤨": {
         "default": [
-          "cara en las nubes"
+          "cara",
+          "cara subiendo la ceja",
+          "ceja arriba",
+          "ceño fruncido",
+          "confundida",
+          "confundido",
+          "desacuerdo",
+          "duda",
+          "dudo",
+          "fruncir el ceño"
         ]
       },
       "😏": {
@@ -2538,6 +2428,20 @@
           "cara",
           "cara sonriendo con superioridad",
           "creído"
+        ]
+      },
+      "😒": {
+        "default": [
+          "aburrida",
+          "aburrido",
+          "cara",
+          "enojada",
+          "enojado",
+          "infeliz",
+          "molesta",
+          "molesto",
+          "mueca",
+          "poco divertido"
         ]
       },
       "🙄": {
@@ -2559,12 +2463,38 @@
           "mueca"
         ]
       },
+      "🙂‍↔": {
+        "default": [
+          "cara diciendo no",
+          "cara moviéndose horizontalmente"
+        ],
+        "tts": [
+          "cara moviéndose horizontalmente"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "cara afirmando",
+          "cara diciendo si",
+          "cara moviéndose verticalmente"
+        ],
+        "tts": [
+          "cara moviéndose verticalmente"
+        ]
+      },
       "😴": {
         "default": [
           "cara",
           "cara durmiendo",
           "sueño",
           "zzz"
+        ]
+      },
+      "🫩": {
+        "default": [
+          "cansancio",
+          "exhausto",
+          "sueño"
         ]
       },
       "😷": {
@@ -2586,9 +2516,6 @@
           "dolor",
           "herido",
           "vendas"
-        ],
-        "tts": [
-          "cara con la cabeza vendada"
         ]
       },
       "🤧": {
@@ -2598,9 +2525,6 @@
           "estornudar",
           "estornudo",
           "resfrío"
-        ],
-        "tts": [
-          "cara estornudando"
         ]
       },
       "🥵": {
@@ -2659,6 +2583,20 @@
           "sol"
         ]
       },
+      "🤓": {
+        "default": [
+          "anteojos",
+          "cara",
+          "cara de nerd",
+          "emoticón",
+          "experto",
+          "friqui",
+          "gafas",
+          "geek",
+          "inteligente",
+          "lentes"
+        ]
+      },
       "🫤": {
         "default": [
           "cara con boca diagonal",
@@ -2675,9 +2613,34 @@
           "cara",
           "cara con la boca abierta",
           "empatía"
-        ],
-        "tts": [
-          "cara con la boca abierta"
+        ]
+      },
+      "😲": {
+        "default": [
+          "asombrada",
+          "asombrado",
+          "asombro",
+          "asustado",
+          "horrorizada",
+          "horrorizado",
+          "pasmado",
+          "sorprendida",
+          "sorprendido",
+          "sorpresa"
+        ]
+      },
+      "🥺": {
+        "default": [
+          "cara",
+          "cara de ruego",
+          "ojos de cachorro",
+          "ojos grandes",
+          "ojos llorosos",
+          "piedad",
+          "por favor",
+          "por qué no",
+          "rogar",
+          "triste"
         ]
       },
       "😦": {
@@ -2710,6 +2673,20 @@
           "sudor"
         ]
       },
+      "😥": {
+        "default": [
+          "aliviado",
+          "alivio",
+          "cara",
+          "cara triste pero aliviada",
+          "decepción",
+          "decepción y alivio",
+          "decepcionado",
+          "decepcionado pero aliviado",
+          "preocupacion",
+          "susto"
+        ]
+      },
       "😢": {
         "default": [
           "cara llorando",
@@ -2717,9 +2694,6 @@
           "llorar",
           "triste",
           "tristeza"
-        ],
-        "tts": [
-          "cara llorando"
         ]
       },
       "😭": {
@@ -2739,9 +2713,6 @@
           "horror",
           "miedo",
           "terror"
-        ],
-        "tts": [
-          "cara gritando de miedo"
         ]
       },
       "😖": {
@@ -2775,9 +2746,6 @@
           "cansada",
           "cara",
           "exhausta"
-        ],
-        "tts": [
-          "cara agotada"
         ]
       },
       "🥱": {
@@ -2794,9 +2762,6 @@
           "cara resoplando",
           "ganar",
           "triunfo"
-        ],
-        "tts": [
-          "cara resoplando"
         ]
       },
       "😠": {
@@ -2805,9 +2770,21 @@
           "cara enfadada",
           "enojado",
           "enojo"
-        ],
-        "tts": [
-          "cara enfadada"
+        ]
+      },
+      "🤬": {
+        "default": [
+          "cara de enojo",
+          "decir groserías",
+          "decir malas palabras",
+          "disgusto",
+          "enfadada",
+          "enfadado",
+          "enojada",
+          "enojado",
+          "enojo",
+          "malas palabras",
+          "palabrotas"
         ]
       },
       "😈": {
@@ -2940,6 +2917,29 @@
           "sonrisa"
         ]
       },
+      "😹": {
+        "default": [
+          "alegría",
+          "cara de gato",
+          "gato",
+          "gato llorando de risa",
+          "lágrimas",
+          "llorando"
+        ]
+      },
+      "😻": {
+        "default": [
+          "animal",
+          "cara",
+          "cara de gato",
+          "cara de gato sonriendo con corazones en los ojos",
+          "corazón",
+          "corazones",
+          "enamorado",
+          "gato",
+          "gato sonriendo con ojos de corazón"
+        ]
+      },
       "🙀": {
         "default": [
           "asustado",
@@ -2963,9 +2963,6 @@
           "cara",
           "cara de gato enfadado",
           "gato",
-          "gato enfadado"
-        ],
-        "tts": [
           "gato enfadado"
         ]
       },
@@ -2994,14 +2991,6 @@
           "corazón con flecha",
           "cupido",
           "flecha"
-        ]
-      },
-      "❣": {
-        "default": [
-          "corazón",
-          "exclamación",
-          "exclamación con forma de corazón",
-          "puntuación"
         ]
       },
       "💔": {
@@ -3125,7 +3114,12 @@
       },
       "👁‍🗨": {
         "default": [
-          "ojo en un globo de texto"
+          "burbuja",
+          "globo",
+          "ojo",
+          "ojo en un globo de texto",
+          "testigo",
+          "texto"
         ],
         "tts": [
           "ojo en un globo de texto"
@@ -3197,6 +3191,28 @@
           "fuera",
           "mano con la palma hacia abajo",
           "quitar",
+          "rechazar"
+        ]
+      },
+      "🫷": {
+        "default": [
+          "choca esos cinco",
+          "detener",
+          "empujar",
+          "hacia la izquierda",
+          "mano empujando hacia la izquierda",
+          "parar",
+          "rechazar"
+        ]
+      },
+      "🫸": {
+        "default": [
+          "choca esos cinco",
+          "detener",
+          "empujar",
+          "hacia la derecha",
+          "mano empujando hacia la derecha",
+          "parar",
           "rechazar"
         ]
       },
@@ -3398,11 +3414,6 @@
           "persona con barba"
         ]
       },
-      "🧔‍♂": {
-        "default": [
-          "hombre: barba"
-        ]
-      },
       "👱‍♂": {
         "default": [
           "hombre",
@@ -3459,9 +3470,6 @@
           "ceño fruncido",
           "gesto",
           "mujer",
-          "mujer frunciendo el ceño"
-        ],
-        "tts": [
           "mujer frunciendo el ceño"
         ]
       },
@@ -3617,11 +3625,6 @@
           "persona encogida de hombros"
         ]
       },
-      "🧑‍🎓": {
-        "default": [
-          "estudiante"
-        ]
-      },
       "🧑‍🏫": {
         "default": [
           "docente",
@@ -3631,9 +3634,6 @@
         ]
       },
       "🧑‍⚖": {
-        "default": [
-          "juez"
-        ],
         "tts": [
           "juez"
         ]
@@ -3753,26 +3753,6 @@
           "software"
         ]
       },
-      "🧑‍🎤": {
-        "default": [
-          "cantante"
-        ]
-      },
-      "🧑‍🎨": {
-        "default": [
-          "artista"
-        ]
-      },
-      "🧑‍🚀": {
-        "default": [
-          "astronauta"
-        ]
-      },
-      "🧑‍🚒": {
-        "default": [
-          "bombero"
-        ]
-      },
       "👮": {
         "default": [
           "agente de policía",
@@ -3813,12 +3793,6 @@
           "cuento de hadas",
           "fantasía",
           "princesa"
-        ]
-      },
-      "👳": {
-        "default": [
-          "persona con turbante",
-          "turbante"
         ]
       },
       "👲": {
@@ -3869,30 +3843,9 @@
           "Señora"
         ]
       },
-      "🦸‍♂": {
-        "default": [
-          "superhéroe"
-        ]
-      },
-      "🦸‍♀": {
-        "default": [
-          "mujer superheroína"
-        ],
-        "tts": [
-          "mujer superheroína"
-        ]
-      },
       "🦹‍♂": {
-        "default": [
-          "hombre supervillano"
-        ],
         "tts": [
           "hombre supervillano"
-        ]
-      },
-      "🦹‍♀": {
-        "default": [
-          "supervillana"
         ]
       },
       "🧚": {
@@ -3963,10 +3916,11 @@
       },
       "🧑‍🦯": {
         "default": [
-          "Persona con bastón blanco"
-        ],
-        "tts": [
-          "Persona con bastón blanco"
+          "accesibilidad",
+          "ciego",
+          "invidente",
+          "persona con bastón",
+          "persona con bastón blanco"
         ]
       },
       "👨‍🦯": {
@@ -3993,9 +3947,16 @@
           "mujer con bastón blanco"
         ]
       },
-      "🧑‍🦽": {
+      "🏃": {
         "default": [
-          "persona en silla de ruedas manual"
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "maratón",
+          "persona",
+          "persona corriendo"
         ]
       },
       "💃": {
@@ -4061,9 +4022,6 @@
           "persona haciendo surf",
           "surf",
           "surfista"
-        ],
-        "tts": [
-          "persona haciendo surf"
         ]
       },
       "🚣": {
@@ -4072,9 +4030,6 @@
           "bote",
           "persona remando en un bote",
           "remo"
-        ],
-        "tts": [
-          "persona remando en un bote"
         ]
       },
       "⛹": {
@@ -4169,7 +4124,12 @@
       },
       "🧑‍🤝‍🧑": {
         "default": [
-          "personas que se toman de la mano"
+          "mano",
+          "pareja",
+          "persona",
+          "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano"
         ],
         "tts": [
           "personas que se toman de la mano"
@@ -4234,12 +4194,59 @@
           "papá"
         ]
       },
+      "🧑‍🧑‍🧒": {
+        "default": [
+          "adulto",
+          "familia: adulto",
+          "familia: adulto, adulto, infante",
+          "infante"
+        ],
+        "tts": [
+          "familia: adulto, adulto, infante"
+        ]
+      },
+      "🧑‍🧑‍🧒‍🧒": {
+        "default": [
+          "adulto",
+          "familia: adulto",
+          "familia: adulto, adulto, infante, infante",
+          "infante"
+        ],
+        "tts": [
+          "familia: adulto, adulto, infante, infante"
+        ]
+      },
+      "🧑‍🧒": {
+        "default": [
+          "familia: adulto",
+          "familia: adulto, infante",
+          "infante"
+        ],
+        "tts": [
+          "familia: adulto, infante"
+        ]
+      },
+      "🧑‍🧒‍🧒": {
+        "default": [
+          "familia: adulto",
+          "familia: adulto, infante, infante",
+          "infante"
+        ],
+        "tts": [
+          "familia: adulto, infante, infante"
+        ]
+      },
       "👣": {
         "default": [
           "huella",
           "huellas",
           "pisada",
           "ropa"
+        ]
+      },
+      "🫆": {
+        "tts": [
+          "huella digital"
         ]
       },
       "🦰": {
@@ -4411,9 +4418,6 @@
           "ave",
           "bebé",
           "pollito"
-        ],
-        "tts": [
-          "pollito"
         ]
       },
       "🐥": {
@@ -4465,6 +4469,29 @@
           "orgulloso",
           "ostentoso",
           "pavo real"
+        ]
+      },
+      "🐦‍⬛": {
+        "default": [
+          "corneja",
+          "cuervo",
+          "grajo",
+          "mirlo",
+          "negro",
+          "pájaro"
+        ],
+        "tts": [
+          "mirlo"
+        ]
+      },
+      "🐦‍🔥": {
+        "default": [
+          "ave en llamas",
+          "fantasía",
+          "fénix",
+          "reencarnación",
+          "regeneración",
+          "renacimiento"
         ]
       },
       "🐍": {
@@ -4584,6 +4611,13 @@
           "hoja",
           "trébol",
           "trébol de cuatro hojas"
+        ]
+      },
+      "🪾": {
+        "default": [
+          "árido",
+          "invierno",
+          "sequía"
         ]
       },
       "🍇": {
@@ -4723,6 +4757,33 @@
           "frijoles",
           "habichuela",
           "legumbre"
+        ]
+      },
+      "🍄‍🟫": {
+        "default": [
+          "champiñones",
+          "comida",
+          "cremini",
+          "hongo",
+          "hongo café",
+          "hongo portabello",
+          "hongos",
+          "vegetal"
+        ],
+        "tts": [
+          "hongo portabello"
+        ]
+      },
+      "🫜": {
+        "default": [
+          "betabel",
+          "jardín",
+          "nabo",
+          "raíz",
+          "vegetal"
+        ],
+        "tts": [
+          "betabel"
         ]
       },
       "🥐": {
@@ -5058,9 +5119,6 @@
           "pastel",
           "pastel de cumpleaños",
           "postre"
-        ],
-        "tts": [
-          "pastel de cumpleaños"
         ]
       },
       "🍰": {
@@ -5218,6 +5276,7 @@
         "default": [
           "cocinando",
           "cuchillo",
+          "cuchillo y plato",
           "plato",
           "tenedor",
           "tenedor, cuchillo y plato"
@@ -5295,7 +5354,6 @@
         "default": [
           "japón",
           "mapa",
-          "mapa de japón",
           "mapa de Japón"
         ]
       },
@@ -5472,9 +5530,6 @@
           "metro",
           "subterráneo",
           "transporte"
-        ],
-        "tts": [
-          "metro"
         ]
       },
       "🚞": {
@@ -6076,9 +6131,6 @@
       },
       "⭐": {
         "default": [
-          "estrella"
-        ],
-        "tts": [
           "estrella"
         ]
       },
@@ -6773,6 +6825,18 @@
           "video"
         ]
       },
+      "🪉": {
+        "default": [
+          "amor",
+          "cupido",
+          "instrumento",
+          "música",
+          "orquesta"
+        ],
+        "tts": [
+          "harpa"
+        ]
+      },
       "📲": {
         "default": [
           "auricular",
@@ -6891,9 +6955,6 @@
           "foco",
           "idea",
           "luz"
-        ],
-        "tts": [
-          "foco"
         ]
       },
       "🔦": {
@@ -7167,6 +7228,14 @@
           "bastón blanco"
         ]
       },
+      "⛓‍💥": {
+        "default": [
+          "cadena",
+          "cadena rota",
+          "libertad",
+          "romper"
+        ]
+      },
       "🪝": {
         "default": [
           "agarrar",
@@ -7180,6 +7249,14 @@
           "anzuelo"
         ]
       },
+      "🪏": {
+        "default": [
+          "agujero",
+          "cuchara",
+          "pala",
+          "pica"
+        ]
+      },
       "🧫": {
         "default": [
           "bacterias",
@@ -7187,7 +7264,6 @@
           "biólogo",
           "cultivo",
           "laboratorio",
-          "placa de petri",
           "placa de Petri"
         ],
         "tts": [
@@ -7196,7 +7272,6 @@
       },
       "🧬": {
         "default": [
-          "adn",
           "ADN",
           "biólogo",
           "evolución",
@@ -7345,8 +7420,7 @@
           "jamsa",
           "mano",
           "María",
-          "Miriam",
-          "protección"
+          "Miriam"
         ],
         "tts": [
           "Hamsa"
@@ -7714,14 +7788,12 @@
       },
       "♍": {
         "default": [
-          "virgo",
           "Virgo",
           "zodíaco"
         ]
       },
       "♒": {
         "default": [
-          "acuario",
           "Acuario",
           "agua",
           "aguador",
@@ -7730,7 +7802,6 @@
       },
       "⛎": {
         "default": [
-          "ofiuco",
           "Ofiuco",
           "serpiente",
           "víbora",
@@ -8089,11 +8160,6 @@
           "símbolo de reciclaje"
         ]
       },
-      "⚜": {
-        "default": [
-          "flor de lis"
-        ]
-      },
       "🔱": {
         "default": [
           "ancla",
@@ -8215,9 +8281,13 @@
           "registrada",
           "símbolo",
           "símbolo de marca comercial"
-        ],
-        "tts": [
-          "marca comercial"
+        ]
+      },
+      "🫟": {
+        "default": [
+          "mancha",
+          "pintura",
+          "salpicadura"
         ]
       },
       "🔠": {
@@ -8317,7 +8387,6 @@
       "Ⓜ": {
         "default": [
           "círculo",
-          "letra m en un círculo",
           "letra M en un círculo",
           "m"
         ]
@@ -8551,11 +8620,6 @@
         ]
       },
       "🟤": {
-        "default": [
-          "café",
-          "círculo",
-          "marrón"
-        ],
         "tts": [
           "círculo café"
         ]
@@ -8772,9 +8836,18 @@
           "ondear"
         ]
       },
-      "🏴‍☠": {
+      "🏳‍🌈": {
         "default": [
-          "bandera pirata"
+          "arcoiris",
+          "bandera",
+          "bisexual",
+          "gay",
+          "homesexual",
+          "lesbiana",
+          "lgbt",
+          "orgullo",
+          "trans",
+          "transgénero"
         ]
       },
       "₢": {

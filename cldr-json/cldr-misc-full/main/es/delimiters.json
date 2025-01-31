@@ -2,16 +2,13 @@
   "main": {
     "es": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "es"
       },
       "delimiters": {
-        "quotationStart": "«",
-        "quotationEnd": "»",
-        "alternateQuotationStart": "“",
-        "alternateQuotationEnd": "”"
+        "quotationStart": "“",
+        "quotationEnd": "”",
+        "alternateQuotationStart": "‘",
+        "alternateQuotationEnd": "’"
       }
     }
   }

@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "sc"
     },
     "annotations": {
@@ -421,6 +418,169 @@
           "cara risulana cun sos ogros chi rident"
         ]
       },
+      "😁": {
+        "default": [
+          "cara",
+          "cara alligra cun ogros risulanos",
+          "fatze",
+          "ogros risulanos",
+          "risitu",
+          "risu",
+          "sorrisu"
+        ],
+        "tts": [
+          "cara alligra cun ogros risulanos"
+        ]
+      },
+      "😆": {
+        "default": [
+          "buca",
+          "cara",
+          "cara risulana cun ogros serrados",
+          "fatze",
+          "risu",
+          "risulana",
+          "risulanu"
+        ],
+        "tts": [
+          "cara risulana cun ogros serrados"
+        ]
+      },
+      "😅": {
+        "default": [
+          "cara",
+          "cara risulana cun gùtiu de suore",
+          "fatze",
+          "risu",
+          "risulanu",
+          "sorrisu",
+          "suore",
+          "suore fritu"
+        ],
+        "tts": [
+          "cara risulana cun gùtiu de suore"
+        ]
+      },
+      "🤣": {
+        "default": [
+          "cara",
+          "fatze",
+          "iscracàllios",
+          "riende",
+          "riende a iscracàllios",
+          "risu"
+        ],
+        "tts": [
+          "riende a iscracàllios"
+        ]
+      },
+      "😂": {
+        "default": [
+          "cara",
+          "cara cun làgrimas dae su risu",
+          "cara cun làgrimas de cuntentesa",
+          "cuntentesa",
+          "fatze",
+          "làgrimas",
+          "riende",
+          "risu"
+        ],
+        "tts": [
+          "cara cun làgrimas de cuntentesa"
+        ]
+      },
+      "🙂": {
+        "default": [
+          "cara",
+          "cara cun sorrisu atzinnadu",
+          "fatze",
+          "risitu",
+          "sorrisu",
+          "sorrisu atzinnadu"
+        ],
+        "tts": [
+          "cara cun sorrisu atzinnadu"
+        ]
+      },
+      "🙃": {
+        "default": [
+          "cara",
+          "cara a conca a giosso",
+          "cara a giosso",
+          "conca a giosso",
+          "fatze"
+        ],
+        "tts": [
+          "cara a conca a giosso"
+        ]
+      },
+      "🫠": {
+        "default": [
+          "cara",
+          "fatze",
+          "isorta",
+          "isortu",
+          "isorvende·si",
+          "lìcuida",
+          "lìcuidu"
+        ],
+        "tts": [
+          "cara isorvende·si"
+        ]
+      },
+      "😉": {
+        "default": [
+          "atzinnare",
+          "atzinnu",
+          "cara",
+          "cara chi faghet s’atzinnu",
+          "cara chi faghet s’ogritu",
+          "cara chi faghet un’ogritu",
+          "fatze",
+          "ogritu",
+          "tzinnire"
+        ],
+        "tts": [
+          "cara chi faghet s’atzinnu"
+        ]
+      },
+      "😊": {
+        "default": [
+          "arrubiada",
+          "arrubiadu",
+          "arrubiare",
+          "cara",
+          "cara risulana cun ogros risulanos",
+          "cuntenta",
+          "cuntentu",
+          "fatze",
+          "risulana",
+          "risulanu",
+          "sorrisu"
+        ],
+        "tts": [
+          "cara risulana cun ogros risulanos"
+        ]
+      },
+      "😇": {
+        "default": [
+          "ànghelu",
+          "cara",
+          "cara risulana cun chìrchinu",
+          "chìrchinu",
+          "fantasia",
+          "fatze",
+          "innotzente",
+          "risitu",
+          "risu",
+          "risulana",
+          "risulanu",
+          "sorrisu"
+        ],
+        "tts": [
+          "cara risulana cun chìrchinu"
+        ]
+      },
       "😶‍🌫": {
         "default": [
           "cara",
@@ -532,6 +692,28 @@
         ],
         "tts": [
           "cara cun sìmbulos subra de sa buca"
+        ]
+      },
+      "😈": {
+        "default": [
+          "cara",
+          "cara risulana cun corros",
+          "corros",
+          "diauleddu",
+          "diàulu",
+          "dimonieddu",
+          "dimòniu",
+          "fantasia",
+          "fatze",
+          "iscantzada",
+          "risitu",
+          "risu",
+          "risulana",
+          "risulanu",
+          "sorrisu"
+        ],
+        "tts": [
+          "cara risulana cun corros"
         ]
       },
       "👿": {
@@ -1426,7 +1608,6 @@
           "ruschidare",
           "sonnu",
           "sorroscrare",
-          "zzz",
           "Zzz"
         ],
         "tts": [
@@ -3146,6 +3327,20 @@
         ],
         "tts": [
           "oca"
+        ]
+      },
+      "🐦‍🔥": {
+        "default": [
+          "fantasia",
+          "fenitze",
+          "pugione",
+          "pugione de fogu",
+          "reincarnatzione",
+          "renàschida",
+          "rinàschida"
+        ],
+        "tts": [
+          "fenitze"
         ]
       },
       "🐸": {
@@ -4940,8 +5135,9 @@
         "default": [
           "cotighina",
           "cotzighina",
-          "cotzigone, cotzinàrgiu",
+          "cotzigone",
           "cotzina",
+          "cotzinàrgiu",
           "linna",
           "linnàmene",
           "mutzigone",
@@ -9179,6 +9375,19 @@
           "flàutu"
         ]
       },
+      "🪉": {
+        "default": [
+          "arpa",
+          "cupidu",
+          "istrumentu",
+          "istrumentu musicale",
+          "mùsica",
+          "orchestra amore"
+        ],
+        "tts": [
+          "arpa"
+        ]
+      },
       "📱": {
         "default": [
           "telefoneddu",
@@ -10775,6 +10984,19 @@
         ],
         "tts": [
           "ligàmene"
+        ]
+      },
+      "⛓‍💥": {
+        "default": [
+          "cadena",
+          "cadena segada",
+          "cadena truncada",
+          "libertade",
+          "segare",
+          "truncare"
+        ],
+        "tts": [
+          "cadena truncada"
         ]
       },
       "⛓": {
@@ -13505,8 +13727,9 @@
       },
       "🏳‍⚧": {
         "default": [
-          "bandera asulu, biancu e rosa",
+          "bandera asulu",
           "bandera de sos transgèneres",
+          "biancu e rosa",
           "transgènere",
           "transgèneres"
         ],

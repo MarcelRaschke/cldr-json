@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "en",
       "territory": "CA"
     },
@@ -332,8 +329,8 @@
         "default": [
           "high five",
           "leftward",
-          "leftward pushing hand",
           "leftward-pushing hand",
+          "leftwards pushing hand",
           "light skin tone",
           "push",
           "refuse",
@@ -348,8 +345,8 @@
         "default": [
           "high five",
           "leftward",
-          "leftward pushing hand",
           "leftward-pushing hand",
+          "leftwards pushing hand",
           "medium-light skin tone",
           "push",
           "refuse",
@@ -364,8 +361,8 @@
         "default": [
           "high five",
           "leftward",
-          "leftward pushing hand",
           "leftward-pushing hand",
+          "leftwards pushing hand",
           "medium skin tone",
           "push",
           "refuse",
@@ -380,8 +377,8 @@
         "default": [
           "high five",
           "leftward",
-          "leftward pushing hand",
           "leftward-pushing hand",
+          "leftwards pushing hand",
           "medium-dark skin tone",
           "push",
           "refuse",
@@ -397,8 +394,8 @@
           "dark skin tone",
           "high five",
           "leftward",
-          "leftward pushing hand",
           "leftward-pushing hand",
+          "leftwards pushing hand",
           "push",
           "refuse",
           "stop",
@@ -415,8 +412,8 @@
           "push",
           "refuse",
           "rightward",
-          "rightward pushing hand",
           "rightward-pushing hand",
+          "rightwards pushing hand",
           "stop",
           "wait"
         ],
@@ -431,8 +428,8 @@
           "push",
           "refuse",
           "rightward",
-          "rightward pushing hand",
           "rightward-pushing hand",
+          "rightwards pushing hand",
           "stop",
           "wait"
         ],
@@ -447,8 +444,8 @@
           "push",
           "refuse",
           "rightward",
-          "rightward pushing hand",
           "rightward-pushing hand",
+          "rightwards pushing hand",
           "stop",
           "wait"
         ],
@@ -463,8 +460,8 @@
           "push",
           "refuse",
           "rightward",
-          "rightward pushing hand",
           "rightward-pushing hand",
+          "rightwards pushing hand",
           "stop",
           "wait"
         ],
@@ -479,8 +476,8 @@
           "push",
           "refuse",
           "rightward",
-          "rightward pushing hand",
           "rightward-pushing hand",
+          "rightwards pushing hand",
           "stop",
           "wait"
         ],
@@ -1033,12 +1030,58 @@
           "young"
         ]
       },
+      "🙎🏻": {
+        "default": [
+          "facial expression",
+          "gesture",
+          "light skin tone",
+          "person pouting",
+          "pouting"
+        ]
+      },
+      "🙎🏼": {
+        "default": [
+          "facial expression",
+          "gesture",
+          "medium-light skin tone",
+          "person pouting",
+          "pouting"
+        ]
+      },
+      "🙎🏽": {
+        "default": [
+          "facial expression",
+          "gesture",
+          "medium skin tone",
+          "person pouting",
+          "pouting"
+        ]
+      },
+      "🙎🏾": {
+        "default": [
+          "facial expression",
+          "gesture",
+          "medium-dark skin tone",
+          "person pouting",
+          "pouting"
+        ]
+      },
+      "🙎🏿": {
+        "default": [
+          "dark skin tone",
+          "facial expression",
+          "gesture",
+          "person pouting",
+          "pouting"
+        ]
+      },
       "🧏🏻": {
         "default": [
           "accessibility",
           "deaf",
           "deaf person",
           "ear",
+          "hard of hearing",
           "hear",
           "hearing impaired",
           "light skin tone"
@@ -1050,6 +1093,7 @@
           "deaf",
           "deaf person",
           "ear",
+          "hard of hearing",
           "hear",
           "hearing impaired",
           "medium-light skin tone"
@@ -1061,6 +1105,7 @@
           "deaf",
           "deaf person",
           "ear",
+          "hard of hearing",
           "hear",
           "hearing impaired",
           "medium skin tone"
@@ -1072,6 +1117,7 @@
           "deaf",
           "deaf person",
           "ear",
+          "hard of hearing",
           "hear",
           "hearing impaired",
           "medium-dark skin tone"
@@ -1084,15 +1130,135 @@
           "deaf",
           "deaf person",
           "ear",
+          "hard of hearing",
           "hear",
           "hearing impaired"
         ]
       },
+      "🙇🏻‍♂": {
+        "default": [
+          "apology",
+          "bowing",
+          "favor",
+          "favour",
+          "gesture",
+          "light skin tone",
+          "man",
+          "sorry"
+        ]
+      },
+      "🙇🏼‍♂": {
+        "default": [
+          "apology",
+          "bowing",
+          "favor",
+          "favour",
+          "gesture",
+          "man",
+          "medium-light skin tone",
+          "sorry"
+        ]
+      },
+      "🙇🏽‍♂": {
+        "default": [
+          "apology",
+          "bowing",
+          "favor",
+          "favour",
+          "gesture",
+          "man",
+          "medium skin tone",
+          "sorry"
+        ]
+      },
+      "🙇🏾‍♂": {
+        "default": [
+          "apology",
+          "bowing",
+          "favor",
+          "favour",
+          "gesture",
+          "man",
+          "medium-dark skin tone",
+          "sorry"
+        ]
+      },
+      "🙇🏿‍♂": {
+        "default": [
+          "apology",
+          "bowing",
+          "dark skin tone",
+          "favor",
+          "favour",
+          "gesture",
+          "man",
+          "sorry"
+        ]
+      },
+      "🙇🏻‍♀": {
+        "default": [
+          "apology",
+          "bowing",
+          "favor",
+          "favour",
+          "gesture",
+          "light skin tone",
+          "sorry",
+          "woman"
+        ]
+      },
+      "🙇🏼‍♀": {
+        "default": [
+          "apology",
+          "bowing",
+          "favor",
+          "favour",
+          "gesture",
+          "medium-light skin tone",
+          "sorry",
+          "woman"
+        ]
+      },
+      "🙇🏽‍♀": {
+        "default": [
+          "apology",
+          "bowing",
+          "favor",
+          "favour",
+          "gesture",
+          "medium skin tone",
+          "sorry",
+          "woman"
+        ]
+      },
+      "🙇🏾‍♀": {
+        "default": [
+          "apology",
+          "bowing",
+          "favor",
+          "favour",
+          "gesture",
+          "medium-dark skin tone",
+          "sorry",
+          "woman"
+        ]
+      },
+      "🙇🏿‍♀": {
+        "default": [
+          "apology",
+          "bowing",
+          "dark skin tone",
+          "favor",
+          "favour",
+          "gesture",
+          "sorry",
+          "woman"
+        ]
+      },
       "🧑🏻‍⚕": {
         "default": [
-          "care",
           "doctor",
-          "health",
+          "health care",
           "health worker",
           "healthcare",
           "light skin tone",
@@ -1102,9 +1268,8 @@
       },
       "🧑🏼‍⚕": {
         "default": [
-          "care",
           "doctor",
-          "health",
+          "health care",
           "health worker",
           "healthcare",
           "medium-light skin tone",
@@ -1114,9 +1279,8 @@
       },
       "🧑🏽‍⚕": {
         "default": [
-          "care",
           "doctor",
-          "health",
+          "health care",
           "health worker",
           "healthcare",
           "medium skin tone",
@@ -1126,9 +1290,8 @@
       },
       "🧑🏾‍⚕": {
         "default": [
-          "care",
           "doctor",
-          "health",
+          "health care",
           "health worker",
           "healthcare",
           "medium-dark skin tone",
@@ -1138,10 +1301,9 @@
       },
       "🧑🏿‍⚕": {
         "default": [
-          "care",
           "dark skin tone",
           "doctor",
-          "health",
+          "health care",
           "health worker",
           "healthcare",
           "nurse",
@@ -1413,6 +1575,111 @@
           "woman"
         ]
       },
+      "🕵🏻": {
+        "default": [
+          "detective",
+          "light skin tone",
+          "private eye",
+          "sleuth",
+          "spy"
+        ]
+      },
+      "🕵🏼": {
+        "default": [
+          "detective",
+          "medium-light skin tone",
+          "private eye",
+          "sleuth",
+          "spy"
+        ]
+      },
+      "🕵🏽": {
+        "default": [
+          "detective",
+          "medium skin tone",
+          "private eye",
+          "sleuth",
+          "spy"
+        ]
+      },
+      "🕵🏾": {
+        "default": [
+          "detective",
+          "medium-dark skin tone",
+          "private eye",
+          "sleuth",
+          "spy"
+        ]
+      },
+      "🕵🏿": {
+        "default": [
+          "dark skin tone",
+          "detective",
+          "private eye",
+          "sleuth",
+          "spy"
+        ]
+      },
+      "🫅🏻": {
+        "default": [
+          "king",
+          "light skin tone",
+          "monarch",
+          "noble",
+          "person with crown",
+          "queen",
+          "regal",
+          "royalty"
+        ]
+      },
+      "🫅🏼": {
+        "default": [
+          "king",
+          "medium-light skin tone",
+          "monarch",
+          "noble",
+          "person with crown",
+          "queen",
+          "regal",
+          "royalty"
+        ]
+      },
+      "🫅🏽": {
+        "default": [
+          "king",
+          "medium skin tone",
+          "monarch",
+          "noble",
+          "person with crown",
+          "queen",
+          "regal",
+          "royalty"
+        ]
+      },
+      "🫅🏾": {
+        "default": [
+          "king",
+          "medium-dark skin tone",
+          "monarch",
+          "noble",
+          "person with crown",
+          "queen",
+          "regal",
+          "royalty"
+        ]
+      },
+      "🫅🏿": {
+        "default": [
+          "dark skin tone",
+          "king",
+          "monarch",
+          "noble",
+          "person with crown",
+          "queen",
+          "regal",
+          "royalty"
+        ]
+      },
       "🤴🏻": {
         "default": [
           "fairy tale",
@@ -1555,7 +1822,8 @@
       },
       "🧑🏻‍🎄": {
         "default": [
-          "Claus, Christmas",
+          "Christmas",
+          "Claus",
           "light skin tone",
           "Mx. Claus"
         ],
@@ -1565,7 +1833,8 @@
       },
       "🧑🏼‍🎄": {
         "default": [
-          "Claus, Christmas",
+          "Christmas",
+          "Claus",
           "medium-light skin tone",
           "Mx. Claus"
         ],
@@ -1575,7 +1844,8 @@
       },
       "🧑🏽‍🎄": {
         "default": [
-          "Claus, Christmas",
+          "Christmas",
+          "Claus",
           "medium skin tone",
           "Mx. Claus"
         ],
@@ -1585,7 +1855,8 @@
       },
       "🧑🏾‍🎄": {
         "default": [
-          "Claus, Christmas",
+          "Christmas",
+          "Claus",
           "medium-dark skin tone",
           "Mx. Claus"
         ],
@@ -1595,7 +1866,8 @@
       },
       "🧑🏿‍🎄": {
         "default": [
-          "Claus, Christmas",
+          "Christmas",
+          "Claus",
           "dark skin tone",
           "Mx. Claus"
         ],
@@ -1853,311 +2125,14 @@
           "woman"
         ]
       },
-      "👭🏻": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "light skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏻‍🤝‍👩🏼": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "light skin tone",
-          "medium-light skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏻‍🤝‍👩🏽": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "light skin tone",
-          "medium skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏻‍🤝‍👩🏾": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "light skin tone",
-          "medium-dark skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏻‍🤝‍👩🏿": {
-        "default": [
-          "couple",
-          "dark skin tone",
-          "hand",
-          "holding hands",
-          "light skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏼‍🤝‍👩🏻": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "light skin tone",
-          "medium-light skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👭🏼": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "medium-light skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏼‍🤝‍👩🏽": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "medium skin tone",
-          "medium-light skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏼‍🤝‍👩🏾": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "medium-dark skin tone",
-          "medium-light skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏼‍🤝‍👩🏿": {
-        "default": [
-          "couple",
-          "dark skin tone",
-          "hand",
-          "holding hands",
-          "medium-light skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏽‍🤝‍👩🏻": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "light skin tone",
-          "medium skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏽‍🤝‍👩🏼": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "medium skin tone",
-          "medium-light skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👭🏽": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "medium skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏽‍🤝‍👩🏾": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "medium skin tone",
-          "medium-dark skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏽‍🤝‍👩🏿": {
-        "default": [
-          "couple",
-          "dark skin tone",
-          "hand",
-          "holding hands",
-          "medium skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏾‍🤝‍👩🏻": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "light skin tone",
-          "medium-dark skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏾‍🤝‍👩🏼": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "medium-dark skin tone",
-          "medium-light skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏾‍🤝‍👩🏽": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "medium skin tone",
-          "medium-dark skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👭🏾": {
-        "default": [
-          "couple",
-          "hand",
-          "holding hands",
-          "medium-dark skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏾‍🤝‍👩🏿": {
-        "default": [
-          "couple",
-          "dark skin tone",
-          "hand",
-          "holding hands",
-          "medium-dark skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏿‍🤝‍👩🏻": {
-        "default": [
-          "couple",
-          "dark skin tone",
-          "hand",
-          "holding hands",
-          "light skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏿‍🤝‍👩🏼": {
-        "default": [
-          "couple",
-          "dark skin tone",
-          "hand",
-          "holding hands",
-          "medium-light skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏿‍🤝‍👩🏽": {
-        "default": [
-          "couple",
-          "dark skin tone",
-          "hand",
-          "holding hands",
-          "medium skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👩🏿‍🤝‍👩🏾": {
-        "default": [
-          "couple",
-          "dark skin tone",
-          "hand",
-          "holding hands",
-          "medium-dark skin tone",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
-      "👭🏿": {
-        "default": [
-          "couple",
-          "dark skin tone",
-          "hand",
-          "holding hands",
-          "two women holding hands",
-          "women",
-          "women holding hands"
-        ]
-      },
       "👬🏻": {
         "default": [
           "couple",
           "Gemini",
           "holding hands",
           "light skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2168,10 +2143,8 @@
           "holding hands",
           "light skin tone",
           "medium-light skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2182,10 +2155,8 @@
           "holding hands",
           "light skin tone",
           "medium skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2196,10 +2167,8 @@
           "holding hands",
           "light skin tone",
           "medium-dark skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2210,10 +2179,8 @@
           "Gemini",
           "holding hands",
           "light skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2224,10 +2191,8 @@
           "holding hands",
           "light skin tone",
           "medium-light skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2237,10 +2202,8 @@
           "Gemini",
           "holding hands",
           "medium-light skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2251,10 +2214,8 @@
           "holding hands",
           "medium skin tone",
           "medium-light skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2265,10 +2226,8 @@
           "holding hands",
           "medium-dark skin tone",
           "medium-light skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2279,10 +2238,8 @@
           "Gemini",
           "holding hands",
           "medium-light skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2293,10 +2250,8 @@
           "holding hands",
           "light skin tone",
           "medium skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2307,10 +2262,8 @@
           "holding hands",
           "medium skin tone",
           "medium-light skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2320,10 +2273,8 @@
           "Gemini",
           "holding hands",
           "medium skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2334,10 +2285,8 @@
           "holding hands",
           "medium skin tone",
           "medium-dark skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2348,10 +2297,8 @@
           "Gemini",
           "holding hands",
           "medium skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2362,10 +2309,8 @@
           "holding hands",
           "light skin tone",
           "medium-dark skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2376,10 +2321,8 @@
           "holding hands",
           "medium-dark skin tone",
           "medium-light skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2390,10 +2333,8 @@
           "holding hands",
           "medium skin tone",
           "medium-dark skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2403,10 +2344,8 @@
           "Gemini",
           "holding hands",
           "medium-dark skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2417,10 +2356,8 @@
           "Gemini",
           "holding hands",
           "medium-dark skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2431,10 +2368,8 @@
           "Gemini",
           "holding hands",
           "light skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2445,10 +2380,8 @@
           "Gemini",
           "holding hands",
           "medium-light skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2459,10 +2392,8 @@
           "Gemini",
           "holding hands",
           "medium skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2473,10 +2404,8 @@
           "Gemini",
           "holding hands",
           "medium-dark skin tone",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },
@@ -2486,10 +2415,8 @@
           "dark skin tone",
           "Gemini",
           "holding hands",
-          "men",
           "men holding hands",
           "twins",
-          "two men holding hands",
           "zodiac"
         ]
       },

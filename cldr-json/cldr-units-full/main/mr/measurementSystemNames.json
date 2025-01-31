@@ -2,9 +2,6 @@
   "main": {
     "mr": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "mr"
       },
       "localeDisplayNames": {

@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "rw"
     },
     "annotations": {
@@ -3154,8 +3151,7 @@
           "data",
           "ibirori",
           "Noheli",
-          "papa",
-          "Papa Noheli"
+          "papa"
         ],
         "tts": [
           "Papa Noheli"
@@ -3166,7 +3162,6 @@
           "ibirori",
           "madamazela.",
           "mama",
-          "Mama Noheli",
           "Noheli",
           "papa Noheli"
         ],
@@ -4189,14 +4184,6 @@
           "ikupule n’umutima"
         ]
       },
-      "👪": {
-        "default": [
-          "umuryango"
-        ],
-        "tts": [
-          "umuryango"
-        ]
-      },
       "🗣": {
         "default": [
           "igicucucucu",
@@ -4227,6 +4214,14 @@
         ],
         "tts": [
           "amashusho y’igihimba cy’umuntu"
+        ]
+      },
+      "👪": {
+        "default": [
+          "umuryango"
+        ],
+        "tts": [
+          "umuryango"
         ]
       },
       "👣": {
@@ -4430,7 +4425,6 @@
       },
       "🐂": {
         "default": [
-          "ikimasa",
           "Ikimasa",
           "zodiyake"
         ],
@@ -4933,7 +4927,6 @@
       },
       "🐟": {
         "default": [
-          "ifi",
           "Ifi",
           "zodiyake"
         ],
@@ -4979,11 +4972,43 @@
       },
       "🐚": {
         "default": [
-          "igikonoshwa",
           "Igikonoshwa"
         ],
         "tts": [
           "igikonoshwa"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "kanseri",
+          "karabu",
+          "zodiyake"
+        ],
+        "tts": [
+          "karabu"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "gitoya",
+          "ibiribwa",
+          "igihore cyo mu mazi",
+          "igikonoshwa cy’ifi",
+          "kerevete"
+        ],
+        "tts": [
+          "kerevete"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "ibiribwa",
+          "ifi nyamahembe",
+          "ikinyamunjonjorerwa",
+          "sikwidi"
+        ],
+        "tts": [
+          "sikwidi"
         ]
       },
       "🐌": {
@@ -5896,7 +5921,6 @@
       },
       "🍠": {
         "default": [
-          "ikijumba cyokeje",
           "Ikijumba cyokeje"
         ],
         "tts": [
@@ -5988,39 +6012,6 @@
         ],
         "tts": [
           "agakarito batwaramo ibiryo"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "kanseri",
-          "karabu",
-          "zodiyake"
-        ],
-        "tts": [
-          "karabu"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "gitoya",
-          "ibiribwa",
-          "igihore cyo mu mazi",
-          "igikonoshwa cy’ifi",
-          "kerevete"
-        ],
-        "tts": [
-          "kerevete"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "ibiribwa",
-          "ifi nyamahembe",
-          "ikinyamunjonjorerwa",
-          "sikwidi"
-        ],
-        "tts": [
-          "sikwidi"
         ]
       },
       "🍦": {
@@ -7218,7 +7209,6 @@
       },
       "🚗": {
         "default": [
-          "imodoka",
           "Imodoka"
         ],
         "tts": [
@@ -11082,7 +11072,6 @@
           "iminzani",
           "uburemere",
           "ubutabera",
-          "umunzani",
           "Umunzani",
           "zodiyake"
         ],

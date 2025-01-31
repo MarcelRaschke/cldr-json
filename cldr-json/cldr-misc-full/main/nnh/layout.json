@@ -2,9 +2,6 @@
   "main": {
     "nnh": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "nnh"
       },
       "layout": {

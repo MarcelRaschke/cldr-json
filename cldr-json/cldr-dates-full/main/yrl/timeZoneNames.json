@@ -2,9 +2,6 @@
   "main": {
     "yrl": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "yrl"
       },
       "dates": {
@@ -55,9 +52,6 @@
                 "Tucuman": {
                   "exemplarCity": "Tukumã"
                 }
-              },
-              "Aruba": {
-                "exemplarCity": "Aruba"
               },
               "Asuncion": {
                 "exemplarCity": "Asũsiyõ"
@@ -119,6 +113,9 @@
               "Chihuahua": {
                 "exemplarCity": "Sivava"
               },
+              "Ciudad_Juarez": {
+                "exemplarCity": "Ciudad Juárez"
+              },
               "Coral_Harbour": {
                 "exemplarCity": "Atikokã"
               },
@@ -148,9 +145,6 @@
               },
               "Denver": {
                 "exemplarCity": "Dẽwer"
-              },
-              "Detroit": {
-                "exemplarCity": "Detroit"
               },
               "Dominica": {
                 "exemplarCity": "Duminika"
@@ -196,9 +190,6 @@
               },
               "Guyana": {
                 "exemplarCity": "Giyana"
-              },
-              "Halifax": {
-                "exemplarCity": "Halifax"
               },
               "Havana": {
                 "exemplarCity": "Hawana"
@@ -255,14 +246,8 @@
               "Kralendijk": {
                 "exemplarCity": "Kararẽdiki"
               },
-              "La_Paz": {
-                "exemplarCity": "La Paz"
-              },
               "Lima": {
                 "exemplarCity": "Rima"
-              },
-              "Los_Angeles": {
-                "exemplarCity": "Los Angeles"
               },
               "Louisville": {
                 "exemplarCity": "Luwisiviri"
@@ -327,9 +312,6 @@
               "New_York": {
                 "exemplarCity": "Yurki Pisasú"
               },
-              "Nipigon": {
-                "exemplarCity": "Nipigũ"
-              },
               "Nome": {
                 "exemplarCity": "Réra"
               },
@@ -353,9 +335,6 @@
               "Panama": {
                 "exemplarCity": "Panamã"
               },
-              "Pangnirtung": {
-                "exemplarCity": "Pãginitũgi"
-              },
               "Paramaribo": {
                 "exemplarCity": "Paramaribu"
               },
@@ -377,9 +356,6 @@
               "Punta_Arenas": {
                 "exemplarCity": "Pũta Arena-ita"
               },
-              "Rainy_River": {
-                "exemplarCity": "Paranã Amanawera"
-              },
               "Rankin_Inlet": {
                 "exemplarCity": "Rãkĩ Uikesawa"
               },
@@ -394,9 +370,6 @@
               },
               "Rio_Branco": {
                 "exemplarCity": "Paranã Murutĩga"
-              },
-              "Santa_Isabel": {
-                "exemplarCity": "Sãta Isabeu"
               },
               "Santarem": {
                 "exemplarCity": "Sãtarẽ"
@@ -443,9 +416,6 @@
               "Thule": {
                 "exemplarCity": "Tixuri"
               },
-              "Thunder_Bay": {
-                "exemplarCity": "Tupã Kuara"
-              },
               "Tijuana": {
                 "exemplarCity": "Tijuvỹnỹ"
               },
@@ -466,9 +436,6 @@
               },
               "Yakutat": {
                 "exemplarCity": "Yakutati"
-              },
-              "Yellowknife": {
-                "exemplarCity": "Kisé-tawá"
               }
             },
             "Atlantic": {
@@ -486,9 +453,6 @@
               },
               "Faeroe": {
                 "exemplarCity": "Kapuãma-ita Faruwe"
-              },
-              "Madeira": {
-                "exemplarCity": "Madeira"
               },
               "Reykjavik": {
                 "exemplarCity": "Reikiyawiki"
@@ -612,23 +576,14 @@
               "Oslo": {
                 "exemplarCity": "Usiru"
               },
-              "Paris": {
-                "exemplarCity": "Paris"
-              },
               "Podgorica": {
                 "exemplarCity": "Pudigurika"
               },
               "Prague": {
                 "exemplarCity": "Praga"
               },
-              "Riga": {
-                "exemplarCity": "Riga"
-              },
               "Rome": {
                 "exemplarCity": "Roma"
-              },
-              "Samara": {
-                "exemplarCity": "Samara"
               },
               "San_Marino": {
                 "exemplarCity": "Sã Marinu"
@@ -660,9 +615,6 @@
               "Ulyanovsk": {
                 "exemplarCity": "Ulianuwiki"
               },
-              "Uzhgorod": {
-                "exemplarCity": "Usigurudi"
-              },
               "Vaduz": {
                 "exemplarCity": "Vadusi"
               },
@@ -683,9 +635,6 @@
               },
               "Zagreb": {
                 "exemplarCity": "Sagarebi"
-              },
-              "Zaporozhye": {
-                "exemplarCity": "Saporisiya"
               },
               "Zurich": {
                 "exemplarCity": "Zuriki"
@@ -740,9 +689,6 @@
               "Conakry": {
                 "exemplarCity": "Kunakiri"
               },
-              "Dakar": {
-                "exemplarCity": "Dakar"
-              },
               "Dar_es_Salaam": {
                 "exemplarCity": "Katuawa ruka"
               },
@@ -760,9 +706,6 @@
               },
               "Gaborone": {
                 "exemplarCity": "Gaburuni"
-              },
-              "Harare": {
-                "exemplarCity": "Harare"
               },
               "Johannesburg": {
                 "exemplarCity": "Juanesibugu"
@@ -797,17 +740,11 @@
               "Lubumbashi": {
                 "exemplarCity": "Lubũbaxi"
               },
-              "Lusaka": {
-                "exemplarCity": "Lusaka"
-              },
               "Malabo": {
                 "exemplarCity": "Malabu"
               },
               "Maputo": {
                 "exemplarCity": "Maputu"
-              },
-              "Maseru": {
-                "exemplarCity": "Maseru"
               },
               "Mbabane": {
                 "exemplarCity": "Ũbabani"
@@ -880,9 +817,6 @@
               "Bahrain": {
                 "exemplarCity": "Barẽi"
               },
-              "Baku": {
-                "exemplarCity": "Baku"
-              },
               "Bangkok": {
                 "exemplarCity": "Mág-kóki"
               },
@@ -904,9 +838,6 @@
               "Chita": {
                 "exemplarCity": "Xita"
               },
-              "Choibalsan": {
-                "exemplarCity": "Xuibausã"
-              },
               "Colombo": {
                 "exemplarCity": "Kurũbu"
               },
@@ -918,9 +849,6 @@
               },
               "Dili": {
                 "exemplarCity": "Diri"
-              },
-              "Dubai": {
-                "exemplarCity": "Dubai"
               },
               "Dushanbe": {
                 "exemplarCity": "Duxãbi"
@@ -984,9 +912,6 @@
               },
               "Magadan": {
                 "exemplarCity": "Magadã"
-              },
-              "Makassar": {
-                "exemplarCity": "Makassar"
               },
               "Manila": {
                 "exemplarCity": "Manira"
@@ -1053,9 +978,6 @@
               },
               "Srednekolymsk": {
                 "exemplarCity": "Xeredinekorimiziki"
-              },
-              "Taipei": {
-                "exemplarCity": "Taipei"
               },
               "Tashkent": {
                 "exemplarCity": "Tasikẽti"
@@ -1145,9 +1067,6 @@
               "Broken_Hill": {
                 "exemplarCity": "Iwitera Mupenaíra"
               },
-              "Currie": {
-                "exemplarCity": "Kurie"
-              },
               "Darwin": {
                 "exemplarCity": "Dariwĩ"
               },
@@ -1201,9 +1120,6 @@
               "Fiji": {
                 "exemplarCity": "Fiyi"
               },
-              "Funafuti": {
-                "exemplarCity": "Funafuti"
-              },
               "Galapagos": {
                 "exemplarCity": "Garapagu-ita"
               },
@@ -1218,15 +1134,6 @@
               },
               "Honolulu": {
                 "exemplarCity": "Hunururu"
-              },
-              "Johnston": {
-                "exemplarCity": "Jũsitũ"
-              },
-              "Kanton": {
-                "exemplarCity": "Kanton"
-              },
-              "Kiritimati": {
-                "exemplarCity": "Kiritimati"
               },
               "Kosrae": {
                 "exemplarCity": "Kusirai"
@@ -1243,9 +1150,6 @@
               "Midway": {
                 "exemplarCity": "Midiwei"
               },
-              "Nauru": {
-                "exemplarCity": "Nauru"
-              },
               "Niue": {
                 "exemplarCity": "Niwe"
               },
@@ -1260,9 +1164,6 @@
               },
               "Palau": {
                 "exemplarCity": "Parau"
-              },
-              "Pitcairn": {
-                "exemplarCity": "Pitcairn"
               },
               "Ponape": {
                 "exemplarCity": "Pohnpei"
@@ -1279,17 +1180,11 @@
               "Tahiti": {
                 "exemplarCity": "Taiti"
               },
-              "Tarawa": {
-                "exemplarCity": "Tarawa"
-              },
               "Tongatapu": {
                 "exemplarCity": "Tũgatapu"
               },
               "Truk": {
                 "exemplarCity": "Chuuk"
-              },
-              "Wake": {
-                "exemplarCity": "Wake"
               },
               "Wallis": {
                 "exemplarCity": "Wari-ita"
@@ -1327,9 +1222,6 @@
               },
               "Syowa": {
                 "exemplarCity": "Siyowa"
-              },
-              "Troll": {
-                "exemplarCity": "Troll"
               },
               "Vostok": {
                 "exemplarCity": "Wosituki"
@@ -1613,13 +1505,6 @@
                 "generic": "Xina Hurariyu",
                 "standard": "Xina Hurariyu Retewa",
                 "daylight": "Xina Kurasí Ara Hurariyu"
-              }
-            },
-            "Choibalsan": {
-              "long": {
-                "generic": "Xoibasã Hurariyu",
-                "standard": "Xoibasã Hurariyu Retewa",
-                "daylight": "Xoibasã Kurasí Ara Hurariyu"
               }
             },
             "Christmas": {
@@ -1930,11 +1815,6 @@
                 "daylight": "Makau Kurasí Ara Hurariyu"
               }
             },
-            "Macquarie": {
-              "long": {
-                "standard": "Kapuãma Makikuari Hurariyu"
-              }
-            },
             "Magadan": {
               "long": {
                 "generic": "Magadã Hurariyu",
@@ -1972,13 +1852,6 @@
             "Mawson": {
               "long": {
                 "standard": "Mausũ Hurariyu"
-              }
-            },
-            "Mexico_Northwest": {
-              "long": {
-                "generic": "Mẽsiku Nutiwesiti Hurariyu",
-                "standard": "Mẽsiku Nutiwesiti Hurariyu Retewa",
-                "daylight": "Mẽsiku Nutiwesiti Kurasí Ara Hurariyu"
               }
             },
             "Mexico_Pacific": {

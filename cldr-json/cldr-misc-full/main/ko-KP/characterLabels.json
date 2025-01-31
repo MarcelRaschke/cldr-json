@@ -2,9 +2,6 @@
   "main": {
     "ko-KP": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ko",
         "territory": "KP"
       },
@@ -14,6 +11,8 @@
         "compatibility": "{0} — 호환",
         "enclosed": "{0} — 닫힘",
         "extended": "{0} — 확장",
+        "facing-left": "왼쪽을 향한 {0}",
+        "facing-right": "오른쪽을 향한 {0}",
         "historic": "{0} — 고전",
         "miscellaneous": "{0} — 기타",
         "other": "{0} — 기타",
@@ -92,7 +91,7 @@
         "rightwards_arrows": "오른쪽 방향 화살표",
         "sign_standard_symbols": "상징/표준 기호",
         "small_form_variant": "작은 부호 변형",
-        "smiley": "스마일",
+        "smiley": "스마일리",
         "smileys_people": "스마일리 및 사람",
         "south_asian_scripts": "남아시아 문자",
         "southeast_asian_scripts": "동남아시아 문자",

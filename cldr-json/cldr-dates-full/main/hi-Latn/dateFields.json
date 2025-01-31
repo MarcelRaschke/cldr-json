@@ -2,9 +2,6 @@
   "main": {
     "hi-Latn": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "en",
         "script": "Latn"
       },
@@ -155,8 +152,8 @@
               "relativeTimePattern-count-other": "{0} hafte mein"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} hafte pehle",
-              "relativeTimePattern-count-other": "{0} hafte pehle"
+              "relativeTimePattern-count-one": "{0} hafte pahle",
+              "relativeTimePattern-count-other": "{0} hafte pahle"
             },
             "relativePeriod": "{0} date wala hafta"
           },
@@ -211,8 +208,8 @@
               "relativeTimePattern-count-other": "{0} din mein"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} din pehle",
-              "relativeTimePattern-count-other": "{0} din pehle"
+              "relativeTimePattern-count-one": "{0} din pahle",
+              "relativeTimePattern-count-other": "{0} din pahle"
             }
           },
           "day-short": {
@@ -552,7 +549,7 @@
             "displayName-alt-variant": "am/pm"
           },
           "dayperiod": {
-            "displayName": "AM/PM",
+            "displayName": "am/pm",
             "displayName-alt-variant": "am/pm"
           },
           "dayperiod-narrow": {

@@ -2,9 +2,6 @@
   "main": {
     "lo": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "lo"
       },
       "units": {
@@ -39,6 +36,12 @@
           "10p-24": {
             "unitPrefixPattern": "ຢັອກໂຕ{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "ຣອນໂຕ{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "ເກັກໂທ{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ເດກາ{0}"
           },
@@ -69,6 +72,12 @@
           "10p24": {
             "unitPrefixPattern": "ຢັອດຕາ{0}"
           },
+          "10p27": {
+            "unitPrefixPattern": "ຣອນນາ{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "ເກັດຕາ{0}"
+          },
           "1024p1": {
             "unitPrefixPattern": "kibi{0}"
           },
@@ -91,7 +100,7 @@
             "unitPrefixPattern": "zebi{0}"
           },
           "1024p8": {
-            "unitPrefixPattern": "yobe{0}"
+            "unitPrefixPattern": "ໂຢບີ{0}"
           },
           "per": {
             "compoundUnitPattern": "{0} ຕໍ່ {1}"
@@ -436,6 +445,14 @@
             "displayName": "ppi",
             "unitPattern-count-other": "{0} ppi"
           },
+          "graphics-dot-per-centimeter": {
+            "displayName": "dpcm",
+            "unitPattern-count-other": "{0} dpcm"
+          },
+          "graphics-dot-per-inch": {
+            "displayName": "dpi",
+            "unitPattern-count-other": "{0} dpi"
+          },
           "graphics-dot": {
             "displayName": "ດັອດ",
             "unitPattern-count-other": "{0} ດັອດ"
@@ -682,8 +699,8 @@
             "unitPattern-count-other": "{0} ກິໂລແມັດຕໍ່ຊົ່ວໂມງ"
           },
           "speed-meter-per-second": {
-            "displayName": "ແມັດຕໍ່ນາທີ",
-            "unitPattern-count-other": "{0} ແມັດຕໍ່ນາທີ"
+            "displayName": "ແມັດຕໍ່ວິນາທີ",
+            "unitPattern-count-other": "{0} ແມັດຕໍ່ວິນາທີ"
           },
           "speed-mile-per-hour": {
             "displayName": "ໄມລ໌ຕໍ່ຊົ່ວໂມງ",
@@ -692,6 +709,10 @@
           "speed-knot": {
             "displayName": "ນ໋ອດ",
             "unitPattern-count-other": "{0} ນ໋ອດ"
+          },
+          "speed-beaufort": {
+            "displayName": "ໂບຝອດ",
+            "unitPattern-count-other": "{0} ໂບຝອດ"
           },
           "temperature-generic": {
             "displayName": "°",
@@ -858,6 +879,19 @@
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0} qt Imp."
           },
+          "speed-light-speed": {
+            "displayName": "ແສງ",
+            "unitPattern-count-other": "{0} ແສງ"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ສ່ວນໃນພັນລ້ານສ່ວນ",
+            "unitPattern-count-other": "{0} ສ່ວນໃນພັນລ້ານສ່ວນ"
+          },
+          "duration-night": {
+            "displayName": "ຄືນ",
+            "unitPattern-count-other": "{0} ຄືນ",
+            "perUnitPattern": "{0}/ຄືນ"
+          },
           "coordinateUnit": {
             "displayName": "ທິດທາງຕາມລຳດັບ",
             "east": "{0}E",
@@ -897,6 +931,12 @@
           "10p-24": {
             "unitPrefixPattern": "ຢຕ{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "ຣຕ{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "ກທ{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ດກ{0}"
           },
@@ -926,6 +966,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "ຢ{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "ຣນ{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "ກຕ{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -1135,8 +1181,8 @@
             "unitPattern-count-other": "{0} bit"
           },
           "duration-century": {
-            "displayName": "c",
-            "unitPattern-count-other": "{0} c"
+            "displayName": "ສຕວ",
+            "unitPattern-count-other": "{0} ສຕວ"
           },
           "duration-decade": {
             "displayName": "ທົດສະວັດ",
@@ -1293,6 +1339,14 @@
           "graphics-pixel-per-inch": {
             "displayName": "ppi",
             "unitPattern-count-other": "{0} ppi"
+          },
+          "graphics-dot-per-centimeter": {
+            "displayName": "dpcm",
+            "unitPattern-count-other": "{0} dpcm"
+          },
+          "graphics-dot-per-inch": {
+            "displayName": "dpi",
+            "unitPattern-count-other": "{0} dpi"
           },
           "graphics-dot": {
             "displayName": "ດັອດ",
@@ -1540,8 +1594,8 @@
             "unitPattern-count-other": "{0} ກມ/ຊມ"
           },
           "speed-meter-per-second": {
-            "displayName": "ແມັດ/ນທ.",
-            "unitPattern-count-other": "{0} ມ/ນທ."
+            "displayName": "ແມັດ/ວິ",
+            "unitPattern-count-other": "{0} ມ/ວ"
           },
           "speed-mile-per-hour": {
             "displayName": "ໄມລ໌/ຊົ່ວໂມງ",
@@ -1550,6 +1604,10 @@
           "speed-knot": {
             "displayName": "kn",
             "unitPattern-count-other": "{0} kn"
+          },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "{0} B"
           },
           "temperature-generic": {
             "displayName": "°",
@@ -1716,6 +1774,19 @@
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0} qt Imp."
           },
+          "speed-light-speed": {
+            "displayName": "ແສງ",
+            "unitPattern-count-other": "{0} ແສງ"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ສ່ວນ/ພັນລ້ານສ່ວນ",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "ຄືນ",
+            "unitPattern-count-other": "{0} ຄືນ",
+            "perUnitPattern": "{0}/ຄືນ"
+          },
           "coordinateUnit": {
             "displayName": "ທິດທາງ",
             "east": "{0}E",
@@ -1755,6 +1826,12 @@
           "10p-24": {
             "unitPrefixPattern": "ຢຕ{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "ຣຕ{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "ກທ{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ດກ{0}"
           },
@@ -1784,6 +1861,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "ຢ{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "ຣນ{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "ກຕ{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -1871,7 +1954,7 @@
             "perUnitPattern": "{0}/ຊມ²"
           },
           "area-square-mile": {
-            "displayName": "sq miles",
+            "displayName": "mi²",
             "unitPattern-count-other": "{0} mi²",
             "perUnitPattern": "{0}/mi²"
           },
@@ -1880,7 +1963,7 @@
             "unitPattern-count-other": "{0} ac"
           },
           "area-square-yard": {
-            "displayName": "yards²",
+            "displayName": "yd²",
             "unitPattern-count-other": "{0} yd²"
           },
           "area-square-foot": {
@@ -1921,7 +2004,7 @@
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
-            "displayName": "ຕໍ່ພັນ",
+            "displayName": "‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
@@ -1993,8 +2076,8 @@
             "unitPattern-count-other": "{0} bit"
           },
           "duration-century": {
-            "displayName": "c",
-            "unitPattern-count-other": "{0} c"
+            "displayName": "ສຕວ",
+            "unitPattern-count-other": "{0} ສຕວ"
           },
           "duration-decade": {
             "displayName": "ທົດສະວັດ",
@@ -2042,7 +2125,7 @@
           },
           "duration-millisecond": {
             "displayName": "ມລວ",
-            "unitPattern-count-other": "{0} ມລ. ວິ."
+            "unitPattern-count-other": "{0} ມລວ"
           },
           "duration-microsecond": {
             "displayName": "μວິ",
@@ -2078,14 +2161,14 @@
           },
           "energy-foodcalorie": {
             "displayName": "ຄລ",
-            "unitPattern-count-other": "{0} ຄລ"
+            "unitPattern-count-other": "{0}ຄລ"
           },
           "energy-kilojoule": {
             "displayName": "kJ",
             "unitPattern-count-other": "{0} kJ"
           },
           "energy-joule": {
-            "displayName": "joule",
+            "displayName": "ຈູນ",
             "unitPattern-count-other": "{0} J"
           },
           "energy-kilowatt-hour": {
@@ -2151,6 +2234,14 @@
           "graphics-pixel-per-inch": {
             "displayName": "ppi",
             "unitPattern-count-other": "{0} ppi"
+          },
+          "graphics-dot-per-centimeter": {
+            "displayName": "dpcm",
+            "unitPattern-count-other": "{0}dpcm"
+          },
+          "graphics-dot-per-inch": {
+            "displayName": "dpi",
+            "unitPattern-count-other": "{0}dpi"
           },
           "graphics-dot": {
             "displayName": "ດັອດ",
@@ -2292,7 +2383,7 @@
             "unitPattern-count-other": "{0} ຕ"
           },
           "mass-stone": {
-            "displayName": "st",
+            "displayName": "ສະໂຕນ",
             "unitPattern-count-other": "{0} st"
           },
           "mass-pound": {
@@ -2310,7 +2401,7 @@
             "unitPattern-count-other": "{0} oz t"
           },
           "mass-carat": {
-            "displayName": "CD",
+            "displayName": "ກະຣັດ",
             "unitPattern-count-other": "{0} CD"
           },
           "mass-dalton": {
@@ -2398,8 +2489,8 @@
             "unitPattern-count-other": "{0} ກມ/ຊມ"
           },
           "speed-meter-per-second": {
-            "displayName": "ແມັດ/ນທ.",
-            "unitPattern-count-other": "{0} m/s"
+            "displayName": "ມ/ວ",
+            "unitPattern-count-other": "{0} ມ/ວ"
           },
           "speed-mile-per-hour": {
             "displayName": "ໄມລ໌/ຊົ່ວໂມງ",
@@ -2408,6 +2499,10 @@
           "speed-knot": {
             "displayName": "kn",
             "unitPattern-count-other": "{0} kn"
+          },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "{0} B"
           },
           "temperature-generic": {
             "displayName": "°",
@@ -2551,7 +2646,7 @@
             "unitPattern-count-other": "{0} dstspn"
           },
           "volume-dessert-spoon-imperial": {
-            "displayName": "dstspn Imp",
+            "displayName": "dsp Imp",
             "unitPattern-count-other": "{0}dsp-Imp"
           },
           "volume-drop": {
@@ -2559,7 +2654,7 @@
             "unitPattern-count-other": "{0} ຢອດ"
           },
           "volume-dram": {
-            "displayName": "dr fl",
+            "displayName": "fl.dr.",
             "unitPattern-count-other": "{0} dr fl"
           },
           "volume-jigger": {
@@ -2573,6 +2668,19 @@
           "volume-quart-imperial": {
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0} qt Imp."
+          },
+          "speed-light-speed": {
+            "displayName": "ແສງ",
+            "unitPattern-count-other": "{0} ແສງ"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ສ່ວນ/ພັນລ້ານສ່ວນ",
+            "unitPattern-count-other": "{0}ppb"
+          },
+          "duration-night": {
+            "displayName": "ຄືນ",
+            "unitPattern-count-other": "{0} ຄືນ",
+            "perUnitPattern": "{0}/ຄືນ"
           },
           "coordinateUnit": {
             "displayName": "ທິດທາງ",

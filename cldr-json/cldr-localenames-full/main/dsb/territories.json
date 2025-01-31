@@ -2,9 +2,6 @@
   "main": {
     "dsb": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "dsb"
       },
       "localeDisplayNames": {
@@ -160,6 +157,8 @@
           "IM": "Man",
           "IN": "Indiska",
           "IO": "Britiski indiskooceaniski teritorium",
+          "IO-alt-biot": "Britiski indiskooceaniski teritorium",
+          "IO-alt-chagos": "Chagoske kupy",
           "IQ": "Irak",
           "IR": "Iran",
           "IS": "Islandska",

@@ -2,9 +2,6 @@
   "main": {
     "jv": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "jv"
       },
       "units": {
@@ -39,6 +36,12 @@
           "10p-24": {
             "unitPrefixPattern": "yokto{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "ronto{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "quecto{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "deka{0}"
           },
@@ -68,6 +71,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "yotta{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "ronna{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "quetta{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Kibi{0}"
@@ -437,12 +446,12 @@
             "unitPattern-count-other": "{0} ppi"
           },
           "graphics-dot-per-centimeter": {
-            "displayName": "titek saben sentimeter",
-            "unitPattern-count-other": "{0} titek saben sentimeter"
+            "displayName": "titik per sentimeter",
+            "unitPattern-count-other": "{0} titik per sentimeter"
           },
           "graphics-dot-per-inch": {
-            "displayName": "titek saben inci",
-            "unitPattern-count-other": "{0} titek saben inci"
+            "displayName": "titik per inci",
+            "unitPattern-count-other": "{0} titik per inci"
           },
           "graphics-dot": {
             "displayName": "titik",
@@ -547,7 +556,7 @@
           },
           "light-candela": {
             "displayName": "kandela",
-            "unitPattern-count-other": "{0} kandela"
+            "unitPattern-count-other": "{0} cd"
           },
           "light-lumen": {
             "displayName": "lumen",
@@ -700,6 +709,10 @@
           "speed-knot": {
             "displayName": "knot",
             "unitPattern-count-other": "{0} knot"
+          },
+          "speed-beaufort": {
+            "displayName": "Beaufort",
+            "unitPattern-count-other": "Beaufort {0}"
           },
           "temperature-generic": {
             "displayName": "°",
@@ -859,12 +872,25 @@
             "unitPattern-count-other": "{0} jigger"
           },
           "volume-pinch": {
-            "displayName": "sak juwit",
-            "unitPattern-count-other": "{0} sak juwit"
+            "displayName": "jiwit",
+            "unitPattern-count-other": "{0} jiwit"
           },
           "volume-quart-imperial": {
             "displayName": "Imp. seprapat galon",
             "unitPattern-count-other": "{0} Imp. seprapat galon"
+          },
+          "speed-light-speed": {
+            "displayName": "cahya",
+            "unitPattern-count-other": "{0} cahya"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "wengi",
+            "unitPattern-count-other": "{0} wengi",
+            "perUnitPattern": "{0}/wengi"
           },
           "coordinateUnit": {
             "displayName": "arah kardinal",
@@ -905,6 +931,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -934,6 +966,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -1303,12 +1341,12 @@
             "unitPattern-count-other": "{0} ppi"
           },
           "graphics-dot-per-centimeter": {
-            "displayName": "tscm",
-            "unitPattern-count-other": "{0} tscm"
+            "displayName": "tpcm",
+            "unitPattern-count-other": "{0} tpcm"
           },
           "graphics-dot-per-inch": {
-            "displayName": "tsi",
-            "unitPattern-count-other": "{0} tsi"
+            "displayName": "tpi",
+            "unitPattern-count-other": "{0} tpi"
           },
           "graphics-dot": {
             "displayName": "titik",
@@ -1413,7 +1451,7 @@
           },
           "light-candela": {
             "displayName": "kandela",
-            "unitPattern-count-other": "{0} kandela"
+            "unitPattern-count-other": "{0} cd"
           },
           "light-lumen": {
             "displayName": "lm",
@@ -1566,6 +1604,10 @@
           "speed-knot": {
             "displayName": "knot",
             "unitPattern-count-other": "{0} knot"
+          },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
           },
           "temperature-generic": {
             "displayName": "°",
@@ -1725,12 +1767,25 @@
             "unitPattern-count-other": "{0} jigger"
           },
           "volume-pinch": {
-            "displayName": "juwit",
-            "unitPattern-count-other": "{0} sak juwit"
+            "displayName": "jiwit",
+            "unitPattern-count-other": "{0} jiwit"
           },
           "volume-quart-imperial": {
             "displayName": "Imp. seprapat galon",
             "unitPattern-count-other": "{0} Imp. seprapat galon"
+          },
+          "speed-light-speed": {
+            "displayName": "cahya",
+            "unitPattern-count-other": "{0} cahya"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "wengi",
+            "unitPattern-count-other": "{0} wengi",
+            "perUnitPattern": "{0}/wengi"
           },
           "coordinateUnit": {
             "displayName": "arah",
@@ -1771,6 +1826,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -1800,6 +1861,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -2094,7 +2161,7 @@
           },
           "energy-foodcalorie": {
             "displayName": "Kal",
-            "unitPattern-count-other": "{0} Kal"
+            "unitPattern-count-other": "{0}Kal"
           },
           "energy-kilojoule": {
             "displayName": "kilojol",
@@ -2169,12 +2236,12 @@
             "unitPattern-count-other": "{0} ppi"
           },
           "graphics-dot-per-centimeter": {
-            "displayName": "tscm",
-            "unitPattern-count-other": "{0} tscm"
+            "displayName": "tpcm",
+            "unitPattern-count-other": "{0}tpcm"
           },
           "graphics-dot-per-inch": {
-            "displayName": "tsi",
-            "unitPattern-count-other": "{0} tsi"
+            "displayName": "tpi",
+            "unitPattern-count-other": "{0}tpi"
           },
           "graphics-dot": {
             "displayName": "titik",
@@ -2279,7 +2346,7 @@
           },
           "light-candela": {
             "displayName": "kandela",
-            "unitPattern-count-other": "{0} kandela"
+            "unitPattern-count-other": "{0} cd"
           },
           "light-lumen": {
             "displayName": "lm",
@@ -2432,6 +2499,10 @@
           "speed-knot": {
             "displayName": "knot",
             "unitPattern-count-other": "{0} knot"
+          },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
           },
           "temperature-generic": {
             "displayName": "°",
@@ -2591,12 +2662,25 @@
             "unitPattern-count-other": "{0} jigger"
           },
           "volume-pinch": {
-            "displayName": "juwit",
-            "unitPattern-count-other": "{0}juwit"
+            "displayName": "jiwit",
+            "unitPattern-count-other": "{0}jiwit"
           },
           "volume-quart-imperial": {
             "displayName": "Imp. seprapat galon",
             "unitPattern-count-other": "{0}spt-lmp."
+          },
+          "speed-light-speed": {
+            "displayName": "cahya",
+            "unitPattern-count-other": "{0} cahya"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "wengi",
+            "unitPattern-count-other": "{0} wengi",
+            "perUnitPattern": "{0}/wengi"
           },
           "coordinateUnit": {
             "displayName": "arah",

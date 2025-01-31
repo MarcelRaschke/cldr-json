@@ -2,9 +2,6 @@
   "main": {
     "sq": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sq"
       },
       "dates": {
@@ -103,13 +100,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Die",
-                  "mon": "Hën",
-                  "tue": "Mar",
-                  "wed": "Mër",
-                  "thu": "Enj",
-                  "fri": "Pre",
-                  "sat": "Sht"
+                  "sun": "die",
+                  "mon": "hën",
+                  "tue": "mar",
+                  "wed": "mër",
+                  "thu": "enj",
+                  "fri": "pre",
+                  "sat": "sht"
                 },
                 "narrow": {
                   "sun": "d",
@@ -378,7 +375,7 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
-                "MMMMW-count-one": "'java' W 'e' MMMM",
+                "MMMMW-count-one": "'java' W 'e' 'muajit' MMMM",
                 "MMMMW-count-other": "'java' W 'e' MMMM",
                 "ms": "mm:ss",
                 "y": "y",

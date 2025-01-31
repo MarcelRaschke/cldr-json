@@ -2,9 +2,6 @@
   "main": {
     "mai": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "mai"
       },
       "dates": {
@@ -118,6 +115,9 @@
               },
               "Chihuahua": {
                 "exemplarCity": "चिहुआहुआ"
+              },
+              "Ciudad_Juarez": {
+                "exemplarCity": "Ciudad Juárez"
               },
               "Coral_Harbour": {
                 "exemplarCity": "अटिकोकन"
@@ -327,9 +327,6 @@
               "New_York": {
                 "exemplarCity": "न्यूयार्क"
               },
-              "Nipigon": {
-                "exemplarCity": "निपिगान"
-              },
               "Nome": {
                 "exemplarCity": "नोम"
               },
@@ -353,9 +350,6 @@
               "Panama": {
                 "exemplarCity": "पनामा"
               },
-              "Pangnirtung": {
-                "exemplarCity": "पैंगनिरटंग"
-              },
               "Paramaribo": {
                 "exemplarCity": "पारामारिबो"
               },
@@ -376,9 +370,6 @@
               },
               "Punta_Arenas": {
                 "exemplarCity": "पुंटा अरेनाज"
-              },
-              "Rainy_River": {
-                "exemplarCity": "रेनी रिवर"
               },
               "Rankin_Inlet": {
                 "exemplarCity": "रेंकिन इनलेट"
@@ -440,9 +431,6 @@
               "Thule": {
                 "exemplarCity": "तुले"
               },
-              "Thunder_Bay": {
-                "exemplarCity": "थंडर बे"
-              },
               "Tijuana": {
                 "exemplarCity": "तिजुआना"
               },
@@ -463,9 +451,6 @@
               },
               "Yakutat": {
                 "exemplarCity": "यकुटाट"
-              },
-              "Yellowknife": {
-                "exemplarCity": "येलोनाइफ"
               }
             },
             "Atlantic": {
@@ -651,9 +636,6 @@
               "Ulyanovsk": {
                 "exemplarCity": "उल्येनोबोस्क"
               },
-              "Uzhgorod": {
-                "exemplarCity": "उझोरोद"
-              },
               "Vaduz": {
                 "exemplarCity": "बेदुज"
               },
@@ -674,9 +656,6 @@
               },
               "Zagreb": {
                 "exemplarCity": "जगरैब"
-              },
-              "Zaporozhye": {
-                "exemplarCity": "जपोरोजाए"
               },
               "Zurich": {
                 "exemplarCity": "ज्यूरिख"
@@ -894,9 +873,6 @@
               },
               "Chita": {
                 "exemplarCity": "चिता"
-              },
-              "Choibalsan": {
-                "exemplarCity": "चोइबलसेन"
               },
               "Colombo": {
                 "exemplarCity": "कोलम्बो"
@@ -1162,14 +1138,8 @@
               }
             },
             "Pacific": {
-              "Apia": {
-                "exemplarCity": "Apia"
-              },
               "Auckland": {
                 "exemplarCity": "आकलैंड"
-              },
-              "Bougainville": {
-                "exemplarCity": "Bougainville"
               },
               "Chatham": {
                 "exemplarCity": "चेथम"
@@ -1177,104 +1147,17 @@
               "Easter": {
                 "exemplarCity": "ईस्टर"
               },
-              "Efate": {
-                "exemplarCity": "Efate"
-              },
-              "Fakaofo": {
-                "exemplarCity": "Fakaofo"
-              },
-              "Fiji": {
-                "exemplarCity": "Fiji"
-              },
-              "Funafuti": {
-                "exemplarCity": "Funafuti"
-              },
               "Galapagos": {
                 "exemplarCity": "गैलापैगोस"
-              },
-              "Gambier": {
-                "exemplarCity": "Gambier"
-              },
-              "Guadalcanal": {
-                "exemplarCity": "Guadalcanal"
-              },
-              "Guam": {
-                "exemplarCity": "Guam"
-              },
-              "Johnston": {
-                "exemplarCity": "Johnston"
-              },
-              "Kanton": {
-                "exemplarCity": "Kanton"
-              },
-              "Kiritimati": {
-                "exemplarCity": "Kiritimati"
-              },
-              "Kosrae": {
-                "exemplarCity": "Kosrae"
-              },
-              "Kwajalein": {
-                "exemplarCity": "Kwajalein"
-              },
-              "Majuro": {
-                "exemplarCity": "Majuro"
-              },
-              "Marquesas": {
-                "exemplarCity": "Marquesas"
-              },
-              "Midway": {
-                "exemplarCity": "Midway"
-              },
-              "Nauru": {
-                "exemplarCity": "Nauru"
-              },
-              "Niue": {
-                "exemplarCity": "Niue"
               },
               "Norfolk": {
                 "exemplarCity": "नारफाक"
               },
-              "Noumea": {
-                "exemplarCity": "Noumea"
-              },
-              "Pago_Pago": {
-                "exemplarCity": "Pago Pago"
-              },
-              "Palau": {
-                "exemplarCity": "Palau"
-              },
-              "Pitcairn": {
-                "exemplarCity": "Pitcairn"
-              },
               "Ponape": {
                 "exemplarCity": "Pohnpei"
               },
-              "Port_Moresby": {
-                "exemplarCity": "Port Moresby"
-              },
-              "Rarotonga": {
-                "exemplarCity": "Rarotonga"
-              },
-              "Saipan": {
-                "exemplarCity": "Saipan"
-              },
-              "Tahiti": {
-                "exemplarCity": "Tahiti"
-              },
-              "Tarawa": {
-                "exemplarCity": "Tarawa"
-              },
-              "Tongatapu": {
-                "exemplarCity": "Tongatapu"
-              },
               "Truk": {
                 "exemplarCity": "Chuuk"
-              },
-              "Wake": {
-                "exemplarCity": "Wake"
-              },
-              "Wallis": {
-                "exemplarCity": "Wallis"
               }
             },
             "Arctic": {
@@ -1286,35 +1169,11 @@
               "Casey": {
                 "exemplarCity": "केसी"
               },
-              "Davis": {
-                "exemplarCity": "Davis"
-              },
               "DumontDUrville": {
                 "exemplarCity": "Dumont d’Urville"
               },
               "Macquarie": {
                 "exemplarCity": "मैक्वैरी"
-              },
-              "Mawson": {
-                "exemplarCity": "Mawson"
-              },
-              "McMurdo": {
-                "exemplarCity": "McMurdo"
-              },
-              "Palmer": {
-                "exemplarCity": "Palmer"
-              },
-              "Rothera": {
-                "exemplarCity": "Rothera"
-              },
-              "Syowa": {
-                "exemplarCity": "Syowa"
-              },
-              "Troll": {
-                "exemplarCity": "Troll"
-              },
-              "Vostok": {
-                "exemplarCity": "Vostok"
               }
             },
             "Etc": {
@@ -1533,13 +1392,6 @@
                 "generic": "चीनी टाइम",
                 "standard": "चीनी मानत टाइम",
                 "daylight": "चीनी डेलाइट टाइम"
-              }
-            },
-            "Choibalsan": {
-              "long": {
-                "generic": "चोइबलसेन टाइम",
-                "standard": "चोइबलसेन मानक टाइम",
-                "daylight": "चोइबलसेन समर टाइम"
               }
             },
             "Christmas": {
@@ -1782,11 +1634,6 @@
                 "daylight": "लार्ड होबे डेलाइट टाइम"
               }
             },
-            "Macquarie": {
-              "long": {
-                "standard": "मेक्वैरी द्वीप टाइम"
-              }
-            },
             "Magadan": {
               "long": {
                 "generic": "मगादान टाइम",
@@ -1809,13 +1656,6 @@
                 "generic": "मारीशस टाइम",
                 "standard": "मारीशस मानक टाइम",
                 "daylight": "मारीशस समर टाइम"
-              }
-            },
-            "Mexico_Northwest": {
-              "long": {
-                "generic": "उत्तर-पश्चिमी मैक्सिको टाइम",
-                "standard": "उत्तर-पश्चिमी मैक्सिको मानक टाइम",
-                "daylight": "उत्तर-पश्चिमी मैक्सिको डेलाइट टाइम"
               }
             },
             "Mexico_Pacific": {

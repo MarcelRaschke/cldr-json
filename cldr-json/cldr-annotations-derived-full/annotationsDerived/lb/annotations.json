@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "lb"
     },
     "annotations": {
@@ -817,7 +814,9 @@
           "Fanger",
           "Hand",
           "Haren",
+          "Harenzeechen",
           "hell Hautfaarf",
+          "Mano cornuta",
           "Mano cornuta, Harenzeechen",
           "rocken"
         ],
@@ -830,6 +829,8 @@
           "Fanger",
           "Hand",
           "Haren",
+          "Harenzeechen",
+          "Mano cornuta",
           "Mano cornuta, Harenzeechen",
           "mëttelhell Hautfaarf",
           "rocken"
@@ -843,6 +844,8 @@
           "Fanger",
           "Hand",
           "Haren",
+          "Harenzeechen",
+          "Mano cornuta",
           "Mano cornuta, Harenzeechen",
           "mëttel Hautfaarf",
           "rocken"
@@ -856,6 +859,8 @@
           "Fanger",
           "Hand",
           "Haren",
+          "Harenzeechen",
+          "Mano cornuta",
           "Mano cornuta, Harenzeechen",
           "mëtteldäischter Hautfaarf",
           "rocken"
@@ -870,6 +875,8 @@
           "Fanger",
           "Hand",
           "Haren",
+          "Harenzeechen",
+          "Mano cornuta",
           "Mano cornuta, Harenzeechen",
           "rocken"
         ],
@@ -5929,11 +5936,13 @@
       },
       "🙅🏻": {
         "default": [
+          "déi NEEN weist",
           "Geste",
           "Hand",
           "hell Hautfaarf",
           "neen",
           "net",
+          "Persoun",
           "Persoun, déi NEEN weist",
           "Verbueden"
         ],
@@ -5943,11 +5952,13 @@
       },
       "🙅🏼": {
         "default": [
+          "déi NEEN weist",
           "Geste",
           "Hand",
           "mëttelhell Hautfaarf",
           "neen",
           "net",
+          "Persoun",
           "Persoun, déi NEEN weist",
           "Verbueden"
         ],
@@ -5957,11 +5968,13 @@
       },
       "🙅🏽": {
         "default": [
+          "déi NEEN weist",
           "Geste",
           "Hand",
           "mëttel Hautfaarf",
           "neen",
           "net",
+          "Persoun",
           "Persoun, déi NEEN weist",
           "Verbueden"
         ],
@@ -5971,11 +5984,13 @@
       },
       "🙅🏾": {
         "default": [
+          "déi NEEN weist",
           "Geste",
           "Hand",
           "mëtteldäischter Hautfaarf",
           "neen",
           "net",
+          "Persoun",
           "Persoun, déi NEEN weist",
           "Verbueden"
         ],
@@ -5986,10 +6001,12 @@
       "🙅🏿": {
         "default": [
           "däischter Hautfaarf",
+          "déi NEEN weist",
           "Geste",
           "Hand",
           "neen",
           "net",
+          "Persoun",
           "Persoun, déi NEEN weist",
           "Verbueden"
         ],
@@ -5999,6 +6016,7 @@
       },
       "🙅🏻‍♂": {
         "default": [
+          "deen NEEN weist",
           "Geste",
           "Hand",
           "hell Hautfaarf",
@@ -6014,6 +6032,7 @@
       },
       "🙅🏼‍♂": {
         "default": [
+          "deen NEEN weist",
           "Geste",
           "Hand",
           "Mann",
@@ -6029,6 +6048,7 @@
       },
       "🙅🏽‍♂": {
         "default": [
+          "deen NEEN weist",
           "Geste",
           "Hand",
           "Mann",
@@ -6044,6 +6064,7 @@
       },
       "🙅🏾‍♂": {
         "default": [
+          "deen NEEN weist",
           "Geste",
           "Hand",
           "Mann",
@@ -6060,6 +6081,7 @@
       "🙅🏿‍♂": {
         "default": [
           "däischter Hautfaarf",
+          "deen NEEN weist",
           "Geste",
           "Hand",
           "Mann",
@@ -6074,6 +6096,7 @@
       },
       "🙅🏻‍♀": {
         "default": [
+          "déi NEEN weist",
           "Fra",
           "Fra, déi NEEN weist",
           "Geste",
@@ -6089,6 +6112,7 @@
       },
       "🙅🏼‍♀": {
         "default": [
+          "déi NEEN weist",
           "Fra",
           "Fra, déi NEEN weist",
           "Geste",
@@ -6104,6 +6128,7 @@
       },
       "🙅🏽‍♀": {
         "default": [
+          "déi NEEN weist",
           "Fra",
           "Fra, déi NEEN weist",
           "Geste",
@@ -6119,6 +6144,7 @@
       },
       "🙅🏾‍♀": {
         "default": [
+          "déi NEEN weist",
           "Fra",
           "Fra, déi NEEN weist",
           "Geste",
@@ -6135,6 +6161,7 @@
       "🙅🏿‍♀": {
         "default": [
           "däischter Hautfaarf",
+          "déi NEEN weist",
           "Fra",
           "Fra, déi NEEN weist",
           "Geste",
@@ -6149,10 +6176,12 @@
       },
       "🙆🏻": {
         "default": [
+          "déi OK weist",
           "Geste",
           "Hand",
           "hell Hautfaarf",
           "OK",
+          "Persoun",
           "Persoun, déi OK weist"
         ],
         "tts": [
@@ -6161,10 +6190,12 @@
       },
       "🙆🏼": {
         "default": [
+          "déi OK weist",
           "Geste",
           "Hand",
           "mëttelhell Hautfaarf",
           "OK",
+          "Persoun",
           "Persoun, déi OK weist"
         ],
         "tts": [
@@ -6173,10 +6204,12 @@
       },
       "🙆🏽": {
         "default": [
+          "déi OK weist",
           "Geste",
           "Hand",
           "mëttel Hautfaarf",
           "OK",
+          "Persoun",
           "Persoun, déi OK weist"
         ],
         "tts": [
@@ -6185,10 +6218,12 @@
       },
       "🙆🏾": {
         "default": [
+          "déi OK weist",
           "Geste",
           "Hand",
           "mëtteldäischter Hautfaarf",
           "OK",
+          "Persoun",
           "Persoun, déi OK weist"
         ],
         "tts": [
@@ -6198,9 +6233,11 @@
       "🙆🏿": {
         "default": [
           "däischter Hautfaarf",
+          "déi OK weist",
           "Geste",
           "Hand",
           "OK",
+          "Persoun",
           "Persoun, déi OK weist"
         ],
         "tts": [
@@ -6209,6 +6246,7 @@
       },
       "🙆🏻‍♂": {
         "default": [
+          "deen OK weist",
           "Geste",
           "Hand",
           "hell Hautfaarf",
@@ -6222,6 +6260,7 @@
       },
       "🙆🏼‍♂": {
         "default": [
+          "deen OK weist",
           "Geste",
           "Hand",
           "Mann",
@@ -6235,6 +6274,7 @@
       },
       "🙆🏽‍♂": {
         "default": [
+          "deen OK weist",
           "Geste",
           "Hand",
           "Mann",
@@ -6248,6 +6288,7 @@
       },
       "🙆🏾‍♂": {
         "default": [
+          "deen OK weist",
           "Geste",
           "Hand",
           "Mann",
@@ -6262,6 +6303,7 @@
       "🙆🏿‍♂": {
         "default": [
           "däischter Hautfaarf",
+          "deen OK weist",
           "Geste",
           "Hand",
           "Mann",
@@ -6274,6 +6316,7 @@
       },
       "🙆🏻‍♀": {
         "default": [
+          "déi OK weist",
           "Fra",
           "Fra, déi OK weist",
           "Geste",
@@ -6287,6 +6330,7 @@
       },
       "🙆🏼‍♀": {
         "default": [
+          "déi OK weist",
           "Fra",
           "Fra, déi OK weist",
           "Geste",
@@ -6300,6 +6344,7 @@
       },
       "🙆🏽‍♀": {
         "default": [
+          "déi OK weist",
           "Fra",
           "Fra, déi OK weist",
           "Geste",
@@ -6313,6 +6358,7 @@
       },
       "🙆🏾‍♀": {
         "default": [
+          "déi OK weist",
           "Fra",
           "Fra, déi OK weist",
           "Geste",
@@ -6327,6 +6373,7 @@
       "🙆🏿‍♀": {
         "default": [
           "däischter Hautfaarf",
+          "déi OK weist",
           "Fra",
           "Fra, déi OK weist",
           "Geste",
@@ -6339,12 +6386,14 @@
       },
       "💁🏻": {
         "default": [
+          "déi d’Hand op hält",
           "frech",
           "Hand",
           "hell Hautfaarf",
           "Hëllef",
           "Informatiounen",
           "ophalen",
+          "Persoun",
           "Persoun, déi d’Hand op hält"
         ],
         "tts": [
@@ -6353,12 +6402,14 @@
       },
       "💁🏼": {
         "default": [
+          "déi d’Hand op hält",
           "frech",
           "Hand",
           "Hëllef",
           "Informatiounen",
           "mëttelhell Hautfaarf",
           "ophalen",
+          "Persoun",
           "Persoun, déi d’Hand op hält"
         ],
         "tts": [
@@ -6367,12 +6418,14 @@
       },
       "💁🏽": {
         "default": [
+          "déi d’Hand op hält",
           "frech",
           "Hand",
           "Hëllef",
           "Informatiounen",
           "mëttel Hautfaarf",
           "ophalen",
+          "Persoun",
           "Persoun, déi d’Hand op hält"
         ],
         "tts": [
@@ -6381,12 +6434,14 @@
       },
       "💁🏾": {
         "default": [
+          "déi d’Hand op hält",
           "frech",
           "Hand",
           "Hëllef",
           "Informatiounen",
           "mëtteldäischter Hautfaarf",
           "ophalen",
+          "Persoun",
           "Persoun, déi d’Hand op hält"
         ],
         "tts": [
@@ -6396,11 +6451,13 @@
       "💁🏿": {
         "default": [
           "däischter Hautfaarf",
+          "déi d’Hand op hält",
           "frech",
           "Hand",
           "Hëllef",
           "Informatiounen",
           "ophalen",
+          "Persoun",
           "Persoun, déi d’Hand op hält"
         ],
         "tts": [
@@ -6409,6 +6466,7 @@
       },
       "💁🏻‍♂": {
         "default": [
+          "deen d’Hand op hält",
           "frech",
           "hell Hautfaarf",
           "Mann",
@@ -6421,6 +6479,7 @@
       },
       "💁🏼‍♂": {
         "default": [
+          "deen d’Hand op hält",
           "frech",
           "Mann",
           "Mann, deen d’Hand op hält",
@@ -6433,6 +6492,7 @@
       },
       "💁🏽‍♂": {
         "default": [
+          "deen d’Hand op hält",
           "frech",
           "Mann",
           "Mann, deen d’Hand op hält",
@@ -6445,6 +6505,7 @@
       },
       "💁🏾‍♂": {
         "default": [
+          "deen d’Hand op hält",
           "frech",
           "Mann",
           "Mann, deen d’Hand op hält",
@@ -6458,6 +6519,7 @@
       "💁🏿‍♂": {
         "default": [
           "däischter Hautfaarf",
+          "deen d’Hand op hält",
           "frech",
           "Mann",
           "Mann, deen d’Hand op hält",
@@ -6469,6 +6531,7 @@
       },
       "💁🏻‍♀": {
         "default": [
+          "déi d’Hand op hält",
           "Fra",
           "Fra, déi d’Hand op hält",
           "frech",
@@ -6481,6 +6544,7 @@
       },
       "💁🏼‍♀": {
         "default": [
+          "déi d’Hand op hält",
           "Fra",
           "Fra, déi d’Hand op hält",
           "frech",
@@ -6493,6 +6557,7 @@
       },
       "💁🏽‍♀": {
         "default": [
+          "déi d’Hand op hält",
           "Fra",
           "Fra, déi d’Hand op hält",
           "frech",
@@ -6505,6 +6570,7 @@
       },
       "💁🏾‍♀": {
         "default": [
+          "déi d’Hand op hält",
           "Fra",
           "Fra, déi d’Hand op hält",
           "frech",
@@ -6518,6 +6584,7 @@
       "💁🏿‍♀": {
         "default": [
           "däischter Hautfaarf",
+          "déi d’Hand op hält",
           "Fra",
           "Fra, déi d’Hand op hält",
           "frech",
@@ -6529,11 +6596,13 @@
       },
       "🙋🏻": {
         "default": [
+          "déi d’Hand hieft",
           "gehuewen",
           "Geste",
           "glécklech",
           "Hand",
           "hell Hautfaarf",
+          "Persoun",
           "Persoun, déi d’Hand hieft"
         ],
         "tts": [
@@ -6542,11 +6611,13 @@
       },
       "🙋🏼": {
         "default": [
+          "déi d’Hand hieft",
           "gehuewen",
           "Geste",
           "glécklech",
           "Hand",
           "mëttelhell Hautfaarf",
+          "Persoun",
           "Persoun, déi d’Hand hieft"
         ],
         "tts": [
@@ -6555,11 +6626,13 @@
       },
       "🙋🏽": {
         "default": [
+          "déi d’Hand hieft",
           "gehuewen",
           "Geste",
           "glécklech",
           "Hand",
           "mëttel Hautfaarf",
+          "Persoun",
           "Persoun, déi d’Hand hieft"
         ],
         "tts": [
@@ -6568,11 +6641,13 @@
       },
       "🙋🏾": {
         "default": [
+          "déi d’Hand hieft",
           "gehuewen",
           "Geste",
           "glécklech",
           "Hand",
           "mëtteldäischter Hautfaarf",
+          "Persoun",
           "Persoun, déi d’Hand hieft"
         ],
         "tts": [
@@ -6582,10 +6657,12 @@
       "🙋🏿": {
         "default": [
           "däischter Hautfaarf",
+          "déi d’Hand hieft",
           "gehuewen",
           "Geste",
           "glécklech",
           "Hand",
+          "Persoun",
           "Persoun, déi d’Hand hieft"
         ],
         "tts": [
@@ -6594,6 +6671,7 @@
       },
       "🙋🏻‍♂": {
         "default": [
+          "deen d’Hand hieft",
           "gehuewen Hand",
           "Geste",
           "hell Hautfaarf",
@@ -6606,6 +6684,7 @@
       },
       "🙋🏼‍♂": {
         "default": [
+          "deen d’Hand hieft",
           "gehuewen Hand",
           "Geste",
           "Mann",
@@ -6618,6 +6697,7 @@
       },
       "🙋🏽‍♂": {
         "default": [
+          "deen d’Hand hieft",
           "gehuewen Hand",
           "Geste",
           "Mann",
@@ -6630,6 +6710,7 @@
       },
       "🙋🏾‍♂": {
         "default": [
+          "deen d’Hand hieft",
           "gehuewen Hand",
           "Geste",
           "Mann",
@@ -6643,6 +6724,7 @@
       "🙋🏿‍♂": {
         "default": [
           "däischter Hautfaarf",
+          "deen d’Hand hieft",
           "gehuewen Hand",
           "Geste",
           "Mann",
@@ -6654,6 +6736,7 @@
       },
       "🙋🏻‍♀": {
         "default": [
+          "déi d’Hand hieft",
           "Fra",
           "Fra, déi d’Hand hieft",
           "gehuewen Hand",
@@ -6666,6 +6749,7 @@
       },
       "🙋🏼‍♀": {
         "default": [
+          "déi d’Hand hieft",
           "Fra",
           "Fra, déi d’Hand hieft",
           "gehuewen Hand",
@@ -6678,6 +6762,7 @@
       },
       "🙋🏽‍♀": {
         "default": [
+          "déi d’Hand hieft",
           "Fra",
           "Fra, déi d’Hand hieft",
           "gehuewen Hand",
@@ -6690,6 +6775,7 @@
       },
       "🙋🏾‍♀": {
         "default": [
+          "déi d’Hand hieft",
           "Fra",
           "Fra, déi d’Hand hieft",
           "gehuewen Hand",
@@ -6703,6 +6789,7 @@
       "🙋🏿‍♀": {
         "default": [
           "däischter Hautfaarf",
+          "déi d’Hand hieft",
           "Fra",
           "Fra, déi d’Hand hieft",
           "gehuewen Hand",
@@ -6929,10 +7016,12 @@
       },
       "🤦🏻": {
         "default": [
+          "déi sech d’Hand widder de Kapp schléit",
           "Frust",
           "Gesiicht",
           "Hand",
           "hell Hautfaarf",
+          "Persoun",
           "Persoun, déi sech d’Hand widder de Kapp schléit",
           "Zweiwel"
         ],
@@ -6942,10 +7031,12 @@
       },
       "🤦🏼": {
         "default": [
+          "déi sech d’Hand widder de Kapp schléit",
           "Frust",
           "Gesiicht",
           "Hand",
           "mëttelhell Hautfaarf",
+          "Persoun",
           "Persoun, déi sech d’Hand widder de Kapp schléit",
           "Zweiwel"
         ],
@@ -6955,10 +7046,12 @@
       },
       "🤦🏽": {
         "default": [
+          "déi sech d’Hand widder de Kapp schléit",
           "Frust",
           "Gesiicht",
           "Hand",
           "mëttel Hautfaarf",
+          "Persoun",
           "Persoun, déi sech d’Hand widder de Kapp schléit",
           "Zweiwel"
         ],
@@ -6968,10 +7061,12 @@
       },
       "🤦🏾": {
         "default": [
+          "déi sech d’Hand widder de Kapp schléit",
           "Frust",
           "Gesiicht",
           "Hand",
           "mëtteldäischter Hautfaarf",
+          "Persoun",
           "Persoun, déi sech d’Hand widder de Kapp schléit",
           "Zweiwel"
         ],
@@ -6982,9 +7077,11 @@
       "🤦🏿": {
         "default": [
           "däischter Hautfaarf",
+          "déi sech d’Hand widder de Kapp schléit",
           "Frust",
           "Gesiicht",
           "Hand",
+          "Persoun",
           "Persoun, déi sech d’Hand widder de Kapp schléit",
           "Zweiwel"
         ],
@@ -6994,6 +7091,7 @@
       },
       "🤦🏻‍♂": {
         "default": [
+          "deen sech d’Hand widder de Kapp schléit",
           "entsat",
           "Frust",
           "hell Hautfaarf",
@@ -7007,6 +7105,7 @@
       },
       "🤦🏼‍♂": {
         "default": [
+          "deen sech d’Hand widder de Kapp schléit",
           "entsat",
           "Frust",
           "Mann",
@@ -7020,6 +7119,7 @@
       },
       "🤦🏽‍♂": {
         "default": [
+          "deen sech d’Hand widder de Kapp schléit",
           "entsat",
           "Frust",
           "Mann",
@@ -7033,6 +7133,7 @@
       },
       "🤦🏾‍♂": {
         "default": [
+          "deen sech d’Hand widder de Kapp schléit",
           "entsat",
           "Frust",
           "Mann",
@@ -7047,6 +7148,7 @@
       "🤦🏿‍♂": {
         "default": [
           "däischter Hautfaarf",
+          "deen sech d’Hand widder de Kapp schléit",
           "entsat",
           "Frust",
           "Mann",
@@ -7059,6 +7161,7 @@
       },
       "🤦🏻‍♀": {
         "default": [
+          "déi sech d’Hand widder de Kapp schléit",
           "entsat",
           "Fra",
           "Fra, déi sech d’Hand widder de Kapp schléit",
@@ -7072,6 +7175,7 @@
       },
       "🤦🏼‍♀": {
         "default": [
+          "déi sech d’Hand widder de Kapp schléit",
           "entsat",
           "Fra",
           "Fra, déi sech d’Hand widder de Kapp schléit",
@@ -7085,6 +7189,7 @@
       },
       "🤦🏽‍♀": {
         "default": [
+          "déi sech d’Hand widder de Kapp schléit",
           "entsat",
           "Fra",
           "Fra, déi sech d’Hand widder de Kapp schléit",
@@ -7098,6 +7203,7 @@
       },
       "🤦🏾‍♀": {
         "default": [
+          "déi sech d’Hand widder de Kapp schléit",
           "entsat",
           "Fra",
           "Fra, déi sech d’Hand widder de Kapp schléit",
@@ -7112,6 +7218,7 @@
       "🤦🏿‍♀": {
         "default": [
           "däischter Hautfaarf",
+          "déi sech d’Hand widder de Kapp schléit",
           "entsat",
           "Fra",
           "Fra, déi sech d’Hand widder de Kapp schléit",
@@ -7124,9 +7231,11 @@
       },
       "🤷🏻": {
         "default": [
+          "déi d’Schëlleren hieft",
           "hell Hautfaarf",
           "Ignoranz",
           "Indifferenz",
+          "Persoun",
           "Persoun, déi d’Schëlleren hieft",
           "Schëlleren hiewen",
           "Zweiwel"
@@ -7137,9 +7246,11 @@
       },
       "🤷🏼": {
         "default": [
+          "déi d’Schëlleren hieft",
           "Ignoranz",
           "Indifferenz",
           "mëttelhell Hautfaarf",
+          "Persoun",
           "Persoun, déi d’Schëlleren hieft",
           "Schëlleren hiewen",
           "Zweiwel"
@@ -7150,9 +7261,11 @@
       },
       "🤷🏽": {
         "default": [
+          "déi d’Schëlleren hieft",
           "Ignoranz",
           "Indifferenz",
           "mëttel Hautfaarf",
+          "Persoun",
           "Persoun, déi d’Schëlleren hieft",
           "Schëlleren hiewen",
           "Zweiwel"
@@ -7163,9 +7276,11 @@
       },
       "🤷🏾": {
         "default": [
+          "déi d’Schëlleren hieft",
           "Ignoranz",
           "Indifferenz",
           "mëtteldäischter Hautfaarf",
+          "Persoun",
           "Persoun, déi d’Schëlleren hieft",
           "Schëlleren hiewen",
           "Zweiwel"
@@ -7177,8 +7292,10 @@
       "🤷🏿": {
         "default": [
           "däischter Hautfaarf",
+          "déi d’Schëlleren hieft",
           "Ignoranz",
           "Indifferenz",
+          "Persoun",
           "Persoun, déi d’Schëlleren hieft",
           "Schëlleren hiewen",
           "Zweiwel"
@@ -7189,6 +7306,7 @@
       },
       "🤷🏻‍♂": {
         "default": [
+          "deen d’Schëlleren hieft",
           "hell Hautfaarf",
           "Ignoranz",
           "Indifferenz",
@@ -7203,6 +7321,7 @@
       },
       "🤷🏼‍♂": {
         "default": [
+          "deen d’Schëlleren hieft",
           "Ignoranz",
           "Indifferenz",
           "Mann",
@@ -7217,6 +7336,7 @@
       },
       "🤷🏽‍♂": {
         "default": [
+          "deen d’Schëlleren hieft",
           "Ignoranz",
           "Indifferenz",
           "Mann",
@@ -7231,6 +7351,7 @@
       },
       "🤷🏾‍♂": {
         "default": [
+          "deen d’Schëlleren hieft",
           "Ignoranz",
           "Indifferenz",
           "Mann",
@@ -7246,6 +7367,7 @@
       "🤷🏿‍♂": {
         "default": [
           "däischter Hautfaarf",
+          "deen d’Schëlleren hieft",
           "Ignoranz",
           "Indifferenz",
           "Mann",
@@ -7259,6 +7381,7 @@
       },
       "🤷🏻‍♀": {
         "default": [
+          "déi d’Schëlleren hieft",
           "Fra",
           "Fra, déi d’Schëlleren hieft",
           "hell Hautfaarf",
@@ -7273,6 +7396,7 @@
       },
       "🤷🏼‍♀": {
         "default": [
+          "déi d’Schëlleren hieft",
           "Fra",
           "Fra, déi d’Schëlleren hieft",
           "Ignoranz",
@@ -7287,6 +7411,7 @@
       },
       "🤷🏽‍♀": {
         "default": [
+          "déi d’Schëlleren hieft",
           "Fra",
           "Fra, déi d’Schëlleren hieft",
           "Ignoranz",
@@ -7301,6 +7426,7 @@
       },
       "🤷🏾‍♀": {
         "default": [
+          "déi d’Schëlleren hieft",
           "Fra",
           "Fra, déi d’Schëlleren hieft",
           "Ignoranz",
@@ -7316,6 +7442,7 @@
       "🤷🏿‍♀": {
         "default": [
           "däischter Hautfaarf",
+          "déi d’Schëlleren hieft",
           "Fra",
           "Fra, déi d’Schëlleren hieft",
           "Ignoranz",
@@ -11614,9 +11741,11 @@
       },
       "💆🏻": {
         "default": [
+          "déi eng Kappmassage kritt",
           "Gesiicht",
           "hell Hautfaarf",
           "Massage",
+          "Persoun",
           "Persoun, déi eng Kappmassage kritt",
           "Salon"
         ],
@@ -11626,9 +11755,11 @@
       },
       "💆🏼": {
         "default": [
+          "déi eng Kappmassage kritt",
           "Gesiicht",
           "Massage",
           "mëttelhell Hautfaarf",
+          "Persoun",
           "Persoun, déi eng Kappmassage kritt",
           "Salon"
         ],
@@ -11638,9 +11769,11 @@
       },
       "💆🏽": {
         "default": [
+          "déi eng Kappmassage kritt",
           "Gesiicht",
           "Massage",
           "mëttel Hautfaarf",
+          "Persoun",
           "Persoun, déi eng Kappmassage kritt",
           "Salon"
         ],
@@ -11650,9 +11783,11 @@
       },
       "💆🏾": {
         "default": [
+          "déi eng Kappmassage kritt",
           "Gesiicht",
           "Massage",
           "mëtteldäischter Hautfaarf",
+          "Persoun",
           "Persoun, déi eng Kappmassage kritt",
           "Salon"
         ],
@@ -11663,8 +11798,10 @@
       "💆🏿": {
         "default": [
           "däischter Hautfaarf",
+          "déi eng Kappmassage kritt",
           "Gesiicht",
           "Massage",
+          "Persoun",
           "Persoun, déi eng Kappmassage kritt",
           "Salon"
         ],
@@ -11674,6 +11811,7 @@
       },
       "💆🏻‍♂": {
         "default": [
+          "deen eng Kappmassage kritt",
           "Gesiicht",
           "hell Hautfaarf",
           "Mann",
@@ -11686,6 +11824,7 @@
       },
       "💆🏼‍♂": {
         "default": [
+          "deen eng Kappmassage kritt",
           "Gesiicht",
           "Mann",
           "Mann, deen eng Kappmassage kritt",
@@ -11698,6 +11837,7 @@
       },
       "💆🏽‍♂": {
         "default": [
+          "deen eng Kappmassage kritt",
           "Gesiicht",
           "Mann",
           "Mann, deen eng Kappmassage kritt",
@@ -11710,6 +11850,7 @@
       },
       "💆🏾‍♂": {
         "default": [
+          "deen eng Kappmassage kritt",
           "Gesiicht",
           "Mann",
           "Mann, deen eng Kappmassage kritt",
@@ -11723,6 +11864,7 @@
       "💆🏿‍♂": {
         "default": [
           "däischter Hautfaarf",
+          "deen eng Kappmassage kritt",
           "Gesiicht",
           "Mann",
           "Mann, deen eng Kappmassage kritt",
@@ -11734,6 +11876,7 @@
       },
       "💆🏻‍♀": {
         "default": [
+          "déi eng Kappmassage kritt",
           "Fra",
           "Fra, déi eng Kappmassage kritt",
           "Gesiicht",
@@ -11746,6 +11889,7 @@
       },
       "💆🏼‍♀": {
         "default": [
+          "déi eng Kappmassage kritt",
           "Fra",
           "Fra, déi eng Kappmassage kritt",
           "Gesiicht",
@@ -11758,6 +11902,7 @@
       },
       "💆🏽‍♀": {
         "default": [
+          "déi eng Kappmassage kritt",
           "Fra",
           "Fra, déi eng Kappmassage kritt",
           "Gesiicht",
@@ -11770,6 +11915,7 @@
       },
       "💆🏾‍♀": {
         "default": [
+          "déi eng Kappmassage kritt",
           "Fra",
           "Fra, déi eng Kappmassage kritt",
           "Gesiicht",
@@ -11783,6 +11929,7 @@
       "💆🏿‍♀": {
         "default": [
           "däischter Hautfaarf",
+          "déi eng Kappmassage kritt",
           "Fra",
           "Fra, déi eng Kappmassage kritt",
           "Gesiicht",
@@ -11796,8 +11943,10 @@
         "default": [
           "Coiffer",
           "Coupe",
+          "déi d’Hoer geschnidde kritt",
           "hell Hautfaarf",
           "Hoer",
+          "Persoun",
           "Persoun, déi d’Hoer geschnidde kritt",
           "Salon",
           "Schéinheet",
@@ -11811,8 +11960,10 @@
         "default": [
           "Coiffer",
           "Coupe",
+          "déi d’Hoer geschnidde kritt",
           "Hoer",
           "mëttelhell Hautfaarf",
+          "Persoun",
           "Persoun, déi d’Hoer geschnidde kritt",
           "Salon",
           "Schéinheet",
@@ -11826,8 +11977,10 @@
         "default": [
           "Coiffer",
           "Coupe",
+          "déi d’Hoer geschnidde kritt",
           "Hoer",
           "mëttel Hautfaarf",
+          "Persoun",
           "Persoun, déi d’Hoer geschnidde kritt",
           "Salon",
           "Schéinheet",
@@ -11841,8 +11994,10 @@
         "default": [
           "Coiffer",
           "Coupe",
+          "déi d’Hoer geschnidde kritt",
           "Hoer",
           "mëtteldäischter Hautfaarf",
+          "Persoun",
           "Persoun, déi d’Hoer geschnidde kritt",
           "Salon",
           "Schéinheet",
@@ -11857,7 +12012,9 @@
           "Coiffer",
           "Coupe",
           "däischter Hautfaarf",
+          "déi d’Hoer geschnidde kritt",
           "Hoer",
+          "Persoun",
           "Persoun, déi d’Hoer geschnidde kritt",
           "Salon",
           "Schéinheet",
@@ -11870,6 +12027,7 @@
       "💇🏻‍♂": {
         "default": [
           "Coupe",
+          "deen d’Hoer geschnidde kritt",
           "hell Hautfaarf",
           "Hoer",
           "Mann",
@@ -11883,6 +12041,7 @@
       "💇🏼‍♂": {
         "default": [
           "Coupe",
+          "deen d’Hoer geschnidde kritt",
           "Hoer",
           "Mann",
           "Mann, deen d’Hoer geschnidde kritt",
@@ -11896,6 +12055,7 @@
       "💇🏽‍♂": {
         "default": [
           "Coupe",
+          "deen d’Hoer geschnidde kritt",
           "Hoer",
           "Mann",
           "Mann, deen d’Hoer geschnidde kritt",
@@ -11909,6 +12069,7 @@
       "💇🏾‍♂": {
         "default": [
           "Coupe",
+          "deen d’Hoer geschnidde kritt",
           "Hoer",
           "Mann",
           "Mann, deen d’Hoer geschnidde kritt",
@@ -11923,6 +12084,7 @@
         "default": [
           "Coupe",
           "däischter Hautfaarf",
+          "deen d’Hoer geschnidde kritt",
           "Hoer",
           "Mann",
           "Mann, deen d’Hoer geschnidde kritt",
@@ -11935,6 +12097,7 @@
       "💇🏻‍♀": {
         "default": [
           "Coupe",
+          "déi d’Hoer geschnidde kritt",
           "Fra",
           "Fra, déi d’Hoer geschnidde kritt",
           "hell Hautfaarf",
@@ -11948,6 +12111,7 @@
       "💇🏼‍♀": {
         "default": [
           "Coupe",
+          "déi d’Hoer geschnidde kritt",
           "Fra",
           "Fra, déi d’Hoer geschnidde kritt",
           "Hoer",
@@ -11961,6 +12125,7 @@
       "💇🏽‍♀": {
         "default": [
           "Coupe",
+          "déi d’Hoer geschnidde kritt",
           "Fra",
           "Fra, déi d’Hoer geschnidde kritt",
           "Hoer",
@@ -11974,6 +12139,7 @@
       "💇🏾‍♀": {
         "default": [
           "Coupe",
+          "déi d’Hoer geschnidde kritt",
           "Fra",
           "Fra, déi d’Hoer geschnidde kritt",
           "Hoer",
@@ -11988,6 +12154,7 @@
         "default": [
           "Coupe",
           "däischter Hautfaarf",
+          "déi d’Hoer geschnidde kritt",
           "Fra",
           "Fra, déi d’Hoer geschnidde kritt",
           "Hoer",
@@ -14354,7 +14521,9 @@
       },
       "🤸🏻": {
         "default": [
+          "déi d’Rad schléit",
           "hell Hautfaarf",
+          "Persoun",
           "Persoun, déi d’Rad schléit",
           "Rad",
           "Turnen"
@@ -14365,7 +14534,9 @@
       },
       "🤸🏼": {
         "default": [
+          "déi d’Rad schléit",
           "mëttelhell Hautfaarf",
+          "Persoun",
           "Persoun, déi d’Rad schléit",
           "Rad",
           "Turnen"
@@ -14376,7 +14547,9 @@
       },
       "🤸🏽": {
         "default": [
+          "déi d’Rad schléit",
           "mëttel Hautfaarf",
+          "Persoun",
           "Persoun, déi d’Rad schléit",
           "Rad",
           "Turnen"
@@ -14387,7 +14560,9 @@
       },
       "🤸🏾": {
         "default": [
+          "déi d’Rad schléit",
           "mëtteldäischter Hautfaarf",
+          "Persoun",
           "Persoun, déi d’Rad schléit",
           "Rad",
           "Turnen"
@@ -14399,6 +14574,8 @@
       "🤸🏿": {
         "default": [
           "däischter Hautfaarf",
+          "déi d’Rad schléit",
+          "Persoun",
           "Persoun, déi d’Rad schléit",
           "Rad",
           "Turnen"
@@ -14409,6 +14586,7 @@
       },
       "🤸🏻‍♂": {
         "default": [
+          "deen d’Rad schléit",
           "hell Hautfaarf",
           "Mann",
           "Mann, deen d’Rad schléit",
@@ -14421,6 +14599,7 @@
       },
       "🤸🏼‍♂": {
         "default": [
+          "deen d’Rad schléit",
           "Mann",
           "Mann, deen d’Rad schléit",
           "mëttelhell Hautfaarf",
@@ -14433,6 +14612,7 @@
       },
       "🤸🏽‍♂": {
         "default": [
+          "deen d’Rad schléit",
           "Mann",
           "Mann, deen d’Rad schléit",
           "mëttel Hautfaarf",
@@ -14445,6 +14625,7 @@
       },
       "🤸🏾‍♂": {
         "default": [
+          "deen d’Rad schléit",
           "Mann",
           "Mann, deen d’Rad schléit",
           "mëtteldäischter Hautfaarf",
@@ -14458,6 +14639,7 @@
       "🤸🏿‍♂": {
         "default": [
           "däischter Hautfaarf",
+          "deen d’Rad schléit",
           "Mann",
           "Mann, deen d’Rad schléit",
           "Rad",
@@ -14469,6 +14651,7 @@
       },
       "🤸🏻‍♀": {
         "default": [
+          "déi d’Rad schléit",
           "Fra",
           "Fra, déi d’Rad schléit",
           "hell Hautfaarf",
@@ -14481,6 +14664,7 @@
       },
       "🤸🏼‍♀": {
         "default": [
+          "déi d’Rad schléit",
           "Fra",
           "Fra, déi d’Rad schléit",
           "mëttelhell Hautfaarf",
@@ -14493,6 +14677,7 @@
       },
       "🤸🏽‍♀": {
         "default": [
+          "déi d’Rad schléit",
           "Fra",
           "Fra, déi d’Rad schléit",
           "mëttel Hautfaarf",
@@ -14505,6 +14690,7 @@
       },
       "🤸🏾‍♀": {
         "default": [
+          "déi d’Rad schléit",
           "Fra",
           "Fra, déi d’Rad schléit",
           "mëtteldäischter Hautfaarf",
@@ -14518,6 +14704,7 @@
       "🤸🏿‍♀": {
         "default": [
           "däischter Hautfaarf",
+          "déi d’Rad schléit",
           "Fra",
           "Fra, déi d’Rad schléit",
           "Rad",
@@ -16922,11 +17109,6 @@
           "Nigerianeschen Naira"
         ]
       },
-      "₧": {
-        "tts": [
-          "Spuenesch Peseta"
-        ]
-      },
       "₪": {
         "tts": [
           "Israeleschen Neie Schekel"
@@ -16980,6 +17162,11 @@
       "₾": {
         "tts": [
           "Georgesche Lari"
+        ]
+      },
+      "₧": {
+        "tts": [
+          "Spuenesch Peseta"
         ]
       }
     }

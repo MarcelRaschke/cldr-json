@@ -2,9 +2,6 @@
   "main": {
     "br": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "br"
       },
       "localeDisplayNames": {
@@ -159,7 +156,6 @@
           "IL": "Israel",
           "IM": "Enez Vanav",
           "IN": "India",
-          "IO": "Tiriad breizhveurat Meurvor Indez",
           "IQ": "Iraq",
           "IR": "Iran",
           "IS": "Island",

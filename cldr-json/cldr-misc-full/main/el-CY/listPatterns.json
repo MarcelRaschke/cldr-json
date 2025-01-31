@@ -2,9 +2,6 @@
   "main": {
     "el-CY": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "el",
         "territory": "CY"
       },

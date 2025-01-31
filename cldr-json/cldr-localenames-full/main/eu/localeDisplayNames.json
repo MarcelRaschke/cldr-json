@@ -2,9 +2,6 @@
   "main": {
     "eu": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "eu"
       },
       "localeDisplayNames": {
@@ -12,6 +9,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Ingalaterra",
+          "gbsct": "Eskozia",
+          "gbwls": "Gales"
         },
         "keys": {
           "calendar": "Egutegia",
@@ -44,11 +46,11 @@
             "gregorian": "Egutegi gregoriarra",
             "hebrew": "Hebrear egutegia",
             "indian": "Indiar egutegia",
-            "islamic": "Islamiar egutegia",
-            "islamic-civil": "Islamiar egutegia (taula-formakoa, garai zibilekoa)",
+            "islamic": "Egutegi islamiarra",
+            "islamic-civil": "Egutegi islamiarra (taula-formakoa, garai zibilekoa)",
             "islamic-rgsa": "Islamiar egutegia (Saudi Arabia, ikuspegiak)",
             "islamic-tbla": "Islamiar egutegia (taula-formakoa, gai astronomikokoa)",
-            "islamic-umalqura": "Islamiar egutegia (Umm al-Qura)",
+            "islamic-umalqura": "Egutegi islamiarra (Umm al-Qura)",
             "iso8601": "ISO-8601 egutegia",
             "japanese": "Japoniar egutegia",
             "persian": "Egutegi persiarra",
@@ -86,7 +88,6 @@
             "phonebook": "Telefonoen zerrenda",
             "phonetic": "Ordenatzeko irizpide fonetikoa",
             "pinyin": "Pinyin hurrenkera",
-            "reformed": "Erreformaren araberako hurrenkera",
             "search": "Bilaketa orokorra",
             "searchjl": "Bilatu hangularen lehen kontsonantearen arabera",
             "standard": "Ordenatzeko irizpide estandarra",
@@ -172,7 +173,7 @@
             "jpanfin": "Finantzetarako zenbaki japoniarrak",
             "kali": "Kayah Li digituak",
             "kawi": "kawi digituak",
-            "khmr": "Digitu khemerarrak",
+            "khmr": "Digitu khmertarrak",
             "knda": "Digitu kannadarrak",
             "lana": "Tai Tham Hora digituak",
             "lanatham": "Tai Tham Tham digituak",
@@ -185,7 +186,7 @@
             "mathmono": "Zuriune bakarreko digitu matematikoak",
             "mathsanb": "Sans-Serif Bold digitu matematikoak",
             "mathsans": "Sans-Serif digitu matematikoak",
-            "mlym": "Digitu malayalamarrak",
+            "mlym": "Digitu malabartarrak",
             "modi": "Modi digituak",
             "mong": "Digitu mongoliarrak",
             "mroo": "Mro digituak",
@@ -194,7 +195,7 @@
             "mymrshan": "Shan digitu birmaniarrak",
             "mymrtlng": "Tai Laing digitu birmaniarrak",
             "nagm": "nag mundari digituak",
-            "native": "Zenbaki-sistema",
+            "native": "Digitu natiboak",
             "nkoo": "N’Ko digituak",
             "olck": "Ol Chiki digituak",
             "orya": "Digitu oriyarrak",
@@ -210,8 +211,8 @@
             "sund": "Digitu sundadarrak",
             "takr": "Digitu takriarrak",
             "talu": "Digitu tai lue berriak",
-            "taml": "Zenbaki tamilar tradizionalak",
-            "tamldec": "Digitu tamilarrak",
+            "taml": "Zenbaki tamildar tradizionalak",
+            "tamldec": "Digitu tamildarrak",
             "telu": "Digitu teluguarrak",
             "thai": "Digitu thailandiarrak",
             "tibt": "Digitu tibetarrak",

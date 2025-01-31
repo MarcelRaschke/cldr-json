@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "bs"
     },
     "annotations": {
@@ -3783,6 +3780,25 @@
           "potresenost"
         ]
       },
+      "🙂‍↔": {
+        "default": [
+          "ne vrti",
+          "vrti glavom lijevo desno"
+        ],
+        "tts": [
+          "vrti glavom lijevo desno"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "da",
+          "klima",
+          "klima glavom"
+        ],
+        "tts": [
+          "klima glavom"
+        ]
+      },
       "😌": {
         "default": [
           "lice",
@@ -3834,6 +3850,22 @@
         ],
         "tts": [
           "lice koje spava"
+        ]
+      },
+      "🫩": {
+        "default": [
+          "dosadno",
+          "iscrpljeno",
+          "kasno",
+          "lice",
+          "oči",
+          "podočnjaci",
+          "pospano",
+          "umorno",
+          "zamoreno"
+        ],
+        "tts": [
+          "lice s podočnjacima"
         ]
       },
       "😷": {
@@ -6037,12 +6069,13 @@
       },
       "🙆‍♂": {
         "default": [
+          "bože",
+          "gesta",
           "gestikulacija",
           "muškarac",
-          "muškarac pokazuje ok",
-          "muškarac pokazuje OK",
-          "odobravanje",
-          "slaganje"
+          "OK",
+          "ruka",
+          "vježba"
         ],
         "tts": [
           "muškarac pokazuje ok"
@@ -6050,12 +6083,13 @@
       },
       "🙆‍♀": {
         "default": [
+          "bože",
+          "gesta",
           "gestikulacija",
-          "odobravanje",
-          "slaganje",
-          "žena",
-          "žena pokazuje ok",
-          "žena pokazuje OK"
+          "OK",
+          "ruka",
+          "vježba",
+          "žena"
         ],
         "tts": [
           "žena pokazuje ok"
@@ -7197,7 +7231,8 @@
       },
       "🧑‍🎄": {
         "default": [
-          "Djeda Mraz, božić",
+          "božić",
+          "Djeda Mraz",
           "g. Mraz"
         ],
         "tts": [
@@ -8473,17 +8508,6 @@
           "par i srce"
         ]
       },
-      "👪": {
-        "default": [
-          "dijete",
-          "majka",
-          "otac",
-          "porodica"
-        ],
-        "tts": [
-          "porodica"
-        ]
-      },
       "🗣": {
         "default": [
           "govor",
@@ -8528,6 +8552,59 @@
           "ljudi se grle"
         ]
       },
+      "👪": {
+        "default": [
+          "dijete",
+          "majka",
+          "otac",
+          "porodica"
+        ],
+        "tts": [
+          "porodica"
+        ]
+      },
+      "🧑‍🧑‍🧒": {
+        "default": [
+          "dijete",
+          "odrasla osoba",
+          "porodica: odrasla osoba",
+          "porodica: odrasla osoba, odrasla osoba, dijete"
+        ],
+        "tts": [
+          "porodica: odrasla osoba, odrasla osoba, dijete"
+        ]
+      },
+      "🧑‍🧑‍🧒‍🧒": {
+        "default": [
+          "dijete",
+          "odrasla osoba",
+          "porodica: odrasla osoba",
+          "porodica: odrasla osoba, odrasla osoba, dijete, dijete"
+        ],
+        "tts": [
+          "porodica: odrasla osoba, odrasla osoba, dijete, dijete"
+        ]
+      },
+      "🧑‍🧒": {
+        "default": [
+          "dijete",
+          "porodica: odrasla osoba",
+          "porodica: odrasla osoba, dijete"
+        ],
+        "tts": [
+          "porodica: odrasla osoba, dijete"
+        ]
+      },
+      "🧑‍🧒‍🧒": {
+        "default": [
+          "dijete",
+          "porodica: odrasla osoba",
+          "porodica: odrasla osoba, dijete, dijete"
+        ],
+        "tts": [
+          "porodica: odrasla osoba, dijete, dijete"
+        ]
+      },
       "👣": {
         "default": [
           "dio tijela",
@@ -8537,6 +8614,22 @@
         ],
         "tts": [
           "otisci stopala"
+        ]
+      },
+      "🫆": {
+        "default": [
+          "detektiv",
+          "forenzika",
+          "identitet",
+          "misterija",
+          "otisak",
+          "otisak prsta",
+          "sigurnost",
+          "trag",
+          "zločin"
+        ],
+        "tts": [
+          "otisak prsta"
         ]
       },
       "🦰": {
@@ -9452,6 +9545,29 @@
           "guska"
         ]
       },
+      "🐦‍🔥": {
+        "default": [
+          "besmrtan",
+          "fantazija",
+          "feniks",
+          "obnova",
+          "oživio",
+          "oživljenje",
+          "pojaviti se",
+          "ponovno rođenje",
+          "ponovo stvaranje",
+          "reinkarnacija",
+          "slava",
+          "transformiraj",
+          "ustao",
+          "ustati",
+          "uzaći",
+          "vatrena ptica"
+        ],
+        "tts": [
+          "feniks"
+        ]
+      },
       "🐸": {
         "default": [
           "glava žabe",
@@ -9648,6 +9764,57 @@
         ],
         "tts": [
           "meduza"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "horoskopski znak",
+          "rak"
+        ],
+        "tts": [
+          "rak"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "jastog",
+          "klješta",
+          "morski plodovi"
+        ],
+        "tts": [
+          "jastog"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "hrana",
+          "račić",
+          "škamp",
+          "školjka"
+        ],
+        "tts": [
+          "škamp"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "hrana",
+          "lignja",
+          "mekušac"
+        ],
+        "tts": [
+          "lignja"
+        ]
+      },
+      "🦪": {
+        "default": [
+          "biser",
+          "kamenica",
+          "ronjenje",
+          "školjka"
+        ],
+        "tts": [
+          "kamenica"
         ]
       },
       "🐌": {
@@ -10109,6 +10276,22 @@
           "gljiva"
         ]
       },
+      "🪾": {
+        "default": [
+          "bez lišća",
+          "drvo",
+          "golo",
+          "grane",
+          "mrtvo",
+          "neplodno",
+          "stablo",
+          "suša",
+          "zima"
+        ],
+        "tts": [
+          "drvo bez lišća"
+        ]
+      },
       "🍇": {
         "default": [
           "biljka",
@@ -10160,6 +10343,17 @@
         ],
         "tts": [
           "limun"
+        ]
+      },
+      "🍋‍🟩": {
+        "default": [
+          "citrus",
+          "limeta",
+          "tropsko",
+          "voće"
+        ],
+        "tts": [
+          "limeta"
         ]
       },
       "🍌": {
@@ -10481,6 +10675,34 @@
         ],
         "tts": [
           "mahuna graška"
+        ]
+      },
+      "🍄‍🟫": {
+        "default": [
+          "gljive",
+          "hrana",
+          "povrće",
+          "priroda",
+          "smeđa gljiva"
+        ],
+        "tts": [
+          "smeđa gljiva"
+        ]
+      },
+      "🫜": {
+        "default": [
+          "cvekla",
+          "hrana",
+          "korjen",
+          "povrće",
+          "repa",
+          "rotkvica",
+          "sala",
+          "vegetarijanac",
+          "vrt"
+        ],
+        "tts": [
+          "korjenasto povrće"
         ]
       },
       "🍞": {
@@ -11004,57 +11226,6 @@
         ],
         "tts": [
           "kutija s hranom za ponijeti"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "horoskopski znak",
-          "rak"
-        ],
-        "tts": [
-          "rak"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "jastog",
-          "klješta",
-          "morski plodovi"
-        ],
-        "tts": [
-          "jastog"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "hrana",
-          "račić",
-          "škamp",
-          "školjka"
-        ],
-        "tts": [
-          "škamp"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "hrana",
-          "lignja",
-          "mekušac"
-        ],
-        "tts": [
-          "lignja"
-        ]
-      },
-      "🦪": {
-        "default": [
-          "biser",
-          "kamenica",
-          "ronjenje",
-          "školjka"
-        ],
-        "tts": [
-          "kamenica"
         ]
       },
       "🍦": {
@@ -15532,6 +15703,19 @@
           "flauta"
         ]
       },
+      "🪉": {
+        "default": [
+          "cupid",
+          "harfa",
+          "instrument",
+          "ljubav",
+          "muzika",
+          "orkestar"
+        ],
+        "tts": [
+          "harfa"
+        ]
+      },
       "📱": {
         "default": [
           "mobilni",
@@ -16884,6 +17068,19 @@
           "karika"
         ]
       },
+      "⛓‍💥": {
+        "default": [
+          "kidanje",
+          "lanac",
+          "lisice",
+          "pokidani lanac",
+          "pokidati",
+          "sloboda"
+        ],
+        "tts": [
+          "pokidani lanac"
+        ]
+      },
       "⛓": {
         "default": [
           "lanac",
@@ -16937,6 +17134,22 @@
         ],
         "tts": [
           "ljestve"
+        ]
+      },
+      "🪏": {
+        "default": [
+          "biljka",
+          "hašov",
+          "kopati",
+          "lopata",
+          "prikupljati",
+          "rupa",
+          "snijeg",
+          "vrt",
+          "zakopati"
+        ],
+        "tts": [
+          "lopata"
         ]
       },
       "⚗": {
@@ -18798,11 +19011,11 @@
       },
       "⭕": {
         "default": [
-          "crvena",
-          "krug",
+          "crveni",
           "o",
+          "podebljani crveni krug",
           "podebljani veliki crveni krug",
-          "podebljani veliki krug"
+          "veliki"
         ],
         "tts": [
           "podebljani veliki crveni krug"
@@ -18811,11 +19024,10 @@
       "✅": {
         "default": [
           "✓",
+          "dugme",
           "kvačica",
           "oznaka",
-          "podebljana bijela kvačica",
-          "podebljana kvačica",
-          "potvrđivanje"
+          "podebljana kvačica"
         ],
         "tts": [
           "podebljana kvačica"
@@ -18954,6 +19166,22 @@
         ],
         "tts": [
           "zaštitni znak"
+        ]
+      },
+      "🫟": {
+        "default": [
+          "boja",
+          "bućkanje",
+          "kapanje",
+          "mrlja",
+          "nered",
+          "praz",
+          "prosuto",
+          "tečnost",
+          "tinta"
+        ],
+        "tts": [
+          "brćkanje"
         ]
       },
       "🔠": {
@@ -19956,24 +20184,6 @@
           "bitcoin"
         ]
       },
-      "₨": {
-        "default": [
-          "rupi",
-          "valuta"
-        ],
-        "tts": [
-          "rupi"
-        ]
-      },
-      "﷼": {
-        "default": [
-          "rijal",
-          "valuta"
-        ],
-        "tts": [
-          "rijal"
-        ]
-      },
       "¹": {
         "default": [
           "eksponent",
@@ -20006,6 +20216,15 @@
           "tri eksponentno"
         ]
       },
+      "₨": {
+        "default": [
+          "rupi",
+          "valuta"
+        ],
+        "tts": [
+          "rupi"
+        ]
+      },
       "µ": {
         "default": [
           "mjera",
@@ -20013,6 +20232,15 @@
         ],
         "tts": [
           "znak za mikro"
+        ]
+      },
+      "﷼": {
+        "default": [
+          "rijal",
+          "valuta"
+        ],
+        "tts": [
+          "rijal"
         ]
       }
     }

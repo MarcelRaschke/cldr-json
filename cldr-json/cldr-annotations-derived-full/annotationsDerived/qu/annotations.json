@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "qu"
     },
     "annotations": {
@@ -4394,50 +4391,50 @@
         "default": [
           "chuya qara niraq",
           "puriq runa",
-          "tata"
+          "qari"
         ],
         "tts": [
-          "tata: chuya qara niraq"
+          "qari: chuya qara niraq"
         ]
       },
       "👨🏼": {
         "default": [
           "puriq runa",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq"
         ],
         "tts": [
-          "tata: tunpa chuya qara niraq"
+          "qari: tunpa chuya qara niraq"
         ]
       },
       "👨🏽": {
         "default": [
           "puriq runa",
-          "tata",
+          "qari",
           "tunpa qara niraq"
         ],
         "tts": [
-          "tata: tunpa qara niraq"
+          "qari: tunpa qara niraq"
         ]
       },
       "👨🏾": {
         "default": [
           "puriq runa",
-          "tata",
+          "qari",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "tata: tunpa yana qara niraq"
+          "qari: tunpa yana qara niraq"
         ]
       },
       "👨🏿": {
         "default": [
           "puriq runa",
-          "tata",
+          "qari",
           "yana qara niraq"
         ],
         "tts": [
-          "tata: yana qara niraq"
+          "qari: yana qara niraq"
         ]
       },
       "🧔🏻": {
@@ -4497,132 +4494,122 @@
       },
       "🧔🏻‍♂": {
         "default": [
+          "bigote",
           "chuya qara niraq",
           "kaki",
-          "runa",
-          "runa: kaki"
+          "qari"
         ],
         "tts": [
-          "runa: chuya qara niraq, kaki"
+          "qari: chuya qara niraq, kaki"
         ]
       },
       "🧔🏼‍♂": {
         "default": [
+          "bigote",
           "kaki",
-          "runa",
-          "runa: kaki",
+          "qari",
           "tunpa chuya qara niraq"
         ],
         "tts": [
-          "runa: tunpa chuya qara niraq, kaki"
+          "qari: tunpa chuya qara niraq, kaki"
         ]
       },
       "🧔🏽‍♂": {
         "default": [
+          "bigote",
           "kaki",
-          "runa",
-          "runa: kaki",
+          "qari",
           "tunpa qara niraq"
         ],
         "tts": [
-          "runa: tunpa qara niraq, kaki"
+          "qari: tunpa qara niraq, kaki"
         ]
       },
       "🧔🏾‍♂": {
         "default": [
+          "bigote",
           "kaki",
-          "runa",
-          "runa: kaki",
+          "qari",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "runa: tunpa yana qara niraq, kaki"
+          "qari: tunpa yana qara niraq, kaki"
         ]
       },
       "🧔🏿‍♂": {
         "default": [
+          "bigote",
           "kaki",
-          "runa",
-          "runa: kaki",
+          "qari",
           "yana qara niraq"
         ],
         "tts": [
-          "runa: yana qara niraq, kaki"
+          "qari: yana qara niraq, kaki"
         ]
       },
       "👱🏻‍♂": {
         "default": [
           "chukcha",
           "chuya qara niraq",
+          "qari: qillu chukcha",
           "qillu chukcha",
           "qʼillu",
-          "runa",
-          "runa: qillu chukcha",
-          "runa:qillu chukcha",
-          "tata: qillu chukcha"
+          "runa"
         ],
         "tts": [
-          "tata: chuya qara niraq, qillu chukcha"
+          "qari: chuya qara niraq, qillu chukcha"
         ]
       },
       "👱🏼‍♂": {
         "default": [
           "chukcha",
+          "qari: qillu chukcha",
           "qillu chukcha",
           "qʼillu",
           "runa",
-          "runa: qillu chukcha",
-          "runa:qillu chukcha",
-          "tata: qillu chukcha",
           "tunpa chuya qara niraq"
         ],
         "tts": [
-          "tata: tunpa chuya qara niraq, qillu chukcha"
+          "qari: tunpa chuya qara niraq, qillu chukcha"
         ]
       },
       "👱🏽‍♂": {
         "default": [
           "chukcha",
+          "qari: qillu chukcha",
           "qillu chukcha",
           "qʼillu",
           "runa",
-          "runa: qillu chukcha",
-          "runa:qillu chukcha",
-          "tata: qillu chukcha",
           "tunpa qara niraq"
         ],
         "tts": [
-          "tata: tunpa qara niraq, qillu chukcha"
+          "qari: tunpa qara niraq, qillu chukcha"
         ]
       },
       "👱🏾‍♂": {
         "default": [
           "chukcha",
+          "qari: qillu chukcha",
           "qillu chukcha",
           "qʼillu",
           "runa",
-          "runa: qillu chukcha",
-          "runa:qillu chukcha",
-          "tata: qillu chukcha",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "tata: tunpa yana qara niraq, qillu chukcha"
+          "qari: tunpa yana qara niraq, qillu chukcha"
         ]
       },
       "👱🏿‍♂": {
         "default": [
           "chukcha",
+          "qari: qillu chukcha",
           "qillu chukcha",
           "qʼillu",
           "runa",
-          "runa: qillu chukcha",
-          "runa:qillu chukcha",
-          "tata: qillu chukcha",
           "yana qara niraq"
         ],
         "tts": [
-          "tata: yana qara niraq, qillu chukcha"
+          "qari: yana qara niraq, qillu chukcha"
         ]
       },
       "👨🏻‍❤‍💋‍👨🏻": {
@@ -4630,10 +4617,10 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata"
+          "qari"
         ],
         "tts": [
-          "much’a: tata, tata, chuya qara niraq"
+          "much’a: qari, qari, chuya qara niraq"
         ]
       },
       "👨🏻‍❤‍💋‍👨🏼": {
@@ -4641,11 +4628,11 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, chuya qara niraq, tunpa chuya qara niraq"
+          "much’a: qari, qari, chuya qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👨🏻‍❤‍💋‍👨🏽": {
@@ -4653,11 +4640,11 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, chuya qara niraq, tunpa qara niraq"
+          "much’a: qari, qari, chuya qara niraq, tunpa qara niraq"
         ]
       },
       "👨🏻‍❤‍💋‍👨🏾": {
@@ -4665,11 +4652,11 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, chuya qara niraq, tunpa yana qara niraq"
+          "much’a: qari, qari, chuya qara niraq, tunpa yana qara niraq"
         ]
       },
       "👨🏻‍❤‍💋‍👨🏿": {
@@ -4677,11 +4664,11 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, chuya qara niraq, yana qara niraq"
+          "much’a: qari, qari, chuya qara niraq, yana qara niraq"
         ]
       },
       "👨🏼‍❤‍💋‍👨🏻": {
@@ -4689,58 +4676,58 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, tunpa chuya qara niraq, chuya qara niraq"
+          "much’a: qari, qari, tunpa chuya qara niraq, chuya qara niraq"
         ]
       },
       "👨🏼‍❤‍💋‍👨🏼": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, tunpa chuya qara niraq"
+          "much’a: qari, qari, tunpa chuya qara niraq"
         ]
       },
       "👨🏼‍❤‍💋‍👨🏽": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, tunpa chuya qara niraq, tunpa qara niraq"
+          "much’a: qari, qari, tunpa chuya qara niraq, tunpa qara niraq"
         ]
       },
       "👨🏼‍❤‍💋‍👨🏾": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, tunpa chuya qara niraq, tunpa yana qara niraq"
+          "much’a: qari, qari, tunpa chuya qara niraq, tunpa yana qara niraq"
         ]
       },
       "👨🏼‍❤‍💋‍👨🏿": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, tunpa chuya qara niraq, yana qara niraq"
+          "much’a: qari, qari, tunpa chuya qara niraq, yana qara niraq"
         ]
       },
       "👨🏽‍❤‍💋‍👨🏻": {
@@ -4748,58 +4735,58 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, tunpa qara niraq, chuya qara niraq"
+          "much’a: qari, qari, tunpa qara niraq, chuya qara niraq"
         ]
       },
       "👨🏽‍❤‍💋‍👨🏼": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, tunpa qara niraq, tunpa chuya qara niraq"
+          "much’a: qari, qari, tunpa qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👨🏽‍❤‍💋‍👨🏽": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, tunpa qara niraq"
+          "much’a: qari, qari, tunpa qara niraq"
         ]
       },
       "👨🏽‍❤‍💋‍👨🏾": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, tunpa qara niraq, tunpa yana qara niraq"
+          "much’a: qari, qari, tunpa qara niraq, tunpa yana qara niraq"
         ]
       },
       "👨🏽‍❤‍💋‍👨🏿": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, tunpa qara niraq, yana qara niraq"
+          "much’a: qari, qari, tunpa qara niraq, yana qara niraq"
         ]
       },
       "👨🏾‍❤‍💋‍👨🏻": {
@@ -4807,58 +4794,58 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, tunpa yana qara niraq, chuya qara niraq"
+          "much’a: qari, qari, tunpa yana qara niraq, chuya qara niraq"
         ]
       },
       "👨🏾‍❤‍💋‍👨🏼": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, tunpa yana qara niraq, tunpa chuya qara niraq"
+          "much’a: qari, qari, tunpa yana qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👨🏾‍❤‍💋‍👨🏽": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, tunpa yana qara niraq, tunpa qara niraq"
+          "much’a: qari, qari, tunpa yana qara niraq, tunpa qara niraq"
         ]
       },
       "👨🏾‍❤‍💋‍👨🏾": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, tunpa yana qara niraq"
+          "much’a: qari, qari, tunpa yana qara niraq"
         ]
       },
       "👨🏾‍❤‍💋‍👨🏿": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa yana qara niraq",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, tunpa yana qara niraq, yana qara niraq"
+          "much’a: qari, qari, tunpa yana qara niraq, yana qara niraq"
         ]
       },
       "👨🏿‍❤‍💋‍👨🏻": {
@@ -4866,58 +4853,58 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, yana qara niraq, chuya qara niraq"
+          "much’a: qari, qari, yana qara niraq, chuya qara niraq"
         ]
       },
       "👨🏿‍❤‍💋‍👨🏼": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, yana qara niraq, tunpa chuya qara niraq"
+          "much’a: qari, qari, yana qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👨🏿‍❤‍💋‍👨🏽": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, yana qara niraq, tunpa qara niraq"
+          "much’a: qari, qari, yana qara niraq, tunpa qara niraq"
         ]
       },
       "👨🏿‍❤‍💋‍👨🏾": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa yana qara niraq",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, yana qara niraq, tunpa yana qara niraq"
+          "much’a: qari, qari, yana qara niraq, tunpa yana qara niraq"
         ]
       },
       "👨🏿‍❤‍💋‍👨🏿": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: tata, tata, yana qara niraq"
+          "much’a: qari, qari, yana qara niraq"
         ]
       },
       "👨🏻‍❤‍👨🏻": {
@@ -4926,10 +4913,10 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata"
+          "qari"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, chuya qara niraq"
+          "pitu runakuna sunquwan: qari, qari, chuya qara niraq"
         ]
       },
       "👨🏻‍❤‍👨🏼": {
@@ -4938,11 +4925,11 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, chuya qara niraq, tunpa chuya qara niraq"
+          "pitu runakuna sunquwan: qari, qari, chuya qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👨🏻‍❤‍👨🏽": {
@@ -4951,11 +4938,11 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, chuya qara niraq, tunpa qara niraq"
+          "pitu runakuna sunquwan: qari, qari, chuya qara niraq, tunpa qara niraq"
         ]
       },
       "👨🏻‍❤‍👨🏾": {
@@ -4964,11 +4951,11 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, chuya qara niraq, tunpa yana qara niraq"
+          "pitu runakuna sunquwan: qari, qari, chuya qara niraq, tunpa yana qara niraq"
         ]
       },
       "👨🏻‍❤‍👨🏿": {
@@ -4977,11 +4964,11 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, chuya qara niraq, yana qara niraq"
+          "pitu runakuna sunquwan: qari, qari, chuya qara niraq, yana qara niraq"
         ]
       },
       "👨🏼‍❤‍👨🏻": {
@@ -4990,11 +4977,11 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, tunpa chuya qara niraq, chuya qara niraq"
+          "pitu runakuna sunquwan: qari, qari, tunpa chuya qara niraq, chuya qara niraq"
         ]
       },
       "👨🏼‍❤‍👨🏼": {
@@ -5002,11 +4989,11 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, tunpa chuya qara niraq"
+          "pitu runakuna sunquwan: qari, qari, tunpa chuya qara niraq"
         ]
       },
       "👨🏼‍❤‍👨🏽": {
@@ -5014,12 +5001,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, tunpa chuya qara niraq, tunpa qara niraq"
+          "pitu runakuna sunquwan: qari, qari, tunpa chuya qara niraq, tunpa qara niraq"
         ]
       },
       "👨🏼‍❤‍👨🏾": {
@@ -5027,12 +5014,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, tunpa chuya qara niraq, tunpa yana qara niraq"
+          "pitu runakuna sunquwan: qari, qari, tunpa chuya qara niraq, tunpa yana qara niraq"
         ]
       },
       "👨🏼‍❤‍👨🏿": {
@@ -5040,12 +5027,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, tunpa chuya qara niraq, yana qara niraq"
+          "pitu runakuna sunquwan: qari, qari, tunpa chuya qara niraq, yana qara niraq"
         ]
       },
       "👨🏽‍❤‍👨🏻": {
@@ -5054,11 +5041,11 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, tunpa qara niraq, chuya qara niraq"
+          "pitu runakuna sunquwan: qari, qari, tunpa qara niraq, chuya qara niraq"
         ]
       },
       "👨🏽‍❤‍👨🏼": {
@@ -5066,12 +5053,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, tunpa qara niraq, tunpa chuya qara niraq"
+          "pitu runakuna sunquwan: qari, qari, tunpa qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👨🏽‍❤‍👨🏽": {
@@ -5079,11 +5066,11 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, tunpa qara niraq"
+          "pitu runakuna sunquwan: qari, qari, tunpa qara niraq"
         ]
       },
       "👨🏽‍❤‍👨🏾": {
@@ -5091,12 +5078,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, tunpa qara niraq, tunpa yana qara niraq"
+          "pitu runakuna sunquwan: qari, qari, tunpa qara niraq, tunpa yana qara niraq"
         ]
       },
       "👨🏽‍❤‍👨🏿": {
@@ -5104,12 +5091,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, tunpa qara niraq, yana qara niraq"
+          "pitu runakuna sunquwan: qari, qari, tunpa qara niraq, yana qara niraq"
         ]
       },
       "👨🏾‍❤‍👨🏻": {
@@ -5118,11 +5105,11 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, tunpa yana qara niraq, chuya qara niraq"
+          "pitu runakuna sunquwan: qari, qari, tunpa yana qara niraq, chuya qara niraq"
         ]
       },
       "👨🏾‍❤‍👨🏼": {
@@ -5130,12 +5117,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, tunpa yana qara niraq, tunpa chuya qara niraq"
+          "pitu runakuna sunquwan: qari, qari, tunpa yana qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👨🏾‍❤‍👨🏽": {
@@ -5143,12 +5130,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, tunpa yana qara niraq, tunpa qara niraq"
+          "pitu runakuna sunquwan: qari, qari, tunpa yana qara niraq, tunpa qara niraq"
         ]
       },
       "👨🏾‍❤‍👨🏾": {
@@ -5156,11 +5143,11 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, tunpa yana qara niraq"
+          "pitu runakuna sunquwan: qari, qari, tunpa yana qara niraq"
         ]
       },
       "👨🏾‍❤‍👨🏿": {
@@ -5168,12 +5155,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa yana qara niraq",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, tunpa yana qara niraq, yana qara niraq"
+          "pitu runakuna sunquwan: qari, qari, tunpa yana qara niraq, yana qara niraq"
         ]
       },
       "👨🏿‍❤‍👨🏻": {
@@ -5182,11 +5169,11 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, yana qara niraq, chuya qara niraq"
+          "pitu runakuna sunquwan: qari, qari, yana qara niraq, chuya qara niraq"
         ]
       },
       "👨🏿‍❤‍👨🏼": {
@@ -5194,12 +5181,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, yana qara niraq, tunpa chuya qara niraq"
+          "pitu runakuna sunquwan: qari, qari, yana qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👨🏿‍❤‍👨🏽": {
@@ -5207,12 +5194,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, yana qara niraq, tunpa qara niraq"
+          "pitu runakuna sunquwan: qari, qari, yana qara niraq, tunpa qara niraq"
         ]
       },
       "👨🏿‍❤‍👨🏾": {
@@ -5220,12 +5207,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa yana qara niraq",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, yana qara niraq, tunpa yana qara niraq"
+          "pitu runakuna sunquwan: qari, qari, yana qara niraq, tunpa yana qara niraq"
         ]
       },
       "👨🏿‍❤‍👨🏿": {
@@ -5233,21 +5220,21 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata, yana qara niraq"
+          "pitu runakuna sunquwan: qari, qari, yana qara niraq"
         ]
       },
       "👨‍🦰": {
         "default": [
           "puka chukcha",
           "puriq runa",
-          "tata"
+          "qari"
         ],
         "tts": [
-          "tata: puka chukcha"
+          "qari: puka chukcha"
         ]
       },
       "👨🏻‍🦰": {
@@ -5255,194 +5242,194 @@
           "chuya qara niraq",
           "puka chukcha",
           "puriq runa",
-          "tata"
+          "qari"
         ],
         "tts": [
-          "tata: chuya qara niraq, puka chukcha"
+          "qari: chuya qara niraq, puka chukcha"
         ]
       },
       "👨🏼‍🦰": {
         "default": [
           "puka chukcha",
           "puriq runa",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq"
         ],
         "tts": [
-          "tata: tunpa chuya qara niraq, puka chukcha"
+          "qari: tunpa chuya qara niraq, puka chukcha"
         ]
       },
       "👨🏽‍🦰": {
         "default": [
           "puka chukcha",
           "puriq runa",
-          "tata",
+          "qari",
           "tunpa qara niraq"
         ],
         "tts": [
-          "tata: tunpa qara niraq, puka chukcha"
+          "qari: tunpa qara niraq, puka chukcha"
         ]
       },
       "👨🏾‍🦰": {
         "default": [
           "puka chukcha",
           "puriq runa",
-          "tata",
+          "qari",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "tata: tunpa yana qara niraq, puka chukcha"
+          "qari: tunpa yana qara niraq, puka chukcha"
         ]
       },
       "👨🏿‍🦰": {
         "default": [
           "puka chukcha",
           "puriq runa",
-          "tata",
+          "qari",
           "yana qara niraq"
         ],
         "tts": [
-          "tata: yana qara niraq, puka chukcha"
+          "qari: yana qara niraq, puka chukcha"
         ]
       },
       "👨‍🦱": {
         "default": [
           "puriq runa",
-          "qaspa chukcha",
-          "tata"
+          "qari",
+          "qaspa chukcha"
         ],
         "tts": [
-          "tata: qaspa chukcha"
+          "qari: qaspa chukcha"
         ]
       },
       "👨🏻‍🦱": {
         "default": [
           "chuya qara niraq",
           "puriq runa",
-          "qaspa chukcha",
-          "tata"
+          "qari",
+          "qaspa chukcha"
         ],
         "tts": [
-          "tata: chuya qara niraq, qaspa chukcha"
+          "qari: chuya qara niraq, qaspa chukcha"
         ]
       },
       "👨🏼‍🦱": {
         "default": [
           "puriq runa",
+          "qari",
           "qaspa chukcha",
-          "tata",
           "tunpa chuya qara niraq"
         ],
         "tts": [
-          "tata: tunpa chuya qara niraq, qaspa chukcha"
+          "qari: tunpa chuya qara niraq, qaspa chukcha"
         ]
       },
       "👨🏽‍🦱": {
         "default": [
           "puriq runa",
+          "qari",
           "qaspa chukcha",
-          "tata",
           "tunpa qara niraq"
         ],
         "tts": [
-          "tata: tunpa qara niraq, qaspa chukcha"
+          "qari: tunpa qara niraq, qaspa chukcha"
         ]
       },
       "👨🏾‍🦱": {
         "default": [
           "puriq runa",
+          "qari",
           "qaspa chukcha",
-          "tata",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "tata: tunpa yana qara niraq, qaspa chukcha"
+          "qari: tunpa yana qara niraq, qaspa chukcha"
         ]
       },
       "👨🏿‍🦱": {
         "default": [
           "puriq runa",
+          "qari",
           "qaspa chukcha",
-          "tata",
           "yana qara niraq"
         ],
         "tts": [
-          "tata: yana qara niraq, qaspa chukcha"
+          "qari: yana qara niraq, qaspa chukcha"
         ]
       },
       "👨‍🦳": {
         "default": [
           "puriq runa",
-          "tata",
+          "qari",
           "yuraq chukcha"
         ],
         "tts": [
-          "tata: yuraq chukcha"
+          "qari: yuraq chukcha"
         ]
       },
       "👨🏻‍🦳": {
         "default": [
           "chuya qara niraq",
           "puriq runa",
-          "tata",
+          "qari",
           "yuraq chukcha"
         ],
         "tts": [
-          "tata: chuya qara niraq, yuraq chukcha"
+          "qari: chuya qara niraq, yuraq chukcha"
         ]
       },
       "👨🏼‍🦳": {
         "default": [
           "puriq runa",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "yuraq chukcha"
         ],
         "tts": [
-          "tata: tunpa chuya qara niraq, yuraq chukcha"
+          "qari: tunpa chuya qara niraq, yuraq chukcha"
         ]
       },
       "👨🏽‍🦳": {
         "default": [
           "puriq runa",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "yuraq chukcha"
         ],
         "tts": [
-          "tata: tunpa qara niraq, yuraq chukcha"
+          "qari: tunpa qara niraq, yuraq chukcha"
         ]
       },
       "👨🏾‍🦳": {
         "default": [
           "puriq runa",
-          "tata",
+          "qari",
           "tunpa yana qara niraq",
           "yuraq chukcha"
         ],
         "tts": [
-          "tata: tunpa yana qara niraq, yuraq chukcha"
+          "qari: tunpa yana qara niraq, yuraq chukcha"
         ]
       },
       "👨🏿‍🦳": {
         "default": [
           "puriq runa",
-          "tata",
+          "qari",
           "yana qara niraq",
           "yuraq chukcha"
         ],
         "tts": [
-          "tata: yana qara niraq, yuraq chukcha"
+          "qari: yana qara niraq, yuraq chukcha"
         ]
       },
       "👨‍🦲": {
         "default": [
           "paqla",
           "puriq runa",
-          "tata"
+          "qari"
         ],
         "tts": [
-          "tata: paqla"
+          "qari: paqla"
         ]
       },
       "👨🏻‍🦲": {
@@ -5450,54 +5437,54 @@
           "chuya qara niraq",
           "paqla",
           "puriq runa",
-          "tata"
+          "qari"
         ],
         "tts": [
-          "tata: chuya qara niraq, paqla"
+          "qari: chuya qara niraq, paqla"
         ]
       },
       "👨🏼‍🦲": {
         "default": [
           "paqla",
           "puriq runa",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq"
         ],
         "tts": [
-          "tata: tunpa chuya qara niraq, paqla"
+          "qari: tunpa chuya qara niraq, paqla"
         ]
       },
       "👨🏽‍🦲": {
         "default": [
           "paqla",
           "puriq runa",
-          "tata",
+          "qari",
           "tunpa qara niraq"
         ],
         "tts": [
-          "tata: tunpa qara niraq, paqla"
+          "qari: tunpa qara niraq, paqla"
         ]
       },
       "👨🏾‍🦲": {
         "default": [
           "paqla",
           "puriq runa",
-          "tata",
+          "qari",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "tata: tunpa yana qara niraq, paqla"
+          "qari: tunpa yana qara niraq, paqla"
         ]
       },
       "👨🏿‍🦲": {
         "default": [
           "paqla",
           "puriq runa",
-          "tata",
+          "qari",
           "yana qara niraq"
         ],
         "tts": [
-          "tata: yana qara niraq, paqla"
+          "qari: yana qara niraq, paqla"
         ]
       },
       "👩🏻": {
@@ -5675,11 +5662,11 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, chuya qara niraq"
+          "much’a: warmi, qari, chuya qara niraq"
         ]
       },
       "👩🏻‍❤‍💋‍👨🏼": {
@@ -5687,12 +5674,12 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, chuya qara niraq, tunpa chuya qara niraq"
+          "much’a: warmi, qari, chuya qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👩🏻‍❤‍💋‍👨🏽": {
@@ -5700,12 +5687,12 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, chuya qara niraq, tunpa qara niraq"
+          "much’a: warmi, qari, chuya qara niraq, tunpa qara niraq"
         ]
       },
       "👩🏻‍❤‍💋‍👨🏾": {
@@ -5713,12 +5700,12 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa yana qara niraq",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, chuya qara niraq, tunpa yana qara niraq"
+          "much’a: warmi, qari, chuya qara niraq, tunpa yana qara niraq"
         ]
       },
       "👩🏻‍❤‍💋‍👨🏿": {
@@ -5726,12 +5713,12 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: warmi, tata, chuya qara niraq, yana qara niraq"
+          "much’a: warmi, qari, chuya qara niraq, yana qara niraq"
         ]
       },
       "👩🏼‍❤‍💋‍👨🏻": {
@@ -5739,63 +5726,63 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, tunpa chuya qara niraq, chuya qara niraq"
+          "much’a: warmi, qari, tunpa chuya qara niraq, chuya qara niraq"
         ]
       },
       "👩🏼‍❤‍💋‍👨🏼": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, tunpa chuya qara niraq"
+          "much’a: warmi, qari, tunpa chuya qara niraq"
         ]
       },
       "👩🏼‍❤‍💋‍👨🏽": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa qara niraq",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, tunpa chuya qara niraq, tunpa qara niraq"
+          "much’a: warmi, qari, tunpa chuya qara niraq, tunpa qara niraq"
         ]
       },
       "👩🏼‍❤‍💋‍👨🏾": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa yana qara niraq",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, tunpa chuya qara niraq, tunpa yana qara niraq"
+          "much’a: warmi, qari, tunpa chuya qara niraq, tunpa yana qara niraq"
         ]
       },
       "👩🏼‍❤‍💋‍👨🏿": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: warmi, tata, tunpa chuya qara niraq, yana qara niraq"
+          "much’a: warmi, qari, tunpa chuya qara niraq, yana qara niraq"
         ]
       },
       "👩🏽‍❤‍💋‍👨🏻": {
@@ -5803,63 +5790,63 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, tunpa qara niraq, chuya qara niraq"
+          "much’a: warmi, qari, tunpa qara niraq, chuya qara niraq"
         ]
       },
       "👩🏽‍❤‍💋‍👨🏼": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa qara niraq",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, tunpa qara niraq, tunpa chuya qara niraq"
+          "much’a: warmi, qari, tunpa qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👩🏽‍❤‍💋‍👨🏽": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, tunpa qara niraq"
+          "much’a: warmi, qari, tunpa qara niraq"
         ]
       },
       "👩🏽‍❤‍💋‍👨🏾": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "tunpa yana qara niraq",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, tunpa qara niraq, tunpa yana qara niraq"
+          "much’a: warmi, qari, tunpa qara niraq, tunpa yana qara niraq"
         ]
       },
       "👩🏽‍❤‍💋‍👨🏿": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: warmi, tata, tunpa qara niraq, yana qara niraq"
+          "much’a: warmi, qari, tunpa qara niraq, yana qara niraq"
         ]
       },
       "👩🏾‍❤‍💋‍👨🏻": {
@@ -5867,63 +5854,63 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa yana qara niraq",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, tunpa yana qara niraq, chuya qara niraq"
+          "much’a: warmi, qari, tunpa yana qara niraq, chuya qara niraq"
         ]
       },
       "👩🏾‍❤‍💋‍👨🏼": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa yana qara niraq",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, tunpa yana qara niraq, tunpa chuya qara niraq"
+          "much’a: warmi, qari, tunpa yana qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👩🏾‍❤‍💋‍👨🏽": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "tunpa yana qara niraq",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, tunpa yana qara niraq, tunpa qara niraq"
+          "much’a: warmi, qari, tunpa yana qara niraq, tunpa qara niraq"
         ]
       },
       "👩🏾‍❤‍💋‍👨🏾": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa yana qara niraq",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata, tunpa yana qara niraq"
+          "much’a: warmi, qari, tunpa yana qara niraq"
         ]
       },
       "👩🏾‍❤‍💋‍👨🏿": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa yana qara niraq",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: warmi, tata, tunpa yana qara niraq, yana qara niraq"
+          "much’a: warmi, qari, tunpa yana qara niraq, yana qara niraq"
         ]
       },
       "👩🏿‍❤‍💋‍👨🏻": {
@@ -5931,63 +5918,63 @@
           "chuya qara niraq",
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: warmi, tata, yana qara niraq, chuya qara niraq"
+          "much’a: warmi, qari, yana qara niraq, chuya qara niraq"
         ]
       },
       "👩🏿‍❤‍💋‍👨🏼": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: warmi, tata, yana qara niraq, tunpa chuya qara niraq"
+          "much’a: warmi, qari, yana qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👩🏿‍❤‍💋‍👨🏽": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: warmi, tata, yana qara niraq, tunpa qara niraq"
+          "much’a: warmi, qari, yana qara niraq, tunpa qara niraq"
         ]
       },
       "👩🏿‍❤‍💋‍👨🏾": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "tunpa yana qara niraq",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: warmi, tata, yana qara niraq, tunpa yana qara niraq"
+          "much’a: warmi, qari, yana qara niraq, tunpa yana qara niraq"
         ]
       },
       "👩🏿‍❤‍💋‍👨🏿": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "much’a: warmi, tata, yana qara niraq"
+          "much’a: warmi, qari, yana qara niraq"
         ]
       },
       "👩🏻‍❤‍💋‍👩🏻": {
@@ -6291,11 +6278,11 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, chuya qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, chuya qara niraq"
         ]
       },
       "👩🏻‍❤‍👨🏼": {
@@ -6304,12 +6291,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, chuya qara niraq, tunpa chuya qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, chuya qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👩🏻‍❤‍👨🏽": {
@@ -6318,12 +6305,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, chuya qara niraq, tunpa qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, chuya qara niraq, tunpa qara niraq"
         ]
       },
       "👩🏻‍❤‍👨🏾": {
@@ -6332,12 +6319,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa yana qara niraq",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, chuya qara niraq, tunpa yana qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, chuya qara niraq, tunpa yana qara niraq"
         ]
       },
       "👩🏻‍❤‍👨🏿": {
@@ -6346,12 +6333,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, chuya qara niraq, yana qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, chuya qara niraq, yana qara niraq"
         ]
       },
       "👩🏼‍❤‍👨🏻": {
@@ -6360,12 +6347,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, tunpa chuya qara niraq, chuya qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, tunpa chuya qara niraq, chuya qara niraq"
         ]
       },
       "👩🏼‍❤‍👨🏼": {
@@ -6373,12 +6360,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, tunpa chuya qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, tunpa chuya qara niraq"
         ]
       },
       "👩🏼‍❤‍👨🏽": {
@@ -6386,13 +6373,13 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa qara niraq",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, tunpa chuya qara niraq, tunpa qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, tunpa chuya qara niraq, tunpa qara niraq"
         ]
       },
       "👩🏼‍❤‍👨🏾": {
@@ -6400,13 +6387,13 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa yana qara niraq",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, tunpa chuya qara niraq, tunpa yana qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, tunpa chuya qara niraq, tunpa yana qara niraq"
         ]
       },
       "👩🏼‍❤‍👨🏿": {
@@ -6414,13 +6401,13 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, tunpa chuya qara niraq, yana qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, tunpa chuya qara niraq, yana qara niraq"
         ]
       },
       "👩🏽‍❤‍👨🏻": {
@@ -6429,12 +6416,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, tunpa qara niraq, chuya qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, tunpa qara niraq, chuya qara niraq"
         ]
       },
       "👩🏽‍❤‍👨🏼": {
@@ -6442,13 +6429,13 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa qara niraq",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, tunpa qara niraq, tunpa chuya qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, tunpa qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👩🏽‍❤‍👨🏽": {
@@ -6456,12 +6443,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, tunpa qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, tunpa qara niraq"
         ]
       },
       "👩🏽‍❤‍👨🏾": {
@@ -6469,13 +6456,13 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "tunpa yana qara niraq",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, tunpa qara niraq, tunpa yana qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, tunpa qara niraq, tunpa yana qara niraq"
         ]
       },
       "👩🏽‍❤‍👨🏿": {
@@ -6483,13 +6470,13 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, tunpa qara niraq, yana qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, tunpa qara niraq, yana qara niraq"
         ]
       },
       "👩🏾‍❤‍👨🏻": {
@@ -6498,12 +6485,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa yana qara niraq",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, tunpa yana qara niraq, chuya qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, tunpa yana qara niraq, chuya qara niraq"
         ]
       },
       "👩🏾‍❤‍👨🏼": {
@@ -6511,13 +6498,13 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "tunpa yana qara niraq",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, tunpa yana qara niraq, tunpa chuya qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, tunpa yana qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👩🏾‍❤‍👨🏽": {
@@ -6525,13 +6512,13 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "tunpa yana qara niraq",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, tunpa yana qara niraq, tunpa qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, tunpa yana qara niraq, tunpa qara niraq"
         ]
       },
       "👩🏾‍❤‍👨🏾": {
@@ -6539,12 +6526,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa yana qara niraq",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, tunpa yana qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, tunpa yana qara niraq"
         ]
       },
       "👩🏾‍❤‍👨🏿": {
@@ -6552,13 +6539,13 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa yana qara niraq",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, tunpa yana qara niraq, yana qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, tunpa yana qara niraq, yana qara niraq"
         ]
       },
       "👩🏿‍❤‍👨🏻": {
@@ -6567,12 +6554,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, yana qara niraq, chuya qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, yana qara niraq, chuya qara niraq"
         ]
       },
       "👩🏿‍❤‍👨🏼": {
@@ -6580,13 +6567,13 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa chuya qara niraq",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, yana qara niraq, tunpa chuya qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, yana qara niraq, tunpa chuya qara niraq"
         ]
       },
       "👩🏿‍❤‍👨🏽": {
@@ -6594,13 +6581,13 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa qara niraq",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, yana qara niraq, tunpa qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, yana qara niraq, tunpa qara niraq"
         ]
       },
       "👩🏿‍❤‍👨🏾": {
@@ -6608,13 +6595,13 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "tunpa yana qara niraq",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, yana qara niraq, tunpa yana qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, yana qara niraq, tunpa yana qara niraq"
         ]
       },
       "👩🏿‍❤‍👨🏿": {
@@ -6622,12 +6609,12 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "warmi",
           "yana qara niraq"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata, yana qara niraq"
+          "pitu runakuna sunquwan: warmi, qari, yana qara niraq"
         ]
       },
       "👩🏻‍❤‍👩🏻": {
@@ -7286,7 +7273,7 @@
           "hatun",
           "hatun tata",
           "puriq runa",
-          "runa"
+          "qari"
         ],
         "tts": [
           "hatun tata: chuya qara niraq"
@@ -7297,7 +7284,7 @@
           "hatun",
           "hatun tata",
           "puriq runa",
-          "runa",
+          "qari",
           "tunpa chuya qara niraq"
         ],
         "tts": [
@@ -7309,7 +7296,7 @@
           "hatun",
           "hatun tata",
           "puriq runa",
-          "runa",
+          "qari",
           "tunpa qara niraq"
         ],
         "tts": [
@@ -7321,7 +7308,7 @@
           "hatun",
           "hatun tata",
           "puriq runa",
-          "runa",
+          "qari",
           "tunpa yana qara niraq"
         ],
         "tts": [
@@ -7333,7 +7320,7 @@
           "hatun",
           "hatun tata",
           "puriq runa",
-          "runa",
+          "qari",
           "yana qara niraq"
         ],
         "tts": [
@@ -7812,10 +7799,12 @@
           "chuya qara niraq",
           "gesto",
           "maki",
-          "tat MANA gestowan"
+          "mana",
+          "MANA",
+          "runa"
         ],
         "tts": [
-          "tat MANA gestowan: chuya qara niraq"
+          "tata MANA gestowan: chuya qara niraq"
         ]
       },
       "🙅🏼‍♂": {
@@ -7824,11 +7813,13 @@
           "amatasqa",
           "gesto",
           "maki",
-          "tat MANA gestowan",
+          "mana",
+          "MANA",
+          "runa",
           "tunpa chuya qara niraq"
         ],
         "tts": [
-          "tat MANA gestowan: tunpa chuya qara niraq"
+          "tata MANA gestowan: tunpa chuya qara niraq"
         ]
       },
       "🙅🏽‍♂": {
@@ -7837,11 +7828,13 @@
           "amatasqa",
           "gesto",
           "maki",
-          "tat MANA gestowan",
+          "mana",
+          "MANA",
+          "runa",
           "tunpa qara niraq"
         ],
         "tts": [
-          "tat MANA gestowan: tunpa qara niraq"
+          "tata MANA gestowan: tunpa qara niraq"
         ]
       },
       "🙅🏾‍♂": {
@@ -7850,11 +7843,13 @@
           "amatasqa",
           "gesto",
           "maki",
-          "tat MANA gestowan",
+          "mana",
+          "MANA",
+          "runa",
           "tunpa yana qara niraq"
         ],
         "tts": [
-          "tat MANA gestowan: tunpa yana qara niraq"
+          "tata MANA gestowan: tunpa yana qara niraq"
         ]
       },
       "🙅🏿‍♂": {
@@ -7863,11 +7858,13 @@
           "amatasqa",
           "gesto",
           "maki",
-          "tat MANA gestowan",
+          "mana",
+          "MANA",
+          "runa",
           "yana qara niraq"
         ],
         "tts": [
-          "tat MANA gestowan: yana qara niraq"
+          "tata MANA gestowan: yana qara niraq"
         ]
       },
       "🙅🏻‍♀": {
@@ -12732,11 +12729,15 @@
       },
       "👷🏻": {
         "default": [
+          "allichanapaq",
+          "allichay",
           "chuku",
           "chuya qara niraq",
           "llamkaq",
+          "llamkay",
           "pirqaq",
-          "Pirqaq"
+          "pirqay",
+          "runa"
         ],
         "tts": [
           "Pirqaq: chuya qara niraq"
@@ -12744,10 +12745,14 @@
       },
       "👷🏼": {
         "default": [
+          "allichanapaq",
+          "allichay",
           "chuku",
           "llamkaq",
+          "llamkay",
           "pirqaq",
-          "Pirqaq",
+          "pirqay",
+          "runa",
           "tunpa chuya qara niraq"
         ],
         "tts": [
@@ -12756,10 +12761,14 @@
       },
       "👷🏽": {
         "default": [
+          "allichanapaq",
+          "allichay",
           "chuku",
           "llamkaq",
+          "llamkay",
           "pirqaq",
-          "Pirqaq",
+          "pirqay",
+          "runa",
           "tunpa qara niraq"
         ],
         "tts": [
@@ -12768,10 +12777,14 @@
       },
       "👷🏾": {
         "default": [
+          "allichanapaq",
+          "allichay",
           "chuku",
           "llamkaq",
+          "llamkay",
           "pirqaq",
-          "Pirqaq",
+          "pirqay",
+          "runa",
           "tunpa yana qara niraq"
         ],
         "tts": [
@@ -12780,10 +12793,14 @@
       },
       "👷🏿": {
         "default": [
+          "allichanapaq",
+          "allichay",
           "chuku",
           "llamkaq",
+          "llamkay",
           "pirqaq",
-          "Pirqaq",
+          "pirqay",
+          "runa",
           "yana qara niraq"
         ],
         "tts": [
@@ -14211,7 +14228,6 @@
           "Navidad",
           "noel",
           "papa",
-          "Papa Noel",
           "raymi",
           "tata"
         ],
@@ -14224,7 +14240,6 @@
           "Navidad",
           "noel",
           "papa",
-          "Papa Noel",
           "raymi",
           "tata",
           "tunpa chuya qara niraq"
@@ -14238,7 +14253,6 @@
           "Navidad",
           "noel",
           "papa",
-          "Papa Noel",
           "raymi",
           "tata",
           "tunpa qara niraq"
@@ -14252,7 +14266,6 @@
           "Navidad",
           "noel",
           "papa",
-          "Papa Noel",
           "raymi",
           "tata",
           "tunpa yana qara niraq"
@@ -14266,7 +14279,6 @@
           "Navidad",
           "noel",
           "papa",
-          "Papa Noel",
           "raymi",
           "tata",
           "yana qara niraq"
@@ -14279,7 +14291,6 @@
         "default": [
           "chuya qara niraq",
           "mama",
-          "Mama Noel",
           "Navidad",
           "noel",
           "raymi"
@@ -14291,7 +14302,6 @@
       "🤶🏼": {
         "default": [
           "mama",
-          "Mama Noel",
           "Navidad",
           "noel",
           "raymi",
@@ -14304,7 +14314,6 @@
       "🤶🏽": {
         "default": [
           "mama",
-          "Mama Noel",
           "Navidad",
           "noel",
           "raymi",
@@ -14317,7 +14326,6 @@
       "🤶🏾": {
         "default": [
           "mama",
-          "Mama Noel",
           "Navidad",
           "noel",
           "raymi",
@@ -14330,7 +14338,6 @@
       "🤶🏿": {
         "default": [
           "mama",
-          "Mama Noel",
           "Navidad",
           "noel",
           "raymi",
@@ -14343,8 +14350,15 @@
       "🧑🏻‍🎄": {
         "default": [
           "chuya qara niraq",
-          "Claus, navidad",
-          "mx claus"
+          "claus",
+          "fantasia",
+          "kusi",
+          "kusisqa",
+          "Mx",
+          "Navidad",
+          "raymi",
+          "santa",
+          "willay"
         ],
         "tts": [
           "mx claus: chuya qara niraq"
@@ -14352,9 +14366,16 @@
       },
       "🧑🏼‍🎄": {
         "default": [
-          "Claus, navidad",
-          "mx claus",
-          "tunpa chuya qara niraq"
+          "claus",
+          "fantasia",
+          "kusi",
+          "kusisqa",
+          "Mx",
+          "Navidad",
+          "raymi",
+          "santa",
+          "tunpa chuya qara niraq",
+          "willay"
         ],
         "tts": [
           "mx claus: tunpa chuya qara niraq"
@@ -14362,9 +14383,16 @@
       },
       "🧑🏽‍🎄": {
         "default": [
-          "Claus, navidad",
-          "mx claus",
-          "tunpa qara niraq"
+          "claus",
+          "fantasia",
+          "kusi",
+          "kusisqa",
+          "Mx",
+          "Navidad",
+          "raymi",
+          "santa",
+          "tunpa qara niraq",
+          "willay"
         ],
         "tts": [
           "mx claus: tunpa qara niraq"
@@ -14372,9 +14400,16 @@
       },
       "🧑🏾‍🎄": {
         "default": [
-          "Claus, navidad",
-          "mx claus",
-          "tunpa yana qara niraq"
+          "claus",
+          "fantasia",
+          "kusi",
+          "kusisqa",
+          "Mx",
+          "Navidad",
+          "raymi",
+          "santa",
+          "tunpa yana qara niraq",
+          "willay"
         ],
         "tts": [
           "mx claus: tunpa yana qara niraq"
@@ -14382,8 +14417,15 @@
       },
       "🧑🏿‍🎄": {
         "default": [
-          "Claus, navidad",
-          "mx claus",
+          "claus",
+          "fantasia",
+          "kusi",
+          "kusisqa",
+          "Mx",
+          "Navidad",
+          "raymi",
+          "santa",
+          "willay",
           "yana qara niraq"
         ],
         "tts": [
@@ -21644,21 +21686,21 @@
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata",
+          "qari",
           "warmi"
         ],
         "tts": [
-          "much’a: warmi, tata"
+          "much’a: warmi, qari"
         ]
       },
       "👨‍❤‍💋‍👨": {
         "default": [
           "much’a",
           "pitu runakuna",
-          "tata"
+          "qari"
         ],
         "tts": [
-          "much’a: tata, tata"
+          "much’a: qari, qari"
         ]
       },
       "👩‍❤‍💋‍👩": {
@@ -21731,11 +21773,11 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata",
+          "qari",
           "warmi"
         ],
         "tts": [
-          "pitu runakuna sunquwan: warmi, tata"
+          "pitu runakuna sunquwan: warmi, qari"
         ]
       },
       "👨‍❤‍👨": {
@@ -21743,10 +21785,10 @@
           "munay",
           "pitu runakuna",
           "pitu runakuna sunquwan",
-          "tata"
+          "qari"
         ],
         "tts": [
-          "pitu runakuna sunquwan: tata, tata"
+          "pitu runakuna sunquwan: qari, qari"
         ]
       },
       "👩‍❤‍👩": {
@@ -21763,108 +21805,108 @@
       "👨‍👩‍👦": {
         "default": [
           "kuraq ayllu",
-          "tata",
+          "qari",
           "warmi",
           "yuqalla"
         ],
         "tts": [
-          "kuraq ayllu: tata, warmi, yuqalla"
+          "kuraq ayllu: qari, warmi, yuqalla"
         ]
       },
       "👨‍👩‍👧": {
         "default": [
           "kuraq ayllu",
-          "tata",
+          "qari",
           "warmi",
           "warmi warma"
         ],
         "tts": [
-          "kuraq ayllu: tata, warmi, warmi warma"
+          "kuraq ayllu: qari, warmi, warmi warma"
         ]
       },
       "👨‍👩‍👧‍👦": {
         "default": [
           "kuraq ayllu",
-          "tata",
+          "qari",
           "warmi",
           "warmi warma",
           "yuqalla"
         ],
         "tts": [
-          "kuraq ayllu: tata, warmi, warmi warma, yuqalla"
+          "kuraq ayllu: qari, warmi, warmi warma, yuqalla"
         ]
       },
       "👨‍👩‍👦‍👦": {
         "default": [
           "kuraq ayllu",
-          "tata",
+          "qari",
           "warmi",
           "yuqalla"
         ],
         "tts": [
-          "kuraq ayllu: tata, warmi, yuqalla, yuqalla"
+          "kuraq ayllu: qari, warmi, yuqalla, yuqalla"
         ]
       },
       "👨‍👩‍👧‍👧": {
         "default": [
           "kuraq ayllu",
-          "tata",
+          "qari",
           "warmi",
           "warmi warma"
         ],
         "tts": [
-          "kuraq ayllu: tata, warmi, warmi warma, warmi warma"
+          "kuraq ayllu: qari, warmi, warmi warma, warmi warma"
         ]
       },
       "👨‍👨‍👦": {
         "default": [
           "kuraq ayllu",
-          "tata",
+          "qari",
           "yuqalla"
         ],
         "tts": [
-          "kuraq ayllu: tata, tata, yuqalla"
+          "kuraq ayllu: qari, qari, yuqalla"
         ]
       },
       "👨‍👨‍👧": {
         "default": [
           "kuraq ayllu",
-          "tata",
+          "qari",
           "warmi warma"
         ],
         "tts": [
-          "kuraq ayllu: tata, tata, warmi warma"
+          "kuraq ayllu: qari, qari, warmi warma"
         ]
       },
       "👨‍👨‍👧‍👦": {
         "default": [
           "kuraq ayllu",
-          "tata",
+          "qari",
           "warmi warma",
           "yuqalla"
         ],
         "tts": [
-          "kuraq ayllu: tata, tata, warmi warma, yuqalla"
+          "kuraq ayllu: qari, qari, warmi warma, yuqalla"
         ]
       },
       "👨‍👨‍👦‍👦": {
         "default": [
           "kuraq ayllu",
-          "tata",
+          "qari",
           "yuqalla"
         ],
         "tts": [
-          "kuraq ayllu: tata, tata, yuqalla, yuqalla"
+          "kuraq ayllu: qari, qari, yuqalla, yuqalla"
         ]
       },
       "👨‍👨‍👧‍👧": {
         "default": [
           "kuraq ayllu",
-          "tata",
+          "qari",
           "warmi warma"
         ],
         "tts": [
-          "kuraq ayllu: tata, tata, warmi warma, warmi warma"
+          "kuraq ayllu: qari, qari, warmi warma, warmi warma"
         ]
       },
       "👩‍👩‍👦": {
@@ -21921,52 +21963,52 @@
       "👨‍👦": {
         "default": [
           "kuraq ayllu",
-          "tata",
+          "qari",
           "yuqalla"
         ],
         "tts": [
-          "kuraq ayllu: tata, yuqalla"
+          "kuraq ayllu: qari, yuqalla"
         ]
       },
       "👨‍👦‍👦": {
         "default": [
           "kuraq ayllu",
-          "tata",
+          "qari",
           "yuqalla"
         ],
         "tts": [
-          "kuraq ayllu: tata, yuqalla, yuqalla"
+          "kuraq ayllu: qari, yuqalla, yuqalla"
         ]
       },
       "👨‍👧": {
         "default": [
           "kuraq ayllu",
-          "tata",
+          "qari",
           "warmi warma"
         ],
         "tts": [
-          "kuraq ayllu: tata, warmi warma"
+          "kuraq ayllu: qari, warmi warma"
         ]
       },
       "👨‍👧‍👦": {
         "default": [
           "kuraq ayllu",
-          "tata",
+          "qari",
           "warmi warma",
           "yuqalla"
         ],
         "tts": [
-          "kuraq ayllu: tata, warmi warma, yuqalla"
+          "kuraq ayllu: qari, warmi warma, yuqalla"
         ]
       },
       "👨‍👧‍👧": {
         "default": [
           "kuraq ayllu",
-          "tata",
+          "qari",
           "warmi warma"
         ],
         "tts": [
-          "kuraq ayllu: tata, warmi warma, warmi warma"
+          "kuraq ayllu: qari, warmi warma, warmi warma"
         ]
       },
       "👩‍👦": {

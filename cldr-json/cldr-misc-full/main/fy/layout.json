@@ -2,9 +2,6 @@
   "main": {
     "fy": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "fy"
       },
       "layout": {

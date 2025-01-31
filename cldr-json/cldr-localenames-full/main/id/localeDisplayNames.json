@@ -2,9 +2,6 @@
   "main": {
     "id": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "id"
       },
       "localeDisplayNames": {
@@ -13,17 +10,22 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "Inggris",
+          "gbsct": "Skotlandia",
+          "gbwls": "Wales"
+        },
         "keys": {
           "calendar": "Kalender",
           "cf": "Format Mata Uang",
-          "colAlternate": "Penyortiran Abaikan Simbol",
-          "colBackwards": "Penyortiran Aksen Terbalik",
+          "colAlternate": "Pengurutan Abaikan Simbol",
+          "colBackwards": "Pengurutan Aksen Terbalik",
           "colCaseFirst": "Pengurutan Huruf Besar/Huruf Kecil",
-          "colCaseLevel": "Penyortiran Peka Huruf Besar",
+          "colCaseLevel": "Pengurutan Peka Huruf Besar",
           "collation": "Aturan Pengurutan",
-          "colNormalization": "Penyortiran Dinormalisasi",
-          "colNumeric": "Penyortiran Numerik",
-          "colStrength": "Kekuatan Penyortiran",
+          "colNormalization": "Pengurutan Dinormalisasi",
+          "colNumeric": "Pengurutan Numerik",
+          "colStrength": "Kekuatan Pengurutan",
           "currency": "Mata Uang",
           "hc": "Siklus Jam (12 vs 24)",
           "lb": "Gaya Pemisah Baris",
@@ -76,23 +78,22 @@
             "yes": "Sortir Peka Huruf Besar"
           },
           "collation": {
-            "big5han": "Urutan Sortir Tionghoa Tradisional - Big5",
+            "big5han": "Aturan Pengurutan Tionghoa Tradisional - Big5",
             "compat": "Aturan Pengurutan Sebelumnya, untuk kompatibilitas",
-            "dictionary": "Urutan Sortir Kamus",
+            "dictionary": "Aturan Pengurutan Kamus",
             "ducet": "Aturan Pengurutan Unicode Default",
             "emoji": "Urutan Sortir Emoji",
             "eor": "Aturan Pengurutan Eropa",
-            "gb2312han": "Urutan Sortir Tionghoa (Sederhana) - GB2312",
-            "phonebook": "Urutan Sortir Buku Telepon",
-            "phonetic": "Urutan Sortir Fonetik",
-            "pinyin": "Urutan Sortir Pinyin",
-            "reformed": "Urutan Sortir yang Diubah Bentuknya",
+            "gb2312han": "Aturan Pengurutan Tionghoa (Sederhana) - GB2312",
+            "phonebook": "Aturan Pengurutan Buku Telepon",
+            "phonetic": "Aturan Pengurutan Fonetik",
+            "pinyin": "Aturan Pengurutan Pinyin",
             "search": "Pencarian Tujuan Umum",
             "searchjl": "Pencarian Menurut Konsonan Awal Hangul",
             "standard": "Aturan Pengurutan Standar",
-            "stroke": "Urutan Sortir Guratan",
-            "traditional": "Urutan Sortir Tradisional",
-            "unihan": "Urutan Sortir Guratan Radikal",
+            "stroke": "Aturan Pengurutan Guratan",
+            "traditional": "Aturan Pengurutan Tradisional",
+            "unihan": "Aturan Pengurutan Guratan Radikal",
             "zhuyin": "Aturan Pengurutan Zhuyin"
           },
           "colNormalization": {
@@ -171,7 +172,6 @@
             "jpan": "Angka Jepang",
             "jpanfin": "Angka Keuangan Jepang",
             "kali": "Angka Kayah Li",
-            "kawi": "kawi",
             "khmr": "Angka Khmer",
             "knda": "Angka Kannada",
             "lana": "Angka Tai Tham Hora",
@@ -193,7 +193,6 @@
             "mymr": "Angka Myanmar",
             "mymrshan": "Angka Myanmar Shan",
             "mymrtlng": "Angka Myanmar Tai Laing",
-            "nagm": "nagm",
             "native": "Angka Asli",
             "nkoo": "Angka N’Ko",
             "olck": "Angka Ol Chiki",
@@ -216,7 +215,6 @@
             "thai": "Angka Thai",
             "tibt": "Angka Tibet",
             "tirh": "Angka Tirhuta",
-            "tnsa": "tnsa",
             "traditional": "Angka Tradisional",
             "vaii": "Angka Vai",
             "wara": "Angka Warang Citi",

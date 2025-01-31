@@ -2,9 +2,6 @@
   "main": {
     "ce": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ce"
       },
       "units": {
@@ -39,6 +36,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -68,6 +71,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -278,7 +287,6 @@
           },
           "duration-century": {
             "displayName": "c",
-            "unitPattern-count-one": "{0} c",
             "unitPattern-count-other": "{0} c"
           },
           "duration-decade": {
@@ -702,6 +710,10 @@
             "displayName": "kn",
             "unitPattern-count-other": "{0} kn"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "{0}°"
@@ -867,6 +879,19 @@
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0} qt Imp."
           },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "night",
+            "unitPattern-count-other": "{0} night",
+            "perUnitPattern": "{0}/night"
+          },
           "coordinateUnit": {
             "displayName": "direction",
             "east": "{0}E",
@@ -906,6 +931,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -935,6 +966,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -1145,7 +1182,6 @@
           },
           "duration-century": {
             "displayName": "c",
-            "unitPattern-count-one": "{0} c",
             "unitPattern-count-other": "{0} c"
           },
           "duration-decade": {
@@ -1569,6 +1605,10 @@
             "displayName": "kn",
             "unitPattern-count-other": "{0} kn"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "{0}°"
@@ -1734,6 +1774,19 @@
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0} qt Imp."
           },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "night",
+            "unitPattern-count-other": "{0} night",
+            "perUnitPattern": "{0}/night"
+          },
           "coordinateUnit": {
             "displayName": "direction",
             "east": "{0}E",
@@ -1773,6 +1826,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -1802,6 +1861,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -2012,7 +2077,6 @@
           },
           "duration-century": {
             "displayName": "c",
-            "unitPattern-count-one": "{0} c",
             "unitPattern-count-other": "{0} c"
           },
           "duration-decade": {
@@ -2436,6 +2500,10 @@
             "displayName": "kn",
             "unitPattern-count-other": "{0} kn"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "{0}°"
@@ -2600,6 +2668,19 @@
           "volume-quart-imperial": {
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0} qt Imp."
+          },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "night",
+            "unitPattern-count-other": "{0} night",
+            "perUnitPattern": "{0}/night"
           },
           "coordinateUnit": {
             "displayName": "direction",

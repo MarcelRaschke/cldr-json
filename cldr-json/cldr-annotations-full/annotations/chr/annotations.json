@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "chr"
     },
     "annotations": {
@@ -68,6 +65,16 @@
         ],
         "tts": [
           "ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ"
+        ]
+      },
+      "‾": {
+        "default": [
+          "overline",
+          "overstrike",
+          "vinculum"
+        ],
+        "tts": [
+          "overline"
         ]
       },
       "_": {
@@ -250,6 +257,15 @@
         ],
         "tts": [
           "ᎡᎳᏈ ᎠᏛᏛᎲᏍᎩ ᎪᏪᎸ"
+        ]
+      },
+      "‽": {
+        "default": [
+          "interabang",
+          "interrobang"
+        ],
+        "tts": [
+          "interrobang"
         ]
       },
       ".": {
@@ -788,6 +804,14 @@
           "triple prime"
         ]
       },
+      "‸": {
+        "default": [
+          "caret"
+        ],
+        "tts": [
+          "caret"
+        ]
+      },
       "※": {
         "default": [
           "ᏩᏎᎸᎯ ᎪᏪLC",
@@ -795,6 +819,16 @@
         ],
         "tts": [
           "ᏩᏎᎸᎯ ᎪᏪLC"
+        ]
+      },
+      "⁂": {
+        "default": [
+          "asterism",
+          "dinkus",
+          "stars"
+        ],
+        "tts": [
+          "asterism"
         ]
       },
       "`": {
@@ -875,6 +909,14 @@
           "ᎠᎦᏍᎦᏂ-ᎦᏝᏗ"
         ]
       },
+      "↚": {
+        "default": [
+          "leftwards arrow stroke"
+        ],
+        "tts": [
+          "leftwards arrow stroke"
+        ]
+      },
       "→": {
         "default": [
           "ᎠᎦᏘᏏ",
@@ -883,6 +925,14 @@
         ],
         "tts": [
           "ᎠᎦᏘᏏ-ᎦᏝᏗ"
+        ]
+      },
+      "↛": {
+        "default": [
+          "rightwards arrow stroke"
+        ],
+        "tts": [
+          "rightwards arrow stroke"
         ]
       },
       "↑": {
@@ -905,6 +955,322 @@
           "ᎡᎳᏗ-ᎦᏝᏗ"
         ]
       },
+      "↜": {
+        "default": [
+          "leftwards wave arrow"
+        ],
+        "tts": [
+          "leftwards wave arrow"
+        ]
+      },
+      "↝": {
+        "default": [
+          "rightwards wave arrow"
+        ],
+        "tts": [
+          "rightwards wave arrow"
+        ]
+      },
+      "↞": {
+        "default": [
+          "leftwards two headed arrow"
+        ],
+        "tts": [
+          "leftwards two headed arrow"
+        ]
+      },
+      "↟": {
+        "default": [
+          "upwards two headed arrow"
+        ],
+        "tts": [
+          "upwards two headed arrow"
+        ]
+      },
+      "↠": {
+        "default": [
+          "rightwards two headed arrow"
+        ],
+        "tts": [
+          "rightwards two headed arrow"
+        ]
+      },
+      "↡": {
+        "default": [
+          "downwards two headed arrow"
+        ],
+        "tts": [
+          "downwards two headed arrow"
+        ]
+      },
+      "↢": {
+        "default": [
+          "leftwards arrow tail"
+        ],
+        "tts": [
+          "leftwards arrow tail"
+        ]
+      },
+      "↣": {
+        "default": [
+          "rightwards arrow tail"
+        ],
+        "tts": [
+          "rightwards arrow tail"
+        ]
+      },
+      "↤": {
+        "default": [
+          "leftwards arrow from bar"
+        ],
+        "tts": [
+          "leftwards arrow from bar"
+        ]
+      },
+      "↥": {
+        "default": [
+          "upwards arrow from bar"
+        ],
+        "tts": [
+          "upwards arrow from bar"
+        ]
+      },
+      "↦": {
+        "default": [
+          "rightwards arrow from bar"
+        ],
+        "tts": [
+          "rightwards arrow from bar"
+        ]
+      },
+      "↧": {
+        "default": [
+          "downwards arrow from bar"
+        ],
+        "tts": [
+          "downwards arrow from bar"
+        ]
+      },
+      "↨": {
+        "default": [
+          "up down arrow with base"
+        ],
+        "tts": [
+          "up down arrow with base"
+        ]
+      },
+      "↫": {
+        "default": [
+          "leftwards arrow loop"
+        ],
+        "tts": [
+          "leftwards arrow loop"
+        ]
+      },
+      "↬": {
+        "default": [
+          "rightwards arrow loop"
+        ],
+        "tts": [
+          "rightwards arrow loop"
+        ]
+      },
+      "↭": {
+        "default": [
+          "left right wave arrow"
+        ],
+        "tts": [
+          "left right wave arrow"
+        ]
+      },
+      "↯": {
+        "default": [
+          "downwards zigzag arrow",
+          "zigzag"
+        ],
+        "tts": [
+          "downwards zigzag arrow"
+        ]
+      },
+      "↰": {
+        "default": [
+          "upwards arrow tip leftwards"
+        ],
+        "tts": [
+          "upwards arrow tip leftwards"
+        ]
+      },
+      "↱": {
+        "default": [
+          "upwards arrow tip rightwards"
+        ],
+        "tts": [
+          "upwards arrow tip rightwards"
+        ]
+      },
+      "↲": {
+        "default": [
+          "downwards arrow tip leftwards"
+        ],
+        "tts": [
+          "downwards arrow tip leftwards"
+        ]
+      },
+      "↳": {
+        "default": [
+          "downwards arrow tip rightwards"
+        ],
+        "tts": [
+          "downwards arrow tip rightwards"
+        ]
+      },
+      "↴": {
+        "default": [
+          "rightwards arrow corner downwards"
+        ],
+        "tts": [
+          "rightwards arrow corner downwards"
+        ]
+      },
+      "↵": {
+        "default": [
+          "downwards arrow corner leftwards"
+        ],
+        "tts": [
+          "downwards arrow corner leftwards"
+        ]
+      },
+      "↶": {
+        "default": [
+          "anticlockwise top semicircle arrow"
+        ],
+        "tts": [
+          "anticlockwise top semicircle arrow"
+        ]
+      },
+      "↷": {
+        "default": [
+          "clockwise top semicircle arrow"
+        ],
+        "tts": [
+          "clockwise top semicircle arrow"
+        ]
+      },
+      "↸": {
+        "default": [
+          "north west arrow long bar"
+        ],
+        "tts": [
+          "north west arrow long bar"
+        ]
+      },
+      "↹": {
+        "default": [
+          "arrow",
+          "bar",
+          "leftwards",
+          "leftwards over rightwards arrow bars",
+          "rightwards"
+        ],
+        "tts": [
+          "leftwards over rightwards arrow bars"
+        ]
+      },
+      "↺": {
+        "default": [
+          "anticlockwise open circle arrow"
+        ],
+        "tts": [
+          "anticlockwise open circle arrow"
+        ]
+      },
+      "↻": {
+        "default": [
+          "clockwise open circle arrow"
+        ],
+        "tts": [
+          "clockwise open circle arrow"
+        ]
+      },
+      "↼": {
+        "default": [
+          "barb",
+          "leftwards harpoon barb upwards"
+        ],
+        "tts": [
+          "leftwards harpoon barb upwards"
+        ]
+      },
+      "↽": {
+        "default": [
+          "leftwards harpoon barb downwards"
+        ],
+        "tts": [
+          "leftwards harpoon barb downwards"
+        ]
+      },
+      "↾": {
+        "default": [
+          "barb",
+          "upwards harpoon barb rightwards"
+        ],
+        "tts": [
+          "upwards harpoon barb rightwards"
+        ]
+      },
+      "↿": {
+        "default": [
+          "barb",
+          "upwards harpoon barb leftwards"
+        ],
+        "tts": [
+          "upwards harpoon barb leftwards"
+        ]
+      },
+      "⇀": {
+        "default": [
+          "barb",
+          "rightwards harpoon barb upwards"
+        ],
+        "tts": [
+          "rightwards harpoon barb upwards"
+        ]
+      },
+      "⇁": {
+        "default": [
+          "barb",
+          "rightwards harpoon barb downwards"
+        ],
+        "tts": [
+          "rightwards harpoon barb downwards"
+        ]
+      },
+      "⇂": {
+        "default": [
+          "barb",
+          "downwards harpoon barb rightwards"
+        ],
+        "tts": [
+          "downwards harpoon barb rightwards"
+        ]
+      },
+      "⇃": {
+        "default": [
+          "barb",
+          "downwards harpoon barb leftwards"
+        ],
+        "tts": [
+          "downwards harpoon barb leftwards"
+        ]
+      },
+      "⇄": {
+        "default": [
+          "rightwards arrow over leftwards arrow"
+        ],
+        "tts": [
+          "rightwards arrow over leftwards arrow"
+        ]
+      },
       "⇅": {
         "default": [
           "ᎡᎳᏗ",
@@ -925,6 +1291,333 @@
         ],
         "tts": [
           "ᎠᎦᏍᎦᏂ-ᎦᏝᏗ ᎦᎸᎳᏗ ᎠᎦᏘᏏ-ᎦᏝᏗ"
+        ]
+      },
+      "⇇": {
+        "default": [
+          "leftwards paired arrows"
+        ],
+        "tts": [
+          "leftwards paired arrows"
+        ]
+      },
+      "⇈": {
+        "default": [
+          "upwards paired arrows"
+        ],
+        "tts": [
+          "upwards paired arrows"
+        ]
+      },
+      "⇉": {
+        "default": [
+          "rightwards paired arrows"
+        ],
+        "tts": [
+          "rightwards paired arrows"
+        ]
+      },
+      "⇊": {
+        "default": [
+          "downwards paired arrows"
+        ],
+        "tts": [
+          "downwards paired arrows"
+        ]
+      },
+      "⇋": {
+        "default": [
+          "leftwards harpoon over rightwards harpoon"
+        ],
+        "tts": [
+          "leftwards harpoon over rightwards harpoon"
+        ]
+      },
+      "⇌": {
+        "default": [
+          "rightwards harpoon over leftwards harpoon"
+        ],
+        "tts": [
+          "rightwards harpoon over leftwards harpoon"
+        ]
+      },
+      "⇐": {
+        "default": [
+          "leftwards double arrow"
+        ],
+        "tts": [
+          "leftwards double arrow"
+        ]
+      },
+      "⇍": {
+        "default": [
+          "leftwards double arrow stroke"
+        ],
+        "tts": [
+          "leftwards double arrow stroke"
+        ]
+      },
+      "⇑": {
+        "default": [
+          "upwards double arrow"
+        ],
+        "tts": [
+          "upwards double arrow"
+        ]
+      },
+      "⇒": {
+        "default": [
+          "rightwards double arrow"
+        ],
+        "tts": [
+          "rightwards double arrow"
+        ]
+      },
+      "⇏": {
+        "default": [
+          "rightwards double arrow stroke"
+        ],
+        "tts": [
+          "rightwards double arrow stroke"
+        ]
+      },
+      "⇓": {
+        "default": [
+          "downwards double arrow"
+        ],
+        "tts": [
+          "downwards double arrow"
+        ]
+      },
+      "⇔": {
+        "default": [
+          "left right double arrow"
+        ],
+        "tts": [
+          "left right double arrow"
+        ]
+      },
+      "⇎": {
+        "default": [
+          "left right double arrow stroke"
+        ],
+        "tts": [
+          "left right double arrow stroke"
+        ]
+      },
+      "⇖": {
+        "default": [
+          "north west double arrow"
+        ],
+        "tts": [
+          "north west double arrow"
+        ]
+      },
+      "⇗": {
+        "default": [
+          "north east double arrow"
+        ],
+        "tts": [
+          "north east double arrow"
+        ]
+      },
+      "⇘": {
+        "default": [
+          "south east double arrow"
+        ],
+        "tts": [
+          "south east double arrow"
+        ]
+      },
+      "⇙": {
+        "default": [
+          "south west double arrow"
+        ],
+        "tts": [
+          "south west double arrow"
+        ]
+      },
+      "⇚": {
+        "default": [
+          "leftwards triple arrow"
+        ],
+        "tts": [
+          "leftwards triple arrow"
+        ]
+      },
+      "⇛": {
+        "default": [
+          "rightwards triple arrow"
+        ],
+        "tts": [
+          "rightwards triple arrow"
+        ]
+      },
+      "⇜": {
+        "default": [
+          "leftwards squiggle arrow"
+        ],
+        "tts": [
+          "leftwards squiggle arrow"
+        ]
+      },
+      "⇝": {
+        "default": [
+          "rightwards squiggle arrow"
+        ],
+        "tts": [
+          "rightwards squiggle arrow"
+        ]
+      },
+      "⇞": {
+        "default": [
+          "upwards arrow double stroke"
+        ],
+        "tts": [
+          "upwards arrow double stroke"
+        ]
+      },
+      "⇟": {
+        "default": [
+          "downwards arrow double stroke"
+        ],
+        "tts": [
+          "downwards arrow double stroke"
+        ]
+      },
+      "⇠": {
+        "default": [
+          "leftwards dashed arrow"
+        ],
+        "tts": [
+          "leftwards dashed arrow"
+        ]
+      },
+      "⇡": {
+        "default": [
+          "upwards dashed arrow"
+        ],
+        "tts": [
+          "upwards dashed arrow"
+        ]
+      },
+      "⇢": {
+        "default": [
+          "rightwards dashed arrow"
+        ],
+        "tts": [
+          "rightwards dashed arrow"
+        ]
+      },
+      "⇣": {
+        "default": [
+          "downwards dashed arrow"
+        ],
+        "tts": [
+          "downwards dashed arrow"
+        ]
+      },
+      "⇤": {
+        "default": [
+          "leftwards arrow bar"
+        ],
+        "tts": [
+          "leftwards arrow bar"
+        ]
+      },
+      "⇥": {
+        "default": [
+          "rightwards arrow bar"
+        ],
+        "tts": [
+          "rightwards arrow bar"
+        ]
+      },
+      "⇦": {
+        "default": [
+          "leftwards hollow arrow"
+        ],
+        "tts": [
+          "leftwards hollow arrow"
+        ]
+      },
+      "⇧": {
+        "default": [
+          "upwards hollow arrow"
+        ],
+        "tts": [
+          "upwards hollow arrow"
+        ]
+      },
+      "⇨": {
+        "default": [
+          "rightwards hollow arrow"
+        ],
+        "tts": [
+          "rightwards hollow arrow"
+        ]
+      },
+      "⇩": {
+        "default": [
+          "downwards hollow arrow"
+        ],
+        "tts": [
+          "downwards hollow arrow"
+        ]
+      },
+      "⇪": {
+        "default": [
+          "upwards hollow arrow from bar"
+        ],
+        "tts": [
+          "upwards hollow arrow from bar"
+        ]
+      },
+      "⇵": {
+        "default": [
+          "downwards arrow leftwards upwards arrow"
+        ],
+        "tts": [
+          "downwards arrow leftwards upwards arrow"
+        ]
+      },
+      "∀": {
+        "default": [
+          "all",
+          "any",
+          "for all",
+          "given",
+          "universal"
+        ],
+        "tts": [
+          "for all"
+        ]
+      },
+      "∂": {
+        "default": [
+          "differential",
+          "partial differential"
+        ],
+        "tts": [
+          "partial differential"
+        ]
+      },
+      "∃": {
+        "default": [
+          "there exists"
+        ],
+        "tts": [
+          "there exists"
+        ]
+      },
+      "∅": {
+        "default": [
+          "empty set",
+          "mathematics",
+          "set operator"
+        ],
+        "tts": [
+          "empty set"
         ]
       },
       "∆": {
@@ -955,6 +1648,56 @@
         ],
         "tts": [
           "ᎤᏙᏣᎵ ᎾᎿ"
+        ]
+      },
+      "∉": {
+        "default": [
+          "element",
+          "not an element"
+        ],
+        "tts": [
+          "not an element"
+        ]
+      },
+      "∋": {
+        "default": [
+          "contains as member",
+          "element"
+        ],
+        "tts": [
+          "contains as member"
+        ]
+      },
+      "∎": {
+        "default": [
+          "end proof",
+          "halmos",
+          "q.e.d.",
+          "qed",
+          "tombstone"
+        ],
+        "tts": [
+          "end proof"
+        ]
+      },
+      "∏": {
+        "default": [
+          "logic",
+          "n-ary product",
+          "product"
+        ],
+        "tts": [
+          "n-ary product"
+        ]
+      },
+      "∑": {
+        "default": [
+          "mathematics",
+          "n-ary summation",
+          "summation"
+        ],
+        "tts": [
+          "n-ary summation"
         ]
       },
       "+": {
@@ -1008,6 +1751,16 @@
           "ᏩᎦᏲᏢ"
         ]
       },
+      "≮": {
+        "default": [
+          "inequality",
+          "mathematics",
+          "not less-than"
+        ],
+        "tts": [
+          "not less-than"
+        ]
+      },
       "=": {
         "default": [
           "ᎢᏗᎦᎢ",
@@ -1035,6 +1788,16 @@
         ],
         "tts": [
           "ᏭᏔᏅ"
+        ]
+      },
+      "≯": {
+        "default": [
+          "inequality",
+          "mathematics",
+          "not greater-than"
+        ],
+        "tts": [
+          "not greater-than"
         ]
       },
       "¬": {
@@ -1085,6 +1848,64 @@
           "ᎤᏍᏗ ᎦᎸᎳᏗ ᎠᎩᏲᎳᏗᏍᏗ"
         ]
       },
+      "∓": {
+        "default": [
+          "minus-or-plus",
+          "plus-minus"
+        ],
+        "tts": [
+          "minus-or-plus"
+        ]
+      },
+      "∕": {
+        "default": [
+          "division slash",
+          "slash",
+          "stroke",
+          "virgule"
+        ],
+        "tts": [
+          "division slash"
+        ]
+      },
+      "⁄": {
+        "default": [
+          "fraction slash",
+          "stroke",
+          "virgule"
+        ],
+        "tts": [
+          "fraction slash"
+        ]
+      },
+      "∗": {
+        "default": [
+          "asterisk operator",
+          "star"
+        ],
+        "tts": [
+          "asterisk operator"
+        ]
+      },
+      "∘": {
+        "default": [
+          "composition",
+          "operator",
+          "ring operator"
+        ],
+        "tts": [
+          "ring operator"
+        ]
+      },
+      "∙": {
+        "default": [
+          "bullet operator",
+          "operator"
+        ],
+        "tts": [
+          "bullet operator"
+        ]
+      },
       "√": {
         "default": [
           "ᎤᎾᏍᏕᎵ",
@@ -1098,6 +1919,15 @@
           "ᏅᎩ ᏧᏅᏏᏯ ᎤᎾᏍᏕᎵ"
         ]
       },
+      "∝": {
+        "default": [
+          "proportional",
+          "proportionality"
+        ],
+        "tts": [
+          "proportional"
+        ]
+      },
       "∞": {
         "default": [
           "ᎢᎪᎯᏓ ᎨᏒ",
@@ -1105,6 +1935,52 @@
         ],
         "tts": [
           "ᎢᎪᎯᏓ ᎨᏒ ᎪᏪᎶᏗ"
+        ]
+      },
+      "∟": {
+        "default": [
+          "mathematics",
+          "right angle"
+        ],
+        "tts": [
+          "right angle"
+        ]
+      },
+      "∠": {
+        "default": [
+          "acute",
+          "angle"
+        ],
+        "tts": [
+          "angle"
+        ]
+      },
+      "∣": {
+        "default": [
+          "divides",
+          "divisor"
+        ],
+        "tts": [
+          "divides"
+        ]
+      },
+      "∥": {
+        "default": [
+          "parallel"
+        ],
+        "tts": [
+          "parallel"
+        ]
+      },
+      "∧": {
+        "default": [
+          "ac",
+          "atque",
+          "logical and",
+          "wedge"
+        ],
+        "tts": [
+          "logical and"
         ]
       },
       "∩": {
@@ -1126,6 +2002,115 @@
           "ᏌᏊ ᎤᎾᎵᎪᎯ"
         ]
       },
+      "∫": {
+        "default": [
+          "calculus",
+          "integral"
+        ],
+        "tts": [
+          "integral"
+        ]
+      },
+      "∬": {
+        "default": [
+          "calculus",
+          "double integral"
+        ],
+        "tts": [
+          "double integral"
+        ]
+      },
+      "∮": {
+        "default": [
+          "contour integral"
+        ],
+        "tts": [
+          "contour integral"
+        ]
+      },
+      "∴": {
+        "default": [
+          "logic",
+          "therefore"
+        ],
+        "tts": [
+          "therefore"
+        ]
+      },
+      "∵": {
+        "default": [
+          "because",
+          "logic"
+        ],
+        "tts": [
+          "because"
+        ]
+      },
+      "∶": {
+        "default": [
+          "ratio"
+        ],
+        "tts": [
+          "ratio"
+        ]
+      },
+      "∷": {
+        "default": [
+          "proportion",
+          "proportionality"
+        ],
+        "tts": [
+          "proportion"
+        ]
+      },
+      "∼": {
+        "default": [
+          "operator",
+          "tilde operator"
+        ],
+        "tts": [
+          "tilde operator"
+        ]
+      },
+      "∽": {
+        "default": [
+          "reversed tilde",
+          "tilde"
+        ],
+        "tts": [
+          "reversed tilde"
+        ]
+      },
+      "∾": {
+        "default": [
+          "inverted lazy s"
+        ],
+        "tts": [
+          "inverted lazy s"
+        ]
+      },
+      "≃": {
+        "default": [
+          "asymptote",
+          "asymptotically equal",
+          "mathematics"
+        ],
+        "tts": [
+          "asymptotically equal"
+        ]
+      },
+      "≅": {
+        "default": [
+          "approximately equal",
+          "congruence",
+          "equality",
+          "isomorphism",
+          "mathematics"
+        ],
+        "tts": [
+          "approximately equal"
+        ]
+      },
       "≈": {
         "default": [
           "ᎢᏧᎳᏢ",
@@ -1134,6 +2119,34 @@
         ],
         "tts": [
           "ᎢᏧᎳᏢ"
+        ]
+      },
+      "≌": {
+        "default": [
+          "all equal",
+          "equality",
+          "mathematics"
+        ],
+        "tts": [
+          "all equal"
+        ]
+      },
+      "≒": {
+        "default": [
+          "approximately equal the image"
+        ],
+        "tts": [
+          "approximately equal the image"
+        ]
+      },
+      "≖": {
+        "default": [
+          "equality",
+          "mathematics",
+          "ring in equal"
+        ],
+        "tts": [
+          "ring in equal"
         ]
       },
       "≡": {
@@ -1145,6 +2158,16 @@
         ],
         "tts": [
           "ᏧᏠᏱ ᎾᎿ"
+        ]
+      },
+      "≣": {
+        "default": [
+          "equality",
+          "mathematics",
+          "strictly equivalent"
+        ],
+        "tts": [
+          "strictly equivalent"
         ]
       },
       "≤": {
@@ -1172,6 +2195,94 @@
           "ᏭᏔᏅ ᎠᎴᏱᎩ ᎢᏧᎳᎭ"
         ]
       },
+      "≦": {
+        "default": [
+          "inequality",
+          "less-than over equal",
+          "mathematics"
+        ],
+        "tts": [
+          "less-than over equal"
+        ]
+      },
+      "≧": {
+        "default": [
+          "greater-than over equal",
+          "inequality",
+          "mathematics"
+        ],
+        "tts": [
+          "greater-than over equal"
+        ]
+      },
+      "≪": {
+        "default": [
+          "inequality",
+          "mathematics",
+          "much less-than"
+        ],
+        "tts": [
+          "much less-than"
+        ]
+      },
+      "≫": {
+        "default": [
+          "inequality",
+          "mathematics",
+          "much greater-than"
+        ],
+        "tts": [
+          "much greater-than"
+        ]
+      },
+      "≬": {
+        "default": [
+          "ᎭᏫᏂ"
+        ],
+        "tts": [
+          "ᎭᏫᏂ"
+        ]
+      },
+      "≳": {
+        "default": [
+          "greater-than equivalent",
+          "inequality",
+          "mathematics"
+        ],
+        "tts": [
+          "greater-than equivalent"
+        ]
+      },
+      "≺": {
+        "default": [
+          "mathematics",
+          "precedes",
+          "set operator"
+        ],
+        "tts": [
+          "precedes"
+        ]
+      },
+      "≻": {
+        "default": [
+          "mathematics",
+          "set operator",
+          "succeeds"
+        ],
+        "tts": [
+          "succeeds"
+        ]
+      },
+      "⊁": {
+        "default": [
+          "does not succeed",
+          "mathematics",
+          "set operator"
+        ],
+        "tts": [
+          "does not succeed"
+        ]
+      },
       "⊂": {
         "default": [
           "ᎢᎦᏓᏊ",
@@ -1180,6 +2291,441 @@
         ],
         "tts": [
           "ᎢᎦᏓᏊ ᎾᎿ"
+        ]
+      },
+      "⊃": {
+        "default": [
+          "mathematics",
+          "set operator",
+          "superset"
+        ],
+        "tts": [
+          "superset"
+        ]
+      },
+      "⊆": {
+        "default": [
+          "subset equal"
+        ],
+        "tts": [
+          "subset equal"
+        ]
+      },
+      "⊇": {
+        "default": [
+          "equality",
+          "mathematics",
+          "superset equal"
+        ],
+        "tts": [
+          "superset equal"
+        ]
+      },
+      "⊕": {
+        "default": [
+          "circled plus",
+          "plus"
+        ],
+        "tts": [
+          "circled plus"
+        ]
+      },
+      "⊖": {
+        "default": [
+          "circled minus",
+          "erosion",
+          "symmetric difference"
+        ],
+        "tts": [
+          "circled minus"
+        ]
+      },
+      "⊗": {
+        "default": [
+          "circled times",
+          "product",
+          "tensor"
+        ],
+        "tts": [
+          "circled times"
+        ]
+      },
+      "⊘": {
+        "default": [
+          "circled division slash",
+          "division-like",
+          "mathematics"
+        ],
+        "tts": [
+          "circled division slash"
+        ]
+      },
+      "⊙": {
+        "default": [
+          "circled dot operator",
+          "operator",
+          "XNOR"
+        ],
+        "tts": [
+          "circled dot operator"
+        ]
+      },
+      "⊚": {
+        "default": [
+          "circled ring operator"
+        ],
+        "tts": [
+          "circled ring operator"
+        ]
+      },
+      "⊛": {
+        "default": [
+          "asterisk",
+          "circled asterisk operator",
+          "operator"
+        ],
+        "tts": [
+          "circled asterisk operator"
+        ]
+      },
+      "⊞": {
+        "default": [
+          "addition-like",
+          "mathematics",
+          "squared plus"
+        ],
+        "tts": [
+          "squared plus"
+        ]
+      },
+      "⊟": {
+        "default": [
+          "mathematics",
+          "squared minus",
+          "subtraction-like"
+        ],
+        "tts": [
+          "squared minus"
+        ]
+      },
+      "⊥": {
+        "default": [
+          "eet",
+          "falsum",
+          "tack",
+          "up tack"
+        ],
+        "tts": [
+          "up tack"
+        ]
+      },
+      "⊮": {
+        "default": [
+          "does not force"
+        ],
+        "tts": [
+          "does not force"
+        ]
+      },
+      "⊰": {
+        "default": [
+          "mathematics",
+          "precedes under relation",
+          "set operator"
+        ],
+        "tts": [
+          "precedes under relation"
+        ]
+      },
+      "⊱": {
+        "default": [
+          "mathematics",
+          "set operator",
+          "succeeds under relation"
+        ],
+        "tts": [
+          "succeeds under relation"
+        ]
+      },
+      "⋭": {
+        "default": [
+          "does not contain as normal subgroup equal",
+          "group theory",
+          "mathematics"
+        ],
+        "tts": [
+          "does not contain as normal subgroup equal"
+        ]
+      },
+      "⊶": {
+        "default": [
+          "original"
+        ],
+        "tts": [
+          "original"
+        ]
+      },
+      "⊹": {
+        "default": [
+          "hermitian conjugate matrix",
+          "mathematics",
+          "self-adjoint matrix",
+          "square matrix"
+        ],
+        "tts": [
+          "hermitian conjugate matrix"
+        ]
+      },
+      "⊿": {
+        "default": [
+          "mathematics",
+          "right triangle",
+          "right-angled triangle"
+        ],
+        "tts": [
+          "right triangle"
+        ]
+      },
+      "⋁": {
+        "default": [
+          "disjunction",
+          "logic",
+          "n-ary logical or"
+        ],
+        "tts": [
+          "n-ary logical or"
+        ]
+      },
+      "⋂": {
+        "default": [
+          "intersection",
+          "mathematics",
+          "n-ary intersection",
+          "set operator"
+        ],
+        "tts": [
+          "n-ary intersection"
+        ]
+      },
+      "⋃": {
+        "default": [
+          "mathematics",
+          "n-ary union",
+          "set operator",
+          "union"
+        ],
+        "tts": [
+          "n-ary union"
+        ]
+      },
+      "⋅": {
+        "default": [
+          "dot operator",
+          "operator"
+        ],
+        "tts": [
+          "dot operator"
+        ]
+      },
+      "⋆": {
+        "default": [
+          "operator",
+          "star operator"
+        ],
+        "tts": [
+          "star operator"
+        ]
+      },
+      "⋈": {
+        "default": [
+          "binary operator",
+          "bowtie",
+          "natural join"
+        ],
+        "tts": [
+          "natural join"
+        ]
+      },
+      "⋒": {
+        "default": [
+          "double intersection",
+          "intersection",
+          "mathematics",
+          "set operator"
+        ],
+        "tts": [
+          "double intersection"
+        ]
+      },
+      "⋘": {
+        "default": [
+          "inequality",
+          "mathematics",
+          "very much less-than"
+        ],
+        "tts": [
+          "very much less-than"
+        ]
+      },
+      "⋙": {
+        "default": [
+          "inequality",
+          "mathematics",
+          "very much greater-than"
+        ],
+        "tts": [
+          "very much greater-than"
+        ]
+      },
+      "⋮": {
+        "default": [
+          "ellipsis",
+          "mathematics",
+          "vertical ellipsis"
+        ],
+        "tts": [
+          "vertical ellipsis"
+        ]
+      },
+      "⋯": {
+        "default": [
+          "ellipsis",
+          "midline horizontal ellipsis"
+        ],
+        "tts": [
+          "midline horizontal ellipsis"
+        ]
+      },
+      "⋰": {
+        "default": [
+          "ellipsis",
+          "mathematics",
+          "up right diagonal ellipsis"
+        ],
+        "tts": [
+          "up right diagonal ellipsis"
+        ]
+      },
+      "⋱": {
+        "default": [
+          "down right diagonal ellipsis",
+          "ellipsis",
+          "mathematics"
+        ],
+        "tts": [
+          "down right diagonal ellipsis"
+        ]
+      },
+      "■": {
+        "default": [
+          "filled square"
+        ],
+        "tts": [
+          "filled square"
+        ]
+      },
+      "□": {
+        "default": [
+          "hollow square"
+        ],
+        "tts": [
+          "hollow square"
+        ]
+      },
+      "▢": {
+        "default": [
+          "hollow square with rounded corners"
+        ],
+        "tts": [
+          "hollow square with rounded corners"
+        ]
+      },
+      "▣": {
+        "default": [
+          "hollow square containing filled square"
+        ],
+        "tts": [
+          "hollow square containing filled square"
+        ]
+      },
+      "▤": {
+        "default": [
+          "square with horizontal fill"
+        ],
+        "tts": [
+          "square with horizontal fill"
+        ]
+      },
+      "▥": {
+        "default": [
+          "square with vertical fill"
+        ],
+        "tts": [
+          "square with vertical fill"
+        ]
+      },
+      "▦": {
+        "default": [
+          "square orthogonal crosshatch fill"
+        ],
+        "tts": [
+          "square orthogonal crosshatch fill"
+        ]
+      },
+      "▧": {
+        "default": [
+          "square upper left lower right fill"
+        ],
+        "tts": [
+          "square upper left lower right fill"
+        ]
+      },
+      "▨": {
+        "default": [
+          "square upper right lower left fill"
+        ],
+        "tts": [
+          "square upper right lower left fill"
+        ]
+      },
+      "▩": {
+        "default": [
+          "square diagonal crosshatch fill"
+        ],
+        "tts": [
+          "square diagonal crosshatch fill"
+        ]
+      },
+      "▬": {
+        "default": [
+          "filled rectangle"
+        ],
+        "tts": [
+          "filled rectangle"
+        ]
+      },
+      "▭": {
+        "default": [
+          "hollow rectangle"
+        ],
+        "tts": [
+          "hollow rectangle"
+        ]
+      },
+      "▮": {
+        "default": [
+          "filled vertical rectangle"
+        ],
+        "tts": [
+          "filled vertical rectangle"
+        ]
+      },
+      "▰": {
+        "default": [
+          "filled parallelogram"
+        ],
+        "tts": [
+          "filled parallelogram"
         ]
       },
       "▲": {
@@ -1194,6 +2740,70 @@
           "ᎠᎧᎵᎸᎯ ᎦᎸᎳᏗ-ᏦᎢ ᏧᏅᏏᏯ"
         ]
       },
+      "△": {
+        "default": [
+          "hollow up-pointing triangle"
+        ],
+        "tts": [
+          "hollow up-pointing triangle"
+        ]
+      },
+      "▴": {
+        "default": [
+          "filled up-pointing small triangle"
+        ],
+        "tts": [
+          "filled up-pointing small triangle"
+        ]
+      },
+      "▵": {
+        "default": [
+          "hollow up-pointing small triangle"
+        ],
+        "tts": [
+          "hollow up-pointing small triangle"
+        ]
+      },
+      "▷": {
+        "default": [
+          "hollow right-pointing triangle"
+        ],
+        "tts": [
+          "hollow right-pointing triangle"
+        ]
+      },
+      "▸": {
+        "default": [
+          "filled right-pointing small triangle"
+        ],
+        "tts": [
+          "filled right-pointing small triangle"
+        ]
+      },
+      "▹": {
+        "default": [
+          "hollow right-pointing small triangle"
+        ],
+        "tts": [
+          "hollow right-pointing small triangle"
+        ]
+      },
+      "►": {
+        "default": [
+          "filled right-pointing pointer"
+        ],
+        "tts": [
+          "filled right-pointing pointer"
+        ]
+      },
+      "▻": {
+        "default": [
+          "hollow right-pointing pointer"
+        ],
+        "tts": [
+          "hollow right-pointing pointer"
+        ]
+      },
       "▼": {
         "default": [
           "ᎠᎧᎵᎸᎯ",
@@ -1203,6 +2813,106 @@
         ],
         "tts": [
           "ᎠᎧᎵᎸᎯ ᎡᎳᏗ-ᏦᎢ ᏧᏅᏏᏯ"
+        ]
+      },
+      "▽": {
+        "default": [
+          "hollow down-pointing triangle"
+        ],
+        "tts": [
+          "hollow down-pointing triangle"
+        ]
+      },
+      "▾": {
+        "default": [
+          "filled down-pointing small triangle"
+        ],
+        "tts": [
+          "filled down-pointing small triangle"
+        ]
+      },
+      "▿": {
+        "default": [
+          "hollow down-pointing small triangle"
+        ],
+        "tts": [
+          "hollow down-pointing small triangle"
+        ]
+      },
+      "◁": {
+        "default": [
+          "hollow left-pointing triangle"
+        ],
+        "tts": [
+          "hollow left-pointing triangle"
+        ]
+      },
+      "◂": {
+        "default": [
+          "filled left-pointing small triangle"
+        ],
+        "tts": [
+          "filled left-pointing small triangle"
+        ]
+      },
+      "◃": {
+        "default": [
+          "hollow left-pointing small triangle"
+        ],
+        "tts": [
+          "hollow left-pointing small triangle"
+        ]
+      },
+      "◄": {
+        "default": [
+          "filled left-pointing pointer"
+        ],
+        "tts": [
+          "filled left-pointing pointer"
+        ]
+      },
+      "◅": {
+        "default": [
+          "hollow left-pointing pointer"
+        ],
+        "tts": [
+          "hollow left-pointing pointer"
+        ]
+      },
+      "◆": {
+        "default": [
+          "filled diamond"
+        ],
+        "tts": [
+          "filled diamond"
+        ]
+      },
+      "◇": {
+        "default": [
+          "hollow diamond"
+        ],
+        "tts": [
+          "hollow diamond"
+        ]
+      },
+      "◈": {
+        "default": [
+          "hollow diamond containing filled diamond"
+        ],
+        "tts": [
+          "hollow diamond containing filled diamond"
+        ]
+      },
+      "◉": {
+        "default": [
+          "circled dot",
+          "concentric cicles filled",
+          "fisheye",
+          "hollow circle containing filled circle",
+          "ward"
+        ],
+        "tts": [
+          "hollow circle containing filled circle"
         ]
       },
       "◊": {
@@ -1225,6 +2935,32 @@
           "ᎤᏒᏙᏂ ᎦᏐᏆᎳ"
         ]
       },
+      "◌": {
+        "default": [
+          "dotted circle"
+        ],
+        "tts": [
+          "dotted circle"
+        ]
+      },
+      "◍": {
+        "default": [
+          "circle with vertical fill"
+        ],
+        "tts": [
+          "circle with vertical fill"
+        ]
+      },
+      "◎": {
+        "default": [
+          "concentric circles",
+          "double circle",
+          "target"
+        ],
+        "tts": [
+          "concentric circles"
+        ]
+      },
       "●": {
         "default": [
           "ᎠᎧᎵᎸᎯ ᎦᏐᏆᎳ",
@@ -1234,15 +2970,207 @@
           "ᎠᎧᎵᎸᎯ ᎦᏐᏆᎳ"
         ]
       },
+      "◐": {
+        "default": [
+          "circle left half filled"
+        ],
+        "tts": [
+          "circle left half filled"
+        ]
+      },
+      "◑": {
+        "default": [
+          "circle right half filled"
+        ],
+        "tts": [
+          "circle right half filled"
+        ]
+      },
+      "◒": {
+        "default": [
+          "circle lower half filled"
+        ],
+        "tts": [
+          "circle lower half filled"
+        ]
+      },
+      "◓": {
+        "default": [
+          "circle upper half filled"
+        ],
+        "tts": [
+          "circle upper half filled"
+        ]
+      },
+      "◔": {
+        "default": [
+          "circle upper right quadrant filled"
+        ],
+        "tts": [
+          "circle upper right quadrant filled"
+        ]
+      },
+      "◕": {
+        "default": [
+          "circle all but upper left quadrant filled"
+        ],
+        "tts": [
+          "circle all but upper left quadrant filled"
+        ]
+      },
+      "◖": {
+        "default": [
+          "left half filled circle"
+        ],
+        "tts": [
+          "left half filled circle"
+        ]
+      },
+      "◗": {
+        "default": [
+          "right half filled circle"
+        ],
+        "tts": [
+          "right half filled circle"
+        ]
+      },
+      "◘": {
+        "default": [
+          "inverse bullet"
+        ],
+        "tts": [
+          "inverse bullet"
+        ]
+      },
+      "◙": {
+        "default": [
+          "filled square containing hollow circle",
+          "inverse hollow circle"
+        ],
+        "tts": [
+          "filled square containing hollow circle"
+        ]
+      },
+      "◜": {
+        "default": [
+          "upper left quadrant circular arc"
+        ],
+        "tts": [
+          "upper left quadrant circular arc"
+        ]
+      },
+      "◝": {
+        "default": [
+          "upper right quadrant circular arc"
+        ],
+        "tts": [
+          "upper right quadrant circular arc"
+        ]
+      },
+      "◞": {
+        "default": [
+          "lower right quadrant circular arc"
+        ],
+        "tts": [
+          "lower right quadrant circular arc"
+        ]
+      },
+      "◟": {
+        "default": [
+          "lower left quadrant circular arc"
+        ],
+        "tts": [
+          "lower left quadrant circular arc"
+        ]
+      },
+      "◠": {
+        "default": [
+          "upper half circle"
+        ],
+        "tts": [
+          "upper half circle"
+        ]
+      },
+      "◡": {
+        "default": [
+          "lower half circle"
+        ],
+        "tts": [
+          "lower half circle"
+        ]
+      },
+      "◢": {
+        "default": [
+          "filled lower right triangle"
+        ],
+        "tts": [
+          "filled lower right triangle"
+        ]
+      },
+      "◣": {
+        "default": [
+          "filled lower left triangle"
+        ],
+        "tts": [
+          "filled lower left triangle"
+        ]
+      },
+      "◤": {
+        "default": [
+          "filled upper left triangle"
+        ],
+        "tts": [
+          "filled upper left triangle"
+        ]
+      },
+      "◥": {
+        "default": [
+          "filled upper right triangle"
+        ],
+        "tts": [
+          "filled upper right triangle"
+        ]
+      },
+      "◦": {
+        "default": [
+          "hollow bullet"
+        ],
+        "tts": [
+          "hollow bullet"
+        ]
+      },
       "◯": {
         "default": [
-          "RᏆ ᎤᏒᏙᏂ ᎦᏐᏆᎳ",
           "ᎠᎵᏰᏑᏍᏔᏬ",
           "ᎡᏆ ᎤᏒᏙᏂ ᎦᏐᏆᎳ",
           "ᎦᏐᏆᎳ"
         ],
         "tts": [
-          "RᏆ ᎤᏒᏙᏂ ᎦᏐᏆᎳ"
+          "ᎡᏆ ᎤᏒᏙᏂ ᎦᏐᏆᎳ"
+        ]
+      },
+      "◳": {
+        "default": [
+          "hollow square upper right quadrant"
+        ],
+        "tts": [
+          "hollow square upper right quadrant"
+        ]
+      },
+      "◷": {
+        "default": [
+          "hollow circle with upper right quadrant"
+        ],
+        "tts": [
+          "hollow circle with upper right quadrant"
+        ]
+      },
+      "◿": {
+        "default": [
+          "lower right triangle"
+        ],
+        "tts": [
+          "lower right triangle"
         ]
       },
       "♪": {
@@ -1253,6 +3181,72 @@
         ],
         "tts": [
           "eighth note"
+        ]
+      },
+      "⨧": {
+        "default": [
+          "plus subscript two"
+        ],
+        "tts": [
+          "plus subscript two"
+        ]
+      },
+      "⨯": {
+        "default": [
+          "vector cross product"
+        ],
+        "tts": [
+          "vector cross product"
+        ]
+      },
+      "⨼": {
+        "default": [
+          "interior product"
+        ],
+        "tts": [
+          "interior product"
+        ]
+      },
+      "⩣": {
+        "default": [
+          "logical or double underbar"
+        ],
+        "tts": [
+          "logical or double underbar"
+        ]
+      },
+      "⩽": {
+        "default": [
+          "less-than slanted equal"
+        ],
+        "tts": [
+          "less-than slanted equal"
+        ]
+      },
+      "⪍": {
+        "default": [
+          "less-than above similar equal"
+        ],
+        "tts": [
+          "less-than above similar equal"
+        ]
+      },
+      "⪚": {
+        "default": [
+          "double-line equal greater-than",
+          "inequality",
+          "mathematics"
+        ],
+        "tts": [
+          "double-line equal greater-than"
+        ]
+      },
+      "⪺": {
+        "default": [
+          "succeeds above not almost equal"
+        ],
+        "tts": [
+          "succeeds above not almost equal"
         ]
       },
       "♭": {
@@ -1764,6 +3758,17 @@
           "ᎤᏓᏓᎸ ᎠᏍᏓᏅᏅᎢ ᎤᎧᏛ"
         ]
       },
+      "😶‍🌫": {
+        "default": [
+          "ᎠᏍᎪᎵ ᎭᏫᏂ ᏧᎶᎩᎵ",
+          "ᎤᎧᏛ ᎭᏫᏂ ᎤᎧᎲᏓ",
+          "ᎤᎧᏛ ᎭᏫᏂ ᏧᎶᎩᎵ",
+          "ᎤᏦᎠᏎᏔᏅ"
+        ],
+        "tts": [
+          "ᎤᎧᏛ ᎭᏫᏂ ᏧᎶᎩᎵ"
+        ]
+      },
       "😏": {
         "default": [
           "ᎠᏤᏣᏍᏗ",
@@ -1805,6 +3810,18 @@
           "ᎤᏓᏁᎪᏳᎲᎢ ᎤᎧᏛ"
         ]
       },
+      "😮‍💨": {
+        "default": [
+          "ᎠᏓᏍᏕᎸᏗ",
+          "ᎠᏦᏔᏍᏗ",
+          "ᎤᎧᏛ ᎤᏓᏅᏖᏙᏗ",
+          "ᎤᏗᏒᏅᎩ",
+          "ᎧᏬᎳᏕᏍᎬ"
+        ],
+        "tts": [
+          "ᎤᎧᏛ ᎤᏓᏅᏖᏙᏗ"
+        ]
+      },
       "🤥": {
         "default": [
           "ᎠᎵᏍᎪᏅᏍᎦ ᎤᎧᏛ",
@@ -1826,6 +3843,26 @@
         ],
         "tts": [
           "ᎦᎵᏍᏛᏂᎭ"
+        ]
+      },
+      "🙂‍↔": {
+        "default": [
+          "ᎠᎵᏍᏛᏂᎭ",
+          "ᎥᏝ",
+          "ᎦᎵᏍᏛᏂᎭ"
+        ],
+        "tts": [
+          "ᎠᎵᏍᏛᏂᎭ"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "ᎤᏍᎫᏍᏗ",
+          "ᎤᏍᎫᏴᎢ",
+          "ᎥᎥ"
+        ],
+        "tts": [
+          "ᎤᏍᎫᏴᎢ"
         ]
       },
       "😌": {
@@ -1875,6 +3912,17 @@
         ],
         "tts": [
           "ᎦᏟᎯ ᎤᎧᏛ"
+        ]
+      },
+      "🫩": {
+        "default": [
+          "ᎤᎧᏛ ᏧᎵᏏᎩ ᏗᎦᏙᎵ",
+          "ᎦᎸᏍᎦ",
+          "ᏓᎩᏯᏪᎦ",
+          "ᏙᏳ ᏓᎩᏯᏪᎦ"
+        ],
+        "tts": [
+          "ᎤᎧᏛ ᏧᎵᏏᎩ ᏗᎦᏙᎵ"
         ]
       },
       "😷": {
@@ -1991,6 +4039,18 @@
         ],
         "tts": [
           "ᎤᎸᏕᎯᏓ ᎤᎧᏛ"
+        ]
+      },
+      "😵‍💫": {
+        "default": [
+          "ᎠᎦᎷᎦ",
+          "ᎤᎧᏛ ᏗᎩᏙᎵ ᎠᎦᎷᎦ ᎢᏳᏍᏗ",
+          "ᎤᏦᎠᏎᏗ",
+          "ᏗᎦᎵᏔᏗᏍᎩ",
+          "Ꮼ"
+        ],
+        "tts": [
+          "ᎤᎧᏛ ᏗᎩᏙᎵ ᎠᎦᎷᎦ ᎢᏳᏍᏗ"
         ]
       },
       "🤯": {
@@ -2806,6 +4866,33 @@
           "ᎤᏲᏨᎢ ᎤᎿᏫ"
         ]
       },
+      "❤‍🔥": {
+        "default": [
+          "ᎤᎾᏫ",
+          "ᎤᎾᏫ ᎠᎪᎲᏍᏗᏍᎪᎢ",
+          "ᎦᎴᏴᏒ",
+          "ᎦᎷᏫᏔᎦ ᎤᎾᏫ",
+          "ᎬᎨᏳᎢ",
+          "ᏥᎨᏳᎢ"
+        ],
+        "tts": [
+          "ᎤᎾᏫ ᎠᎪᎲᏍᏗᏍᎪᎢ"
+        ]
+      },
+      "❤‍🩹": {
+        "default": [
+          "ᎠᏢᏔᏍᏗ",
+          "ᎣᏍᏓ",
+          "ᎣᏍᏓ ᏄᏩᏁᎸᎢ",
+          "ᎣᏍᏓ ᏄᏩᏁᎸᎢ ᎤᎾᏫ",
+          "ᎧᏅᏬᏗ",
+          "ᏅᏩᏙᎯᏯᏛ",
+          "ᏙᎯ"
+        ],
+        "tts": [
+          "ᎣᏍᏓ ᏄᏩᏁᎸᎢ ᎤᎾᏫ"
+        ]
+      },
       "❤": {
         "default": [
           "ᎤᎿᏫ",
@@ -3230,10 +5317,10 @@
       },
       "✌": {
         "default": [
-          "v",
           "ᎤᏓᏠᏒ",
           "ᎤᏓᏠᏒ ᎤᏬᏱ",
-          "ᎤᏬᏰᏂ"
+          "ᎤᏬᏰᏂ",
+          "Ꮩ"
         ],
         "tts": [
           "ᎤᏓᏠᏒ ᎤᏬᏱ"
@@ -3820,6 +5907,16 @@
           "ᎠᏍᎦᏯ: ᏗᎭᏄᎸᎯ"
         ]
       },
+      "🧔‍♂": {
+        "default": [
+          "ᎠᎭᏄᎸᏒ",
+          "ᎠᏍᎦᏯ",
+          "ᎠᏍᎦᏯ: ᎠᎭᏄᎸᏒ"
+        ],
+        "tts": [
+          "ᎠᏍᎦᏯ: ᎠᎭᏄᎸᏒ"
+        ]
+      },
       "👱‍♂": {
         "default": [
           "ᎠᏍᎦᏯ",
@@ -3838,6 +5935,16 @@
         ],
         "tts": [
           "ᎠᎨᏯ"
+        ]
+      },
+      "🧔‍♀": {
+        "default": [
+          "ᎠᎨᏯ",
+          "ᎠᎨᏯ: ᎠᎭᏄᎸᏒ",
+          "ᎠᎭᏄᎸᏒ"
+        ],
+        "tts": [
+          "ᎠᎨᏯ: ᎠᎭᏄᎸᏒ"
         ]
       },
       "👱‍♀": {
@@ -5146,7 +7253,8 @@
       },
       "🧑‍🎄": {
         "default": [
-          "ᏧᏠᎦᎴᏓ, ᏓᏂᏍᏓᏲᎯᎲᎢ",
+          "ᏓᏂᏍᏓᏲᎯᎲᎢ",
+          "ᏧᏠᎦᎴᏓ",
           "ᏧᏠᏱ ᏧᏠᎦᎴᏓ"
         ],
         "tts": [
@@ -6404,14 +8512,6 @@
           "ᏗᎾᏤᎯ ᏧᏂᎿᏫ"
         ]
       },
-      "👪": {
-        "default": [
-          "ᏏᏓᏁᎸᎢ"
-        ],
-        "tts": [
-          "ᏏᏓᏁᎸᎢ"
-        ]
-      },
       "🗣": {
         "default": [
           "ᎠᏍᎪᎵ",
@@ -6456,6 +8556,56 @@
           "ᎠᏂᏴᏫ ᏓᏓᏍᏆᏂᏱᏍᎬ"
         ]
       },
+      "👪": {
+        "default": [
+          "ᏏᏓᏁᎸᎢ"
+        ],
+        "tts": [
+          "ᏏᏓᏁᎸᎢ"
+        ]
+      },
+      "🧑‍🧑‍🧒": {
+        "default": [
+          "ᎠᏅᏓ",
+          "ᎠᏲᏟ",
+          "ᏏᏓᏁᎸ: ᎠᏅᏓ",
+          "ᏏᏓᏁᎸ: ᎠᏅᏓ, ᎠᏅᏓ, ᎠᏲᏟ"
+        ],
+        "tts": [
+          "ᏏᏓᏁᎸ: ᎠᏅᏓ, ᎠᏅᏓ, ᎠᏲᏟ"
+        ]
+      },
+      "🧑‍🧑‍🧒‍🧒": {
+        "default": [
+          "ᎠᏅᏓ",
+          "ᎠᏲᏟ",
+          "ᏏᏓᏁᎸ: ᎠᏅᏓ",
+          "ᏏᏓᏁᎸ: ᎠᏅᏓ, ᎠᏅᏓ, ᎠᏲᏟ, ᎠᏲᏟ"
+        ],
+        "tts": [
+          "ᏏᏓᏁᎸ: ᎠᏅᏓ, ᎠᏅᏓ, ᎠᏲᏟ, ᎠᏲᏟ"
+        ]
+      },
+      "🧑‍🧒": {
+        "default": [
+          "ᎠᏲᏟ",
+          "ᏏᏓᏁᎸ: ᎠᏅᏓ",
+          "ᏏᏓᏁᎸ: ᎠᏅᏓ, ᎠᏲᏟ"
+        ],
+        "tts": [
+          "ᏏᏓᏁᎸ: ᎠᏅᏓ, ᎠᏲᏟ"
+        ]
+      },
+      "🧑‍🧒‍🧒": {
+        "default": [
+          "ᎠᏲᏟ",
+          "ᏏᏓᏁᎸ: ᎠᏅᏓ",
+          "ᏏᏓᏁᎸ: ᎠᏅᏓ, ᎠᏲᏟ, ᎠᏲᏟ"
+        ],
+        "tts": [
+          "ᏏᏓᏁᎸ: ᎠᏅᏓ, ᎠᏲᏟ, ᎠᏲᏟ"
+        ]
+      },
       "👣": {
         "default": [
           "ᏗᎿᏬ",
@@ -6465,6 +8615,18 @@
         ],
         "tts": [
           "ᏚᎳᏏᏅᎢ ᏚᏙᏪᎸᎢ"
+        ]
+      },
+      "🫆": {
+        "default": [
+          "ᎠᎾᎦᏎᏍᏗᏍᎬ",
+          "ᎠᏓᏙᎯᏙᏗ",
+          "ᎦᏰᏌᏛ ᏚᏙᏪᎸᎢ",
+          "ᎪᎯᏳᏙ",
+          "ᏄᎾᏰᎯᏍᏛᎾ"
+        ],
+        "tts": [
+          "ᎦᏰᏌᏛ ᏚᏙᏪᎸᎢ"
         ]
       },
       "🦰": {
@@ -7333,6 +9495,19 @@
           "ᎧᏃᎨᏂ"
         ]
       },
+      "🐦‍⬛": {
+        "default": [
+          "ᎪᎦ",
+          "ᎪᎳᎾ",
+          "ᎪᎷ",
+          "ᎬᎿᎨ",
+          "ᏥᏍᏆ",
+          "ᏥᏍᏆᎵᏍᏗ"
+        ],
+        "tts": [
+          "ᏥᏍᏆᎵᏍᏗ"
+        ]
+      },
       "🪿": {
         "default": [
           "ᎠᏛᏁᎵᎭ",
@@ -7342,6 +9517,19 @@
         ],
         "tts": [
           "ᏌᏌ"
+        ]
+      },
+      "🐦‍🔥": {
+        "default": [
+          "ᎠᏥᎳ",
+          "ᎧᏃᎮᏓ",
+          "ᎪᏍᏚ",
+          "ᎪᏛ",
+          "ᏈᏂᎩᏏ",
+          "ᏧᎴᎯᏌᏅᎯ"
+        ],
+        "tts": [
+          "ᏧᎴᎯᏌᏅᎯ"
         ]
       },
       "🐸": {
@@ -7539,6 +9727,58 @@
         ],
         "tts": [
           "ᏩᏂᎨ ᎠᏣᏗ"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "ᎠᏓᏰᏍᎩ",
+          "ᎤᏯᏍᎦᏬᏗ",
+          "ᏃᏈᏏ ᏓᏟᎶᏍᏗᎲᎢ"
+        ],
+        "tts": [
+          "ᎤᏯᏍᎦᏬᏗ"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "ᎡᏉᏂ ᎡᎯ ᎠᎩᏍᏗ",
+          "ᎤᎦᎹ",
+          "ᎤᏔᎾ ᏥᏍᏛᎾ",
+          "ᏚᏑᎦᏢ"
+        ],
+        "tts": [
+          "ᎤᏔᎾ ᏥᏍᏛᎾ"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "ᎠᎵᏍᏓᏴᏗ",
+          "ᎤᎾᏯᏍᎦᏟ ᎠᏣᏗ",
+          "ᎤᏍᏗ",
+          "ᏥᏅᏅ"
+        ],
+        "tts": [
+          "ᏥᏅᏅ"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "ᎠᎵᏍᏓᏴᏗ",
+          "ᎼᎸᏍᎩ",
+          "ᏍᏈᏗ"
+        ],
+        "tts": [
+          "ᏍᏈᏗ"
+        ]
+      },
+      "🦪": {
+        "default": [
+          "ᎠᏕᏛᏍᎦ",
+          "ᎤᏔᎾ ᏓᎬᎾ",
+          "ᏓᎬᎾ ᏅᏯ"
+        ],
+        "tts": [
+          "ᎤᏔᎾ ᏓᎬᎾ"
         ]
       },
       "🐌": {
@@ -7980,6 +10220,17 @@
           "ᏓᏬᎵ"
         ]
       },
+      "🪾": {
+        "default": [
+          "ᎣᏍᏛᎯ",
+          "ᎤᏲᎱᏒ ᎢᏡᎬᎢ",
+          "ᎪᎳ",
+          "ᏂᏓᎦᏍᎬᎾ"
+        ],
+        "tts": [
+          "ᎤᏲᎱᏒ ᎢᏡᎬᎢ"
+        ]
+      },
       "🍇": {
         "default": [
           "ᎤᏂᏖᎸᎳᏗ",
@@ -8026,6 +10277,17 @@
         ],
         "tts": [
           "ᎵᎹᏂ"
+        ]
+      },
+      "🍋‍🟩": {
+        "default": [
+          "ᎤᎦᏄᏮ ᏗᏢ",
+          "ᎤᏓᏔᏅᎢ",
+          "ᎳᎻ",
+          "ᏧᎾᏦᎢᏍᏗ"
+        ],
+        "tts": [
+          "ᎳᎻ"
         ]
       },
       "🍌": {
@@ -8340,6 +10602,29 @@
         ],
         "tts": [
           "ᎤᏅᏢᏓᎵ"
+        ]
+      },
+      "🍄‍🟫": {
+        "default": [
+          "ᎠᎩᏍᏗ",
+          "ᎢᎾᎨ",
+          "ᎤᏬᏗᎨ ᏓᏬᎵ",
+          "ᏓᏬᎵ",
+          "ᏫᏏ"
+        ],
+        "tts": [
+          "ᎤᏬᏗᎨ ᏓᏬᎵ"
+        ]
+      },
+      "🫜": {
+        "default": [
+          "ᎠᏫᏒᏗᎢ",
+          "ᎤᎾᏍᏕᎸ",
+          "ᎩᎦᎨ ᎦᏢᏍᎩ",
+          "ᏓᏈᏌ"
+        ],
+        "tts": [
+          "ᎤᎾᏍᏕᏢ ᎠᎩᏍᏗ"
         ]
       },
       "🍞": {
@@ -8869,58 +11154,6 @@
         ],
         "tts": [
           "ᎠᏫᏛᏗ ᎧᏁᏌ"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "ᎠᏓᏰᏍᎩ",
-          "ᎤᏯᏍᎦᏬᏗ",
-          "ᏃᏈᏏ ᏓᏟᎶᏍᏗᎲᎢ"
-        ],
-        "tts": [
-          "ᎤᏯᏍᎦᏬᏗ"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "ᎡᏉᏂ ᎡᎯ ᎠᎩᏍᏗ",
-          "ᎤᎦᎹ",
-          "ᎤᏔᎾ ᏥᏍᏛᎾ",
-          "ᏚᏑᎦᏢ"
-        ],
-        "tts": [
-          "ᎤᏔᎾ ᏥᏍᏛᎾ"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "ᎠᎵᏍᏓᏴᏗ",
-          "ᎤᎾᏯᏍᎦᏟ ᎠᏣᏗ",
-          "ᎤᏍᏗ",
-          "ᏥᏅᏅ"
-        ],
-        "tts": [
-          "ᏥᏅᏅ"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "ᎠᎵᏍᏓᏴᏗ",
-          "ᎼᎸᏍᎩ",
-          "ᏍᏈᏗ"
-        ],
-        "tts": [
-          "ᏍᏈᏗ"
-        ]
-      },
-      "🦪": {
-        "default": [
-          "ᎠᏕᏛᏍᎦ",
-          "ᎤᏔᎾ ᏓᎬᎾ",
-          "ᏓᎬᎾ ᏅᏯ"
-        ],
-        "tts": [
-          "ᎤᏔᎾ ᏓᎬᎾ"
         ]
       },
       "🍦": {
@@ -13384,6 +15617,19 @@
           "ᎠᏤᎷᎯᏍᏗ"
         ]
       },
+      "🪉": {
+        "default": [
+          "ᎠᎨᏳᎢ",
+          "ᎠᏂᏓᏪᎯ",
+          "ᎪᎱᏍᏗ ᎬᏔᏂ",
+          "ᏗᎧᏃᎩᏍᏗ",
+          "ᏗᎧᏃᎩᏍᏙᏗ",
+          "ᏗᏂᏃᎩᏍᏗᏍᎩ"
+        ],
+        "tts": [
+          "ᏗᎧᏃᎩᏍᏙᏗ"
+        ]
+      },
       "📱": {
         "default": [
           "ᎠᏓᏅᏏᏙᎯ",
@@ -13474,11 +15720,11 @@
       },
       "💻": {
         "default": [
-          "pc",
           "ᎠᎦᏙᎥᎯᏍᏗ ᎠᏍᏆᏂᎪᏗᏍᎩ",
           "ᎠᏄᎵᏍᏗ ᎠᎦᏙᎥᎯᏍᏗ ᎠᏍᏆᏂᎪᏗᏍᎩ",
           "ᎠᏄᎵᏍᏗ ᎠᎦᏙᎥᏒᎢ ᎠᏍᏆᏂᎪᏗᏍᎩ",
-          "ᎠᏏᏴᏫ ᎤᏤᎵ"
+          "ᎠᏏᏴᏫ ᎤᏤᎵ",
+          "ᏢᏟ"
         ],
         "tts": [
           "ᎠᏄᎵᏍᏗ ᎠᎦᏙᎥᏒᎢ ᎠᏍᏆᏂᎪᏗᏍᎩ"
@@ -13554,10 +15800,10 @@
       },
       "💿": {
         "default": [
-          "cd",
           "ᎠᎦᏙᎥᎯᏍᏗ ᎠᏍᏆᏂᎪᏗᏍᎩ",
           "ᎠᎪᏩᏛᏗ",
-          "ᎠᏠᏗ"
+          "ᎠᏠᏗ",
+          "ᏟᎠ"
         ],
         "tts": [
           "ᎠᎪᏩᏛᏗ ᎠᏠᏗ"
@@ -13565,14 +15811,14 @@
       },
       "📀": {
         "default": [
-          "blu-ray",
-          "dvd",
           "ᎠᎦᏙᎥᎯᏍᏗ ᎠᏍᏆᏂᎪᏗᏍᎩ",
           "ᎠᎪᏩᏛᏗ",
-          "ᎠᏠᏗ"
+          "ᎠᏙᎠ",
+          "ᎠᏠᏗ",
+          "ᏌᎪᏂᎨ-ᎠᏠᏗ"
         ],
         "tts": [
-          "dvd"
+          "ᎠᏙᎠ"
         ]
       },
       "🧮": {
@@ -13629,8 +15875,8 @@
       },
       "📺": {
         "default": [
-          "tv",
           "ᎠᏓᏴᎳᏛᏍᎩ",
+          "ᎢᏙ",
           "ᏗᏓᏴᎳᏛᏍᎩ",
           "ᏗᏓᏴᎵᏛᏍᎩ"
         ],
@@ -13670,10 +15916,10 @@
       },
       "📼": {
         "default": [
-          "vhs",
           "ᎦᏠᏗ",
           "ᎦᏠᏗ ᏗᎧᏃᎩᏍᎩ",
-          "ᏗᏓᏴᎳᏛᏍᎩ"
+          "ᏗᏓᏴᎳᏛᏍᎩ",
+          "ᏙᎻᏚ"
         ],
         "tts": [
           "ᎦᏠᏗ ᏗᎧᏃᎩᏍᎩ"
@@ -14776,6 +17022,18 @@
           "ᎫᏓᎸᏙᏗ"
         ]
       },
+      "⛓‍💥": {
+        "default": [
+          "ᎠᏚᏓᎴᏍᏗ",
+          "ᎤᎾᏓᏕᏒᏓ",
+          "ᎤᏲᏨᎯ",
+          "ᏗᏰᏌᎾᎳᏗᏍᏗ",
+          "ᏧᎾᏓᏕᏒᏓ"
+        ],
+        "tts": [
+          "ᎤᏲᏨᎯ ᎤᎾᏓᏕᏒᏓ"
+        ]
+      },
       "⛓": {
         "default": [
           "ᎤᎾᏓᏕᏒᏗ",
@@ -14828,6 +17086,18 @@
         ],
         "tts": [
           "ᎠᏴᏠ"
+        ]
+      },
+      "🪏": {
+        "default": [
+          "ᎠᎪᏕᏍᎩ",
+          "ᎠᎪᏕᏍᏗ",
+          "ᎠᏍᎪᏍᎦ",
+          "ᎠᏔᎴᏒᎢ",
+          "ᎤᏔᎾ ᎪᏕᏍᏗ"
+        ],
+        "tts": [
+          "ᎠᎪᏕᏍᏗ"
         ]
       },
       "⚗": {
@@ -15357,14 +17627,14 @@
       },
       "🏧": {
         "default": [
-          "atm",
-          "ATM ᎪᏪᎵ",
           "ᎠᏕᎳ ᏧᏂᏗᎢ",
           "ᎠᏕᎳ ᏧᏂᏗᎢ ᏧᎸᏫᏍᏓᏁᎯ",
-          "ᎤᏩᏌ"
+          "ᎤᏩᏌ",
+          "ᎪᎢᎷ",
+          "ᎪᎢᎷ ᎪᏪᎵ"
         ],
         "tts": [
-          "ATM ᎪᏪᎵ"
+          "ᎪᎢᎷ ᎪᏪᎵ"
         ]
       },
       "🚮": {
@@ -15399,10 +17669,10 @@
       },
       "🚹": {
         "default": [
-          "wc",
           "ᎠᏂᏍᎦᏯ ᎤᏂᏴᏍᏗ",
           "ᎠᏍᎦᏯ",
           "ᎤᎾᏓᏅᎦᏟᏗ ᎧᏅᏑᎸ",
+          "ᎳᏟ",
           "ᏙᏱ ᎤᎾᏨᏍᏗ"
         ],
         "tts": [
@@ -15411,10 +17681,10 @@
       },
       "🚺": {
         "default": [
-          "wc",
           "ᎠᎨᏯ",
           "ᎠᎨᏯ ᎤᏴᏍᏗᎢ",
           "ᎤᎾᏓᏅᎦᏟᏗ ᎧᏅᏑᎸ",
+          "ᎳᏟ",
           "ᏙᏱ ᎤᎾᏨᏍᏗ"
         ],
         "tts": [
@@ -15423,8 +17693,8 @@
       },
       "🚻": {
         "default": [
-          "WC",
           "ᎡᏓᏍᏗ",
+          "ᎳᏟ",
           "ᏙᏱ ᎤᎾᏨᏍᏗ"
         ],
         "tts": [
@@ -15443,10 +17713,10 @@
       },
       "🚾": {
         "default": [
-          "wc",
           "ᎠᎹ",
           "ᎡᏓᏍᏗ",
           "ᎧᏅᏑᎸᎢ",
+          "ᎳᏟ",
           "ᏙᏱ ᎤᎾᏨᏍᏗ"
         ],
         "tts": [
@@ -15755,6 +18025,14 @@
         ],
         "tts": [
           "ᎠᎦᏍᎦᏂ - ᎦᏘᏏ ᎦᏝᏗ"
+        ]
+      },
+      "↮": {
+        "default": [
+          "left right arrow stroke"
+        ],
+        "tts": [
+          "left right arrow stroke"
         ]
       },
       "↩": {
@@ -16849,6 +19127,17 @@
           "ᎠᎵᏱᏛᎢ ᎪᏪᎸ"
         ]
       },
+      "🫟": {
+        "default": [
+          "ᎠᏑᏫᏍᎦ",
+          "ᎠᏤᏩᏍᏗ",
+          "ᏗᏑᏫᏍᏗ",
+          "ᏩᏍᏚᏟᏥᎯ"
+        ],
+        "tts": [
+          "ᏩᏍᏚᏟᏥᎯ"
+        ]
+      },
       "🔠": {
         "default": [
           "ABCD",
@@ -17684,9 +19973,12 @@
       },
       "🏳‍⚧": {
         "default": [
+          "ᎠᎴ ᎤᏁᎦ ᎦᏓᏘ",
           "ᎦᏓᏘ",
+          "ᎩᎦᎨ ᎤᏍᎪᎸ",
           "ᏄᏬᎵᏍᏛᎾ",
-          "ᏌᎪᏂᎨ, ᎩᎦᎨ ᎤᏍᎪᎸ, ᎠᎴ ᎤᏁᎦ ᎦᏓᏘ"
+          "ᏌᎪᏂᎨ",
+          "ᏌᎪᏂᎨ ᎤᏍᎪᎸ, ᎩᎦᎨ ᎤᏍᎪᎸ, ᎠᎴ ᎤᏁᎦ ᎦᏓᏘ"
         ],
         "tts": [
           "ᏌᎪᏂᎨ, ᎩᎦᎨ ᎤᏍᎪᎸ, ᎠᎴ ᎤᏁᎦ ᎦᏓᏘ"
@@ -17747,6 +20039,35 @@
           "ᏣᏩᏂᏏ ᎠᏕᎳ"
         ]
       },
+      "₢": {
+        "default": [
+          "BRB",
+          "cruzeiro",
+          "currency"
+        ],
+        "tts": [
+          "cruzeiro"
+        ]
+      },
+      "₣": {
+        "default": [
+          "currency",
+          "franc",
+          "french franc"
+        ],
+        "tts": [
+          "french franc"
+        ]
+      },
+      "₤": {
+        "default": [
+          "currency",
+          "lira"
+        ],
+        "tts": [
+          "lira"
+        ]
+      },
       "₥": {
         "default": [
           "ᎻᎵ",
@@ -17776,12 +20097,50 @@
           "ᏳᎳᏈ ᎠᏕᎳ"
         ]
       },
+      "₰": {
+        "default": [
+          "currency",
+          "german penny",
+          "pfennig"
+        ],
+        "tts": [
+          "german penny"
+        ]
+      },
       "₱": {
         "default": [
           "ᏍᏆᏂ ᎠᏕᎳ"
         ],
         "tts": [
           "ᏍᏆᏂ ᎠᏕᎳ"
+        ]
+      },
+      "₳": {
+        "default": [
+          "ARA",
+          "austral",
+          "currency"
+        ],
+        "tts": [
+          "austral"
+        ]
+      },
+      "₶": {
+        "default": [
+          "currency",
+          "livre tournois"
+        ],
+        "tts": [
+          "livre tournois"
+        ]
+      },
+      "₷": {
+        "default": [
+          "currency",
+          "spesmilo"
+        ],
+        "tts": [
+          "spesmilo"
         ]
       },
       "₹": {
@@ -17842,6 +20201,15 @@
           "ᎤᏍᏗ ᎦᎸᎳᏗ ᏦᎢ"
         ]
       },
+      "₨": {
+        "default": [
+          "currency",
+          "rupee"
+        ],
+        "tts": [
+          "rupee"
+        ]
+      },
       "µ": {
         "default": [
           "ᎢᏳᏟᎶᏓ",
@@ -17849,6 +20217,15 @@
         ],
         "tts": [
           "ᎤᏍᏗ ᎪᏪᎶᏗ"
+        ]
+      },
+      "﷼": {
+        "default": [
+          "currency",
+          "rial"
+        ],
+        "tts": [
+          "rial"
         ]
       }
     }

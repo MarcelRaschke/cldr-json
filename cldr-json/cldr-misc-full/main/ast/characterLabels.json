@@ -2,9 +2,6 @@
   "main": {
     "ast": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ast"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — compatibilidá",
         "enclosed": "{0} — arrodiáu",
         "extended": "{0} — enantáu",
+        "facing-left": "{0} facing left",
+        "facing-right": "{0} facing right",
         "historic": "{0} — históricu",
         "miscellaneous": "{0} — mecigayu",
         "other": "{0} — otru",

@@ -2,9 +2,6 @@
   "main": {
     "hsb": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "hsb"
       },
       "typographicNames": {
@@ -60,7 +57,6 @@
           "wght-subtype-400": "regularny",
           "wght-subtype-500": "srěni połtučny",
           "wght-subtype-600": "połtučny",
-          "wght-subtype-600-alt-demi": "połtučny",
           "wght-subtype-700": "tučny",
           "wght-subtype-800": "wosebje tučny",
           "wght-subtype-900": "čorny",

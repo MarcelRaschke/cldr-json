@@ -2,9 +2,6 @@
   "main": {
     "pt-ST": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "pt",
         "territory": "ST"
       },
@@ -61,7 +58,6 @@
           "wght-subtype-400": "normal",
           "wght-subtype-500": "médio",
           "wght-subtype-600": "seminegrito",
-          "wght-subtype-600-alt-demi": "seminegrito",
           "wght-subtype-700": "negrito",
           "wght-subtype-800": "extranegrito",
           "wght-subtype-800-alt-ultra": "ultranegrito",

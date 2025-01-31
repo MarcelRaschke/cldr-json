@@ -2,9 +2,6 @@
   "main": {
     "am": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "am"
       },
       "localeDisplayNames": {

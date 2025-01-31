@@ -2,9 +2,6 @@
   "main": {
     "zgh": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "zgh"
       },
       "listPatterns": {

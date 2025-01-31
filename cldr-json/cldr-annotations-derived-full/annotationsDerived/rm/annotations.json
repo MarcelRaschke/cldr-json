@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "rm"
     },
     "annotations": {
@@ -397,11 +394,6 @@
           "naira nigeriana"
         ]
       },
-      "₧": {
-        "tts": [
-          "peseta spagnola"
-        ]
-      },
       "₪": {
         "tts": [
           "nov schekel israelian"
@@ -455,6 +447,11 @@
       "₾": {
         "tts": [
           "lari georgian"
+        ]
+      },
+      "₧": {
+        "tts": [
+          "peseta spagnola"
         ]
       }
     }

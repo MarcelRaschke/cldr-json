@@ -1,18 +1,18 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "yo"
     },
     "annotations": {
       "👋🏻": {
         "default": [
           "amọ́lára",
-          "juwọ́",
-          "N Juwọ",
-          "ń juwọ́",
+          "báwo",
+          "ìkínni",
+          "ìwọ",
+          "ju wọ́",
+          "ó dàbọ̀",
+          "ó dìgbà kan",
           "ọwọ́"
         ],
         "tts": [
@@ -22,9 +22,12 @@
       "👋🏼": {
         "default": [
           "amọ́lára díẹ̀",
-          "juwọ́",
-          "N Juwọ",
-          "ń juwọ́",
+          "báwo",
+          "ìkínni",
+          "ìwọ",
+          "ju wọ́",
+          "ó dàbọ̀",
+          "ó dìgbà kan",
           "ọwọ́"
         ],
         "tts": [
@@ -34,9 +37,12 @@
       "👋🏽": {
         "default": [
           "amọ́láwọ̀ díẹ̀",
-          "juwọ́",
-          "N Juwọ",
-          "ń juwọ́",
+          "báwo",
+          "ìkínni",
+          "ìwọ",
+          "ju wọ́",
+          "ó dàbọ̀",
+          "ó dìgbà kan",
           "ọwọ́"
         ],
         "tts": [
@@ -46,9 +52,12 @@
       "👋🏾": {
         "default": [
           "adúláwọ̀ díẹ̀",
-          "juwọ́",
-          "N Juwọ",
-          "ń juwọ́",
+          "báwo",
+          "ìkínni",
+          "ìwọ",
+          "ju wọ́",
+          "ó dàbọ̀",
+          "ó dìgbà kan",
           "ọwọ́"
         ],
         "tts": [
@@ -58,9 +67,12 @@
       "👋🏿": {
         "default": [
           "adúláwọ̀",
-          "juwọ́",
-          "N Juwọ",
-          "ń juwọ́",
+          "báwo",
+          "ìkínni",
+          "ìwọ",
+          "ju wọ́",
+          "ó dàbọ̀",
+          "ó dìgbà kan",
           "ọwọ́"
         ],
         "tts": [
@@ -362,14 +374,13 @@
           "amọ́lára",
           "amọ́lára díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: amọ́lára, amọ́lára díẹ̀"
+          "Ìbọwọ́: amọ́lára àtiamọ́lára díẹ̀"
         ]
       },
       "🫱🏻‍🫲🏽": {
@@ -377,14 +388,13 @@
           "amọ́lára",
           "amọ́láwọ̀ díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: amọ́lára, amọ́láwọ̀ díẹ̀"
+          "Ìbọwọ́: amọ́lára àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "🫱🏻‍🫲🏾": {
@@ -392,14 +402,13 @@
           "adúláwọ̀ díẹ̀",
           "amọ́lára",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: amọ́lára, adúláwọ̀ díẹ̀"
+          "Ìbọwọ́: amọ́lára àtiadúláwọ̀ díẹ̀"
         ]
       },
       "🫱🏻‍🫲🏿": {
@@ -407,14 +416,13 @@
           "adúláwọ̀",
           "amọ́lára",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: amọ́lára, adúláwọ̀"
+          "Ìbọwọ́: amọ́lára àtiadúláwọ̀"
         ]
       },
       "🫱🏼‍🫲🏻": {
@@ -422,14 +430,13 @@
           "amọ́lára",
           "amọ́lára díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: amọ́lára díẹ̀, amọ́lára"
+          "Ìbọwọ́: amọ́lára díẹ̀ àtiamọ́lára"
         ]
       },
       "🫱🏼‍🫲🏽": {
@@ -437,14 +444,13 @@
           "amọ́lára díẹ̀",
           "amọ́láwọ̀ díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: amọ́lára díẹ̀, amọ́láwọ̀ díẹ̀"
+          "Ìbọwọ́: amọ́lára díẹ̀ àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "🫱🏼‍🫲🏾": {
@@ -452,14 +458,13 @@
           "adúláwọ̀ díẹ̀",
           "amọ́lára díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: amọ́lára díẹ̀, adúláwọ̀ díẹ̀"
+          "Ìbọwọ́: amọ́lára díẹ̀ àtiadúláwọ̀ díẹ̀"
         ]
       },
       "🫱🏼‍🫲🏿": {
@@ -467,14 +472,13 @@
           "adúláwọ̀",
           "amọ́lára díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: amọ́lára díẹ̀, adúláwọ̀"
+          "Ìbọwọ́: amọ́lára díẹ̀ àtiadúláwọ̀"
         ]
       },
       "🫱🏽‍🫲🏻": {
@@ -482,14 +486,13 @@
           "amọ́lára",
           "amọ́láwọ̀ díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: amọ́láwọ̀ díẹ̀, amọ́lára"
+          "Ìbọwọ́: amọ́láwọ̀ díẹ̀ àtiamọ́lára"
         ]
       },
       "🫱🏽‍🫲🏼": {
@@ -497,14 +500,13 @@
           "amọ́lára díẹ̀",
           "amọ́láwọ̀ díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: amọ́láwọ̀ díẹ̀, amọ́lára díẹ̀"
+          "Ìbọwọ́: amọ́láwọ̀ díẹ̀ àtiamọ́lára díẹ̀"
         ]
       },
       "🫱🏽‍🫲🏾": {
@@ -512,14 +514,13 @@
           "adúláwọ̀ díẹ̀",
           "amọ́láwọ̀ díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: amọ́láwọ̀ díẹ̀, adúláwọ̀ díẹ̀"
+          "Ìbọwọ́: amọ́láwọ̀ díẹ̀ àtiadúláwọ̀ díẹ̀"
         ]
       },
       "🫱🏽‍🫲🏿": {
@@ -527,14 +528,13 @@
           "adúláwọ̀",
           "amọ́láwọ̀ díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: amọ́láwọ̀ díẹ̀, adúláwọ̀"
+          "Ìbọwọ́: amọ́láwọ̀ díẹ̀ àtiadúláwọ̀"
         ]
       },
       "🫱🏾‍🫲🏻": {
@@ -542,14 +542,13 @@
           "adúláwọ̀ díẹ̀",
           "amọ́lára",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: adúláwọ̀ díẹ̀, amọ́lára"
+          "Ìbọwọ́: adúláwọ̀ díẹ̀ àtiamọ́lára"
         ]
       },
       "🫱🏾‍🫲🏼": {
@@ -557,14 +556,13 @@
           "adúláwọ̀ díẹ̀",
           "amọ́lára díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: adúláwọ̀ díẹ̀, amọ́lára díẹ̀"
+          "Ìbọwọ́: adúláwọ̀ díẹ̀ àtiamọ́lára díẹ̀"
         ]
       },
       "🫱🏾‍🫲🏽": {
@@ -572,14 +570,13 @@
           "adúláwọ̀ díẹ̀",
           "amọ́láwọ̀ díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: adúláwọ̀ díẹ̀, amọ́láwọ̀ díẹ̀"
+          "Ìbọwọ́: adúláwọ̀ díẹ̀ àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "🫱🏾‍🫲🏿": {
@@ -587,14 +584,13 @@
           "adúláwọ̀",
           "adúláwọ̀ díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: adúláwọ̀ díẹ̀, adúláwọ̀"
+          "Ìbọwọ́: adúláwọ̀ díẹ̀ àtiadúláwọ̀"
         ]
       },
       "🫱🏿‍🫲🏻": {
@@ -602,14 +598,13 @@
           "adúláwọ̀",
           "amọ́lára",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: adúláwọ̀, amọ́lára"
+          "Ìbọwọ́: adúláwọ̀ àtiamọ́lára"
         ]
       },
       "🫱🏿‍🫲🏼": {
@@ -617,14 +612,13 @@
           "adúláwọ̀",
           "amọ́lára díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: adúláwọ̀, amọ́lára díẹ̀"
+          "Ìbọwọ́: adúláwọ̀ àtiamọ́lára díẹ̀"
         ]
       },
       "🫱🏿‍🫲🏽": {
@@ -632,14 +626,13 @@
           "adúláwọ̀",
           "amọ́láwọ̀ díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: adúláwọ̀, amọ́láwọ̀ díẹ̀"
+          "Ìbọwọ́: adúláwọ̀ àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "🫱🏿‍🫲🏾": {
@@ -647,14 +640,13 @@
           "adúláwọ̀",
           "adúláwọ̀ díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
           "ọwọ"
         ],
         "tts": [
-          "Ìbọwọ́: adúláwọ̀, adúláwọ̀ díẹ̀"
+          "Ìbọwọ́: adúláwọ̀ àtiadúláwọ̀ díẹ̀"
         ]
       },
       "🫲🏻": {
@@ -2156,7 +2148,7 @@
           "òwọ́ ẹ̀ṣẹ́"
         ],
         "tts": [
-          "Naṣẹ Soke: amọ́lára"
+          "Ẹṣẹ Ti a Na Soke: amọ́lára"
         ]
       },
       "✊🏼": {
@@ -2168,7 +2160,7 @@
           "òwọ́ ẹ̀ṣẹ́"
         ],
         "tts": [
-          "Naṣẹ Soke: amọ́lára díẹ̀"
+          "Ẹṣẹ Ti a Na Soke: amọ́lára díẹ̀"
         ]
       },
       "✊🏽": {
@@ -2180,7 +2172,7 @@
           "òwọ́ ẹ̀ṣẹ́"
         ],
         "tts": [
-          "Naṣẹ Soke: amọ́láwọ̀ díẹ̀"
+          "Ẹṣẹ Ti a Na Soke: amọ́láwọ̀ díẹ̀"
         ]
       },
       "✊🏾": {
@@ -2192,7 +2184,7 @@
           "òwọ́ ẹ̀ṣẹ́"
         ],
         "tts": [
-          "Naṣẹ Soke: adúláwọ̀ díẹ̀"
+          "Ẹṣẹ Ti a Na Soke: adúláwọ̀ díẹ̀"
         ]
       },
       "✊🏿": {
@@ -2204,7 +2196,7 @@
           "òwọ́ ẹ̀ṣẹ́"
         ],
         "tts": [
-          "Naṣẹ Soke: adúláwọ̀"
+          "Ẹṣẹ Ti a Na Soke: adúláwọ̀"
         ]
       },
       "👊🏻": {
@@ -2661,7 +2653,6 @@
         "default": [
           "amọ́lára",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
@@ -2675,7 +2666,6 @@
         "default": [
           "amọ́lára díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
@@ -2689,7 +2679,6 @@
         "default": [
           "amọ́láwọ̀ díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
@@ -2703,7 +2692,6 @@
         "default": [
           "adúláwọ̀ díẹ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
@@ -2717,7 +2705,6 @@
         "default": [
           "adúláwọ̀",
           "gbọn",
-          "ìbọwọ́",
           "Ìbọwọ́",
           "ìfaramọ́",
           "ìpàdé",
@@ -4165,7 +4152,7 @@
           "irun pupa"
         ],
         "tts": [
-          "àgbà: amọ́lára, irun pupa"
+          "àgbà: amọ́lára àtiirun pupa"
         ]
       },
       "🧑🏼‍🦰": {
@@ -4176,7 +4163,7 @@
           "irun pupa"
         ],
         "tts": [
-          "àgbà: amọ́lára díẹ̀, irun pupa"
+          "àgbà: amọ́lára díẹ̀ àtiirun pupa"
         ]
       },
       "🧑🏽‍🦰": {
@@ -4187,7 +4174,7 @@
           "irun pupa"
         ],
         "tts": [
-          "àgbà: amọ́láwọ̀ díẹ̀, irun pupa"
+          "àgbà: amọ́láwọ̀ díẹ̀ àtiirun pupa"
         ]
       },
       "🧑🏾‍🦰": {
@@ -4198,7 +4185,7 @@
           "irun pupa"
         ],
         "tts": [
-          "àgbà: adúláwọ̀ díẹ̀, irun pupa"
+          "àgbà: adúláwọ̀ díẹ̀ àtiirun pupa"
         ]
       },
       "🧑🏿‍🦰": {
@@ -4209,7 +4196,7 @@
           "irun pupa"
         ],
         "tts": [
-          "àgbà: adúláwọ̀, irun pupa"
+          "àgbà: adúláwọ̀ àtiirun pupa"
         ]
       },
       "🧑‍🦱": {
@@ -4230,7 +4217,7 @@
           "irun rírọ̀"
         ],
         "tts": [
-          "àgbà: amọ́lára, irun rírọ̀"
+          "àgbà: amọ́lára àtiirun rírọ̀"
         ]
       },
       "🧑🏼‍🦱": {
@@ -4241,7 +4228,7 @@
           "irun rírọ̀"
         ],
         "tts": [
-          "àgbà: amọ́lára díẹ̀, irun rírọ̀"
+          "àgbà: amọ́lára díẹ̀ àtiirun rírọ̀"
         ]
       },
       "🧑🏽‍🦱": {
@@ -4252,7 +4239,7 @@
           "irun rírọ̀"
         ],
         "tts": [
-          "àgbà: amọ́láwọ̀ díẹ̀, irun rírọ̀"
+          "àgbà: amọ́láwọ̀ díẹ̀ àtiirun rírọ̀"
         ]
       },
       "🧑🏾‍🦱": {
@@ -4263,7 +4250,7 @@
           "irun rírọ̀"
         ],
         "tts": [
-          "àgbà: adúláwọ̀ díẹ̀, irun rírọ̀"
+          "àgbà: adúláwọ̀ díẹ̀ àtiirun rírọ̀"
         ]
       },
       "🧑🏿‍🦱": {
@@ -4274,7 +4261,7 @@
           "irun rírọ̀"
         ],
         "tts": [
-          "àgbà: adúláwọ̀, irun rírọ̀"
+          "àgbà: adúláwọ̀ àtiirun rírọ̀"
         ]
       },
       "🧑‍🦳": {
@@ -4295,7 +4282,7 @@
           "irun funfun"
         ],
         "tts": [
-          "àgbà: amọ́lára, irun funfun"
+          "àgbà: amọ́lára àtiirun funfun"
         ]
       },
       "🧑🏼‍🦳": {
@@ -4306,7 +4293,7 @@
           "irun funfun"
         ],
         "tts": [
-          "àgbà: amọ́lára díẹ̀, irun funfun"
+          "àgbà: amọ́lára díẹ̀ àtiirun funfun"
         ]
       },
       "🧑🏽‍🦳": {
@@ -4317,7 +4304,7 @@
           "irun funfun"
         ],
         "tts": [
-          "àgbà: amọ́láwọ̀ díẹ̀, irun funfun"
+          "àgbà: amọ́láwọ̀ díẹ̀ àtiirun funfun"
         ]
       },
       "🧑🏾‍🦳": {
@@ -4328,7 +4315,7 @@
           "irun funfun"
         ],
         "tts": [
-          "àgbà: adúláwọ̀ díẹ̀, irun funfun"
+          "àgbà: adúláwọ̀ díẹ̀ àtiirun funfun"
         ]
       },
       "🧑🏿‍🦳": {
@@ -4339,7 +4326,7 @@
           "irun funfun"
         ],
         "tts": [
-          "àgbà: adúláwọ̀, irun funfun"
+          "àgbà: adúláwọ̀ àtiirun funfun"
         ]
       },
       "🧑‍🦲": {
@@ -4360,7 +4347,7 @@
           "orí pípá"
         ],
         "tts": [
-          "àgbà: amọ́lára, orí pípá"
+          "àgbà: amọ́lára àtiorí pípá"
         ]
       },
       "🧑🏼‍🦲": {
@@ -4371,7 +4358,7 @@
           "orí pípá"
         ],
         "tts": [
-          "àgbà: amọ́lára díẹ̀, orí pípá"
+          "àgbà: amọ́lára díẹ̀ àtiorí pípá"
         ]
       },
       "🧑🏽‍🦲": {
@@ -4382,7 +4369,7 @@
           "orí pípá"
         ],
         "tts": [
-          "àgbà: amọ́láwọ̀ díẹ̀, orí pípá"
+          "àgbà: amọ́láwọ̀ díẹ̀ àtiorí pípá"
         ]
       },
       "🧑🏾‍🦲": {
@@ -4393,7 +4380,7 @@
           "orí pípá"
         ],
         "tts": [
-          "àgbà: adúláwọ̀ díẹ̀, orí pípá"
+          "àgbà: adúláwọ̀ díẹ̀ àtiorí pípá"
         ]
       },
       "🧑🏿‍🦲": {
@@ -4404,7 +4391,7 @@
           "orí pípá"
         ],
         "tts": [
-          "àgbà: adúláwọ̀, orí pípá"
+          "àgbà: adúláwọ̀ àtiorí pípá"
         ]
       },
       "👨🏻": {
@@ -4500,6 +4487,61 @@
         ],
         "tts": [
           "apárí: adúláwọ̀"
+        ]
+      },
+      "🧔🏻‍♂": {
+        "default": [
+          "amọ́lára",
+          "irùgbọ̀n",
+          "ọkùnrin",
+          "ọkùnrin: irùgbọ̀n"
+        ],
+        "tts": [
+          "ọkùnrin: amọ́lára àtiirùgbọ̀n"
+        ]
+      },
+      "🧔🏼‍♂": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "irùgbọ̀n",
+          "ọkùnrin",
+          "ọkùnrin: irùgbọ̀n"
+        ],
+        "tts": [
+          "ọkùnrin: amọ́lára díẹ̀ àtiirùgbọ̀n"
+        ]
+      },
+      "🧔🏽‍♂": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "irùgbọ̀n",
+          "ọkùnrin",
+          "ọkùnrin: irùgbọ̀n"
+        ],
+        "tts": [
+          "ọkùnrin: amọ́láwọ̀ díẹ̀ àtiirùgbọ̀n"
+        ]
+      },
+      "🧔🏾‍♂": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "irùgbọ̀n",
+          "ọkùnrin",
+          "ọkùnrin: irùgbọ̀n"
+        ],
+        "tts": [
+          "ọkùnrin: adúláwọ̀ díẹ̀ àtiirùgbọ̀n"
+        ]
+      },
+      "🧔🏿‍♂": {
+        "default": [
+          "adúláwọ̀",
+          "irùgbọ̀n",
+          "ọkùnrin",
+          "ọkùnrin: irùgbọ̀n"
+        ],
+        "tts": [
+          "ọkùnrin: adúláwọ̀ àtiirùgbọ̀n"
         ]
       },
       "👱🏻‍♂": {
@@ -5188,7 +5230,7 @@
           "Ọkùnrin"
         ],
         "tts": [
-          "Ọkùnrin: amọ́lára, irun pupa"
+          "Ọkùnrin: amọ́lára àtiirun pupa"
         ]
       },
       "👨🏼‍🦰": {
@@ -5198,7 +5240,7 @@
           "Ọkùnrin"
         ],
         "tts": [
-          "Ọkùnrin: amọ́lára díẹ̀, irun pupa"
+          "Ọkùnrin: amọ́lára díẹ̀ àtiirun pupa"
         ]
       },
       "👨🏽‍🦰": {
@@ -5208,7 +5250,7 @@
           "Ọkùnrin"
         ],
         "tts": [
-          "Ọkùnrin: amọ́láwọ̀ díẹ̀, irun pupa"
+          "Ọkùnrin: amọ́láwọ̀ díẹ̀ àtiirun pupa"
         ]
       },
       "👨🏾‍🦰": {
@@ -5218,7 +5260,7 @@
           "Ọkùnrin"
         ],
         "tts": [
-          "Ọkùnrin: adúláwọ̀ díẹ̀, irun pupa"
+          "Ọkùnrin: adúláwọ̀ díẹ̀ àtiirun pupa"
         ]
       },
       "👨🏿‍🦰": {
@@ -5228,7 +5270,7 @@
           "Ọkùnrin"
         ],
         "tts": [
-          "Ọkùnrin: adúláwọ̀, irun pupa"
+          "Ọkùnrin: adúláwọ̀ àtiirun pupa"
         ]
       },
       "👨‍🦱": {
@@ -5247,7 +5289,7 @@
           "Ọkùnrin"
         ],
         "tts": [
-          "Ọkùnrin: amọ́lára, irun rírọ̀"
+          "Ọkùnrin: amọ́lára àtiirun rírọ̀"
         ]
       },
       "👨🏼‍🦱": {
@@ -5257,7 +5299,7 @@
           "Ọkùnrin"
         ],
         "tts": [
-          "Ọkùnrin: amọ́lára díẹ̀, irun rírọ̀"
+          "Ọkùnrin: amọ́lára díẹ̀ àtiirun rírọ̀"
         ]
       },
       "👨🏽‍🦱": {
@@ -5267,7 +5309,7 @@
           "Ọkùnrin"
         ],
         "tts": [
-          "Ọkùnrin: amọ́láwọ̀ díẹ̀, irun rírọ̀"
+          "Ọkùnrin: amọ́láwọ̀ díẹ̀ àtiirun rírọ̀"
         ]
       },
       "👨🏾‍🦱": {
@@ -5277,7 +5319,7 @@
           "Ọkùnrin"
         ],
         "tts": [
-          "Ọkùnrin: adúláwọ̀ díẹ̀, irun rírọ̀"
+          "Ọkùnrin: adúláwọ̀ díẹ̀ àtiirun rírọ̀"
         ]
       },
       "👨🏿‍🦱": {
@@ -5287,7 +5329,7 @@
           "Ọkùnrin"
         ],
         "tts": [
-          "Ọkùnrin: adúláwọ̀, irun rírọ̀"
+          "Ọkùnrin: adúláwọ̀ àtiirun rírọ̀"
         ]
       },
       "👨‍🦳": {
@@ -5306,7 +5348,7 @@
           "Ọkùnrin"
         ],
         "tts": [
-          "Ọkùnrin: amọ́lára, irun funfun"
+          "Ọkùnrin: amọ́lára àtiirun funfun"
         ]
       },
       "👨🏼‍🦳": {
@@ -5316,7 +5358,7 @@
           "Ọkùnrin"
         ],
         "tts": [
-          "Ọkùnrin: amọ́lára díẹ̀, irun funfun"
+          "Ọkùnrin: amọ́lára díẹ̀ àtiirun funfun"
         ]
       },
       "👨🏽‍🦳": {
@@ -5326,7 +5368,7 @@
           "Ọkùnrin"
         ],
         "tts": [
-          "Ọkùnrin: amọ́láwọ̀ díẹ̀, irun funfun"
+          "Ọkùnrin: amọ́láwọ̀ díẹ̀ àtiirun funfun"
         ]
       },
       "👨🏾‍🦳": {
@@ -5336,7 +5378,7 @@
           "Ọkùnrin"
         ],
         "tts": [
-          "Ọkùnrin: adúláwọ̀ díẹ̀, irun funfun"
+          "Ọkùnrin: adúláwọ̀ díẹ̀ àtiirun funfun"
         ]
       },
       "👨🏿‍🦳": {
@@ -5346,7 +5388,7 @@
           "Ọkùnrin"
         ],
         "tts": [
-          "Ọkùnrin: adúláwọ̀, irun funfun"
+          "Ọkùnrin: adúláwọ̀ àtiirun funfun"
         ]
       },
       "👨‍🦲": {
@@ -5365,7 +5407,7 @@
           "orí pípá"
         ],
         "tts": [
-          "Ọkùnrin: amọ́lára, orí pípá"
+          "Ọkùnrin: amọ́lára àtiorí pípá"
         ]
       },
       "👨🏼‍🦲": {
@@ -5375,7 +5417,7 @@
           "orí pípá"
         ],
         "tts": [
-          "Ọkùnrin: amọ́lára díẹ̀, orí pípá"
+          "Ọkùnrin: amọ́lára díẹ̀ àtiorí pípá"
         ]
       },
       "👨🏽‍🦲": {
@@ -5385,7 +5427,7 @@
           "orí pípá"
         ],
         "tts": [
-          "Ọkùnrin: amọ́láwọ̀ díẹ̀, orí pípá"
+          "Ọkùnrin: amọ́láwọ̀ díẹ̀ àtiorí pípá"
         ]
       },
       "👨🏾‍🦲": {
@@ -5395,7 +5437,7 @@
           "orí pípá"
         ],
         "tts": [
-          "Ọkùnrin: adúláwọ̀ díẹ̀, orí pípá"
+          "Ọkùnrin: adúláwọ̀ díẹ̀ àtiorí pípá"
         ]
       },
       "👨🏿‍🦲": {
@@ -5405,7 +5447,7 @@
           "orí pípá"
         ],
         "tts": [
-          "Ọkùnrin: adúláwọ̀, orí pípá"
+          "Ọkùnrin: adúláwọ̀ àtiorí pípá"
         ]
       },
       "👩🏻": {
@@ -5451,6 +5493,61 @@
         ],
         "tts": [
           "Obìnrin: adúláwọ̀"
+        ]
+      },
+      "🧔🏻‍♀": {
+        "default": [
+          "amọ́lára",
+          "irùgbọ̀n",
+          "obìnrin",
+          "obìnrin: irùgbọ̀n"
+        ],
+        "tts": [
+          "obìnrin: amọ́lára àtiirùgbọ̀n"
+        ]
+      },
+      "🧔🏼‍♀": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "irùgbọ̀n",
+          "obìnrin",
+          "obìnrin: irùgbọ̀n"
+        ],
+        "tts": [
+          "obìnrin: amọ́lára díẹ̀ àtiirùgbọ̀n"
+        ]
+      },
+      "🧔🏽‍♀": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "irùgbọ̀n",
+          "obìnrin",
+          "obìnrin: irùgbọ̀n"
+        ],
+        "tts": [
+          "obìnrin: amọ́láwọ̀ díẹ̀ àtiirùgbọ̀n"
+        ]
+      },
+      "🧔🏾‍♀": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "irùgbọ̀n",
+          "obìnrin",
+          "obìnrin: irùgbọ̀n"
+        ],
+        "tts": [
+          "obìnrin: adúláwọ̀ díẹ̀ àtiirùgbọ̀n"
+        ]
+      },
+      "🧔🏿‍♀": {
+        "default": [
+          "adúláwọ̀",
+          "irùgbọ̀n",
+          "obìnrin",
+          "obìnrin: irùgbọ̀n"
+        ],
+        "tts": [
+          "obìnrin: adúláwọ̀ àtiirùgbọ̀n"
         ]
       },
       "👱🏻‍♀": {
@@ -6804,7 +6901,7 @@
           "Obìnrin"
         ],
         "tts": [
-          "Obìnrin: amọ́lára, irun pupa"
+          "Obìnrin: amọ́lára àtiirun pupa"
         ]
       },
       "👩🏼‍🦰": {
@@ -6814,7 +6911,7 @@
           "Obìnrin"
         ],
         "tts": [
-          "Obìnrin: amọ́lára díẹ̀, irun pupa"
+          "Obìnrin: amọ́lára díẹ̀ àtiirun pupa"
         ]
       },
       "👩🏽‍🦰": {
@@ -6824,7 +6921,7 @@
           "Obìnrin"
         ],
         "tts": [
-          "Obìnrin: amọ́láwọ̀ díẹ̀, irun pupa"
+          "Obìnrin: amọ́láwọ̀ díẹ̀ àtiirun pupa"
         ]
       },
       "👩🏾‍🦰": {
@@ -6834,7 +6931,7 @@
           "Obìnrin"
         ],
         "tts": [
-          "Obìnrin: adúláwọ̀ díẹ̀, irun pupa"
+          "Obìnrin: adúláwọ̀ díẹ̀ àtiirun pupa"
         ]
       },
       "👩🏿‍🦰": {
@@ -6844,7 +6941,7 @@
           "Obìnrin"
         ],
         "tts": [
-          "Obìnrin: adúláwọ̀, irun pupa"
+          "Obìnrin: adúláwọ̀ àtiirun pupa"
         ]
       },
       "👩‍🦱": {
@@ -6863,7 +6960,7 @@
           "Obìnrin"
         ],
         "tts": [
-          "Obìnrin: amọ́lára, irun rírọ̀"
+          "Obìnrin: amọ́lára àtiirun rírọ̀"
         ]
       },
       "👩🏼‍🦱": {
@@ -6873,7 +6970,7 @@
           "Obìnrin"
         ],
         "tts": [
-          "Obìnrin: amọ́lára díẹ̀, irun rírọ̀"
+          "Obìnrin: amọ́lára díẹ̀ àtiirun rírọ̀"
         ]
       },
       "👩🏽‍🦱": {
@@ -6883,7 +6980,7 @@
           "Obìnrin"
         ],
         "tts": [
-          "Obìnrin: amọ́láwọ̀ díẹ̀, irun rírọ̀"
+          "Obìnrin: amọ́láwọ̀ díẹ̀ àtiirun rírọ̀"
         ]
       },
       "👩🏾‍🦱": {
@@ -6893,7 +6990,7 @@
           "Obìnrin"
         ],
         "tts": [
-          "Obìnrin: adúláwọ̀ díẹ̀, irun rírọ̀"
+          "Obìnrin: adúláwọ̀ díẹ̀ àtiirun rírọ̀"
         ]
       },
       "👩🏿‍🦱": {
@@ -6903,7 +7000,7 @@
           "Obìnrin"
         ],
         "tts": [
-          "Obìnrin: adúláwọ̀, irun rírọ̀"
+          "Obìnrin: adúláwọ̀ àtiirun rírọ̀"
         ]
       },
       "👩‍🦳": {
@@ -6922,7 +7019,7 @@
           "Obìnrin"
         ],
         "tts": [
-          "Obìnrin: amọ́lára, irun funfun"
+          "Obìnrin: amọ́lára àtiirun funfun"
         ]
       },
       "👩🏼‍🦳": {
@@ -6932,7 +7029,7 @@
           "Obìnrin"
         ],
         "tts": [
-          "Obìnrin: amọ́lára díẹ̀, irun funfun"
+          "Obìnrin: amọ́lára díẹ̀ àtiirun funfun"
         ]
       },
       "👩🏽‍🦳": {
@@ -6942,7 +7039,7 @@
           "Obìnrin"
         ],
         "tts": [
-          "Obìnrin: amọ́láwọ̀ díẹ̀, irun funfun"
+          "Obìnrin: amọ́láwọ̀ díẹ̀ àtiirun funfun"
         ]
       },
       "👩🏾‍🦳": {
@@ -6952,7 +7049,7 @@
           "Obìnrin"
         ],
         "tts": [
-          "Obìnrin: adúláwọ̀ díẹ̀, irun funfun"
+          "Obìnrin: adúláwọ̀ díẹ̀ àtiirun funfun"
         ]
       },
       "👩🏿‍🦳": {
@@ -6962,7 +7059,7 @@
           "Obìnrin"
         ],
         "tts": [
-          "Obìnrin: adúláwọ̀, irun funfun"
+          "Obìnrin: adúláwọ̀ àtiirun funfun"
         ]
       },
       "👩‍🦲": {
@@ -6981,7 +7078,7 @@
           "orí pípá"
         ],
         "tts": [
-          "Obìnrin: amọ́lára, orí pípá"
+          "Obìnrin: amọ́lára àtiorí pípá"
         ]
       },
       "👩🏼‍🦲": {
@@ -6991,7 +7088,7 @@
           "orí pípá"
         ],
         "tts": [
-          "Obìnrin: amọ́lára díẹ̀, orí pípá"
+          "Obìnrin: amọ́lára díẹ̀ àtiorí pípá"
         ]
       },
       "👩🏽‍🦲": {
@@ -7001,7 +7098,7 @@
           "orí pípá"
         ],
         "tts": [
-          "Obìnrin: amọ́láwọ̀ díẹ̀, orí pípá"
+          "Obìnrin: amọ́láwọ̀ díẹ̀ àtiorí pípá"
         ]
       },
       "👩🏾‍🦲": {
@@ -7011,7 +7108,7 @@
           "orí pípá"
         ],
         "tts": [
-          "Obìnrin: adúláwọ̀ díẹ̀, orí pípá"
+          "Obìnrin: adúláwọ̀ díẹ̀ àtiorí pípá"
         ]
       },
       "👩🏿‍🦲": {
@@ -7021,7 +7118,7 @@
           "orí pípá"
         ],
         "tts": [
-          "Obìnrin: adúláwọ̀, orí pípá"
+          "Obìnrin: adúláwọ̀ àtiorí pípá"
         ]
       },
       "🧓🏻": {
@@ -7137,7 +7234,6 @@
       "👵🏻": {
         "default": [
           "agbalagba",
-          "Agbalagba Obinrin",
           "amọ́lára",
           "obinrin"
         ],
@@ -7148,7 +7244,6 @@
       "👵🏼": {
         "default": [
           "agbalagba",
-          "Agbalagba Obinrin",
           "amọ́lára díẹ̀",
           "obinrin"
         ],
@@ -7159,7 +7254,6 @@
       "👵🏽": {
         "default": [
           "agbalagba",
-          "Agbalagba Obinrin",
           "amọ́láwọ̀ díẹ̀",
           "obinrin"
         ],
@@ -7171,7 +7265,6 @@
         "default": [
           "adúláwọ̀ díẹ̀",
           "agbalagba",
-          "Agbalagba Obinrin",
           "obinrin"
         ],
         "tts": [
@@ -7182,7 +7275,6 @@
         "default": [
           "adúláwọ̀",
           "agbalagba",
-          "Agbalagba Obinrin",
           "obinrin"
         ],
         "tts": [
@@ -8364,6 +8456,106 @@
           "odi: adúláwọ̀"
         ]
       },
+      "🧏🏻‍♂": {
+        "default": [
+          "adití",
+          "amọ́lára",
+          "ọkùnrin"
+        ],
+        "tts": [
+          "ọkùnrin adití: amọ́lára"
+        ]
+      },
+      "🧏🏼‍♂": {
+        "default": [
+          "adití",
+          "amọ́lára díẹ̀",
+          "ọkùnrin"
+        ],
+        "tts": [
+          "ọkùnrin adití: amọ́lára díẹ̀"
+        ]
+      },
+      "🧏🏽‍♂": {
+        "default": [
+          "adití",
+          "amọ́láwọ̀ díẹ̀",
+          "ọkùnrin"
+        ],
+        "tts": [
+          "ọkùnrin adití: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧏🏾‍♂": {
+        "default": [
+          "adití",
+          "adúláwọ̀ díẹ̀",
+          "ọkùnrin"
+        ],
+        "tts": [
+          "ọkùnrin adití: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧏🏿‍♂": {
+        "default": [
+          "adití",
+          "adúláwọ̀",
+          "ọkùnrin"
+        ],
+        "tts": [
+          "ọkùnrin adití: adúláwọ̀"
+        ]
+      },
+      "🧏🏻‍♀": {
+        "default": [
+          "adití",
+          "amọ́lára",
+          "obìnrin"
+        ],
+        "tts": [
+          "obìnrin adití: amọ́lára"
+        ]
+      },
+      "🧏🏼‍♀": {
+        "default": [
+          "adití",
+          "amọ́lára díẹ̀",
+          "obìnrin"
+        ],
+        "tts": [
+          "obìnrin adití: amọ́lára díẹ̀"
+        ]
+      },
+      "🧏🏽‍♀": {
+        "default": [
+          "adití",
+          "amọ́láwọ̀ díẹ̀",
+          "obìnrin"
+        ],
+        "tts": [
+          "obìnrin adití: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧏🏾‍♀": {
+        "default": [
+          "adití",
+          "adúláwọ̀ díẹ̀",
+          "obìnrin"
+        ],
+        "tts": [
+          "obìnrin adití: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧏🏿‍♀": {
+        "default": [
+          "adití",
+          "adúláwọ̀",
+          "obìnrin"
+        ],
+        "tts": [
+          "obìnrin adití: adúláwọ̀"
+        ]
+      },
       "🙇🏻": {
         "default": [
           "amọ́lára",
@@ -8979,6 +9171,71 @@
           "obìǹrin tí ń gúnpa: adúláwọ̀"
         ]
       },
+      "🧑🏻‍⚕": {
+        "default": [
+          "amọ́lára",
+          "aṣèwòsàn nípasẹ̀ ìmọ̀ràn",
+          "dọ̀kítà",
+          "ìtọ́jú ìlera",
+          "nọ́ọ̀sì",
+          "òṣìṣẹ́ ìlera"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ìlera: amọ́lára"
+        ]
+      },
+      "🧑🏼‍⚕": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "aṣèwòsàn nípasẹ̀ ìmọ̀ràn",
+          "dọ̀kítà",
+          "ìtọ́jú ìlera",
+          "nọ́ọ̀sì",
+          "òṣìṣẹ́ ìlera"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ìlera: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍⚕": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "aṣèwòsàn nípasẹ̀ ìmọ̀ràn",
+          "dọ̀kítà",
+          "ìtọ́jú ìlera",
+          "nọ́ọ̀sì",
+          "òṣìṣẹ́ ìlera"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ìlera: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍⚕": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "aṣèwòsàn nípasẹ̀ ìmọ̀ràn",
+          "dọ̀kítà",
+          "ìtọ́jú ìlera",
+          "nọ́ọ̀sì",
+          "òṣìṣẹ́ ìlera"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ìlera: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍⚕": {
+        "default": [
+          "adúláwọ̀",
+          "aṣèwòsàn nípasẹ̀ ìmọ̀ràn",
+          "dọ̀kítà",
+          "ìtọ́jú ìlera",
+          "nọ́ọ̀sì",
+          "òṣìṣẹ́ ìlera"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ìlera: adúláwọ̀"
+        ]
+      },
       "👨🏻‍⚕": {
         "default": [
           "ajọ ìlera",
@@ -9119,11 +9376,61 @@
           "obìrin òṣìṣẹ́ ètò ìlera: adúláwọ̀"
         ]
       },
-      "👨🏻‍🎓": {
+      "🧑🏻‍🎓": {
         "default": [
           "akẹ́kọ̀ọ́",
+          "akẹ́kọ̀ọ́gboyè",
+          "amọ́lára"
+        ],
+        "tts": [
+          "akẹ́kọ̀ọ́: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🎓": {
+        "default": [
+          "akẹ́kọ̀ọ́",
+          "akẹ́kọ̀ọ́gboyè",
+          "amọ́lára díẹ̀"
+        ],
+        "tts": [
+          "akẹ́kọ̀ọ́: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🎓": {
+        "default": [
+          "akẹ́kọ̀ọ́",
+          "akẹ́kọ̀ọ́gboyè",
+          "amọ́láwọ̀ díẹ̀"
+        ],
+        "tts": [
+          "akẹ́kọ̀ọ́: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🎓": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "akẹ́kọ̀ọ́",
+          "akẹ́kọ̀ọ́gboyè"
+        ],
+        "tts": [
+          "akẹ́kọ̀ọ́: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🎓": {
+        "default": [
+          "adúláwọ̀",
+          "akẹ́kọ̀ọ́",
+          "akẹ́kọ̀ọ́gboyè"
+        ],
+        "tts": [
+          "akẹ́kọ̀ọ́: adúláwọ̀"
+        ]
+      },
+      "👨🏻‍🎓": {
+        "default": [
+          "akàwégboyè",
+          "akẹ́kọ̀ọ́",
           "amọ́lára",
-          "kàwégboyè",
           "ọkùnrin"
         ],
         "tts": [
@@ -9132,9 +9439,9 @@
       },
       "👨🏼‍🎓": {
         "default": [
+          "akàwégboyè",
           "akẹ́kọ̀ọ́",
           "amọ́lára díẹ̀",
-          "kàwégboyè",
           "ọkùnrin"
         ],
         "tts": [
@@ -9143,9 +9450,9 @@
       },
       "👨🏽‍🎓": {
         "default": [
+          "akàwégboyè",
           "akẹ́kọ̀ọ́",
           "amọ́láwọ̀ díẹ̀",
-          "kàwégboyè",
           "ọkùnrin"
         ],
         "tts": [
@@ -9155,8 +9462,8 @@
       "👨🏾‍🎓": {
         "default": [
           "adúláwọ̀ díẹ̀",
+          "akàwégboyè",
           "akẹ́kọ̀ọ́",
-          "kàwégboyè",
           "ọkùnrin"
         ],
         "tts": [
@@ -9166,8 +9473,8 @@
       "👨🏿‍🎓": {
         "default": [
           "adúláwọ̀",
+          "akàwégboyè",
           "akẹ́kọ̀ọ́",
-          "kàwégboyè",
           "ọkùnrin"
         ],
         "tts": [
@@ -9176,10 +9483,10 @@
       },
       "👩🏻‍🎓": {
         "default": [
+          "akàwégboyè",
           "akẹ́kọ̀ọ́",
           "amọ́lára",
-          "kàwégboyè",
-          "obìrin"
+          "obinrin"
         ],
         "tts": [
           "obìrin akẹ́kọ̀ọ́: amọ́lára"
@@ -9187,10 +9494,10 @@
       },
       "👩🏼‍🎓": {
         "default": [
+          "akàwégboyè",
           "akẹ́kọ̀ọ́",
           "amọ́lára díẹ̀",
-          "kàwégboyè",
-          "obìrin"
+          "obinrin"
         ],
         "tts": [
           "obìrin akẹ́kọ̀ọ́: amọ́lára díẹ̀"
@@ -9198,10 +9505,10 @@
       },
       "👩🏽‍🎓": {
         "default": [
+          "akàwégboyè",
           "akẹ́kọ̀ọ́",
           "amọ́láwọ̀ díẹ̀",
-          "kàwégboyè",
-          "obìrin"
+          "obinrin"
         ],
         "tts": [
           "obìrin akẹ́kọ̀ọ́: amọ́láwọ̀ díẹ̀"
@@ -9210,9 +9517,9 @@
       "👩🏾‍🎓": {
         "default": [
           "adúláwọ̀ díẹ̀",
+          "akàwégboyè",
           "akẹ́kọ̀ọ́",
-          "kàwégboyè",
-          "obìrin"
+          "obinrin"
         ],
         "tts": [
           "obìrin akẹ́kọ̀ọ́: adúláwọ̀ díẹ̀"
@@ -9221,12 +9528,67 @@
       "👩🏿‍🎓": {
         "default": [
           "adúláwọ̀",
+          "akàwégboyè",
           "akẹ́kọ̀ọ́",
-          "kàwégboyè",
-          "obìrin"
+          "obinrin"
         ],
         "tts": [
           "obìrin akẹ́kọ̀ọ́: adúláwọ̀"
+        ]
+      },
+      "🧑🏻‍🏫": {
+        "default": [
+          "amọ́lára",
+          "ọ̀jọ̀gbọ́n",
+          "olùkọ́",
+          "olùtọ́sọ́nà"
+        ],
+        "tts": [
+          "olùkọ́: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🏫": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ọ̀jọ̀gbọ́n",
+          "olùkọ́",
+          "olùtọ́sọ́nà"
+        ],
+        "tts": [
+          "olùkọ́: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🏫": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ọ̀jọ̀gbọ́n",
+          "olùkọ́",
+          "olùtọ́sọ́nà"
+        ],
+        "tts": [
+          "olùkọ́: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🏫": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ọ̀jọ̀gbọ́n",
+          "olùkọ́",
+          "olùtọ́sọ́nà"
+        ],
+        "tts": [
+          "olùkọ́: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🏫": {
+        "default": [
+          "adúláwọ̀",
+          "ọ̀jọ̀gbọ́n",
+          "olùkọ́",
+          "olùtọ́sọ́nà"
+        ],
+        "tts": [
+          "olùkọ́: adúláwọ̀"
         ]
       },
       "👨🏻‍🏫": {
@@ -9354,6 +9716,61 @@
           "obìnrin olùkọ́: adúláwọ̀"
         ]
       },
+      "🧑🏻‍⚖": {
+        "default": [
+          "adájọ́",
+          "amọ́lára",
+          "ìdájọ́ òdodo",
+          "ìwọ̀n"
+        ],
+        "tts": [
+          "adájọ́: amọ́lára"
+        ]
+      },
+      "🧑🏼‍⚖": {
+        "default": [
+          "adájọ́",
+          "amọ́lára díẹ̀",
+          "ìdájọ́ òdodo",
+          "ìwọ̀n"
+        ],
+        "tts": [
+          "adájọ́: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍⚖": {
+        "default": [
+          "adájọ́",
+          "amọ́láwọ̀ díẹ̀",
+          "ìdájọ́ òdodo",
+          "ìwọ̀n"
+        ],
+        "tts": [
+          "adájọ́: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍⚖": {
+        "default": [
+          "adájọ́",
+          "adúláwọ̀ díẹ̀",
+          "ìdájọ́ òdodo",
+          "ìwọ̀n"
+        ],
+        "tts": [
+          "adájọ́: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍⚖": {
+        "default": [
+          "adájọ́",
+          "adúláwọ̀",
+          "ìdájọ́ òdodo",
+          "ìwọ̀n"
+        ],
+        "tts": [
+          "adájọ́: adúláwọ̀"
+        ]
+      },
       "👨🏻‍⚖": {
         "default": [
           "amọ́lára",
@@ -9457,6 +9874,66 @@
         ],
         "tts": [
           "obìnrin adájọ́: adúláwọ̀"
+        ]
+      },
+      "🧑🏻‍🌾": {
+        "default": [
+          "àgbẹ̀",
+          "àgbẹẹ̀",
+          "amọ́lára",
+          "darandaran",
+          "olùtọ́jú ọgbà"
+        ],
+        "tts": [
+          "àgbẹ̀: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🌾": {
+        "default": [
+          "àgbẹ̀",
+          "àgbẹẹ̀",
+          "amọ́lára díẹ̀",
+          "darandaran",
+          "olùtọ́jú ọgbà"
+        ],
+        "tts": [
+          "àgbẹ̀: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🌾": {
+        "default": [
+          "àgbẹ̀",
+          "àgbẹẹ̀",
+          "amọ́láwọ̀ díẹ̀",
+          "darandaran",
+          "olùtọ́jú ọgbà"
+        ],
+        "tts": [
+          "àgbẹ̀: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🌾": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "àgbẹ̀",
+          "àgbẹẹ̀",
+          "darandaran",
+          "olùtọ́jú ọgbà"
+        ],
+        "tts": [
+          "àgbẹ̀: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🌾": {
+        "default": [
+          "adúláwọ̀",
+          "àgbẹ̀",
+          "àgbẹẹ̀",
+          "darandaran",
+          "olùtọ́jú ọgbà"
+        ],
+        "tts": [
+          "àgbẹ̀: adúláwọ̀"
         ]
       },
       "👨🏻‍🌾": {
@@ -9584,6 +10061,56 @@
           "obìrinàgbẹ́: adúláwọ̀"
         ]
       },
+      "🧑🏻‍🍳": {
+        "default": [
+          "alásè",
+          "amọ́lára",
+          "olórí alásè"
+        ],
+        "tts": [
+          "alásè: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🍳": {
+        "default": [
+          "alásè",
+          "amọ́lára díẹ̀",
+          "olórí alásè"
+        ],
+        "tts": [
+          "alásè: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🍳": {
+        "default": [
+          "alásè",
+          "amọ́láwọ̀ díẹ̀",
+          "olórí alásè"
+        ],
+        "tts": [
+          "alásè: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🍳": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "alásè",
+          "olórí alásè"
+        ],
+        "tts": [
+          "alásè: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🍳": {
+        "default": [
+          "adúláwọ̀",
+          "alásè",
+          "olórí alásè"
+        ],
+        "tts": [
+          "alásè: adúláwọ̀"
+        ]
+      },
       "👨🏻‍🍳": {
         "default": [
           "amọ́lára",
@@ -9702,6 +10229,66 @@
         ],
         "tts": [
           "obìrin olùse ónjẹ: adúláwọ̀"
+        ]
+      },
+      "🧑🏻‍🔧": {
+        "default": [
+          "amọ́lára",
+          "arólélópòó",
+          "mẹkáníìkì",
+          "oníṣẹ́-ẹ̀lẹ́tíríìkì",
+          "oníṣẹ́-ọwọ́"
+        ],
+        "tts": [
+          "mẹkáníìkì: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🔧": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "arólélópòó",
+          "mẹkáníìkì",
+          "oníṣẹ́-ẹ̀lẹ́tíríìkì",
+          "oníṣẹ́-ọwọ́"
+        ],
+        "tts": [
+          "mẹkáníìkì: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🔧": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "arólélópòó",
+          "mẹkáníìkì",
+          "oníṣẹ́-ẹ̀lẹ́tíríìkì",
+          "oníṣẹ́-ọwọ́"
+        ],
+        "tts": [
+          "mẹkáníìkì: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🔧": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "arólélópòó",
+          "mẹkáníìkì",
+          "oníṣẹ́-ẹ̀lẹ́tíríìkì",
+          "oníṣẹ́-ọwọ́"
+        ],
+        "tts": [
+          "mẹkáníìkì: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🔧": {
+        "default": [
+          "adúláwọ̀",
+          "arólélópòó",
+          "mẹkáníìkì",
+          "oníṣẹ́-ẹ̀lẹ́tíríìkì",
+          "oníṣẹ́-ọwọ́"
+        ],
+        "tts": [
+          "mẹkáníìkì: adúláwọ̀"
         ]
       },
       "👨🏻‍🔧": {
@@ -9844,6 +10431,71 @@
           "obìrin atún ọkọ̀ ṣe: adúláwọ̀"
         ]
       },
+      "🧑🏻‍🏭": {
+        "default": [
+          "amọ́lára",
+          "ilé-iṣẹ́ aṣàgbéjáde ọjà",
+          "nípa àkójọpọ̀ àwọn ilé-iṣẹ́ oníṣòwò ọjà",
+          "òṣìṣẹ́",
+          "òṣìṣẹ́ ilé-iṣẹ́ aṣàgbéjáde ọjà",
+          "ṣíṣe àtòpọ̀ ẹ̀rọ"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ilé-iṣẹ́ aṣàgbéjáde ọjà: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🏭": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ilé-iṣẹ́ aṣàgbéjáde ọjà",
+          "nípa àkójọpọ̀ àwọn ilé-iṣẹ́ oníṣòwò ọjà",
+          "òṣìṣẹ́",
+          "òṣìṣẹ́ ilé-iṣẹ́ aṣàgbéjáde ọjà",
+          "ṣíṣe àtòpọ̀ ẹ̀rọ"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ilé-iṣẹ́ aṣàgbéjáde ọjà: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🏭": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ilé-iṣẹ́ aṣàgbéjáde ọjà",
+          "nípa àkójọpọ̀ àwọn ilé-iṣẹ́ oníṣòwò ọjà",
+          "òṣìṣẹ́",
+          "òṣìṣẹ́ ilé-iṣẹ́ aṣàgbéjáde ọjà",
+          "ṣíṣe àtòpọ̀ ẹ̀rọ"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ilé-iṣẹ́ aṣàgbéjáde ọjà: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🏭": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ilé-iṣẹ́ aṣàgbéjáde ọjà",
+          "nípa àkójọpọ̀ àwọn ilé-iṣẹ́ oníṣòwò ọjà",
+          "òṣìṣẹ́",
+          "òṣìṣẹ́ ilé-iṣẹ́ aṣàgbéjáde ọjà",
+          "ṣíṣe àtòpọ̀ ẹ̀rọ"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ilé-iṣẹ́ aṣàgbéjáde ọjà: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🏭": {
+        "default": [
+          "adúláwọ̀",
+          "ilé-iṣẹ́ aṣàgbéjáde ọjà",
+          "nípa àkójọpọ̀ àwọn ilé-iṣẹ́ oníṣòwò ọjà",
+          "òṣìṣẹ́",
+          "òṣìṣẹ́ ilé-iṣẹ́ aṣàgbéjáde ọjà",
+          "ṣíṣe àtòpọ̀ ẹ̀rọ"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ilé-iṣẹ́ aṣàgbéjáde ọjà: adúláwọ̀"
+        ]
+      },
       "👨🏻‍🏭": {
         "default": [
           "amọ́lára",
@@ -9972,6 +10624,71 @@
         ],
         "tts": [
           "obìrin òṣìṣẹ́ ilé-iṣẹ́: adúláwọ̀"
+        ]
+      },
+      "🧑🏻‍💼": {
+        "default": [
+          "amọ́lára",
+          "ayàwòrán ilé-kíkọ́",
+          "okòwò",
+          "olùṣàkóso",
+          "òṣìṣẹ́ ọ́fíìsì",
+          "tó jẹ mọ́ iṣẹ́ ọ́fíìsì"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ọ́fíìsì: amọ́lára"
+        ]
+      },
+      "🧑🏼‍💼": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ayàwòrán ilé-kíkọ́",
+          "okòwò",
+          "olùṣàkóso",
+          "òṣìṣẹ́ ọ́fíìsì",
+          "tó jẹ mọ́ iṣẹ́ ọ́fíìsì"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ọ́fíìsì: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍💼": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ayàwòrán ilé-kíkọ́",
+          "okòwò",
+          "olùṣàkóso",
+          "òṣìṣẹ́ ọ́fíìsì",
+          "tó jẹ mọ́ iṣẹ́ ọ́fíìsì"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ọ́fíìsì: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍💼": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ayàwòrán ilé-kíkọ́",
+          "okòwò",
+          "olùṣàkóso",
+          "òṣìṣẹ́ ọ́fíìsì",
+          "tó jẹ mọ́ iṣẹ́ ọ́fíìsì"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ọ́fíìsì: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍💼": {
+        "default": [
+          "adúláwọ̀",
+          "ayàwòrán ilé-kíkọ́",
+          "okòwò",
+          "olùṣàkóso",
+          "òṣìṣẹ́ ọ́fíìsì",
+          "tó jẹ mọ́ iṣẹ́ ọ́fíìsì"
+        ],
+        "tts": [
+          "òṣìṣẹ́ ọ́fíìsì: adúláwọ̀"
         ]
       },
       "👨🏻‍💼": {
@@ -10122,6 +10839,71 @@
         ],
         "tts": [
           "obìrin òṣìṣẹ́ ọ́físì: adúláwọ̀"
+        ]
+      },
+      "🧑🏻‍🔬": {
+        "default": [
+          "amọ́lára",
+          "onímọ̀ ẹ̀rọ",
+          "onímọ̀ sáyẹ́ǹsì",
+          "onímọ̀ sáyẹ́ǹsì àwọn ohun alààyè",
+          "onímọ̀ sáyẹ́ǹsì ìṣẹ̀dá àti àwọn ohun àdáyébá",
+          "onímọ̀ sáyẹ́ǹsì nípa kẹ́míkà"
+        ],
+        "tts": [
+          "onímọ̀ sáyẹ́ǹsì: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🔬": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "onímọ̀ ẹ̀rọ",
+          "onímọ̀ sáyẹ́ǹsì",
+          "onímọ̀ sáyẹ́ǹsì àwọn ohun alààyè",
+          "onímọ̀ sáyẹ́ǹsì ìṣẹ̀dá àti àwọn ohun àdáyébá",
+          "onímọ̀ sáyẹ́ǹsì nípa kẹ́míkà"
+        ],
+        "tts": [
+          "onímọ̀ sáyẹ́ǹsì: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🔬": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "onímọ̀ ẹ̀rọ",
+          "onímọ̀ sáyẹ́ǹsì",
+          "onímọ̀ sáyẹ́ǹsì àwọn ohun alààyè",
+          "onímọ̀ sáyẹ́ǹsì ìṣẹ̀dá àti àwọn ohun àdáyébá",
+          "onímọ̀ sáyẹ́ǹsì nípa kẹ́míkà"
+        ],
+        "tts": [
+          "onímọ̀ sáyẹ́ǹsì: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🔬": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "onímọ̀ ẹ̀rọ",
+          "onímọ̀ sáyẹ́ǹsì",
+          "onímọ̀ sáyẹ́ǹsì àwọn ohun alààyè",
+          "onímọ̀ sáyẹ́ǹsì ìṣẹ̀dá àti àwọn ohun àdáyébá",
+          "onímọ̀ sáyẹ́ǹsì nípa kẹ́míkà"
+        ],
+        "tts": [
+          "onímọ̀ sáyẹ́ǹsì: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🔬": {
+        "default": [
+          "adúláwọ̀",
+          "onímọ̀ ẹ̀rọ",
+          "onímọ̀ sáyẹ́ǹsì",
+          "onímọ̀ sáyẹ́ǹsì àwọn ohun alààyè",
+          "onímọ̀ sáyẹ́ǹsì ìṣẹ̀dá àti àwọn ohun àdáyébá",
+          "onímọ̀ sáyẹ́ǹsì nípa kẹ́míkà"
+        ],
+        "tts": [
+          "onímọ̀ sáyẹ́ǹsì: adúláwọ̀"
         ]
       },
       "👨🏻‍🔬": {
@@ -10284,6 +11066,71 @@
           "obìrin síyẹ́nsì: adúláwọ̀"
         ]
       },
+      "🧑🏻‍💻": {
+        "default": [
+          "akọ́ṣẹ́mọṣẹ́ ìmọ̀-ẹ̀rọ",
+          "aláròṣe ohun tuntun",
+          "amọ́lára",
+          "ẹ̀yà àìrídìmú inú ẹ̀rọ",
+          "olúkọ-kóòdù",
+          "onímọ̀ kóòdù"
+        ],
+        "tts": [
+          "akọ́ṣẹ́mọṣẹ́ ìmọ̀-ẹ̀rọ: amọ́lára"
+        ]
+      },
+      "🧑🏼‍💻": {
+        "default": [
+          "akọ́ṣẹ́mọṣẹ́ ìmọ̀-ẹ̀rọ",
+          "aláròṣe ohun tuntun",
+          "amọ́lára díẹ̀",
+          "ẹ̀yà àìrídìmú inú ẹ̀rọ",
+          "olúkọ-kóòdù",
+          "onímọ̀ kóòdù"
+        ],
+        "tts": [
+          "akọ́ṣẹ́mọṣẹ́ ìmọ̀-ẹ̀rọ: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍💻": {
+        "default": [
+          "akọ́ṣẹ́mọṣẹ́ ìmọ̀-ẹ̀rọ",
+          "aláròṣe ohun tuntun",
+          "amọ́láwọ̀ díẹ̀",
+          "ẹ̀yà àìrídìmú inú ẹ̀rọ",
+          "olúkọ-kóòdù",
+          "onímọ̀ kóòdù"
+        ],
+        "tts": [
+          "akọ́ṣẹ́mọṣẹ́ ìmọ̀-ẹ̀rọ: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍💻": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "akọ́ṣẹ́mọṣẹ́ ìmọ̀-ẹ̀rọ",
+          "aláròṣe ohun tuntun",
+          "ẹ̀yà àìrídìmú inú ẹ̀rọ",
+          "olúkọ-kóòdù",
+          "onímọ̀ kóòdù"
+        ],
+        "tts": [
+          "akọ́ṣẹ́mọṣẹ́ ìmọ̀-ẹ̀rọ: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍💻": {
+        "default": [
+          "adúláwọ̀",
+          "akọ́ṣẹ́mọṣẹ́ ìmọ̀-ẹ̀rọ",
+          "aláròṣe ohun tuntun",
+          "ẹ̀yà àìrídìmú inú ẹ̀rọ",
+          "olúkọ-kóòdù",
+          "onímọ̀ kóòdù"
+        ],
+        "tts": [
+          "akọ́ṣẹ́mọṣẹ́ ìmọ̀-ẹ̀rọ: adúláwọ̀"
+        ]
+      },
       "👨🏻‍💻": {
         "default": [
           "amọ́lára",
@@ -10432,6 +11279,71 @@
         ],
         "tts": [
           "obìrin onímọ̀ ẹ̀rọ: adúláwọ̀"
+        ]
+      },
+      "🧑🏻‍🎤": {
+        "default": [
+          "adánilárayá",
+          "akọrin",
+          "amọ́lára",
+          "ìràwọ̀",
+          "jó lẹ́sọ̀lẹ́sọ̀ sí orin",
+          "òṣèré"
+        ],
+        "tts": [
+          "akọrin: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🎤": {
+        "default": [
+          "adánilárayá",
+          "akọrin",
+          "amọ́lára díẹ̀",
+          "ìràwọ̀",
+          "jó lẹ́sọ̀lẹ́sọ̀ sí orin",
+          "òṣèré"
+        ],
+        "tts": [
+          "akọrin: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🎤": {
+        "default": [
+          "adánilárayá",
+          "akọrin",
+          "amọ́láwọ̀ díẹ̀",
+          "ìràwọ̀",
+          "jó lẹ́sọ̀lẹ́sọ̀ sí orin",
+          "òṣèré"
+        ],
+        "tts": [
+          "akọrin: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🎤": {
+        "default": [
+          "adánilárayá",
+          "adúláwọ̀ díẹ̀",
+          "akọrin",
+          "ìràwọ̀",
+          "jó lẹ́sọ̀lẹ́sọ̀ sí orin",
+          "òṣèré"
+        ],
+        "tts": [
+          "akọrin: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🎤": {
+        "default": [
+          "adánilárayá",
+          "adúláwọ̀",
+          "akọrin",
+          "ìràwọ̀",
+          "jó lẹ́sọ̀lẹ́sọ̀ sí orin",
+          "òṣèré"
+        ],
+        "tts": [
+          "akọrin: adúláwọ̀"
         ]
       },
       "👨🏻‍🎤": {
@@ -10584,6 +11496,56 @@
           "obìnrin olórin: adúláwọ̀"
         ]
       },
+      "🧑🏻‍🎨": {
+        "default": [
+          "amọ́lára",
+          "aṣẹ̀dá àwòrán",
+          "àtẹ àwọ̀ ìyàwòrán"
+        ],
+        "tts": [
+          "aṣẹ̀dá àwòrán: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🎨": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "aṣẹ̀dá àwòrán",
+          "àtẹ àwọ̀ ìyàwòrán"
+        ],
+        "tts": [
+          "aṣẹ̀dá àwòrán: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🎨": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "aṣẹ̀dá àwòrán",
+          "àtẹ àwọ̀ ìyàwòrán"
+        ],
+        "tts": [
+          "aṣẹ̀dá àwòrán: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🎨": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "aṣẹ̀dá àwòrán",
+          "àtẹ àwọ̀ ìyàwòrán"
+        ],
+        "tts": [
+          "aṣẹ̀dá àwòrán: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🎨": {
+        "default": [
+          "adúláwọ̀",
+          "aṣẹ̀dá àwòrán",
+          "àtẹ àwọ̀ ìyàwòrán"
+        ],
+        "tts": [
+          "aṣẹ̀dá àwòrán: adúláwọ̀"
+        ]
+      },
       "👨🏻‍🎨": {
         "default": [
           "amọ́lára",
@@ -10692,6 +11654,56 @@
         ],
         "tts": [
           "obìrin òṣèré: adúláwọ̀"
+        ]
+      },
+      "🧑🏻‍✈": {
+        "default": [
+          "amọ́lára",
+          "atukọ̀-òfurufú",
+          "ọkọ̀-òfurufú"
+        ],
+        "tts": [
+          "atukọ̀-òfurufú: amọ́lára"
+        ]
+      },
+      "🧑🏼‍✈": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "atukọ̀-òfurufú",
+          "ọkọ̀-òfurufú"
+        ],
+        "tts": [
+          "atukọ̀-òfurufú: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍✈": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "atukọ̀-òfurufú",
+          "ọkọ̀-òfurufú"
+        ],
+        "tts": [
+          "atukọ̀-òfurufú: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍✈": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "atukọ̀-òfurufú",
+          "ọkọ̀-òfurufú"
+        ],
+        "tts": [
+          "atukọ̀-òfurufú: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍✈": {
+        "default": [
+          "adúláwọ̀",
+          "atukọ̀-òfurufú",
+          "ọkọ̀-òfurufú"
+        ],
+        "tts": [
+          "atukọ̀-òfurufú: adúláwọ̀"
         ]
       },
       "👨🏻‍✈": {
@@ -10814,6 +11826,56 @@
           "obìrin awa ọkọ́ bàlú: adúláwọ̀"
         ]
       },
+      "🧑🏻‍🚀": {
+        "default": [
+          "amọ́lára",
+          "arìnrìn-àjò lọ sí ayé mìíràn",
+          "rọ́kẹ́ẹ̀tì"
+        ],
+        "tts": [
+          "arìnrìn-àjò lọ sí ayé mìíràn: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🚀": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "arìnrìn-àjò lọ sí ayé mìíràn",
+          "rọ́kẹ́ẹ̀tì"
+        ],
+        "tts": [
+          "arìnrìn-àjò lọ sí ayé mìíràn: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🚀": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "arìnrìn-àjò lọ sí ayé mìíràn",
+          "rọ́kẹ́ẹ̀tì"
+        ],
+        "tts": [
+          "arìnrìn-àjò lọ sí ayé mìíràn: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🚀": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "arìnrìn-àjò lọ sí ayé mìíràn",
+          "rọ́kẹ́ẹ̀tì"
+        ],
+        "tts": [
+          "arìnrìn-àjò lọ sí ayé mìíràn: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🚀": {
+        "default": [
+          "adúláwọ̀",
+          "arìnrìn-àjò lọ sí ayé mìíràn",
+          "rọ́kẹ́ẹ̀tì"
+        ],
+        "tts": [
+          "arìnrìn-àjò lọ sí ayé mìíràn: adúláwọ̀"
+        ]
+      },
       "👨🏻‍🚀": {
         "default": [
           "amọ́lára",
@@ -10823,7 +11885,7 @@
           "rọ́kẹ̀tì"
         ],
         "tts": [
-          "ọkùnrin olùwádìí inú òṣùpá ọkùnrin: amọ́lára"
+          "ọkùnrin olùwádìí inú òṣùpá: amọ́lára"
         ]
       },
       "👨🏼‍🚀": {
@@ -10835,7 +11897,7 @@
           "rọ́kẹ̀tì"
         ],
         "tts": [
-          "ọkùnrin olùwádìí inú òṣùpá ọkùnrin: amọ́lára díẹ̀"
+          "ọkùnrin olùwádìí inú òṣùpá: amọ́lára díẹ̀"
         ]
       },
       "👨🏽‍🚀": {
@@ -10847,7 +11909,7 @@
           "rọ́kẹ̀tì"
         ],
         "tts": [
-          "ọkùnrin olùwádìí inú òṣùpá ọkùnrin: amọ́láwọ̀ díẹ̀"
+          "ọkùnrin olùwádìí inú òṣùpá: amọ́láwọ̀ díẹ̀"
         ]
       },
       "👨🏾‍🚀": {
@@ -10859,7 +11921,7 @@
           "rọ́kẹ̀tì"
         ],
         "tts": [
-          "ọkùnrin olùwádìí inú òṣùpá ọkùnrin: adúláwọ̀ díẹ̀"
+          "ọkùnrin olùwádìí inú òṣùpá: adúláwọ̀ díẹ̀"
         ]
       },
       "👨🏿‍🚀": {
@@ -10871,7 +11933,7 @@
           "rọ́kẹ̀tì"
         ],
         "tts": [
-          "ọkùnrin olùwádìí inú òṣùpá ọkùnrin: adúláwọ̀"
+          "ọkùnrin olùwádìí inú òṣùpá: adúláwọ̀"
         ]
       },
       "👩🏻‍🚀": {
@@ -10932,6 +11994,56 @@
         ],
         "tts": [
           "obìrinolùwádìí inú òṣùpá: adúláwọ̀"
+        ]
+      },
+      "🧑🏻‍🚒": {
+        "default": [
+          "amọ́lára",
+          "ọkọ̀ panápaná",
+          "panápaná"
+        ],
+        "tts": [
+          "panápaná: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🚒": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ọkọ̀ panápaná",
+          "panápaná"
+        ],
+        "tts": [
+          "panápaná: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🚒": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ọkọ̀ panápaná",
+          "panápaná"
+        ],
+        "tts": [
+          "panápaná: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🚒": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ọkọ̀ panápaná",
+          "panápaná"
+        ],
+        "tts": [
+          "panápaná: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🚒": {
+        "default": [
+          "adúláwọ̀",
+          "ọkọ̀ panápaná",
+          "panápaná"
+        ],
+        "tts": [
+          "panápaná: adúláwọ̀"
         ]
       },
       "👨🏻‍🚒": {
@@ -12284,6 +13396,116 @@
           "Ọkunrin Pẹlu Kootu: adúláwọ̀"
         ]
       },
+      "🤵🏻‍♂": {
+        "default": [
+          "amọ́lára",
+          "kóòtù àwọ̀lọsóde ìrọ̀lẹ́",
+          "ọkùnrin",
+          "ọkùnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́"
+        ],
+        "tts": [
+          "ọkùnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́: amọ́lára"
+        ]
+      },
+      "🤵🏼‍♂": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "kóòtù àwọ̀lọsóde ìrọ̀lẹ́",
+          "ọkùnrin",
+          "ọkùnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́"
+        ],
+        "tts": [
+          "ọkùnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́: amọ́lára díẹ̀"
+        ]
+      },
+      "🤵🏽‍♂": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "kóòtù àwọ̀lọsóde ìrọ̀lẹ́",
+          "ọkùnrin",
+          "ọkùnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́"
+        ],
+        "tts": [
+          "ọkùnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🤵🏾‍♂": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "kóòtù àwọ̀lọsóde ìrọ̀lẹ́",
+          "ọkùnrin",
+          "ọkùnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́"
+        ],
+        "tts": [
+          "ọkùnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🤵🏿‍♂": {
+        "default": [
+          "adúláwọ̀",
+          "kóòtù àwọ̀lọsóde ìrọ̀lẹ́",
+          "ọkùnrin",
+          "ọkùnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́"
+        ],
+        "tts": [
+          "ọkùnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́: adúláwọ̀"
+        ]
+      },
+      "🤵🏻‍♀": {
+        "default": [
+          "amọ́lára",
+          "kóòtù àwọ̀lọsóde ìrọ̀lẹ́",
+          "obìnrin",
+          "obìnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́"
+        ],
+        "tts": [
+          "obìnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́: amọ́lára"
+        ]
+      },
+      "🤵🏼‍♀": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "kóòtù àwọ̀lọsóde ìrọ̀lẹ́",
+          "obìnrin",
+          "obìnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́"
+        ],
+        "tts": [
+          "obìnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́: amọ́lára díẹ̀"
+        ]
+      },
+      "🤵🏽‍♀": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "kóòtù àwọ̀lọsóde ìrọ̀lẹ́",
+          "obìnrin",
+          "obìnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́"
+        ],
+        "tts": [
+          "obìnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🤵🏾‍♀": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "kóòtù àwọ̀lọsóde ìrọ̀lẹ́",
+          "obìnrin",
+          "obìnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́"
+        ],
+        "tts": [
+          "obìnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🤵🏿‍♀": {
+        "default": [
+          "adúláwọ̀",
+          "kóòtù àwọ̀lọsóde ìrọ̀lẹ́",
+          "obìnrin",
+          "obìnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́"
+        ],
+        "tts": [
+          "obìnrin tó wọ kóòtù ìlọsóde ìrọ̀lẹ́: adúláwọ̀"
+        ]
+      },
       "👰🏻": {
         "default": [
           "amọ́lára",
@@ -12342,6 +13564,116 @@
         ],
         "tts": [
           "Iyawo Pẹlu Iboju: adúláwọ̀"
+        ]
+      },
+      "👰🏻‍♂": {
+        "default": [
+          "amọ́lára",
+          "aṣọ ìbojú",
+          "ọkùnrin",
+          "ọkùnrin tó fi aṣọ bojú"
+        ],
+        "tts": [
+          "ọkùnrin tó fi aṣọ bojú: amọ́lára"
+        ]
+      },
+      "👰🏼‍♂": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "aṣọ ìbojú",
+          "ọkùnrin",
+          "ọkùnrin tó fi aṣọ bojú"
+        ],
+        "tts": [
+          "ọkùnrin tó fi aṣọ bojú: amọ́lára díẹ̀"
+        ]
+      },
+      "👰🏽‍♂": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "aṣọ ìbojú",
+          "ọkùnrin",
+          "ọkùnrin tó fi aṣọ bojú"
+        ],
+        "tts": [
+          "ọkùnrin tó fi aṣọ bojú: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "👰🏾‍♂": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "aṣọ ìbojú",
+          "ọkùnrin",
+          "ọkùnrin tó fi aṣọ bojú"
+        ],
+        "tts": [
+          "ọkùnrin tó fi aṣọ bojú: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "👰🏿‍♂": {
+        "default": [
+          "adúláwọ̀",
+          "aṣọ ìbojú",
+          "ọkùnrin",
+          "ọkùnrin tó fi aṣọ bojú"
+        ],
+        "tts": [
+          "ọkùnrin tó fi aṣọ bojú: adúláwọ̀"
+        ]
+      },
+      "👰🏻‍♀": {
+        "default": [
+          "amọ́lára",
+          "aṣọ ìbojú",
+          "obìnrin",
+          "obìnrin tó fi aṣọ bojú"
+        ],
+        "tts": [
+          "obìnrin tó fi aṣọ bojú: amọ́lára"
+        ]
+      },
+      "👰🏼‍♀": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "aṣọ ìbojú",
+          "obìnrin",
+          "obìnrin tó fi aṣọ bojú"
+        ],
+        "tts": [
+          "obìnrin tó fi aṣọ bojú: amọ́lára díẹ̀"
+        ]
+      },
+      "👰🏽‍♀": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "aṣọ ìbojú",
+          "obìnrin",
+          "obìnrin tó fi aṣọ bojú"
+        ],
+        "tts": [
+          "obìnrin tó fi aṣọ bojú: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "👰🏾‍♀": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "aṣọ ìbojú",
+          "obìnrin",
+          "obìnrin tó fi aṣọ bojú"
+        ],
+        "tts": [
+          "obìnrin tó fi aṣọ bojú: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "👰🏿‍♀": {
+        "default": [
+          "adúláwọ̀",
+          "aṣọ ìbojú",
+          "obìnrin",
+          "obìnrin tó fi aṣọ bojú"
+        ],
+        "tts": [
+          "obìnrin tó fi aṣọ bojú: adúláwọ̀"
         ]
       },
       "🤰🏻": {
@@ -12589,6 +13921,201 @@
           "ìfọ́mọlọ́yàn: adúláwọ̀"
         ]
       },
+      "👩🏻‍🍼": {
+        "default": [
+          "amọ́lára",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "obìnrin",
+          "obìnrin tó ń fọ́mọ lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "obìnrin tó ń fọ́mọ lóúnjẹ: amọ́lára"
+        ]
+      },
+      "👩🏼‍🍼": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "obìnrin",
+          "obìnrin tó ń fọ́mọ lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "obìnrin tó ń fọ́mọ lóúnjẹ: amọ́lára díẹ̀"
+        ]
+      },
+      "👩🏽‍🍼": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "obìnrin",
+          "obìnrin tó ń fọ́mọ lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "obìnrin tó ń fọ́mọ lóúnjẹ: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "👩🏾‍🍼": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "obìnrin",
+          "obìnrin tó ń fọ́mọ lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "obìnrin tó ń fọ́mọ lóúnjẹ: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "👩🏿‍🍼": {
+        "default": [
+          "adúláwọ̀",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "obìnrin",
+          "obìnrin tó ń fọ́mọ lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "obìnrin tó ń fọ́mọ lóúnjẹ: adúláwọ̀"
+        ]
+      },
+      "👨🏻‍🍼": {
+        "default": [
+          "amọ́lára",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "ọkùnrin",
+          "ọkùnrin tó ń fọ́mọ lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "ọkùnrin tó ń fọ́mọ lóúnjẹ: amọ́lára"
+        ]
+      },
+      "👨🏼‍🍼": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "ọkùnrin",
+          "ọkùnrin tó ń fọ́mọ lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "ọkùnrin tó ń fọ́mọ lóúnjẹ: amọ́lára díẹ̀"
+        ]
+      },
+      "👨🏽‍🍼": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "ọkùnrin",
+          "ọkùnrin tó ń fọ́mọ lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "ọkùnrin tó ń fọ́mọ lóúnjẹ: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "👨🏾‍🍼": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "ọkùnrin",
+          "ọkùnrin tó ń fọ́mọ lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "ọkùnrin tó ń fọ́mọ lóúnjẹ: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "👨🏿‍🍼": {
+        "default": [
+          "adúláwọ̀",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "ọkùnrin",
+          "ọkùnrin tó ń fọ́mọ lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "ọkùnrin tó ń fọ́mọ lóúnjẹ: adúláwọ̀"
+        ]
+      },
+      "🧑🏻‍🍼": {
+        "default": [
+          "amọ́lára",
+          "ẹnìkan",
+          "ẹnìkan tó ń fọ́mọ lóúnjẹ",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "ẹnìkan tó ń fọ́mọ lóúnjẹ: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🍼": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ẹnìkan",
+          "ẹnìkan tó ń fọ́mọ lóúnjẹ",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "ẹnìkan tó ń fọ́mọ lóúnjẹ: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🍼": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ẹnìkan",
+          "ẹnìkan tó ń fọ́mọ lóúnjẹ",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "ẹnìkan tó ń fọ́mọ lóúnjẹ: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🍼": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ẹnìkan",
+          "ẹnìkan tó ń fọ́mọ lóúnjẹ",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "ẹnìkan tó ń fọ́mọ lóúnjẹ: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🍼": {
+        "default": [
+          "adúláwọ̀",
+          "ẹnìkan",
+          "ẹnìkan tó ń fọ́mọ lóúnjẹ",
+          "fífọ́mọ lọ́yàn",
+          "fífúni lóúnjẹ",
+          "ọmọ-ọwọ́"
+        ],
+        "tts": [
+          "ẹnìkan tó ń fọ́mọ lóúnjẹ: adúláwọ̀"
+        ]
+      },
       "👼🏻": {
         "default": [
           "àlá",
@@ -12789,6 +14316,61 @@
           "Arabinrin Keresi: adúláwọ̀"
         ]
       },
+      "🧑🏻‍🎄": {
+        "default": [
+          "amọ́lára",
+          "claus",
+          "kérésìmesì",
+          "mx claus"
+        ],
+        "tts": [
+          "mx claus: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🎄": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "claus",
+          "kérésìmesì",
+          "mx claus"
+        ],
+        "tts": [
+          "mx claus: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🎄": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "claus",
+          "kérésìmesì",
+          "mx claus"
+        ],
+        "tts": [
+          "mx claus: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🎄": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "claus",
+          "kérésìmesì",
+          "mx claus"
+        ],
+        "tts": [
+          "mx claus: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🎄": {
+        "default": [
+          "adúláwọ̀",
+          "claus",
+          "kérésìmesì",
+          "mx claus"
+        ],
+        "tts": [
+          "mx claus: adúláwọ̀"
+        ]
+      },
       "🦸🏻": {
         "default": [
           "akin nlá",
@@ -12859,6 +14441,136 @@
           "akọni alágbára: adúláwọ̀"
         ]
       },
+      "🦸🏻‍♂": {
+        "default": [
+          "agbára ńlá",
+          "akọni",
+          "amọ́lára",
+          "dára",
+          "ọkùnrin",
+          "ọkùnrin akọni ńlá"
+        ],
+        "tts": [
+          "ọkùnrin akọni ńlá: amọ́lára"
+        ]
+      },
+      "🦸🏼‍♂": {
+        "default": [
+          "agbára ńlá",
+          "akọni",
+          "amọ́lára díẹ̀",
+          "dára",
+          "ọkùnrin",
+          "ọkùnrin akọni ńlá"
+        ],
+        "tts": [
+          "ọkùnrin akọni ńlá: amọ́lára díẹ̀"
+        ]
+      },
+      "🦸🏽‍♂": {
+        "default": [
+          "agbára ńlá",
+          "akọni",
+          "amọ́láwọ̀ díẹ̀",
+          "dára",
+          "ọkùnrin",
+          "ọkùnrin akọni ńlá"
+        ],
+        "tts": [
+          "ọkùnrin akọni ńlá: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🦸🏾‍♂": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "agbára ńlá",
+          "akọni",
+          "dára",
+          "ọkùnrin",
+          "ọkùnrin akọni ńlá"
+        ],
+        "tts": [
+          "ọkùnrin akọni ńlá: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🦸🏿‍♂": {
+        "default": [
+          "adúláwọ̀",
+          "agbára ńlá",
+          "akọni",
+          "dára",
+          "ọkùnrin",
+          "ọkùnrin akọni ńlá"
+        ],
+        "tts": [
+          "ọkùnrin akọni ńlá: adúláwọ̀"
+        ]
+      },
+      "🦸🏻‍♀": {
+        "default": [
+          "agbára ńlá",
+          "akọni",
+          "amọ́lára",
+          "dára",
+          "obìnrin",
+          "obìnrin akọni ńlá"
+        ],
+        "tts": [
+          "obìnrin akọni ńlá: amọ́lára"
+        ]
+      },
+      "🦸🏼‍♀": {
+        "default": [
+          "agbára ńlá",
+          "akọni",
+          "amọ́lára díẹ̀",
+          "dára",
+          "obìnrin",
+          "obìnrin akọni ńlá"
+        ],
+        "tts": [
+          "obìnrin akọni ńlá: amọ́lára díẹ̀"
+        ]
+      },
+      "🦸🏽‍♀": {
+        "default": [
+          "agbára ńlá",
+          "akọni",
+          "amọ́láwọ̀ díẹ̀",
+          "dára",
+          "obìnrin",
+          "obìnrin akọni ńlá"
+        ],
+        "tts": [
+          "obìnrin akọni ńlá: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🦸🏾‍♀": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "agbára ńlá",
+          "akọni",
+          "dára",
+          "obìnrin",
+          "obìnrin akọni ńlá"
+        ],
+        "tts": [
+          "obìnrin akọni ńlá: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🦸🏿‍♀": {
+        "default": [
+          "adúláwọ̀",
+          "agbára ńlá",
+          "akọni",
+          "dára",
+          "obìnrin",
+          "obìnrin akọni ńlá"
+        ],
+        "tts": [
+          "obìnrin akọni ńlá: adúláwọ̀"
+        ]
+      },
       "🦹🏻": {
         "default": [
           "[búburú",
@@ -12922,6 +14634,146 @@
         ],
         "tts": [
           "alátakọ̀ alágbára: adúláwọ̀"
+        ]
+      },
+      "🦹🏻‍♂": {
+        "default": [
+          "agbára ńlá",
+          "amọ́lára",
+          "aṣèbájẹ́",
+          "ibi",
+          "ọ̀daràn",
+          "ọkùnrin",
+          "ọkùnrin aṣèbàjẹ́ ńlá"
+        ],
+        "tts": [
+          "ọkùnrin aṣèbàjẹ́ ńlá: amọ́lára"
+        ]
+      },
+      "🦹🏼‍♂": {
+        "default": [
+          "agbára ńlá",
+          "amọ́lára díẹ̀",
+          "aṣèbájẹ́",
+          "ibi",
+          "ọ̀daràn",
+          "ọkùnrin",
+          "ọkùnrin aṣèbàjẹ́ ńlá"
+        ],
+        "tts": [
+          "ọkùnrin aṣèbàjẹ́ ńlá: amọ́lára díẹ̀"
+        ]
+      },
+      "🦹🏽‍♂": {
+        "default": [
+          "agbára ńlá",
+          "amọ́láwọ̀ díẹ̀",
+          "aṣèbájẹ́",
+          "ibi",
+          "ọ̀daràn",
+          "ọkùnrin",
+          "ọkùnrin aṣèbàjẹ́ ńlá"
+        ],
+        "tts": [
+          "ọkùnrin aṣèbàjẹ́ ńlá: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🦹🏾‍♂": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "agbára ńlá",
+          "aṣèbájẹ́",
+          "ibi",
+          "ọ̀daràn",
+          "ọkùnrin",
+          "ọkùnrin aṣèbàjẹ́ ńlá"
+        ],
+        "tts": [
+          "ọkùnrin aṣèbàjẹ́ ńlá: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🦹🏿‍♂": {
+        "default": [
+          "adúláwọ̀",
+          "agbára ńlá",
+          "aṣèbájẹ́",
+          "ibi",
+          "ọ̀daràn",
+          "ọkùnrin",
+          "ọkùnrin aṣèbàjẹ́ ńlá"
+        ],
+        "tts": [
+          "ọkùnrin aṣèbàjẹ́ ńlá: adúláwọ̀"
+        ]
+      },
+      "🦹🏻‍♀": {
+        "default": [
+          "agbára ńlá",
+          "amọ́lára",
+          "aṣèbàjẹ́",
+          "ibi",
+          "ọbìnrin",
+          "obìnrin aṣèbàjẹ́ ńlá",
+          "ọ̀daràn"
+        ],
+        "tts": [
+          "obìnrin aṣèbàjẹ́ ńlá: amọ́lára"
+        ]
+      },
+      "🦹🏼‍♀": {
+        "default": [
+          "agbára ńlá",
+          "amọ́lára díẹ̀",
+          "aṣèbàjẹ́",
+          "ibi",
+          "ọbìnrin",
+          "obìnrin aṣèbàjẹ́ ńlá",
+          "ọ̀daràn"
+        ],
+        "tts": [
+          "obìnrin aṣèbàjẹ́ ńlá: amọ́lára díẹ̀"
+        ]
+      },
+      "🦹🏽‍♀": {
+        "default": [
+          "agbára ńlá",
+          "amọ́láwọ̀ díẹ̀",
+          "aṣèbàjẹ́",
+          "ibi",
+          "ọbìnrin",
+          "obìnrin aṣèbàjẹ́ ńlá",
+          "ọ̀daràn"
+        ],
+        "tts": [
+          "obìnrin aṣèbàjẹ́ ńlá: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🦹🏾‍♀": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "agbára ńlá",
+          "aṣèbàjẹ́",
+          "ibi",
+          "ọbìnrin",
+          "obìnrin aṣèbàjẹ́ ńlá",
+          "ọ̀daràn"
+        ],
+        "tts": [
+          "obìnrin aṣèbàjẹ́ ńlá: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🦹🏿‍♀": {
+        "default": [
+          "adúláwọ̀",
+          "agbára ńlá",
+          "aṣèbàjẹ́",
+          "ibi",
+          "ọbìnrin",
+          "obìnrin aṣèbàjẹ́ ńlá",
+          "ọ̀daràn"
+        ],
+        "tts": [
+          "obìnrin aṣèbàjẹ́ ńlá: adúláwọ̀"
         ]
       },
       "🧙🏻": {
@@ -13718,7 +15570,7 @@
           "ojú"
         ],
         "tts": [
-          "ẹni N gba Iṣẹ: amọ́lára"
+          "ẹni N gba Ifọwọwọnilara: amọ́lára"
         ]
       },
       "💆🏼": {
@@ -13730,7 +15582,7 @@
           "ojú"
         ],
         "tts": [
-          "ẹni N gba Iṣẹ: amọ́lára díẹ̀"
+          "ẹni N gba Ifọwọwọnilara: amọ́lára díẹ̀"
         ]
       },
       "💆🏽": {
@@ -13742,7 +15594,7 @@
           "ojú"
         ],
         "tts": [
-          "ẹni N gba Iṣẹ: amọ́láwọ̀ díẹ̀"
+          "ẹni N gba Ifọwọwọnilara: amọ́láwọ̀ díẹ̀"
         ]
       },
       "💆🏾": {
@@ -13754,7 +15606,7 @@
           "ojú"
         ],
         "tts": [
-          "ẹni N gba Iṣẹ: adúláwọ̀ díẹ̀"
+          "ẹni N gba Ifọwọwọnilara: adúláwọ̀ díẹ̀"
         ]
       },
       "💆🏿": {
@@ -13766,7 +15618,7 @@
           "ojú"
         ],
         "tts": [
-          "ẹni N gba Iṣẹ: adúláwọ̀"
+          "ẹni N gba Ifọwọwọnilara: adúláwọ̀"
         ]
       },
       "💆🏻‍♂": {
@@ -13778,7 +15630,7 @@
           "ọkùnrin tí ń gba ìfiránṣẹ́"
         ],
         "tts": [
-          "ọkùnrin tí ń gba ìfiránṣẹ́: amọ́lára"
+          "ọkùnrin tí ń gba ifọwọwọnilara: amọ́lára"
         ]
       },
       "💆🏼‍♂": {
@@ -13790,7 +15642,7 @@
           "ọkùnrin tí ń gba ìfiránṣẹ́"
         ],
         "tts": [
-          "ọkùnrin tí ń gba ìfiránṣẹ́: amọ́lára díẹ̀"
+          "ọkùnrin tí ń gba ifọwọwọnilara: amọ́lára díẹ̀"
         ]
       },
       "💆🏽‍♂": {
@@ -13802,7 +15654,7 @@
           "ọkùnrin tí ń gba ìfiránṣẹ́"
         ],
         "tts": [
-          "ọkùnrin tí ń gba ìfiránṣẹ́: amọ́láwọ̀ díẹ̀"
+          "ọkùnrin tí ń gba ifọwọwọnilara: amọ́láwọ̀ díẹ̀"
         ]
       },
       "💆🏾‍♂": {
@@ -13814,7 +15666,7 @@
           "ọkùnrin tí ń gba ìfiránṣẹ́"
         ],
         "tts": [
-          "ọkùnrin tí ń gba ìfiránṣẹ́: adúláwọ̀ díẹ̀"
+          "ọkùnrin tí ń gba ifọwọwọnilara: adúláwọ̀ díẹ̀"
         ]
       },
       "💆🏿‍♂": {
@@ -13826,7 +15678,7 @@
           "ọkùnrin tí ń gba ìfiránṣẹ́"
         ],
         "tts": [
-          "ọkùnrin tí ń gba ìfiránṣẹ́: adúláwọ̀"
+          "ọkùnrin tí ń gba ifọwọwọnilara: adúláwọ̀"
         ]
       },
       "💆🏻‍♀": {
@@ -13838,7 +15690,7 @@
           "ojú"
         ],
         "tts": [
-          "obìnrin tí ń gba ìfiránṣẹ́: amọ́lára"
+          "obìnrin tí ń gba ifọwọwọnilara: amọ́lára"
         ]
       },
       "💆🏼‍♀": {
@@ -13850,7 +15702,7 @@
           "ojú"
         ],
         "tts": [
-          "obìnrin tí ń gba ìfiránṣẹ́: amọ́lára díẹ̀"
+          "obìnrin tí ń gba ifọwọwọnilara: amọ́lára díẹ̀"
         ]
       },
       "💆🏽‍♀": {
@@ -13862,7 +15714,7 @@
           "ojú"
         ],
         "tts": [
-          "obìnrin tí ń gba ìfiránṣẹ́: amọ́láwọ̀ díẹ̀"
+          "obìnrin tí ń gba ifọwọwọnilara: amọ́láwọ̀ díẹ̀"
         ]
       },
       "💆🏾‍♀": {
@@ -13874,7 +15726,7 @@
           "ojú"
         ],
         "tts": [
-          "obìnrin tí ń gba ìfiránṣẹ́: adúláwọ̀ díẹ̀"
+          "obìnrin tí ń gba ifọwọwọnilara: adúláwọ̀ díẹ̀"
         ]
       },
       "💆🏿‍♀": {
@@ -13886,7 +15738,7 @@
           "ojú"
         ],
         "tts": [
-          "obìnrin tí ń gba ìfiránṣẹ́: adúláwọ̀"
+          "obìnrin tí ń gba ifọwọwọnilara: adúláwọ̀"
         ]
       },
       "💇🏻": {
@@ -14229,6 +16081,237 @@
           "obìnrin tí ń rìn: adúláwọ̀"
         ]
       },
+      "🚶‍➡": {
+        "default": [
+          "Ẹni N Rin",
+          "ìdojúkọ",
+          "ìrìn",
+          "ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "Ẹni N Rin: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶🏻‍➡": {
+        "default": [
+          "amọ́lára",
+          "Ẹni N Rin",
+          "ìdojúkọ",
+          "ìrìn",
+          "ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "Ẹni N Rin: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶🏼‍➡": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "Ẹni N Rin",
+          "ìdojúkọ",
+          "ìrìn",
+          "ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "Ẹni N Rin: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶🏽‍➡": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "Ẹni N Rin",
+          "ìdojúkọ",
+          "ìrìn",
+          "ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "Ẹni N Rin: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶🏾‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "Ẹni N Rin",
+          "ìdojúkọ",
+          "ìrìn",
+          "ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "Ẹni N Rin: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶🏿‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "Ẹni N Rin",
+          "ìdojúkọ",
+          "ìrìn",
+          "ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "Ẹni N Rin: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶‍♀‍➡": {
+        "default": [
+          "ìdojúkọ",
+          "ìrìn",
+          "obìnrin",
+          "obìnrin tí ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin tí ń rìn: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶🏻‍♀‍➡": {
+        "default": [
+          "amọ́lára",
+          "ìdojúkọ",
+          "ìrìn",
+          "obìnrin",
+          "obìnrin tí ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin tí ń rìn: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶🏼‍♀‍➡": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ìdojúkọ",
+          "ìrìn",
+          "obìnrin",
+          "obìnrin tí ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin tí ń rìn: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶🏽‍♀‍➡": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ìrìn",
+          "obìnrin",
+          "obìnrin tí ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin tí ń rìn: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶🏾‍♀‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ìrìn",
+          "obìnrin",
+          "obìnrin tí ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin tí ń rìn: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶🏿‍♀‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "ìdojúkọ",
+          "ìrìn",
+          "obìnrin",
+          "obìnrin tí ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin tí ń rìn: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶‍♂‍➡": {
+        "default": [
+          "ìdojúkọ",
+          "ìrìn",
+          "ọkùnrin",
+          "ọkùnrin tí ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin tí ń rìn: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶🏻‍♂‍➡": {
+        "default": [
+          "amọ́lára",
+          "ìdojúkọ",
+          "ìrìn",
+          "ọkùnrin",
+          "ọkùnrin tí ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin tí ń rìn: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶🏼‍♂‍➡": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ìdojúkọ",
+          "ìrìn",
+          "ọkùnrin",
+          "ọkùnrin tí ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin tí ń rìn: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶🏽‍♂‍➡": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ìrìn",
+          "ọkùnrin",
+          "ọkùnrin tí ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin tí ń rìn: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶🏾‍♂‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ìrìn",
+          "ọkùnrin",
+          "ọkùnrin tí ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin tí ń rìn: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🚶🏿‍♂‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "ìdojúkọ",
+          "ìrìn",
+          "ọkùnrin",
+          "ọkùnrin tí ń rìn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin tí ń rìn: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
       "🧍🏻": {
         "default": [
           "amọ́lára",
@@ -14284,6 +16367,116 @@
           "ènìyàn dídúró: adúláwọ̀"
         ]
       },
+      "🧍🏻‍♂": {
+        "default": [
+          "amọ́lára",
+          "ń dúró",
+          "ọkùnrin",
+          "ọkùnrin tó dúró"
+        ],
+        "tts": [
+          "ọkùnrin tó dúró: amọ́lára"
+        ]
+      },
+      "🧍🏼‍♂": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ń dúró",
+          "ọkùnrin",
+          "ọkùnrin tó dúró"
+        ],
+        "tts": [
+          "ọkùnrin tó dúró: amọ́lára díẹ̀"
+        ]
+      },
+      "🧍🏽‍♂": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ń dúró",
+          "ọkùnrin",
+          "ọkùnrin tó dúró"
+        ],
+        "tts": [
+          "ọkùnrin tó dúró: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧍🏾‍♂": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ń dúró",
+          "ọkùnrin",
+          "ọkùnrin tó dúró"
+        ],
+        "tts": [
+          "ọkùnrin tó dúró: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧍🏿‍♂": {
+        "default": [
+          "adúláwọ̀",
+          "ń dúró",
+          "ọkùnrin",
+          "ọkùnrin tó dúró"
+        ],
+        "tts": [
+          "ọkùnrin tó dúró: adúláwọ̀"
+        ]
+      },
+      "🧍🏻‍♀": {
+        "default": [
+          "amọ́lára",
+          "ń dúró",
+          "obìnrin",
+          "obìnrin tó dúró"
+        ],
+        "tts": [
+          "obìnrin tó dúró: amọ́lára"
+        ]
+      },
+      "🧍🏼‍♀": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ń dúró",
+          "obìnrin",
+          "obìnrin tó dúró"
+        ],
+        "tts": [
+          "obìnrin tó dúró: amọ́lára díẹ̀"
+        ]
+      },
+      "🧍🏽‍♀": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ń dúró",
+          "obìnrin",
+          "obìnrin tó dúró"
+        ],
+        "tts": [
+          "obìnrin tó dúró: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧍🏾‍♀": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ń dúró",
+          "obìnrin",
+          "obìnrin tó dúró"
+        ],
+        "tts": [
+          "obìnrin tó dúró: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧍🏿‍♀": {
+        "default": [
+          "adúláwọ̀",
+          "ń dúró",
+          "obìnrin",
+          "obìnrin tó dúró"
+        ],
+        "tts": [
+          "obìnrin tó dúró: adúláwọ̀"
+        ]
+      },
       "🧎🏻": {
         "default": [
           "amọ́lára",
@@ -14337,6 +16530,1601 @@
         ],
         "tts": [
           "ènìyàn kíkúnlẹ̀: adúláwọ̀"
+        ]
+      },
+      "🧎🏻‍♂": {
+        "default": [
+          "amọ́lára",
+          "ń kúnlẹ̀",
+          "ọkùnrin",
+          "ọkùnrin tó kúnlẹ̀"
+        ],
+        "tts": [
+          "ọkùnrin tó kúnlẹ̀: amọ́lára"
+        ]
+      },
+      "🧎🏼‍♂": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ń kúnlẹ̀",
+          "ọkùnrin",
+          "ọkùnrin tó kúnlẹ̀"
+        ],
+        "tts": [
+          "ọkùnrin tó kúnlẹ̀: amọ́lára díẹ̀"
+        ]
+      },
+      "🧎🏽‍♂": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ń kúnlẹ̀",
+          "ọkùnrin",
+          "ọkùnrin tó kúnlẹ̀"
+        ],
+        "tts": [
+          "ọkùnrin tó kúnlẹ̀: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧎🏾‍♂": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ń kúnlẹ̀",
+          "ọkùnrin",
+          "ọkùnrin tó kúnlẹ̀"
+        ],
+        "tts": [
+          "ọkùnrin tó kúnlẹ̀: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧎🏿‍♂": {
+        "default": [
+          "adúláwọ̀",
+          "ń kúnlẹ̀",
+          "ọkùnrin",
+          "ọkùnrin tó kúnlẹ̀"
+        ],
+        "tts": [
+          "ọkùnrin tó kúnlẹ̀: adúláwọ̀"
+        ]
+      },
+      "🧎🏻‍♀": {
+        "default": [
+          "amọ́lára",
+          "ń kúnlẹ̀",
+          "obìnrin",
+          "obìnrin tó kúnlẹ̀"
+        ],
+        "tts": [
+          "obìnrin tó kúnlẹ̀: amọ́lára"
+        ]
+      },
+      "🧎🏼‍♀": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ń kúnlẹ̀",
+          "obìnrin",
+          "obìnrin tó kúnlẹ̀"
+        ],
+        "tts": [
+          "obìnrin tó kúnlẹ̀: amọ́lára díẹ̀"
+        ]
+      },
+      "🧎🏽‍♀": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ń kúnlẹ̀",
+          "obìnrin",
+          "obìnrin tó kúnlẹ̀"
+        ],
+        "tts": [
+          "obìnrin tó kúnlẹ̀: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧎🏾‍♀": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ń kúnlẹ̀",
+          "obìnrin",
+          "obìnrin tó kúnlẹ̀"
+        ],
+        "tts": [
+          "obìnrin tó kúnlẹ̀: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧎🏿‍♀": {
+        "default": [
+          "adúláwọ̀",
+          "ń kúnlẹ̀",
+          "obìnrin",
+          "obìnrin tó kúnlẹ̀"
+        ],
+        "tts": [
+          "obìnrin tó kúnlẹ̀: adúláwọ̀"
+        ]
+      },
+      "🧎‍➡": {
+        "default": [
+          "ènìyàn kíkúnlẹ̀",
+          "ìdojúkọ",
+          "kíkúnlẹ̀",
+          "kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn kíkúnlẹ̀: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎🏻‍➡": {
+        "default": [
+          "amọ́lára",
+          "ènìyàn kíkúnlẹ̀",
+          "ìdojúkọ",
+          "kíkúnlẹ̀",
+          "kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn kíkúnlẹ̀: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎🏼‍➡": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ènìyàn kíkúnlẹ̀",
+          "ìdojúkọ",
+          "kíkúnlẹ̀",
+          "kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn kíkúnlẹ̀: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎🏽‍➡": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ènìyàn kíkúnlẹ̀",
+          "ìdojúkọ",
+          "kíkúnlẹ̀",
+          "kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn kíkúnlẹ̀: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎🏾‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ènìyàn kíkúnlẹ̀",
+          "ìdojúkọ",
+          "kíkúnlẹ̀",
+          "kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn kíkúnlẹ̀: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎🏿‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "ènìyàn kíkúnlẹ̀",
+          "ìdojúkọ",
+          "kíkúnlẹ̀",
+          "kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn kíkúnlẹ̀: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎‍♀‍➡": {
+        "default": [
+          "ìdojúkọ",
+          "ń kúnlẹ̀",
+          "obìnrin",
+          "obìnrin tó kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin tó kúnlẹ̀: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎🏻‍♀‍➡": {
+        "default": [
+          "amọ́lára",
+          "ìdojúkọ",
+          "ń kúnlẹ̀",
+          "obìnrin",
+          "obìnrin tó kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin tó kúnlẹ̀: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎🏼‍♀‍➡": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ìdojúkọ",
+          "ń kúnlẹ̀",
+          "obìnrin",
+          "obìnrin tó kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin tó kúnlẹ̀: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎🏽‍♀‍➡": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ń kúnlẹ̀",
+          "obìnrin",
+          "obìnrin tó kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin tó kúnlẹ̀: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎🏾‍♀‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ń kúnlẹ̀",
+          "obìnrin",
+          "obìnrin tó kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin tó kúnlẹ̀: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎🏿‍♀‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "ìdojúkọ",
+          "ń kúnlẹ̀",
+          "obìnrin",
+          "obìnrin tó kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin tó kúnlẹ̀: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎‍♂‍➡": {
+        "default": [
+          "ìdojúkọ",
+          "ń kúnlẹ̀",
+          "ọkùnrin",
+          "ọkùnrin tó kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin tó kúnlẹ̀: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎🏻‍♂‍➡": {
+        "default": [
+          "amọ́lára",
+          "ìdojúkọ",
+          "ń kúnlẹ̀",
+          "ọkùnrin",
+          "ọkùnrin tó kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin tó kúnlẹ̀: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎🏼‍♂‍➡": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ìdojúkọ",
+          "ń kúnlẹ̀",
+          "ọkùnrin",
+          "ọkùnrin tó kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin tó kúnlẹ̀: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎🏽‍♂‍➡": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ń kúnlẹ̀",
+          "ọkùnrin",
+          "ọkùnrin tó kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin tó kúnlẹ̀: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎🏾‍♂‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ń kúnlẹ̀",
+          "ọkùnrin",
+          "ọkùnrin tó kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin tó kúnlẹ̀: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧎🏿‍♂‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "ìdojúkọ",
+          "ń kúnlẹ̀",
+          "ọkùnrin",
+          "ọkùnrin tó kúnlẹ̀",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin tó kúnlẹ̀: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏻‍🦯": {
+        "default": [
+          "afọ́jú",
+          "amọ́lára",
+          "ènìyàn pẹ̀lú ọ̀pá funfun",
+          "ìráàyèsí"
+        ],
+        "tts": [
+          "ènìyàn pẹ̀lú ọ̀pá funfun: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🦯": {
+        "default": [
+          "afọ́jú",
+          "amọ́lára díẹ̀",
+          "ènìyàn pẹ̀lú ọ̀pá funfun",
+          "ìráàyèsí"
+        ],
+        "tts": [
+          "ènìyàn pẹ̀lú ọ̀pá funfun: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🦯": {
+        "default": [
+          "afọ́jú",
+          "amọ́láwọ̀ díẹ̀",
+          "ènìyàn pẹ̀lú ọ̀pá funfun",
+          "ìráàyèsí"
+        ],
+        "tts": [
+          "ènìyàn pẹ̀lú ọ̀pá funfun: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🦯": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "afọ́jú",
+          "ènìyàn pẹ̀lú ọ̀pá funfun",
+          "ìráàyèsí"
+        ],
+        "tts": [
+          "ènìyàn pẹ̀lú ọ̀pá funfun: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🦯": {
+        "default": [
+          "adúláwọ̀",
+          "afọ́jú",
+          "ènìyàn pẹ̀lú ọ̀pá funfun",
+          "ìráàyèsí"
+        ],
+        "tts": [
+          "ènìyàn pẹ̀lú ọ̀pá funfun: adúláwọ̀"
+        ]
+      },
+      "🧑‍🦯‍➡": {
+        "default": [
+          "afọ́jú",
+          "ènìyàn pẹ̀lú ọ̀pá funfun",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn pẹ̀lú ọ̀pá funfun: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "afọ́jú",
+          "amọ́lára",
+          "ènìyàn pẹ̀lú ọ̀pá funfun",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn pẹ̀lú ọ̀pá funfun: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏼‍🦯‍➡": {
+        "default": [
+          "afọ́jú",
+          "amọ́lára díẹ̀",
+          "ènìyàn pẹ̀lú ọ̀pá funfun",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn pẹ̀lú ọ̀pá funfun: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "afọ́jú",
+          "amọ́láwọ̀ díẹ̀",
+          "ènìyàn pẹ̀lú ọ̀pá funfun",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn pẹ̀lú ọ̀pá funfun: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "afọ́jú",
+          "ènìyàn pẹ̀lú ọ̀pá funfun",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn pẹ̀lú ọ̀pá funfun: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "afọ́jú",
+          "ènìyàn pẹ̀lú ọ̀pá funfun",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn pẹ̀lú ọ̀pá funfun: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏻‍🦯": {
+        "default": [
+          "afọ́jú",
+          "amọ́lára",
+          "ìráàyèsí",
+          "ọkùnrin",
+          "ọkùnrin pẹ̀lú ọ̀pá funfun"
+        ],
+        "tts": [
+          "ọkùnrin pẹ̀lú ọ̀pá funfun: amọ́lára"
+        ]
+      },
+      "👨🏼‍🦯": {
+        "default": [
+          "afọ́jú",
+          "amọ́lára díẹ̀",
+          "ìráàyèsí",
+          "ọkùnrin",
+          "ọkùnrin pẹ̀lú ọ̀pá funfun"
+        ],
+        "tts": [
+          "ọkùnrin pẹ̀lú ọ̀pá funfun: amọ́lára díẹ̀"
+        ]
+      },
+      "👨🏽‍🦯": {
+        "default": [
+          "afọ́jú",
+          "amọ́láwọ̀ díẹ̀",
+          "ìráàyèsí",
+          "ọkùnrin",
+          "ọkùnrin pẹ̀lú ọ̀pá funfun"
+        ],
+        "tts": [
+          "ọkùnrin pẹ̀lú ọ̀pá funfun: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "👨🏾‍🦯": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "afọ́jú",
+          "ìráàyèsí",
+          "ọkùnrin",
+          "ọkùnrin pẹ̀lú ọ̀pá funfun"
+        ],
+        "tts": [
+          "ọkùnrin pẹ̀lú ọ̀pá funfun: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "👨🏿‍🦯": {
+        "default": [
+          "adúláwọ̀",
+          "afọ́jú",
+          "ìráàyèsí",
+          "ọkùnrin",
+          "ọkùnrin pẹ̀lú ọ̀pá funfun"
+        ],
+        "tts": [
+          "ọkùnrin pẹ̀lú ọ̀pá funfun: adúláwọ̀"
+        ]
+      },
+      "👨‍🦯‍➡": {
+        "default": [
+          "afọ́jú",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "ọkùnrin",
+          "ọkùnrin pẹ̀lú ọ̀pá funfun",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin pẹ̀lú ọ̀pá funfun: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏻‍🦯‍➡": {
+        "default": [
+          "afọ́jú",
+          "amọ́lára",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "ọkùnrin",
+          "ọkùnrin pẹ̀lú ọ̀pá funfun",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin pẹ̀lú ọ̀pá funfun: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏼‍🦯‍➡": {
+        "default": [
+          "afọ́jú",
+          "amọ́lára díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "ọkùnrin",
+          "ọkùnrin pẹ̀lú ọ̀pá funfun",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin pẹ̀lú ọ̀pá funfun: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏽‍🦯‍➡": {
+        "default": [
+          "afọ́jú",
+          "amọ́láwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "ọkùnrin",
+          "ọkùnrin pẹ̀lú ọ̀pá funfun",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin pẹ̀lú ọ̀pá funfun: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏾‍🦯‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "afọ́jú",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "ọkùnrin",
+          "ọkùnrin pẹ̀lú ọ̀pá funfun",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin pẹ̀lú ọ̀pá funfun: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏿‍🦯‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "afọ́jú",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "ọkùnrin",
+          "ọkùnrin pẹ̀lú ọ̀pá funfun",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin pẹ̀lú ọ̀pá funfun: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏻‍🦯": {
+        "default": [
+          "afọ́jú",
+          "amọ́lára",
+          "ìráàyèsí",
+          "obìnrin",
+          "obìnrin pẹ̀lú ọ̀pá funfun"
+        ],
+        "tts": [
+          "obìnrin pẹ̀lú ọ̀pá funfun: amọ́lára"
+        ]
+      },
+      "👩🏼‍🦯": {
+        "default": [
+          "afọ́jú",
+          "amọ́lára díẹ̀",
+          "ìráàyèsí",
+          "obìnrin",
+          "obìnrin pẹ̀lú ọ̀pá funfun"
+        ],
+        "tts": [
+          "obìnrin pẹ̀lú ọ̀pá funfun: amọ́lára díẹ̀"
+        ]
+      },
+      "👩🏽‍🦯": {
+        "default": [
+          "afọ́jú",
+          "amọ́láwọ̀ díẹ̀",
+          "ìráàyèsí",
+          "obìnrin",
+          "obìnrin pẹ̀lú ọ̀pá funfun"
+        ],
+        "tts": [
+          "obìnrin pẹ̀lú ọ̀pá funfun: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "👩🏾‍🦯": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "afọ́jú",
+          "ìráàyèsí",
+          "obìnrin",
+          "obìnrin pẹ̀lú ọ̀pá funfun"
+        ],
+        "tts": [
+          "obìnrin pẹ̀lú ọ̀pá funfun: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "👩🏿‍🦯": {
+        "default": [
+          "adúláwọ̀",
+          "afọ́jú",
+          "ìráàyèsí",
+          "obìnrin",
+          "obìnrin pẹ̀lú ọ̀pá funfun"
+        ],
+        "tts": [
+          "obìnrin pẹ̀lú ọ̀pá funfun: adúláwọ̀"
+        ]
+      },
+      "👩‍🦯‍➡": {
+        "default": [
+          "afọ́jú",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "obìnrin",
+          "obìnrin pẹ̀lú ọ̀pá funfun",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin pẹ̀lú ọ̀pá funfun: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏻‍🦯‍➡": {
+        "default": [
+          "afọ́jú",
+          "amọ́lára",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "obìnrin",
+          "obìnrin pẹ̀lú ọ̀pá funfun",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin pẹ̀lú ọ̀pá funfun: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏼‍🦯‍➡": {
+        "default": [
+          "afọ́jú",
+          "amọ́lára díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "obìnrin",
+          "obìnrin pẹ̀lú ọ̀pá funfun",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin pẹ̀lú ọ̀pá funfun: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏽‍🦯‍➡": {
+        "default": [
+          "afọ́jú",
+          "amọ́láwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "obìnrin",
+          "obìnrin pẹ̀lú ọ̀pá funfun",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin pẹ̀lú ọ̀pá funfun: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏾‍🦯‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "afọ́jú",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "obìnrin",
+          "obìnrin pẹ̀lú ọ̀pá funfun",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin pẹ̀lú ọ̀pá funfun: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏿‍🦯‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "afọ́jú",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "obìnrin",
+          "obìnrin pẹ̀lú ọ̀pá funfun",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin pẹ̀lú ọ̀pá funfun: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏻‍🦼": {
+        "default": [
+          "amọ́lára",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🦼": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🦼": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🦼": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🦼": {
+        "default": [
+          "adúláwọ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: adúláwọ̀"
+        ]
+      },
+      "🧑‍🦼‍➡": {
+        "default": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏻‍🦼‍➡": {
+        "default": [
+          "amọ́lára",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏼‍🦼‍➡": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏽‍🦼‍➡": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏾‍🦼‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏿‍🦼‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏻‍🦼": {
+        "default": [
+          "amọ́lára",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́lára"
+        ]
+      },
+      "👨🏼‍🦼": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́lára díẹ̀"
+        ]
+      },
+      "👨🏽‍🦼": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "👨🏾‍🦼": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "👨🏿‍🦼": {
+        "default": [
+          "adúláwọ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: adúláwọ̀"
+        ]
+      },
+      "👨‍🦼‍➡": {
+        "default": [
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏻‍🦼‍➡": {
+        "default": [
+          "amọ́lára",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏼‍🦼‍➡": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏽‍🦼‍➡": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏾‍🦼‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏿‍🦼‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏻‍🦼": {
+        "default": [
+          "amọ́lára",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́lára"
+        ]
+      },
+      "👩🏼‍🦼": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́lára díẹ̀"
+        ]
+      },
+      "👩🏽‍🦼": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "👩🏾‍🦼": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "👩🏿‍🦼": {
+        "default": [
+          "adúláwọ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: adúláwọ̀"
+        ]
+      },
+      "👩‍🦼‍➡": {
+        "default": [
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏻‍🦼‍➡": {
+        "default": [
+          "amọ́lára",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏼‍🦼‍➡": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏽‍🦼‍➡": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏾‍🦼‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏿‍🦼‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn ẹlẹ́rọ-mọ́tò: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏻‍🦽": {
+        "default": [
+          "amọ́lára",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́lára"
+        ]
+      },
+      "🧑🏼‍🦽": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🦽": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🦽": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🦽": {
+        "default": [
+          "adúláwọ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: adúláwọ̀"
+        ]
+      },
+      "🧑‍🦽‍➡": {
+        "default": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏻‍🦽‍➡": {
+        "default": [
+          "amọ́lára",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏼‍🦽‍➡": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏽‍🦽‍➡": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏾‍🦽‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🧑🏿‍🦽‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ènìyàn nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏻‍🦽": {
+        "default": [
+          "amọ́lára",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́lára"
+        ]
+      },
+      "👨🏼‍🦽": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́lára díẹ̀"
+        ]
+      },
+      "👨🏽‍🦽": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "👨🏾‍🦽": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "👨🏿‍🦽": {
+        "default": [
+          "adúláwọ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: adúláwọ̀"
+        ]
+      },
+      "👨‍🦽‍➡": {
+        "default": [
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏻‍🦽‍➡": {
+        "default": [
+          "amọ́lára",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏼‍🦽‍➡": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏽‍🦽‍➡": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏾‍🦽‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👨🏿‍🦽‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "ọkùnrin",
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "ọkùnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏻‍🦽": {
+        "default": [
+          "amọ́lára",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́lára"
+        ]
+      },
+      "👩🏼‍🦽": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́lára díẹ̀"
+        ]
+      },
+      "👩🏽‍🦽": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "👩🏾‍🦽": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "👩🏿‍🦽": {
+        "default": [
+          "adúláwọ̀",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: adúláwọ̀"
+        ]
+      },
+      "👩‍🦽‍➡": {
+        "default": [
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏻‍🦽‍➡": {
+        "default": [
+          "amọ́lára",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏼‍🦽‍➡": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏽‍🦽‍➡": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏾‍🦽‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "👩🏿‍🦽‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "ìdojúkọ",
+          "ìráàyèsí",
+          "kẹ̀kẹ́ abirùn",
+          "obìnrin",
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìnrin nínú kẹ̀kẹ́-abirùn aláfọwọ́yí: adúláwọ̀ àtiìdojúkọ ọ̀tún"
         ]
       },
       "🏃🏻": {
@@ -14522,6 +18310,261 @@
         ],
         "tts": [
           "obìrin tí ń sáré: adúláwọ̀"
+        ]
+      },
+      "🏃‍➡": {
+        "default": [
+          "Ẹni N Sare",
+          "eré",
+          "ìdojúkọ",
+          "ọ̀tún",
+          "sáré"
+        ],
+        "tts": [
+          "Ẹni N Sare: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃🏻‍➡": {
+        "default": [
+          "amọ́lára",
+          "Ẹni N Sare",
+          "eré",
+          "ìdojúkọ",
+          "ọ̀tún",
+          "sáré"
+        ],
+        "tts": [
+          "Ẹni N Sare: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃🏼‍➡": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "Ẹni N Sare",
+          "eré",
+          "ìdojúkọ",
+          "ọ̀tún",
+          "sáré"
+        ],
+        "tts": [
+          "Ẹni N Sare: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃🏽‍➡": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "Ẹni N Sare",
+          "eré",
+          "ìdojúkọ",
+          "ọ̀tún",
+          "sáré"
+        ],
+        "tts": [
+          "Ẹni N Sare: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃🏾‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "Ẹni N Sare",
+          "eré",
+          "ìdojúkọ",
+          "ọ̀tún",
+          "sáré"
+        ],
+        "tts": [
+          "Ẹni N Sare: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃🏿‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "Ẹni N Sare",
+          "eré",
+          "ìdojúkọ",
+          "ọ̀tún",
+          "sáré"
+        ],
+        "tts": [
+          "Ẹni N Sare: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃‍♀‍➡": {
+        "default": [
+          "eré",
+          "eré ìdíje",
+          "ìdojúkọ",
+          "ń sáré",
+          "obìnrin",
+          "obìrin tí ń sáré",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìrin tí ń sáré: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃🏻‍♀‍➡": {
+        "default": [
+          "amọ́lára",
+          "eré",
+          "eré ìdíje",
+          "ìdojúkọ",
+          "ń sáré",
+          "obìnrin",
+          "obìrin tí ń sáré",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìrin tí ń sáré: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃🏼‍♀‍➡": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "eré",
+          "eré ìdíje",
+          "ìdojúkọ",
+          "ń sáré",
+          "obìnrin",
+          "obìrin tí ń sáré",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìrin tí ń sáré: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃🏽‍♀‍➡": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "eré",
+          "eré ìdíje",
+          "ìdojúkọ",
+          "ń sáré",
+          "obìnrin",
+          "obìrin tí ń sáré",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìrin tí ń sáré: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃🏾‍♀‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "eré",
+          "eré ìdíje",
+          "ìdojúkọ",
+          "ń sáré",
+          "obìnrin",
+          "obìrin tí ń sáré",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìrin tí ń sáré: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃🏿‍♀‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "eré",
+          "eré ìdíje",
+          "ìdojúkọ",
+          "ń sáré",
+          "obìnrin",
+          "obìrin tí ń sáré",
+          "ọ̀tún"
+        ],
+        "tts": [
+          "obìrin tí ń sáré: adúláwọ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃‍♂‍➡": {
+        "default": [
+          "eré",
+          "eré ìdíjẹ",
+          "ìdojúkọ",
+          "ọkùnrin",
+          "ọkùnrin tí ń sáré",
+          "ọ̀tún",
+          "sáré"
+        ],
+        "tts": [
+          "ọkùnrin tí ń sáré: ìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃🏻‍♂‍➡": {
+        "default": [
+          "amọ́lára",
+          "eré",
+          "eré ìdíjẹ",
+          "ìdojúkọ",
+          "ọkùnrin",
+          "ọkùnrin tí ń sáré",
+          "ọ̀tún",
+          "sáré"
+        ],
+        "tts": [
+          "ọkùnrin tí ń sáré: amọ́lára àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃🏼‍♂‍➡": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "eré",
+          "eré ìdíjẹ",
+          "ìdojúkọ",
+          "ọkùnrin",
+          "ọkùnrin tí ń sáré",
+          "ọ̀tún",
+          "sáré"
+        ],
+        "tts": [
+          "ọkùnrin tí ń sáré: amọ́lára díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃🏽‍♂‍➡": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "eré",
+          "eré ìdíjẹ",
+          "ìdojúkọ",
+          "ọkùnrin",
+          "ọkùnrin tí ń sáré",
+          "ọ̀tún",
+          "sáré"
+        ],
+        "tts": [
+          "ọkùnrin tí ń sáré: amọ́láwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃🏾‍♂‍➡": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "eré",
+          "eré ìdíjẹ",
+          "ìdojúkọ",
+          "ọkùnrin",
+          "ọkùnrin tí ń sáré",
+          "ọ̀tún",
+          "sáré"
+        ],
+        "tts": [
+          "ọkùnrin tí ń sáré: adúláwọ̀ díẹ̀ àtiìdojúkọ ọ̀tún"
+        ]
+      },
+      "🏃🏿‍♂‍➡": {
+        "default": [
+          "adúláwọ̀",
+          "eré",
+          "eré ìdíjẹ",
+          "ìdojúkọ",
+          "ọkùnrin",
+          "ọkùnrin tí ń sáré",
+          "ọ̀tún",
+          "sáré"
+        ],
+        "tts": [
+          "ọkùnrin tí ń sáré: adúláwọ̀ àtiìdojúkọ ọ̀tún"
         ]
       },
       "💃🏻": {
@@ -15503,7 +19546,7 @@
           "ọkùnrin tí ń wakọ̀ ojú omo kékeré"
         ],
         "tts": [
-          "ọkùnrin tí ń wakọ̀ ojú omo kékeré: amọ́lára"
+          "ọkùnrin tí ń wakọ̀ ojú omi kékeré: amọ́lára"
         ]
       },
       "🚣🏼‍♂": {
@@ -15515,7 +19558,7 @@
           "ọkùnrin tí ń wakọ̀ ojú omo kékeré"
         ],
         "tts": [
-          "ọkùnrin tí ń wakọ̀ ojú omo kékeré: amọ́lára díẹ̀"
+          "ọkùnrin tí ń wakọ̀ ojú omi kékeré: amọ́lára díẹ̀"
         ]
       },
       "🚣🏽‍♂": {
@@ -15527,7 +19570,7 @@
           "ọkùnrin tí ń wakọ̀ ojú omo kékeré"
         ],
         "tts": [
-          "ọkùnrin tí ń wakọ̀ ojú omo kékeré: amọ́láwọ̀ díẹ̀"
+          "ọkùnrin tí ń wakọ̀ ojú omi kékeré: amọ́láwọ̀ díẹ̀"
         ]
       },
       "🚣🏾‍♂": {
@@ -15539,7 +19582,7 @@
           "ọkùnrin tí ń wakọ̀ ojú omo kékeré"
         ],
         "tts": [
-          "ọkùnrin tí ń wakọ̀ ojú omo kékeré: adúláwọ̀ díẹ̀"
+          "ọkùnrin tí ń wakọ̀ ojú omi kékeré: adúláwọ̀ díẹ̀"
         ]
       },
       "🚣🏿‍♂": {
@@ -15551,7 +19594,7 @@
           "ọkùnrin tí ń wakọ̀ ojú omo kékeré"
         ],
         "tts": [
-          "ọkùnrin tí ń wakọ̀ ojú omo kékeré: adúláwọ̀"
+          "ọkùnrin tí ń wakọ̀ ojú omi kékeré: adúláwọ̀"
         ]
       },
       "🚣🏻‍♀": {
@@ -15563,7 +19606,7 @@
           "ọkọ́ ojú omi kékeré"
         ],
         "tts": [
-          "obìnrin tí ń wakọ̀ ojú omo kékeré: amọ́lára"
+          "obìnrin tí ń wakọ̀ ojú omi kékeré: amọ́lára"
         ]
       },
       "🚣🏼‍♀": {
@@ -15575,7 +19618,7 @@
           "ọkọ́ ojú omi kékeré"
         ],
         "tts": [
-          "obìnrin tí ń wakọ̀ ojú omo kékeré: amọ́lára díẹ̀"
+          "obìnrin tí ń wakọ̀ ojú omi kékeré: amọ́lára díẹ̀"
         ]
       },
       "🚣🏽‍♀": {
@@ -15587,7 +19630,7 @@
           "ọkọ́ ojú omi kékeré"
         ],
         "tts": [
-          "obìnrin tí ń wakọ̀ ojú omo kékeré: amọ́láwọ̀ díẹ̀"
+          "obìnrin tí ń wakọ̀ ojú omi kékeré: amọ́láwọ̀ díẹ̀"
         ]
       },
       "🚣🏾‍♀": {
@@ -15599,7 +19642,7 @@
           "ọkọ́ ojú omi kékeré"
         ],
         "tts": [
-          "obìnrin tí ń wakọ̀ ojú omo kékeré: adúláwọ̀ díẹ̀"
+          "obìnrin tí ń wakọ̀ ojú omi kékeré: adúláwọ̀ díẹ̀"
         ]
       },
       "🚣🏿‍♀": {
@@ -15611,7 +19654,7 @@
           "ọkọ́ ojú omi kékeré"
         ],
         "tts": [
-          "obìnrin tí ń wakọ̀ ojú omo kékeré: adúláwọ̀"
+          "obìnrin tí ń wakọ̀ ojú omi kékeré: adúláwọ̀"
         ]
       },
       "🏊🏻": {
@@ -17449,6 +21492,401 @@
           "Ẹniyan Nibusun: adúláwọ̀"
         ]
       },
+      "🧑🏻‍🤝‍🧑🏻": {
+        "default": [
+          "amọ́lára",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: amọ́lára"
+        ]
+      },
+      "🧑🏻‍🤝‍🧑🏼": {
+        "default": [
+          "amọ́lára",
+          "amọ́lára díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: amọ́lára àtiamọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏻‍🤝‍🧑🏽": {
+        "default": [
+          "amọ́lára",
+          "amọ́láwọ̀ díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: amọ́lára àtiamọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏻‍🤝‍🧑🏾": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "amọ́lára",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: amọ́lára àtiadúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏻‍🤝‍🧑🏿": {
+        "default": [
+          "adúláwọ̀",
+          "amọ́lára",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: amọ́lára àtiadúláwọ̀"
+        ]
+      },
+      "🧑🏼‍🤝‍🧑🏻": {
+        "default": [
+          "amọ́lára",
+          "amọ́lára díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: amọ́lára díẹ̀ àtiamọ́lára"
+        ]
+      },
+      "🧑🏼‍🤝‍🧑🏼": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: amọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏼‍🤝‍🧑🏽": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "amọ́láwọ̀ díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: amọ́lára díẹ̀ àtiamọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏼‍🤝‍🧑🏾": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "amọ́lára díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: amọ́lára díẹ̀ àtiadúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏼‍🤝‍🧑🏿": {
+        "default": [
+          "adúláwọ̀",
+          "amọ́lára díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: amọ́lára díẹ̀ àtiadúláwọ̀"
+        ]
+      },
+      "🧑🏽‍🤝‍🧑🏻": {
+        "default": [
+          "amọ́lára",
+          "amọ́láwọ̀ díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: amọ́láwọ̀ díẹ̀ àtiamọ́lára"
+        ]
+      },
+      "🧑🏽‍🤝‍🧑🏼": {
+        "default": [
+          "amọ́lára díẹ̀",
+          "amọ́láwọ̀ díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: amọ́láwọ̀ díẹ̀ àtiamọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏽‍🤝‍🧑🏽": {
+        "default": [
+          "amọ́láwọ̀ díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: amọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏽‍🤝‍🧑🏾": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "amọ́láwọ̀ díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: amọ́láwọ̀ díẹ̀ àtiadúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏽‍🤝‍🧑🏿": {
+        "default": [
+          "adúláwọ̀",
+          "amọ́láwọ̀ díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: amọ́láwọ̀ díẹ̀ àtiadúláwọ̀"
+        ]
+      },
+      "🧑🏾‍🤝‍🧑🏻": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "amọ́lára",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: adúláwọ̀ díẹ̀ àtiamọ́lára"
+        ]
+      },
+      "🧑🏾‍🤝‍🧑🏼": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "amọ́lára díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: adúláwọ̀ díẹ̀ àtiamọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏾‍🤝‍🧑🏽": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "amọ́láwọ̀ díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: adúláwọ̀ díẹ̀ àtiamọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🤝‍🧑🏾": {
+        "default": [
+          "adúláwọ̀ díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: adúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏾‍🤝‍🧑🏿": {
+        "default": [
+          "adúláwọ̀",
+          "adúláwọ̀ díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: adúláwọ̀ díẹ̀ àtiadúláwọ̀"
+        ]
+      },
+      "🧑🏿‍🤝‍🧑🏻": {
+        "default": [
+          "adúláwọ̀",
+          "amọ́lára",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: adúláwọ̀ àtiamọ́lára"
+        ]
+      },
+      "🧑🏿‍🤝‍🧑🏼": {
+        "default": [
+          "adúláwọ̀",
+          "amọ́lára díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: adúláwọ̀ àtiamọ́lára díẹ̀"
+        ]
+      },
+      "🧑🏿‍🤝‍🧑🏽": {
+        "default": [
+          "adúláwọ̀",
+          "amọ́láwọ̀ díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: adúláwọ̀ àtiamọ́láwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🤝‍🧑🏾": {
+        "default": [
+          "adúláwọ̀",
+          "adúláwọ̀ díẹ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: adúláwọ̀ àtiadúláwọ̀ díẹ̀"
+        ]
+      },
+      "🧑🏿‍🤝‍🧑🏿": {
+        "default": [
+          "adúláwọ̀",
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú",
+          "àwọn ènìyàn tó dira wọn lọ́wọ́ mú",
+          "dìmú",
+          "ènìyàn",
+          "ń diraẹni lọ́wọ́ mú",
+          "ọwọ́",
+          "tọkọtaya"
+        ],
+        "tts": [
+          "àwọn ènìyàn tó di ara wọn lọ́wọ́ mú: adúláwọ̀"
+        ]
+      },
       "👭🏻": {
         "default": [
           "amọ́lára",
@@ -17473,7 +21911,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára, amọ́lára díẹ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára àtiamọ́lára díẹ̀"
         ]
       },
       "👩🏻‍🤝‍👩🏽": {
@@ -17487,7 +21925,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára, amọ́láwọ̀ díẹ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "👩🏻‍🤝‍👩🏾": {
@@ -17501,7 +21939,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára, adúláwọ̀ díẹ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára àtiadúláwọ̀ díẹ̀"
         ]
       },
       "👩🏻‍🤝‍👩🏿": {
@@ -17515,7 +21953,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára, adúláwọ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára àtiadúláwọ̀"
         ]
       },
       "👩🏼‍🤝‍👩🏻": {
@@ -17529,7 +21967,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀, amọ́lára"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀ àtiamọ́lára"
         ]
       },
       "👭🏼": {
@@ -17556,7 +21994,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀, amọ́láwọ̀ díẹ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀ àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "👩🏼‍🤝‍👩🏾": {
@@ -17570,7 +22008,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀, adúláwọ̀ díẹ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀ àtiadúláwọ̀ díẹ̀"
         ]
       },
       "👩🏼‍🤝‍👩🏿": {
@@ -17584,7 +22022,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀, adúláwọ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀ àtiadúláwọ̀"
         ]
       },
       "👩🏽‍🤝‍👩🏻": {
@@ -17598,7 +22036,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀, amọ́lára"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀ àtiamọ́lára"
         ]
       },
       "👩🏽‍🤝‍👩🏼": {
@@ -17612,7 +22050,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀, amọ́lára díẹ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀ àtiamọ́lára díẹ̀"
         ]
       },
       "👭🏽": {
@@ -17639,7 +22077,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀, adúláwọ̀ díẹ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀ àtiadúláwọ̀ díẹ̀"
         ]
       },
       "👩🏽‍🤝‍👩🏿": {
@@ -17653,7 +22091,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀, adúláwọ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀ àtiadúláwọ̀"
         ]
       },
       "👩🏾‍🤝‍👩🏻": {
@@ -17667,7 +22105,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀, amọ́lára"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀ àtiamọ́lára"
         ]
       },
       "👩🏾‍🤝‍👩🏼": {
@@ -17681,7 +22119,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀, amọ́lára díẹ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀ àtiamọ́lára díẹ̀"
         ]
       },
       "👩🏾‍🤝‍👩🏽": {
@@ -17695,7 +22133,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀, amọ́láwọ̀ díẹ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀ àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "👭🏾": {
@@ -17722,7 +22160,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀, adúláwọ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀ àtiadúláwọ̀"
         ]
       },
       "👩🏿‍🤝‍👩🏻": {
@@ -17736,7 +22174,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀, amọ́lára"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ àtiamọ́lára"
         ]
       },
       "👩🏿‍🤝‍👩🏼": {
@@ -17750,7 +22188,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀, amọ́lára díẹ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ àtiamọ́lára díẹ̀"
         ]
       },
       "👩🏿‍🤝‍👩🏽": {
@@ -17764,7 +22202,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀, amọ́láwọ̀ díẹ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "👩🏿‍🤝‍👩🏾": {
@@ -17778,7 +22216,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀, adúláwọ̀ díẹ̀"
+          "Obinrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ àtiadúláwọ̀ díẹ̀"
         ]
       },
       "👭🏿": {
@@ -17820,7 +22258,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára, amọ́lára díẹ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára àtiamọ́lára díẹ̀"
         ]
       },
       "👩🏻‍🤝‍👨🏽": {
@@ -17835,7 +22273,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára, amọ́láwọ̀ díẹ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "👩🏻‍🤝‍👨🏾": {
@@ -17850,7 +22288,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára, adúláwọ̀ díẹ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára àtiadúláwọ̀ díẹ̀"
         ]
       },
       "👩🏻‍🤝‍👨🏿": {
@@ -17865,7 +22303,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára, adúláwọ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára àtiadúláwọ̀"
         ]
       },
       "👩🏼‍🤝‍👨🏻": {
@@ -17880,7 +22318,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀, amọ́lára"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀ àtiamọ́lára"
         ]
       },
       "👫🏼": {
@@ -17909,7 +22347,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀, amọ́láwọ̀ díẹ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀ àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "👩🏼‍🤝‍👨🏾": {
@@ -17924,7 +22362,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀, adúláwọ̀ díẹ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀ àtiadúláwọ̀ díẹ̀"
         ]
       },
       "👩🏼‍🤝‍👨🏿": {
@@ -17939,7 +22377,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀, adúláwọ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀ àtiadúláwọ̀"
         ]
       },
       "👩🏽‍🤝‍👨🏻": {
@@ -17954,7 +22392,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀, amọ́lára"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀ àtiamọ́lára"
         ]
       },
       "👩🏽‍🤝‍👨🏼": {
@@ -17969,7 +22407,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀, amọ́lára díẹ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀ àtiamọ́lára díẹ̀"
         ]
       },
       "👫🏽": {
@@ -17998,7 +22436,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀, adúláwọ̀ díẹ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀ àtiadúláwọ̀ díẹ̀"
         ]
       },
       "👩🏽‍🤝‍👨🏿": {
@@ -18013,7 +22451,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀, adúláwọ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀ àtiadúláwọ̀"
         ]
       },
       "👩🏾‍🤝‍👨🏻": {
@@ -18028,7 +22466,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀, amọ́lára"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀ àtiamọ́lára"
         ]
       },
       "👩🏾‍🤝‍👨🏼": {
@@ -18043,7 +22481,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀, amọ́lára díẹ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀ àtiamọ́lára díẹ̀"
         ]
       },
       "👩🏾‍🤝‍👨🏽": {
@@ -18058,7 +22496,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀, amọ́láwọ̀ díẹ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀ àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "👫🏾": {
@@ -18087,7 +22525,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀, adúláwọ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀ àtiadúláwọ̀"
         ]
       },
       "👩🏿‍🤝‍👨🏻": {
@@ -18102,7 +22540,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀, amọ́lára"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ àtiamọ́lára"
         ]
       },
       "👩🏿‍🤝‍👨🏼": {
@@ -18117,7 +22555,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀, amọ́lára díẹ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ àtiamọ́lára díẹ̀"
         ]
       },
       "👩🏿‍🤝‍👨🏽": {
@@ -18132,7 +22570,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀, amọ́láwọ̀ díẹ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "👩🏿‍🤝‍👨🏾": {
@@ -18147,7 +22585,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀, adúláwọ̀ díẹ̀"
+          "Ọkunrin Ati Obirin Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ àtiadúláwọ̀ díẹ̀"
         ]
       },
       "👫🏿": {
@@ -18194,7 +22632,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára, amọ́lára díẹ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára àtiamọ́lára díẹ̀"
         ]
       },
       "👨🏻‍🤝‍👨🏽": {
@@ -18211,7 +22649,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára, amọ́láwọ̀ díẹ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "👨🏻‍🤝‍👨🏾": {
@@ -18228,7 +22666,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára, adúláwọ̀ díẹ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára àtiadúláwọ̀ díẹ̀"
         ]
       },
       "👨🏻‍🤝‍👨🏿": {
@@ -18245,7 +22683,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára, adúláwọ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára àtiadúláwọ̀"
         ]
       },
       "👨🏼‍🤝‍👨🏻": {
@@ -18262,7 +22700,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀, amọ́lára"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀ àtiamọ́lára"
         ]
       },
       "👬🏼": {
@@ -18295,7 +22733,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀, amọ́láwọ̀ díẹ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀ àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "👨🏼‍🤝‍👨🏾": {
@@ -18312,7 +22750,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀, adúláwọ̀ díẹ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀ àtiadúláwọ̀ díẹ̀"
         ]
       },
       "👨🏼‍🤝‍👨🏿": {
@@ -18329,7 +22767,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀, adúláwọ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́lára díẹ̀ àtiadúláwọ̀"
         ]
       },
       "👨🏽‍🤝‍👨🏻": {
@@ -18346,7 +22784,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀, amọ́lára"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀ àtiamọ́lára"
         ]
       },
       "👨🏽‍🤝‍👨🏼": {
@@ -18363,7 +22801,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀, amọ́lára díẹ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀ àtiamọ́lára díẹ̀"
         ]
       },
       "👬🏽": {
@@ -18396,7 +22834,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀, adúláwọ̀ díẹ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀ àtiadúláwọ̀ díẹ̀"
         ]
       },
       "👨🏽‍🤝‍👨🏿": {
@@ -18413,7 +22851,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀, adúláwọ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: amọ́láwọ̀ díẹ̀ àtiadúláwọ̀"
         ]
       },
       "👨🏾‍🤝‍👨🏻": {
@@ -18430,7 +22868,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀, amọ́lára"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀ àtiamọ́lára"
         ]
       },
       "👨🏾‍🤝‍👨🏼": {
@@ -18447,7 +22885,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀, amọ́lára díẹ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀ àtiamọ́lára díẹ̀"
         ]
       },
       "👨🏾‍🤝‍👨🏽": {
@@ -18464,7 +22902,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀, amọ́láwọ̀ díẹ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀ àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "👬🏾": {
@@ -18497,7 +22935,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀, adúláwọ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ díẹ̀ àtiadúláwọ̀"
         ]
       },
       "👨🏿‍🤝‍👨🏻": {
@@ -18514,7 +22952,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀, amọ́lára"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ àtiamọ́lára"
         ]
       },
       "👨🏿‍🤝‍👨🏼": {
@@ -18531,7 +22969,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀, amọ́lára díẹ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ àtiamọ́lára díẹ̀"
         ]
       },
       "👨🏿‍🤝‍👨🏽": {
@@ -18548,7 +22986,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀, amọ́láwọ̀ díẹ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ àtiamọ́láwọ̀ díẹ̀"
         ]
       },
       "👨🏿‍🤝‍👨🏾": {
@@ -18565,7 +23003,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀, adúláwọ̀ díẹ̀"
+          "Ọkunrin Meji Ti O Dọwọ Ara Wọn Mu: adúláwọ̀ àtiadúláwọ̀ díẹ̀"
         ]
       },
       "👬🏿": {
@@ -18642,7 +23080,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ifẹnuko: Obìnrin, Ọkùnrin"
+          "Ifẹnuko: Obìnrin àtiỌkùnrin"
         ]
       },
       "👨‍❤‍💋‍👨": {
@@ -18652,7 +23090,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ifẹnuko: Ọkùnrin, Ọkùnrin"
+          "Ifẹnuko: Ọkùnrin àtiỌkùnrin"
         ]
       },
       "👩‍❤‍💋‍👩": {
@@ -18662,7 +23100,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Ifẹnuko: Obìnrin, Obìnrin"
+          "Ifẹnuko: Obìnrin àtiObìnrin"
         ]
       },
       "💑🏻": {
@@ -18729,7 +23167,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Lọkọlaya Pẹlu ọkan: Obìnrin, Ọkùnrin"
+          "Lọkọlaya Pẹlu ọkan: Obìnrin àtiỌkùnrin"
         ]
       },
       "👨‍❤‍👨": {
@@ -18740,7 +23178,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Lọkọlaya Pẹlu ọkan: Ọkùnrin, Ọkùnrin"
+          "Lọkọlaya Pẹlu ọkan: Ọkùnrin àtiỌkùnrin"
         ]
       },
       "👩‍❤‍👩": {
@@ -18751,7 +23189,7 @@
           "tọkọtaya"
         ],
         "tts": [
-          "Lọkọlaya Pẹlu ọkan: Obìnrin, Obìnrin"
+          "Lọkọlaya Pẹlu ọkan: Obìnrin àtiObìnrin"
         ]
       },
       "👨‍👩‍👦": {
@@ -18919,7 +23357,7 @@
           "ọmọkùnrin"
         ],
         "tts": [
-          "Ẹbí: Ọkùnrin, ọmọkùnrin"
+          "Ẹbí: Ọkùnrin àtiọmọkùnrin"
         ]
       },
       "👨‍👦‍👦": {
@@ -18939,7 +23377,7 @@
           "ọmọbìrin"
         ],
         "tts": [
-          "Ẹbí: Ọkùnrin, ọmọbìrin"
+          "Ẹbí: Ọkùnrin àtiọmọbìrin"
         ]
       },
       "👨‍👧‍👦": {
@@ -18970,7 +23408,7 @@
           "ọmọkùnrin"
         ],
         "tts": [
-          "Ẹbí: Obìnrin, ọmọkùnrin"
+          "Ẹbí: Obìnrin àtiọmọkùnrin"
         ]
       },
       "👩‍👦‍👦": {
@@ -18990,7 +23428,7 @@
           "ọmọbìrin"
         ],
         "tts": [
-          "Ẹbí: Obìnrin, ọmọbìrin"
+          "Ẹbí: Obìnrin àtiọmọbìrin"
         ]
       },
       "👩‍👧‍👦": {
@@ -19147,7 +23585,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Ástràlìá"
+          "filaagi: Austrálíà"
         ]
       },
       "🇦🇼": {
@@ -19163,7 +23601,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Àwọn Erékùsù ti Åland"
+          "filaagi: Àwọn Erékùsù ti Aland"
         ]
       },
       "🇦🇿": {
@@ -19283,7 +23721,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Káríbíánì ti Nẹ́dálándì"
+          "filaagi: Kàríbíánì ti Nẹ́dálándì"
         ]
       },
       "🇧🇷": {
@@ -19475,7 +23913,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Kúrásáò"
+          "filaagi: Curaçao"
         ]
       },
       "🇨🇽": {
@@ -19611,7 +24049,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Sipani"
+          "filaagi: Sípéìnì"
         ]
       },
       "🇪🇹": {
@@ -19643,7 +24081,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Fiji"
+          "filaagi: Fíjì"
         ]
       },
       "🇫🇰": {
@@ -19787,7 +24225,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Geriisi"
+          "filaagi: Gíríìsì"
         ]
       },
       "🇬🇸": {
@@ -19803,7 +24241,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Guatemala"
+          "filaagi: Guatemálà"
         ]
       },
       "🇬🇺": {
@@ -19891,7 +24329,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Indonesia"
+          "filaagi: Indonéṣíà"
         ]
       },
       "🇮🇪": {
@@ -19915,7 +24353,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Isle of Man"
+          "filaagi: Erékùṣù ilẹ̀ Man"
         ]
       },
       "🇮🇳": {
@@ -19923,7 +24361,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: India"
+          "filaagi: Íńdíà"
         ]
       },
       "🇮🇴": {
@@ -19971,7 +24409,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Jersey"
+          "filaagi: Jẹsì"
         ]
       },
       "🇯🇲": {
@@ -20203,7 +24641,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Montenegro"
+          "filaagi: Montenégrò"
         ]
       },
       "🇲🇫": {
@@ -20211,7 +24649,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Ìlú Mátíìnì"
+          "filaagi: Ìlú Màtìnì"
         ]
       },
       "🇲🇬": {
@@ -20387,7 +24825,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Etikun Nọ́úfókì"
+          "filaagi: Erékùsù Nọ́úfókì"
         ]
       },
       "🇳🇬": {
@@ -20467,7 +24905,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Panama"
+          "filaagi: Paramá"
         ]
       },
       "🇵🇪": {
@@ -20475,7 +24913,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Peru"
+          "filaagi: Pèérù"
         ]
       },
       "🇵🇫": {
@@ -20859,7 +25297,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: ÌlàOòrùn Tímọ̀"
+          "filaagi: Tímọ̀ Lẹsiti"
         ]
       },
       "🇹🇲": {
@@ -20867,7 +25305,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Tọọkimenisita"
+          "filaagi: Tọ́kìmẹ́nísítànì"
         ]
       },
       "🇹🇳": {
@@ -20971,7 +25409,7 @@
           "filaagi"
         ],
         "tts": [
-          "filaagi: Nruguayi"
+          "filaagi: Úrúgúwè"
         ]
       },
       "🇺🇿": {

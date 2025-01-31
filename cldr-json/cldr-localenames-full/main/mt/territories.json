@@ -2,16 +2,12 @@
   "main": {
     "mt": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "mt"
       },
       "localeDisplayNames": {
         "territories": {
           "001": "Dinja",
           "002": "Affrika",
-          "003": "003",
           "005": "Amerika t’Isfel",
           "009": "Oċejanja",
           "011": "Affrika tal-Punent",
@@ -21,7 +17,6 @@
           "017": "Affrika Nofsani",
           "018": "Affrika t’Isfel",
           "019": "Amerika",
-          "021": "021",
           "029": "Karibew",
           "030": "Asja tal-Lvant",
           "034": "Asja t’Isfel Ċentrali",
@@ -38,7 +33,6 @@
           "151": "Ewropa tal-Lvant",
           "154": "Ewropa ta’ Fuq",
           "155": "Ewropa tal-Punent",
-          "202": "202",
           "419": "Amerika Latina",
           "AC": "Ascension Island",
           "AD": "Andorra",
@@ -118,7 +112,6 @@
           "ES": "Spanja",
           "ET": "l-Etjopja",
           "EU": "Unjoni Ewropea",
-          "EZ": "EZ",
           "FI": "il-Finlandja",
           "FJ": "Fiġi",
           "FK": "il-Gżejjer Falkland",
@@ -159,7 +152,6 @@
           "IL": "Iżrael",
           "IM": "Isle of Man",
           "IN": "l-Indja",
-          "IO": "Territorju Brittaniku tal-Oċean Indjan",
           "IQ": "l-Iraq",
           "IR": "l-Iran",
           "IS": "l-Iżlanda",
@@ -244,7 +236,6 @@
           "PW": "Palau",
           "PY": "il-Paragwaj",
           "QA": "il-Qatar",
-          "QO": "QO",
           "RE": "Réunion",
           "RO": "ir-Rumanija",
           "RS": "is-Serbja",
@@ -294,7 +285,6 @@
           "UA": "l-Ukrajna",
           "UG": "l-Uganda",
           "UM": "Il-Gżejjer Minuri Mbiegħda tal-Istati Uniti",
-          "UN": "UN",
           "US": "l-Istati Uniti",
           "US-alt-short": "US",
           "UY": "l-Urugwaj",
@@ -308,8 +298,6 @@
           "VU": "Vanuatu",
           "WF": "Wallis u Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
           "XK": "il-Kosovo",
           "YE": "il-Jemen",
           "YT": "Mayotte",

@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "de",
       "territory": "CH"
     },
@@ -298,6 +295,86 @@
           "Teufelsgruss: dunkle Hautfarbe"
         ]
       },
+      "👏🏻": {
+        "default": [
+          "applaudieren",
+          "Applaus",
+          "Beifall",
+          "Gratulation",
+          "grossartig",
+          "gut",
+          "Hand",
+          "Hände",
+          "helle Hautfarbe",
+          "Klatschen",
+          "klatschend",
+          "toll"
+        ]
+      },
+      "👏🏼": {
+        "default": [
+          "applaudieren",
+          "Applaus",
+          "Beifall",
+          "Gratulation",
+          "grossartig",
+          "gut",
+          "Hand",
+          "Hände",
+          "Klatschen",
+          "klatschend",
+          "mittelhelle Hautfarbe",
+          "toll"
+        ]
+      },
+      "👏🏽": {
+        "default": [
+          "applaudieren",
+          "Applaus",
+          "Beifall",
+          "Gratulation",
+          "grossartig",
+          "gut",
+          "Hand",
+          "Hände",
+          "Klatschen",
+          "klatschend",
+          "mittlere Hautfarbe",
+          "toll"
+        ]
+      },
+      "👏🏾": {
+        "default": [
+          "applaudieren",
+          "Applaus",
+          "Beifall",
+          "Gratulation",
+          "grossartig",
+          "gut",
+          "Hand",
+          "Hände",
+          "Klatschen",
+          "klatschend",
+          "mitteldunkle Hautfarbe",
+          "toll"
+        ]
+      },
+      "👏🏿": {
+        "default": [
+          "applaudieren",
+          "Applaus",
+          "Beifall",
+          "dunkle Hautfarbe",
+          "Gratulation",
+          "grossartig",
+          "gut",
+          "Hand",
+          "Hände",
+          "Klatschen",
+          "klatschend",
+          "toll"
+        ]
+      },
       "🙏🏻": {
         "default": [
           "beten",
@@ -358,6 +435,81 @@
           "zusammengelegte Handflächen"
         ]
       },
+      "🦵🏻": {
+        "default": [
+          "Bein",
+          "Extremität",
+          "Fuss",
+          "gebeugtes Knie",
+          "Gliedmasse",
+          "helle Hautfarbe",
+          "Knie",
+          "Körperglied",
+          "Körperteil",
+          "Treten",
+          "Tritt"
+        ]
+      },
+      "🦵🏼": {
+        "default": [
+          "Bein",
+          "Extremität",
+          "Fuss",
+          "gebeugtes Knie",
+          "Gliedmasse",
+          "Knie",
+          "Körperglied",
+          "Körperteil",
+          "mittelhelle Hautfarbe",
+          "Treten",
+          "Tritt"
+        ]
+      },
+      "🦵🏽": {
+        "default": [
+          "Bein",
+          "Extremität",
+          "Fuss",
+          "gebeugtes Knie",
+          "Gliedmasse",
+          "Knie",
+          "Körperglied",
+          "Körperteil",
+          "mittlere Hautfarbe",
+          "Treten",
+          "Tritt"
+        ]
+      },
+      "🦵🏾": {
+        "default": [
+          "Bein",
+          "Extremität",
+          "Fuss",
+          "gebeugtes Knie",
+          "Gliedmasse",
+          "Knie",
+          "Körperglied",
+          "Körperteil",
+          "mitteldunkle Hautfarbe",
+          "Treten",
+          "Tritt"
+        ]
+      },
+      "🦵🏿": {
+        "default": [
+          "Bein",
+          "dunkle Hautfarbe",
+          "Extremität",
+          "Fuss",
+          "gebeugtes Knie",
+          "Gliedmasse",
+          "Knie",
+          "Körperglied",
+          "Körperteil",
+          "Treten",
+          "Tritt"
+        ]
+      },
       "🦶🏻": {
         "default": [
           "Fuss",
@@ -415,10 +567,9 @@
       },
       "🧑‍🦳": {
         "default": [
+          "erwachsen",
           "erwachsene Person",
-          "geschlechtsneutral",
           "Mensch",
-          "ohne eindeutiges Geschlecht",
           "Person",
           "weisses Haar"
         ],
@@ -428,11 +579,10 @@
       },
       "🧑🏻‍🦳": {
         "default": [
+          "erwachsen",
           "erwachsene Person",
-          "geschlechtsneutral",
           "helle Hautfarbe",
           "Mensch",
-          "ohne eindeutiges Geschlecht",
           "Person",
           "weisses Haar"
         ],
@@ -442,11 +592,10 @@
       },
       "🧑🏼‍🦳": {
         "default": [
+          "erwachsen",
           "erwachsene Person",
-          "geschlechtsneutral",
           "Mensch",
           "mittelhelle Hautfarbe",
-          "ohne eindeutiges Geschlecht",
           "Person",
           "weisses Haar"
         ],
@@ -456,11 +605,10 @@
       },
       "🧑🏽‍🦳": {
         "default": [
+          "erwachsen",
           "erwachsene Person",
-          "geschlechtsneutral",
           "Mensch",
           "mittlere Hautfarbe",
-          "ohne eindeutiges Geschlecht",
           "Person",
           "weisses Haar"
         ],
@@ -470,11 +618,10 @@
       },
       "🧑🏾‍🦳": {
         "default": [
+          "erwachsen",
           "erwachsene Person",
-          "geschlechtsneutral",
           "Mensch",
           "mitteldunkle Hautfarbe",
-          "ohne eindeutiges Geschlecht",
           "Person",
           "weisses Haar"
         ],
@@ -485,10 +632,9 @@
       "🧑🏿‍🦳": {
         "default": [
           "dunkle Hautfarbe",
+          "erwachsen",
           "erwachsene Person",
-          "geschlechtsneutral",
           "Mensch",
-          "ohne eindeutiges Geschlecht",
           "Person",
           "weisses Haar"
         ],
@@ -498,6 +644,8 @@
       },
       "👨‍🦳": {
         "default": [
+          "erwachsen",
+          "Gesicht",
           "Mann",
           "weisses Haar"
         ],
@@ -507,6 +655,8 @@
       },
       "👨🏻‍🦳": {
         "default": [
+          "erwachsen",
+          "Gesicht",
           "helle Hautfarbe",
           "Mann",
           "weisses Haar"
@@ -517,6 +667,8 @@
       },
       "👨🏼‍🦳": {
         "default": [
+          "erwachsen",
+          "Gesicht",
           "Mann",
           "mittelhelle Hautfarbe",
           "weisses Haar"
@@ -527,6 +679,8 @@
       },
       "👨🏽‍🦳": {
         "default": [
+          "erwachsen",
+          "Gesicht",
           "Mann",
           "mittlere Hautfarbe",
           "weisses Haar"
@@ -537,6 +691,8 @@
       },
       "👨🏾‍🦳": {
         "default": [
+          "erwachsen",
+          "Gesicht",
           "Mann",
           "mitteldunkle Hautfarbe",
           "weisses Haar"
@@ -548,6 +704,8 @@
       "👨🏿‍🦳": {
         "default": [
           "dunkle Hautfarbe",
+          "erwachsen",
+          "Gesicht",
           "Mann",
           "weisses Haar"
         ],
@@ -557,7 +715,9 @@
       },
       "👩‍🦳": {
         "default": [
+          "erwachsen",
           "Frau",
+          "Gesicht",
           "weisses Haar"
         ],
         "tts": [
@@ -566,7 +726,9 @@
       },
       "👩🏻‍🦳": {
         "default": [
+          "erwachsen",
           "Frau",
+          "Gesicht",
           "helle Hautfarbe",
           "weisses Haar"
         ],
@@ -576,7 +738,9 @@
       },
       "👩🏼‍🦳": {
         "default": [
+          "erwachsen",
           "Frau",
+          "Gesicht",
           "mittelhelle Hautfarbe",
           "weisses Haar"
         ],
@@ -586,7 +750,9 @@
       },
       "👩🏽‍🦳": {
         "default": [
+          "erwachsen",
           "Frau",
+          "Gesicht",
           "mittlere Hautfarbe",
           "weisses Haar"
         ],
@@ -596,7 +762,9 @@
       },
       "👩🏾‍🦳": {
         "default": [
+          "erwachsen",
           "Frau",
+          "Gesicht",
           "mitteldunkle Hautfarbe",
           "weisses Haar"
         ],
@@ -607,146 +775,783 @@
       "👩🏿‍🦳": {
         "default": [
           "dunkle Hautfarbe",
+          "erwachsen",
           "Frau",
+          "Gesicht",
           "weisses Haar"
         ],
         "tts": [
           "Frau: dunkle Hautfarbe, weisses Haar"
         ]
       },
+      "🧓🏻": {
+        "default": [
+          "alt",
+          "älter",
+          "erwachsen",
+          "Grosseltern",
+          "helle Hautfarbe",
+          "Mensch",
+          "Person",
+          "weise"
+        ]
+      },
+      "🧓🏼": {
+        "default": [
+          "alt",
+          "älter",
+          "erwachsen",
+          "Grosseltern",
+          "Mensch",
+          "mittelhelle Hautfarbe",
+          "Person",
+          "weise"
+        ]
+      },
+      "🧓🏽": {
+        "default": [
+          "alt",
+          "älter",
+          "erwachsen",
+          "Grosseltern",
+          "Mensch",
+          "mittlere Hautfarbe",
+          "Person",
+          "weise"
+        ]
+      },
+      "🧓🏾": {
+        "default": [
+          "alt",
+          "älter",
+          "erwachsen",
+          "Grosseltern",
+          "Mensch",
+          "mitteldunkle Hautfarbe",
+          "Person",
+          "weise"
+        ]
+      },
+      "🧓🏿": {
+        "default": [
+          "alt",
+          "älter",
+          "dunkle Hautfarbe",
+          "erwachsen",
+          "Grosseltern",
+          "Mensch",
+          "Person",
+          "weise"
+        ]
+      },
+      "👴🏻": {
+        "default": [
+          "älterer Mann",
+          "Älterer Mann",
+          "Gesicht",
+          "Glatze",
+          "Grossvater",
+          "helle Hautfarbe",
+          "Mann",
+          "Opa",
+          "Senior"
+        ]
+      },
+      "👴🏼": {
+        "default": [
+          "älterer Mann",
+          "Älterer Mann",
+          "Gesicht",
+          "Glatze",
+          "Grossvater",
+          "Mann",
+          "mittelhelle Hautfarbe",
+          "Opa",
+          "Senior"
+        ]
+      },
+      "👴🏽": {
+        "default": [
+          "älterer Mann",
+          "Älterer Mann",
+          "Gesicht",
+          "Glatze",
+          "Grossvater",
+          "Mann",
+          "mittlere Hautfarbe",
+          "Opa",
+          "Senior"
+        ]
+      },
+      "👴🏾": {
+        "default": [
+          "älterer Mann",
+          "Älterer Mann",
+          "Gesicht",
+          "Glatze",
+          "Grossvater",
+          "Mann",
+          "mitteldunkle Hautfarbe",
+          "Opa",
+          "Senior"
+        ]
+      },
+      "👴🏿": {
+        "default": [
+          "älterer Mann",
+          "Älterer Mann",
+          "dunkle Hautfarbe",
+          "Gesicht",
+          "Glatze",
+          "Grossvater",
+          "Mann",
+          "Opa",
+          "Senior"
+        ]
+      },
+      "👵🏻": {
+        "default": [
+          "ältere Frau",
+          "Ältere Frau",
+          "Brille",
+          "Dutt",
+          "Frau",
+          "Gesicht",
+          "Grossmutter",
+          "helle Hautfarbe",
+          "Oma",
+          "Seniorin"
+        ]
+      },
+      "👵🏼": {
+        "default": [
+          "ältere Frau",
+          "Ältere Frau",
+          "Brille",
+          "Dutt",
+          "Frau",
+          "Gesicht",
+          "Grossmutter",
+          "mittelhelle Hautfarbe",
+          "Oma",
+          "Seniorin"
+        ]
+      },
+      "👵🏽": {
+        "default": [
+          "ältere Frau",
+          "Ältere Frau",
+          "Brille",
+          "Dutt",
+          "Frau",
+          "Gesicht",
+          "Grossmutter",
+          "mittlere Hautfarbe",
+          "Oma",
+          "Seniorin"
+        ]
+      },
+      "👵🏾": {
+        "default": [
+          "ältere Frau",
+          "Ältere Frau",
+          "Brille",
+          "Dutt",
+          "Frau",
+          "Gesicht",
+          "Grossmutter",
+          "mitteldunkle Hautfarbe",
+          "Oma",
+          "Seniorin"
+        ]
+      },
+      "👵🏿": {
+        "default": [
+          "ältere Frau",
+          "Ältere Frau",
+          "Brille",
+          "dunkle Hautfarbe",
+          "Dutt",
+          "Frau",
+          "Gesicht",
+          "Grossmutter",
+          "Oma",
+          "Seniorin"
+        ]
+      },
+      "🙅🏻": {
+        "default": [
+          "ausschliessen",
+          "falsch",
+          "Geste",
+          "helle Hautfarbe",
+          "keine Chance",
+          "Nein",
+          "Person",
+          "Person mit überkreuzten Armen",
+          "verbieten",
+          "verboten",
+          "verschränkte Arme",
+          "x"
+        ]
+      },
+      "🙅🏼": {
+        "default": [
+          "ausschliessen",
+          "falsch",
+          "Geste",
+          "keine Chance",
+          "mittelhelle Hautfarbe",
+          "Nein",
+          "Person",
+          "Person mit überkreuzten Armen",
+          "verbieten",
+          "verboten",
+          "verschränkte Arme",
+          "x"
+        ]
+      },
+      "🙅🏽": {
+        "default": [
+          "ausschliessen",
+          "falsch",
+          "Geste",
+          "keine Chance",
+          "mittlere Hautfarbe",
+          "Nein",
+          "Person",
+          "Person mit überkreuzten Armen",
+          "verbieten",
+          "verboten",
+          "verschränkte Arme",
+          "x"
+        ]
+      },
+      "🙅🏾": {
+        "default": [
+          "ausschliessen",
+          "falsch",
+          "Geste",
+          "keine Chance",
+          "mitteldunkle Hautfarbe",
+          "Nein",
+          "Person",
+          "Person mit überkreuzten Armen",
+          "verbieten",
+          "verboten",
+          "verschränkte Arme",
+          "x"
+        ]
+      },
+      "🙅🏿": {
+        "default": [
+          "ausschliessen",
+          "dunkle Hautfarbe",
+          "falsch",
+          "Geste",
+          "keine Chance",
+          "Nein",
+          "Person",
+          "Person mit überkreuzten Armen",
+          "verbieten",
+          "verboten",
+          "verschränkte Arme",
+          "x"
+        ]
+      },
+      "🙋🏻": {
+        "default": [
+          "erhobener Arm",
+          "Hand heben",
+          "Hand hoch",
+          "helle Hautfarbe",
+          "ich weiss",
+          "nimm mich",
+          "Person",
+          "Person mit erhobenem Arm",
+          "Siegerpose"
+        ]
+      },
+      "🙋🏼": {
+        "default": [
+          "erhobener Arm",
+          "Hand heben",
+          "Hand hoch",
+          "ich weiss",
+          "mittelhelle Hautfarbe",
+          "nimm mich",
+          "Person",
+          "Person mit erhobenem Arm",
+          "Siegerpose"
+        ]
+      },
+      "🙋🏽": {
+        "default": [
+          "erhobener Arm",
+          "Hand heben",
+          "Hand hoch",
+          "ich weiss",
+          "mittlere Hautfarbe",
+          "nimm mich",
+          "Person",
+          "Person mit erhobenem Arm",
+          "Siegerpose"
+        ]
+      },
+      "🙋🏾": {
+        "default": [
+          "erhobener Arm",
+          "Hand heben",
+          "Hand hoch",
+          "ich weiss",
+          "mitteldunkle Hautfarbe",
+          "nimm mich",
+          "Person",
+          "Person mit erhobenem Arm",
+          "Siegerpose"
+        ]
+      },
+      "🙋🏿": {
+        "default": [
+          "dunkle Hautfarbe",
+          "erhobener Arm",
+          "Hand heben",
+          "Hand hoch",
+          "ich weiss",
+          "nimm mich",
+          "Person",
+          "Person mit erhobenem Arm",
+          "Siegerpose"
+        ]
+      },
+      "🤷🏻": {
+        "default": [
+          "egal",
+          "gleichgültig",
+          "helle Hautfarbe",
+          "ich weiss nicht",
+          "keine Ahnung",
+          "Person",
+          "Schultern zucken",
+          "schulterzuckende Person",
+          "weiss nicht",
+          "wer weiss",
+          "Zweifel"
+        ]
+      },
+      "🤷🏼": {
+        "default": [
+          "egal",
+          "gleichgültig",
+          "ich weiss nicht",
+          "keine Ahnung",
+          "mittelhelle Hautfarbe",
+          "Person",
+          "Schultern zucken",
+          "schulterzuckende Person",
+          "weiss nicht",
+          "wer weiss",
+          "Zweifel"
+        ]
+      },
+      "🤷🏽": {
+        "default": [
+          "egal",
+          "gleichgültig",
+          "ich weiss nicht",
+          "keine Ahnung",
+          "mittlere Hautfarbe",
+          "Person",
+          "Schultern zucken",
+          "schulterzuckende Person",
+          "weiss nicht",
+          "wer weiss",
+          "Zweifel"
+        ]
+      },
+      "🤷🏾": {
+        "default": [
+          "egal",
+          "gleichgültig",
+          "ich weiss nicht",
+          "keine Ahnung",
+          "mitteldunkle Hautfarbe",
+          "Person",
+          "Schultern zucken",
+          "schulterzuckende Person",
+          "weiss nicht",
+          "wer weiss",
+          "Zweifel"
+        ]
+      },
+      "🤷🏿": {
+        "default": [
+          "dunkle Hautfarbe",
+          "egal",
+          "gleichgültig",
+          "ich weiss nicht",
+          "keine Ahnung",
+          "Person",
+          "Schultern zucken",
+          "schulterzuckende Person",
+          "weiss nicht",
+          "wer weiss",
+          "Zweifel"
+        ]
+      },
+      "🤷🏻‍♂": {
+        "default": [
+          "egal",
+          "gleichgültig",
+          "helle Hautfarbe",
+          "ich weiss nicht",
+          "keine Ahnung",
+          "Mann",
+          "Person",
+          "Schultern zucken",
+          "schulterzuckender Mann",
+          "weiss nicht",
+          "wer weiss",
+          "Zweifel"
+        ]
+      },
+      "🤷🏼‍♂": {
+        "default": [
+          "egal",
+          "gleichgültig",
+          "ich weiss nicht",
+          "keine Ahnung",
+          "Mann",
+          "mittelhelle Hautfarbe",
+          "Person",
+          "Schultern zucken",
+          "schulterzuckender Mann",
+          "weiss nicht",
+          "wer weiss",
+          "Zweifel"
+        ]
+      },
+      "🤷🏽‍♂": {
+        "default": [
+          "egal",
+          "gleichgültig",
+          "ich weiss nicht",
+          "keine Ahnung",
+          "Mann",
+          "mittlere Hautfarbe",
+          "Person",
+          "Schultern zucken",
+          "schulterzuckender Mann",
+          "weiss nicht",
+          "wer weiss",
+          "Zweifel"
+        ]
+      },
+      "🤷🏾‍♂": {
+        "default": [
+          "egal",
+          "gleichgültig",
+          "ich weiss nicht",
+          "keine Ahnung",
+          "Mann",
+          "mitteldunkle Hautfarbe",
+          "Person",
+          "Schultern zucken",
+          "schulterzuckender Mann",
+          "weiss nicht",
+          "wer weiss",
+          "Zweifel"
+        ]
+      },
+      "🤷🏿‍♂": {
+        "default": [
+          "dunkle Hautfarbe",
+          "egal",
+          "gleichgültig",
+          "ich weiss nicht",
+          "keine Ahnung",
+          "Mann",
+          "Person",
+          "Schultern zucken",
+          "schulterzuckender Mann",
+          "weiss nicht",
+          "wer weiss",
+          "Zweifel"
+        ]
+      },
+      "🤷🏻‍♀": {
+        "default": [
+          "egal",
+          "Frau",
+          "gleichgültig",
+          "helle Hautfarbe",
+          "ich weiss nicht",
+          "keine Ahnung",
+          "Person",
+          "Schultern zucken",
+          "schulterzuckende Frau",
+          "weiss nicht",
+          "Zweifel"
+        ]
+      },
+      "🤷🏼‍♀": {
+        "default": [
+          "egal",
+          "Frau",
+          "gleichgültig",
+          "ich weiss nicht",
+          "keine Ahnung",
+          "mittelhelle Hautfarbe",
+          "Person",
+          "Schultern zucken",
+          "schulterzuckende Frau",
+          "weiss nicht",
+          "Zweifel"
+        ]
+      },
+      "🤷🏽‍♀": {
+        "default": [
+          "egal",
+          "Frau",
+          "gleichgültig",
+          "ich weiss nicht",
+          "keine Ahnung",
+          "mittlere Hautfarbe",
+          "Person",
+          "Schultern zucken",
+          "schulterzuckende Frau",
+          "weiss nicht",
+          "Zweifel"
+        ]
+      },
+      "🤷🏾‍♀": {
+        "default": [
+          "egal",
+          "Frau",
+          "gleichgültig",
+          "ich weiss nicht",
+          "keine Ahnung",
+          "mitteldunkle Hautfarbe",
+          "Person",
+          "Schultern zucken",
+          "schulterzuckende Frau",
+          "weiss nicht",
+          "Zweifel"
+        ]
+      },
+      "🤷🏿‍♀": {
+        "default": [
+          "dunkle Hautfarbe",
+          "egal",
+          "Frau",
+          "gleichgültig",
+          "ich weiss nicht",
+          "keine Ahnung",
+          "Person",
+          "Schultern zucken",
+          "schulterzuckende Frau",
+          "weiss nicht",
+          "Zweifel"
+        ]
+      },
+      "🧑🏻‍⚕": {
+        "default": [
+          "Arzt",
+          "Arzt/Ärztin",
+          "Gesundheitswesen",
+          "helle Hautfarbe",
+          "Krankenpfleger",
+          "Krankenpflegerin",
+          "Therapeut"
+        ]
+      },
+      "🧑🏼‍⚕": {
+        "default": [
+          "Arzt",
+          "Arzt/Ärztin",
+          "Gesundheitswesen",
+          "Krankenpfleger",
+          "Krankenpflegerin",
+          "mittelhelle Hautfarbe",
+          "Therapeut"
+        ]
+      },
+      "🧑🏽‍⚕": {
+        "default": [
+          "Arzt",
+          "Arzt/Ärztin",
+          "Gesundheitswesen",
+          "Krankenpfleger",
+          "Krankenpflegerin",
+          "mittlere Hautfarbe",
+          "Therapeut"
+        ]
+      },
+      "🧑🏾‍⚕": {
+        "default": [
+          "Arzt",
+          "Arzt/Ärztin",
+          "Gesundheitswesen",
+          "Krankenpfleger",
+          "Krankenpflegerin",
+          "mitteldunkle Hautfarbe",
+          "Therapeut"
+        ]
+      },
+      "🧑🏿‍⚕": {
+        "default": [
+          "Arzt",
+          "Arzt/Ärztin",
+          "dunkle Hautfarbe",
+          "Gesundheitswesen",
+          "Krankenpfleger",
+          "Krankenpflegerin",
+          "Therapeut"
+        ]
+      },
       "🧑🏻‍🔧": {
         "default": [
+          "Add a translation Elektriker(in)",
           "helle Hautfarbe",
-          "Mechaniker(in)"
+          "Klempner(in)",
+          "Mechaniker(in)",
+          "Sanitär(in)"
         ]
       },
       "🧑🏼‍🔧": {
         "default": [
+          "Add a translation Elektriker(in)",
+          "Klempner(in)",
           "Mechaniker(in)",
-          "mittelhelle Hautfarbe"
+          "mittelhelle Hautfarbe",
+          "Sanitär(in)"
         ]
       },
       "🧑🏽‍🔧": {
         "default": [
+          "Add a translation Elektriker(in)",
+          "Klempner(in)",
           "Mechaniker(in)",
-          "mittlere Hautfarbe"
+          "mittlere Hautfarbe",
+          "Sanitär(in)"
         ]
       },
       "🧑🏾‍🔧": {
         "default": [
+          "Add a translation Elektriker(in)",
+          "Klempner(in)",
           "Mechaniker(in)",
-          "mitteldunkle Hautfarbe"
+          "mitteldunkle Hautfarbe",
+          "Sanitär(in)"
         ]
       },
       "🧑🏿‍🔧": {
         "default": [
+          "Add a translation Elektriker(in)",
           "dunkle Hautfarbe",
-          "Mechaniker(in)"
+          "Klempner(in)",
+          "Mechaniker(in)",
+          "Sanitär(in)"
         ]
       },
-      "🧑🏻‍🏭": {
+      "👨🏻‍🏭": {
         "default": [
-          "Fabrikarbeiter(in)",
-          "helle Hautfarbe"
-        ]
-      },
-      "🧑🏼‍🏭": {
-        "default": [
-          "Fabrikarbeiter(in)",
-          "mittelhelle Hautfarbe"
-        ]
-      },
-      "🧑🏽‍🏭": {
-        "default": [
-          "Fabrikarbeiter(in)",
-          "mittlere Hautfarbe"
-        ]
-      },
-      "🧑🏾‍🏭": {
-        "default": [
-          "Fabrikarbeiter(in)",
-          "mitteldunkle Hautfarbe"
-        ]
-      },
-      "🧑🏿‍🏭": {
-        "default": [
-          "dunkle Hautfarbe",
-          "Fabrikarbeiter(in)"
-        ]
-      },
-      "🧑🏻‍💼": {
-        "default": [
-          "Architekt",
-          "Büroangestellte(r)",
-          "Business",
+          "Arbeiter",
+          "Fabrik",
+          "Fabrikarbeiter",
           "helle Hautfarbe",
-          "Manager"
+          "industriell",
+          "Montage"
         ]
       },
-      "🧑🏼‍💼": {
+      "👨🏼‍🏭": {
         "default": [
-          "Architekt",
-          "Büroangestellte(r)",
-          "Business",
-          "Manager",
-          "mittelhelle Hautfarbe"
-        ]
-      },
-      "🧑🏽‍💼": {
-        "default": [
-          "Architekt",
-          "Büroangestellte(r)",
-          "Business",
-          "Manager",
-          "mittlere Hautfarbe"
-        ]
-      },
-      "🧑🏾‍💼": {
-        "default": [
-          "Architekt",
-          "Büroangestellte(r)",
-          "Business",
-          "Manager",
-          "mitteldunkle Hautfarbe"
-        ]
-      },
-      "🧑🏿‍💼": {
-        "default": [
-          "Architekt",
-          "Büroangestellte(r)",
-          "Business",
-          "dunkle Hautfarbe",
-          "Manager"
-        ]
-      },
-      "🧑🏻‍🔬": {
-        "default": [
-          "helle Hautfarbe",
-          "Wissenschaftler(in)"
-        ]
-      },
-      "🧑🏼‍🔬": {
-        "default": [
+          "Arbeiter",
+          "Fabrik",
+          "Fabrikarbeiter",
+          "industriell",
           "mittelhelle Hautfarbe",
-          "Wissenschaftler(in)"
+          "Montage"
         ]
       },
-      "🧑🏽‍🔬": {
+      "👨🏽‍🏭": {
         "default": [
+          "Arbeiter",
+          "Fabrik",
+          "Fabrikarbeiter",
+          "industriell",
           "mittlere Hautfarbe",
-          "Wissenschaftler(in)"
+          "Montage"
         ]
       },
-      "🧑🏾‍🔬": {
+      "👨🏾‍🏭": {
         "default": [
+          "Arbeiter",
+          "Fabrik",
+          "Fabrikarbeiter",
+          "industriell",
           "mitteldunkle Hautfarbe",
-          "Wissenschaftler(in)"
+          "Montage"
         ]
       },
-      "🧑🏿‍🔬": {
+      "👨🏿‍🏭": {
         "default": [
+          "Arbeiter",
           "dunkle Hautfarbe",
-          "Wissenschaftler(in)"
+          "Fabrik",
+          "Fabrikarbeiter",
+          "industriell",
+          "Montage"
+        ]
+      },
+      "👩🏻‍🏭": {
+        "default": [
+          "Arbeiter",
+          "Fabrik",
+          "Fabrikarbeiterin",
+          "helle Hautfarbe",
+          "industriell",
+          "Montage"
+        ]
+      },
+      "👩🏼‍🏭": {
+        "default": [
+          "Arbeiter",
+          "Fabrik",
+          "Fabrikarbeiterin",
+          "industriell",
+          "mittelhelle Hautfarbe",
+          "Montage"
+        ]
+      },
+      "👩🏽‍🏭": {
+        "default": [
+          "Arbeiter",
+          "Fabrik",
+          "Fabrikarbeiterin",
+          "industriell",
+          "mittlere Hautfarbe",
+          "Montage"
+        ]
+      },
+      "👩🏾‍🏭": {
+        "default": [
+          "Arbeiter",
+          "Fabrik",
+          "Fabrikarbeiterin",
+          "industriell",
+          "mitteldunkle Hautfarbe",
+          "Montage"
+        ]
+      },
+      "👩🏿‍🏭": {
+        "default": [
+          "Arbeiter",
+          "dunkle Hautfarbe",
+          "Fabrik",
+          "Fabrikarbeiterin",
+          "industriell",
+          "Montage"
         ]
       },
       "🎅🏻": {
@@ -787,6 +1592,261 @@
           "Samichlaus",
           "Weihnachten",
           "Weihnachtsmann"
+        ]
+      },
+      "🧛🏻": {
+        "default": [
+          "Blutsauger",
+          "Dracula",
+          "Halloween",
+          "helle Hautfarbe",
+          "Person",
+          "Reisszähne",
+          "untot",
+          "Untoter",
+          "Vampir",
+          "Zähne"
+        ]
+      },
+      "🧛🏼": {
+        "default": [
+          "Blutsauger",
+          "Dracula",
+          "Halloween",
+          "mittelhelle Hautfarbe",
+          "Person",
+          "Reisszähne",
+          "untot",
+          "Untoter",
+          "Vampir",
+          "Zähne"
+        ]
+      },
+      "🧛🏽": {
+        "default": [
+          "Blutsauger",
+          "Dracula",
+          "Halloween",
+          "mittlere Hautfarbe",
+          "Person",
+          "Reisszähne",
+          "untot",
+          "Untoter",
+          "Vampir",
+          "Zähne"
+        ]
+      },
+      "🧛🏾": {
+        "default": [
+          "Blutsauger",
+          "Dracula",
+          "Halloween",
+          "mitteldunkle Hautfarbe",
+          "Person",
+          "Reisszähne",
+          "untot",
+          "Untoter",
+          "Vampir",
+          "Zähne"
+        ]
+      },
+      "🧛🏿": {
+        "default": [
+          "Blutsauger",
+          "Dracula",
+          "dunkle Hautfarbe",
+          "Halloween",
+          "Person",
+          "Reisszähne",
+          "untot",
+          "Untoter",
+          "Vampir",
+          "Zähne"
+        ]
+      },
+      "💇🏻": {
+        "default": [
+          "Coiffeur",
+          "Friseur(in)",
+          "Friseuse",
+          "Frisör(in)",
+          "Frisur",
+          "Haare",
+          "Haarschnitt",
+          "helle Hautfarbe",
+          "Person",
+          "Person beim Haareschneiden",
+          "Schere"
+        ]
+      },
+      "💇🏼": {
+        "default": [
+          "Coiffeur",
+          "Friseur(in)",
+          "Friseuse",
+          "Frisör(in)",
+          "Frisur",
+          "Haare",
+          "Haarschnitt",
+          "mittelhelle Hautfarbe",
+          "Person",
+          "Person beim Haareschneiden",
+          "Schere"
+        ]
+      },
+      "💇🏽": {
+        "default": [
+          "Coiffeur",
+          "Friseur(in)",
+          "Friseuse",
+          "Frisör(in)",
+          "Frisur",
+          "Haare",
+          "Haarschnitt",
+          "mittlere Hautfarbe",
+          "Person",
+          "Person beim Haareschneiden",
+          "Schere"
+        ]
+      },
+      "💇🏾": {
+        "default": [
+          "Coiffeur",
+          "Friseur(in)",
+          "Friseuse",
+          "Frisör(in)",
+          "Frisur",
+          "Haare",
+          "Haarschnitt",
+          "mitteldunkle Hautfarbe",
+          "Person",
+          "Person beim Haareschneiden",
+          "Schere"
+        ]
+      },
+      "💇🏿": {
+        "default": [
+          "Coiffeur",
+          "dunkle Hautfarbe",
+          "Friseur(in)",
+          "Friseuse",
+          "Frisör(in)",
+          "Frisur",
+          "Haare",
+          "Haarschnitt",
+          "Person",
+          "Person beim Haareschneiden",
+          "Schere"
+        ]
+      },
+      "💇🏻‍♂": {
+        "default": [
+          "Coiffeur",
+          "Friseur",
+          "Haarschnitt",
+          "helle Hautfarbe",
+          "Mann",
+          "Mann beim Haareschneiden",
+          "Schere"
+        ]
+      },
+      "💇🏼‍♂": {
+        "default": [
+          "Coiffeur",
+          "Friseur",
+          "Haarschnitt",
+          "Mann",
+          "Mann beim Haareschneiden",
+          "mittelhelle Hautfarbe",
+          "Schere"
+        ]
+      },
+      "💇🏽‍♂": {
+        "default": [
+          "Coiffeur",
+          "Friseur",
+          "Haarschnitt",
+          "Mann",
+          "Mann beim Haareschneiden",
+          "mittlere Hautfarbe",
+          "Schere"
+        ]
+      },
+      "💇🏾‍♂": {
+        "default": [
+          "Coiffeur",
+          "Friseur",
+          "Haarschnitt",
+          "Mann",
+          "Mann beim Haareschneiden",
+          "mitteldunkle Hautfarbe",
+          "Schere"
+        ]
+      },
+      "💇🏿‍♂": {
+        "default": [
+          "Coiffeur",
+          "dunkle Hautfarbe",
+          "Friseur",
+          "Haarschnitt",
+          "Mann",
+          "Mann beim Haareschneiden",
+          "Schere"
+        ]
+      },
+      "💇🏻‍♀": {
+        "default": [
+          "Coiffeur",
+          "Frau",
+          "Frau beim Haareschneiden",
+          "Friseur",
+          "Haarschnitt",
+          "helle Hautfarbe",
+          "Schere"
+        ]
+      },
+      "💇🏼‍♀": {
+        "default": [
+          "Coiffeur",
+          "Frau",
+          "Frau beim Haareschneiden",
+          "Friseur",
+          "Haarschnitt",
+          "mittelhelle Hautfarbe",
+          "Schere"
+        ]
+      },
+      "💇🏽‍♀": {
+        "default": [
+          "Coiffeur",
+          "Frau",
+          "Frau beim Haareschneiden",
+          "Friseur",
+          "Haarschnitt",
+          "mittlere Hautfarbe",
+          "Schere"
+        ]
+      },
+      "💇🏾‍♀": {
+        "default": [
+          "Coiffeur",
+          "Frau",
+          "Frau beim Haareschneiden",
+          "Friseur",
+          "Haarschnitt",
+          "mitteldunkle Hautfarbe",
+          "Schere"
+        ]
+      },
+      "💇🏿‍♀": {
+        "default": [
+          "Coiffeur",
+          "dunkle Hautfarbe",
+          "Frau",
+          "Frau beim Haareschneiden",
+          "Friseur",
+          "Haarschnitt",
+          "Schere"
         ]
       },
       "🚶🏻": {
@@ -969,15 +2029,261 @@
           "Fussgängerin: dunkle Hautfarbe"
         ]
       },
+      "🚶‍➡": {
+        "default": [
+          "Fussgänger(in)",
+          "gehen",
+          "gehend",
+          "nach",
+          "rechts",
+          "wandern"
+        ],
+        "tts": [
+          "Fussgänger(in): nach rechts"
+        ]
+      },
+      "🚶🏻‍➡": {
+        "default": [
+          "Fussgänger(in)",
+          "gehen",
+          "gehend",
+          "helle Hautfarbe",
+          "nach",
+          "rechts",
+          "wandern"
+        ],
+        "tts": [
+          "Fussgänger(in): helle Hautfarbe, nach rechts"
+        ]
+      },
+      "🚶🏼‍➡": {
+        "default": [
+          "Fussgänger(in)",
+          "gehen",
+          "gehend",
+          "mittelhelle Hautfarbe",
+          "nach",
+          "rechts",
+          "wandern"
+        ],
+        "tts": [
+          "Fussgänger(in): mittelhelle Hautfarbe, nach rechts"
+        ]
+      },
+      "🚶🏽‍➡": {
+        "default": [
+          "Fussgänger(in)",
+          "gehen",
+          "gehend",
+          "mittlere Hautfarbe",
+          "nach",
+          "rechts",
+          "wandern"
+        ],
+        "tts": [
+          "Fussgänger(in): mittlere Hautfarbe, nach rechts"
+        ]
+      },
+      "🚶🏾‍➡": {
+        "default": [
+          "Fussgänger(in)",
+          "gehen",
+          "gehend",
+          "mitteldunkle Hautfarbe",
+          "nach",
+          "rechts",
+          "wandern"
+        ],
+        "tts": [
+          "Fussgänger(in): mitteldunkle Hautfarbe, nach rechts"
+        ]
+      },
+      "🚶🏿‍➡": {
+        "default": [
+          "dunkle Hautfarbe",
+          "Fussgänger(in)",
+          "gehen",
+          "gehend",
+          "nach",
+          "rechts",
+          "wandern"
+        ],
+        "tts": [
+          "Fussgänger(in): dunkle Hautfarbe, nach rechts"
+        ]
+      },
+      "🚶‍♀‍➡": {
+        "default": [
+          "Frau",
+          "Fussgängerin",
+          "gehen",
+          "nach",
+          "rechts",
+          "Spaziergang"
+        ],
+        "tts": [
+          "Fussgängerin: nach rechts"
+        ]
+      },
+      "🚶🏻‍♀‍➡": {
+        "default": [
+          "Frau",
+          "Fussgängerin",
+          "gehen",
+          "helle Hautfarbe",
+          "nach",
+          "rechts",
+          "Spaziergang"
+        ],
+        "tts": [
+          "Fussgängerin: helle Hautfarbe, nach rechts"
+        ]
+      },
+      "🚶🏼‍♀‍➡": {
+        "default": [
+          "Frau",
+          "Fussgängerin",
+          "gehen",
+          "mittelhelle Hautfarbe",
+          "nach",
+          "rechts",
+          "Spaziergang"
+        ],
+        "tts": [
+          "Fussgängerin: mittelhelle Hautfarbe, nach rechts"
+        ]
+      },
+      "🚶🏽‍♀‍➡": {
+        "default": [
+          "Frau",
+          "Fussgängerin",
+          "gehen",
+          "mittlere Hautfarbe",
+          "nach",
+          "rechts",
+          "Spaziergang"
+        ],
+        "tts": [
+          "Fussgängerin: mittlere Hautfarbe, nach rechts"
+        ]
+      },
+      "🚶🏾‍♀‍➡": {
+        "default": [
+          "Frau",
+          "Fussgängerin",
+          "gehen",
+          "mitteldunkle Hautfarbe",
+          "nach",
+          "rechts",
+          "Spaziergang"
+        ],
+        "tts": [
+          "Fussgängerin: mitteldunkle Hautfarbe, nach rechts"
+        ]
+      },
+      "🚶🏿‍♀‍➡": {
+        "default": [
+          "dunkle Hautfarbe",
+          "Frau",
+          "Fussgängerin",
+          "gehen",
+          "nach",
+          "rechts",
+          "Spaziergang"
+        ],
+        "tts": [
+          "Fussgängerin: dunkle Hautfarbe, nach rechts"
+        ]
+      },
+      "🚶‍♂‍➡": {
+        "default": [
+          "Fussgänger",
+          "gehen",
+          "Mann",
+          "nach",
+          "rechts",
+          "Spaziergang"
+        ],
+        "tts": [
+          "Fussgänger: nach rechts"
+        ]
+      },
+      "🚶🏻‍♂‍➡": {
+        "default": [
+          "Fussgänger",
+          "gehen",
+          "helle Hautfarbe",
+          "Mann",
+          "nach",
+          "rechts",
+          "Spaziergang"
+        ],
+        "tts": [
+          "Fussgänger: helle Hautfarbe, nach rechts"
+        ]
+      },
+      "🚶🏼‍♂‍➡": {
+        "default": [
+          "Fussgänger",
+          "gehen",
+          "Mann",
+          "mittelhelle Hautfarbe",
+          "nach",
+          "rechts",
+          "Spaziergang"
+        ],
+        "tts": [
+          "Fussgänger: mittelhelle Hautfarbe, nach rechts"
+        ]
+      },
+      "🚶🏽‍♂‍➡": {
+        "default": [
+          "Fussgänger",
+          "gehen",
+          "Mann",
+          "mittlere Hautfarbe",
+          "nach",
+          "rechts",
+          "Spaziergang"
+        ],
+        "tts": [
+          "Fussgänger: mittlere Hautfarbe, nach rechts"
+        ]
+      },
+      "🚶🏾‍♂‍➡": {
+        "default": [
+          "Fussgänger",
+          "gehen",
+          "Mann",
+          "mitteldunkle Hautfarbe",
+          "nach",
+          "rechts",
+          "Spaziergang"
+        ],
+        "tts": [
+          "Fussgänger: mitteldunkle Hautfarbe, nach rechts"
+        ]
+      },
+      "🚶🏿‍♂‍➡": {
+        "default": [
+          "dunkle Hautfarbe",
+          "Fussgänger",
+          "gehen",
+          "Mann",
+          "nach",
+          "rechts",
+          "Spaziergang"
+        ],
+        "tts": [
+          "Fussgänger: dunkle Hautfarbe, nach rechts"
+        ]
+      },
       "🧑🏻‍🦯": {
         "default": [
           "Barrierefreiheit",
           "blind",
           "helle Hautfarbe",
           "Person mit Langstock"
-        ],
-        "tts": [
-          "Person mit Langstock: helle Hautfarbe"
         ]
       },
       "🧑🏼‍🦯": {
@@ -986,9 +2292,6 @@
           "blind",
           "mittelhelle Hautfarbe",
           "Person mit Langstock"
-        ],
-        "tts": [
-          "Person mit Langstock: mittelhelle Hautfarbe"
         ]
       },
       "🧑🏽‍🦯": {
@@ -997,9 +2300,6 @@
           "blind",
           "mittlere Hautfarbe",
           "Person mit Langstock"
-        ],
-        "tts": [
-          "Person mit Langstock: mittlere Hautfarbe"
         ]
       },
       "🧑🏾‍🦯": {
@@ -1008,9 +2308,6 @@
           "blind",
           "mitteldunkle Hautfarbe",
           "Person mit Langstock"
-        ],
-        "tts": [
-          "Person mit Langstock: mitteldunkle Hautfarbe"
         ]
       },
       "🧑🏿‍🦯": {
@@ -1019,39 +2316,155 @@
           "blind",
           "dunkle Hautfarbe",
           "Person mit Langstock"
-        ],
-        "tts": [
-          "Person mit Langstock: dunkle Hautfarbe"
         ]
       },
-      "👨🏻‍🦯": {
+      "🧑‍🦯‍➡": {
         "default": [
+          "Barrierefreiheit",
+          "blind",
+          "nach",
+          "Person mit Langstock",
+          "rechts"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "Barrierefreiheit",
+          "blind",
           "helle Hautfarbe",
-          "Mann mit Gehstock"
+          "nach",
+          "Person mit Langstock",
+          "rechts"
         ]
       },
-      "👨🏼‍🦯": {
+      "🧑🏼‍🦯‍➡": {
         "default": [
-          "Mann mit Gehstock",
+          "Barrierefreiheit",
+          "blind",
+          "mittelhelle Hautfarbe",
+          "nach",
+          "Person mit Langstock",
+          "rechts"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "Barrierefreiheit",
+          "blind",
+          "mittlere Hautfarbe",
+          "nach",
+          "Person mit Langstock",
+          "rechts"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "Barrierefreiheit",
+          "blind",
+          "mitteldunkle Hautfarbe",
+          "nach",
+          "Person mit Langstock",
+          "rechts"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "Barrierefreiheit",
+          "blind",
+          "dunkle Hautfarbe",
+          "nach",
+          "Person mit Langstock",
+          "rechts"
+        ]
+      },
+      "🧗🏻‍♂": {
+        "default": [
+          "bergsteigen",
+          "Bergsteiger",
+          "helle Hautfarbe",
+          "Kletterer",
+          "klettern"
+        ]
+      },
+      "🧗🏼‍♂": {
+        "default": [
+          "bergsteigen",
+          "Bergsteiger",
+          "Kletterer",
+          "klettern",
           "mittelhelle Hautfarbe"
         ]
       },
-      "👨🏽‍🦯": {
+      "🧗🏽‍♂": {
         "default": [
-          "Mann mit Gehstock",
+          "bergsteigen",
+          "Bergsteiger",
+          "Kletterer",
+          "klettern",
           "mittlere Hautfarbe"
         ]
       },
-      "👨🏾‍🦯": {
+      "🧗🏾‍♂": {
         "default": [
-          "Mann mit Gehstock",
+          "bergsteigen",
+          "Bergsteiger",
+          "Kletterer",
+          "klettern",
           "mitteldunkle Hautfarbe"
         ]
       },
-      "👨🏿‍🦯": {
+      "🧗🏿‍♂": {
         "default": [
+          "bergsteigen",
+          "Bergsteiger",
           "dunkle Hautfarbe",
-          "Mann mit Gehstock"
+          "Kletterer",
+          "klettern"
+        ]
+      },
+      "🧗🏻‍♀": {
+        "default": [
+          "bergsteigen",
+          "Bergsteigerin",
+          "helle Hautfarbe",
+          "Kletterin",
+          "klettern"
+        ]
+      },
+      "🧗🏼‍♀": {
+        "default": [
+          "bergsteigen",
+          "Bergsteigerin",
+          "Kletterin",
+          "klettern",
+          "mittelhelle Hautfarbe"
+        ]
+      },
+      "🧗🏽‍♀": {
+        "default": [
+          "bergsteigen",
+          "Bergsteigerin",
+          "Kletterin",
+          "klettern",
+          "mittlere Hautfarbe"
+        ]
+      },
+      "🧗🏾‍♀": {
+        "default": [
+          "bergsteigen",
+          "Bergsteigerin",
+          "Kletterin",
+          "klettern",
+          "mitteldunkle Hautfarbe"
+        ]
+      },
+      "🧗🏿‍♀": {
+        "default": [
+          "bergsteigen",
+          "Bergsteigerin",
+          "dunkle Hautfarbe",
+          "Kletterin",
+          "klettern"
         ]
       },
       "🇧🇳": {

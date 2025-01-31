@@ -2,9 +2,6 @@
   "main": {
     "mas-TZ": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "mas",
         "territory": "TZ"
       },

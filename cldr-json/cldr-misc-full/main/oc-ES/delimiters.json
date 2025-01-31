@@ -2,17 +2,14 @@
   "main": {
     "oc-ES": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "oc",
         "territory": "ES"
       },
       "delimiters": {
-        "quotationStart": "“",
-        "quotationEnd": "”",
-        "alternateQuotationStart": "‘",
-        "alternateQuotationEnd": "’"
+        "quotationStart": "«",
+        "quotationEnd": "»",
+        "alternateQuotationStart": "«",
+        "alternateQuotationEnd": "»"
       }
     }
   }

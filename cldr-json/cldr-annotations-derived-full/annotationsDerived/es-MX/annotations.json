@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "es",
       "territory": "MX"
     },
@@ -15,9 +12,6 @@
           "dorso de la mano alzado",
           "mano",
           "tono de piel claro"
-        ],
-        "tts": [
-          "dorso de la mano: tono de piel claro"
         ]
       },
       "🤚🏼": {
@@ -27,9 +21,6 @@
           "dorso de la mano alzado",
           "mano",
           "tono de piel claro medio"
-        ],
-        "tts": [
-          "dorso de la mano: tono de piel claro medio"
         ]
       },
       "🤚🏽": {
@@ -39,9 +30,6 @@
           "dorso de la mano alzado",
           "mano",
           "tono de piel medio"
-        ],
-        "tts": [
-          "dorso de la mano: tono de piel medio"
         ]
       },
       "🤚🏾": {
@@ -51,9 +39,6 @@
           "dorso de la mano alzado",
           "mano",
           "tono de piel oscuro medio"
-        ],
-        "tts": [
-          "dorso de la mano: tono de piel oscuro medio"
         ]
       },
       "🤚🏿": {
@@ -63,9 +48,6 @@
           "dorso de la mano alzado",
           "mano",
           "tono de piel oscuro"
-        ],
-        "tts": [
-          "dorso de la mano: tono de piel oscuro"
         ]
       },
       "🖐🏻": {
@@ -1835,7 +1817,10 @@
       },
       "🧑🏻‍❤‍💋‍🧑🏼": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -1851,7 +1836,10 @@
       },
       "🧑🏻‍❤‍💋‍🧑🏽": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -1867,7 +1855,10 @@
       },
       "🧑🏻‍❤‍💋‍🧑🏾": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -1883,7 +1874,10 @@
       },
       "🧑🏻‍❤‍💋‍🧑🏿": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -1899,7 +1893,10 @@
       },
       "🧑🏼‍❤‍💋‍🧑🏻": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -1915,7 +1912,10 @@
       },
       "🧑🏼‍❤‍💋‍🧑🏽": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -1931,7 +1931,10 @@
       },
       "🧑🏼‍❤‍💋‍🧑🏾": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -1947,7 +1950,10 @@
       },
       "🧑🏼‍❤‍💋‍🧑🏿": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -1963,7 +1969,10 @@
       },
       "🧑🏽‍❤‍💋‍🧑🏻": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -1979,7 +1988,10 @@
       },
       "🧑🏽‍❤‍💋‍🧑🏼": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -1995,7 +2007,10 @@
       },
       "🧑🏽‍❤‍💋‍🧑🏾": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -2011,7 +2026,10 @@
       },
       "🧑🏽‍❤‍💋‍🧑🏿": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -2027,7 +2045,10 @@
       },
       "🧑🏾‍❤‍💋‍🧑🏻": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -2043,7 +2064,10 @@
       },
       "🧑🏾‍❤‍💋‍🧑🏼": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -2059,7 +2083,10 @@
       },
       "🧑🏾‍❤‍💋‍🧑🏽": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -2075,7 +2102,10 @@
       },
       "🧑🏾‍❤‍💋‍🧑🏿": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -2091,7 +2121,10 @@
       },
       "🧑🏿‍❤‍💋‍🧑🏻": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -2107,7 +2140,10 @@
       },
       "🧑🏿‍❤‍💋‍🧑🏼": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -2123,7 +2159,10 @@
       },
       "🧑🏿‍❤‍💋‍🧑🏽": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -2139,7 +2178,10 @@
       },
       "🧑🏿‍❤‍💋‍🧑🏾": {
         "default": [
+          "amor",
           "beso",
+          "beso de pareja",
+          "dos personas besándose",
           "pareja",
           "pareja besándose",
           "persona",
@@ -4464,9 +4506,6 @@
           "mujer",
           "mujer frunciendo el ceño",
           "tono de piel claro"
-        ],
-        "tts": [
-          "mujer frunciendo el ceño: tono de piel claro"
         ]
       },
       "🙍🏼‍♀": {
@@ -4477,9 +4516,6 @@
           "mujer",
           "mujer frunciendo el ceño",
           "tono de piel claro medio"
-        ],
-        "tts": [
-          "mujer frunciendo el ceño: tono de piel claro medio"
         ]
       },
       "🙍🏽‍♀": {
@@ -4490,9 +4526,6 @@
           "mujer",
           "mujer frunciendo el ceño",
           "tono de piel medio"
-        ],
-        "tts": [
-          "mujer frunciendo el ceño: tono de piel medio"
         ]
       },
       "🙍🏾‍♀": {
@@ -4503,9 +4536,6 @@
           "mujer",
           "mujer frunciendo el ceño",
           "tono de piel oscuro medio"
-        ],
-        "tts": [
-          "mujer frunciendo el ceño: tono de piel oscuro medio"
         ]
       },
       "🙍🏿‍♀": {
@@ -4516,9 +4546,6 @@
           "mujer",
           "mujer frunciendo el ceño",
           "tono de piel oscuro"
-        ],
-        "tts": [
-          "mujer frunciendo el ceño: tono de piel oscuro"
         ]
       },
       "🙅🏻": {
@@ -4531,9 +4558,6 @@
           "persona haciendo el gesto de \"no\"",
           "prohibido",
           "tono de piel claro"
-        ],
-        "tts": [
-          "persona haciendo el gesto de \"no\": tono de piel claro"
         ]
       },
       "🙅🏼": {
@@ -4546,9 +4570,6 @@
           "persona haciendo el gesto de \"no\"",
           "prohibido",
           "tono de piel claro medio"
-        ],
-        "tts": [
-          "persona haciendo el gesto de \"no\": tono de piel claro medio"
         ]
       },
       "🙅🏽": {
@@ -4561,9 +4582,6 @@
           "persona haciendo el gesto de \"no\"",
           "prohibido",
           "tono de piel medio"
-        ],
-        "tts": [
-          "persona haciendo el gesto de \"no\": tono de piel medio"
         ]
       },
       "🙅🏾": {
@@ -4576,9 +4594,6 @@
           "persona haciendo el gesto de \"no\"",
           "prohibido",
           "tono de piel oscuro medio"
-        ],
-        "tts": [
-          "persona haciendo el gesto de \"no\": tono de piel oscuro medio"
         ]
       },
       "🙅🏿": {
@@ -4591,9 +4606,6 @@
           "persona haciendo el gesto de \"no\"",
           "prohibido",
           "tono de piel oscuro"
-        ],
-        "tts": [
-          "persona haciendo el gesto de \"no\": tono de piel oscuro"
         ]
       },
       "🙆🏻": {
@@ -4604,9 +4616,6 @@
           "persona gesto de \"de acuerdo\"",
           "persona haciendo el gesto de \"de acuerdo\"",
           "tono de piel claro"
-        ],
-        "tts": [
-          "persona haciendo el gesto de \"de acuerdo\": tono de piel claro"
         ]
       },
       "🙆🏼": {
@@ -4617,9 +4626,6 @@
           "persona gesto de \"de acuerdo\"",
           "persona haciendo el gesto de \"de acuerdo\"",
           "tono de piel claro medio"
-        ],
-        "tts": [
-          "persona haciendo el gesto de \"de acuerdo\": tono de piel claro medio"
         ]
       },
       "🙆🏽": {
@@ -4630,9 +4636,6 @@
           "persona gesto de \"de acuerdo\"",
           "persona haciendo el gesto de \"de acuerdo\"",
           "tono de piel medio"
-        ],
-        "tts": [
-          "persona haciendo el gesto de \"de acuerdo\": tono de piel medio"
         ]
       },
       "🙆🏾": {
@@ -4643,9 +4646,6 @@
           "persona gesto de \"de acuerdo\"",
           "persona haciendo el gesto de \"de acuerdo\"",
           "tono de piel oscuro medio"
-        ],
-        "tts": [
-          "persona haciendo el gesto de \"de acuerdo\": tono de piel oscuro medio"
         ]
       },
       "🙆🏿": {
@@ -4656,9 +4656,6 @@
           "persona gesto de \"de acuerdo\"",
           "persona haciendo el gesto de \"de acuerdo\"",
           "tono de piel oscuro"
-        ],
-        "tts": [
-          "persona haciendo el gesto de \"de acuerdo\": tono de piel oscuro"
         ]
       },
       "💁🏻": {
@@ -6452,9 +6449,7 @@
           "Navidad",
           "noel",
           "papá",
-          "Papá Noel",
           "santa",
-          "Santa Claus",
           "tono de piel claro"
         ]
       },
@@ -6464,9 +6459,7 @@
           "Navidad",
           "noel",
           "papá",
-          "Papá Noel",
           "santa",
-          "Santa Claus",
           "tono de piel claro medio"
         ]
       },
@@ -6476,9 +6469,7 @@
           "Navidad",
           "noel",
           "papá",
-          "Papá Noel",
           "santa",
-          "Santa Claus",
           "tono de piel medio"
         ]
       },
@@ -6488,9 +6479,7 @@
           "Navidad",
           "noel",
           "papá",
-          "Papá Noel",
           "santa",
-          "Santa Claus",
           "tono de piel oscuro medio"
         ]
       },
@@ -6500,16 +6489,13 @@
           "Navidad",
           "noel",
           "papá",
-          "Papá Noel",
           "santa",
-          "Santa Claus",
           "tono de piel oscuro"
         ]
       },
       "🤶🏻": {
         "default": [
           "mamá",
-          "mamá noel",
           "Mamá Noel",
           "Navidad",
           "señora Claus",
@@ -6519,7 +6505,6 @@
       "🤶🏼": {
         "default": [
           "mamá",
-          "mamá noel",
           "Mamá Noel",
           "Navidad",
           "señora Claus",
@@ -6529,7 +6514,6 @@
       "🤶🏽": {
         "default": [
           "mamá",
-          "mamá noel",
           "Mamá Noel",
           "Navidad",
           "señora Claus",
@@ -6539,7 +6523,6 @@
       "🤶🏾": {
         "default": [
           "mamá",
-          "mamá noel",
           "Mamá Noel",
           "Navidad",
           "señora Claus",
@@ -6549,7 +6532,6 @@
       "🤶🏿": {
         "default": [
           "mamá",
-          "mamá noel",
           "Mamá Noel",
           "Navidad",
           "señora Claus",
@@ -7441,6 +7423,77 @@
           "Persona con bastón blanco: tono de piel oscuro"
         ]
       },
+      "🧑‍🦯‍➡": {
+        "default": [
+          "derecha",
+          "hacia",
+          "la",
+          "Persona con bastón blanco"
+        ],
+        "tts": [
+          "Persona con bastón blanco: hacia la derecha"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "derecha",
+          "hacia",
+          "la",
+          "Persona con bastón blanco",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "Persona con bastón blanco: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "🧑🏼‍🦯‍➡": {
+        "default": [
+          "derecha",
+          "hacia",
+          "la",
+          "Persona con bastón blanco",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "Persona con bastón blanco: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "derecha",
+          "hacia",
+          "la",
+          "Persona con bastón blanco",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "Persona con bastón blanco: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "derecha",
+          "hacia",
+          "la",
+          "Persona con bastón blanco",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "Persona con bastón blanco: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "derecha",
+          "hacia",
+          "la",
+          "Persona con bastón blanco",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "Persona con bastón blanco: tono de piel oscuro y hacia la derecha"
+        ]
+      },
       "🧑🏻‍🦽": {
         "default": [
           "persona en silla de ruedas manual",
@@ -7471,27 +7524,327 @@
           "tono de piel oscuro"
         ]
       },
+      "🧑‍🦽‍➡": {
+        "default": [
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas manual"
+        ]
+      },
+      "🧑🏻‍🦽‍➡": {
+        "default": [
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas manual",
+          "tono de piel claro"
+        ]
+      },
+      "🧑🏼‍🦽‍➡": {
+        "default": [
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas manual",
+          "tono de piel claro medio"
+        ]
+      },
+      "🧑🏽‍🦽‍➡": {
+        "default": [
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas manual",
+          "tono de piel medio"
+        ]
+      },
+      "🧑🏾‍🦽‍➡": {
+        "default": [
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas manual",
+          "tono de piel oscuro medio"
+        ]
+      },
+      "🧑🏿‍🦽‍➡": {
+        "default": [
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas manual",
+          "tono de piel oscuro"
+        ]
+      },
+      "🏃🏻": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "hombre corriendo",
+          "maratón",
+          "maratonista",
+          "persona",
+          "persona corriendo",
+          "tono de piel claro"
+        ]
+      },
+      "🏃🏼": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "hombre corriendo",
+          "maratón",
+          "maratonista",
+          "persona",
+          "persona corriendo",
+          "tono de piel claro medio"
+        ]
+      },
+      "🏃🏽": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "hombre corriendo",
+          "maratón",
+          "maratonista",
+          "persona",
+          "persona corriendo",
+          "tono de piel medio"
+        ]
+      },
+      "🏃🏾": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "hombre corriendo",
+          "maratón",
+          "maratonista",
+          "persona",
+          "persona corriendo",
+          "tono de piel oscuro medio"
+        ]
+      },
+      "🏃🏿": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "hombre corriendo",
+          "maratón",
+          "maratonista",
+          "persona",
+          "persona corriendo",
+          "tono de piel oscuro"
+        ]
+      },
+      "🏃‍➡": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "derecha",
+          "hacia",
+          "hombre corriendo",
+          "la",
+          "maratón",
+          "maratonista",
+          "persona",
+          "persona corriendo"
+        ]
+      },
+      "🏃🏻‍➡": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "derecha",
+          "hacia",
+          "hombre corriendo",
+          "la",
+          "maratón",
+          "maratonista",
+          "persona",
+          "persona corriendo",
+          "tono de piel claro"
+        ]
+      },
+      "🏃🏼‍➡": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "derecha",
+          "hacia",
+          "hombre corriendo",
+          "la",
+          "maratón",
+          "maratonista",
+          "persona",
+          "persona corriendo",
+          "tono de piel claro medio"
+        ]
+      },
+      "🏃🏽‍➡": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "derecha",
+          "hacia",
+          "hombre corriendo",
+          "la",
+          "maratón",
+          "maratonista",
+          "persona",
+          "persona corriendo",
+          "tono de piel medio"
+        ]
+      },
+      "🏃🏾‍➡": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "derecha",
+          "hacia",
+          "hombre corriendo",
+          "la",
+          "maratón",
+          "maratonista",
+          "persona",
+          "persona corriendo",
+          "tono de piel oscuro medio"
+        ]
+      },
+      "🏃🏿‍➡": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "derecha",
+          "hacia",
+          "hombre corriendo",
+          "la",
+          "maratón",
+          "maratonista",
+          "persona",
+          "persona corriendo",
+          "tono de piel oscuro"
+        ]
+      },
       "💃🏻": {
+        "default": [
+          "bailar",
+          "bailarín",
+          "bailarina",
+          "baile",
+          "flamenca",
+          "flamenco",
+          "mujer",
+          "mujer bailando",
+          "persona",
+          "salsa",
+          "tono de piel claro"
+        ],
         "tts": [
           "bailarina: tono de piel claro"
         ]
       },
       "💃🏼": {
+        "default": [
+          "bailar",
+          "bailarín",
+          "bailarina",
+          "baile",
+          "flamenca",
+          "flamenco",
+          "mujer",
+          "mujer bailando",
+          "persona",
+          "salsa",
+          "tono de piel claro medio"
+        ],
         "tts": [
           "bailarina: tono de piel claro medio"
         ]
       },
       "💃🏽": {
+        "default": [
+          "bailar",
+          "bailarín",
+          "bailarina",
+          "baile",
+          "flamenca",
+          "flamenco",
+          "mujer",
+          "mujer bailando",
+          "persona",
+          "salsa",
+          "tono de piel medio"
+        ],
         "tts": [
           "bailarina: tono de piel medio"
         ]
       },
       "💃🏾": {
+        "default": [
+          "bailar",
+          "bailarín",
+          "bailarina",
+          "baile",
+          "flamenca",
+          "flamenco",
+          "mujer",
+          "mujer bailando",
+          "persona",
+          "salsa",
+          "tono de piel oscuro medio"
+        ],
         "tts": [
           "bailarina: tono de piel oscuro medio"
         ]
       },
       "💃🏿": {
+        "default": [
+          "bailar",
+          "bailarín",
+          "bailarina",
+          "baile",
+          "flamenca",
+          "flamenco",
+          "mujer",
+          "mujer bailando",
+          "persona",
+          "salsa",
+          "tono de piel oscuro"
+        ],
         "tts": [
           "bailarina: tono de piel oscuro"
         ]
@@ -7745,45 +8098,30 @@
         "default": [
           "persona jugando al golf",
           "tono de piel claro"
-        ],
-        "tts": [
-          "persona jugando al golf: tono de piel claro"
         ]
       },
       "🏌🏼": {
         "default": [
           "persona jugando al golf",
           "tono de piel claro medio"
-        ],
-        "tts": [
-          "persona jugando al golf: tono de piel claro medio"
         ]
       },
       "🏌🏽": {
         "default": [
           "persona jugando al golf",
           "tono de piel medio"
-        ],
-        "tts": [
-          "persona jugando al golf: tono de piel medio"
         ]
       },
       "🏌🏾": {
         "default": [
           "persona jugando al golf",
           "tono de piel oscuro medio"
-        ],
-        "tts": [
-          "persona jugando al golf: tono de piel oscuro medio"
         ]
       },
       "🏌🏿": {
         "default": [
           "persona jugando al golf",
           "tono de piel oscuro"
-        ],
-        "tts": [
-          "persona jugando al golf: tono de piel oscuro"
         ]
       },
       "🏄🏻": {
@@ -7793,9 +8131,6 @@
           "surf",
           "surfista",
           "tono de piel claro"
-        ],
-        "tts": [
-          "persona haciendo surf: tono de piel claro"
         ]
       },
       "🏄🏼": {
@@ -7805,9 +8140,6 @@
           "surf",
           "surfista",
           "tono de piel claro medio"
-        ],
-        "tts": [
-          "persona haciendo surf: tono de piel claro medio"
         ]
       },
       "🏄🏽": {
@@ -7817,9 +8149,6 @@
           "surf",
           "surfista",
           "tono de piel medio"
-        ],
-        "tts": [
-          "persona haciendo surf: tono de piel medio"
         ]
       },
       "🏄🏾": {
@@ -7829,9 +8158,6 @@
           "surf",
           "surfista",
           "tono de piel oscuro medio"
-        ],
-        "tts": [
-          "persona haciendo surf: tono de piel oscuro medio"
         ]
       },
       "🏄🏿": {
@@ -7841,9 +8167,6 @@
           "surf",
           "surfista",
           "tono de piel oscuro"
-        ],
-        "tts": [
-          "persona haciendo surf: tono de piel oscuro"
         ]
       },
       "🚣🏻‍♂": {
@@ -8416,6 +8739,81 @@
           "waterpolo"
         ]
       },
+      "🤾🏻": {
+        "default": [
+          "atlético",
+          "balón",
+          "balonmano",
+          "deporte",
+          "handball",
+          "lanzamiento",
+          "mano",
+          "pelota",
+          "persona",
+          "persona jugando handball",
+          "tono de piel claro"
+        ]
+      },
+      "🤾🏼": {
+        "default": [
+          "atlético",
+          "balón",
+          "balonmano",
+          "deporte",
+          "handball",
+          "lanzamiento",
+          "mano",
+          "pelota",
+          "persona",
+          "persona jugando handball",
+          "tono de piel claro medio"
+        ]
+      },
+      "🤾🏽": {
+        "default": [
+          "atlético",
+          "balón",
+          "balonmano",
+          "deporte",
+          "handball",
+          "lanzamiento",
+          "mano",
+          "pelota",
+          "persona",
+          "persona jugando handball",
+          "tono de piel medio"
+        ]
+      },
+      "🤾🏾": {
+        "default": [
+          "atlético",
+          "balón",
+          "balonmano",
+          "deporte",
+          "handball",
+          "lanzamiento",
+          "mano",
+          "pelota",
+          "persona",
+          "persona jugando handball",
+          "tono de piel oscuro medio"
+        ]
+      },
+      "🤾🏿": {
+        "default": [
+          "atlético",
+          "balón",
+          "balonmano",
+          "deporte",
+          "handball",
+          "lanzamiento",
+          "mano",
+          "pelota",
+          "persona",
+          "persona jugando handball",
+          "tono de piel oscuro"
+        ]
+      },
       "🤹🏻": {
         "default": [
           "malabarista",
@@ -8504,6 +8902,81 @@
         ],
         "tts": [
           "persona en tina: tono de piel oscuro"
+        ]
+      },
+      "🛌🏻": {
+        "default": [
+          "a dormir",
+          "buenas noches",
+          "cama",
+          "cansancio",
+          "descansar",
+          "dormir",
+          "hotel",
+          "noche",
+          "persona",
+          "persona durmiendo",
+          "tono de piel claro"
+        ]
+      },
+      "🛌🏼": {
+        "default": [
+          "a dormir",
+          "buenas noches",
+          "cama",
+          "cansancio",
+          "descansar",
+          "dormir",
+          "hotel",
+          "noche",
+          "persona",
+          "persona durmiendo",
+          "tono de piel claro medio"
+        ]
+      },
+      "🛌🏽": {
+        "default": [
+          "a dormir",
+          "buenas noches",
+          "cama",
+          "cansancio",
+          "descansar",
+          "dormir",
+          "hotel",
+          "noche",
+          "persona",
+          "persona durmiendo",
+          "tono de piel medio"
+        ]
+      },
+      "🛌🏾": {
+        "default": [
+          "a dormir",
+          "buenas noches",
+          "cama",
+          "cansancio",
+          "descansar",
+          "dormir",
+          "hotel",
+          "noche",
+          "persona",
+          "persona durmiendo",
+          "tono de piel oscuro medio"
+        ]
+      },
+      "🛌🏿": {
+        "default": [
+          "a dormir",
+          "buenas noches",
+          "cama",
+          "cansancio",
+          "descansar",
+          "dormir",
+          "hotel",
+          "noche",
+          "persona",
+          "persona durmiendo",
+          "tono de piel oscuro"
         ]
       },
       "👭🏻": {
@@ -9483,24 +9956,9 @@
           "bandera: Guernsey"
         ]
       },
-      "🇷🇴": {
-        "tts": [
-          "bandera: Rumania"
-        ]
-      },
-      "🇸🇦": {
-        "tts": [
-          "bandera: Arabia Saudita"
-        ]
-      },
       "🇸🇿": {
         "tts": [
           "bandera: Eswatini"
-        ]
-      },
-      "🇹🇦": {
-        "tts": [
-          "bandera: Tristán de Acuña"
         ]
       },
       "🇺🇲": {
@@ -9508,29 +9966,9 @@
           "bandera: Islas menores alejadas de EE. UU."
         ]
       },
-      "৳": {
-        "tts": [
-          "taka bangladesí"
-        ]
-      },
       "฿": {
         "tts": [
           "baht tailandés"
-        ]
-      },
-      "៛": {
-        "tts": [
-          "riel camboyano"
-        ]
-      },
-      "₫": {
-        "tts": [
-          "dong vietnamita"
-        ]
-      },
-      "₭": {
-        "tts": [
-          "kip laosiano"
         ]
       },
       "0⃣": {

@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "cy"
     },
     "annotations": {
@@ -2684,7 +2681,8 @@
       },
       "▬": {
         "default": [
-          "petryal wedi’i lenwi"
+          "petryal",
+          "wedi’i lenwi"
         ],
         "tts": [
           "petryal wedi’i lenwi"
@@ -2692,7 +2690,8 @@
       },
       "▭": {
         "default": [
-          "petryal gwag"
+          "gwag",
+          "petryal"
         ],
         "tts": [
           "petryal gwag"
@@ -2700,7 +2699,9 @@
       },
       "▮": {
         "default": [
-          "petryal fertigol wedi’i lenwi"
+          "fertigol",
+          "petryal",
+          "wedi’i lenwi"
         ],
         "tts": [
           "petryal fertigol wedi’i lenwi"
@@ -2708,7 +2709,8 @@
       },
       "▰": {
         "default": [
-          "paralelogram wedi’i lenwi"
+          "paralelogram",
+          "wedi’i lenwi"
         ],
         "tts": [
           "paralelogram wedi’i lenwi"
@@ -3829,6 +3831,26 @@
           "wyneb sydd ysgwyd"
         ]
       },
+      "🙂‍↔": {
+        "default": [
+          "na",
+          "pen yn ysgwyd o ochr i ochr",
+          "ysgwyd"
+        ],
+        "tts": [
+          "pen yn ysgwyd o ochr i ochr"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "ie",
+          "nodio",
+          "pen yn ysgwyd i fyny ac i lawr"
+        ],
+        "tts": [
+          "pen yn ysgwyd i fyny ac i lawr"
+        ]
+      },
       "😌": {
         "default": [
           "rhyddhad",
@@ -3877,6 +3899,17 @@
         ],
         "tts": [
           "wyneb yn cysgu"
+        ]
+      },
+      "🫩": {
+        "default": [
+          "cysglyd",
+          "wedi blino",
+          "wedi ymlâdd",
+          "wyneb gyda bagiau dan y llygaid"
+        ],
+        "tts": [
+          "wyneb gyda bagiau dan y llygaid"
         ]
       },
       "😷": {
@@ -4847,10 +4880,15 @@
       },
       "🩷": {
         "default": [
+          "143",
+          "arbennig",
           "calon",
           "calon binc",
           "caru",
+          "ciwt",
+          "emosiwn",
           "hoffi",
+          "melys",
           "pert",
           "pinc"
         ],
@@ -4899,11 +4937,16 @@
       },
       "🩵": {
         "default": [
+          "143",
+          "arbennig",
           "calon",
           "calon las golau",
-          "corhwyaid",
-          "cyan",
-          "glas golau"
+          "caru",
+          "ciwt",
+          "emosiwn",
+          "glas golau",
+          "gwyrddlas",
+          "hoffi"
         ],
         "tts": [
           "calon las golau"
@@ -4942,9 +4985,12 @@
       },
       "🩶": {
         "default": [
+          "143",
+          "arbennig",
           "arian",
           "calon",
           "calon lwyd",
+          "emosiwn",
           "llechi",
           "llwyd"
         ],
@@ -5215,6 +5261,8 @@
           "gwthio",
           "llaw yn gwthio i’r chwith",
           "pump uchel",
+          "rhwystro",
+          "seibio",
           "stopio"
         ],
         "tts": [
@@ -5229,6 +5277,8 @@
           "i’r dde",
           "llaw yn gwthio i’r dde",
           "pump uchel",
+          "rhwystro",
+          "seibio",
           "stopio"
         ],
         "tts": [
@@ -5302,7 +5352,7 @@
           "llaw gyda bys mynegai a bawd wedi’i chroesi"
         ],
         "tts": [
-          "llaw gyda bys mynegai a bawd wedi’i chroesi"
+          "llaw gyda bys mynegai a bawd wedi’u croesi"
         ]
       },
       "🤟": {
@@ -7220,8 +7270,14 @@
       },
       "🧑‍🎄": {
         "default": [
-          "Claus, nadolig",
-          "mx claus"
+          "Claus",
+          "gwyliau",
+          "het",
+          "mx claus",
+          "nadolig",
+          "nadolig llawen",
+          "person",
+          "sion corn"
         ],
         "tts": [
           "mx claus"
@@ -8510,17 +8566,6 @@
           "pâr a chalon"
         ]
       },
-      "👪": {
-        "default": [
-          "mam",
-          "plentyn",
-          "tad",
-          "teulu"
-        ],
-        "tts": [
-          "teulu"
-        ]
-      },
       "🗣": {
         "default": [
           "pen",
@@ -8565,6 +8610,59 @@
           "pobl yn cofleidio"
         ]
       },
+      "👪": {
+        "default": [
+          "mam",
+          "plentyn",
+          "tad",
+          "teulu"
+        ],
+        "tts": [
+          "teulu"
+        ]
+      },
+      "🧑‍🧑‍🧒": {
+        "default": [
+          "oedolyn",
+          "plentyn",
+          "teulu: oedolyn",
+          "teulu: oedolyn, oedolyn, plentyn"
+        ],
+        "tts": [
+          "teulu: oedolyn, oedolyn, plentyn"
+        ]
+      },
+      "🧑‍🧑‍🧒‍🧒": {
+        "default": [
+          "oedolyn",
+          "plentyn",
+          "teulu: oedolyn",
+          "teulu: oedolyn, oedolyn, plentyn, plentyn"
+        ],
+        "tts": [
+          "teulu: oedolyn, oedolyn, plentyn, plentyn"
+        ]
+      },
+      "🧑‍🧒": {
+        "default": [
+          "plentyn",
+          "teulu: oedolyn",
+          "teulu: oedolyn, plentyn"
+        ],
+        "tts": [
+          "teulu: oedolyn, plentyn"
+        ]
+      },
+      "🧑‍🧒‍🧒": {
+        "default": [
+          "plentyn",
+          "teulu: oedolyn",
+          "teulu: oedolyn, plentyn, plentyn"
+        ],
+        "tts": [
+          "teulu: oedolyn, plentyn, plentyn"
+        ]
+      },
       "👣": {
         "default": [
           "corff",
@@ -8573,6 +8671,17 @@
         ],
         "tts": [
           "olion traed"
+        ]
+      },
+      "🫆": {
+        "default": [
+          "diogelwch",
+          "fforenseg",
+          "hunaniaeth",
+          "ôl bys"
+        ],
+        "tts": [
+          "ôl bys"
         ]
       },
       "🦰": {
@@ -8611,6 +8720,7 @@
         "default": [
           "cemotherapi",
           "dim gwallt",
+          "gwallt",
           "moel",
           "wedi eillio"
         ],
@@ -8751,7 +8861,9 @@
       },
       "🐈‍⬛": {
         "default": [
+          "anifail",
           "anlwcus",
+          "Calan Gaeaf",
           "cath",
           "cath ddu",
           "du"
@@ -9444,6 +9556,18 @@
           "adain"
         ]
       },
+      "🐦‍⬛": {
+        "default": [
+          "aderyn",
+          "bran",
+          "cigfran",
+          "du",
+          "ydfran"
+        ],
+        "tts": [
+          "aderyn du"
+        ]
+      },
       "🪿": {
         "default": [
           "aderyn",
@@ -9454,6 +9578,18 @@
         ],
         "tts": [
           "gwydd"
+        ]
+      },
+      "🐦‍🔥": {
+        "default": [
+          "aderyn tân",
+          "aileni",
+          "ailymgnawdoliad",
+          "ffantasi",
+          "ffenics"
+        ],
+        "tts": [
+          "ffenics"
         ]
       },
       "🐸": {
@@ -9647,16 +9783,70 @@
       },
       "🪼": {
         "default": [
+          "anifail",
           "aw",
           "infertebrat",
           "jeli",
           "llosgi",
+          "môr",
           "morol",
+          "pigo",
           "pigyn",
+          "plancton",
           "slefren fôr"
         ],
         "tts": [
           "slefren fôr"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "cranc"
+        ],
+        "tts": [
+          "cranc"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "bisg",
+          "bwyd môr",
+          "cimwch",
+          "crafangau"
+        ],
+        "tts": [
+          "cimwch"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "bach",
+          "berdysyn",
+          "bwyd",
+          "pysgodyn cragen"
+        ],
+        "tts": [
+          "berdysyn"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "bwyd",
+          "molwsg",
+          "ystifflog"
+        ],
+        "tts": [
+          "ystifflog"
+        ]
+      },
+      "🦪": {
+        "default": [
+          "cragen",
+          "perl",
+          "wystrys"
+        ],
+        "tts": [
+          "wystrys"
         ]
       },
       "🐌": {
@@ -9932,11 +10122,17 @@
       },
       "🪻": {
         "default": [
+          "blodeuo",
           "blodeuyn",
           "bluebonnet",
           "bysedd y blaidd",
+          "gwanwyn",
           "hiasinth",
+          "indigo",
           "lafant",
+          "llwyn",
+          "planhigyn",
+          "proffor",
           "safn y llew"
         ],
         "tts": [
@@ -10109,6 +10305,17 @@
           "madarch"
         ]
       },
+      "🪾": {
+        "default": [
+          "anffrwythlon",
+          "coeden heb ddail",
+          "gaeaf",
+          "sychder"
+        ],
+        "tts": [
+          "coeden heb ddail"
+        ]
+      },
       "🍇": {
         "default": [
           "ffrwyth",
@@ -10158,6 +10365,30 @@
         ],
         "tts": [
           "lemwn"
+        ]
+      },
+      "🍋‍🟩": {
+        "default": [
+          "adfywiol",
+          "asidedd",
+          "calch",
+          "coctel",
+          "croen",
+          "croen trofannol",
+          "ffrwyth",
+          "garnais",
+          "gwyrdd",
+          "margarita",
+          "mojito",
+          "pastai leim",
+          "salsa",
+          "sitrws",
+          "sudd",
+          "sur",
+          "tequila"
+        ],
+        "tts": [
+          "leim"
         ]
       },
       "🍌": {
@@ -10455,8 +10686,11 @@
         "default": [
           "cwrw",
           "gwraidd",
-          "gwraidd sinsir",
-          "sbeis"
+          "iechyd",
+          "llysieuyn",
+          "naturiol",
+          "sbeis",
+          "sinsir"
         ],
         "tts": [
           "gwraidd sinsir"
@@ -10473,6 +10707,41 @@
         ],
         "tts": [
           "pod pys"
+        ]
+      },
+      "🍄‍🟫": {
+        "default": [
+          "bwyd",
+          "cloronen",
+          "egin",
+          "ffwng",
+          "ffyngau",
+          "llysieuol",
+          "llysieuyn",
+          "madarch",
+          "madarch brown",
+          "natur",
+          "pitsa",
+          "portobello",
+          "sbôr",
+          "shiitake",
+          "topins"
+        ],
+        "tts": [
+          "madarch brown"
+        ]
+      },
+      "🫜": {
+        "default": [
+          "betys",
+          "erfinen",
+          "gardd",
+          "gwreiddyn",
+          "llysieuyn",
+          "meipen"
+        ],
+        "tts": [
+          "gwreiddlysieuyn"
         ]
       },
       "🍞": {
@@ -10511,9 +10780,11 @@
       "🫓": {
         "default": [
           "arepa",
+          "bara",
           "bara fflat",
-          "Bara fflat",
-          "lavash",
+          "bwyd",
+          "gordita",
+          "lafash",
           "naan",
           "pita"
         ],
@@ -11000,56 +11271,6 @@
         ],
         "tts": [
           "bocs prydau parod"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "cranc"
-        ],
-        "tts": [
-          "cranc"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "bisg",
-          "bwyd môr",
-          "cimwch",
-          "crafangau"
-        ],
-        "tts": [
-          "cimwch"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "bach",
-          "berdysyn",
-          "bwyd",
-          "pysgodyn cragen"
-        ],
-        "tts": [
-          "berdysyn"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "bwyd",
-          "molwsg",
-          "ystifflog"
-        ],
-        "tts": [
-          "ystifflog"
-        ]
-      },
-      "🦪": {
-        "default": [
-          "cragen",
-          "perl",
-          "wystrys"
-        ],
-        "tts": [
-          "wystrys"
         ]
       },
       "🍦": {
@@ -11606,8 +11827,7 @@
       "🗻": {
         "default": [
           "fuji",
-          "mynydd",
-          "mynydd Fuji"
+          "mynydd"
         ],
         "tts": [
           "mynydd Fuji"
@@ -11922,7 +12142,6 @@
       "🗽": {
         "default": [
           "cerflun",
-          "Cerflun Rhyddid",
           "rhyddid"
         ],
         "tts": [
@@ -14886,9 +15105,11 @@
       "🪭": {
         "default": [
           "chwifio",
+          "clecian",
           "dawns",
           "ffan",
           "ffan llaw plyg",
+          "fflyrtio",
           "oeri",
           "poeth",
           "swil"
@@ -15453,11 +15674,14 @@
       "🪇": {
         "default": [
           "cerddoriaeth",
+          "dawns",
           "maracas",
           "offeryn",
+          "parti",
           "ratl",
           "taro",
-          "ysgwyd"
+          "ysgwyd",
+          "ysgwydr"
         ],
         "tts": [
           "maracas"
@@ -15465,15 +15689,34 @@
       },
       "🪈": {
         "default": [
+          "band",
+          "band gorymdeithio",
+          "cerddorfa",
           "cerddoriaeth",
           "chwythbrennau",
-          "cofiadur",
+          "ffeiff",
           "ffliwt",
-          "fife",
-          "pibell"
+          "ffliwtydd",
+          "offeryn",
+          "pib",
+          "picolo",
+          "recorder"
         ],
         "tts": [
           "ffliwt"
+        ]
+      },
+      "🪉": {
+        "default": [
+          "cariad",
+          "cerddorfa",
+          "cerddoriaeth",
+          "ciwpid",
+          "offeryn",
+          "telyn"
+        ],
+        "tts": [
+          "telyn"
         ]
       },
       "📱": {
@@ -16818,6 +17061,19 @@
           "dolen"
         ]
       },
+      "⛓‍💥": {
+        "default": [
+          "cadwyn",
+          "cadwyn wedi torri",
+          "gefynnau",
+          "rhyddid",
+          "torri",
+          "yn torri"
+        ],
+        "tts": [
+          "cadwyn wedi torri"
+        ]
+      },
       "⛓": {
         "default": [
           "cadwyn",
@@ -16872,6 +17128,18 @@
         ],
         "tts": [
           "ysgol ddringo"
+        ]
+      },
+      "🪏": {
+        "default": [
+          "rhaw",
+          "rhofio",
+          "siefl",
+          "twll",
+          "tyllu"
+        ],
+        "tts": [
+          "rhaw"
         ]
       },
       "⚗": {
@@ -17882,7 +18150,6 @@
         "default": [
           "i fyny",
           "saeth",
-          "saeth TOP",
           "top"
         ],
         "tts": [
@@ -18018,8 +18285,11 @@
       "🪯": {
         "default": [
           "crefydd",
-          "khanda",
-          "Sikh"
+          "Deg Tegh Fateh",
+          "Khalsa",
+          "Khanda",
+          "Sikh",
+          "Sikhaeth"
         ],
         "tts": [
           "khanda"
@@ -18407,10 +18677,18 @@
       },
       "🛜": {
         "default": [
+          "band eang",
           "cyfrifiadur",
+          "cysylltedd",
           "diwifr",
+          "ffôn clyfar",
+          "llwybrydd",
+          "man cychwyn",
           "rhwydwaith",
-          "rhyngrwyd"
+          "rhyngrwyd",
+          "wi-fi",
+          "wifi",
+          "wlan"
         ],
         "tts": [
           "diwifr"
@@ -18860,6 +19138,18 @@
         ],
         "tts": [
           "nod masnach"
+        ]
+      },
+      "🫟": {
+        "default": [
+          "holi",
+          "paent",
+          "slempio",
+          "staenio",
+          "tasgu"
+        ],
+        "tts": [
+          "slempio"
         ]
       },
       "🔠": {
@@ -19639,7 +19929,9 @@
       "🏳‍⚧": {
         "default": [
           "baner",
+          "baner las",
           "baner las, pinc a gwyn",
+          "pinc a gwyn",
           "trawsryweddol"
         ],
         "tts": [
@@ -19679,7 +19971,7 @@
       },
       "£": {
         "default": [
-          "arian cyfredol",
+          "arian cyfred",
           "EGP",
           "GBP",
           "punt"
@@ -19690,7 +19982,7 @@
       },
       "¥": {
         "default": [
-          "arian cyfredol",
+          "arian cyfred",
           "CNY",
           "ien",
           "iwan",
@@ -19749,7 +20041,7 @@
       },
       "€": {
         "default": [
-          "arian cyfredol",
+          "arian cyfred",
           "EUR",
           "ewro"
         ],
@@ -19805,7 +20097,7 @@
       },
       "₹": {
         "default": [
-          "arian cyfredol",
+          "arian cyfred",
           "rwpî",
           "rwpî indiaidd"
         ],
@@ -19815,7 +20107,7 @@
       },
       "₽": {
         "default": [
-          "arian cyfredol",
+          "arian cyfred",
           "rwbl"
         ],
         "tts": [
@@ -19829,24 +20121,6 @@
         ],
         "tts": [
           "bitcoin"
-        ]
-      },
-      "₨": {
-        "default": [
-          "arian cyfred",
-          "rwpî"
-        ],
-        "tts": [
-          "rwpî"
-        ]
-      },
-      "﷼": {
-        "default": [
-          "arian cyfred",
-          "rial"
-        ],
-        "tts": [
-          "rial"
         ]
       },
       "¹": {
@@ -19878,6 +20152,15 @@
           "uwchysgrifen tri"
         ]
       },
+      "₨": {
+        "default": [
+          "arian cyfred",
+          "rwpî"
+        ],
+        "tts": [
+          "rwpî"
+        ]
+      },
       "µ": {
         "default": [
           "arwydd micro",
@@ -19885,6 +20168,15 @@
         ],
         "tts": [
           "arwydd micro"
+        ]
+      },
+      "﷼": {
+        "default": [
+          "arian cyfred",
+          "rial"
+        ],
+        "tts": [
+          "rial"
         ]
       }
     }

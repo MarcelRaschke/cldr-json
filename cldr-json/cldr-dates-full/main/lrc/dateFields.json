@@ -2,9 +2,6 @@
   "main": {
     "lrc": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "lrc"
       },
       "dates": {

@@ -2,16 +2,13 @@
   "main": {
     "nds": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "nds"
       },
       "delimiters": {
-        "quotationStart": "“",
-        "quotationEnd": "”",
-        "alternateQuotationStart": "‘",
-        "alternateQuotationEnd": "’"
+        "quotationStart": "„",
+        "quotationEnd": "“",
+        "alternateQuotationStart": "‚",
+        "alternateQuotationEnd": "‘"
       }
     }
   }

@@ -1,18 +1,19 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "sv"
     },
     "annotations": {
       "👋🏻": {
         "default": [
+          "är du där?",
+          "hallå",
           "hand",
+          "hej",
           "ljus hy",
           "vinka",
-          "vinkande hand"
+          "vinkande hand",
+          "vinkning"
         ],
         "tts": [
           "vinkande hand: ljus hy"
@@ -20,10 +21,14 @@
       },
       "👋🏼": {
         "default": [
+          "är du där?",
+          "hallå",
           "hand",
+          "hej",
           "mellanljus hy",
           "vinka",
-          "vinkande hand"
+          "vinkande hand",
+          "vinkning"
         ],
         "tts": [
           "vinkande hand: mellanljus hy"
@@ -31,10 +36,14 @@
       },
       "👋🏽": {
         "default": [
+          "är du där?",
+          "hallå",
           "hand",
+          "hej",
           "mellanfärgad hy",
           "vinka",
-          "vinkande hand"
+          "vinkande hand",
+          "vinkning"
         ],
         "tts": [
           "vinkande hand: mellanfärgad hy"
@@ -42,10 +51,14 @@
       },
       "👋🏾": {
         "default": [
+          "är du där?",
+          "hallå",
           "hand",
+          "hej",
           "mellanmörk hy",
           "vinka",
-          "vinkande hand"
+          "vinkande hand",
+          "vinkning"
         ],
         "tts": [
           "vinkande hand: mellanmörk hy"
@@ -53,10 +66,14 @@
       },
       "👋🏿": {
         "default": [
+          "är du där?",
+          "hallå",
           "hand",
+          "hej",
           "mörk hy",
           "vinka",
-          "vinkande hand"
+          "vinkande hand",
+          "vinkning"
         ],
         "tts": [
           "vinkande hand: mörk hy"
@@ -299,10 +316,14 @@
       },
       "🫱🏻": {
         "default": [
+          "hälsa",
           "hand",
           "hand som pekar till höger",
+          "handslag",
+          "hej",
           "höger",
           "ljus hy",
+          "skaka",
           "till höger"
         ],
         "tts": [
@@ -311,10 +332,14 @@
       },
       "🫱🏼": {
         "default": [
+          "hälsa",
           "hand",
           "hand som pekar till höger",
+          "handslag",
+          "hej",
           "höger",
           "mellanljus hy",
+          "skaka",
           "till höger"
         ],
         "tts": [
@@ -323,10 +348,14 @@
       },
       "🫱🏽": {
         "default": [
+          "hälsa",
           "hand",
           "hand som pekar till höger",
+          "handslag",
+          "hej",
           "höger",
           "mellanfärgad hy",
+          "skaka",
           "till höger"
         ],
         "tts": [
@@ -335,10 +364,14 @@
       },
       "🫱🏾": {
         "default": [
+          "hälsa",
           "hand",
           "hand som pekar till höger",
+          "handslag",
+          "hej",
           "höger",
           "mellanmörk hy",
+          "skaka",
           "till höger"
         ],
         "tts": [
@@ -347,10 +380,14 @@
       },
       "🫱🏿": {
         "default": [
+          "hälsa",
           "hand",
           "hand som pekar till höger",
+          "handslag",
+          "hej",
           "höger",
           "mörk hy",
+          "skaka",
           "till höger"
         ],
         "tts": [
@@ -622,6 +659,7 @@
           "hand",
           "hand som pekar till vänster",
           "ljus hy",
+          "skaka",
           "till vänster",
           "vänster"
         ],
@@ -634,6 +672,7 @@
           "hand",
           "hand som pekar till vänster",
           "mellanljus hy",
+          "skaka",
           "till vänster",
           "vänster"
         ],
@@ -646,6 +685,7 @@
           "hand",
           "hand som pekar till vänster",
           "mellanfärgad hy",
+          "skaka",
           "till vänster",
           "vänster"
         ],
@@ -658,6 +698,7 @@
           "hand",
           "hand som pekar till vänster",
           "mellanmörk hy",
+          "skaka",
           "till vänster",
           "vänster"
         ],
@@ -670,6 +711,7 @@
           "hand",
           "hand som pekar till vänster",
           "mörk hy",
+          "skaka",
           "till vänster",
           "vänster"
         ],
@@ -683,7 +725,10 @@
           "handflatan nedåt",
           "ljus hy",
           "neka",
-          "schas"
+          "plocka upp",
+          "schas",
+          "släppa",
+          "släppte"
         ],
         "tts": [
           "handflatan nedåt: ljus hy"
@@ -695,7 +740,10 @@
           "handflatan nedåt",
           "mellanljus hy",
           "neka",
-          "schas"
+          "plocka upp",
+          "schas",
+          "släppa",
+          "släppte"
         ],
         "tts": [
           "handflatan nedåt: mellanljus hy"
@@ -707,7 +755,10 @@
           "handflatan nedåt",
           "mellanfärgad hy",
           "neka",
-          "schas"
+          "plocka upp",
+          "schas",
+          "släppa",
+          "släppte"
         ],
         "tts": [
           "handflatan nedåt: mellanfärgad hy"
@@ -719,7 +770,10 @@
           "handflatan nedåt",
           "mellanmörk hy",
           "neka",
-          "schas"
+          "plocka upp",
+          "schas",
+          "släppa",
+          "släppte"
         ],
         "tts": [
           "handflatan nedåt: mellanmörk hy"
@@ -731,7 +785,10 @@
           "handflatan nedåt",
           "mörk hy",
           "neka",
-          "schas"
+          "plocka upp",
+          "schas",
+          "släppa",
+          "släppte"
         ],
         "tts": [
           "handflatan nedåt: mörk hy"
@@ -744,7 +801,8 @@
           "fånga",
           "handflatan uppåt",
           "kalla på",
-          "ljus hy"
+          "ljus hy",
+          "sträcka ut en hand"
         ],
         "tts": [
           "handflatan uppåt: ljus hy"
@@ -757,7 +815,8 @@
           "fånga",
           "handflatan uppåt",
           "kalla på",
-          "mellanljus hy"
+          "mellanljus hy",
+          "sträcka ut en hand"
         ],
         "tts": [
           "handflatan uppåt: mellanljus hy"
@@ -770,7 +829,8 @@
           "fånga",
           "handflatan uppåt",
           "kalla på",
-          "mellanfärgad hy"
+          "mellanfärgad hy",
+          "sträcka ut en hand"
         ],
         "tts": [
           "handflatan uppåt: mellanfärgad hy"
@@ -783,7 +843,8 @@
           "fånga",
           "handflatan uppåt",
           "kalla på",
-          "mellanmörk hy"
+          "mellanmörk hy",
+          "sträcka ut en hand"
         ],
         "tts": [
           "handflatan uppåt: mellanmörk hy"
@@ -796,7 +857,8 @@
           "fånga",
           "handflatan uppåt",
           "kalla på",
-          "mörk hy"
+          "mörk hy",
+          "sträcka ut en hand"
         ],
         "tts": [
           "handflatan uppåt: mörk hy"
@@ -804,9 +866,12 @@
       },
       "🫷🏻": {
         "default": [
+          "hand",
           "hand som knuffar åt vänster",
           "high five",
           "ljus hy",
+          "neka",
+          "stanna",
           "stopp",
           "till vänster",
           "trycka",
@@ -818,9 +883,12 @@
       },
       "🫷🏼": {
         "default": [
+          "hand",
           "hand som knuffar åt vänster",
           "high five",
           "mellanljus hy",
+          "neka",
+          "stanna",
           "stopp",
           "till vänster",
           "trycka",
@@ -832,9 +900,12 @@
       },
       "🫷🏽": {
         "default": [
+          "hand",
           "hand som knuffar åt vänster",
           "high five",
           "mellanfärgad hy",
+          "neka",
+          "stanna",
           "stopp",
           "till vänster",
           "trycka",
@@ -846,9 +917,12 @@
       },
       "🫷🏾": {
         "default": [
+          "hand",
           "hand som knuffar åt vänster",
           "high five",
           "mellanmörk hy",
+          "neka",
+          "stanna",
           "stopp",
           "till vänster",
           "trycka",
@@ -860,9 +934,12 @@
       },
       "🫷🏿": {
         "default": [
+          "hand",
           "hand som knuffar åt vänster",
           "high five",
           "mörk hy",
+          "neka",
+          "stanna",
           "stopp",
           "till vänster",
           "trycka",
@@ -874,9 +951,14 @@
       },
       "🫸🏻": {
         "default": [
+          "blockera",
+          "hand",
           "hand som knuffar åt höger",
           "high five",
           "ljus hy",
+          "neka",
+          "pausa",
+          "stanna",
           "stopp",
           "till höger",
           "trycka",
@@ -888,9 +970,14 @@
       },
       "🫸🏼": {
         "default": [
+          "blockera",
+          "hand",
           "hand som knuffar åt höger",
           "high five",
           "mellanljus hy",
+          "neka",
+          "pausa",
+          "stanna",
           "stopp",
           "till höger",
           "trycka",
@@ -902,9 +989,14 @@
       },
       "🫸🏽": {
         "default": [
+          "blockera",
+          "hand",
           "hand som knuffar åt höger",
           "high five",
           "mellanfärgad hy",
+          "neka",
+          "pausa",
+          "stanna",
           "stopp",
           "till höger",
           "trycka",
@@ -916,9 +1008,14 @@
       },
       "🫸🏾": {
         "default": [
+          "blockera",
+          "hand",
           "hand som knuffar åt höger",
           "high five",
           "mellanmörk hy",
+          "neka",
+          "pausa",
+          "stanna",
           "stopp",
           "till höger",
           "trycka",
@@ -930,9 +1027,14 @@
       },
       "🫸🏿": {
         "default": [
+          "blockera",
+          "hand",
           "hand som knuffar åt höger",
           "high five",
           "mörk hy",
+          "neka",
+          "pausa",
+          "stanna",
           "stopp",
           "till höger",
           "trycka",
@@ -945,7 +1047,10 @@
       "👌🏻": {
         "default": [
           "hand",
+          "Instämmer",
+          "Javisst",
           "ljus hy",
+          "Ok",
           "OK",
           "OK-tecken",
           "tecken"
@@ -957,7 +1062,10 @@
       "👌🏼": {
         "default": [
           "hand",
+          "Instämmer",
+          "Javisst",
           "mellanljus hy",
+          "Ok",
           "OK",
           "OK-tecken",
           "tecken"
@@ -969,7 +1077,10 @@
       "👌🏽": {
         "default": [
           "hand",
+          "Instämmer",
+          "Javisst",
           "mellanfärgad hy",
+          "Ok",
           "OK",
           "OK-tecken",
           "tecken"
@@ -981,7 +1092,10 @@
       "👌🏾": {
         "default": [
           "hand",
+          "Instämmer",
+          "Javisst",
           "mellanmörk hy",
+          "Ok",
           "OK",
           "OK-tecken",
           "tecken"
@@ -993,7 +1107,10 @@
       "👌🏿": {
         "default": [
           "hand",
+          "Instämmer",
+          "Javisst",
           "mörk hy",
+          "Ok",
           "OK",
           "OK-tecken",
           "tecken"
@@ -1359,11 +1476,14 @@
       },
       "🤘🏻": {
         "default": [
+          "djävulstecken",
           "djävulstecknet",
           "hand",
           "hårdrock",
           "horn",
-          "ljus hy"
+          "ljus hy",
+          "rock",
+          "rocka loss"
         ],
         "tts": [
           "djävulstecknet: ljus hy"
@@ -1371,11 +1491,14 @@
       },
       "🤘🏼": {
         "default": [
+          "djävulstecken",
           "djävulstecknet",
           "hand",
           "hårdrock",
           "horn",
-          "mellanljus hy"
+          "mellanljus hy",
+          "rock",
+          "rocka loss"
         ],
         "tts": [
           "djävulstecknet: mellanljus hy"
@@ -1383,11 +1506,14 @@
       },
       "🤘🏽": {
         "default": [
+          "djävulstecken",
           "djävulstecknet",
           "hand",
           "hårdrock",
           "horn",
-          "mellanfärgad hy"
+          "mellanfärgad hy",
+          "rock",
+          "rocka loss"
         ],
         "tts": [
           "djävulstecknet: mellanfärgad hy"
@@ -1395,11 +1521,14 @@
       },
       "🤘🏾": {
         "default": [
+          "djävulstecken",
           "djävulstecknet",
           "hand",
           "hårdrock",
           "horn",
-          "mellanmörk hy"
+          "mellanmörk hy",
+          "rock",
+          "rocka loss"
         ],
         "tts": [
           "djävulstecknet: mellanmörk hy"
@@ -1407,11 +1536,14 @@
       },
       "🤘🏿": {
         "default": [
+          "djävulstecken",
           "djävulstecknet",
           "hand",
           "hårdrock",
           "horn",
-          "mörk hy"
+          "mörk hy",
+          "rock",
+          "rocka loss"
         ],
         "tts": [
           "djävulstecknet: mörk hy"
@@ -1585,6 +1717,7 @@
       "👆🏻": {
         "default": [
           "finger",
+          "hand som pekar pekfingret uppåt",
           "ljus hy",
           "peka uppåt",
           "pekfinger",
@@ -1597,6 +1730,7 @@
       "👆🏼": {
         "default": [
           "finger",
+          "hand som pekar pekfingret uppåt",
           "mellanljus hy",
           "peka uppåt",
           "pekfinger",
@@ -1609,6 +1743,7 @@
       "👆🏽": {
         "default": [
           "finger",
+          "hand som pekar pekfingret uppåt",
           "mellanfärgad hy",
           "peka uppåt",
           "pekfinger",
@@ -1621,6 +1756,7 @@
       "👆🏾": {
         "default": [
           "finger",
+          "hand som pekar pekfingret uppåt",
           "mellanmörk hy",
           "peka uppåt",
           "pekfinger",
@@ -1633,6 +1769,7 @@
       "👆🏿": {
         "default": [
           "finger",
+          "hand som pekar pekfingret uppåt",
           "mörk hy",
           "peka uppåt",
           "pekfinger",
@@ -1884,8 +2021,11 @@
       },
       "👍🏻": {
         "default": [
+          "bra",
           "gillar",
           "ljus hy",
+          "ok",
+          "okej",
           "tumme",
           "tummen upp",
           "upp"
@@ -1896,8 +2036,11 @@
       },
       "👍🏼": {
         "default": [
+          "bra",
           "gillar",
           "mellanljus hy",
+          "ok",
+          "okej",
           "tumme",
           "tummen upp",
           "upp"
@@ -1908,8 +2051,11 @@
       },
       "👍🏽": {
         "default": [
+          "bra",
           "gillar",
           "mellanfärgad hy",
+          "ok",
+          "okej",
           "tumme",
           "tummen upp",
           "upp"
@@ -1920,8 +2066,11 @@
       },
       "👍🏾": {
         "default": [
+          "bra",
           "gillar",
           "mellanmörk hy",
+          "ok",
+          "okej",
           "tumme",
           "tummen upp",
           "upp"
@@ -1932,8 +2081,11 @@
       },
       "👍🏿": {
         "default": [
+          "bra",
           "gillar",
           "mörk hy",
+          "ok",
+          "okej",
           "tumme",
           "tummen upp",
           "upp"
@@ -2329,6 +2481,7 @@
       },
       "🫶🏻": {
         "default": [
+          "älskar",
           "handhjärta",
           "kärlek",
           "ljus hy"
@@ -2339,6 +2492,7 @@
       },
       "🫶🏼": {
         "default": [
+          "älskar",
           "handhjärta",
           "kärlek",
           "mellanljus hy"
@@ -2349,6 +2503,7 @@
       },
       "🫶🏽": {
         "default": [
+          "älskar",
           "handhjärta",
           "kärlek",
           "mellanfärgad hy"
@@ -2359,6 +2514,7 @@
       },
       "🫶🏾": {
         "default": [
+          "älskar",
           "handhjärta",
           "kärlek",
           "mellanmörk hy"
@@ -2369,6 +2525,7 @@
       },
       "🫶🏿": {
         "default": [
+          "älskar",
           "handhjärta",
           "kärlek",
           "mörk hy"
@@ -2379,7 +2536,9 @@
       },
       "👐🏻": {
         "default": [
+          "hand",
           "händer",
+          "jazzhänder",
           "ljus hy",
           "öppna"
         ],
@@ -2389,7 +2548,9 @@
       },
       "👐🏼": {
         "default": [
+          "hand",
           "händer",
+          "jazzhänder",
           "mellanljus hy",
           "öppna"
         ],
@@ -2399,7 +2560,9 @@
       },
       "👐🏽": {
         "default": [
+          "hand",
           "händer",
+          "jazzhänder",
           "mellanfärgad hy",
           "öppna"
         ],
@@ -2409,7 +2572,9 @@
       },
       "👐🏾": {
         "default": [
+          "hand",
           "händer",
+          "jazzhänder",
           "mellanmörk hy",
           "öppna"
         ],
@@ -2419,7 +2584,9 @@
       },
       "👐🏿": {
         "default": [
+          "hand",
           "händer",
+          "jazzhänder",
           "mörk hy",
           "öppna"
         ],
@@ -2719,6 +2886,7 @@
       },
       "🤳🏻": {
         "default": [
+          "arm som tar en selfie med telefon",
           "kamera",
           "ljus hy",
           "selfie",
@@ -2730,6 +2898,7 @@
       },
       "🤳🏼": {
         "default": [
+          "arm som tar en selfie med telefon",
           "kamera",
           "mellanljus hy",
           "selfie",
@@ -2741,6 +2910,7 @@
       },
       "🤳🏽": {
         "default": [
+          "arm som tar en selfie med telefon",
           "kamera",
           "mellanfärgad hy",
           "selfie",
@@ -2752,6 +2922,7 @@
       },
       "🤳🏾": {
         "default": [
+          "arm som tar en selfie med telefon",
           "kamera",
           "mellanmörk hy",
           "selfie",
@@ -2763,6 +2934,7 @@
       },
       "🤳🏿": {
         "default": [
+          "arm som tar en selfie med telefon",
           "kamera",
           "mörk hy",
           "selfie",
@@ -3146,6 +3318,7 @@
         "default": [
           "barn",
           "könsneutral",
+          "leende barn",
           "ljus hy",
           "ung"
         ],
@@ -3157,6 +3330,7 @@
         "default": [
           "barn",
           "könsneutral",
+          "leende barn",
           "mellanljus hy",
           "ung"
         ],
@@ -3168,6 +3342,7 @@
         "default": [
           "barn",
           "könsneutral",
+          "leende barn",
           "mellanfärgad hy",
           "ung"
         ],
@@ -3179,6 +3354,7 @@
         "default": [
           "barn",
           "könsneutral",
+          "leende barn",
           "mellanmörk hy",
           "ung"
         ],
@@ -3190,6 +3366,7 @@
         "default": [
           "barn",
           "könsneutral",
+          "leende barn",
           "mörk hy",
           "ung"
         ],
@@ -3375,6 +3552,7 @@
       "👱🏻": {
         "default": [
           "blond",
+          "blond man",
           "blond person",
           "ljus hy",
           "människor"
@@ -3386,6 +3564,7 @@
       "👱🏼": {
         "default": [
           "blond",
+          "blond man",
           "blond person",
           "människor",
           "mellanljus hy"
@@ -3397,6 +3576,7 @@
       "👱🏽": {
         "default": [
           "blond",
+          "blond man",
           "blond person",
           "människor",
           "mellanfärgad hy"
@@ -3408,6 +3588,7 @@
       "👱🏾": {
         "default": [
           "blond",
+          "blond man",
           "blond person",
           "människor",
           "mellanmörk hy"
@@ -3419,6 +3600,7 @@
       "👱🏿": {
         "default": [
           "blond",
+          "blond man",
           "blond person",
           "människor",
           "mörk hy"
@@ -7469,8 +7651,10 @@
       "🙍🏻": {
         "default": [
           "ljus hy",
+          "missnöjd",
           "person",
           "sur",
+          "sur kvinna",
           "sur uppsyn"
         ],
         "tts": [
@@ -7480,8 +7664,10 @@
       "🙍🏼": {
         "default": [
           "mellanljus hy",
+          "missnöjd",
           "person",
           "sur",
+          "sur kvinna",
           "sur uppsyn"
         ],
         "tts": [
@@ -7491,8 +7677,10 @@
       "🙍🏽": {
         "default": [
           "mellanfärgad hy",
+          "missnöjd",
           "person",
           "sur",
+          "sur kvinna",
           "sur uppsyn"
         ],
         "tts": [
@@ -7502,8 +7690,10 @@
       "🙍🏾": {
         "default": [
           "mellanmörk hy",
+          "missnöjd",
           "person",
           "sur",
+          "sur kvinna",
           "sur uppsyn"
         ],
         "tts": [
@@ -7512,9 +7702,11 @@
       },
       "🙍🏿": {
         "default": [
+          "missnöjd",
           "mörk hy",
           "person",
           "sur",
+          "sur kvinna",
           "sur uppsyn"
         ],
         "tts": [
@@ -7526,6 +7718,7 @@
           "gest",
           "ljus hy",
           "man",
+          "missnöjd",
           "sur"
         ],
         "tts": [
@@ -7537,6 +7730,7 @@
           "gest",
           "man",
           "mellanljus hy",
+          "missnöjd",
           "sur"
         ],
         "tts": [
@@ -7548,6 +7742,7 @@
           "gest",
           "man",
           "mellanfärgad hy",
+          "missnöjd",
           "sur"
         ],
         "tts": [
@@ -7559,6 +7754,7 @@
           "gest",
           "man",
           "mellanmörk hy",
+          "missnöjd",
           "sur"
         ],
         "tts": [
@@ -7569,6 +7765,7 @@
         "default": [
           "gest",
           "man",
+          "missnöjd",
           "mörk hy",
           "sur"
         ],
@@ -7633,10 +7830,13 @@
       },
       "🙎🏻": {
         "default": [
+          "kvinna som putar med läpparna",
           "ljus hy",
           "person som plutar",
           "plutande person",
-          "plutar"
+          "plutar",
+          "puta med munnen",
+          "putar med läpparna"
         ],
         "tts": [
           "plutande person: ljus hy"
@@ -7644,10 +7844,13 @@
       },
       "🙎🏼": {
         "default": [
+          "kvinna som putar med läpparna",
           "mellanljus hy",
           "person som plutar",
           "plutande person",
-          "plutar"
+          "plutar",
+          "puta med munnen",
+          "putar med läpparna"
         ],
         "tts": [
           "plutande person: mellanljus hy"
@@ -7655,10 +7858,13 @@
       },
       "🙎🏽": {
         "default": [
+          "kvinna som putar med läpparna",
           "mellanfärgad hy",
           "person som plutar",
           "plutande person",
-          "plutar"
+          "plutar",
+          "puta med munnen",
+          "putar med läpparna"
         ],
         "tts": [
           "plutande person: mellanfärgad hy"
@@ -7666,10 +7872,13 @@
       },
       "🙎🏾": {
         "default": [
+          "kvinna som putar med läpparna",
           "mellanmörk hy",
           "person som plutar",
           "plutande person",
-          "plutar"
+          "plutar",
+          "puta med munnen",
+          "putar med läpparna"
         ],
         "tts": [
           "plutande person: mellanmörk hy"
@@ -7677,10 +7886,13 @@
       },
       "🙎🏿": {
         "default": [
+          "kvinna som putar med läpparna",
           "mörk hy",
           "person som plutar",
           "plutande person",
-          "plutar"
+          "plutar",
+          "puta med munnen",
+          "putar med läpparna"
         ],
         "tts": [
           "plutande person: mörk hy"
@@ -7801,7 +8013,10 @@
           "förbjudet",
           "gest",
           "gest för NEJ",
+          "icke",
+          "kvinna som gestikulerar NEJ",
           "ljus hy",
+          "nej",
           "person gestikulerar NEJ"
         ],
         "tts": [
@@ -7813,7 +8028,10 @@
           "förbjudet",
           "gest",
           "gest för NEJ",
+          "icke",
+          "kvinna som gestikulerar NEJ",
           "mellanljus hy",
+          "nej",
           "person gestikulerar NEJ"
         ],
         "tts": [
@@ -7825,7 +8043,10 @@
           "förbjudet",
           "gest",
           "gest för NEJ",
+          "icke",
+          "kvinna som gestikulerar NEJ",
           "mellanfärgad hy",
+          "nej",
           "person gestikulerar NEJ"
         ],
         "tts": [
@@ -7837,7 +8058,10 @@
           "förbjudet",
           "gest",
           "gest för NEJ",
+          "icke",
+          "kvinna som gestikulerar NEJ",
           "mellanmörk hy",
+          "nej",
           "person gestikulerar NEJ"
         ],
         "tts": [
@@ -7849,7 +8073,10 @@
           "förbjudet",
           "gest",
           "gest för NEJ",
+          "icke",
+          "kvinna som gestikulerar NEJ",
           "mörk hy",
+          "nej",
           "person gestikulerar NEJ"
         ],
         "tts": [
@@ -7981,6 +8208,7 @@
           "gest",
           "gest för OK",
           "hand",
+          "kvinna som gestikulerar OK",
           "ljus hy",
           "okej",
           "person gestikulerar OK"
@@ -7994,6 +8222,7 @@
           "gest",
           "gest för OK",
           "hand",
+          "kvinna som gestikulerar OK",
           "mellanljus hy",
           "okej",
           "person gestikulerar OK"
@@ -8007,6 +8236,7 @@
           "gest",
           "gest för OK",
           "hand",
+          "kvinna som gestikulerar OK",
           "mellanfärgad hy",
           "okej",
           "person gestikulerar OK"
@@ -8020,6 +8250,7 @@
           "gest",
           "gest för OK",
           "hand",
+          "kvinna som gestikulerar OK",
           "mellanmörk hy",
           "okej",
           "person gestikulerar OK"
@@ -8033,6 +8264,7 @@
           "gest",
           "gest för OK",
           "hand",
+          "kvinna som gestikulerar OK",
           "mörk hy",
           "okej",
           "person gestikulerar OK"
@@ -8173,11 +8405,15 @@
       },
       "💁🏻": {
         "default": [
+          "hand",
           "information",
+          "kvinna som vinkar med handen",
           "ljus hy",
           "människor",
           "reception",
-          "receptionist"
+          "receptionist",
+          "sarkastisk",
+          "skvaller"
         ],
         "tts": [
           "receptionist: ljus hy"
@@ -8185,11 +8421,15 @@
       },
       "💁🏼": {
         "default": [
+          "hand",
           "information",
+          "kvinna som vinkar med handen",
           "människor",
           "mellanljus hy",
           "reception",
-          "receptionist"
+          "receptionist",
+          "sarkastisk",
+          "skvaller"
         ],
         "tts": [
           "receptionist: mellanljus hy"
@@ -8197,11 +8437,15 @@
       },
       "💁🏽": {
         "default": [
+          "hand",
           "information",
+          "kvinna som vinkar med handen",
           "människor",
           "mellanfärgad hy",
           "reception",
-          "receptionist"
+          "receptionist",
+          "sarkastisk",
+          "skvaller"
         ],
         "tts": [
           "receptionist: mellanfärgad hy"
@@ -8209,11 +8453,15 @@
       },
       "💁🏾": {
         "default": [
+          "hand",
           "information",
+          "kvinna som vinkar med handen",
           "människor",
           "mellanmörk hy",
           "reception",
-          "receptionist"
+          "receptionist",
+          "sarkastisk",
+          "skvaller"
         ],
         "tts": [
           "receptionist: mellanmörk hy"
@@ -8221,11 +8469,15 @@
       },
       "💁🏿": {
         "default": [
+          "hand",
           "information",
+          "kvinna som vinkar med handen",
           "människor",
           "mörk hy",
           "reception",
-          "receptionist"
+          "receptionist",
+          "sarkastisk",
+          "skvaller"
         ],
         "tts": [
           "receptionist: mörk hy"
@@ -8237,7 +8489,8 @@
           "hjälpande man",
           "information",
           "ljus hy",
-          "man"
+          "man",
+          "man som vinkar"
         ],
         "tts": [
           "hjälpande man: ljus hy"
@@ -8249,6 +8502,7 @@
           "hjälpande man",
           "information",
           "man",
+          "man som vinkar",
           "mellanljus hy"
         ],
         "tts": [
@@ -8261,6 +8515,7 @@
           "hjälpande man",
           "information",
           "man",
+          "man som vinkar",
           "mellanfärgad hy"
         ],
         "tts": [
@@ -8273,6 +8528,7 @@
           "hjälpande man",
           "information",
           "man",
+          "man som vinkar",
           "mellanmörk hy"
         ],
         "tts": [
@@ -8285,6 +8541,7 @@
           "hjälpande man",
           "information",
           "man",
+          "man som vinkar",
           "mörk hy"
         ],
         "tts": [
@@ -8353,6 +8610,9 @@
       },
       "🙋🏻": {
         "default": [
+          "fråga",
+          "jag vet",
+          "kvinna som räcker upp handen",
           "ljus hy",
           "person",
           "person som räcker upp handen",
@@ -8364,6 +8624,9 @@
       },
       "🙋🏼": {
         "default": [
+          "fråga",
+          "jag vet",
+          "kvinna som räcker upp handen",
           "mellanljus hy",
           "person",
           "person som räcker upp handen",
@@ -8375,6 +8638,9 @@
       },
       "🙋🏽": {
         "default": [
+          "fråga",
+          "jag vet",
+          "kvinna som räcker upp handen",
           "mellanfärgad hy",
           "person",
           "person som räcker upp handen",
@@ -8386,6 +8652,9 @@
       },
       "🙋🏾": {
         "default": [
+          "fråga",
+          "jag vet",
+          "kvinna som räcker upp handen",
           "mellanmörk hy",
           "person",
           "person som räcker upp handen",
@@ -8397,6 +8666,9 @@
       },
       "🙋🏿": {
         "default": [
+          "fråga",
+          "jag vet",
+          "kvinna som räcker upp handen",
           "mörk hy",
           "person",
           "person som räcker upp handen",
@@ -8689,10 +8961,14 @@
       "🙇🏻": {
         "default": [
           "beklagar",
+          "buga",
           "bugande person",
           "bugar",
           "gest",
-          "ljus hy"
+          "ljus hy",
+          "meditation",
+          "meditera",
+          "ursäkt"
         ],
         "tts": [
           "bugande person: ljus hy"
@@ -8701,10 +8977,14 @@
       "🙇🏼": {
         "default": [
           "beklagar",
+          "buga",
           "bugande person",
           "bugar",
           "gest",
-          "mellanljus hy"
+          "meditation",
+          "meditera",
+          "mellanljus hy",
+          "ursäkt"
         ],
         "tts": [
           "bugande person: mellanljus hy"
@@ -8713,10 +8993,14 @@
       "🙇🏽": {
         "default": [
           "beklagar",
+          "buga",
           "bugande person",
           "bugar",
           "gest",
-          "mellanfärgad hy"
+          "meditation",
+          "meditera",
+          "mellanfärgad hy",
+          "ursäkt"
         ],
         "tts": [
           "bugande person: mellanfärgad hy"
@@ -8725,10 +9009,14 @@
       "🙇🏾": {
         "default": [
           "beklagar",
+          "buga",
           "bugande person",
           "bugar",
           "gest",
-          "mellanmörk hy"
+          "meditation",
+          "meditera",
+          "mellanmörk hy",
+          "ursäkt"
         ],
         "tts": [
           "bugande person: mellanmörk hy"
@@ -8737,10 +9025,14 @@
       "🙇🏿": {
         "default": [
           "beklagar",
+          "buga",
           "bugande person",
           "bugar",
           "gest",
-          "mörk hy"
+          "meditation",
+          "meditera",
+          "mörk hy",
+          "ursäkt"
         ],
         "tts": [
           "bugande person: mörk hy"
@@ -9149,7 +9441,8 @@
           "man",
           "man som rycker på axlarna",
           "okunskap",
-          "tvivel"
+          "tvivel",
+          "vet inte"
         ],
         "tts": [
           "man som rycker på axlarna: ljus hy"
@@ -9163,7 +9456,8 @@
           "man som rycker på axlarna",
           "mellanljus hy",
           "okunskap",
-          "tvivel"
+          "tvivel",
+          "vet inte"
         ],
         "tts": [
           "man som rycker på axlarna: mellanljus hy"
@@ -9177,7 +9471,8 @@
           "man som rycker på axlarna",
           "mellanfärgad hy",
           "okunskap",
-          "tvivel"
+          "tvivel",
+          "vet inte"
         ],
         "tts": [
           "man som rycker på axlarna: mellanfärgad hy"
@@ -9191,7 +9486,8 @@
           "man som rycker på axlarna",
           "mellanmörk hy",
           "okunskap",
-          "tvivel"
+          "tvivel",
+          "vet inte"
         ],
         "tts": [
           "man som rycker på axlarna: mellanmörk hy"
@@ -9205,7 +9501,8 @@
           "man som rycker på axlarna",
           "mörk hy",
           "okunskap",
-          "tvivel"
+          "tvivel",
+          "vet inte"
         ],
         "tts": [
           "man som rycker på axlarna: mörk hy"
@@ -12240,7 +12537,8 @@
         "default": [
           "konstapel",
           "ljus hy",
-          "polis"
+          "polis",
+          "snut"
         ],
         "tts": [
           "polis: ljus hy"
@@ -12250,7 +12548,8 @@
         "default": [
           "konstapel",
           "mellanljus hy",
-          "polis"
+          "polis",
+          "snut"
         ],
         "tts": [
           "polis: mellanljus hy"
@@ -12260,7 +12559,8 @@
         "default": [
           "konstapel",
           "mellanfärgad hy",
-          "polis"
+          "polis",
+          "snut"
         ],
         "tts": [
           "polis: mellanfärgad hy"
@@ -12270,7 +12570,8 @@
         "default": [
           "konstapel",
           "mellanmörk hy",
-          "polis"
+          "polis",
+          "snut"
         ],
         "tts": [
           "polis: mellanmörk hy"
@@ -12280,7 +12581,8 @@
         "default": [
           "konstapel",
           "mörk hy",
-          "polis"
+          "polis",
+          "snut"
         ],
         "tts": [
           "polis: mörk hy"
@@ -12358,7 +12660,8 @@
           "kvinnlig polis",
           "lagen",
           "ljus hy",
-          "polis"
+          "polis",
+          "snut"
         ],
         "tts": [
           "kvinnlig polis: ljus hy"
@@ -12371,7 +12674,8 @@
           "kvinnlig polis",
           "lagen",
           "mellanljus hy",
-          "polis"
+          "polis",
+          "snut"
         ],
         "tts": [
           "kvinnlig polis: mellanljus hy"
@@ -12384,7 +12688,8 @@
           "kvinnlig polis",
           "lagen",
           "mellanfärgad hy",
-          "polis"
+          "polis",
+          "snut"
         ],
         "tts": [
           "kvinnlig polis: mellanfärgad hy"
@@ -12397,7 +12702,8 @@
           "kvinnlig polis",
           "lagen",
           "mellanmörk hy",
-          "polis"
+          "polis",
+          "snut"
         ],
         "tts": [
           "kvinnlig polis: mellanmörk hy"
@@ -12410,7 +12716,8 @@
           "kvinnlig polis",
           "lagen",
           "mörk hy",
-          "polis"
+          "polis",
+          "snut"
         ],
         "tts": [
           "kvinnlig polis: mörk hy"
@@ -12538,6 +12845,7 @@
       },
       "🕵🏻‍♀": {
         "default": [
+          "detektiv",
           "kommissarie",
           "kvinna",
           "kvinnlig detektiv",
@@ -12552,6 +12860,7 @@
       },
       "🕵🏼‍♀": {
         "default": [
+          "detektiv",
           "kommissarie",
           "kvinna",
           "kvinnlig detektiv",
@@ -12566,6 +12875,7 @@
       },
       "🕵🏽‍♀": {
         "default": [
+          "detektiv",
           "kommissarie",
           "kvinna",
           "kvinnlig detektiv",
@@ -12580,6 +12890,7 @@
       },
       "🕵🏾‍♀": {
         "default": [
+          "detektiv",
           "kommissarie",
           "kvinna",
           "kvinnlig detektiv",
@@ -12594,6 +12905,7 @@
       },
       "🕵🏿‍♀": {
         "default": [
+          "detektiv",
           "kommissarie",
           "kvinna",
           "kvinnlig detektiv",
@@ -13485,6 +13797,7 @@
         "default": [
           "brudgum",
           "ljus hy",
+          "man i smoking",
           "person",
           "person i smoking",
           "smoking"
@@ -13496,6 +13809,7 @@
       "🤵🏼": {
         "default": [
           "brudgum",
+          "man i smoking",
           "mellanljus hy",
           "person",
           "person i smoking",
@@ -13508,6 +13822,7 @@
       "🤵🏽": {
         "default": [
           "brudgum",
+          "man i smoking",
           "mellanfärgad hy",
           "person",
           "person i smoking",
@@ -13520,6 +13835,7 @@
       "🤵🏾": {
         "default": [
           "brudgum",
+          "man i smoking",
           "mellanmörk hy",
           "person",
           "person i smoking",
@@ -13532,6 +13848,7 @@
       "🤵🏿": {
         "default": [
           "brudgum",
+          "man i smoking",
           "mörk hy",
           "person",
           "person i smoking",
@@ -13655,6 +13972,7 @@
         "default": [
           "bröllop",
           "brud",
+          "brud med slöja",
           "brudslöja",
           "ljus hy",
           "person",
@@ -13668,6 +13986,7 @@
         "default": [
           "bröllop",
           "brud",
+          "brud med slöja",
           "brudslöja",
           "mellanljus hy",
           "person",
@@ -13681,6 +14000,7 @@
         "default": [
           "bröllop",
           "brud",
+          "brud med slöja",
           "brudslöja",
           "mellanfärgad hy",
           "person",
@@ -13694,6 +14014,7 @@
         "default": [
           "bröllop",
           "brud",
+          "brud med slöja",
           "brudslöja",
           "mellanmörk hy",
           "person",
@@ -13707,6 +14028,7 @@
         "default": [
           "bröllop",
           "brud",
+          "brud med slöja",
           "brudslöja",
           "mörk hy",
           "person",
@@ -13881,6 +14203,7 @@
           "gravid",
           "gravid man",
           "ljus hy",
+          "proppmätt",
           "stor mage",
           "uppsvälld"
         ],
@@ -13893,6 +14216,7 @@
           "gravid",
           "gravid man",
           "mellanljus hy",
+          "proppmätt",
           "stor mage",
           "uppsvälld"
         ],
@@ -13905,6 +14229,7 @@
           "gravid",
           "gravid man",
           "mellanfärgad hy",
+          "proppmätt",
           "stor mage",
           "uppsvälld"
         ],
@@ -13917,6 +14242,7 @@
           "gravid",
           "gravid man",
           "mellanmörk hy",
+          "proppmätt",
           "stor mage",
           "uppsvälld"
         ],
@@ -13929,6 +14255,7 @@
           "gravid",
           "gravid man",
           "mörk hy",
+          "proppmätt",
           "stor mage",
           "uppsvälld"
         ],
@@ -14124,6 +14451,7 @@
       "👨🏻‍🍼": {
         "default": [
           "amma",
+          "barnskötare",
           "ljus hy",
           "man",
           "man matar spädbarn",
@@ -14137,6 +14465,7 @@
       "👨🏼‍🍼": {
         "default": [
           "amma",
+          "barnskötare",
           "man",
           "man matar spädbarn",
           "mata",
@@ -14150,6 +14479,7 @@
       "👨🏽‍🍼": {
         "default": [
           "amma",
+          "barnskötare",
           "man",
           "man matar spädbarn",
           "mata",
@@ -14163,6 +14493,7 @@
       "👨🏾‍🍼": {
         "default": [
           "amma",
+          "barnskötare",
           "man",
           "man matar spädbarn",
           "mata",
@@ -14176,6 +14507,7 @@
       "👨🏿‍🍼": {
         "default": [
           "amma",
+          "barnskötare",
           "man",
           "man matar spädbarn",
           "mata",
@@ -14189,6 +14521,7 @@
       "🧑🏻‍🍼": {
         "default": [
           "amma",
+          "barnskötare",
           "ljus hy",
           "mata",
           "person",
@@ -14203,6 +14536,7 @@
       "🧑🏼‍🍼": {
         "default": [
           "amma",
+          "barnskötare",
           "mata",
           "mellanljus hy",
           "person",
@@ -14217,6 +14551,7 @@
       "🧑🏽‍🍼": {
         "default": [
           "amma",
+          "barnskötare",
           "mata",
           "mellanfärgad hy",
           "person",
@@ -14231,6 +14566,7 @@
       "🧑🏾‍🍼": {
         "default": [
           "amma",
+          "barnskötare",
           "mata",
           "mellanmörk hy",
           "person",
@@ -14245,6 +14581,7 @@
       "🧑🏿‍🍼": {
         "default": [
           "amma",
+          "barnskötare",
           "mata",
           "mörk hy",
           "person",
@@ -14433,9 +14770,11 @@
       },
       "🧑🏻‍🎄": {
         "default": [
+          "jul",
+          "jultomte",
           "könsneutral tomte",
           "ljus hy",
-          "tomte, jul"
+          "tomte"
         ],
         "tts": [
           "könsneutral tomte: ljus hy"
@@ -14443,9 +14782,11 @@
       },
       "🧑🏼‍🎄": {
         "default": [
+          "jul",
+          "jultomte",
           "könsneutral tomte",
           "mellanljus hy",
-          "tomte, jul"
+          "tomte"
         ],
         "tts": [
           "könsneutral tomte: mellanljus hy"
@@ -14453,9 +14794,11 @@
       },
       "🧑🏽‍🎄": {
         "default": [
+          "jul",
+          "jultomte",
           "könsneutral tomte",
           "mellanfärgad hy",
-          "tomte, jul"
+          "tomte"
         ],
         "tts": [
           "könsneutral tomte: mellanfärgad hy"
@@ -14463,9 +14806,11 @@
       },
       "🧑🏾‍🎄": {
         "default": [
+          "jul",
+          "jultomte",
           "könsneutral tomte",
           "mellanmörk hy",
-          "tomte, jul"
+          "tomte"
         ],
         "tts": [
           "könsneutral tomte: mellanmörk hy"
@@ -14473,9 +14818,11 @@
       },
       "🧑🏿‍🎄": {
         "default": [
+          "jul",
+          "jultomte",
           "könsneutral tomte",
           "mörk hy",
-          "tomte, jul"
+          "tomte"
         ],
         "tts": [
           "könsneutral tomte: mörk hy"
@@ -15068,7 +15415,8 @@
           "ljus hy",
           "Oberon",
           "Puck",
-          "Titania"
+          "Titania",
+          "vingar"
         ],
         "tts": [
           "fé: ljus hy"
@@ -15081,7 +15429,8 @@
           "mellanljus hy",
           "Oberon",
           "Puck",
-          "Titania"
+          "Titania",
+          "vingar"
         ],
         "tts": [
           "fé: mellanljus hy"
@@ -15094,7 +15443,8 @@
           "mellanfärgad hy",
           "Oberon",
           "Puck",
-          "Titania"
+          "Titania",
+          "vingar"
         ],
         "tts": [
           "fé: mellanfärgad hy"
@@ -15107,7 +15457,8 @@
           "mellanmörk hy",
           "Oberon",
           "Puck",
-          "Titania"
+          "Titania",
+          "vingar"
         ],
         "tts": [
           "fé: mellanmörk hy"
@@ -15120,7 +15471,8 @@
           "mörk hy",
           "Oberon",
           "Puck",
-          "Titania"
+          "Titania",
+          "vingar"
         ],
         "tts": [
           "fé: mörk hy"
@@ -15238,7 +15590,9 @@
       },
       "🧛🏻": {
         "default": [
+          "blod",
           "Drakula",
+          "huggtänder",
           "ljus hy",
           "vampyr",
           "vandöd"
@@ -15249,7 +15603,9 @@
       },
       "🧛🏼": {
         "default": [
+          "blod",
           "Drakula",
+          "huggtänder",
           "mellanljus hy",
           "vampyr",
           "vandöd"
@@ -15260,7 +15616,9 @@
       },
       "🧛🏽": {
         "default": [
+          "blod",
           "Drakula",
+          "huggtänder",
           "mellanfärgad hy",
           "vampyr",
           "vandöd"
@@ -15271,7 +15629,9 @@
       },
       "🧛🏾": {
         "default": [
+          "blod",
           "Drakula",
+          "huggtänder",
           "mellanmörk hy",
           "vampyr",
           "vandöd"
@@ -15282,7 +15642,9 @@
       },
       "🧛🏿": {
         "default": [
+          "blod",
           "Drakula",
+          "huggtänder",
           "mörk hy",
           "vampyr",
           "vandöd"
@@ -15560,7 +15922,8 @@
         "default": [
           "alv",
           "ljus hy",
-          "magisk"
+          "magisk",
+          "mystisk"
         ],
         "tts": [
           "alv: ljus hy"
@@ -15570,7 +15933,8 @@
         "default": [
           "alv",
           "magisk",
-          "mellanljus hy"
+          "mellanljus hy",
+          "mystisk"
         ],
         "tts": [
           "alv: mellanljus hy"
@@ -15580,7 +15944,8 @@
         "default": [
           "alv",
           "magisk",
-          "mellanfärgad hy"
+          "mellanfärgad hy",
+          "mystisk"
         ],
         "tts": [
           "alv: mellanfärgad hy"
@@ -15590,7 +15955,8 @@
         "default": [
           "alv",
           "magisk",
-          "mellanmörk hy"
+          "mellanmörk hy",
+          "mystisk"
         ],
         "tts": [
           "alv: mellanmörk hy"
@@ -15600,7 +15966,8 @@
         "default": [
           "alv",
           "magisk",
-          "mörk hy"
+          "mörk hy",
+          "mystisk"
         ],
         "tts": [
           "alv: mörk hy"
@@ -15710,6 +16077,7 @@
         "default": [
           "ansiktsmassage",
           "behandling",
+          "kvinna som blir masserad",
           "ljus hy",
           "massage",
           "person som blir masserad"
@@ -15722,6 +16090,7 @@
         "default": [
           "ansiktsmassage",
           "behandling",
+          "kvinna som blir masserad",
           "massage",
           "mellanljus hy",
           "person som blir masserad"
@@ -15734,6 +16103,7 @@
         "default": [
           "ansiktsmassage",
           "behandling",
+          "kvinna som blir masserad",
           "massage",
           "mellanfärgad hy",
           "person som blir masserad"
@@ -15746,6 +16116,7 @@
         "default": [
           "ansiktsmassage",
           "behandling",
+          "kvinna som blir masserad",
           "massage",
           "mellanmörk hy",
           "person som blir masserad"
@@ -15758,6 +16129,7 @@
         "default": [
           "ansiktsmassage",
           "behandling",
+          "kvinna som blir masserad",
           "massage",
           "mörk hy",
           "person som blir masserad"
@@ -15909,7 +16281,9 @@
       "💇🏻": {
         "default": [
           "frisör",
+          "frisyr",
           "hårklippning",
+          "kvinna som får håret klippt",
           "ljus hy",
           "person som får håret klippt",
           "skönhet"
@@ -15921,7 +16295,9 @@
       "💇🏼": {
         "default": [
           "frisör",
+          "frisyr",
           "hårklippning",
+          "kvinna som får håret klippt",
           "mellanljus hy",
           "person som får håret klippt",
           "skönhet"
@@ -15933,7 +16309,9 @@
       "💇🏽": {
         "default": [
           "frisör",
+          "frisyr",
           "hårklippning",
+          "kvinna som får håret klippt",
           "mellanfärgad hy",
           "person som får håret klippt",
           "skönhet"
@@ -15945,7 +16323,9 @@
       "💇🏾": {
         "default": [
           "frisör",
+          "frisyr",
           "hårklippning",
+          "kvinna som får håret klippt",
           "mellanmörk hy",
           "person som får håret klippt",
           "skönhet"
@@ -15957,7 +16337,9 @@
       "💇🏿": {
         "default": [
           "frisör",
+          "frisyr",
           "hårklippning",
+          "kvinna som får håret klippt",
           "mörk hy",
           "person som får håret klippt",
           "skönhet"
@@ -16090,7 +16472,10 @@
         "default": [
           "fotgängare",
           "ljus hy",
-          "promenerar"
+          "lunka",
+          "man som går",
+          "promenerar",
+          "vandra"
         ],
         "tts": [
           "fotgängare: ljus hy"
@@ -16099,8 +16484,11 @@
       "🚶🏼": {
         "default": [
           "fotgängare",
+          "lunka",
+          "man som går",
           "mellanljus hy",
-          "promenerar"
+          "promenerar",
+          "vandra"
         ],
         "tts": [
           "fotgängare: mellanljus hy"
@@ -16109,8 +16497,11 @@
       "🚶🏽": {
         "default": [
           "fotgängare",
+          "lunka",
+          "man som går",
           "mellanfärgad hy",
-          "promenerar"
+          "promenerar",
+          "vandra"
         ],
         "tts": [
           "fotgängare: mellanfärgad hy"
@@ -16119,8 +16510,11 @@
       "🚶🏾": {
         "default": [
           "fotgängare",
+          "lunka",
+          "man som går",
           "mellanmörk hy",
-          "promenerar"
+          "promenerar",
+          "vandra"
         ],
         "tts": [
           "fotgängare: mellanmörk hy"
@@ -16129,8 +16523,11 @@
       "🚶🏿": {
         "default": [
           "fotgängare",
+          "lunka",
+          "man som går",
           "mörk hy",
-          "promenerar"
+          "promenerar",
+          "vandra"
         ],
         "tts": [
           "fotgängare: mörk hy"
@@ -16264,6 +16661,273 @@
         ],
         "tts": [
           "kvinna som går: mörk hy"
+        ]
+      },
+      "🚶‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "höger",
+          "lunka",
+          "man som går",
+          "promenerar",
+          "vandra"
+        ],
+        "tts": [
+          "fotgängare: åt höger"
+        ]
+      },
+      "🚶🏻‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "höger",
+          "ljus hy",
+          "lunka",
+          "man som går",
+          "promenerar",
+          "vandra"
+        ],
+        "tts": [
+          "fotgängare: ljus hy, åt höger"
+        ]
+      },
+      "🚶🏼‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "höger",
+          "lunka",
+          "man som går",
+          "mellanljus hy",
+          "promenerar",
+          "vandra"
+        ],
+        "tts": [
+          "fotgängare: mellanljus hy, åt höger"
+        ]
+      },
+      "🚶🏽‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "höger",
+          "lunka",
+          "man som går",
+          "mellanfärgad hy",
+          "promenerar",
+          "vandra"
+        ],
+        "tts": [
+          "fotgängare: mellanfärgad hy, åt höger"
+        ]
+      },
+      "🚶🏾‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "höger",
+          "lunka",
+          "man som går",
+          "mellanmörk hy",
+          "promenerar",
+          "vandra"
+        ],
+        "tts": [
+          "fotgängare: mellanmörk hy, åt höger"
+        ]
+      },
+      "🚶🏿‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "höger",
+          "lunka",
+          "man som går",
+          "mörk hy",
+          "promenerar",
+          "vandra"
+        ],
+        "tts": [
+          "fotgängare: mörk hy, åt höger"
+        ]
+      },
+      "🚶‍♀‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "gå",
+          "höger",
+          "kvinna",
+          "kvinna går",
+          "kvinna som går"
+        ],
+        "tts": [
+          "kvinna som går: åt höger"
+        ]
+      },
+      "🚶🏻‍♀‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "gå",
+          "höger",
+          "kvinna",
+          "kvinna går",
+          "kvinna som går",
+          "ljus hy"
+        ],
+        "tts": [
+          "kvinna som går: ljus hy, åt höger"
+        ]
+      },
+      "🚶🏼‍♀‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "gå",
+          "höger",
+          "kvinna",
+          "kvinna går",
+          "kvinna som går",
+          "mellanljus hy"
+        ],
+        "tts": [
+          "kvinna som går: mellanljus hy, åt höger"
+        ]
+      },
+      "🚶🏽‍♀‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "gå",
+          "höger",
+          "kvinna",
+          "kvinna går",
+          "kvinna som går",
+          "mellanfärgad hy"
+        ],
+        "tts": [
+          "kvinna som går: mellanfärgad hy, åt höger"
+        ]
+      },
+      "🚶🏾‍♀‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "gå",
+          "höger",
+          "kvinna",
+          "kvinna går",
+          "kvinna som går",
+          "mellanmörk hy"
+        ],
+        "tts": [
+          "kvinna som går: mellanmörk hy, åt höger"
+        ]
+      },
+      "🚶🏿‍♀‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "gå",
+          "höger",
+          "kvinna",
+          "kvinna går",
+          "kvinna som går",
+          "mörk hy"
+        ],
+        "tts": [
+          "kvinna som går: mörk hy, åt höger"
+        ]
+      },
+      "🚶‍♂‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "gå",
+          "höger",
+          "man",
+          "man går",
+          "man som går"
+        ],
+        "tts": [
+          "man som går: åt höger"
+        ]
+      },
+      "🚶🏻‍♂‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "gå",
+          "höger",
+          "ljus hy",
+          "man",
+          "man går",
+          "man som går"
+        ],
+        "tts": [
+          "man som går: ljus hy, åt höger"
+        ]
+      },
+      "🚶🏼‍♂‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "gå",
+          "höger",
+          "man",
+          "man går",
+          "man som går",
+          "mellanljus hy"
+        ],
+        "tts": [
+          "man som går: mellanljus hy, åt höger"
+        ]
+      },
+      "🚶🏽‍♂‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "gå",
+          "höger",
+          "man",
+          "man går",
+          "man som går",
+          "mellanfärgad hy"
+        ],
+        "tts": [
+          "man som går: mellanfärgad hy, åt höger"
+        ]
+      },
+      "🚶🏾‍♂‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "gå",
+          "höger",
+          "man",
+          "man går",
+          "man som går",
+          "mellanmörk hy"
+        ],
+        "tts": [
+          "man som går: mellanmörk hy, åt höger"
+        ]
+      },
+      "🚶🏿‍♂‍➡": {
+        "default": [
+          "åt",
+          "fotgängare",
+          "gå",
+          "höger",
+          "man",
+          "man går",
+          "man som går",
+          "mörk hy"
+        ],
+        "tts": [
+          "man som går: mörk hy, åt höger"
         ]
       },
       "🧍🏻": {
@@ -16419,9 +17083,9 @@
       "🧎🏻": {
         "default": [
           "knäsittande",
-          "knästående",
+          "knästående person",
           "ljus hy",
-          "person"
+          "på knäna"
         ],
         "tts": [
           "knäsittande person: ljus hy"
@@ -16430,9 +17094,9 @@
       "🧎🏼": {
         "default": [
           "knäsittande",
-          "knästående",
+          "knästående person",
           "mellanljus hy",
-          "person"
+          "på knäna"
         ],
         "tts": [
           "knäsittande person: mellanljus hy"
@@ -16441,9 +17105,9 @@
       "🧎🏽": {
         "default": [
           "knäsittande",
-          "knästående",
+          "knästående person",
           "mellanfärgad hy",
-          "person"
+          "på knäna"
         ],
         "tts": [
           "knäsittande person: mellanfärgad hy"
@@ -16452,9 +17116,9 @@
       "🧎🏾": {
         "default": [
           "knäsittande",
-          "knästående",
+          "knästående person",
           "mellanmörk hy",
-          "person"
+          "på knäna"
         ],
         "tts": [
           "knäsittande person: mellanmörk hy"
@@ -16463,9 +17127,9 @@
       "🧎🏿": {
         "default": [
           "knäsittande",
-          "knästående",
+          "knästående person",
           "mörk hy",
-          "person"
+          "på knäna"
         ],
         "tts": [
           "knäsittande person: mörk hy"
@@ -16581,6 +17245,237 @@
           "knäsittande kvinna: mörk hy"
         ]
       },
+      "🧎‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående person",
+          "på knäna"
+        ],
+        "tts": [
+          "knäsittande person: åt höger"
+        ]
+      },
+      "🧎🏻‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående person",
+          "ljus hy",
+          "på knäna"
+        ],
+        "tts": [
+          "knäsittande person: ljus hy, åt höger"
+        ]
+      },
+      "🧎🏼‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående person",
+          "mellanljus hy",
+          "på knäna"
+        ],
+        "tts": [
+          "knäsittande person: mellanljus hy, åt höger"
+        ]
+      },
+      "🧎🏽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående person",
+          "mellanfärgad hy",
+          "på knäna"
+        ],
+        "tts": [
+          "knäsittande person: mellanfärgad hy, åt höger"
+        ]
+      },
+      "🧎🏾‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående person",
+          "mellanmörk hy",
+          "på knäna"
+        ],
+        "tts": [
+          "knäsittande person: mellanmörk hy, åt höger"
+        ]
+      },
+      "🧎🏿‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående person",
+          "mörk hy",
+          "på knäna"
+        ],
+        "tts": [
+          "knäsittande person: mörk hy, åt höger"
+        ]
+      },
+      "🧎‍♀‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående",
+          "kvinna"
+        ],
+        "tts": [
+          "knäsittande kvinna: åt höger"
+        ]
+      },
+      "🧎🏻‍♀‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående",
+          "kvinna",
+          "ljus hy"
+        ],
+        "tts": [
+          "knäsittande kvinna: ljus hy, åt höger"
+        ]
+      },
+      "🧎🏼‍♀‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående",
+          "kvinna",
+          "mellanljus hy"
+        ],
+        "tts": [
+          "knäsittande kvinna: mellanljus hy, åt höger"
+        ]
+      },
+      "🧎🏽‍♀‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående",
+          "kvinna",
+          "mellanfärgad hy"
+        ],
+        "tts": [
+          "knäsittande kvinna: mellanfärgad hy, åt höger"
+        ]
+      },
+      "🧎🏾‍♀‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående",
+          "kvinna",
+          "mellanmörk hy"
+        ],
+        "tts": [
+          "knäsittande kvinna: mellanmörk hy, åt höger"
+        ]
+      },
+      "🧎🏿‍♀‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående",
+          "kvinna",
+          "mörk hy"
+        ],
+        "tts": [
+          "knäsittande kvinna: mörk hy, åt höger"
+        ]
+      },
+      "🧎‍♂‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående",
+          "man"
+        ],
+        "tts": [
+          "knäsittande man: åt höger"
+        ]
+      },
+      "🧎🏻‍♂‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående",
+          "ljus hy",
+          "man"
+        ],
+        "tts": [
+          "knäsittande man: ljus hy, åt höger"
+        ]
+      },
+      "🧎🏼‍♂‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående",
+          "man",
+          "mellanljus hy"
+        ],
+        "tts": [
+          "knäsittande man: mellanljus hy, åt höger"
+        ]
+      },
+      "🧎🏽‍♂‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående",
+          "man",
+          "mellanfärgad hy"
+        ],
+        "tts": [
+          "knäsittande man: mellanfärgad hy, åt höger"
+        ]
+      },
+      "🧎🏾‍♂‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående",
+          "man",
+          "mellanmörk hy"
+        ],
+        "tts": [
+          "knäsittande man: mellanmörk hy, åt höger"
+        ]
+      },
+      "🧎🏿‍♂‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "knäsittande",
+          "knästående",
+          "man",
+          "mörk hy"
+        ],
+        "tts": [
+          "knäsittande man: mörk hy, åt höger"
+        ]
+      },
       "🧑🏻‍🦯": {
         "default": [
           "hjälpmedel",
@@ -16636,12 +17531,90 @@
           "person med vit käpp: mörk hy"
         ]
       },
+      "🧑‍🦯‍➡": {
+        "default": [
+          "åt",
+          "hjälpmedel",
+          "höger",
+          "person med vit käpp",
+          "synskadad"
+        ],
+        "tts": [
+          "person med vit käpp: åt höger"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "åt",
+          "hjälpmedel",
+          "höger",
+          "ljus hy",
+          "person med vit käpp",
+          "synskadad"
+        ],
+        "tts": [
+          "person med vit käpp: ljus hy, åt höger"
+        ]
+      },
+      "🧑🏼‍🦯‍➡": {
+        "default": [
+          "åt",
+          "hjälpmedel",
+          "höger",
+          "mellanljus hy",
+          "person med vit käpp",
+          "synskadad"
+        ],
+        "tts": [
+          "person med vit käpp: mellanljus hy, åt höger"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "åt",
+          "hjälpmedel",
+          "höger",
+          "mellanfärgad hy",
+          "person med vit käpp",
+          "synskadad"
+        ],
+        "tts": [
+          "person med vit käpp: mellanfärgad hy, åt höger"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "åt",
+          "hjälpmedel",
+          "höger",
+          "mellanmörk hy",
+          "person med vit käpp",
+          "synskadad"
+        ],
+        "tts": [
+          "person med vit käpp: mellanmörk hy, åt höger"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "åt",
+          "hjälpmedel",
+          "höger",
+          "mörk hy",
+          "person med vit käpp",
+          "synskadad"
+        ],
+        "tts": [
+          "person med vit käpp: mörk hy, åt höger"
+        ]
+      },
       "👨🏻‍🦯": {
         "default": [
           "blind",
           "blindkäpp",
           "ljus hy",
           "man",
+          "man med blindkäpp",
           "man med vit käpp",
           "vit käpp"
         ],
@@ -16654,6 +17627,7 @@
           "blind",
           "blindkäpp",
           "man",
+          "man med blindkäpp",
           "man med vit käpp",
           "mellanljus hy",
           "vit käpp"
@@ -16667,6 +17641,7 @@
           "blind",
           "blindkäpp",
           "man",
+          "man med blindkäpp",
           "man med vit käpp",
           "mellanfärgad hy",
           "vit käpp"
@@ -16680,6 +17655,7 @@
           "blind",
           "blindkäpp",
           "man",
+          "man med blindkäpp",
           "man med vit käpp",
           "mellanmörk hy",
           "vit käpp"
@@ -16693,6 +17669,7 @@
           "blind",
           "blindkäpp",
           "man",
+          "man med blindkäpp",
           "man med vit käpp",
           "mörk hy",
           "vit käpp"
@@ -16701,11 +17678,107 @@
           "man med vit käpp: mörk hy"
         ]
       },
+      "👨‍🦯‍➡": {
+        "default": [
+          "åt",
+          "blind",
+          "blindkäpp",
+          "höger",
+          "man",
+          "man med blindkäpp",
+          "man med vit käpp",
+          "vit käpp"
+        ],
+        "tts": [
+          "man med vit käpp: åt höger"
+        ]
+      },
+      "👨🏻‍🦯‍➡": {
+        "default": [
+          "åt",
+          "blind",
+          "blindkäpp",
+          "höger",
+          "ljus hy",
+          "man",
+          "man med blindkäpp",
+          "man med vit käpp",
+          "vit käpp"
+        ],
+        "tts": [
+          "man med vit käpp: ljus hy, åt höger"
+        ]
+      },
+      "👨🏼‍🦯‍➡": {
+        "default": [
+          "åt",
+          "blind",
+          "blindkäpp",
+          "höger",
+          "man",
+          "man med blindkäpp",
+          "man med vit käpp",
+          "mellanljus hy",
+          "vit käpp"
+        ],
+        "tts": [
+          "man med vit käpp: mellanljus hy, åt höger"
+        ]
+      },
+      "👨🏽‍🦯‍➡": {
+        "default": [
+          "åt",
+          "blind",
+          "blindkäpp",
+          "höger",
+          "man",
+          "man med blindkäpp",
+          "man med vit käpp",
+          "mellanfärgad hy",
+          "vit käpp"
+        ],
+        "tts": [
+          "man med vit käpp: mellanfärgad hy, åt höger"
+        ]
+      },
+      "👨🏾‍🦯‍➡": {
+        "default": [
+          "åt",
+          "blind",
+          "blindkäpp",
+          "höger",
+          "man",
+          "man med blindkäpp",
+          "man med vit käpp",
+          "mellanmörk hy",
+          "vit käpp"
+        ],
+        "tts": [
+          "man med vit käpp: mellanmörk hy, åt höger"
+        ]
+      },
+      "👨🏿‍🦯‍➡": {
+        "default": [
+          "åt",
+          "blind",
+          "blindkäpp",
+          "höger",
+          "man",
+          "man med blindkäpp",
+          "man med vit käpp",
+          "mörk hy",
+          "vit käpp"
+        ],
+        "tts": [
+          "man med vit käpp: mörk hy, åt höger"
+        ]
+      },
       "👩🏻‍🦯": {
         "default": [
           "blind",
           "blindkäpp",
           "kvinna",
+          "kvinna med blindkäpp",
           "kvinna med vit käpp",
           "ljus hy",
           "vit käpp"
@@ -16719,6 +17792,7 @@
           "blind",
           "blindkäpp",
           "kvinna",
+          "kvinna med blindkäpp",
           "kvinna med vit käpp",
           "mellanljus hy",
           "vit käpp"
@@ -16732,6 +17806,7 @@
           "blind",
           "blindkäpp",
           "kvinna",
+          "kvinna med blindkäpp",
           "kvinna med vit käpp",
           "mellanfärgad hy",
           "vit käpp"
@@ -16745,6 +17820,7 @@
           "blind",
           "blindkäpp",
           "kvinna",
+          "kvinna med blindkäpp",
           "kvinna med vit käpp",
           "mellanmörk hy",
           "vit käpp"
@@ -16758,12 +17834,108 @@
           "blind",
           "blindkäpp",
           "kvinna",
+          "kvinna med blindkäpp",
           "kvinna med vit käpp",
           "mörk hy",
           "vit käpp"
         ],
         "tts": [
           "kvinna med vit käpp: mörk hy"
+        ]
+      },
+      "👩‍🦯‍➡": {
+        "default": [
+          "åt",
+          "blind",
+          "blindkäpp",
+          "höger",
+          "kvinna",
+          "kvinna med blindkäpp",
+          "kvinna med vit käpp",
+          "vit käpp"
+        ],
+        "tts": [
+          "kvinna med vit käpp: åt höger"
+        ]
+      },
+      "👩🏻‍🦯‍➡": {
+        "default": [
+          "åt",
+          "blind",
+          "blindkäpp",
+          "höger",
+          "kvinna",
+          "kvinna med blindkäpp",
+          "kvinna med vit käpp",
+          "ljus hy",
+          "vit käpp"
+        ],
+        "tts": [
+          "kvinna med vit käpp: ljus hy, åt höger"
+        ]
+      },
+      "👩🏼‍🦯‍➡": {
+        "default": [
+          "åt",
+          "blind",
+          "blindkäpp",
+          "höger",
+          "kvinna",
+          "kvinna med blindkäpp",
+          "kvinna med vit käpp",
+          "mellanljus hy",
+          "vit käpp"
+        ],
+        "tts": [
+          "kvinna med vit käpp: mellanljus hy, åt höger"
+        ]
+      },
+      "👩🏽‍🦯‍➡": {
+        "default": [
+          "åt",
+          "blind",
+          "blindkäpp",
+          "höger",
+          "kvinna",
+          "kvinna med blindkäpp",
+          "kvinna med vit käpp",
+          "mellanfärgad hy",
+          "vit käpp"
+        ],
+        "tts": [
+          "kvinna med vit käpp: mellanfärgad hy, åt höger"
+        ]
+      },
+      "👩🏾‍🦯‍➡": {
+        "default": [
+          "åt",
+          "blind",
+          "blindkäpp",
+          "höger",
+          "kvinna",
+          "kvinna med blindkäpp",
+          "kvinna med vit käpp",
+          "mellanmörk hy",
+          "vit käpp"
+        ],
+        "tts": [
+          "kvinna med vit käpp: mellanmörk hy, åt höger"
+        ]
+      },
+      "👩🏿‍🦯‍➡": {
+        "default": [
+          "åt",
+          "blind",
+          "blindkäpp",
+          "höger",
+          "kvinna",
+          "kvinna med blindkäpp",
+          "kvinna med vit käpp",
+          "mörk hy",
+          "vit käpp"
+        ],
+        "tts": [
+          "kvinna med vit käpp: mörk hy, åt höger"
         ]
       },
       "🧑🏻‍🦼": {
@@ -16826,6 +17998,89 @@
           "person i permobil: mörk hy"
         ]
       },
+      "🧑‍🦼‍➡": {
+        "default": [
+          "åt",
+          "eldriven rullstol",
+          "elektrisk rullstol",
+          "höger",
+          "person i permobil",
+          "tillträde"
+        ],
+        "tts": [
+          "person i permobil: åt höger"
+        ]
+      },
+      "🧑🏻‍🦼‍➡": {
+        "default": [
+          "åt",
+          "eldriven rullstol",
+          "elektrisk rullstol",
+          "höger",
+          "ljus hy",
+          "person i permobil",
+          "tillträde"
+        ],
+        "tts": [
+          "person i permobil: ljus hy, åt höger"
+        ]
+      },
+      "🧑🏼‍🦼‍➡": {
+        "default": [
+          "åt",
+          "eldriven rullstol",
+          "elektrisk rullstol",
+          "höger",
+          "mellanljus hy",
+          "person i permobil",
+          "tillträde"
+        ],
+        "tts": [
+          "person i permobil: mellanljus hy, åt höger"
+        ]
+      },
+      "🧑🏽‍🦼‍➡": {
+        "default": [
+          "åt",
+          "eldriven rullstol",
+          "elektrisk rullstol",
+          "höger",
+          "mellanfärgad hy",
+          "person i permobil",
+          "tillträde"
+        ],
+        "tts": [
+          "person i permobil: mellanfärgad hy, åt höger"
+        ]
+      },
+      "🧑🏾‍🦼‍➡": {
+        "default": [
+          "åt",
+          "eldriven rullstol",
+          "elektrisk rullstol",
+          "höger",
+          "mellanmörk hy",
+          "person i permobil",
+          "tillträde"
+        ],
+        "tts": [
+          "person i permobil: mellanmörk hy, åt höger"
+        ]
+      },
+      "🧑🏿‍🦼‍➡": {
+        "default": [
+          "åt",
+          "eldriven rullstol",
+          "elektrisk rullstol",
+          "höger",
+          "mörk hy",
+          "person i permobil",
+          "tillträde"
+        ],
+        "tts": [
+          "person i permobil: mörk hy, åt höger"
+        ]
+      },
       "👨🏻‍🦼": {
         "default": [
           "ljus hy",
@@ -16884,6 +18139,89 @@
         ],
         "tts": [
           "man i permobil: mörk hy"
+        ]
+      },
+      "👨‍🦼‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "man",
+          "man i permobil",
+          "permobil",
+          "rullstol"
+        ],
+        "tts": [
+          "man i permobil: åt höger"
+        ]
+      },
+      "👨🏻‍🦼‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "ljus hy",
+          "man",
+          "man i permobil",
+          "permobil",
+          "rullstol"
+        ],
+        "tts": [
+          "man i permobil: ljus hy, åt höger"
+        ]
+      },
+      "👨🏼‍🦼‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "man",
+          "man i permobil",
+          "mellanljus hy",
+          "permobil",
+          "rullstol"
+        ],
+        "tts": [
+          "man i permobil: mellanljus hy, åt höger"
+        ]
+      },
+      "👨🏽‍🦼‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "man",
+          "man i permobil",
+          "mellanfärgad hy",
+          "permobil",
+          "rullstol"
+        ],
+        "tts": [
+          "man i permobil: mellanfärgad hy, åt höger"
+        ]
+      },
+      "👨🏾‍🦼‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "man",
+          "man i permobil",
+          "mellanmörk hy",
+          "permobil",
+          "rullstol"
+        ],
+        "tts": [
+          "man i permobil: mellanmörk hy, åt höger"
+        ]
+      },
+      "👨🏿‍🦼‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "man",
+          "man i permobil",
+          "mörk hy",
+          "permobil",
+          "rullstol"
+        ],
+        "tts": [
+          "man i permobil: mörk hy, åt höger"
         ]
       },
       "👩🏻‍🦼": {
@@ -16946,6 +18284,89 @@
           "kvinna i permobil: mörk hy"
         ]
       },
+      "👩‍🦼‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "kvinna",
+          "kvinna i permobil",
+          "permobil",
+          "rullstol"
+        ],
+        "tts": [
+          "kvinna i permobil: åt höger"
+        ]
+      },
+      "👩🏻‍🦼‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "kvinna",
+          "kvinna i permobil",
+          "ljus hy",
+          "permobil",
+          "rullstol"
+        ],
+        "tts": [
+          "kvinna i permobil: ljus hy, åt höger"
+        ]
+      },
+      "👩🏼‍🦼‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "kvinna",
+          "kvinna i permobil",
+          "mellanljus hy",
+          "permobil",
+          "rullstol"
+        ],
+        "tts": [
+          "kvinna i permobil: mellanljus hy, åt höger"
+        ]
+      },
+      "👩🏽‍🦼‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "kvinna",
+          "kvinna i permobil",
+          "mellanfärgad hy",
+          "permobil",
+          "rullstol"
+        ],
+        "tts": [
+          "kvinna i permobil: mellanfärgad hy, åt höger"
+        ]
+      },
+      "👩🏾‍🦼‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "kvinna",
+          "kvinna i permobil",
+          "mellanmörk hy",
+          "permobil",
+          "rullstol"
+        ],
+        "tts": [
+          "kvinna i permobil: mellanmörk hy, åt höger"
+        ]
+      },
+      "👩🏿‍🦼‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "kvinna",
+          "kvinna i permobil",
+          "mörk hy",
+          "permobil",
+          "rullstol"
+        ],
+        "tts": [
+          "kvinna i permobil: mörk hy, åt höger"
+        ]
+      },
       "🧑🏻‍🦽": {
         "default": [
           "ljus hy",
@@ -16999,6 +18420,83 @@
         ],
         "tts": [
           "person i manuell rullstol: mörk hy"
+        ]
+      },
+      "🧑‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "person i manuell rullstol",
+          "rullstol",
+          "tillträde"
+        ],
+        "tts": [
+          "person i manuell rullstol: åt höger"
+        ]
+      },
+      "🧑🏻‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "ljus hy",
+          "person i manuell rullstol",
+          "rullstol",
+          "tillträde"
+        ],
+        "tts": [
+          "person i manuell rullstol: ljus hy, åt höger"
+        ]
+      },
+      "🧑🏼‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "mellanljus hy",
+          "person i manuell rullstol",
+          "rullstol",
+          "tillträde"
+        ],
+        "tts": [
+          "person i manuell rullstol: mellanljus hy, åt höger"
+        ]
+      },
+      "🧑🏽‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "mellanfärgad hy",
+          "person i manuell rullstol",
+          "rullstol",
+          "tillträde"
+        ],
+        "tts": [
+          "person i manuell rullstol: mellanfärgad hy, åt höger"
+        ]
+      },
+      "🧑🏾‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "mellanmörk hy",
+          "person i manuell rullstol",
+          "rullstol",
+          "tillträde"
+        ],
+        "tts": [
+          "person i manuell rullstol: mellanmörk hy, åt höger"
+        ]
+      },
+      "🧑🏿‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "mörk hy",
+          "person i manuell rullstol",
+          "rullstol",
+          "tillträde"
+        ],
+        "tts": [
+          "person i manuell rullstol: mörk hy, åt höger"
         ]
       },
       "👨🏻‍🦽": {
@@ -17056,6 +18554,83 @@
           "man i manuell rullstol: mörk hy"
         ]
       },
+      "👨‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "man",
+          "man i manuell rullstol",
+          "rullstol"
+        ],
+        "tts": [
+          "man i manuell rullstol: åt höger"
+        ]
+      },
+      "👨🏻‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "ljus hy",
+          "man",
+          "man i manuell rullstol",
+          "rullstol"
+        ],
+        "tts": [
+          "man i manuell rullstol: ljus hy, åt höger"
+        ]
+      },
+      "👨🏼‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "man",
+          "man i manuell rullstol",
+          "mellanljus hy",
+          "rullstol"
+        ],
+        "tts": [
+          "man i manuell rullstol: mellanljus hy, åt höger"
+        ]
+      },
+      "👨🏽‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "man",
+          "man i manuell rullstol",
+          "mellanfärgad hy",
+          "rullstol"
+        ],
+        "tts": [
+          "man i manuell rullstol: mellanfärgad hy, åt höger"
+        ]
+      },
+      "👨🏾‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "man",
+          "man i manuell rullstol",
+          "mellanmörk hy",
+          "rullstol"
+        ],
+        "tts": [
+          "man i manuell rullstol: mellanmörk hy, åt höger"
+        ]
+      },
+      "👨🏿‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "man",
+          "man i manuell rullstol",
+          "mörk hy",
+          "rullstol"
+        ],
+        "tts": [
+          "man i manuell rullstol: mörk hy, åt höger"
+        ]
+      },
       "👩🏻‍🦽": {
         "default": [
           "kvinna",
@@ -17111,11 +18686,90 @@
           "kvinna i manuell rullstol: mörk hy"
         ]
       },
+      "👩‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "kvinna",
+          "kvinna i manuell rullstol",
+          "rullstol"
+        ],
+        "tts": [
+          "kvinna i manuell rullstol: åt höger"
+        ]
+      },
+      "👩🏻‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "kvinna",
+          "kvinna i manuell rullstol",
+          "ljus hy",
+          "rullstol"
+        ],
+        "tts": [
+          "kvinna i manuell rullstol: ljus hy, åt höger"
+        ]
+      },
+      "👩🏼‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "kvinna",
+          "kvinna i manuell rullstol",
+          "mellanljus hy",
+          "rullstol"
+        ],
+        "tts": [
+          "kvinna i manuell rullstol: mellanljus hy, åt höger"
+        ]
+      },
+      "👩🏽‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "kvinna",
+          "kvinna i manuell rullstol",
+          "mellanfärgad hy",
+          "rullstol"
+        ],
+        "tts": [
+          "kvinna i manuell rullstol: mellanfärgad hy, åt höger"
+        ]
+      },
+      "👩🏾‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "kvinna",
+          "kvinna i manuell rullstol",
+          "mellanmörk hy",
+          "rullstol"
+        ],
+        "tts": [
+          "kvinna i manuell rullstol: mellanmörk hy, åt höger"
+        ]
+      },
+      "👩🏿‍🦽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "kvinna",
+          "kvinna i manuell rullstol",
+          "mörk hy",
+          "rullstol"
+        ],
+        "tts": [
+          "kvinna i manuell rullstol: mörk hy, åt höger"
+        ]
+      },
       "🏃🏻": {
         "default": [
           "ljus hy",
           "löpare",
           "löpning",
+          "maraton",
+          "person som löper",
           "person som springer"
         ],
         "tts": [
@@ -17126,7 +18780,9 @@
         "default": [
           "löpare",
           "löpning",
+          "maraton",
           "mellanljus hy",
+          "person som löper",
           "person som springer"
         ],
         "tts": [
@@ -17137,7 +18793,9 @@
         "default": [
           "löpare",
           "löpning",
+          "maraton",
           "mellanfärgad hy",
+          "person som löper",
           "person som springer"
         ],
         "tts": [
@@ -17148,7 +18806,9 @@
         "default": [
           "löpare",
           "löpning",
+          "maraton",
           "mellanmörk hy",
+          "person som löper",
           "person som springer"
         ],
         "tts": [
@@ -17159,7 +18819,9 @@
         "default": [
           "löpare",
           "löpning",
+          "maraton",
           "mörk hy",
+          "person som löper",
           "person som springer"
         ],
         "tts": [
@@ -17294,6 +18956,273 @@
         ],
         "tts": [
           "kvinna som springer: mörk hy"
+        ]
+      },
+      "🏃‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "löpare",
+          "löpning",
+          "maraton",
+          "person som löper",
+          "person som springer"
+        ],
+        "tts": [
+          "person som springer: åt höger"
+        ]
+      },
+      "🏃🏻‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "ljus hy",
+          "löpare",
+          "löpning",
+          "maraton",
+          "person som löper",
+          "person som springer"
+        ],
+        "tts": [
+          "person som springer: ljus hy, åt höger"
+        ]
+      },
+      "🏃🏼‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "löpare",
+          "löpning",
+          "maraton",
+          "mellanljus hy",
+          "person som löper",
+          "person som springer"
+        ],
+        "tts": [
+          "person som springer: mellanljus hy, åt höger"
+        ]
+      },
+      "🏃🏽‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "löpare",
+          "löpning",
+          "maraton",
+          "mellanfärgad hy",
+          "person som löper",
+          "person som springer"
+        ],
+        "tts": [
+          "person som springer: mellanfärgad hy, åt höger"
+        ]
+      },
+      "🏃🏾‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "löpare",
+          "löpning",
+          "maraton",
+          "mellanmörk hy",
+          "person som löper",
+          "person som springer"
+        ],
+        "tts": [
+          "person som springer: mellanmörk hy, åt höger"
+        ]
+      },
+      "🏃🏿‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "löpare",
+          "löpning",
+          "maraton",
+          "mörk hy",
+          "person som löper",
+          "person som springer"
+        ],
+        "tts": [
+          "person som springer: mörk hy, åt höger"
+        ]
+      },
+      "🏃‍♀‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "jogga",
+          "kvinna",
+          "kvinna som springer",
+          "kvinna springer",
+          "löpa"
+        ],
+        "tts": [
+          "kvinna som springer: åt höger"
+        ]
+      },
+      "🏃🏻‍♀‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "jogga",
+          "kvinna",
+          "kvinna som springer",
+          "kvinna springer",
+          "ljus hy",
+          "löpa"
+        ],
+        "tts": [
+          "kvinna som springer: ljus hy, åt höger"
+        ]
+      },
+      "🏃🏼‍♀‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "jogga",
+          "kvinna",
+          "kvinna som springer",
+          "kvinna springer",
+          "löpa",
+          "mellanljus hy"
+        ],
+        "tts": [
+          "kvinna som springer: mellanljus hy, åt höger"
+        ]
+      },
+      "🏃🏽‍♀‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "jogga",
+          "kvinna",
+          "kvinna som springer",
+          "kvinna springer",
+          "löpa",
+          "mellanfärgad hy"
+        ],
+        "tts": [
+          "kvinna som springer: mellanfärgad hy, åt höger"
+        ]
+      },
+      "🏃🏾‍♀‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "jogga",
+          "kvinna",
+          "kvinna som springer",
+          "kvinna springer",
+          "löpa",
+          "mellanmörk hy"
+        ],
+        "tts": [
+          "kvinna som springer: mellanmörk hy, åt höger"
+        ]
+      },
+      "🏃🏿‍♀‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "jogga",
+          "kvinna",
+          "kvinna som springer",
+          "kvinna springer",
+          "löpa",
+          "mörk hy"
+        ],
+        "tts": [
+          "kvinna som springer: mörk hy, åt höger"
+        ]
+      },
+      "🏃‍♂‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "jogga",
+          "löpa",
+          "man",
+          "man som springer",
+          "man springer"
+        ],
+        "tts": [
+          "man som springer: åt höger"
+        ]
+      },
+      "🏃🏻‍♂‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "jogga",
+          "ljus hy",
+          "löpa",
+          "man",
+          "man som springer",
+          "man springer"
+        ],
+        "tts": [
+          "man som springer: ljus hy, åt höger"
+        ]
+      },
+      "🏃🏼‍♂‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "jogga",
+          "löpa",
+          "man",
+          "man som springer",
+          "man springer",
+          "mellanljus hy"
+        ],
+        "tts": [
+          "man som springer: mellanljus hy, åt höger"
+        ]
+      },
+      "🏃🏽‍♂‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "jogga",
+          "löpa",
+          "man",
+          "man som springer",
+          "man springer",
+          "mellanfärgad hy"
+        ],
+        "tts": [
+          "man som springer: mellanfärgad hy, åt höger"
+        ]
+      },
+      "🏃🏾‍♂‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "jogga",
+          "löpa",
+          "man",
+          "man som springer",
+          "man springer",
+          "mellanmörk hy"
+        ],
+        "tts": [
+          "man som springer: mellanmörk hy, åt höger"
+        ]
+      },
+      "🏃🏿‍♂‍➡": {
+        "default": [
+          "åt",
+          "höger",
+          "jogga",
+          "löpa",
+          "man",
+          "man som springer",
+          "man springer",
+          "mörk hy"
+        ],
+        "tts": [
+          "man som springer: mörk hy, åt höger"
         ]
       },
       "💃🏻": {
@@ -17471,7 +19400,9 @@
           "ångbastu",
           "bastu",
           "ljus hy",
-          "person i ångbastu"
+          "person i ångbastu",
+          "slappna av",
+          "spa"
         ],
         "tts": [
           "person i ångbastu: ljus hy"
@@ -17482,7 +19413,9 @@
           "ångbastu",
           "bastu",
           "mellanljus hy",
-          "person i ångbastu"
+          "person i ångbastu",
+          "slappna av",
+          "spa"
         ],
         "tts": [
           "person i ångbastu: mellanljus hy"
@@ -17493,7 +19426,9 @@
           "ångbastu",
           "bastu",
           "mellanfärgad hy",
-          "person i ångbastu"
+          "person i ångbastu",
+          "slappna av",
+          "spa"
         ],
         "tts": [
           "person i ångbastu: mellanfärgad hy"
@@ -17504,7 +19439,9 @@
           "ångbastu",
           "bastu",
           "mellanmörk hy",
-          "person i ångbastu"
+          "person i ångbastu",
+          "slappna av",
+          "spa"
         ],
         "tts": [
           "person i ångbastu: mellanmörk hy"
@@ -17515,7 +19452,9 @@
           "ångbastu",
           "bastu",
           "mörk hy",
-          "person i ångbastu"
+          "person i ångbastu",
+          "slappna av",
+          "spa"
         ],
         "tts": [
           "person i ångbastu: mörk hy"
@@ -17633,6 +19572,8 @@
       },
       "🧗🏻": {
         "default": [
+          "bergsklättring",
+          "klättra upp",
           "klättrare",
           "ljus hy",
           "person klättrar",
@@ -17644,6 +19585,8 @@
       },
       "🧗🏼": {
         "default": [
+          "bergsklättring",
+          "klättra upp",
           "klättrare",
           "mellanljus hy",
           "person klättrar",
@@ -17655,6 +19598,8 @@
       },
       "🧗🏽": {
         "default": [
+          "bergsklättring",
+          "klättra upp",
           "klättrare",
           "mellanfärgad hy",
           "person klättrar",
@@ -17666,6 +19611,8 @@
       },
       "🧗🏾": {
         "default": [
+          "bergsklättring",
+          "klättra upp",
           "klättrare",
           "mellanmörk hy",
           "person klättrar",
@@ -17677,6 +19624,8 @@
       },
       "🧗🏿": {
         "default": [
+          "bergsklättring",
+          "klättra upp",
           "klättrare",
           "mörk hy",
           "person klättrar",
@@ -17802,7 +19751,8 @@
           "hästkapplöpning",
           "jockey",
           "kapplöpning",
-          "ljus hy"
+          "ljus hy",
+          "person som galopperar med en häst"
         ],
         "tts": [
           "hästkapplöpning: ljus hy"
@@ -17814,7 +19764,8 @@
           "hästkapplöpning",
           "jockey",
           "kapplöpning",
-          "mellanljus hy"
+          "mellanljus hy",
+          "person som galopperar med en häst"
         ],
         "tts": [
           "hästkapplöpning: mellanljus hy"
@@ -17826,7 +19777,8 @@
           "hästkapplöpning",
           "jockey",
           "kapplöpning",
-          "mellanfärgad hy"
+          "mellanfärgad hy",
+          "person som galopperar med en häst"
         ],
         "tts": [
           "hästkapplöpning: mellanfärgad hy"
@@ -17838,7 +19790,8 @@
           "hästkapplöpning",
           "jockey",
           "kapplöpning",
-          "mellanmörk hy"
+          "mellanmörk hy",
+          "person som galopperar med en häst"
         ],
         "tts": [
           "hästkapplöpning: mellanmörk hy"
@@ -17850,7 +19803,8 @@
           "hästkapplöpning",
           "jockey",
           "kapplöpning",
-          "mörk hy"
+          "mörk hy",
+          "person som galopperar med en häst"
         ],
         "tts": [
           "hästkapplöpning: mörk hy"
@@ -17908,11 +19862,14 @@
       },
       "🏌🏻": {
         "default": [
+          "birdie",
           "golf",
           "golfspelare",
           "ljus hy",
           "person som spelar golf",
-          "sport"
+          "putt",
+          "sport",
+          "tee"
         ],
         "tts": [
           "person som spelar golf: ljus hy"
@@ -17920,11 +19877,14 @@
       },
       "🏌🏼": {
         "default": [
+          "birdie",
           "golf",
           "golfspelare",
           "mellanljus hy",
           "person som spelar golf",
-          "sport"
+          "putt",
+          "sport",
+          "tee"
         ],
         "tts": [
           "person som spelar golf: mellanljus hy"
@@ -17932,11 +19892,14 @@
       },
       "🏌🏽": {
         "default": [
+          "birdie",
           "golf",
           "golfspelare",
           "mellanfärgad hy",
           "person som spelar golf",
-          "sport"
+          "putt",
+          "sport",
+          "tee"
         ],
         "tts": [
           "person som spelar golf: mellanfärgad hy"
@@ -17944,11 +19907,14 @@
       },
       "🏌🏾": {
         "default": [
+          "birdie",
           "golf",
           "golfspelare",
           "mellanmörk hy",
           "person som spelar golf",
-          "sport"
+          "putt",
+          "sport",
+          "tee"
         ],
         "tts": [
           "person som spelar golf: mellanmörk hy"
@@ -17956,11 +19922,14 @@
       },
       "🏌🏿": {
         "default": [
+          "birdie",
           "golf",
           "golfspelare",
           "mörk hy",
           "person som spelar golf",
-          "sport"
+          "putt",
+          "sport",
+          "tee"
         ],
         "tts": [
           "person som spelar golf: mörk hy"
@@ -18098,8 +20067,10 @@
       },
       "🏄🏻": {
         "default": [
+          "hav",
           "ljus hy",
           "person som surfar",
+          "strand",
           "surfare",
           "surfing",
           "surfning"
@@ -18110,8 +20081,10 @@
       },
       "🏄🏼": {
         "default": [
+          "hav",
           "mellanljus hy",
           "person som surfar",
+          "strand",
           "surfare",
           "surfing",
           "surfning"
@@ -18122,8 +20095,10 @@
       },
       "🏄🏽": {
         "default": [
+          "hav",
           "mellanfärgad hy",
           "person som surfar",
+          "strand",
           "surfare",
           "surfing",
           "surfning"
@@ -18134,8 +20109,10 @@
       },
       "🏄🏾": {
         "default": [
+          "hav",
           "mellanmörk hy",
           "person som surfar",
+          "strand",
           "surfare",
           "surfing",
           "surfning"
@@ -18146,8 +20123,10 @@
       },
       "🏄🏿": {
         "default": [
+          "hav",
           "mörk hy",
           "person som surfar",
+          "strand",
           "surfare",
           "surfing",
           "surfning"
@@ -18485,6 +20464,7 @@
         "default": [
           "ljus hy",
           "person som simmar",
+          "simma",
           "simmare",
           "simning"
         ],
@@ -18496,6 +20476,7 @@
         "default": [
           "mellanljus hy",
           "person som simmar",
+          "simma",
           "simmare",
           "simning"
         ],
@@ -18507,6 +20488,7 @@
         "default": [
           "mellanfärgad hy",
           "person som simmar",
+          "simma",
           "simmare",
           "simning"
         ],
@@ -18518,6 +20500,7 @@
         "default": [
           "mellanmörk hy",
           "person som simmar",
+          "simma",
           "simmare",
           "simning"
         ],
@@ -18529,6 +20512,7 @@
         "default": [
           "mörk hy",
           "person som simmar",
+          "simma",
           "simmare",
           "simning"
         ],
@@ -18658,7 +20642,10 @@
       },
       "⛹🏻": {
         "default": [
+          "basket",
+          "basketspelare",
           "boll",
+          "dribbla",
           "ljus hy",
           "person med boll",
           "sport"
@@ -18669,7 +20656,10 @@
       },
       "⛹🏼": {
         "default": [
+          "basket",
+          "basketspelare",
           "boll",
+          "dribbla",
           "mellanljus hy",
           "person med boll",
           "sport"
@@ -18680,7 +20670,10 @@
       },
       "⛹🏽": {
         "default": [
+          "basket",
+          "basketspelare",
           "boll",
+          "dribbla",
           "mellanfärgad hy",
           "person med boll",
           "sport"
@@ -18691,7 +20684,10 @@
       },
       "⛹🏾": {
         "default": [
+          "basket",
+          "basketspelare",
           "boll",
+          "dribbla",
           "mellanmörk hy",
           "person med boll",
           "sport"
@@ -18702,7 +20698,10 @@
       },
       "⛹🏿": {
         "default": [
+          "basket",
+          "basketspelare",
           "boll",
+          "dribbla",
           "mörk hy",
           "person med boll",
           "sport"
@@ -18833,6 +20832,7 @@
       },
       "🏋🏻": {
         "default": [
+          "kroppsbyggare",
           "ljus hy",
           "person som lyfter tyngder",
           "sport",
@@ -18844,6 +20844,7 @@
       },
       "🏋🏼": {
         "default": [
+          "kroppsbyggare",
           "mellanljus hy",
           "person som lyfter tyngder",
           "sport",
@@ -18855,6 +20856,7 @@
       },
       "🏋🏽": {
         "default": [
+          "kroppsbyggare",
           "mellanfärgad hy",
           "person som lyfter tyngder",
           "sport",
@@ -18866,6 +20868,7 @@
       },
       "🏋🏾": {
         "default": [
+          "kroppsbyggare",
           "mellanmörk hy",
           "person som lyfter tyngder",
           "sport",
@@ -18877,6 +20880,7 @@
       },
       "🏋🏿": {
         "default": [
+          "kroppsbyggare",
           "mörk hy",
           "person som lyfter tyngder",
           "sport",
@@ -19019,6 +21023,7 @@
       "🚴🏻": {
         "default": [
           "cykel",
+          "cykla",
           "cyklist",
           "ljus hy",
           "person som cyklar"
@@ -19030,6 +21035,7 @@
       "🚴🏼": {
         "default": [
           "cykel",
+          "cykla",
           "cyklist",
           "mellanljus hy",
           "person som cyklar"
@@ -19041,6 +21047,7 @@
       "🚴🏽": {
         "default": [
           "cykel",
+          "cykla",
           "cyklist",
           "mellanfärgad hy",
           "person som cyklar"
@@ -19052,6 +21059,7 @@
       "🚴🏾": {
         "default": [
           "cykel",
+          "cykla",
           "cyklist",
           "mellanmörk hy",
           "person som cyklar"
@@ -19063,6 +21071,7 @@
       "🚴🏿": {
         "default": [
           "cykel",
+          "cykla",
           "cyklist",
           "mörk hy",
           "person som cyklar"
@@ -19214,6 +21223,7 @@
       "🚵🏻": {
         "default": [
           "cykel",
+          "cykla",
           "cyklist",
           "ljus hy",
           "mountainbikeåkare",
@@ -19226,6 +21236,7 @@
       "🚵🏼": {
         "default": [
           "cykel",
+          "cykla",
           "cyklist",
           "mellanljus hy",
           "mountainbikeåkare",
@@ -19238,6 +21249,7 @@
       "🚵🏽": {
         "default": [
           "cykel",
+          "cykla",
           "cyklist",
           "mellanfärgad hy",
           "mountainbikeåkare",
@@ -19250,6 +21262,7 @@
       "🚵🏾": {
         "default": [
           "cykel",
+          "cykla",
           "cyklist",
           "mellanmörk hy",
           "mountainbikeåkare",
@@ -19262,6 +21275,7 @@
       "🚵🏿": {
         "default": [
           "cykel",
+          "cykla",
           "cyklist",
           "mörk hy",
           "mountainbikeåkare",
@@ -19342,6 +21356,7 @@
           "cyklist",
           "kvinna",
           "kvinna åker mountainbike",
+          "kvinna som cyklar",
           "kvinna som cyklar på en mountainbike",
           "ljus hy"
         ],
@@ -19355,6 +21370,7 @@
           "cyklist",
           "kvinna",
           "kvinna åker mountainbike",
+          "kvinna som cyklar",
           "kvinna som cyklar på en mountainbike",
           "mellanljus hy"
         ],
@@ -19368,6 +21384,7 @@
           "cyklist",
           "kvinna",
           "kvinna åker mountainbike",
+          "kvinna som cyklar",
           "kvinna som cyklar på en mountainbike",
           "mellanfärgad hy"
         ],
@@ -19381,6 +21398,7 @@
           "cyklist",
           "kvinna",
           "kvinna åker mountainbike",
+          "kvinna som cyklar",
           "kvinna som cyklar på en mountainbike",
           "mellanmörk hy"
         ],
@@ -19394,6 +21412,7 @@
           "cyklist",
           "kvinna",
           "kvinna åker mountainbike",
+          "kvinna som cyklar",
           "kvinna som cyklar på en mountainbike",
           "mörk hy"
         ],
@@ -19464,9 +21483,11 @@
       "🤸🏻‍♂": {
         "default": [
           "gymnastik",
+          "kullerbytta",
           "ljus hy",
           "man",
-          "man som hjular"
+          "man som hjular",
+          "volt"
         ],
         "tts": [
           "man som hjular: ljus hy"
@@ -19475,9 +21496,11 @@
       "🤸🏼‍♂": {
         "default": [
           "gymnastik",
+          "kullerbytta",
           "man",
           "man som hjular",
-          "mellanljus hy"
+          "mellanljus hy",
+          "volt"
         ],
         "tts": [
           "man som hjular: mellanljus hy"
@@ -19486,9 +21509,11 @@
       "🤸🏽‍♂": {
         "default": [
           "gymnastik",
+          "kullerbytta",
           "man",
           "man som hjular",
-          "mellanfärgad hy"
+          "mellanfärgad hy",
+          "volt"
         ],
         "tts": [
           "man som hjular: mellanfärgad hy"
@@ -19497,9 +21522,11 @@
       "🤸🏾‍♂": {
         "default": [
           "gymnastik",
+          "kullerbytta",
           "man",
           "man som hjular",
-          "mellanmörk hy"
+          "mellanmörk hy",
+          "volt"
         ],
         "tts": [
           "man som hjular: mellanmörk hy"
@@ -19508,9 +21535,11 @@
       "🤸🏿‍♂": {
         "default": [
           "gymnastik",
+          "kullerbytta",
           "man",
           "man som hjular",
-          "mörk hy"
+          "mörk hy",
+          "volt"
         ],
         "tts": [
           "man som hjular: mörk hy"
@@ -19519,9 +21548,11 @@
       "🤸🏻‍♀": {
         "default": [
           "gymnastik",
+          "kullerbytta",
           "kvinna",
           "kvinna som hjular",
-          "ljus hy"
+          "ljus hy",
+          "volt"
         ],
         "tts": [
           "kvinna som hjular: ljus hy"
@@ -19530,9 +21561,11 @@
       "🤸🏼‍♀": {
         "default": [
           "gymnastik",
+          "kullerbytta",
           "kvinna",
           "kvinna som hjular",
-          "mellanljus hy"
+          "mellanljus hy",
+          "volt"
         ],
         "tts": [
           "kvinna som hjular: mellanljus hy"
@@ -19541,9 +21574,11 @@
       "🤸🏽‍♀": {
         "default": [
           "gymnastik",
+          "kullerbytta",
           "kvinna",
           "kvinna som hjular",
-          "mellanfärgad hy"
+          "mellanfärgad hy",
+          "volt"
         ],
         "tts": [
           "kvinna som hjular: mellanfärgad hy"
@@ -19552,9 +21587,11 @@
       "🤸🏾‍♀": {
         "default": [
           "gymnastik",
+          "kullerbytta",
           "kvinna",
           "kvinna som hjular",
-          "mellanmörk hy"
+          "mellanmörk hy",
+          "volt"
         ],
         "tts": [
           "kvinna som hjular: mellanmörk hy"
@@ -19563,9 +21600,11 @@
       "🤸🏿‍♀": {
         "default": [
           "gymnastik",
+          "kullerbytta",
           "kvinna",
           "kvinna som hjular",
-          "mörk hy"
+          "mörk hy",
+          "volt"
         ],
         "tts": [
           "kvinna som hjular: mörk hy"
@@ -19883,7 +21922,9 @@
       },
       "🤾🏻‍♀": {
         "default": [
+          "boll",
           "handboll",
+          "kasta",
           "kvinna",
           "kvinna som spelar handboll",
           "ljus hy",
@@ -19895,7 +21936,9 @@
       },
       "🤾🏼‍♀": {
         "default": [
+          "boll",
           "handboll",
+          "kasta",
           "kvinna",
           "kvinna som spelar handboll",
           "mellanljus hy",
@@ -19907,7 +21950,9 @@
       },
       "🤾🏽‍♀": {
         "default": [
+          "boll",
           "handboll",
+          "kasta",
           "kvinna",
           "kvinna som spelar handboll",
           "mellanfärgad hy",
@@ -19919,7 +21964,9 @@
       },
       "🤾🏾‍♀": {
         "default": [
+          "boll",
           "handboll",
+          "kasta",
           "kvinna",
           "kvinna som spelar handboll",
           "mellanmörk hy",
@@ -19931,7 +21978,9 @@
       },
       "🤾🏿‍♀": {
         "default": [
+          "boll",
           "handboll",
+          "kasta",
           "kvinna",
           "kvinna som spelar handboll",
           "mörk hy",
@@ -19945,6 +21994,7 @@
         "default": [
           "balans",
           "färdighet",
+          "jonglera",
           "jonglering",
           "ljus hy",
           "multitasking",
@@ -19958,6 +22008,7 @@
         "default": [
           "balans",
           "färdighet",
+          "jonglera",
           "jonglering",
           "mellanljus hy",
           "multitasking",
@@ -19971,6 +22022,7 @@
         "default": [
           "balans",
           "färdighet",
+          "jonglera",
           "jonglering",
           "mellanfärgad hy",
           "multitasking",
@@ -19984,6 +22036,7 @@
         "default": [
           "balans",
           "färdighet",
+          "jonglera",
           "jonglering",
           "mellanmörk hy",
           "multitasking",
@@ -19997,6 +22050,7 @@
         "default": [
           "balans",
           "färdighet",
+          "jonglera",
           "jonglering",
           "mörk hy",
           "multitasking",
@@ -20008,6 +22062,7 @@
       },
       "🤹🏻‍♂": {
         "default": [
+          "jonglera",
           "jonglering",
           "ljus hy",
           "man",
@@ -20020,6 +22075,7 @@
       },
       "🤹🏼‍♂": {
         "default": [
+          "jonglera",
           "jonglering",
           "man",
           "man som jonglerar",
@@ -20032,6 +22088,7 @@
       },
       "🤹🏽‍♂": {
         "default": [
+          "jonglera",
           "jonglering",
           "man",
           "man som jonglerar",
@@ -20044,6 +22101,7 @@
       },
       "🤹🏾‍♂": {
         "default": [
+          "jonglera",
           "jonglering",
           "man",
           "man som jonglerar",
@@ -20056,6 +22114,7 @@
       },
       "🤹🏿‍♂": {
         "default": [
+          "jonglera",
           "jonglering",
           "man",
           "man som jonglerar",
@@ -20369,10 +22428,16 @@
       "🛌🏻": {
         "default": [
           "hotell",
+          "hotellnatt",
+          "ligger i sängen",
           "ljus hy",
           "person i en säng",
           "säng",
-          "sömn"
+          "sömn",
+          "sömnig",
+          "sova",
+          "sova middag",
+          "trött"
         ],
         "tts": [
           "person i en säng: ljus hy"
@@ -20381,10 +22446,16 @@
       "🛌🏼": {
         "default": [
           "hotell",
+          "hotellnatt",
+          "ligger i sängen",
           "mellanljus hy",
           "person i en säng",
           "säng",
-          "sömn"
+          "sömn",
+          "sömnig",
+          "sova",
+          "sova middag",
+          "trött"
         ],
         "tts": [
           "person i en säng: mellanljus hy"
@@ -20393,10 +22464,16 @@
       "🛌🏽": {
         "default": [
           "hotell",
+          "hotellnatt",
+          "ligger i sängen",
           "mellanfärgad hy",
           "person i en säng",
           "säng",
-          "sömn"
+          "sömn",
+          "sömnig",
+          "sova",
+          "sova middag",
+          "trött"
         ],
         "tts": [
           "person i en säng: mellanfärgad hy"
@@ -20405,10 +22482,16 @@
       "🛌🏾": {
         "default": [
           "hotell",
+          "hotellnatt",
+          "ligger i sängen",
           "mellanmörk hy",
           "person i en säng",
           "säng",
-          "sömn"
+          "sömn",
+          "sömnig",
+          "sova",
+          "sova middag",
+          "trött"
         ],
         "tts": [
           "person i en säng: mellanmörk hy"
@@ -20417,10 +22500,16 @@
       "🛌🏿": {
         "default": [
           "hotell",
+          "hotellnatt",
+          "ligger i sängen",
           "mörk hy",
           "person i en säng",
           "säng",
-          "sömn"
+          "sömn",
+          "sömnig",
+          "sova",
+          "sova middag",
+          "trött"
         ],
         "tts": [
           "person i en säng: mörk hy"
@@ -21956,6 +24045,7 @@
           "familj",
           "kvinna",
           "mamma",
+          "mamma och pappa och en son",
           "man",
           "människor",
           "pappa",
@@ -21972,6 +24062,7 @@
           "flicka",
           "kvinna",
           "mamma",
+          "mamma och pappa och en son",
           "man",
           "människor",
           "pappa"
@@ -21987,6 +24078,7 @@
           "flicka",
           "kvinna",
           "mamma",
+          "mamma och pappa och en son",
           "man",
           "människor",
           "pappa",
@@ -22002,6 +24094,7 @@
           "familj",
           "kvinna",
           "mamma",
+          "mamma och pappa och en son",
           "man",
           "människor",
           "pappa",
@@ -22018,6 +24111,7 @@
           "flicka",
           "kvinna",
           "mamma",
+          "mamma och pappa och en son",
           "man",
           "människor",
           "pappa"
@@ -22031,6 +24125,7 @@
           "barn",
           "familj",
           "mamma",
+          "mamma och pappa och en son",
           "man",
           "människor",
           "pappa",
@@ -22046,6 +24141,7 @@
           "familj",
           "flicka",
           "mamma",
+          "mamma och pappa och en son",
           "man",
           "människor",
           "pappa"
@@ -22060,6 +24156,7 @@
           "familj",
           "flicka",
           "mamma",
+          "mamma och pappa och en son",
           "man",
           "människor",
           "pappa",
@@ -22074,6 +24171,7 @@
           "barn",
           "familj",
           "mamma",
+          "mamma och pappa och en son",
           "man",
           "människor",
           "pappa",
@@ -22089,6 +24187,7 @@
           "familj",
           "flicka",
           "mamma",
+          "mamma och pappa och en son",
           "man",
           "människor",
           "pappa"
@@ -22103,6 +24202,7 @@
           "familj",
           "kvinna",
           "mamma",
+          "mamma och pappa och en son",
           "människor",
           "pappa",
           "pojke"
@@ -22118,6 +24218,7 @@
           "flicka",
           "kvinna",
           "mamma",
+          "mamma och pappa och en son",
           "människor",
           "pappa"
         ],
@@ -22132,6 +24233,7 @@
           "flicka",
           "kvinna",
           "mamma",
+          "mamma och pappa och en son",
           "människor",
           "pappa",
           "pojke"
@@ -22146,6 +24248,7 @@
           "familj",
           "kvinna",
           "mamma",
+          "mamma och pappa och en son",
           "människor",
           "pappa",
           "pojke"
@@ -22161,6 +24264,7 @@
           "flicka",
           "kvinna",
           "mamma",
+          "mamma och pappa och en son",
           "människor",
           "pappa"
         ],
@@ -22173,6 +24277,7 @@
           "barn",
           "familj",
           "mamma",
+          "mamma och pappa och en son",
           "man",
           "människor",
           "pappa",
@@ -22187,6 +24292,7 @@
           "barn",
           "familj",
           "mamma",
+          "mamma och pappa och en son",
           "man",
           "människor",
           "pappa",
@@ -22202,6 +24308,7 @@
           "familj",
           "flicka",
           "mamma",
+          "mamma och pappa och en son",
           "man",
           "människor",
           "pappa"
@@ -22216,6 +24323,7 @@
           "familj",
           "flicka",
           "mamma",
+          "mamma och pappa och en son",
           "man",
           "människor",
           "pappa",
@@ -22231,6 +24339,7 @@
           "familj",
           "flicka",
           "mamma",
+          "mamma och pappa och en son",
           "man",
           "människor",
           "pappa"
@@ -22245,6 +24354,7 @@
           "familj",
           "kvinna",
           "mamma",
+          "mamma och pappa och en son",
           "människor",
           "pappa",
           "pojke"
@@ -22259,6 +24369,7 @@
           "familj",
           "kvinna",
           "mamma",
+          "mamma och pappa och en son",
           "människor",
           "pappa",
           "pojke"
@@ -22274,6 +24385,7 @@
           "flicka",
           "kvinna",
           "mamma",
+          "mamma och pappa och en son",
           "människor",
           "pappa"
         ],
@@ -22288,6 +24400,7 @@
           "flicka",
           "kvinna",
           "mamma",
+          "mamma och pappa och en son",
           "människor",
           "pappa",
           "pojke"
@@ -22303,35 +24416,12 @@
           "flicka",
           "kvinna",
           "mamma",
+          "mamma och pappa och en son",
           "människor",
           "pappa"
         ],
         "tts": [
           "familj: kvinna, flicka, flicka"
-        ]
-      },
-      "#⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: #"
-        ]
-      },
-      "*⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: *"
-        ]
-      },
-      "🔟": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 10"
         ]
       },
       "🇦🇨": {
@@ -22627,7 +24717,7 @@
           "flagga"
         ],
         "tts": [
-          "flagga: Vitryssland"
+          "flagga: Belarus"
         ]
       },
       "🇧🇿": {
@@ -22691,7 +24781,7 @@
           "flagga"
         ],
         "tts": [
-          "flagga: Côte d’Ivoire"
+          "flagga: Elfenbenskusten"
         ]
       },
       "🇨🇰": {
@@ -24462,11 +26552,6 @@
           "nigeriansk naira"
         ]
       },
-      "₧": {
-        "tts": [
-          "spansk peseta"
-        ]
-      },
       "₪": {
         "tts": [
           "israelisk ny shekel"
@@ -24522,84 +26607,9 @@
           "georgisk lari"
         ]
       },
-      "0⃣": {
-        "default": [
-          "keycap"
-        ],
+      "₧": {
         "tts": [
-          "keycap: 0"
-        ]
-      },
-      "1⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 1"
-        ]
-      },
-      "2⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 2"
-        ]
-      },
-      "3⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 3"
-        ]
-      },
-      "4⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 4"
-        ]
-      },
-      "5⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 5"
-        ]
-      },
-      "6⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 6"
-        ]
-      },
-      "7⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 7"
-        ]
-      },
-      "8⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 8"
-        ]
-      },
-      "9⃣": {
-        "default": [
-          "keycap"
-        ],
-        "tts": [
-          "keycap: 9"
+          "spansk peseta"
         ]
       }
     }

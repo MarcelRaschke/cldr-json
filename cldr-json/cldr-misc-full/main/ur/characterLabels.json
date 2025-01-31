@@ -2,9 +2,6 @@
   "main": {
     "ur": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ur"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — مطابقت",
         "enclosed": "{0} — منسکہ",
         "extended": "{0} — توسیعی",
+        "facing-left": "{0} بائیں طرف دیکھنے والا",
+        "facing-right": "{0} دائیں طرف دیکھنے والا",
         "historic": "{0} — تاریخی",
         "miscellaneous": "{0} — متفرق",
         "other": "{0} — دیگر",

@@ -2,9 +2,6 @@
   "main": {
     "de-BE": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "de",
         "territory": "BE"
       },
@@ -14,6 +11,8 @@
         "compatibility": "{0} — Kompatibilität",
         "enclosed": "{0} — verschachtelt",
         "extended": "{0} — erweitert",
+        "facing-left": "{0} nach links",
+        "facing-right": "{0} nach rechts",
         "historic": "{0} — historisch",
         "miscellaneous": "{0} — verschiedene",
         "other": "{0} — sonstige",

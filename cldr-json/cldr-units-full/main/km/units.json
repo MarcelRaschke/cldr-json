@@ -2,9 +2,6 @@
   "main": {
     "km": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "km"
       },
       "units": {
@@ -39,6 +36,12 @@
           "10p-24": {
             "unitPrefixPattern": "យ៉ុកតូ{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ដេកា{0}"
           },
@@ -68,6 +71,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "យ៉ុតតា{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -701,6 +710,10 @@
             "displayName": "ណត់",
             "unitPattern-count-other": "{0} ណត់"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "{0}°"
@@ -866,6 +879,19 @@
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0} qt Imp."
           },
+          "speed-light-speed": {
+            "displayName": "ពន្លឺ",
+            "unitPattern-count-other": "{0} ពន្លឺ"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ផ្នែកក្នុងមួយប៊ីលាន",
+            "unitPattern-count-other": "{0} ផ្នែកក្នុងមួយប៊ីលាន"
+          },
+          "duration-night": {
+            "displayName": "យប់",
+            "unitPattern-count-other": "{0} យប់",
+            "perUnitPattern": "{0} ក្នុងមួយយប់"
+          },
           "coordinateUnit": {
             "displayName": "ទិសទាំងបួន",
             "east": "{0}កើត",
@@ -905,6 +931,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -934,6 +966,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -1559,6 +1597,10 @@
             "displayName": "kn",
             "unitPattern-count-other": "{0} kn"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "{0}°"
@@ -1724,6 +1766,19 @@
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0} qt Imp."
           },
+          "speed-light-speed": {
+            "displayName": "ពន្លឺ",
+            "unitPattern-count-other": "{0} ពន្លឺ"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ផ្នែក/ប៊ីលាន",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "យប់",
+            "unitPattern-count-other": "{0} យប់",
+            "perUnitPattern": "{0}/យប់"
+          },
           "coordinateUnit": {
             "displayName": "ទិស",
             "east": "{0}កើត",
@@ -1763,6 +1818,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -1792,6 +1853,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -2417,6 +2484,10 @@
             "displayName": "kn",
             "unitPattern-count-other": "{0} kn"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "{0}°"
@@ -2581,6 +2652,19 @@
           "volume-quart-imperial": {
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0} qt Imp."
+          },
+          "speed-light-speed": {
+            "displayName": "ពន្លឺ",
+            "unitPattern-count-other": "{0} ពន្លឺ"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ផ្នែក/ប៊ីលាន",
+            "unitPattern-count-other": "{0}ppb"
+          },
+          "duration-night": {
+            "displayName": "យប់",
+            "unitPattern-count-other": "{0} យប់",
+            "perUnitPattern": "{0}/យប់"
           },
           "coordinateUnit": {
             "displayName": "ទិស",

@@ -2,9 +2,6 @@
   "main": {
     "es-MX": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "es",
         "territory": "MX"
       },
@@ -110,7 +107,6 @@
           "standard": "¤#,##0.00",
           "standard-noCurrency": "#,##0.00",
           "accounting": "¤#,##0.00",
-          "accounting-alphaNextToNumber": "¤ #,##0.00",
           "accounting-noCurrency": "#,##0.00",
           "short": {
             "standard": {
@@ -165,7 +161,6 @@
             }
           },
           "currencyPatternAppendISO": "{0} ¤¤",
-          "unitPattern-count-one": "{0} {1}",
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {

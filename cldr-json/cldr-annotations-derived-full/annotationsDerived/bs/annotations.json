@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "bs"
     },
     "annotations": {
@@ -8131,13 +8128,14 @@
       },
       "🙆🏻‍♂": {
         "default": [
+          "bože",
+          "gesta",
           "gestikulacija",
           "muškarac",
-          "muškarac pokazuje ok",
-          "muškarac pokazuje OK",
-          "odobravanje",
-          "slaganje",
-          "svijetla boja kože"
+          "OK",
+          "ruka",
+          "svijetla boja kože",
+          "vježba"
         ],
         "tts": [
           "muškarac pokazuje ok: svijetla boja kože"
@@ -8145,13 +8143,14 @@
       },
       "🙆🏼‍♂": {
         "default": [
+          "bože",
+          "gesta",
           "gestikulacija",
           "muškarac",
-          "muškarac pokazuje ok",
-          "muškarac pokazuje OK",
-          "odobravanje",
-          "slaganje",
-          "umjereno svijetla boja kože"
+          "OK",
+          "ruka",
+          "umjereno svijetla boja kože",
+          "vježba"
         ],
         "tts": [
           "muškarac pokazuje ok: umjereno svijetla boja kože"
@@ -8159,13 +8158,14 @@
       },
       "🙆🏽‍♂": {
         "default": [
+          "bože",
+          "gesta",
           "gestikulacija",
           "muškarac",
-          "muškarac pokazuje ok",
-          "muškarac pokazuje OK",
-          "odobravanje",
-          "slaganje",
-          "umjerena boja kože"
+          "OK",
+          "ruka",
+          "umjerena boja kože",
+          "vježba"
         ],
         "tts": [
           "muškarac pokazuje ok: umjerena boja kože"
@@ -8173,13 +8173,14 @@
       },
       "🙆🏾‍♂": {
         "default": [
+          "bože",
+          "gesta",
           "gestikulacija",
           "muškarac",
-          "muškarac pokazuje ok",
-          "muškarac pokazuje OK",
-          "odobravanje",
-          "slaganje",
-          "umjereno tamna boja kože"
+          "OK",
+          "ruka",
+          "umjereno tamna boja kože",
+          "vježba"
         ],
         "tts": [
           "muškarac pokazuje ok: umjereno tamna boja kože"
@@ -8187,13 +8188,14 @@
       },
       "🙆🏿‍♂": {
         "default": [
+          "bože",
+          "gesta",
           "gestikulacija",
           "muškarac",
-          "muškarac pokazuje ok",
-          "muškarac pokazuje OK",
-          "odobravanje",
-          "slaganje",
-          "tamna boja kože"
+          "OK",
+          "ruka",
+          "tamna boja kože",
+          "vježba"
         ],
         "tts": [
           "muškarac pokazuje ok: tamna boja kože"
@@ -8201,13 +8203,14 @@
       },
       "🙆🏻‍♀": {
         "default": [
+          "bože",
+          "gesta",
           "gestikulacija",
-          "odobravanje",
-          "slaganje",
+          "OK",
+          "ruka",
           "svijetla boja kože",
-          "žena",
-          "žena pokazuje ok",
-          "žena pokazuje OK"
+          "vježba",
+          "žena"
         ],
         "tts": [
           "žena pokazuje ok: svijetla boja kože"
@@ -8215,13 +8218,14 @@
       },
       "🙆🏼‍♀": {
         "default": [
+          "bože",
+          "gesta",
           "gestikulacija",
-          "odobravanje",
-          "slaganje",
+          "OK",
+          "ruka",
           "umjereno svijetla boja kože",
-          "žena",
-          "žena pokazuje ok",
-          "žena pokazuje OK"
+          "vježba",
+          "žena"
         ],
         "tts": [
           "žena pokazuje ok: umjereno svijetla boja kože"
@@ -8229,13 +8233,14 @@
       },
       "🙆🏽‍♀": {
         "default": [
+          "bože",
+          "gesta",
           "gestikulacija",
-          "odobravanje",
-          "slaganje",
+          "OK",
+          "ruka",
           "umjerena boja kože",
-          "žena",
-          "žena pokazuje ok",
-          "žena pokazuje OK"
+          "vježba",
+          "žena"
         ],
         "tts": [
           "žena pokazuje ok: umjerena boja kože"
@@ -8243,13 +8248,14 @@
       },
       "🙆🏾‍♀": {
         "default": [
+          "bože",
+          "gesta",
           "gestikulacija",
-          "odobravanje",
-          "slaganje",
+          "OK",
+          "ruka",
           "umjereno tamna boja kože",
-          "žena",
-          "žena pokazuje ok",
-          "žena pokazuje OK"
+          "vježba",
+          "žena"
         ],
         "tts": [
           "žena pokazuje ok: umjereno tamna boja kože"
@@ -8257,13 +8263,14 @@
       },
       "🙆🏿‍♀": {
         "default": [
+          "bože",
+          "gesta",
           "gestikulacija",
-          "odobravanje",
-          "slaganje",
+          "OK",
+          "ruka",
           "tamna boja kože",
-          "žena",
-          "žena pokazuje ok",
-          "žena pokazuje OK"
+          "vježba",
+          "žena"
         ],
         "tts": [
           "žena pokazuje ok: tamna boja kože"
@@ -14456,7 +14463,8 @@
       },
       "🧑🏻‍🎄": {
         "default": [
-          "Djeda Mraz, božić",
+          "božić",
+          "Djeda Mraz",
           "g. Mraz",
           "svijetla boja kože"
         ],
@@ -14466,7 +14474,8 @@
       },
       "🧑🏼‍🎄": {
         "default": [
-          "Djeda Mraz, božić",
+          "božić",
+          "Djeda Mraz",
           "g. Mraz",
           "umjereno svijetla boja kože"
         ],
@@ -14476,7 +14485,8 @@
       },
       "🧑🏽‍🎄": {
         "default": [
-          "Djeda Mraz, božić",
+          "božić",
+          "Djeda Mraz",
           "g. Mraz",
           "umjerena boja kože"
         ],
@@ -14486,7 +14496,8 @@
       },
       "🧑🏾‍🎄": {
         "default": [
-          "Djeda Mraz, božić",
+          "božić",
+          "Djeda Mraz",
           "g. Mraz",
           "umjereno tamna boja kože"
         ],
@@ -14496,7 +14507,8 @@
       },
       "🧑🏿‍🎄": {
         "default": [
-          "Djeda Mraz, božić",
+          "božić",
+          "Djeda Mraz",
           "g. Mraz",
           "tamna boja kože"
         ],
@@ -16244,6 +16256,231 @@
           "žena hoda: tamna boja kože"
         ]
       },
+      "🚶‍➡": {
+        "default": [
+          "hodanje",
+          "nadesno",
+          "osoba hoda",
+          "šetanje"
+        ],
+        "tts": [
+          "osoba hoda: nadesno"
+        ]
+      },
+      "🚶🏻‍➡": {
+        "default": [
+          "hodanje",
+          "nadesno",
+          "osoba hoda",
+          "šetanje",
+          "svijetla boja kože"
+        ],
+        "tts": [
+          "osoba hoda: svijetla boja kože i nadesno"
+        ]
+      },
+      "🚶🏼‍➡": {
+        "default": [
+          "hodanje",
+          "nadesno",
+          "osoba hoda",
+          "šetanje",
+          "umjereno svijetla boja kože"
+        ],
+        "tts": [
+          "osoba hoda: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "🚶🏽‍➡": {
+        "default": [
+          "hodanje",
+          "nadesno",
+          "osoba hoda",
+          "šetanje",
+          "umjerena boja kože"
+        ],
+        "tts": [
+          "osoba hoda: umjerena boja kože i nadesno"
+        ]
+      },
+      "🚶🏾‍➡": {
+        "default": [
+          "hodanje",
+          "nadesno",
+          "osoba hoda",
+          "šetanje",
+          "umjereno tamna boja kože"
+        ],
+        "tts": [
+          "osoba hoda: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "🚶🏿‍➡": {
+        "default": [
+          "hodanje",
+          "nadesno",
+          "osoba hoda",
+          "šetanje",
+          "tamna boja kože"
+        ],
+        "tts": [
+          "osoba hoda: tamna boja kože i nadesno"
+        ]
+      },
+      "🚶‍♀‍➡": {
+        "default": [
+          "hodanje",
+          "nadesno",
+          "šetanje",
+          "žena",
+          "žena hoda"
+        ],
+        "tts": [
+          "žena hoda: nadesno"
+        ]
+      },
+      "🚶🏻‍♀‍➡": {
+        "default": [
+          "hodanje",
+          "nadesno",
+          "šetanje",
+          "svijetla boja kože",
+          "žena",
+          "žena hoda"
+        ],
+        "tts": [
+          "žena hoda: svijetla boja kože i nadesno"
+        ]
+      },
+      "🚶🏼‍♀‍➡": {
+        "default": [
+          "hodanje",
+          "nadesno",
+          "šetanje",
+          "umjereno svijetla boja kože",
+          "žena",
+          "žena hoda"
+        ],
+        "tts": [
+          "žena hoda: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "🚶🏽‍♀‍➡": {
+        "default": [
+          "hodanje",
+          "nadesno",
+          "šetanje",
+          "umjerena boja kože",
+          "žena",
+          "žena hoda"
+        ],
+        "tts": [
+          "žena hoda: umjerena boja kože i nadesno"
+        ]
+      },
+      "🚶🏾‍♀‍➡": {
+        "default": [
+          "hodanje",
+          "nadesno",
+          "šetanje",
+          "umjereno tamna boja kože",
+          "žena",
+          "žena hoda"
+        ],
+        "tts": [
+          "žena hoda: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "🚶🏿‍♀‍➡": {
+        "default": [
+          "hodanje",
+          "nadesno",
+          "šetanje",
+          "tamna boja kože",
+          "žena",
+          "žena hoda"
+        ],
+        "tts": [
+          "žena hoda: tamna boja kože i nadesno"
+        ]
+      },
+      "🚶‍♂‍➡": {
+        "default": [
+          "hodanje",
+          "muškarac",
+          "muškarac hoda",
+          "nadesno",
+          "šetanje"
+        ],
+        "tts": [
+          "muškarac hoda: nadesno"
+        ]
+      },
+      "🚶🏻‍♂‍➡": {
+        "default": [
+          "hodanje",
+          "muškarac",
+          "muškarac hoda",
+          "nadesno",
+          "šetanje",
+          "svijetla boja kože"
+        ],
+        "tts": [
+          "muškarac hoda: svijetla boja kože i nadesno"
+        ]
+      },
+      "🚶🏼‍♂‍➡": {
+        "default": [
+          "hodanje",
+          "muškarac",
+          "muškarac hoda",
+          "nadesno",
+          "šetanje",
+          "umjereno svijetla boja kože"
+        ],
+        "tts": [
+          "muškarac hoda: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "🚶🏽‍♂‍➡": {
+        "default": [
+          "hodanje",
+          "muškarac",
+          "muškarac hoda",
+          "nadesno",
+          "šetanje",
+          "umjerena boja kože"
+        ],
+        "tts": [
+          "muškarac hoda: umjerena boja kože i nadesno"
+        ]
+      },
+      "🚶🏾‍♂‍➡": {
+        "default": [
+          "hodanje",
+          "muškarac",
+          "muškarac hoda",
+          "nadesno",
+          "šetanje",
+          "umjereno tamna boja kože"
+        ],
+        "tts": [
+          "muškarac hoda: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "🚶🏿‍♂‍➡": {
+        "default": [
+          "hodanje",
+          "muškarac",
+          "muškarac hoda",
+          "nadesno",
+          "šetanje",
+          "tamna boja kože"
+        ],
+        "tts": [
+          "muškarac hoda: tamna boja kože i nadesno"
+        ]
+      },
       "🧍🏻": {
         "default": [
           "osoba stoji",
@@ -16549,6 +16786,201 @@
           "žena kleči: tamna boja kože"
         ]
       },
+      "🧎‍➡": {
+        "default": [
+          "klečanje",
+          "klečati",
+          "nadesno",
+          "osoba kleči"
+        ],
+        "tts": [
+          "osoba kleči: nadesno"
+        ]
+      },
+      "🧎🏻‍➡": {
+        "default": [
+          "klečanje",
+          "klečati",
+          "nadesno",
+          "osoba kleči",
+          "svijetla boja kože"
+        ],
+        "tts": [
+          "osoba kleči: svijetla boja kože i nadesno"
+        ]
+      },
+      "🧎🏼‍➡": {
+        "default": [
+          "klečanje",
+          "klečati",
+          "nadesno",
+          "osoba kleči",
+          "umjereno svijetla boja kože"
+        ],
+        "tts": [
+          "osoba kleči: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "🧎🏽‍➡": {
+        "default": [
+          "klečanje",
+          "klečati",
+          "nadesno",
+          "osoba kleči",
+          "umjerena boja kože"
+        ],
+        "tts": [
+          "osoba kleči: umjerena boja kože i nadesno"
+        ]
+      },
+      "🧎🏾‍➡": {
+        "default": [
+          "klečanje",
+          "klečati",
+          "nadesno",
+          "osoba kleči",
+          "umjereno tamna boja kože"
+        ],
+        "tts": [
+          "osoba kleči: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "🧎🏿‍➡": {
+        "default": [
+          "klečanje",
+          "klečati",
+          "nadesno",
+          "osoba kleči",
+          "tamna boja kože"
+        ],
+        "tts": [
+          "osoba kleči: tamna boja kože i nadesno"
+        ]
+      },
+      "🧎‍♀‍➡": {
+        "default": [
+          "nadesno",
+          "žena kleči"
+        ],
+        "tts": [
+          "žena kleči: nadesno"
+        ]
+      },
+      "🧎🏻‍♀‍➡": {
+        "default": [
+          "nadesno",
+          "svijetla boja kože",
+          "žena kleči"
+        ],
+        "tts": [
+          "žena kleči: svijetla boja kože i nadesno"
+        ]
+      },
+      "🧎🏼‍♀‍➡": {
+        "default": [
+          "nadesno",
+          "umjereno svijetla boja kože",
+          "žena kleči"
+        ],
+        "tts": [
+          "žena kleči: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "🧎🏽‍♀‍➡": {
+        "default": [
+          "nadesno",
+          "umjerena boja kože",
+          "žena kleči"
+        ],
+        "tts": [
+          "žena kleči: umjerena boja kože i nadesno"
+        ]
+      },
+      "🧎🏾‍♀‍➡": {
+        "default": [
+          "nadesno",
+          "umjereno tamna boja kože",
+          "žena kleči"
+        ],
+        "tts": [
+          "žena kleči: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "🧎🏿‍♀‍➡": {
+        "default": [
+          "nadesno",
+          "tamna boja kože",
+          "žena kleči"
+        ],
+        "tts": [
+          "žena kleči: tamna boja kože i nadesno"
+        ]
+      },
+      "🧎‍♂‍➡": {
+        "default": [
+          "kleči",
+          "muškarac",
+          "nadesno"
+        ],
+        "tts": [
+          "muškarac kleči: nadesno"
+        ]
+      },
+      "🧎🏻‍♂‍➡": {
+        "default": [
+          "kleči",
+          "muškarac",
+          "nadesno",
+          "svijetla boja kože"
+        ],
+        "tts": [
+          "muškarac kleči: svijetla boja kože i nadesno"
+        ]
+      },
+      "🧎🏼‍♂‍➡": {
+        "default": [
+          "kleči",
+          "muškarac",
+          "nadesno",
+          "umjereno svijetla boja kože"
+        ],
+        "tts": [
+          "muškarac kleči: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "🧎🏽‍♂‍➡": {
+        "default": [
+          "kleči",
+          "muškarac",
+          "nadesno",
+          "umjerena boja kože"
+        ],
+        "tts": [
+          "muškarac kleči: umjerena boja kože i nadesno"
+        ]
+      },
+      "🧎🏾‍♂‍➡": {
+        "default": [
+          "kleči",
+          "muškarac",
+          "nadesno",
+          "umjereno tamna boja kože"
+        ],
+        "tts": [
+          "muškarac kleči: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "🧎🏿‍♂‍➡": {
+        "default": [
+          "kleči",
+          "muškarac",
+          "nadesno",
+          "tamna boja kože"
+        ],
+        "tts": [
+          "muškarac kleči: tamna boja kože i nadesno"
+        ]
+      },
       "🧑🏻‍🦯": {
         "default": [
           "osoba sa štapom za hodanje",
@@ -16602,6 +17034,77 @@
         ],
         "tts": [
           "osoba sa štapom za hodanje: tamna boja kože"
+        ]
+      },
+      "🧑‍🦯‍➡": {
+        "default": [
+          "nadesno",
+          "osoba sa štapom za hodanje",
+          "pomagalo",
+          "sljepoća"
+        ],
+        "tts": [
+          "osoba sa štapom za hodanje: nadesno"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "nadesno",
+          "osoba sa štapom za hodanje",
+          "pomagalo",
+          "sljepoća",
+          "svijetla boja kože"
+        ],
+        "tts": [
+          "osoba sa štapom za hodanje: svijetla boja kože i nadesno"
+        ]
+      },
+      "🧑🏼‍🦯‍➡": {
+        "default": [
+          "nadesno",
+          "osoba sa štapom za hodanje",
+          "pomagalo",
+          "sljepoća",
+          "umjereno svijetla boja kože"
+        ],
+        "tts": [
+          "osoba sa štapom za hodanje: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "nadesno",
+          "osoba sa štapom za hodanje",
+          "pomagalo",
+          "sljepoća",
+          "umjerena boja kože"
+        ],
+        "tts": [
+          "osoba sa štapom za hodanje: umjerena boja kože i nadesno"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "nadesno",
+          "osoba sa štapom za hodanje",
+          "pomagalo",
+          "sljepoća",
+          "umjereno tamna boja kože"
+        ],
+        "tts": [
+          "osoba sa štapom za hodanje: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "nadesno",
+          "osoba sa štapom za hodanje",
+          "pomagalo",
+          "sljepoća",
+          "tamna boja kože"
+        ],
+        "tts": [
+          "osoba sa štapom za hodanje: tamna boja kože i nadesno"
         ]
       },
       "👨🏻‍🦯": {
@@ -16664,6 +17167,83 @@
           "muškarac sa štapom za hodanje: tamna boja kože"
         ]
       },
+      "👨‍🦯‍➡": {
+        "default": [
+          "muškarac",
+          "muškarac sa štapom za hodanje",
+          "nadesno",
+          "pomagalo",
+          "slijep"
+        ],
+        "tts": [
+          "muškarac sa štapom za hodanje: nadesno"
+        ]
+      },
+      "👨🏻‍🦯‍➡": {
+        "default": [
+          "muškarac",
+          "muškarac sa štapom za hodanje",
+          "nadesno",
+          "pomagalo",
+          "slijep",
+          "svijetla boja kože"
+        ],
+        "tts": [
+          "muškarac sa štapom za hodanje: svijetla boja kože i nadesno"
+        ]
+      },
+      "👨🏼‍🦯‍➡": {
+        "default": [
+          "muškarac",
+          "muškarac sa štapom za hodanje",
+          "nadesno",
+          "pomagalo",
+          "slijep",
+          "umjereno svijetla boja kože"
+        ],
+        "tts": [
+          "muškarac sa štapom za hodanje: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "👨🏽‍🦯‍➡": {
+        "default": [
+          "muškarac",
+          "muškarac sa štapom za hodanje",
+          "nadesno",
+          "pomagalo",
+          "slijep",
+          "umjerena boja kože"
+        ],
+        "tts": [
+          "muškarac sa štapom za hodanje: umjerena boja kože i nadesno"
+        ]
+      },
+      "👨🏾‍🦯‍➡": {
+        "default": [
+          "muškarac",
+          "muškarac sa štapom za hodanje",
+          "nadesno",
+          "pomagalo",
+          "slijep",
+          "umjereno tamna boja kože"
+        ],
+        "tts": [
+          "muškarac sa štapom za hodanje: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "👨🏿‍🦯‍➡": {
+        "default": [
+          "muškarac",
+          "muškarac sa štapom za hodanje",
+          "nadesno",
+          "pomagalo",
+          "slijep",
+          "tamna boja kože"
+        ],
+        "tts": [
+          "muškarac sa štapom za hodanje: tamna boja kože i nadesno"
+        ]
+      },
       "👩🏻‍🦯": {
         "default": [
           "pomagalo",
@@ -16724,6 +17304,83 @@
           "žena sa štapom za hodanje: tamna boja kože"
         ]
       },
+      "👩‍🦯‍➡": {
+        "default": [
+          "nadesno",
+          "pomagalo",
+          "slijepa",
+          "žena",
+          "žena sa štapom za hodanje"
+        ],
+        "tts": [
+          "žena sa štapom za hodanje: nadesno"
+        ]
+      },
+      "👩🏻‍🦯‍➡": {
+        "default": [
+          "nadesno",
+          "pomagalo",
+          "slijepa",
+          "svijetla boja kože",
+          "žena",
+          "žena sa štapom za hodanje"
+        ],
+        "tts": [
+          "žena sa štapom za hodanje: svijetla boja kože i nadesno"
+        ]
+      },
+      "👩🏼‍🦯‍➡": {
+        "default": [
+          "nadesno",
+          "pomagalo",
+          "slijepa",
+          "umjereno svijetla boja kože",
+          "žena",
+          "žena sa štapom za hodanje"
+        ],
+        "tts": [
+          "žena sa štapom za hodanje: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "👩🏽‍🦯‍➡": {
+        "default": [
+          "nadesno",
+          "pomagalo",
+          "slijepa",
+          "umjerena boja kože",
+          "žena",
+          "žena sa štapom za hodanje"
+        ],
+        "tts": [
+          "žena sa štapom za hodanje: umjerena boja kože i nadesno"
+        ]
+      },
+      "👩🏾‍🦯‍➡": {
+        "default": [
+          "nadesno",
+          "pomagalo",
+          "slijepa",
+          "umjereno tamna boja kože",
+          "žena",
+          "žena sa štapom za hodanje"
+        ],
+        "tts": [
+          "žena sa štapom za hodanje: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "👩🏿‍🦯‍➡": {
+        "default": [
+          "nadesno",
+          "pomagalo",
+          "slijepa",
+          "tamna boja kože",
+          "žena",
+          "žena sa štapom za hodanje"
+        ],
+        "tts": [
+          "žena sa štapom za hodanje: tamna boja kože i nadesno"
+        ]
+      },
       "🧑🏻‍🦼": {
         "default": [
           "invalidska kolica",
@@ -16777,6 +17434,77 @@
         ],
         "tts": [
           "osoba u motornim invalidskim kolicima: tamna boja kože"
+        ]
+      },
+      "🧑‍🦼‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "osoba u motornim invalidskim kolicima",
+          "pomagalo"
+        ],
+        "tts": [
+          "osoba u motornim invalidskim kolicima: nadesno"
+        ]
+      },
+      "🧑🏻‍🦼‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "osoba u motornim invalidskim kolicima",
+          "pomagalo",
+          "svijetla boja kože"
+        ],
+        "tts": [
+          "osoba u motornim invalidskim kolicima: svijetla boja kože i nadesno"
+        ]
+      },
+      "🧑🏼‍🦼‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "osoba u motornim invalidskim kolicima",
+          "pomagalo",
+          "umjereno svijetla boja kože"
+        ],
+        "tts": [
+          "osoba u motornim invalidskim kolicima: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "🧑🏽‍🦼‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "osoba u motornim invalidskim kolicima",
+          "pomagalo",
+          "umjerena boja kože"
+        ],
+        "tts": [
+          "osoba u motornim invalidskim kolicima: umjerena boja kože i nadesno"
+        ]
+      },
+      "🧑🏾‍🦼‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "osoba u motornim invalidskim kolicima",
+          "pomagalo",
+          "umjereno tamna boja kože"
+        ],
+        "tts": [
+          "osoba u motornim invalidskim kolicima: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "🧑🏿‍🦼‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "osoba u motornim invalidskim kolicima",
+          "pomagalo",
+          "tamna boja kože"
+        ],
+        "tts": [
+          "osoba u motornim invalidskim kolicima: tamna boja kože i nadesno"
         ]
       },
       "👨🏻‍🦼": {
@@ -16839,6 +17567,83 @@
           "muškarac u motornim invalidskim kolicima: tamna boja kože"
         ]
       },
+      "👨‍🦼‍➡": {
+        "default": [
+          "motorna invalidska kolica",
+          "muškarac",
+          "muškarac u motornim invalidskim kolicima",
+          "nadesno",
+          "pomagalo"
+        ],
+        "tts": [
+          "muškarac u motornim invalidskim kolicima: nadesno"
+        ]
+      },
+      "👨🏻‍🦼‍➡": {
+        "default": [
+          "motorna invalidska kolica",
+          "muškarac",
+          "muškarac u motornim invalidskim kolicima",
+          "nadesno",
+          "pomagalo",
+          "svijetla boja kože"
+        ],
+        "tts": [
+          "muškarac u motornim invalidskim kolicima: svijetla boja kože i nadesno"
+        ]
+      },
+      "👨🏼‍🦼‍➡": {
+        "default": [
+          "motorna invalidska kolica",
+          "muškarac",
+          "muškarac u motornim invalidskim kolicima",
+          "nadesno",
+          "pomagalo",
+          "umjereno svijetla boja kože"
+        ],
+        "tts": [
+          "muškarac u motornim invalidskim kolicima: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "👨🏽‍🦼‍➡": {
+        "default": [
+          "motorna invalidska kolica",
+          "muškarac",
+          "muškarac u motornim invalidskim kolicima",
+          "nadesno",
+          "pomagalo",
+          "umjerena boja kože"
+        ],
+        "tts": [
+          "muškarac u motornim invalidskim kolicima: umjerena boja kože i nadesno"
+        ]
+      },
+      "👨🏾‍🦼‍➡": {
+        "default": [
+          "motorna invalidska kolica",
+          "muškarac",
+          "muškarac u motornim invalidskim kolicima",
+          "nadesno",
+          "pomagalo",
+          "umjereno tamna boja kože"
+        ],
+        "tts": [
+          "muškarac u motornim invalidskim kolicima: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "👨🏿‍🦼‍➡": {
+        "default": [
+          "motorna invalidska kolica",
+          "muškarac",
+          "muškarac u motornim invalidskim kolicima",
+          "nadesno",
+          "pomagalo",
+          "tamna boja kože"
+        ],
+        "tts": [
+          "muškarac u motornim invalidskim kolicima: tamna boja kože i nadesno"
+        ]
+      },
       "👩🏻‍🦼": {
         "default": [
           "motorna invalidska kolica",
@@ -16899,6 +17704,83 @@
           "žena u motornim invalidskim kolicima: tamna boja kože"
         ]
       },
+      "👩‍🦼‍➡": {
+        "default": [
+          "motorna invalidska kolica",
+          "nadesno",
+          "pomagalo",
+          "žena",
+          "žena u motornim invalidskim kolicima"
+        ],
+        "tts": [
+          "žena u motornim invalidskim kolicima: nadesno"
+        ]
+      },
+      "👩🏻‍🦼‍➡": {
+        "default": [
+          "motorna invalidska kolica",
+          "nadesno",
+          "pomagalo",
+          "svijetla boja kože",
+          "žena",
+          "žena u motornim invalidskim kolicima"
+        ],
+        "tts": [
+          "žena u motornim invalidskim kolicima: svijetla boja kože i nadesno"
+        ]
+      },
+      "👩🏼‍🦼‍➡": {
+        "default": [
+          "motorna invalidska kolica",
+          "nadesno",
+          "pomagalo",
+          "umjereno svijetla boja kože",
+          "žena",
+          "žena u motornim invalidskim kolicima"
+        ],
+        "tts": [
+          "žena u motornim invalidskim kolicima: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "👩🏽‍🦼‍➡": {
+        "default": [
+          "motorna invalidska kolica",
+          "nadesno",
+          "pomagalo",
+          "umjerena boja kože",
+          "žena",
+          "žena u motornim invalidskim kolicima"
+        ],
+        "tts": [
+          "žena u motornim invalidskim kolicima: umjerena boja kože i nadesno"
+        ]
+      },
+      "👩🏾‍🦼‍➡": {
+        "default": [
+          "motorna invalidska kolica",
+          "nadesno",
+          "pomagalo",
+          "umjereno tamna boja kože",
+          "žena",
+          "žena u motornim invalidskim kolicima"
+        ],
+        "tts": [
+          "žena u motornim invalidskim kolicima: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "👩🏿‍🦼‍➡": {
+        "default": [
+          "motorna invalidska kolica",
+          "nadesno",
+          "pomagalo",
+          "tamna boja kože",
+          "žena",
+          "žena u motornim invalidskim kolicima"
+        ],
+        "tts": [
+          "žena u motornim invalidskim kolicima: tamna boja kože i nadesno"
+        ]
+      },
       "🧑🏻‍🦽": {
         "default": [
           "invalidska kolica",
@@ -16952,6 +17834,77 @@
         ],
         "tts": [
           "osoba u invalidskim kolicima: tamna boja kože"
+        ]
+      },
+      "🧑‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "osoba u invalidskim kolicima",
+          "pomagalo"
+        ],
+        "tts": [
+          "osoba u invalidskim kolicima: nadesno"
+        ]
+      },
+      "🧑🏻‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "osoba u invalidskim kolicima",
+          "pomagalo",
+          "svijetla boja kože"
+        ],
+        "tts": [
+          "osoba u invalidskim kolicima: svijetla boja kože i nadesno"
+        ]
+      },
+      "🧑🏼‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "osoba u invalidskim kolicima",
+          "pomagalo",
+          "umjereno svijetla boja kože"
+        ],
+        "tts": [
+          "osoba u invalidskim kolicima: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "🧑🏽‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "osoba u invalidskim kolicima",
+          "pomagalo",
+          "umjerena boja kože"
+        ],
+        "tts": [
+          "osoba u invalidskim kolicima: umjerena boja kože i nadesno"
+        ]
+      },
+      "🧑🏾‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "osoba u invalidskim kolicima",
+          "pomagalo",
+          "umjereno tamna boja kože"
+        ],
+        "tts": [
+          "osoba u invalidskim kolicima: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "🧑🏿‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "osoba u invalidskim kolicima",
+          "pomagalo",
+          "tamna boja kože"
+        ],
+        "tts": [
+          "osoba u invalidskim kolicima: tamna boja kože i nadesno"
         ]
       },
       "👨🏻‍🦽": {
@@ -17014,6 +17967,83 @@
           "muškarac u invalidskim kolicima: tamna boja kože"
         ]
       },
+      "👨‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "muškarac",
+          "muškarac u invalidskim kolicima",
+          "nadesno",
+          "pomagalo"
+        ],
+        "tts": [
+          "muškarac u invalidskim kolicima: nadesno"
+        ]
+      },
+      "👨🏻‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "muškarac",
+          "muškarac u invalidskim kolicima",
+          "nadesno",
+          "pomagalo",
+          "svijetla boja kože"
+        ],
+        "tts": [
+          "muškarac u invalidskim kolicima: svijetla boja kože i nadesno"
+        ]
+      },
+      "👨🏼‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "muškarac",
+          "muškarac u invalidskim kolicima",
+          "nadesno",
+          "pomagalo",
+          "umjereno svijetla boja kože"
+        ],
+        "tts": [
+          "muškarac u invalidskim kolicima: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "👨🏽‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "muškarac",
+          "muškarac u invalidskim kolicima",
+          "nadesno",
+          "pomagalo",
+          "umjerena boja kože"
+        ],
+        "tts": [
+          "muškarac u invalidskim kolicima: umjerena boja kože i nadesno"
+        ]
+      },
+      "👨🏾‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "muškarac",
+          "muškarac u invalidskim kolicima",
+          "nadesno",
+          "pomagalo",
+          "umjereno tamna boja kože"
+        ],
+        "tts": [
+          "muškarac u invalidskim kolicima: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "👨🏿‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "muškarac",
+          "muškarac u invalidskim kolicima",
+          "nadesno",
+          "pomagalo",
+          "tamna boja kože"
+        ],
+        "tts": [
+          "muškarac u invalidskim kolicima: tamna boja kože i nadesno"
+        ]
+      },
       "👩🏻‍🦽": {
         "default": [
           "invalidska kolica",
@@ -17072,6 +18102,83 @@
         ],
         "tts": [
           "žena u invalidskim kolicima: tamna boja kože"
+        ]
+      },
+      "👩‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "pomagalo",
+          "žena",
+          "žena u invalidskim kolicima"
+        ],
+        "tts": [
+          "žena u invalidskim kolicima: nadesno"
+        ]
+      },
+      "👩🏻‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "pomagalo",
+          "svijetla boja kože",
+          "žena",
+          "žena u invalidskim kolicima"
+        ],
+        "tts": [
+          "žena u invalidskim kolicima: svijetla boja kože i nadesno"
+        ]
+      },
+      "👩🏼‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "pomagalo",
+          "umjereno svijetla boja kože",
+          "žena",
+          "žena u invalidskim kolicima"
+        ],
+        "tts": [
+          "žena u invalidskim kolicima: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "👩🏽‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "pomagalo",
+          "umjerena boja kože",
+          "žena",
+          "žena u invalidskim kolicima"
+        ],
+        "tts": [
+          "žena u invalidskim kolicima: umjerena boja kože i nadesno"
+        ]
+      },
+      "👩🏾‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "pomagalo",
+          "umjereno tamna boja kože",
+          "žena",
+          "žena u invalidskim kolicima"
+        ],
+        "tts": [
+          "žena u invalidskim kolicima: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "👩🏿‍🦽‍➡": {
+        "default": [
+          "invalidska kolica",
+          "nadesno",
+          "pomagalo",
+          "tamna boja kože",
+          "žena",
+          "žena u invalidskim kolicima"
+        ],
+        "tts": [
+          "žena u invalidskim kolicima: tamna boja kože i nadesno"
         ]
       },
       "🏃🏻": {
@@ -17262,6 +18369,249 @@
         ],
         "tts": [
           "žena trči: tamna boja kože"
+        ]
+      },
+      "🏃‍➡": {
+        "default": [
+          "maraton",
+          "nadesno",
+          "osoba trči",
+          "trčanje",
+          "trka"
+        ],
+        "tts": [
+          "osoba trči: nadesno"
+        ]
+      },
+      "🏃🏻‍➡": {
+        "default": [
+          "maraton",
+          "nadesno",
+          "osoba trči",
+          "svijetla boja kože",
+          "trčanje",
+          "trka"
+        ],
+        "tts": [
+          "osoba trči: svijetla boja kože i nadesno"
+        ]
+      },
+      "🏃🏼‍➡": {
+        "default": [
+          "maraton",
+          "nadesno",
+          "osoba trči",
+          "trčanje",
+          "trka",
+          "umjereno svijetla boja kože"
+        ],
+        "tts": [
+          "osoba trči: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "🏃🏽‍➡": {
+        "default": [
+          "maraton",
+          "nadesno",
+          "osoba trči",
+          "trčanje",
+          "trka",
+          "umjerena boja kože"
+        ],
+        "tts": [
+          "osoba trči: umjerena boja kože i nadesno"
+        ]
+      },
+      "🏃🏾‍➡": {
+        "default": [
+          "maraton",
+          "nadesno",
+          "osoba trči",
+          "trčanje",
+          "trka",
+          "umjereno tamna boja kože"
+        ],
+        "tts": [
+          "osoba trči: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "🏃🏿‍➡": {
+        "default": [
+          "maraton",
+          "nadesno",
+          "osoba trči",
+          "tamna boja kože",
+          "trčanje",
+          "trka"
+        ],
+        "tts": [
+          "osoba trči: tamna boja kože i nadesno"
+        ]
+      },
+      "🏃‍♀‍➡": {
+        "default": [
+          "maraton",
+          "nadesno",
+          "trčanje",
+          "trka",
+          "žena",
+          "žena trči"
+        ],
+        "tts": [
+          "žena trči: nadesno"
+        ]
+      },
+      "🏃🏻‍♀‍➡": {
+        "default": [
+          "maraton",
+          "nadesno",
+          "svijetla boja kože",
+          "trčanje",
+          "trka",
+          "žena",
+          "žena trči"
+        ],
+        "tts": [
+          "žena trči: svijetla boja kože i nadesno"
+        ]
+      },
+      "🏃🏼‍♀‍➡": {
+        "default": [
+          "maraton",
+          "nadesno",
+          "trčanje",
+          "trka",
+          "umjereno svijetla boja kože",
+          "žena",
+          "žena trči"
+        ],
+        "tts": [
+          "žena trči: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "🏃🏽‍♀‍➡": {
+        "default": [
+          "maraton",
+          "nadesno",
+          "trčanje",
+          "trka",
+          "umjerena boja kože",
+          "žena",
+          "žena trči"
+        ],
+        "tts": [
+          "žena trči: umjerena boja kože i nadesno"
+        ]
+      },
+      "🏃🏾‍♀‍➡": {
+        "default": [
+          "maraton",
+          "nadesno",
+          "trčanje",
+          "trka",
+          "umjereno tamna boja kože",
+          "žena",
+          "žena trči"
+        ],
+        "tts": [
+          "žena trči: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "🏃🏿‍♀‍➡": {
+        "default": [
+          "maraton",
+          "nadesno",
+          "tamna boja kože",
+          "trčanje",
+          "trka",
+          "žena",
+          "žena trči"
+        ],
+        "tts": [
+          "žena trči: tamna boja kože i nadesno"
+        ]
+      },
+      "🏃‍♂‍➡": {
+        "default": [
+          "maraton",
+          "muškarac",
+          "muškarac trči",
+          "nadesno",
+          "trčanje",
+          "trka"
+        ],
+        "tts": [
+          "muškarac trči: nadesno"
+        ]
+      },
+      "🏃🏻‍♂‍➡": {
+        "default": [
+          "maraton",
+          "muškarac",
+          "muškarac trči",
+          "nadesno",
+          "svijetla boja kože",
+          "trčanje",
+          "trka"
+        ],
+        "tts": [
+          "muškarac trči: svijetla boja kože i nadesno"
+        ]
+      },
+      "🏃🏼‍♂‍➡": {
+        "default": [
+          "maraton",
+          "muškarac",
+          "muškarac trči",
+          "nadesno",
+          "trčanje",
+          "trka",
+          "umjereno svijetla boja kože"
+        ],
+        "tts": [
+          "muškarac trči: umjereno svijetla boja kože i nadesno"
+        ]
+      },
+      "🏃🏽‍♂‍➡": {
+        "default": [
+          "maraton",
+          "muškarac",
+          "muškarac trči",
+          "nadesno",
+          "trčanje",
+          "trka",
+          "umjerena boja kože"
+        ],
+        "tts": [
+          "muškarac trči: umjerena boja kože i nadesno"
+        ]
+      },
+      "🏃🏾‍♂‍➡": {
+        "default": [
+          "maraton",
+          "muškarac",
+          "muškarac trči",
+          "nadesno",
+          "trčanje",
+          "trka",
+          "umjereno tamna boja kože"
+        ],
+        "tts": [
+          "muškarac trči: umjereno tamna boja kože i nadesno"
+        ]
+      },
+      "🏃🏿‍♂‍➡": {
+        "default": [
+          "maraton",
+          "muškarac",
+          "muškarac trči",
+          "nadesno",
+          "tamna boja kože",
+          "trčanje",
+          "trka"
+        ],
+        "tts": [
+          "muškarac trči: tamna boja kože i nadesno"
         ]
       },
       "💃🏻": {
@@ -23354,7 +24704,7 @@
           "zastava"
         ],
         "tts": [
-          "zastava: Mjanmar"
+          "zastava: Mijanmar"
         ]
       },
       "🇲🇳": {
@@ -23514,7 +24864,7 @@
           "zastava"
         ],
         "tts": [
-          "zastava: Holandija"
+          "zastava: Nizozemska"
         ]
       },
       "🇳🇴": {
@@ -23794,7 +25144,7 @@
           "zastava"
         ],
         "tts": [
-          "zastava: Svalbard i Jan Majen"
+          "zastava: Svalbard i Jan Mayen"
         ]
       },
       "🇸🇰": {
@@ -24269,11 +25619,6 @@
           "Nigerijska naira"
         ]
       },
-      "₧": {
-        "tts": [
-          "Španska pezeta"
-        ]
-      },
       "₪": {
         "tts": [
           "Izraelski novi šekel"
@@ -24407,6 +25752,11 @@
         ],
         "tts": [
           "Kapica za tipku: 9"
+        ]
+      },
+      "₧": {
+        "tts": [
+          "Španska pezeta"
         ]
       }
     }

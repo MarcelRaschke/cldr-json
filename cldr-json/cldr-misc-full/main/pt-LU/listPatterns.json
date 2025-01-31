@@ -2,9 +2,6 @@
   "main": {
     "pt-LU": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "pt",
         "territory": "LU"
       },

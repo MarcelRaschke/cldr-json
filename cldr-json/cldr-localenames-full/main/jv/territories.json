@@ -2,9 +2,6 @@
   "main": {
     "jv": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "jv"
       },
       "localeDisplayNames": {
@@ -72,7 +69,7 @@
           "BO": "Bolivia",
           "BQ": "Karibia Walanda",
           "BR": "Brasil",
-          "BS": "Bahamas",
+          "BS": "Bahama",
           "BT": "Bhutan",
           "BV": "Pulo Bovèt",
           "BW": "Botswana",
@@ -159,7 +156,9 @@
           "IL": "Israèl",
           "IM": "Pulo Man",
           "IN": "Indhia",
-          "IO": "Wilayah Inggris nang Segoro Hindia",
+          "IO": "Wilayah Inggris ing Segara Hindia",
+          "IO-alt-biot": "Wilayah Inggris ing Segara Hindia",
+          "IO-alt-chagos": "Kapuloan Chagos",
           "IQ": "Irak",
           "IR": "Iran",
           "IS": "Èslan",

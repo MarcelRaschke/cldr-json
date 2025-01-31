@@ -2,9 +2,6 @@
   "main": {
     "te": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "te"
       },
       "dates": {
@@ -118,6 +115,9 @@
               },
               "Chihuahua": {
                 "exemplarCity": "చువావా"
+              },
+              "Ciudad_Juarez": {
+                "exemplarCity": "సియుదాద్ హ్వారెజ్"
               },
               "Coral_Harbour": {
                 "exemplarCity": "అటికోకన్"
@@ -327,9 +327,6 @@
               "New_York": {
                 "exemplarCity": "న్యూయార్క్"
               },
-              "Nipigon": {
-                "exemplarCity": "నిపిగోన్"
-              },
               "Nome": {
                 "exemplarCity": "నోమ్"
               },
@@ -353,9 +350,6 @@
               "Panama": {
                 "exemplarCity": "పనామా"
               },
-              "Pangnirtung": {
-                "exemplarCity": "పాంగ్‌నీర్‌టుంగ్"
-              },
               "Paramaribo": {
                 "exemplarCity": "పరామారిబో"
               },
@@ -377,9 +371,6 @@
               "Punta_Arenas": {
                 "exemplarCity": "పుంటా అరీనస్"
               },
-              "Rainy_River": {
-                "exemplarCity": "రెయినీ రివర్"
-              },
               "Rankin_Inlet": {
                 "exemplarCity": "రన్‌కిన్ ఇన్‌లెట్"
               },
@@ -394,9 +385,6 @@
               },
               "Rio_Branco": {
                 "exemplarCity": "రియో బ్రాంకో"
-              },
-              "Santa_Isabel": {
-                "exemplarCity": "శాంటా ఇసబెల్"
               },
               "Santarem": {
                 "exemplarCity": "సాంటరెమ్"
@@ -443,9 +431,6 @@
               "Thule": {
                 "exemplarCity": "థులే"
               },
-              "Thunder_Bay": {
-                "exemplarCity": "థండర్ బే"
-              },
               "Tijuana": {
                 "exemplarCity": "టిజువానా"
               },
@@ -466,9 +451,6 @@
               },
               "Yakutat": {
                 "exemplarCity": "యకుటాట్"
-              },
-              "Yellowknife": {
-                "exemplarCity": "ఎల్లోనైఫ్"
               }
             },
             "Atlantic": {
@@ -660,9 +642,6 @@
               "Ulyanovsk": {
                 "exemplarCity": "ఉల్యనోవ్స్క్"
               },
-              "Uzhgorod": {
-                "exemplarCity": "ఉజ్‌హోరోడ్"
-              },
               "Vaduz": {
                 "exemplarCity": "వాడుజ్"
               },
@@ -683,9 +662,6 @@
               },
               "Zagreb": {
                 "exemplarCity": "జాగ్రెబ్"
-              },
-              "Zaporozhye": {
-                "exemplarCity": "జపరోజై"
               },
               "Zurich": {
                 "exemplarCity": "జ్యూరిచ్"
@@ -903,9 +879,6 @@
               },
               "Chita": {
                 "exemplarCity": "చితా"
-              },
-              "Choibalsan": {
-                "exemplarCity": "చోయిబాల్సన్"
               },
               "Colombo": {
                 "exemplarCity": "కొలంబో"
@@ -1145,9 +1118,6 @@
               "Broken_Hill": {
                 "exemplarCity": "బ్రోకెన్ హిల్"
               },
-              "Currie": {
-                "exemplarCity": "కర్రీ"
-              },
               "Darwin": {
                 "exemplarCity": "డార్విన్"
               },
@@ -1218,9 +1188,6 @@
               },
               "Honolulu": {
                 "exemplarCity": "హోనోలులు"
-              },
-              "Johnston": {
-                "exemplarCity": "జాన్సటన్"
               },
               "Kanton": {
                 "exemplarCity": "కాంతోన్"
@@ -1600,13 +1567,6 @@
                 "daylight": "చైనా పగటి వెలుతురు సమయం"
               }
             },
-            "Choibalsan": {
-              "long": {
-                "generic": "చోయిబల్సాన్ సమయం",
-                "standard": "చోయిబల్సాన్ ప్రామాణిక సమయం",
-                "daylight": "చోయిబల్సాన్ వేసవి సమయం"
-              }
-            },
             "Christmas": {
               "long": {
                 "standard": "క్రిస్మస్ దీవి సమయం"
@@ -1860,6 +1820,11 @@
                 "daylight": "పెట్రోపావ్లోవ్స్క్-కామ్ఛాట్స్కి వేసవి సమయం"
               }
             },
+            "Kazakhstan": {
+              "long": {
+                "standard": "కజకిస్తాన్ సమయం"
+              }
+            },
             "Kazakhstan_Eastern": {
               "long": {
                 "standard": "తూర్పు కజకి‌స్తాన్ సమయం"
@@ -1918,11 +1883,6 @@
                 "daylight": "మకావ్ వేసవి సమయం"
               }
             },
-            "Macquarie": {
-              "long": {
-                "standard": "మాక్క్వారీ దీవి సమయం"
-              }
-            },
             "Magadan": {
               "long": {
                 "generic": "మగడాన్ సమయం",
@@ -1960,13 +1920,6 @@
             "Mawson": {
               "long": {
                 "standard": "మాసన్ సమయం"
-              }
-            },
-            "Mexico_Northwest": {
-              "long": {
-                "generic": "వాయువ్య మెక్సికో సమయం",
-                "standard": "వాయువ్య మెక్సికో ప్రామాణిక సమయం",
-                "daylight": "వాయువ్య మెక్సికో పగటి వెలుతురు సమయం"
               }
             },
             "Mexico_Pacific": {

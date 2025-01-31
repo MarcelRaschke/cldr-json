@@ -2,9 +2,6 @@
   "main": {
     "mgo": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "mgo"
       },
       "localeDisplayNames": {

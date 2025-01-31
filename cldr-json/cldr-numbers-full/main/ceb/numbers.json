@@ -2,9 +2,6 @@
   "main": {
     "ceb": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ceb"
       },
       "numbers": {
@@ -104,7 +101,7 @@
             }
           },
           "currencyPatternAppendISO": "{0} ¤¤",
-          "unitPattern-count-one": "{1} {0}",
+          "unitPattern-count-one": "{0} {1}",
           "unitPattern-count-other": "{1} {0}"
         },
         "miscPatterns-numberSystem-latn": {

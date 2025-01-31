@@ -2,9 +2,6 @@
   "main": {
     "is": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "is"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — samhæfi",
         "enclosed": "{0} — lokað",
         "extended": "{0} — aukið",
+        "facing-left": "{0} snýr til vinstri",
+        "facing-right": "{0} snýr til hægri",
         "historic": "{0} — sögulegt",
         "miscellaneous": "{0} — ýmislegt",
         "other": "{0} — annað",

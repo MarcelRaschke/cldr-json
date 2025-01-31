@@ -2,9 +2,6 @@
   "main": {
     "zh-Hant-MO": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "zh",
         "script": "Hant",
         "territory": "MO"
@@ -89,7 +86,7 @@
           "CG-alt-variant": "剛果共和國",
           "CH": "瑞士",
           "CI": "科特迪瓦",
-          "CI-alt-variant": "科特迪瓦",
+          "CI-alt-variant": "象牙海岸",
           "CK": "庫克群島",
           "CL": "智利",
           "CM": "喀麥隆",
@@ -162,6 +159,8 @@
           "IM": "馬恩島",
           "IN": "印度",
           "IO": "英屬印度洋領地",
+          "IO-alt-biot": "英屬印度洋領地",
+          "IO-alt-chagos": "查哥斯群島",
           "IQ": "伊拉克",
           "IR": "伊朗",
           "IS": "冰島",

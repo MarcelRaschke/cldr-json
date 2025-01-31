@@ -2,9 +2,6 @@
   "main": {
     "zh-Hans": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "zh",
         "script": "Hans"
       },
@@ -13,6 +10,11 @@
           "localePattern": "{0}（{1}）",
           "localeSeparator": "{0}，{1}",
           "localeKeyTypePattern": "{0}：{1}"
+        },
+        "subdivisions": {
+          "gbeng": "英格兰",
+          "gbsct": "苏格兰",
+          "gbwls": "威尔士"
         },
         "keys": {
           "calendar": "日历",
@@ -46,9 +48,8 @@
             "hebrew": "希伯来历",
             "indian": "印度国定历",
             "islamic": "伊斯兰历",
-            "islamic-civil": "伊斯兰希吉来日历",
-            "islamic-rgsa": "沙特阿拉伯伊斯兰历",
-            "islamic-tbla": "伊斯兰天文历",
+            "islamic-civil": "表格式伊斯兰历（民用纪元）",
+            "islamic-tbla": "表格式伊斯兰历（天文纪元）",
             "islamic-umalqura": "伊斯兰历（乌姆库拉）",
             "iso8601": "国际标准历法",
             "japanese": "和历",
@@ -87,7 +88,6 @@
             "phonebook": "电话簿排序",
             "phonetic": "语音排序",
             "pinyin": "拼音排序",
-            "reformed": "改良排序",
             "search": "常规搜索",
             "searchjl": "按韩文字开首辅音来搜索",
             "standard": "标准排序",
@@ -194,7 +194,6 @@
             "mymr": "缅甸数字",
             "mymrshan": "缅甸掸文数字",
             "mymrtlng": "缅甸泰兰数字",
-            "nagm": "nagm",
             "native": "当地数字",
             "nkoo": "曼德数字",
             "olck": "桑塔利文数字",

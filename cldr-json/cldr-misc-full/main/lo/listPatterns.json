@@ -2,9 +2,6 @@
   "main": {
     "lo": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "lo"
       },
       "listPatterns": {

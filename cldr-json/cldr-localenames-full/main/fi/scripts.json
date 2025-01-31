@@ -2,9 +2,6 @@
   "main": {
     "fi": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "fi"
       },
       "localeDisplayNames": {
@@ -91,7 +88,7 @@
           "Jurc": "džurtšen",
           "Kali": "kayah li",
           "Kana": "katakana",
-          "Kawi": "Kawi",
+          "Kawi": "kawi",
           "Khar": "kharosthi",
           "Khmr": "khmeriläinen",
           "Khoj": "khojki",
@@ -132,7 +129,7 @@
           "Mtei-alt-secondary": "meitei mayek",
           "Mult": "multanilainen",
           "Mymr": "burmalainen",
-          "Nagm": "Nagm",
+          "Nagm": "Nagin mundariaakkoset",
           "Nand": "nandinagari",
           "Narb": "muinaispohjoisarabialainen",
           "Nbat": "nabatealainen",

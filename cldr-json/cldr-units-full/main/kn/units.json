@@ -2,9 +2,6 @@
   "main": {
     "kn": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "kn"
       },
       "units": {
@@ -39,6 +36,12 @@
           "10p-24": {
             "unitPrefixPattern": "ಯೊಕ್ಟೋ {0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "ರೋಂಟೊ{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "ಕ್ವೆಕ್ಟೋ{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ಡೆಕಾ {0}"
           },
@@ -68,6 +71,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "ಯೊಟ್ಟಾ {0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "ರೋನಾ{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "ಕ್ವೆಟ್ಟಾ{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "ಕಿಬಿ {0}"
@@ -107,8 +116,7 @@
             "compoundUnitPattern1-count-other-case-accusative": "ಚದರಗಳನ್ನು {0}",
             "compoundUnitPattern1-count-other-case-dative": "ಚದರಗಳಿಗೆ {0}",
             "compoundUnitPattern1-count-other-case-genitive": "ಚದರಗಳ {0}",
-            "compoundUnitPattern1-count-other-case-locative": "ಚದರಗಳಲ್ಲಿ {0}",
-            "compoundUnitPattern1-count-other-case-vocative": "ಚದರಗಳು {0}"
+            "compoundUnitPattern1-count-other-case-locative": "ಚದರಗಳಲ್ಲಿ {0}"
           },
           "power3": {
             "compoundUnitPattern1": "ಕ್ಯೂ. {0}",
@@ -121,8 +129,7 @@
             "compoundUnitPattern1-count-other-case-accusative": "ಕ್ಯೂಬಿಕ್‌ಗಳನ್ನು {0}",
             "compoundUnitPattern1-count-other-case-dative": "ಕ್ಯೂಬಿಕ್‌ಗಳಿಗೆ {0}",
             "compoundUnitPattern1-count-other-case-genitive": "ಕ್ಯೂಬಿಕ್‌ಗಳ {0}",
-            "compoundUnitPattern1-count-other-case-locative": "ಕ್ಯೂಬಿಕ್‌ಗಳಲ್ಲಿ {0}",
-            "compoundUnitPattern1-count-other-case-vocative": "ಕ್ಯೂಬಿಕ್‌ಗಳು {0}"
+            "compoundUnitPattern1-count-other-case-locative": "ಕ್ಯೂಬಿಕ್‌ಗಳಲ್ಲಿ {0}"
           },
           "times": {
             "compoundUnitPattern": "{0}-{1}"
@@ -332,9 +339,18 @@
             "locative-count-other": "{0} ಕಾರಟ್‌ಗಳಲ್ಲಿ"
           },
           "concentr-milligram-ofglucose-per-deciliter": {
+            "gender": "neuter",
             "displayName": "ಪ್ರತಿ ಡೆಸಿಲೀಟರ್‌ಗೆ ಮಿಲಿಗ್ರಾಂಗಳು",
             "unitPattern-count-one": "{0} ಪ್ರತಿ ಡೆಸಿಲೀಟರ್‌ಗೆ ಮಿಲಿಗ್ರಾಂ",
-            "unitPattern-count-other": "{0} ಪ್ರತಿ ಡೆಸಿಲೀಟರ್‌ಗೆ ಮಿಲಿಗ್ರಾಂಗಳು"
+            "accusative-count-one": "{0} ಪ್ರತಿ ಡೆಸಿಲೀಟರ್‌ಗೆ ಮಿಲಿಗ್ರಾಂ",
+            "dative-count-one": "{0} ಪ್ರತಿ ಡೆಸಿಲೀಟರ್‌ಗೆ ಮಿಲಿಗ್ರಾಂ",
+            "genitive-count-one": "{0} ಪ್ರತಿ ಡೆಸಿಲೀಟರ್‌ಗೆ ಮಿಲಿಗ್ರಾಂ",
+            "locative-count-one": "{0} ಪ್ರತಿ ಡೆಸಿಲೀಟರ್‌ಗೆ ಮಿಲಿಗ್ರಾಂ",
+            "unitPattern-count-other": "{0} ಪ್ರತಿ ಡೆಸಿಲೀಟರ್‌ಗೆ ಮಿಲಿಗ್ರಾಂಗಳು",
+            "accusative-count-other": "{0} ಪ್ರತಿ ಡೆಸಿಲೀಟರ್‌ಗೆ ಮಿಲಿಗ್ರಾಂಗಳು",
+            "dative-count-other": "{0} ಪ್ರತಿ ಡೆಸಿಲೀಟರ್‌ಗೆ ಮಿಲಿಗ್ರಾಂಗಳು",
+            "genitive-count-other": "{0} ಪ್ರತಿ ಡೆಸಿಲೀಟರ್‌ಗೆ ಮಿಲಿಗ್ರಾಂಗಳು",
+            "locative-count-other": "{0} ಪ್ರತಿ ಡೆಸಿಲೀಟರ್‌ಗೆ ಮಿಲಿಗ್ರಾಂಗಳು"
           },
           "concentr-millimole-per-liter": {
             "gender": "neuter",
@@ -832,8 +848,7 @@
             "accusative-count-other": "{0} ಆ್ಯಂಪಿಯರ್‌ಗಳನ್ನು",
             "dative-count-other": "{0} ಆ್ಯಂಪಿಯರ್‌ಗಳಿಗೆ",
             "genitive-count-other": "{0} ಆ್ಯಂಪಿಯರ್‌ಗಳ",
-            "locative-count-other": "{0} ಆ್ಯಂಪಿಯರ್‌ಗಳಲ್ಲಿ",
-            "vocative-count-other": "{0} ಆ್ಯಂಪಿಯರ್‌ಗಳು"
+            "locative-count-other": "{0} ಆ್ಯಂಪಿಯರ್‌ಗಳಲ್ಲಿ"
           },
           "electric-milliampere": {
             "gender": "neuter",
@@ -878,9 +893,18 @@
             "locative-count-other": "{0} ವೋಲ್ಟ್‌ಗಳಲ್ಲಿ"
           },
           "energy-kilocalorie": {
+            "gender": "neuter",
             "displayName": "ಕಿಲೋಕ್ಯಾಲೋರಿಗಳು",
             "unitPattern-count-one": "{0} ಕಿಲೋಕ್ಯಾಲೋರಿ",
-            "unitPattern-count-other": "{0} ಕಿಲೋಕ್ಯಾಲೋರಿಗಳು"
+            "accusative-count-one": "{0} ಕಿಲೋಕ್ಯಾಲೋರಿ",
+            "dative-count-one": "{0} ಕಿಲೋಕ್ಯಾಲೋರಿ",
+            "genitive-count-one": "{0} ಕಿಲೋಕ್ಯಾಲೋರಿ",
+            "locative-count-one": "{0} ಕಿಲೋಕ್ಯಾಲೋರಿ",
+            "unitPattern-count-other": "{0} ಕಿಲೋಕ್ಯಾಲೋರಿಗಳು",
+            "accusative-count-other": "{0} ಕಿಲೋಕ್ಯಾಲೋರಿಗಳು",
+            "dative-count-other": "{0} ಕಿಲೋಕ್ಯಾಲೋರಿಗಳು",
+            "genitive-count-other": "{0} ಕಿಲೋಕ್ಯಾಲೋರಿಗಳು",
+            "locative-count-other": "{0} ಕಿಲೋಕ್ಯಾಲೋರಿಗಳು"
           },
           "energy-calorie": {
             "gender": "neuter",
@@ -897,9 +921,9 @@
             "locative-count-other": "{0} ಕ್ಯಾಲೋರಿಗಳಲ್ಲಿ"
           },
           "energy-foodcalorie": {
-            "displayName": "ಕ್ಯಾಲೋರಿಗಳು",
-            "unitPattern-count-one": "{0} ಕ್ಯಾಲೋರಿ",
-            "unitPattern-count-other": "{0} ಕ್ಯಾಲೋರಿಗಳು"
+            "displayName": "ಕ್ಯಾಲೊರಿಗಳು",
+            "unitPattern-count-one": "{0} ಕ್ಯಾಲೊರಿ",
+            "unitPattern-count-other": "{0} ಕ್ಯಾಲೊರಿಗಳು"
           },
           "energy-kilojoule": {
             "gender": "neuter",
@@ -971,21 +995,19 @@
             "dative-count-one": "{0} ನ್ಯೂಟನ್‌ಗೆ",
             "genitive-count-one": "{0} ನ್ಯೂಟನ್‌ನ",
             "locative-count-one": "{0} ನ್ಯೂಟನ್‌ನಲ್ಲಿ",
-            "vocative-count-one": "{0} ನ್ಯೂಟನ್",
             "unitPattern-count-other": "{0} ನ್ಯೂಟನ್‌ಗಳು",
             "accusative-count-other": "{0} ನ್ಯೂಟನ್‌ಗಳನ್ನು",
             "dative-count-other": "{0} ನ್ಯೂಟನ್‌ಗಳಿಗೆ",
             "genitive-count-other": "{0} ನ್ಯೂಟನ್‌ಗಳ",
-            "locative-count-other": "{0} ನ್ಯೂಟನ್‌ಗಳಲ್ಲಿ",
-            "vocative-count-other": "{0} ನ್ಯೂಟನ್‌ಗಳು"
+            "locative-count-other": "{0} ನ್ಯೂಟನ್‌ಗಳಲ್ಲಿ"
           },
           "force-kilowatt-hour-per-100-kilometer": {
             "gender": "neuter",
             "displayName": "ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆಗಳು ಪ್ರತಿ 100 ಕಿಲೋಮೀಟರ್‌ಗಳಿಗೆ",
-            "unitPattern-count-one": "{0} ಪ್ರತಿ 100 ಕಿಲೋಮೀಟರ್‌ಗೆ ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆ",
-            "accusative-count-one": "{0} ಪ್ರತಿ 100 ಕಿಲೋಮೀಟರ್‌ಗಳಿಗೆ ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆಯನ್ನು",
+            "unitPattern-count-one": "{0} ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆ ಪ್ರತಿ 100 ಕಿಲೋಮೀಟರ್‌ಗಳಿಗೆ",
+            "accusative-count-one": "{0} ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆ ಪ್ರತಿ 100 ಕಿಲೋಮೀಟರ್‌ಗಳಿಗೆ",
             "dative-count-one": "{0} ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆ ಪ್ರತಿ 100 ಕಿಲೋಮೀಟರ್‌ಗಳಿಗೆ",
-            "genitive-count-one": "{0} ಪ್ರತಿ 100 ಕಿಲೋಮೀಟರ್‌ಗೆ ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆ",
+            "genitive-count-one": "{0} ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆ ಪ್ರತಿ 100 ಕಿಲೋಮೀಟರ್‌ಗಳಿಗೆ",
             "locative-count-one": "{0} ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆ ಪ್ರತಿ 100 ಕಿಲೋಮೀಟರ್‌ಗಳಲ್ಲಿ",
             "unitPattern-count-other": "{0} ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆಗಳು ಪ್ರತಿ 100 ಕಿಲೋಮೀಟರ್‌ಗಳಿಗೆ",
             "accusative-count-other": "{0} ಕಿಲೋವ್ಯಾಟ್-ಗಂಟೆಗಳು ಪ್ರತಿ 100 ಕಿಲೋಮೀಟರ್‌ಗಳನ್ನು",
@@ -1114,7 +1136,7 @@
           },
           "graphics-dot-per-centimeter": {
             "displayName": "ಡಾಟ್ಸ್ ಪರ್ ಸೆಂಟಿಮೀಟರ್",
-            "unitPattern-count-one": "{0} ಡಾಟ್ಸ್ ಪರ್ ಸೆಂಟಿಮೀಟರ್",
+            "unitPattern-count-one": "{0} ಡಾಟ್ ಪರ್ ಸೆಂಟಿಮೀಟರ್",
             "unitPattern-count-other": "{0} ಡಾಟ್ಸ್ ಪರ್ ಸೆಂಟಿಮೀಟರ್"
           },
           "graphics-dot-per-inch": {
@@ -1314,9 +1336,18 @@
             "locative-count-other": "{0} ಸ್ಕ್ಯಾಂಡಿನೇವಿಯನ್-ಮೈಲುಗಳಲ್ಲಿ"
           },
           "length-point": {
-            "displayName": "ಪಾಯಿಂಟ್ಸ್",
+            "gender": "neuter",
+            "displayName": "ಪಾಯಿಂಟ್‌ಗಳು",
             "unitPattern-count-one": "{0} ಪಾಯಿಂಟ್",
-            "unitPattern-count-other": "{0} ಪಾಯಿಂಟ್‌ಗಳು"
+            "accusative-count-one": "{0} ಪಾಯಿಂಟ್",
+            "dative-count-one": "{0} ಪಾಯಿಂಟ್‌‌ಗೆ",
+            "genitive-count-one": "{0} ಪಾಯಿಂಟ್‌‌ನ",
+            "locative-count-one": "{0} ಪಾಯಿಂಟ್‌‌ನಲ್ಲಿ",
+            "unitPattern-count-other": "{0} ಪಾಯಿಂಟ್‌ಗಳು",
+            "accusative-count-other": "{0} ಪಾಯಿಂಟ್‌ಗಳನ್ನು",
+            "dative-count-other": "{0} ಪಾಯಿಂಟ್‌ಗಳು",
+            "genitive-count-other": "{0} ಪಾಯಿಂಟ್‌ಗಳ",
+            "locative-count-other": "{0} ಪಾಯಿಂಟ್‌ಗಳು"
           },
           "length-solar-radius": {
             "displayName": "ಸೋಲಾರ್‌ ರೇಡಿ",
@@ -1583,9 +1614,18 @@
             "unitPattern-count-other": "{0} ಹಾರ್ಸ್‌ಪವರ್"
           },
           "pressure-millimeter-ofhg": {
+            "gender": "neuter",
             "displayName": "ಮರ್ಕ್ಯುರಿ ಮಿಲಿಮೀಟರ್‌ಗಳು",
             "unitPattern-count-one": "{0} ಮರ್ಕ್ಯುರಿ ಮಿಲಿಮೀಟರ್‌",
-            "unitPattern-count-other": "{0} ಮರ್ಕ್ಯುರಿ ಮಿಲಿಮೀಟರ್‌ಗಳು"
+            "accusative-count-one": "{0} ಮರ್ಕ್ಯುರಿ ಮಿಲಿಮೀಟರ್‌",
+            "dative-count-one": "{0} ಮರ್ಕ್ಯುರಿ ಮಿಲಿಮೀಟರ್‌",
+            "genitive-count-one": "{0} ಮರ್ಕ್ಯುರಿ ಮಿಲಿಮೀಟರ್‌",
+            "locative-count-one": "{0} ಮರ್ಕ್ಯುರಿ ಮಿಲಿಮೀಟರ್‌",
+            "unitPattern-count-other": "{0} ಮರ್ಕ್ಯುರಿ ಮಿಲಿಮೀಟರ್‌ಗಳು",
+            "accusative-count-other": "{0} ಮರ್ಕ್ಯುರಿ ಮಿಲಿಮೀಟರ್‌ಗಳು",
+            "dative-count-other": "{0} ಮರ್ಕ್ಯುರಿ ಮಿಲಿಮೀಟರ್‌ಗಳು",
+            "genitive-count-other": "{0} ಮರ್ಕ್ಯುರಿ ಮಿಲಿಮೀಟರ್‌ಗಳು",
+            "locative-count-other": "{0} ಮರ್ಕ್ಯುರಿ ಮಿಲಿಮೀಟರ್‌ಗಳು"
           },
           "pressure-pound-force-per-square-inch": {
             "displayName": "ಪೌಂಡ್ಸ್-ಫೋರ್ಸ್ ಪ್ರತಿ ಚದರ ಇಂಚಿಗೆ",
@@ -1647,13 +1687,11 @@
             "dative-count-one": "{0} ಪಾಸ್ಕಲ್‌ಗೆ",
             "genitive-count-one": "{0} ಪಾಸ್ಕಲ್‌ನ",
             "locative-count-one": "{0} ಪಾಸ್ಕಲ್‌ನಲ್ಲಿ",
-            "vocative-count-one": "{0} ಪಾಸ್ಕಲ್‌",
             "unitPattern-count-other": "{0} ಪಾಸ್ಕಲ್‌ಗಳು",
             "accusative-count-other": "{0} ಪಾಸ್ಕಲ್‌ಗಳನ್ನು",
             "dative-count-other": "{0} ಪಾಸ್ಕಲ್‌ಗಳಿಗೆ",
             "genitive-count-other": "{0} ಪಾಸ್ಕಲ್‌ಗಳ",
-            "locative-count-other": "{0} ಪಾಸ್ಕಲ್‌ಗಳಲ್ಲಿ",
-            "vocative-count-other": "{0} ಪಾಸ್ಕಲ್‌ಗಳು"
+            "locative-count-other": "{0} ಪಾಸ್ಕಲ್‌ಗಳಲ್ಲಿ"
           },
           "pressure-hectopascal": {
             "gender": "neuter",
@@ -1735,6 +1773,11 @@
             "unitPattern-count-one": "{0} ನಾಟ್",
             "unitPattern-count-other": "{0} ನಾಟ್‌ಗಳು"
           },
+          "speed-beaufort": {
+            "displayName": "ಬ್ಯೂಫೋರ್ಟ್",
+            "unitPattern-count-one": "ಬ್ಯೂಫೋರ್ಟ್ {0}",
+            "unitPattern-count-other": "ಬ್ಯೂಫೋರ್ಟ್ {0}"
+          },
           "temperature-generic": {
             "gender": "neuter",
             "displayName": "°",
@@ -1743,7 +1786,6 @@
             "dative-count-one": "{0} ಡಿಗ್ರಿಗೆ",
             "genitive-count-one": "{0} ಡಿಗ್ರಿಯ",
             "locative-count-one": "{0} ಡಿಗ್ರಿಯಲ್ಲಿ",
-            "vocative-count-one": "{0} ಡಿಗ್ರಿ",
             "unitPattern-count-other": "{0}°",
             "accusative-count-other": "{0} ಡಿಗ್ರಿಗಳನ್ನು",
             "dative-count-other": "{0} ಡಿಗ್ರಿಗಳಿಗೆ",
@@ -2053,9 +2095,9 @@
             "unitPattern-count-other": "{0} ಇಂಪಿರಿಯಲ್ ಡೆಸರ್ಟ್ ಸ್ಪೂನ್"
           },
           "volume-drop": {
-            "displayName": "ಡ್ರಾಪ್",
+            "displayName": "ಡ್ರಾಪ್ಸ್",
             "unitPattern-count-one": "{0} ಡ್ರಾಪ್",
-            "unitPattern-count-other": "{0} ಡ್ರಾಪ್"
+            "unitPattern-count-other": "{0} ಡ್ರಾಪ್ಸ್"
           },
           "volume-dram": {
             "displayName": "ಡ್ರಾಮ್",
@@ -2076,6 +2118,49 @@
             "displayName": "ಇಂಪಿರಿಯಲ್ ಕ್ವಾರ್ಟ್",
             "unitPattern-count-one": "{0} ಇಂಪಿರಿಯಲ್ ಕ್ವಾರ್ಟ್",
             "unitPattern-count-other": "{0} ಇಂಪಿರಿಯಲ್ ಕ್ವಾರ್ಟ್"
+          },
+          "speed-light-speed": {
+            "gender": "neuter",
+            "displayName": "ಲೈಟ್",
+            "unitPattern-count-one": "{0} ಲೈಟ್",
+            "accusative-count-one": "{0} ಲೈಟ್ ಅನ್ನು",
+            "dative-count-one": "{0} ಲೈಟ್‌ಗೆ",
+            "genitive-count-one": "{0} ಲೈಟ್‌ನ",
+            "locative-count-one": "{0} ಲೈಟ್‌ನಲ್ಲಿ",
+            "unitPattern-count-other": "{0} ಲೈಟ್",
+            "accusative-count-other": "{0} ಲೈಟ್ ಅನ್ನು",
+            "dative-count-other": "{0} ಲೈಟ್‌ಗೆ",
+            "genitive-count-other": "{0} ಲೈಟ್‌‌ನ",
+            "locative-count-other": "{0} ಲೈಟ್‌ನಲ್ಲಿ"
+          },
+          "concentr-portion-per-1e9": {
+            "gender": "neuter",
+            "displayName": "ಪಾರ್ಟ್ಸ್ ಪರ್ ಬಿಲಿಯನ್",
+            "unitPattern-count-one": "{0} ಪಾರ್ಟ್ಸ್ ಪರ್ ಬಿಲಿಯನ್",
+            "accusative-count-one": "{0} ಪಾರ್ಟ್ಸ್ ಪರ್ ಬಿಲಿಯನ್ ಅನ್ನು",
+            "dative-count-one": "{0} ಪಾರ್ಟ್ಸ್ ಪರ್ ಬಿಲಿಯನ್‌ಗೆ",
+            "genitive-count-one": "{0} ಪಾರ್ಟ್ಸ್ ಪರ್ ಬಿಲಿಯನ್‌ನ",
+            "locative-count-one": "{0} ಪಾರ್ಟ್ಸ್ ಪರ್ ಬಿಲಿಯನ್‌ನಲ್ಲಿ",
+            "unitPattern-count-other": "{0} ಪಾರ್ಟ್ಸ್ ಪರ್ ಬಿಲಿಯನ್",
+            "accusative-count-other": "{0} ಪಾರ್ಟ್ಸ್ ಪರ್ ಬಿಲಿಯನ್ ಅನ್ನು",
+            "dative-count-other": "{0} ಪಾರ್ಟ್ಸ್ ಪರ್ ಬಿಲಿಯನ್‌ಗೆ",
+            "genitive-count-other": "{0} ಪಾರ್ಟ್ಸ್ ಪರ್ ಬಿಲಿಯನ್‌ನ",
+            "locative-count-other": "{0} ಪಾರ್ಟ್ಸ್ ಪರ್ ಬಿಲಿಯನ್‌ನಲ್ಲಿ"
+          },
+          "duration-night": {
+            "gender": "neuter",
+            "displayName": "ರಾತ್ರಿಗಳು",
+            "unitPattern-count-one": "{0} ರಾತ್ರಿ",
+            "accusative-count-one": "{0} ರಾತ್ರಿಯನ್ನು",
+            "dative-count-one": "{0} ರಾತ್ರಿಗೆ",
+            "genitive-count-one": "{0} ರಾತ್ರಿಯ",
+            "locative-count-one": "{0} ರಾತ್ರಿಯಲ್ಲಿ",
+            "unitPattern-count-other": "{0} ರಾತ್ರಿಗಳು",
+            "accusative-count-other": "{0} ರಾತ್ರಿಗಳನ್ನು",
+            "dative-count-other": "{0} ರಾತ್ರಿಗಳಿಗೆ",
+            "genitive-count-other": "{0} ರಾತ್ರಿಗಳ",
+            "locative-count-other": "{0} ರಾತ್ರಿಗಳಲ್ಲಿ",
+            "perUnitPattern": "{0} ಪ್ರತಿ ರಾತ್ರಿಗೆ"
           },
           "coordinateUnit": {
             "displayName": "ಕಾರ್ಡಿನಲ್ ನಿರ್ದೇಶನ",
@@ -2116,6 +2201,12 @@
           "10p-24": {
             "unitPrefixPattern": "ಯೊ {0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "ಆರ್{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "ಕ್ಯು{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ಡೆಟ್ {0}"
           },
@@ -2146,6 +2237,12 @@
           "10p24": {
             "unitPrefixPattern": "Y{0}"
           },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "ಕ್ಯೂ{0}"
+          },
           "1024p1": {
             "unitPrefixPattern": "ಕಿಬಿ{0}"
           },
@@ -2175,7 +2272,6 @@
           },
           "power2": {
             "compoundUnitPattern1": "{0}²",
-            "compoundUnitPattern1-count-one": "{0}²",
             "compoundUnitPattern1-count-other": "{0}²"
           },
           "power3": {
@@ -2217,7 +2313,7 @@
           },
           "angle-arc-second": {
             "displayName": "ಆರ್ಕ್‌ಸೆಕೆಂ",
-            "unitPattern-count-one": "{0} ಆರ್ಕ್ಸ್‌ ಸೆಂ",
+            "unitPattern-count-one": "{0} ಆರ್ಕ್‌ಸೆಕೆಂ",
             "unitPattern-count-other": "{0} ಆರ್ಕ್‌ಸೆಕೆಂ"
           },
           "area-square-kilometer": {
@@ -2302,17 +2398,14 @@
           },
           "concentr-percent": {
             "displayName": "ಶೇಕಡಾ",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "ಪ್ರತಿ ಸಾವಿರಕ್ಕೆ",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
             "displayName": "ಪರ್ಮಿರೈಡ್",
-            "unitPattern-count-one": "{0}‱",
             "unitPattern-count-other": "{0}‱"
           },
           "concentr-mole": {
@@ -2460,7 +2553,6 @@
           },
           "duration-microsecond": {
             "displayName": "μsecs",
-            "unitPattern-count-one": "{0} μs",
             "unitPattern-count-other": "{0} μs"
           },
           "duration-nanosecond": {
@@ -2480,7 +2572,6 @@
           },
           "electric-ohm": {
             "displayName": "ಓಂಗಳು",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
@@ -2499,9 +2590,9 @@
             "unitPattern-count-other": "{0} ಕ್ಯಾಲೊ"
           },
           "energy-foodcalorie": {
-            "displayName": "ಕ್ಯಾ",
-            "unitPattern-count-one": "{0} ಕ್ಯಾ",
-            "unitPattern-count-other": "{0} ಕ್ಯಾ"
+            "displayName": "ಕ್ಯಾಲೊ",
+            "unitPattern-count-one": "{0} ಕ್ಯಾಲೊ",
+            "unitPattern-count-other": "{0} ಕ್ಯಾಲೊ"
           },
           "energy-kilojoule": {
             "displayName": "ಕಿ.ಜೌ",
@@ -2550,7 +2641,6 @@
           },
           "frequency-gigahertz": {
             "displayName": "ಗಿ.ಹ",
-            "unitPattern-count-one": "{0} ಗಿ.ಹ",
             "unitPattern-count-other": "{0} GHz"
           },
           "frequency-megahertz": {
@@ -2570,46 +2660,41 @@
           },
           "graphics-em": {
             "displayName": "em",
-            "unitPattern-count-one": "{0} em",
             "unitPattern-count-other": "{0} em"
           },
           "graphics-pixel": {
             "displayName": "ಪಿಕ್ಸೆಲ್‌ಗಳು",
-            "unitPattern-count-one": "{0} px",
             "unitPattern-count-other": "{0} px"
           },
           "graphics-megapixel": {
             "displayName": "ಮೆಗಾಪಿಕ್ಸೆಲ್‌ಗಳು",
-            "unitPattern-count-one": "{0} MP",
             "unitPattern-count-other": "{0} MP"
           },
           "graphics-pixel-per-centimeter": {
             "displayName": "ppcm",
-            "unitPattern-count-one": "{0} ppcm",
             "unitPattern-count-other": "{0} ppcm"
           },
           "graphics-pixel-per-inch": {
             "displayName": "ppi",
-            "unitPattern-count-one": "{0} ppi",
             "unitPattern-count-other": "{0} ppi"
           },
           "graphics-dot-per-centimeter": {
-            "displayName": "dpcm",
-            "unitPattern-count-one": "{0} ppcm",
-            "unitPattern-count-other": "{0} dpcm"
+            "displayName": "ಡಿಪಿಸಿಎಂ",
+            "unitPattern-count-one": "{0} ಡಿಪಿಸಿಎಂ",
+            "unitPattern-count-other": "{0} ಡಿಪಿಸಿಎಂ"
           },
           "graphics-dot-per-inch": {
-            "displayName": "dpi",
-            "unitPattern-count-one": "{0} ppi",
-            "unitPattern-count-other": "{0} dpi"
+            "displayName": "ಡಿಪಿಐ",
+            "unitPattern-count-one": "{0} ಡಿಪಿಐ",
+            "unitPattern-count-other": "{0} ಡಿಪಿಐ"
           },
           "graphics-dot": {
-            "unitPattern-count-one": "{0} ಪಿಕ್ಸೆ",
-            "unitPattern-count-other": "{0} ಪಿಕ್ಸೆ"
+            "displayName": "ಡಾಟ್‌ಗಳು",
+            "unitPattern-count-one": "{0} ಡಾಟ್",
+            "unitPattern-count-other": "{0} ಡಾಟ್‌ಗಳು"
           },
           "length-earth-radius": {
-            "displayName": "R⊕",
-            "unitPattern-count-one": "{0} R⊕",
+            "displayName": "ಭೂಮಿಯ ತ್ರಿಜ್ಯ",
             "unitPattern-count-other": "{0} R⊕"
           },
           "length-kilometer": {
@@ -2642,7 +2727,6 @@
           },
           "length-micrometer": {
             "displayName": "μmeters",
-            "unitPattern-count-one": "{0} μm",
             "unitPattern-count-other": "{0} μm"
           },
           "length-nanometer": {
@@ -2699,7 +2783,6 @@
           },
           "length-fathom": {
             "displayName": "ಫ್ಯಾಥಮ್ಸ್",
-            "unitPattern-count-one": "{0} fth",
             "unitPattern-count-other": "{0} fth"
           },
           "length-nautical-mile": {
@@ -2709,8 +2792,8 @@
           },
           "length-mile-scandinavian": {
             "displayName": "ಸ್ಕ್ಯಾಂ.ಮೈ",
-            "unitPattern-count-one": "{0} ಸ್ಕ್ಯಾಂ.ಮೈ",
-            "unitPattern-count-other": "{0} ಸ್ಕ್ಯಾಂ.ಮೈ"
+            "unitPattern-count-one": "{0} smi",
+            "unitPattern-count-other": "{0} smi"
           },
           "length-point": {
             "displayName": "ಪಾಯಿಂಟ್‌ಗಳು",
@@ -2719,7 +2802,6 @@
           },
           "length-solar-radius": {
             "displayName": "ಸೋಲಾರ್‌ ರೇಡಿ",
-            "unitPattern-count-one": "{0} R☉",
             "unitPattern-count-other": "{0} R☉"
           },
           "light-lux": {
@@ -2797,13 +2879,13 @@
           },
           "mass-carat": {
             "displayName": "ಕ್ಯಾರೆಟ್‌ಗಳು",
-            "unitPattern-count-one": "{0} CD",
-            "unitPattern-count-other": "{0} CD"
+            "unitPattern-count-one": "{0} ಸಿಡಿ",
+            "unitPattern-count-other": "{0} ಸಿಡಿ"
           },
           "mass-dalton": {
             "displayName": "ಡಿಎ",
             "unitPattern-count-one": "{0} ಡಿಎ",
-            "unitPattern-count-other": "{0} Da"
+            "unitPattern-count-other": "{0} ಡಿಎ"
           },
           "mass-earth-mass": {
             "displayName": "ಭೂಮಿಯ ದೃವ್ಯರಾಶಿ",
@@ -2920,9 +3002,13 @@
             "unitPattern-count-one": "{0} ನಾ",
             "unitPattern-count-other": "{0} ನಾ"
           },
+          "speed-beaufort": {
+            "displayName": "ಬಿಎಫ್‌ಟಿ",
+            "unitPattern-count-one": "ಬಿ {0}",
+            "unitPattern-count-other": "ಬಿ {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
@@ -3042,7 +3128,7 @@
             "displayName": "ಗ್ಯಾ",
             "unitPattern-count-one": "{0} ಗ್ಯಾ",
             "unitPattern-count-other": "{0} ಗ್ಯಾ",
-            "perUnitPattern": "{0}/ಗ್ಯಾ"
+            "perUnitPattern": "{0}/ಗ್ಯಾ ಯುಎಸ್"
           },
           "volume-gallon-imperial": {
             "displayName": "Imp ಗ್ಯಾಲನ್",
@@ -3072,7 +3158,6 @@
           },
           "volume-fluid-ounce-imperial": {
             "displayName": "ಇಂಪಿ. ಫ್ಲೂ. ಔ.",
-            "unitPattern-count-one": "{0} fl oz Imp.",
             "unitPattern-count-other": "{0} fl oz Imp."
           },
           "volume-tablespoon": {
@@ -3087,7 +3172,6 @@
           },
           "volume-barrel": {
             "displayName": "ಬ್ಯಾರೆಲ್",
-            "unitPattern-count-one": "{0} bbl",
             "unitPattern-count-other": "{0} bbl"
           },
           "volume-dessert-spoon": {
@@ -3124,6 +3208,21 @@
             "displayName": "ಕ್ವಾ.ಇಂಪ್",
             "unitPattern-count-one": "{0} ಕ್ವಾ.ಇಂಪ್",
             "unitPattern-count-other": "{0} ಕ್ವಾ.ಇಂಪ್"
+          },
+          "speed-light-speed": {
+            "displayName": "ಲೈಟ್",
+            "unitPattern-count-one": "{0} ಲೈಟ್",
+            "unitPattern-count-other": "{0} ಲೈಟ್"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ಪಾರ್ಟ್ಸ್/ಬಿಲಿಯನ್",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "ರಾತ್ರಿ",
+            "unitPattern-count-one": "{0} ರಾತ್ರಿಯು",
+            "unitPattern-count-other": "{0} ರಾತ್ರಿಗಳು",
+            "perUnitPattern": "{0}/ರಾತ್ರಿಗೆ"
           },
           "coordinateUnit": {
             "displayName": "ದಿಕ್ಕು",
@@ -3164,6 +3263,12 @@
           "10p-24": {
             "unitPrefixPattern": "ಯೊ. {0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "ಆರ್{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "ಕ್ಯೂ{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "ಡೆ. {0}"
           },
@@ -3194,6 +3299,12 @@
           "10p24": {
             "unitPrefixPattern": "ಯೊ. {0}"
           },
+          "10p27": {
+            "unitPrefixPattern": "ಆರ್{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "ಕ್ಯು{0}"
+          },
           "1024p1": {
             "unitPrefixPattern": "ಕಿ{0}"
           },
@@ -3223,7 +3334,6 @@
           },
           "power2": {
             "compoundUnitPattern1": "{0}²",
-            "compoundUnitPattern1-count-one": "{0}²",
             "compoundUnitPattern1-count-other": "{0}²"
           },
           "power3": {
@@ -3350,17 +3460,14 @@
           },
           "concentr-percent": {
             "displayName": "%",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "‰",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
             "displayName": "‱",
-            "unitPattern-count-one": "{0}‱",
             "unitPattern-count-other": "{0}‱"
           },
           "concentr-mole": {
@@ -3508,8 +3615,8 @@
           },
           "duration-microsecond": {
             "displayName": "μsec",
-            "unitPattern-count-one": "{0} μs",
-            "unitPattern-count-other": "{0} μs"
+            "unitPattern-count-one": "{0}μs",
+            "unitPattern-count-other": "{0}μs"
           },
           "duration-nanosecond": {
             "displayName": "ನ್ಯಾ.ಸೆ",
@@ -3573,8 +3680,8 @@
           },
           "energy-british-thermal-unit": {
             "displayName": "BTU",
-            "unitPattern-count-one": "{0}ಬ್ರಿಉಯು",
-            "unitPattern-count-other": "{0}ಬ್ರಿಉಯು"
+            "unitPattern-count-one": "{0}Btu",
+            "unitPattern-count-other": "{0}Btu"
           },
           "energy-therm-us": {
             "displayName": "ಯುಎಸ್ ಥರ್ಮ್ಸ್",
@@ -3598,7 +3705,7 @@
           },
           "frequency-gigahertz": {
             "displayName": "GHz",
-            "unitPattern-count-one": "{0}ಗಿ.ಹ",
+            "unitPattern-count-one": "{0}GHz",
             "unitPattern-count-other": "{0}GHz"
           },
           "frequency-megahertz": {
@@ -3642,23 +3749,22 @@
             "unitPattern-count-other": "{0}ppi"
           },
           "graphics-dot-per-centimeter": {
-            "displayName": "dpcm",
-            "unitPattern-count-one": "{0}dpcm",
-            "unitPattern-count-other": "{0}dpcm"
+            "displayName": "ಡಿಪಿಸಿಎಂ",
+            "unitPattern-count-one": "{0}ಡಿಪಿಸಿಎಂ",
+            "unitPattern-count-other": "{0}ಡಿಪಿಸಿಎಂ"
           },
           "graphics-dot-per-inch": {
-            "displayName": "dpi",
-            "unitPattern-count-one": "{0}dpi",
-            "unitPattern-count-other": "{0}dpi"
+            "displayName": "ಡಿಪಿಐ",
+            "unitPattern-count-one": "{0}ಡಿಪಿಐ",
+            "unitPattern-count-other": "{0}ಡಿಪಿಐ"
           },
           "graphics-dot": {
             "displayName": "ಡಾಟ್",
-            "unitPattern-count-one": "{0} ಡಾಟ್",
-            "unitPattern-count-other": "{0} ಪಿಕ್ಸೆ"
+            "unitPattern-count-one": "{0}ಡಾಟ್",
+            "unitPattern-count-other": "{0}ಡಾಟ್"
           },
           "length-earth-radius": {
-            "displayName": "R⊕",
-            "unitPattern-count-one": "{0} R⊕",
+            "displayName": "ಭೂಮಿಯ ತ್ರಿಜ್ಯ",
             "unitPattern-count-other": "{0} R⊕"
           },
           "length-kilometer": {
@@ -3748,8 +3854,8 @@
           },
           "length-fathom": {
             "displayName": "ಫ್ಯಾಥಮ್",
-            "unitPattern-count-one": "{0} fth",
-            "unitPattern-count-other": "{0} fth"
+            "unitPattern-count-one": "{0}fth",
+            "unitPattern-count-other": "{0}fth"
           },
           "length-nautical-mile": {
             "displayName": "ನಾ.ಮೈ",
@@ -3818,7 +3924,7 @@
             "unitPattern-count-other": "{0}μg"
           },
           "mass-ton": {
-            "displayName": "ಟನ್‍ಗಳು",
+            "displayName": "ಟನ್‍",
             "unitPattern-count-one": "{0}ಟನ್‌",
             "unitPattern-count-other": "{0}ಟನ್‌"
           },
@@ -3846,13 +3952,13 @@
           },
           "mass-carat": {
             "displayName": "ಕ್ಯಾರೆಟ್‌",
-            "unitPattern-count-one": "{0}CD",
-            "unitPattern-count-other": "{0}CD"
+            "unitPattern-count-one": "{0}ಸಿಡಿ",
+            "unitPattern-count-other": "{0}ಸಿಡಿ"
           },
           "mass-dalton": {
             "displayName": "ಡಿಎ",
             "unitPattern-count-one": "{0}ಡಿಎ",
-            "unitPattern-count-other": "{0} Da"
+            "unitPattern-count-other": "{0} ಡಿಎ"
           },
           "mass-earth-mass": {
             "displayName": "M⊕",
@@ -3969,9 +4075,13 @@
             "unitPattern-count-one": "{0}ನಾ",
             "unitPattern-count-other": "{0}ನಾ"
           },
+          "speed-beaufort": {
+            "displayName": "ಬಿಎಫ್‌ಟಿ",
+            "unitPattern-count-one": "ಬಿ {0}",
+            "unitPattern-count-other": "ಬಿ {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
@@ -4136,7 +4246,6 @@
           },
           "volume-barrel": {
             "displayName": "ಬ್ಯಾರೆಲ್",
-            "unitPattern-count-one": "{0} bbl",
             "unitPattern-count-other": "{0} bbl"
           },
           "volume-dessert-spoon": {
@@ -4173,6 +4282,21 @@
             "displayName": "ಕ್ವಾ.ಇಂಪ್",
             "unitPattern-count-one": "{0}qt-Imp.",
             "unitPattern-count-other": "{0}qt-Imp."
+          },
+          "speed-light-speed": {
+            "displayName": "ಲೈಟ್",
+            "unitPattern-count-one": "{0} ಲೈಟ್",
+            "unitPattern-count-other": "{0} ಲೈಟ್"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ಪಾರ್ಟ್ಸ್/ಬಿಲಿಯನ್",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "ರಾತ್ರಿಗಳು",
+            "unitPattern-count-one": "{0} ರಾತ್ರಿಯು",
+            "unitPattern-count-other": "{0} ರಾತ್ರಿಗಳು",
+            "perUnitPattern": "{0}/ರಾತ್ರಿಗೆ"
           },
           "coordinateUnit": {
             "displayName": "ದಿಕ್ಕು",

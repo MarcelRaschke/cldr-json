@@ -2,9 +2,6 @@
   "main": {
     "sat-Olck": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sat",
         "script": "Olck"
       },

@@ -2,9 +2,6 @@
   "main": {
     "cy": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "cy"
       },
       "typographicNames": {
@@ -64,7 +61,6 @@
           "wght-subtype-700": "trwm",
           "wght-subtype-800": "trwm iawn",
           "wght-subtype-900": "du",
-          "wght-subtype-900-alt-heavy": "du",
           "wght-subtype-950": "du iawn",
           "wght-subtype-950-alt-ultrablack": "tra-ddu",
           "wght-subtype-950-alt-ultraheavy": "tra-drwm"

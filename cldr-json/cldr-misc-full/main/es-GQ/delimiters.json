@@ -2,17 +2,14 @@
   "main": {
     "es-GQ": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "es",
         "territory": "GQ"
       },
       "delimiters": {
-        "quotationStart": "«",
-        "quotationEnd": "»",
-        "alternateQuotationStart": "“",
-        "alternateQuotationEnd": "”"
+        "quotationStart": "“",
+        "quotationEnd": "”",
+        "alternateQuotationStart": "‘",
+        "alternateQuotationEnd": "’"
       }
     }
   }

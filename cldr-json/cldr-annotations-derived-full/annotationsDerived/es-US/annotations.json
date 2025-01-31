@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "es",
       "territory": "US"
     },
@@ -204,6 +201,126 @@
           "fuera",
           "mano con la palma hacia abajo",
           "quitar",
+          "rechazar",
+          "tono de piel oscuro"
+        ]
+      },
+      "🫷🏻": {
+        "default": [
+          "choca esos cinco",
+          "detener",
+          "empujar",
+          "hacia la izquierda",
+          "mano empujando hacia la izquierda",
+          "parar",
+          "rechazar",
+          "tono de piel claro"
+        ]
+      },
+      "🫷🏼": {
+        "default": [
+          "choca esos cinco",
+          "detener",
+          "empujar",
+          "hacia la izquierda",
+          "mano empujando hacia la izquierda",
+          "parar",
+          "rechazar",
+          "tono de piel claro medio"
+        ]
+      },
+      "🫷🏽": {
+        "default": [
+          "choca esos cinco",
+          "detener",
+          "empujar",
+          "hacia la izquierda",
+          "mano empujando hacia la izquierda",
+          "parar",
+          "rechazar",
+          "tono de piel medio"
+        ]
+      },
+      "🫷🏾": {
+        "default": [
+          "choca esos cinco",
+          "detener",
+          "empujar",
+          "hacia la izquierda",
+          "mano empujando hacia la izquierda",
+          "parar",
+          "rechazar",
+          "tono de piel oscuro medio"
+        ]
+      },
+      "🫷🏿": {
+        "default": [
+          "choca esos cinco",
+          "detener",
+          "empujar",
+          "hacia la izquierda",
+          "mano empujando hacia la izquierda",
+          "parar",
+          "rechazar",
+          "tono de piel oscuro"
+        ]
+      },
+      "🫸🏻": {
+        "default": [
+          "choca esos cinco",
+          "detener",
+          "empujar",
+          "hacia la derecha",
+          "mano empujando hacia la derecha",
+          "parar",
+          "rechazar",
+          "tono de piel claro"
+        ]
+      },
+      "🫸🏼": {
+        "default": [
+          "choca esos cinco",
+          "detener",
+          "empujar",
+          "hacia la derecha",
+          "mano empujando hacia la derecha",
+          "parar",
+          "rechazar",
+          "tono de piel claro medio"
+        ]
+      },
+      "🫸🏽": {
+        "default": [
+          "choca esos cinco",
+          "detener",
+          "empujar",
+          "hacia la derecha",
+          "mano empujando hacia la derecha",
+          "parar",
+          "rechazar",
+          "tono de piel medio"
+        ]
+      },
+      "🫸🏾": {
+        "default": [
+          "choca esos cinco",
+          "detener",
+          "empujar",
+          "hacia la derecha",
+          "mano empujando hacia la derecha",
+          "parar",
+          "rechazar",
+          "tono de piel oscuro medio"
+        ]
+      },
+      "🫸🏿": {
+        "default": [
+          "choca esos cinco",
+          "detener",
+          "empujar",
+          "hacia la derecha",
+          "mano empujando hacia la derecha",
+          "parar",
           "rechazar",
           "tono de piel oscuro"
         ]
@@ -4730,9 +4847,6 @@
           "mujer",
           "mujer frunciendo el ceño",
           "tono de piel claro"
-        ],
-        "tts": [
-          "mujer frunciendo el ceño: tono de piel claro"
         ]
       },
       "🙍🏼‍♀": {
@@ -4742,9 +4856,6 @@
           "mujer",
           "mujer frunciendo el ceño",
           "tono de piel claro medio"
-        ],
-        "tts": [
-          "mujer frunciendo el ceño: tono de piel claro medio"
         ]
       },
       "🙍🏽‍♀": {
@@ -4754,9 +4865,6 @@
           "mujer",
           "mujer frunciendo el ceño",
           "tono de piel medio"
-        ],
-        "tts": [
-          "mujer frunciendo el ceño: tono de piel medio"
         ]
       },
       "🙍🏾‍♀": {
@@ -4766,9 +4874,6 @@
           "mujer",
           "mujer frunciendo el ceño",
           "tono de piel oscuro medio"
-        ],
-        "tts": [
-          "mujer frunciendo el ceño: tono de piel oscuro medio"
         ]
       },
       "🙍🏿‍♀": {
@@ -4778,9 +4883,6 @@
           "mujer",
           "mujer frunciendo el ceño",
           "tono de piel oscuro"
-        ],
-        "tts": [
-          "mujer frunciendo el ceño: tono de piel oscuro"
         ]
       },
       "🙎🏻": {
@@ -5613,36 +5715,6 @@
           "tono de piel oscuro"
         ]
       },
-      "🧑🏻‍🎓": {
-        "default": [
-          "estudiante",
-          "tono de piel claro"
-        ]
-      },
-      "🧑🏼‍🎓": {
-        "default": [
-          "estudiante",
-          "tono de piel claro medio"
-        ]
-      },
-      "🧑🏽‍🎓": {
-        "default": [
-          "estudiante",
-          "tono de piel medio"
-        ]
-      },
-      "🧑🏾‍🎓": {
-        "default": [
-          "estudiante",
-          "tono de piel oscuro medio"
-        ]
-      },
-      "🧑🏿‍🎓": {
-        "default": [
-          "estudiante",
-          "tono de piel oscuro"
-        ]
-      },
       "🧑🏻‍🏫": {
         "default": [
           "docente",
@@ -5689,46 +5761,26 @@
         ]
       },
       "🧑🏻‍⚖": {
-        "default": [
-          "juez",
-          "tono de piel claro"
-        ],
         "tts": [
           "juez: tono de piel claro"
         ]
       },
       "🧑🏼‍⚖": {
-        "default": [
-          "juez",
-          "tono de piel claro medio"
-        ],
         "tts": [
           "juez: tono de piel claro medio"
         ]
       },
       "🧑🏽‍⚖": {
-        "default": [
-          "juez",
-          "tono de piel medio"
-        ],
         "tts": [
           "juez: tono de piel medio"
         ]
       },
       "🧑🏾‍⚖": {
-        "default": [
-          "juez",
-          "tono de piel oscuro medio"
-        ],
         "tts": [
           "juez: tono de piel oscuro medio"
         ]
       },
       "🧑🏿‍⚖": {
-        "default": [
-          "juez",
-          "tono de piel oscuro"
-        ],
         "tts": [
           "juez: tono de piel oscuro"
         ]
@@ -6368,126 +6420,6 @@
           "tono de piel oscuro"
         ]
       },
-      "🧑🏻‍🎤": {
-        "default": [
-          "cantante",
-          "tono de piel claro"
-        ]
-      },
-      "🧑🏼‍🎤": {
-        "default": [
-          "cantante",
-          "tono de piel claro medio"
-        ]
-      },
-      "🧑🏽‍🎤": {
-        "default": [
-          "cantante",
-          "tono de piel medio"
-        ]
-      },
-      "🧑🏾‍🎤": {
-        "default": [
-          "cantante",
-          "tono de piel oscuro medio"
-        ]
-      },
-      "🧑🏿‍🎤": {
-        "default": [
-          "cantante",
-          "tono de piel oscuro"
-        ]
-      },
-      "🧑🏻‍🎨": {
-        "default": [
-          "artista",
-          "tono de piel claro"
-        ]
-      },
-      "🧑🏼‍🎨": {
-        "default": [
-          "artista",
-          "tono de piel claro medio"
-        ]
-      },
-      "🧑🏽‍🎨": {
-        "default": [
-          "artista",
-          "tono de piel medio"
-        ]
-      },
-      "🧑🏾‍🎨": {
-        "default": [
-          "artista",
-          "tono de piel oscuro medio"
-        ]
-      },
-      "🧑🏿‍🎨": {
-        "default": [
-          "artista",
-          "tono de piel oscuro"
-        ]
-      },
-      "🧑🏻‍🚀": {
-        "default": [
-          "astronauta",
-          "tono de piel claro"
-        ]
-      },
-      "🧑🏼‍🚀": {
-        "default": [
-          "astronauta",
-          "tono de piel claro medio"
-        ]
-      },
-      "🧑🏽‍🚀": {
-        "default": [
-          "astronauta",
-          "tono de piel medio"
-        ]
-      },
-      "🧑🏾‍🚀": {
-        "default": [
-          "astronauta",
-          "tono de piel oscuro medio"
-        ]
-      },
-      "🧑🏿‍🚀": {
-        "default": [
-          "astronauta",
-          "tono de piel oscuro"
-        ]
-      },
-      "🧑🏻‍🚒": {
-        "default": [
-          "bombero",
-          "tono de piel claro"
-        ]
-      },
-      "🧑🏼‍🚒": {
-        "default": [
-          "bombero",
-          "tono de piel claro medio"
-        ]
-      },
-      "🧑🏽‍🚒": {
-        "default": [
-          "bombero",
-          "tono de piel medio"
-        ]
-      },
-      "🧑🏾‍🚒": {
-        "default": [
-          "bombero",
-          "tono de piel oscuro medio"
-        ]
-      },
-      "🧑🏿‍🚒": {
-        "default": [
-          "bombero",
-          "tono de piel oscuro"
-        ]
-      },
       "👮🏻": {
         "default": [
           "agente de policía",
@@ -6726,41 +6658,6 @@
           "fantasía",
           "princesa",
           "tono de piel oscuro"
-        ]
-      },
-      "👳🏻": {
-        "default": [
-          "persona con turbante",
-          "tono de piel claro",
-          "turbante"
-        ]
-      },
-      "👳🏼": {
-        "default": [
-          "persona con turbante",
-          "tono de piel claro medio",
-          "turbante"
-        ]
-      },
-      "👳🏽": {
-        "default": [
-          "persona con turbante",
-          "tono de piel medio",
-          "turbante"
-        ]
-      },
-      "👳🏾": {
-        "default": [
-          "persona con turbante",
-          "tono de piel oscuro medio",
-          "turbante"
-        ]
-      },
-      "👳🏿": {
-        "default": [
-          "persona con turbante",
-          "tono de piel oscuro",
-          "turbante"
         ]
       },
       "👲🏻": {
@@ -7028,154 +6925,29 @@
           "tono de piel oscuro"
         ]
       },
-      "🦸🏻‍♂": {
-        "default": [
-          "superhéroe",
-          "tono de piel claro"
-        ]
-      },
-      "🦸🏼‍♂": {
-        "default": [
-          "superhéroe",
-          "tono de piel claro medio"
-        ]
-      },
-      "🦸🏽‍♂": {
-        "default": [
-          "superhéroe",
-          "tono de piel medio"
-        ]
-      },
-      "🦸🏾‍♂": {
-        "default": [
-          "superhéroe",
-          "tono de piel oscuro medio"
-        ]
-      },
-      "🦸🏿‍♂": {
-        "default": [
-          "superhéroe",
-          "tono de piel oscuro"
-        ]
-      },
-      "🦸🏻‍♀": {
-        "default": [
-          "mujer superheroína",
-          "tono de piel claro"
-        ],
-        "tts": [
-          "mujer superheroína: tono de piel claro"
-        ]
-      },
-      "🦸🏼‍♀": {
-        "default": [
-          "mujer superheroína",
-          "tono de piel claro medio"
-        ],
-        "tts": [
-          "mujer superheroína: tono de piel claro medio"
-        ]
-      },
-      "🦸🏽‍♀": {
-        "default": [
-          "mujer superheroína",
-          "tono de piel medio"
-        ],
-        "tts": [
-          "mujer superheroína: tono de piel medio"
-        ]
-      },
-      "🦸🏾‍♀": {
-        "default": [
-          "mujer superheroína",
-          "tono de piel oscuro medio"
-        ],
-        "tts": [
-          "mujer superheroína: tono de piel oscuro medio"
-        ]
-      },
-      "🦸🏿‍♀": {
-        "default": [
-          "mujer superheroína",
-          "tono de piel oscuro"
-        ],
-        "tts": [
-          "mujer superheroína: tono de piel oscuro"
-        ]
-      },
       "🦹🏻‍♂": {
-        "default": [
-          "hombre supervillano",
-          "tono de piel claro"
-        ],
         "tts": [
           "hombre supervillano: tono de piel claro"
         ]
       },
       "🦹🏼‍♂": {
-        "default": [
-          "hombre supervillano",
-          "tono de piel claro medio"
-        ],
         "tts": [
           "hombre supervillano: tono de piel claro medio"
         ]
       },
       "🦹🏽‍♂": {
-        "default": [
-          "hombre supervillano",
-          "tono de piel medio"
-        ],
         "tts": [
           "hombre supervillano: tono de piel medio"
         ]
       },
       "🦹🏾‍♂": {
-        "default": [
-          "hombre supervillano",
-          "tono de piel oscuro medio"
-        ],
         "tts": [
           "hombre supervillano: tono de piel oscuro medio"
         ]
       },
       "🦹🏿‍♂": {
-        "default": [
-          "hombre supervillano",
-          "tono de piel oscuro"
-        ],
         "tts": [
           "hombre supervillano: tono de piel oscuro"
-        ]
-      },
-      "🦹🏻‍♀": {
-        "default": [
-          "supervillana",
-          "tono de piel claro"
-        ]
-      },
-      "🦹🏼‍♀": {
-        "default": [
-          "supervillana",
-          "tono de piel claro medio"
-        ]
-      },
-      "🦹🏽‍♀": {
-        "default": [
-          "supervillana",
-          "tono de piel medio"
-        ]
-      },
-      "🦹🏾‍♀": {
-        "default": [
-          "supervillana",
-          "tono de piel oscuro medio"
-        ]
-      },
-      "🦹🏿‍♀": {
-        "default": [
-          "supervillana",
-          "tono de piel oscuro"
         ]
       },
       "🧚🏻": {
@@ -7548,49 +7320,196 @@
           "tono de piel oscuro"
         ]
       },
+      "🧎‍➡": {
+        "default": [
+          "arrodillarse",
+          "derecha",
+          "hacia",
+          "la",
+          "persona de rodillas",
+          "rodilla"
+        ]
+      },
+      "🧎🏻‍➡": {
+        "default": [
+          "arrodillarse",
+          "derecha",
+          "hacia",
+          "la",
+          "persona de rodillas",
+          "rodilla",
+          "tono de piel claro"
+        ]
+      },
+      "🧎🏼‍➡": {
+        "default": [
+          "arrodillarse",
+          "derecha",
+          "hacia",
+          "la",
+          "persona de rodillas",
+          "rodilla",
+          "tono de piel claro medio"
+        ]
+      },
+      "🧎🏽‍➡": {
+        "default": [
+          "arrodillarse",
+          "derecha",
+          "hacia",
+          "la",
+          "persona de rodillas",
+          "rodilla",
+          "tono de piel medio"
+        ]
+      },
+      "🧎🏾‍➡": {
+        "default": [
+          "arrodillarse",
+          "derecha",
+          "hacia",
+          "la",
+          "persona de rodillas",
+          "rodilla",
+          "tono de piel oscuro medio"
+        ]
+      },
+      "🧎🏿‍➡": {
+        "default": [
+          "arrodillarse",
+          "derecha",
+          "hacia",
+          "la",
+          "persona de rodillas",
+          "rodilla",
+          "tono de piel oscuro"
+        ]
+      },
       "🧑🏻‍🦯": {
         "default": [
-          "Persona con bastón blanco",
+          "accesibilidad",
+          "ciego",
+          "invidente",
+          "persona con bastón",
+          "persona con bastón blanco",
           "tono de piel claro"
-        ],
-        "tts": [
-          "Persona con bastón blanco: tono de piel claro"
         ]
       },
       "🧑🏼‍🦯": {
         "default": [
-          "Persona con bastón blanco",
+          "accesibilidad",
+          "ciego",
+          "invidente",
+          "persona con bastón",
+          "persona con bastón blanco",
           "tono de piel claro medio"
-        ],
-        "tts": [
-          "Persona con bastón blanco: tono de piel claro medio"
         ]
       },
       "🧑🏽‍🦯": {
         "default": [
-          "Persona con bastón blanco",
+          "accesibilidad",
+          "ciego",
+          "invidente",
+          "persona con bastón",
+          "persona con bastón blanco",
           "tono de piel medio"
-        ],
-        "tts": [
-          "Persona con bastón blanco: tono de piel medio"
         ]
       },
       "🧑🏾‍🦯": {
         "default": [
-          "Persona con bastón blanco",
+          "accesibilidad",
+          "ciego",
+          "invidente",
+          "persona con bastón",
+          "persona con bastón blanco",
           "tono de piel oscuro medio"
-        ],
-        "tts": [
-          "Persona con bastón blanco: tono de piel oscuro medio"
         ]
       },
       "🧑🏿‍🦯": {
         "default": [
-          "Persona con bastón blanco",
+          "accesibilidad",
+          "ciego",
+          "invidente",
+          "persona con bastón",
+          "persona con bastón blanco",
           "tono de piel oscuro"
-        ],
-        "tts": [
-          "Persona con bastón blanco: tono de piel oscuro"
+        ]
+      },
+      "🧑‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "persona con bastón",
+          "persona con bastón blanco"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "persona con bastón",
+          "persona con bastón blanco",
+          "tono de piel claro"
+        ]
+      },
+      "🧑🏼‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "persona con bastón",
+          "persona con bastón blanco",
+          "tono de piel claro medio"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "persona con bastón",
+          "persona con bastón blanco",
+          "tono de piel medio"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "persona con bastón",
+          "persona con bastón blanco",
+          "tono de piel oscuro medio"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "persona con bastón",
+          "persona con bastón blanco",
+          "tono de piel oscuro"
         ]
       },
       "👨🏻‍🦯": {
@@ -7658,6 +7577,101 @@
           "hombre con bastón blanco: tono de piel oscuro"
         ]
       },
+      "👨‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre con bastón blanco",
+          "invidente",
+          "la"
+        ],
+        "tts": [
+          "hombre con bastón blanco: hacia la derecha"
+        ]
+      },
+      "👨🏻‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre con bastón blanco",
+          "invidente",
+          "la",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "hombre con bastón blanco: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "👨🏼‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre con bastón blanco",
+          "invidente",
+          "la",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "hombre con bastón blanco: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "👨🏽‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre con bastón blanco",
+          "invidente",
+          "la",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "hombre con bastón blanco: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "👨🏾‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre con bastón blanco",
+          "invidente",
+          "la",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "hombre con bastón blanco: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "👨🏿‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre con bastón blanco",
+          "invidente",
+          "la",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "hombre con bastón blanco: tono de piel oscuro y hacia la derecha"
+        ]
+      },
       "👩🏻‍🦯": {
         "default": [
           "accesibilidad",
@@ -7723,33 +7737,258 @@
           "mujer con bastón blanco: tono de piel oscuro"
         ]
       },
-      "🧑🏻‍🦽": {
+      "👩‍🦯‍➡": {
         "default": [
-          "persona en silla de ruedas manual",
+          "accesibilidad",
+          "ciega",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "mujer",
+          "mujer con bastón blanco"
+        ],
+        "tts": [
+          "mujer con bastón blanco: hacia la derecha"
+        ]
+      },
+      "👩🏻‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciega",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "mujer",
+          "mujer con bastón blanco",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "mujer con bastón blanco: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "👩🏼‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciega",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "mujer",
+          "mujer con bastón blanco",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "mujer con bastón blanco: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "👩🏽‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciega",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "mujer",
+          "mujer con bastón blanco",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "mujer con bastón blanco: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "👩🏾‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciega",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "mujer",
+          "mujer con bastón blanco",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "mujer con bastón blanco: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "👩🏿‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciega",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "mujer",
+          "mujer con bastón blanco",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "mujer con bastón blanco: tono de piel oscuro y hacia la derecha"
+        ]
+      },
+      "🏃🏻": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "maratón",
+          "persona",
+          "persona corriendo",
           "tono de piel claro"
         ]
       },
-      "🧑🏼‍🦽": {
+      "🏃🏼": {
         "default": [
-          "persona en silla de ruedas manual",
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "maratón",
+          "persona",
+          "persona corriendo",
           "tono de piel claro medio"
         ]
       },
-      "🧑🏽‍🦽": {
+      "🏃🏽": {
         "default": [
-          "persona en silla de ruedas manual",
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "maratón",
+          "persona",
+          "persona corriendo",
           "tono de piel medio"
         ]
       },
-      "🧑🏾‍🦽": {
+      "🏃🏾": {
         "default": [
-          "persona en silla de ruedas manual",
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "maratón",
+          "persona",
+          "persona corriendo",
           "tono de piel oscuro medio"
         ]
       },
-      "🧑🏿‍🦽": {
+      "🏃🏿": {
         "default": [
-          "persona en silla de ruedas manual",
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "maratón",
+          "persona",
+          "persona corriendo",
+          "tono de piel oscuro"
+        ]
+      },
+      "🏃‍➡": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "persona",
+          "persona corriendo"
+        ]
+      },
+      "🏃🏻‍➡": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "persona",
+          "persona corriendo",
+          "tono de piel claro"
+        ]
+      },
+      "🏃🏼‍➡": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "persona",
+          "persona corriendo",
+          "tono de piel claro medio"
+        ]
+      },
+      "🏃🏽‍➡": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "persona",
+          "persona corriendo",
+          "tono de piel medio"
+        ]
+      },
+      "🏃🏾‍➡": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "persona",
+          "persona corriendo",
+          "tono de piel oscuro medio"
+        ]
+      },
+      "🏃🏿‍➡": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "persona",
+          "persona corriendo",
           "tono de piel oscuro"
         ]
       },
@@ -8019,9 +8258,6 @@
           "surf",
           "surfista",
           "tono de piel claro"
-        ],
-        "tts": [
-          "persona haciendo surf: tono de piel claro"
         ]
       },
       "🏄🏼": {
@@ -8030,9 +8266,6 @@
           "surf",
           "surfista",
           "tono de piel claro medio"
-        ],
-        "tts": [
-          "persona haciendo surf: tono de piel claro medio"
         ]
       },
       "🏄🏽": {
@@ -8041,9 +8274,6 @@
           "surf",
           "surfista",
           "tono de piel medio"
-        ],
-        "tts": [
-          "persona haciendo surf: tono de piel medio"
         ]
       },
       "🏄🏾": {
@@ -8052,9 +8282,6 @@
           "surf",
           "surfista",
           "tono de piel oscuro medio"
-        ],
-        "tts": [
-          "persona haciendo surf: tono de piel oscuro medio"
         ]
       },
       "🏄🏿": {
@@ -8063,9 +8290,6 @@
           "surf",
           "surfista",
           "tono de piel oscuro"
-        ],
-        "tts": [
-          "persona haciendo surf: tono de piel oscuro"
         ]
       },
       "🚣🏻": {
@@ -8075,9 +8299,6 @@
           "persona remando en un bote",
           "remo",
           "tono de piel claro"
-        ],
-        "tts": [
-          "persona remando en un bote: tono de piel claro"
         ]
       },
       "🚣🏼": {
@@ -8087,9 +8308,6 @@
           "persona remando en un bote",
           "remo",
           "tono de piel claro medio"
-        ],
-        "tts": [
-          "persona remando en un bote: tono de piel claro medio"
         ]
       },
       "🚣🏽": {
@@ -8099,9 +8317,6 @@
           "persona remando en un bote",
           "remo",
           "tono de piel medio"
-        ],
-        "tts": [
-          "persona remando en un bote: tono de piel medio"
         ]
       },
       "🚣🏾": {
@@ -8111,9 +8326,6 @@
           "persona remando en un bote",
           "remo",
           "tono de piel oscuro medio"
-        ],
-        "tts": [
-          "persona remando en un bote: tono de piel oscuro medio"
         ]
       },
       "🚣🏿": {
@@ -8123,9 +8335,6 @@
           "persona remando en un bote",
           "remo",
           "tono de piel oscuro"
-        ],
-        "tts": [
-          "persona remando en un bote: tono de piel oscuro"
         ]
       },
       "⛹🏻": {
@@ -8585,7 +8794,12 @@
       },
       "🧑🏻‍🤝‍🧑🏻": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro"
         ],
         "tts": [
@@ -8594,7 +8808,12 @@
       },
       "🧑🏻‍🤝‍🧑🏼": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro",
           "tono de piel claro medio"
         ],
@@ -8604,7 +8823,12 @@
       },
       "🧑🏻‍🤝‍🧑🏽": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro",
           "tono de piel medio"
         ],
@@ -8614,7 +8838,12 @@
       },
       "🧑🏻‍🤝‍🧑🏾": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro",
           "tono de piel oscuro medio"
         ],
@@ -8624,7 +8853,12 @@
       },
       "🧑🏻‍🤝‍🧑🏿": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro",
           "tono de piel oscuro"
         ],
@@ -8634,7 +8868,12 @@
       },
       "🧑🏼‍🤝‍🧑🏻": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro",
           "tono de piel claro medio"
         ],
@@ -8644,7 +8883,12 @@
       },
       "🧑🏼‍🤝‍🧑🏼": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro medio"
         ],
         "tts": [
@@ -8653,7 +8897,12 @@
       },
       "🧑🏼‍🤝‍🧑🏽": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro medio",
           "tono de piel medio"
         ],
@@ -8663,7 +8912,12 @@
       },
       "🧑🏼‍🤝‍🧑🏾": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro medio",
           "tono de piel oscuro medio"
         ],
@@ -8673,7 +8927,12 @@
       },
       "🧑🏼‍🤝‍🧑🏿": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro medio",
           "tono de piel oscuro"
         ],
@@ -8683,7 +8942,12 @@
       },
       "🧑🏽‍🤝‍🧑🏻": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro",
           "tono de piel medio"
         ],
@@ -8693,7 +8957,12 @@
       },
       "🧑🏽‍🤝‍🧑🏼": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro medio",
           "tono de piel medio"
         ],
@@ -8703,7 +8972,12 @@
       },
       "🧑🏽‍🤝‍🧑🏽": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel medio"
         ],
         "tts": [
@@ -8712,7 +8986,12 @@
       },
       "🧑🏽‍🤝‍🧑🏾": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel medio",
           "tono de piel oscuro medio"
         ],
@@ -8722,7 +9001,12 @@
       },
       "🧑🏽‍🤝‍🧑🏿": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel medio",
           "tono de piel oscuro"
         ],
@@ -8732,7 +9016,12 @@
       },
       "🧑🏾‍🤝‍🧑🏻": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro",
           "tono de piel oscuro medio"
         ],
@@ -8742,7 +9031,12 @@
       },
       "🧑🏾‍🤝‍🧑🏼": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro medio",
           "tono de piel oscuro medio"
         ],
@@ -8752,7 +9046,12 @@
       },
       "🧑🏾‍🤝‍🧑🏽": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel medio",
           "tono de piel oscuro medio"
         ],
@@ -8762,7 +9061,12 @@
       },
       "🧑🏾‍🤝‍🧑🏾": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel oscuro medio"
         ],
         "tts": [
@@ -8771,7 +9075,12 @@
       },
       "🧑🏾‍🤝‍🧑🏿": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel oscuro",
           "tono de piel oscuro medio"
         ],
@@ -8781,7 +9090,12 @@
       },
       "🧑🏿‍🤝‍🧑🏻": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro",
           "tono de piel oscuro"
         ],
@@ -8791,7 +9105,12 @@
       },
       "🧑🏿‍🤝‍🧑🏼": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel claro medio",
           "tono de piel oscuro"
         ],
@@ -8801,7 +9120,12 @@
       },
       "🧑🏿‍🤝‍🧑🏽": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel medio",
           "tono de piel oscuro"
         ],
@@ -8811,7 +9135,12 @@
       },
       "🧑🏿‍🤝‍🧑🏾": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel oscuro",
           "tono de piel oscuro medio"
         ],
@@ -8821,7 +9150,12 @@
       },
       "🧑🏿‍🤝‍🧑🏿": {
         "default": [
+          "mano",
+          "pareja",
+          "persona",
           "personas que se toman de la mano",
+          "tomadas de la mano",
+          "tomados de la mano",
           "tono de piel oscuro"
         ],
         "tts": [
@@ -10334,34 +10668,14 @@
           "bandera: Guernsey"
         ]
       },
-      "🇹🇦": {
-        "tts": [
-          "bandera: Tristán de Acuña"
-        ]
-      },
       "🇺🇲": {
         "tts": [
           "bandera: Islas menores alejadas de EE. UU."
         ]
       },
-      "৳": {
-        "tts": [
-          "taka bangladesí"
-        ]
-      },
       "฿": {
         "tts": [
           "bat"
-        ]
-      },
-      "₫": {
-        "tts": [
-          "dong vietnamita"
-        ]
-      },
-      "₭": {
-        "tts": [
-          "kip laosiano"
         ]
       },
       "0⃣": {

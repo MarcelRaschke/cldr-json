@@ -2,9 +2,6 @@
   "main": {
     "hsb": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "hsb"
       },
       "localeDisplayNames": {
@@ -160,6 +157,8 @@
           "IM": "Man",
           "IN": "Indiska",
           "IO": "Britiski teritorij w Indiskim oceanje",
+          "IO-alt-biot": "Britiski teritorij w Indiskim oceanje",
+          "IO-alt-chagos": "Chagoske kupy",
           "IQ": "Irak",
           "IR": "Iran",
           "IS": "Islandska",

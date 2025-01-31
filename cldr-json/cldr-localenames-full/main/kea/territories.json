@@ -2,9 +2,6 @@
   "main": {
     "kea": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "kea"
       },
       "localeDisplayNames": {
@@ -159,7 +156,6 @@
           "IL": "Israel",
           "IM": "Ilha di Man",
           "IN": "Índia",
-          "IO": "Ilhas Británikas di Índiku",
           "IQ": "Iraki",
           "IR": "Irãu",
           "IS": "Islándia",

@@ -2,9 +2,6 @@
   "main": {
     "eu": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "eu"
       },
       "localeDisplayNames": {

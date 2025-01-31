@@ -2,9 +2,6 @@
   "main": {
     "fo-DK": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "fo",
         "territory": "DK"
       },
@@ -95,6 +92,7 @@
           "CN": "Kina",
           "CO": "Kolombia",
           "CP": "Clipperton",
+          "CQ": "Sark",
           "CR": "Kosta Rika",
           "CU": "Kuba",
           "CV": "Grønhøvdaoyggjar",
@@ -161,6 +159,8 @@
           "IM": "Isle of Man",
           "IN": "India",
           "IO": "Stóra Bretlands Indiahavoyggjar",
+          "IO-alt-biot": "Stóra Bretlands Indiahavoyggjar",
+          "IO-alt-chagos": "Khagosoyggjar",
           "IQ": "Irak",
           "IR": "Iran",
           "IS": "Ísland",
@@ -227,7 +227,7 @@
           "NR": "Nauru",
           "NU": "Niue",
           "NZ": "Nýsæland",
-          "NZ-alt-variant": "Nýsæland",
+          "NZ-alt-variant": "Aotearoa Nýsæland",
           "OM": "Oman",
           "PA": "Panama",
           "PE": "Peru",

@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "es",
       "territory": "MX"
     },
@@ -913,10 +910,6 @@
         ]
       },
       "∣": {
-        "default": [
-          "divide",
-          "divisor"
-        ],
         "tts": [
           "divisor"
         ]
@@ -940,12 +933,6 @@
           "lógico y"
         ]
       },
-      "∫": {
-        "default": [
-          "cálculo",
-          "integral"
-        ]
-      },
       "∬": {
         "default": [
           "cálculo",
@@ -957,15 +944,6 @@
         "default": [
           "lógica",
           "por lo tanto"
-        ],
-        "tts": [
-          "por lo tanto"
-        ]
-      },
-      "∵": {
-        "default": [
-          "lógica",
-          "porque"
         ]
       },
       "∶": {
@@ -976,16 +954,11 @@
           "relación"
         ]
       },
-      "∷": {
-        "default": [
-          "proporción",
-          "proporcionalidad"
-        ]
-      },
       "∼": {
         "default": [
           "operador",
-          "operador de tilde"
+          "operador de tilde",
+          "operador de virgulilla"
         ]
       },
       "∽": {
@@ -1019,13 +992,6 @@
           "aproximadamente igual"
         ]
       },
-      "≌": {
-        "default": [
-          "igualdad",
-          "matemáticas",
-          "todo igual"
-        ]
-      },
       "≒": {
         "default": [
           "aproximadamente igual a la imagen"
@@ -1044,13 +1010,6 @@
           "anillo en igualdad"
         ]
       },
-      "≣": {
-        "default": [
-          "estrictamente equivalente",
-          "igualdad",
-          "matemáticas"
-        ]
-      },
       "≦": {
         "default": [
           "desigualdad",
@@ -1059,13 +1018,6 @@
         ],
         "tts": [
           "menos que sobre igual"
-        ]
-      },
-      "≧": {
-        "default": [
-          "desigualdad",
-          "matemáticas",
-          "mayor que sobre igual"
         ]
       },
       "≪": {
@@ -1278,12 +1230,6 @@
           "matriz cuadrada"
         ]
       },
-      "⊿": {
-        "default": [
-          "matemáticas",
-          "triángulo rectángulo"
-        ]
-      },
       "⋁": {
         "default": [
           "disyunción",
@@ -1450,39 +1396,12 @@
           "puntero hueco hacia la izquierda"
         ]
       },
-      "◆": {
-        "default": [
-          "rombo relleno"
-        ],
-        "tts": [
-          "rombo relleno"
-        ]
-      },
-      "◇": {
-        "default": [
-          "rombo hueco"
-        ],
-        "tts": [
-          "rombo hueco"
-        ]
-      },
-      "◈": {
-        "default": [
-          "rombo hueco con rombo relleno dentro"
-        ],
-        "tts": [
-          "rombo hueco con rombo relleno dentro"
-        ]
-      },
       "◉": {
         "default": [
           "círculo hueco con círculo relleno dentro",
           "círculos concéntricos",
           "ojo de pez",
           "punto en círculo"
-        ],
-        "tts": [
-          "círculo hueco con círculo relleno dentro"
         ]
       },
       "◎": {
@@ -1589,35 +1508,8 @@
           "arco circular en cuadrante inferior izquierdo"
         ]
       },
-      "◢": {
-        "default": [
-          "triángulo inferior derecho relleno"
-        ],
-        "tts": [
-          "triángulo inferior derecho relleno"
-        ]
-      },
-      "◣": {
-        "default": [
-          "triángulo inferior izquierdo relleno"
-        ],
-        "tts": [
-          "triángulo inferior izquierdo relleno"
-        ]
-      },
-      "◤": {
-        "default": [
-          "triángulo superior izquierdo relleno"
-        ],
-        "tts": [
-          "triángulo superior izquierdo relleno"
-        ]
-      },
       "◥": {
         "default": [
-          "triángulo superior derecho relleno"
-        ],
-        "tts": [
           "triángulo superior derecho relleno"
         ]
       },
@@ -1708,9 +1600,6 @@
           "contento",
           "divertido",
           "sonrisa"
-        ],
-        "tts": [
-          "cara sonriendo"
         ]
       },
       "😃": {
@@ -1720,9 +1609,6 @@
           "divertido",
           "risa",
           "sonrisa"
-        ],
-        "tts": [
-          "cara sonriendo con ojos grandes"
         ]
       },
       "😄": {
@@ -1732,9 +1618,6 @@
           "divertido",
           "risa",
           "sonrisa"
-        ],
-        "tts": [
-          "cara sonriendo con ojos sonrientes"
         ]
       },
       "😁": {
@@ -1744,18 +1627,12 @@
           "divertido",
           "risa",
           "sonrisa"
-        ],
-        "tts": [
-          "cara radiante con ojos sonrientes"
         ]
       },
       "😆": {
         "default": [
           "boca abierta",
           "cara",
-          "cara sonriendo con los ojos cerrados"
-        ],
-        "tts": [
           "cara sonriendo con los ojos cerrados"
         ]
       },
@@ -1766,9 +1643,6 @@
           "sonrisa",
           "sonrisa boca abierta",
           "sudor frío"
-        ],
-        "tts": [
-          "cara sonriendo con sudor frío"
         ]
       },
       "😂": {
@@ -1788,9 +1662,6 @@
           "cara",
           "cara sonriendo ligeramente",
           "sonrisa"
-        ],
-        "tts": [
-          "cara sonriendo ligeramente"
         ]
       },
       "😉": {
@@ -1798,9 +1669,6 @@
           "cara",
           "cara guiñando el ojo",
           "guiño"
-        ],
-        "tts": [
-          "cara guiñando el ojo"
         ]
       },
       "😊": {
@@ -1809,9 +1677,6 @@
           "cara feliz con ojos sonrientes",
           "ojos sonrientes",
           "sonrisa"
-        ],
-        "tts": [
-          "cara feliz con ojos sonrientes"
         ]
       },
       "🥰": {
@@ -1853,9 +1718,6 @@
           "cara besando con los ojos cerrados",
           "cerrados",
           "ojos"
-        ],
-        "tts": [
-          "cara besando con los ojos cerrados"
         ]
       },
       "😙": {
@@ -1885,9 +1747,6 @@
           "delicioso",
           "rico",
           "sonriente"
-        ],
-        "tts": [
-          "cara saboreando comida"
         ]
       },
       "🤪": {
@@ -1944,9 +1803,36 @@
           "mueca"
         ]
       },
+      "🙂‍↔": {
+        "default": [
+          "cabeza moviéndose horizontalmente",
+          "negando"
+        ],
+        "tts": [
+          "cabeza moviéndose horizontalmente"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "afirmando",
+          "asintiendo",
+          "cabeza moviéndose verticalmente"
+        ],
+        "tts": [
+          "cabeza moviéndose verticalmente"
+        ]
+      },
       "😔": {
         "default": [
           "cara desanimada"
+        ]
+      },
+      "🫩": {
+        "default": [
+          "agotado",
+          "cansado",
+          "cara con bolsas bajo los ojos",
+          "somnoliento"
         ]
       },
       "😷": {
@@ -1968,9 +1854,6 @@
           "dolor",
           "herido",
           "vendas"
-        ],
-        "tts": [
-          "cara con la cabeza vendada"
         ]
       },
       "🤧": {
@@ -1980,9 +1863,6 @@
           "estornudar",
           "estornudo",
           "resfrío"
-        ],
-        "tts": [
-          "cara estornudando"
         ]
       },
       "🥵": {
@@ -2029,9 +1909,6 @@
           "cara",
           "cara mareada",
           "mareado"
-        ],
-        "tts": [
-          "cara mareada"
         ]
       },
       "🥳": {
@@ -2075,6 +1952,7 @@
       "😮": {
         "default": [
           "cara con boca abierta",
+          "cara con la boca abierta",
           "empatía",
           "sorpresa"
         ]
@@ -2146,9 +2024,6 @@
           "llorar",
           "triste",
           "tristeza"
-        ],
-        "tts": [
-          "cara llorando"
         ]
       },
       "😱": {
@@ -2158,9 +2033,6 @@
           "horror",
           "miedo",
           "terror"
-        ],
-        "tts": [
-          "cara gritando de miedo"
         ]
       },
       "😣": {
@@ -2187,9 +2059,6 @@
           "cara agotada",
           "cara de cansancio",
           "exhausto"
-        ],
-        "tts": [
-          "cara agotada"
         ]
       },
       "😤": {
@@ -2200,9 +2069,6 @@
           "mirada de triunfo",
           "triunfo",
           "victoria"
-        ],
-        "tts": [
-          "cara resoplando"
         ]
       },
       "😡": {
@@ -2226,9 +2092,6 @@
           "cara enfadada",
           "enfadado",
           "enojo"
-        ],
-        "tts": [
-          "cara enfadada"
         ]
       },
       "🤬": {
@@ -2316,9 +2179,6 @@
           "cara",
           "extraterrestre",
           "ovni"
-        ],
-        "tts": [
-          "alienígena"
         ]
       },
       "👾": {
@@ -2327,9 +2187,6 @@
           "extraterrestre",
           "monstruo alienígena",
           "ovni"
-        ],
-        "tts": [
-          "monstruo alienígena"
         ]
       },
       "🤖": {
@@ -2481,9 +2338,6 @@
           "corazón con lazo",
           "emoción",
           "moño"
-        ],
-        "tts": [
-          "corazón con lazo"
         ]
       },
       "💗": {
@@ -2493,9 +2347,6 @@
           "corazón creciente",
           "emoción",
           "entusiasmado"
-        ],
-        "tts": [
-          "corazón creciente"
         ]
       },
       "💓": {
@@ -2505,9 +2356,6 @@
           "emoción",
           "latidos",
           "palpitar"
-        ],
-        "tts": [
-          "corazón latiendo"
         ]
       },
       "💞": {
@@ -2526,9 +2374,6 @@
         "default": [
           "adorno de corazón",
           "corazón"
-        ],
-        "tts": [
-          "adorno de corazón"
         ]
       },
       "💔": {
@@ -2564,12 +2409,6 @@
         ]
       },
       "🤎": {
-        "default": [
-          "corazón",
-          "corazón café",
-          "emoción",
-          "marrón"
-        ],
         "tts": [
           "corazón café"
         ]
@@ -2692,9 +2531,6 @@
           "dorso de la mano",
           "dorso de la mano alzado",
           "mano"
-        ],
-        "tts": [
-          "dorso de la mano"
         ]
       },
       "🖐": {
@@ -3119,9 +2955,6 @@
           "fruncido",
           "mujer",
           "mujer frunciendo el ceño"
-        ],
-        "tts": [
-          "mujer frunciendo el ceño"
         ]
       },
       "🙅": {
@@ -3133,9 +2966,6 @@
           "persona",
           "persona haciendo el gesto de \"no\"",
           "prohibido"
-        ],
-        "tts": [
-          "persona haciendo el gesto de \"no\""
         ]
       },
       "🙆": {
@@ -3144,9 +2974,6 @@
           "gesto",
           "ok",
           "persona gesto de \"de acuerdo\"",
-          "persona haciendo el gesto de \"de acuerdo\""
-        ],
-        "tts": [
           "persona haciendo el gesto de \"de acuerdo\""
         ]
       },
@@ -3476,15 +3303,12 @@
           "Navidad",
           "noel",
           "papá",
-          "Papá Noel",
-          "santa",
-          "Santa Claus"
+          "santa"
         ]
       },
       "🤶": {
         "default": [
           "mamá",
-          "mamá noel",
           "Mamá Noel",
           "Navidad",
           "señora Claus"
@@ -3681,7 +3505,33 @@
           "persona en silla de ruedas manual"
         ]
       },
+      "🏃": {
+        "default": [
+          "carrera",
+          "corredor",
+          "correr",
+          "deporte",
+          "deportista",
+          "hombre corriendo",
+          "maratón",
+          "maratonista",
+          "persona",
+          "persona corriendo"
+        ]
+      },
       "💃": {
+        "default": [
+          "bailar",
+          "bailarín",
+          "bailarina",
+          "baile",
+          "flamenca",
+          "flamenco",
+          "mujer",
+          "mujer bailando",
+          "persona",
+          "salsa"
+        ],
         "tts": [
           "bailarina"
         ]
@@ -3753,9 +3603,6 @@
       "🏌": {
         "default": [
           "persona jugando al golf"
-        ],
-        "tts": [
-          "persona jugando al golf"
         ]
       },
       "🏄": {
@@ -3764,9 +3611,6 @@
           "persona haciendo surf",
           "surf",
           "surfista"
-        ],
-        "tts": [
-          "persona haciendo surf"
         ]
       },
       "🚣‍♂": {
@@ -3872,6 +3716,20 @@
           "waterpolo"
         ]
       },
+      "🤾": {
+        "default": [
+          "atlético",
+          "balón",
+          "balonmano",
+          "deporte",
+          "handball",
+          "lanzamiento",
+          "mano",
+          "pelota",
+          "persona",
+          "persona jugando handball"
+        ]
+      },
       "🤹": {
         "default": [
           "malabarista"
@@ -3886,6 +3744,20 @@
         ],
         "tts": [
           "persona en tina"
+        ]
+      },
+      "🛌": {
+        "default": [
+          "a dormir",
+          "buenas noches",
+          "cama",
+          "cansancio",
+          "descansar",
+          "dormir",
+          "hotel",
+          "noche",
+          "persona",
+          "persona durmiendo"
         ]
       },
       "👭": {
@@ -4121,12 +3993,6 @@
           "mamut"
         ]
       },
-      "🦛": {
-        "default": [
-          "animal",
-          "hipopótamo"
-        ]
-      },
       "🐁": {
         "default": [
           "animal",
@@ -4256,6 +4122,19 @@
           "perico"
         ]
       },
+      "🐦‍⬛": {
+        "default": [
+          "ave negra"
+        ],
+        "tts": [
+          "ave negra"
+        ]
+      },
+      "🐦‍🔥": {
+        "default": [
+          "fénix"
+        ]
+      },
       "🐊": {
         "default": [
           "animal",
@@ -4332,6 +4211,46 @@
         ],
         "tts": [
           "caracol marino"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "animal",
+          "cáncer",
+          "cangrejo",
+          "crustáceo",
+          "mariscos"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "bisque",
+          "langosta",
+          "mariscos",
+          "pinzas"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "camarón",
+          "comida",
+          "langostino",
+          "mariscos"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "calamar",
+          "comida",
+          "mariscos"
+        ]
+      },
+      "🦪": {
+        "default": [
+          "ostión"
+        ],
+        "tts": [
+          "ostión"
         ]
       },
       "🐌": {
@@ -4434,9 +4353,6 @@
           "loto",
           "lotus",
           "pureza"
-        ],
-        "tts": [
-          "loto"
         ]
       },
       "🌹": {
@@ -4492,6 +4408,14 @@
           "maple"
         ]
       },
+      "🪾": {
+        "default": [
+          "árbol sin hojas",
+          "árido",
+          "invierno",
+          "sequía"
+        ]
+      },
       "🍈": {
         "default": [
           "fruta",
@@ -4511,6 +4435,11 @@
           "cítrico",
           "fruta",
           "mandarina"
+        ]
+      },
+      "🍋‍🟩": {
+        "default": [
+          "lima"
         ]
       },
       "🍌": {
@@ -4613,6 +4542,26 @@
           "planta"
         ]
       },
+      "🍄‍🟫": {
+        "default": [
+          "hongo marrón"
+        ],
+        "tts": [
+          "hongo marrón"
+        ]
+      },
+      "🫜": {
+        "default": [
+          "huerto",
+          "nabo",
+          "raíz",
+          "remolacha",
+          "verdura"
+        ],
+        "tts": [
+          "vegetal de raíz"
+        ]
+      },
       "🍞": {
         "default": [
           "barra de pan",
@@ -4685,6 +4634,20 @@
         "default": [
           "comida",
           "papas fritas"
+        ]
+      },
+      "🍕": {
+        "default": [
+          "comer",
+          "comida",
+          "hambre",
+          "italia",
+          "peperoni",
+          "pizza",
+          "porción",
+          "porción de pizza",
+          "queso",
+          "restaurante"
         ]
       },
       "🌭": {
@@ -4831,49 +4794,6 @@
           "recipiente para llevar"
         ]
       },
-      "🦀": {
-        "default": [
-          "animal",
-          "cáncer",
-          "cangrejo",
-          "crustáceo",
-          "mariscos"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "bisque",
-          "langosta",
-          "mariscos",
-          "pinzas"
-        ],
-        "tts": [
-          "langosta"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "camarón",
-          "comida",
-          "langostino",
-          "mariscos"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "calamar",
-          "comida",
-          "mariscos"
-        ]
-      },
-      "🦪": {
-        "default": [
-          "ostión"
-        ],
-        "tts": [
-          "ostión"
-        ]
-      },
       "🍦": {
         "default": [
           "helado en barquillo"
@@ -4901,16 +4821,10 @@
       "🎂": {
         "default": [
           "pastel de cumpleaños"
-        ],
-        "tts": [
-          "pastel de cumpleaños"
         ]
       },
       "🍰": {
         "default": [
-          "rebanada de pastel"
-        ],
-        "tts": [
           "rebanada de pastel"
         ]
       },
@@ -5328,9 +5242,6 @@
       "🛵": {
         "default": [
           "motoneta"
-        ],
-        "tts": [
-          "motoneta"
         ]
       },
       "🛴": {
@@ -5627,6 +5538,20 @@
           "Navidad"
         ]
       },
+      "🧨": {
+        "default": [
+          "boom",
+          "chispa",
+          "dinamita",
+          "explosión",
+          "explosivo",
+          "fuego",
+          "fuegos artificiales",
+          "juegos pirotécnicos",
+          "luz",
+          "petardo"
+        ]
+      },
       "✨": {
         "default": [
           "*",
@@ -5900,6 +5825,20 @@
           "muñecas rusas"
         ]
       },
+      "♣": {
+        "default": [
+          "carta",
+          "cartas",
+          "casino",
+          "juego",
+          "juegos",
+          "naipes",
+          "palo",
+          "palo de trébol",
+          "palos",
+          "trébol"
+        ]
+      },
       "♟": {
         "default": [
           "ajedrez",
@@ -5961,9 +5900,6 @@
           "lentes de sol",
           "lentes oscuros",
           "sol"
-        ],
-        "tts": [
-          "lentes de sol"
         ]
       },
       "🥽": {
@@ -6319,6 +6255,16 @@
           "tamboril"
         ]
       },
+      "🪉": {
+        "default": [
+          "amor",
+          "arpa",
+          "cupido",
+          "instrumento",
+          "música",
+          "orquesta"
+        ]
+      },
       "📲": {
         "default": [
           "flecha apuntado a teléfono celular"
@@ -6383,9 +6329,6 @@
       },
       "💡": {
         "default": [
-          "foco"
-        ],
-        "tts": [
           "foco"
         ]
       },
@@ -6546,9 +6489,6 @@
       "🗑": {
         "default": [
           "papelera"
-        ],
-        "tts": [
-          "papelera"
         ]
       },
       "💣": {
@@ -6580,6 +6520,12 @@
           "invidente"
         ]
       },
+      "⛓‍💥": {
+        "default": [
+          "cadena rota",
+          "rompiendo cadena"
+        ]
+      },
       "🪝": {
         "default": [
           "gancho"
@@ -6591,6 +6537,13 @@
           "cofre",
           "herramienta",
           "mecánico"
+        ]
+      },
+      "🪏": {
+        "default": [
+          "agujero",
+          "cavar",
+          "pala"
         ]
       },
       "🧫": {
@@ -6737,14 +6690,6 @@
         ],
         "tts": [
           "broche de seguridad"
-        ]
-      },
-      "🧹": {
-        "default": [
-          "barrer",
-          "bruja",
-          "escoba",
-          "limpiar"
         ]
       },
       "🧺": {
@@ -7123,9 +7068,18 @@
           "tache"
         ]
       },
-      "❇": {
+      "❎": {
         "default": [
-          "chispa"
+          "×",
+          "botón con marca de cruz",
+          "casilla",
+          "cruz con recuadro",
+          "equis",
+          "marca de tachar",
+          "verde",
+          "x",
+          "X",
+          "X en un recuadro"
         ]
       },
       "©": {
@@ -7154,6 +7108,15 @@
       "™": {
         "tts": [
           "marca registrada"
+        ]
+      },
+      "🫟": {
+        "default": [
+          "derrame",
+          "holi",
+          "mancha",
+          "pintura",
+          "salpicadura"
         ]
       },
       "🈷": {
@@ -7223,9 +7186,6 @@
           "flor",
           "pétalo de flor",
           "rombo con pétalo"
-        ],
-        "tts": [
-          "diamante azul pequeño"
         ]
       },
       "💠": {

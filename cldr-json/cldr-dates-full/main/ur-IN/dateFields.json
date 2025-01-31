@@ -2,9 +2,6 @@
   "main": {
     "ur-IN": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ur",
         "territory": "IN"
       },
@@ -14,10 +11,10 @@
             "displayName": "دور"
           },
           "era-short": {
-            "displayName": "عہد"
+            "displayName": "دور"
           },
           "era-narrow": {
-            "displayName": "عہد"
+            "displayName": "دور"
           },
           "year": {
             "displayName": "سال",
@@ -54,11 +51,11 @@
             "relative-type-1": "اگلے سال",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} سال میں",
-              "relativeTimePattern-count-other": "{0} سال میں"
+              "relativeTimePattern-count-other": "{0} سالوں میں"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} سال پہلے",
-              "relativeTimePattern-count-other": "{0} سال پہلے"
+              "relativeTimePattern-count-other": "{0} سالوں پہلے"
             }
           },
           "quarter": {
@@ -239,7 +236,7 @@
             "relative-type-1": "آئندہ کل",
             "relative-type-2": "آنے والا پرسوں",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} دن میں",
+              "relativeTimePattern-count-one": "{0} دنوں میں",
               "relativeTimePattern-count-other": "{0} دنوں میں"
             },
             "relativeTime-type-past": {
@@ -327,9 +324,9 @@
             }
           },
           "mon-short": {
-            "relative-type--1": "گزشتہ پیر",
-            "relative-type-0": "اس پیر",
-            "relative-type-1": "اگلے پیر",
+            "relative-type--1": "پچھلے سوموار",
+            "relative-type-0": "اس سوموار",
+            "relative-type-1": "اگلے سوموار",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} پیر میں",
               "relativeTimePattern-count-other": "{0} پیر میں"
@@ -340,9 +337,9 @@
             }
           },
           "mon-narrow": {
-            "relative-type--1": "گزشتہ پیر",
-            "relative-type-0": "اس پیر",
-            "relative-type-1": "اگلے پیر",
+            "relative-type--1": "پچھلے سوموار",
+            "relative-type-0": "اس سوموار",
+            "relative-type-1": "اگلے سوموار",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} پیر میں",
               "relativeTimePattern-count-other": "{0} پیر میں"
@@ -366,7 +363,7 @@
             }
           },
           "tue-short": {
-            "relative-type--1": "گزشتہ منگل",
+            "relative-type--1": "پچھلے منگل",
             "relative-type-0": "اس منگل",
             "relative-type-1": "اگلے منگل",
             "relativeTime-type-future": {
@@ -379,7 +376,7 @@
             }
           },
           "tue-narrow": {
-            "relative-type--1": "گزشتہ منگل",
+            "relative-type--1": "پچھلے منگل",
             "relative-type-0": "اس منگل",
             "relative-type-1": "اگلے منگل",
             "relativeTime-type-future": {
@@ -405,7 +402,7 @@
             }
           },
           "wed-short": {
-            "relative-type--1": "گزشتہ بدھ",
+            "relative-type--1": "پچھلے بدھ",
             "relative-type-0": "اس بدھ",
             "relative-type-1": "اگلے بدھ",
             "relativeTime-type-future": {
@@ -418,7 +415,7 @@
             }
           },
           "wed-narrow": {
-            "relative-type--1": "گزشتہ بدھ",
+            "relative-type--1": "پچھلے بدھ",
             "relative-type-0": "اس بدھ",
             "relative-type-1": "اگلے بدھ",
             "relativeTime-type-future": {
@@ -444,7 +441,7 @@
             }
           },
           "thu-short": {
-            "relative-type--1": "گزشتہ جمعرات",
+            "relative-type--1": "پچھلے جمعرات",
             "relative-type-0": "اس جمعرات",
             "relative-type-1": "اگلے جمعرات",
             "relativeTime-type-future": {
@@ -483,7 +480,7 @@
             }
           },
           "fri-short": {
-            "relative-type--1": "گزشتہ جمعہ",
+            "relative-type--1": "پچھلے جمعہ",
             "relative-type-0": "اس جمعہ",
             "relative-type-1": "اگلے جمعہ",
             "relativeTime-type-future": {
@@ -496,7 +493,7 @@
             }
           },
           "fri-narrow": {
-            "relative-type--1": "گزشتہ جمعہ",
+            "relative-type--1": "پچھلے جمعہ",
             "relative-type-0": "اس جمعہ",
             "relative-type-1": "اگلے جمعہ",
             "relativeTime-type-future": {

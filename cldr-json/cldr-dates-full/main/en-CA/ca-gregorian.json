@@ -2,9 +2,6 @@
   "main": {
     "en-CA": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "en",
         "territory": "CA"
       },
@@ -275,7 +272,7 @@
                 },
                 "narrow": {
                   "midnight": "mid",
-                  "am": "a.m.",
+                  "am": "am",
                   "am-alt-variant": "am",
                   "noon": "noon",
                   "pm": "pm",
@@ -301,8 +298,8 @@
             },
             "eras": {
               "eraNames": {
-                "0": "before Christ",
-                "0-alt-variant": "before Common Era",
+                "0": "Before Christ",
+                "0-alt-variant": "Before Common Era",
                 "1": "Anno Domini",
                 "1-alt-variant": "Common Era"
               },
@@ -323,7 +320,7 @@
               "full": "EEEE, MMMM d, y",
               "long": "MMMM d, y",
               "medium": "MMM d, y",
-              "short": "M/d/yy",
+              "short": "y-MM-dd",
               "short-alt-variant": "d/M/yy"
             },
             "dateSkeletons": {
@@ -334,9 +331,13 @@
             },
             "timeFormats": {
               "full": "h:mm:ss a zzzz",
+              "full-alt-ascii": "h:mm:ss a zzzz",
               "long": "h:mm:ss a z",
+              "long-alt-ascii": "h:mm:ss a z",
               "medium": "h:mm:ss a",
-              "short": "h:mm a"
+              "medium-alt-ascii": "h:mm:ss a",
+              "short": "h:mm a",
+              "short-alt-ascii": "h:mm a"
             },
             "timeSkeletons": {
               "full": "ahmmsszzzz",
@@ -359,8 +360,10 @@
                 "EBhms": "E h:mm:ss B",
                 "Ed": "E d",
                 "Ehm": "E h:mm a",
+                "Ehm-alt-ascii": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
+                "Ehms-alt-ascii": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
                 "Gy": "y G",
                 "GyMd": "M/d/y G",
@@ -368,21 +371,26 @@
                 "GyMMMd": "MMM d, y G",
                 "GyMMMEd": "E, MMM d, y G",
                 "h": "h a",
+                "h-alt-ascii": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
+                "hm-alt-ascii": "h:mm a",
                 "Hm": "HH:mm",
                 "hms": "h:mm:ss a",
+                "hms-alt-ascii": "h:mm:ss a",
                 "Hms": "HH:mm:ss",
                 "hmsv": "h:mm:ss a v",
+                "hmsv-alt-ascii": "h:mm:ss a v",
                 "Hmsv": "HH:mm:ss v",
                 "hmv": "h:mm a v",
+                "hmv-alt-ascii": "h:mm a v",
                 "Hmv": "HH:mm v",
                 "M": "L",
-                "Md": "M/d",
+                "Md": "MM-dd",
                 "Md-alt-variant": "d/M",
-                "MEd": "E, M/d",
+                "MEd": "E, MM-dd",
                 "MEd-alt-variant": "E, d/M",
-                "MMdd": "MM/dd",
+                "MMdd": "MM-dd",
                 "MMdd-alt-variant": "dd/MM",
                 "MMM": "LLL",
                 "MMMd": "MMM d",
@@ -392,10 +400,10 @@
                 "MMMMW-count-other": "'week' W 'of' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
-                "yM": "M/y",
-                "yMd": "M/d/y",
+                "yM": "y-MM",
+                "yMd": "y-MM-dd",
                 "yMd-alt-variant": "d/M/y",
-                "yMEd": "E, M/d/y",
+                "yMEd": "E, y-MM-dd",
                 "yMEd-alt-variant": "E, d/M/y",
                 "yMMM": "MMM y",
                 "yMMMd": "MMM d, y",

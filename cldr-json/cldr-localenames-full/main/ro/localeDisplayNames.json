@@ -2,9 +2,6 @@
   "main": {
     "ro": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ro"
       },
       "localeDisplayNames": {
@@ -12,6 +9,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Anglia",
+          "gbsct": "Scoția",
+          "gbwls": "Țara Galilor"
         },
         "keys": {
           "calendar": "tip calendar",
@@ -44,11 +46,9 @@
             "gregorian": "calendar gregorian",
             "hebrew": "calendar ebraic",
             "indian": "calendar național indian",
-            "islamic": "calendar islamic",
-            "islamic-civil": "calendar islamic civil",
-            "islamic-rgsa": "calendar islamic (Arabia Saudită, lunar)",
-            "islamic-tbla": "calendar islamic (tabular, epocă astronomică)",
-            "islamic-umalqura": "calendar islamic (Umm al-Qura)",
+            "islamic": "calendarul hegirei",
+            "islamic-civil": "calendarul hegirei (tabular, civil)",
+            "islamic-umalqura": "calendarul hegirei (Umm al-Qura)",
             "iso8601": "calendar ISO-8601",
             "japanese": "calendar japonez",
             "persian": "calendar persan",
@@ -86,7 +86,6 @@
             "phonebook": "ordine de sortare după cartea de telefon",
             "phonetic": "ordine de sortare fonetică",
             "pinyin": "ordine de sortare pinyin",
-            "reformed": "ordine de sortare reformată",
             "search": "căutare cu scop general",
             "searchjl": "Căutați în funcție de consoana inițială hangul",
             "standard": "ordine de sortare standard",

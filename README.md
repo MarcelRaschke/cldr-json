@@ -9,7 +9,7 @@ Although XML (not JSON) is the "official" format for all CLDR data, this data is
 corresponding XML, using the CLDR tooling.
 
 This JSON data is generated using only data that has achieved
-`draft="contributed"` or `draft="approved"` status in the CLDR. This is the same threshhold
+`draft="contributed"` or `draft="approved"` status in the CLDR. This is the same threshold
 as is used by the [ICU](https://icu.unicode.org) (International Components for Unicode).
 
 See [UPDATING.md](./UPDATING.md) for details on building or customizing this data yourself.
@@ -22,12 +22,10 @@ which use this data.
 ## Package Organization
 
 Because the CLDR is so large and contains so many different types of information, the JSON data
-here is grouped into packages by functionality. For each type of functionality, there are two
-available packages: The "modern" packages, which contain the set of locales listed as modern
-coverage targets by the CLDR subcomittee, and the "full" packages, which contain the complete
-set of locales, including those in the corresponding modern packages.
+here is grouped into packages by functionality.
 
-See [PACKAGES.md](./PACKAGES.md) for the full package list.
+See [PACKAGES.md](./PACKAGES.md) for the full package list and details of each package.
+
 ## Downloading
 ### Tagged Releases
 
@@ -51,15 +49,10 @@ Installation using [npm](https://www.npmjs.com):
 CLDR does not use Github's issue tracking system to track bugs.  If you find an error in
 the data contained here, please file a new ticket at [Unicode Jira](https://unicode-org.atlassian.net/projects/CLDR/issues)
 
-## Licenses
+### Copyright & Licenses
 
-- Usage of CLDR data and software is governed by the [Unicode Terms of Use](http://www.unicode.org/copyright.html)
-a copy of which is included as [unicode-license.txt](./unicode-license.txt).
+Copyright © 2015-2024 Unicode, Inc. Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the United States and other countries.
 
-SPDX-License-Identifier: Unicode-DFS-2016
+A CLA is required to contribute to this project - please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file (or start a Pull Request) for more information.
 
-## Copyright
-
-Copyright &copy; 1991-2021 Unicode, Inc.
-All rights reserved.
-[Terms of use](http://www.unicode.org/copyright.html)
+The contents of this repository are governed by the Unicode [Terms of Use](https://www.unicode.org/copyright.html) and are released under [LICENSE](./LICENSE).

@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "is"
     },
     "annotations": {
@@ -72,6 +69,9 @@
       "‾": {
         "default": [
           "lína",
+          "yfirstrik"
+        ],
+        "tts": [
           "yfirstrik"
         ]
       },
@@ -250,6 +250,14 @@
         ],
         "tts": [
           "arabískt spurningarmerki"
+        ]
+      },
+      "‽": {
+        "default": [
+          "hrópspurningarmerki"
+        ],
+        "tts": [
+          "hrópspurningarmerki"
         ]
       },
       ".": {
@@ -864,6 +872,14 @@
           "ör sem vísar til vinstri"
         ]
       },
+      "↚": {
+        "default": [
+          "ör til vinstri með striki"
+        ],
+        "tts": [
+          "ör til vinstri með striki"
+        ]
+      },
       "→": {
         "default": [
           "hægri",
@@ -872,6 +888,14 @@
         ],
         "tts": [
           "ör sem vísar til hægri"
+        ]
+      },
+      "↛": {
+        "default": [
+          "ör til hægri með striki"
+        ],
+        "tts": [
+          "ör til hægri með striki"
         ]
       },
       "↑": {
@@ -912,11 +936,10 @@
       },
       "↞": {
         "default": [
-          "tvihöfða ör til vinstri",
           "tvíhöfða ör til vinstri"
         ],
         "tts": [
-          "tvihöfða ör til vinstri"
+          "tvíhöfða ör til vinstri"
         ]
       },
       "↟": {
@@ -957,6 +980,62 @@
         ],
         "tts": [
           "örvarendi til hægri"
+        ]
+      },
+      "↤": {
+        "default": [
+          "ör til vinstri frá rönd"
+        ],
+        "tts": [
+          "ör til vinstri frá rönd"
+        ]
+      },
+      "↥": {
+        "default": [
+          "ör upp á við frá rönd"
+        ],
+        "tts": [
+          "ör upp á við frá rönd"
+        ]
+      },
+      "↦": {
+        "default": [
+          "ör til hægri frá rönd"
+        ],
+        "tts": [
+          "ör til hægri frá rönd"
+        ]
+      },
+      "↧": {
+        "default": [
+          "ör niður á við frá rönd"
+        ],
+        "tts": [
+          "ör niður á við frá rönd"
+        ]
+      },
+      "↨": {
+        "default": [
+          "ör upp niður með grunni"
+        ],
+        "tts": [
+          "ör upp niður með grunni"
+        ]
+      },
+      "↫": {
+        "default": [
+          "ör til vinstri með lykkju"
+        ],
+        "tts": [
+          "ör til vinstri með lykkju"
+        ]
+      },
+      "↬": {
+        "default": [
+          "ör til hægri með lykkju"
+        ],
+        "tts": [
+          "ör til hægri með lykkju"
         ]
       },
       "↭": {
@@ -1006,6 +1085,61 @@
         ],
         "tts": [
           "örvaroddur niður á við til hægri"
+        ]
+      },
+      "↴": {
+        "default": [
+          "ör til hægri með beygju niður á við"
+        ],
+        "tts": [
+          "ör til hægri með beygju niður á við"
+        ]
+      },
+      "↵": {
+        "default": [
+          "ör niður á við með beygju tl vinstri"
+        ],
+        "tts": [
+          "ör niður á við með beygju tl vinstri"
+        ]
+      },
+      "↶": {
+        "default": [
+          "ör uppi í hálfhring rangsælis"
+        ],
+        "tts": [
+          "ör uppi í hálfhring rangsælis"
+        ]
+      },
+      "↷": {
+        "default": [
+          "ör uppi í hálfhring réttsælis"
+        ],
+        "tts": [
+          "ör uppi í hálfhring réttsælis"
+        ]
+      },
+      "↸": {
+        "default": [
+          "átt",
+          "norðvestur",
+          "ör",
+          "ör ská upp til vinstri að rönd"
+        ],
+        "tts": [
+          "ör ská upp til vinstri að rönd"
+        ]
+      },
+      "↹": {
+        "default": [
+          "ör",
+          "örvar að striki vinstri yfir hægri",
+          "strik",
+          "til hægri",
+          "til vinstri"
+        ],
+        "tts": [
+          "örvar að striki vinstri yfir hægri"
         ]
       },
       "↺": {
@@ -1136,25 +1270,23 @@
       },
       "⇈": {
         "default": [
-          "örvapar upp á við",
-          "örvarpar upp á við"
+          "örvapar upp á við"
         ],
         "tts": [
-          "örvarpar upp á við"
+          "örvapar upp á við"
         ]
       },
       "⇉": {
         "default": [
-          "örvarpar til hægri"
+          "örvapar til hægri"
         ],
         "tts": [
-          "örvarpar til hægri"
+          "örvapar til hægri"
         ]
       },
       "⇊": {
         "default": [
-          "örvapar niður á við",
-          "örvarpar niður á við"
+          "örvapar niður á við"
         ],
         "tts": [
           "örvapar niður á við"
@@ -1184,6 +1316,14 @@
           "tvöföld ör til vinstri"
         ]
       },
+      "⇍": {
+        "default": [
+          "tvístrikuð ör til vinstri"
+        ],
+        "tts": [
+          "tvístrikuð ör til vinstri"
+        ]
+      },
       "⇑": {
         "default": [
           "tvöföld ör upp á við"
@@ -1200,6 +1340,14 @@
           "tvöföld ör til hægri"
         ]
       },
+      "⇏": {
+        "default": [
+          "tvístrikuð ör til hægri"
+        ],
+        "tts": [
+          "tvístrikuð ör til hægri"
+        ]
+      },
       "⇓": {
         "default": [
           "tvöföld ör niður á við"
@@ -1214,6 +1362,14 @@
         ],
         "tts": [
           "tvöföld ör vinstri hægri"
+        ]
+      },
+      "⇎": {
+        "default": [
+          "tvístrikuð ör vinstri hægri"
+        ],
+        "tts": [
+          "tvístrikuð ör vinstri hægri"
         ]
       },
       "⇖": {
@@ -1296,6 +1452,54 @@
           "tvístrikuð ör niður á við"
         ]
       },
+      "⇠": {
+        "default": [
+          "punktalínuör til vinstri"
+        ],
+        "tts": [
+          "punktalínuör til vinstri"
+        ]
+      },
+      "⇡": {
+        "default": [
+          "punktalínuör upp á við"
+        ],
+        "tts": [
+          "punktalínuör upp á við"
+        ]
+      },
+      "⇢": {
+        "default": [
+          "punktalínuör til hægri"
+        ],
+        "tts": [
+          "punktalínuör til hægri"
+        ]
+      },
+      "⇣": {
+        "default": [
+          "punktalínuör niður á við"
+        ],
+        "tts": [
+          "punktalínuör niður á við"
+        ]
+      },
+      "⇤": {
+        "default": [
+          "ör að striki til vinstri"
+        ],
+        "tts": [
+          "ör að striki til vinstri"
+        ]
+      },
+      "⇥": {
+        "default": [
+          "ör að striki til hægri"
+        ],
+        "tts": [
+          "ör að striki til hægri"
+        ]
+      },
       "⇦": {
         "default": [
           "hol ör til vinstri"
@@ -1328,12 +1532,51 @@
           "hol ör niður á við"
         ]
       },
+      "⇪": {
+        "default": [
+          "hol ör upp á við frá rönd"
+        ],
+        "tts": [
+          "hol ör upp á við frá rönd"
+        ]
+      },
       "⇵": {
         "default": [
           "ör niður á við vinstra megin við ör upp á við"
         ],
         "tts": [
           "ör niður á við vinstra megin við ör upp á við"
+        ]
+      },
+      "∀": {
+        "default": [
+          "að gefnu",
+          "algildi",
+          "allt",
+          "fyrir allt",
+          "öll"
+        ],
+        "tts": [
+          "algildi"
+        ]
+      },
+      "∂": {
+        "default": [
+          "afleiða",
+          "hlutafleiða"
+        ],
+        "tts": [
+          "hlutafleiða"
+        ]
+      },
+      "∃": {
+        "default": [
+          "er til",
+          "til er",
+          "tilvist"
+        ],
+        "tts": [
+          "tilvist"
         ]
       },
       "∅": {
@@ -1388,6 +1631,21 @@
       "∋": {
         "default": [
           "stak"
+        ],
+        "tts": [
+          "stak"
+        ]
+      },
+      "∎": {
+        "default": [
+          "endanleg sönnun",
+          "halmos",
+          "legsteinn",
+          "q.e.d.",
+          "qed"
+        ],
+        "tts": [
+          "endanleg sönnun"
         ]
       },
       "∏": {
@@ -1584,11 +1842,28 @@
       },
       "∗": {
         "default": [
-          "stjarna"
+          "stjarna",
+          "stjörnuvirki"
+        ],
+        "tts": [
+          "stjörnuvirki"
+        ]
+      },
+      "∘": {
+        "default": [
+          "hringvirkir",
+          "samsetning",
+          "virkir"
+        ],
+        "tts": [
+          "hringvirkir"
         ]
       },
       "∙": {
         "default": [
+          "virkir"
+        ],
+        "tts": [
           "virkir"
         ]
       },
@@ -1607,7 +1882,11 @@
       },
       "∝": {
         "default": [
-          "hlutfallsleiki"
+          "hlutfallsleiki",
+          "hlutfallsmerki"
+        ],
+        "tts": [
+          "hlutfallsmerki"
         ]
       },
       "∞": {
@@ -1639,6 +1918,9 @@
       "∣": {
         "default": [
           "deilir"
+        ],
+        "tts": [
+          "deilir"
         ]
       },
       "∥": {
@@ -1647,6 +1929,16 @@
         ],
         "tts": [
           "samsíða"
+        ]
+      },
+      "∧": {
+        "default": [
+          "og",
+          "og-röktákn",
+          "röktákn"
+        ],
+        "tts": [
+          "og-röktákn"
         ]
       },
       "∩": {
@@ -1723,6 +2015,9 @@
       "∷": {
         "default": [
           "hlutfallsleiki"
+        ],
+        "tts": [
+          "hlutfallsleiki"
         ]
       },
       "∼": {
@@ -1743,6 +2038,36 @@
           "öfug tilda"
         ]
       },
+      "∾": {
+        "default": [
+          "öfugt s á hlið"
+        ],
+        "tts": [
+          "öfugt s á hlið"
+        ]
+      },
+      "≃": {
+        "default": [
+          "stærðfræði",
+          "um það bil",
+          "undirstrikuð bugða"
+        ],
+        "tts": [
+          "undirstrikuð bugða"
+        ]
+      },
+      "≅": {
+        "default": [
+          "einslögun",
+          "jafngildi",
+          "samsvörun",
+          "stærðfræði",
+          "tvíundirstrikuð bugða"
+        ],
+        "tts": [
+          "tvíundirstrikuð bugða"
+        ]
+      },
       "≈": {
         "default": [
           "næstum jafnt",
@@ -1756,13 +2081,29 @@
       "≌": {
         "default": [
           "jöfnuður",
+          "öll jöfn",
           "stærðfræði"
+        ],
+        "tts": [
+          "öll jöfn"
+        ]
+      },
+      "≒": {
+        "default": [
+          "næstum jafnt eða gildi"
+        ],
+        "tts": [
+          "næstum jafnt eða gildi"
         ]
       },
       "≖": {
         "default": [
+          "hringur í jafnaðarmerki",
           "jöfnuður",
           "stærðfræði"
+        ],
+        "tts": [
+          "hringur í jafnaðarmerki"
         ]
       },
       "≡": {
@@ -1778,8 +2119,12 @@
       },
       "≣": {
         "default": [
+          "aljafnaðarmerki",
           "jöfnuður",
           "stærðfræði"
+        ],
+        "tts": [
+          "aljafnaðarmerki"
         ]
       },
       "≤": {
@@ -1838,8 +2183,8 @@
       },
       "≫": {
         "default": [
-          "´ójöfnuður",
           "miklu stærra en",
+          "ójöfnuður",
           "stærðfræði"
         ],
         "tts": [
@@ -1907,13 +2252,31 @@
       "⊃": {
         "default": [
           "mengjavirkir",
+          "stærðfræði",
+          "yfirmengistákn"
+        ],
+        "tts": [
+          "yfirmengistákn"
+        ]
+      },
+      "⊆": {
+        "default": [
+          "hlutmengisjafnaðartákn",
+          "mengjavirkir",
           "stærðfræði"
+        ],
+        "tts": [
+          "hlutmengisjafnaðartákn"
         ]
       },
       "⊇": {
         "default": [
           "jöfnuður",
-          "stærðfræði"
+          "stærðfræði",
+          "yfirmengisjafnaðartákn"
+        ],
+        "tts": [
+          "yfirmengisjafnaðartákn"
         ]
       },
       "⊕": {
@@ -1927,22 +2290,148 @@
       },
       "⊖": {
         "default": [
-          "mínus í hring"
+          "mínus í hring",
+          "samhverfur mismunur",
+          "upplausn"
         ],
         "tts": [
           "mínus í hring"
         ]
       },
+      "⊗": {
+        "default": [
+          "margfeldi",
+          "margföldun í hring",
+          "þinill"
+        ],
+        "tts": [
+          "margföldun í hring"
+        ]
+      },
+      "⊘": {
+        "default": [
+          "deiling",
+          "deilingarskástrik í hring",
+          "stærðfræði"
+        ],
+        "tts": [
+          "deilingarskástrik í hring"
+        ]
+      },
+      "⊙": {
+        "default": [
+          "depill í hring virki",
+          "virki",
+          "XNOR"
+        ],
+        "tts": [
+          "depill í hring virki"
+        ]
+      },
+      "⊚": {
+        "default": [
+          "hringur í hring virki"
+        ],
+        "tts": [
+          "hringur í hring virki"
+        ]
+      },
+      "⊛": {
+        "default": [
+          "stjarna",
+          "stjarna í hring virki",
+          "virki"
+        ],
+        "tts": [
+          "stjarna í hring virki"
+        ]
+      },
+      "⊞": {
+        "default": [
+          "plús í ferningi",
+          "samlagning",
+          "stærðfræði"
+        ],
+        "tts": [
+          "plús í ferningi"
+        ]
+      },
+      "⊟": {
+        "default": [
+          "frádráttur",
+          "mínus í ferningi",
+          "stærðfræði"
+        ],
+        "tts": [
+          "mínus í ferningi"
+        ]
+      },
+      "⊥": {
+        "default": [
+          "hornrétt á",
+          "stærðfræði"
+        ],
+        "tts": [
+          "hornrétt á"
+        ]
+      },
+      "⊮": {
+        "default": [
+          "stærðfræði",
+          "þvingar ekki"
+        ],
+        "tts": [
+          "þvingar ekki"
+        ]
+      },
       "⊰": {
         "default": [
+          "kemur á undan í venslum",
           "mengjavirkir",
           "stærðfræði"
+        ],
+        "tts": [
+          "kemur á undan í venslum"
         ]
       },
       "⊱": {
         "default": [
+          "kemur á eftir í venslum",
           "mengjavirkir",
           "stærðfræði"
+        ],
+        "tts": [
+          "kemur á eftir í venslum"
+        ]
+      },
+      "⋭": {
+        "default": [
+          "grúpufræði",
+          "inniheldur ekki sem normleg hlutgrúpa eða jafnt",
+          "stærðfræði"
+        ],
+        "tts": [
+          "inniheldur ekki sem normleg hlutgrúpa eða jafnt"
+        ]
+      },
+      "⊶": {
+        "default": [
+          "raðfræði",
+          "upprunaleg"
+        ],
+        "tts": [
+          "upprunaleg"
+        ]
+      },
+      "⊹": {
+        "default": [
+          "ferningsfylki",
+          "hermískt samoka fylki",
+          "sjálfoka fylki",
+          "stærðfræði"
+        ],
+        "tts": [
+          "hermískt samoka fylki"
         ]
       },
       "⊿": {
@@ -1955,6 +2444,16 @@
           "réttur þríhyrningur"
         ]
       },
+      "⋁": {
+        "default": [
+          "eðun",
+          "n-unda-eða-röktákn",
+          "rökfræði"
+        ],
+        "tts": [
+          "n-unda-eða-röktákn"
+        ]
+      },
       "⋂": {
         "default": [
           "mengjavirkir",
@@ -1964,6 +2463,17 @@
         ],
         "tts": [
           "n-unda-sniðmengi"
+        ]
+      },
+      "⋃": {
+        "default": [
+          "mengjavirkir",
+          "n-unda-sammengi",
+          "sammengi",
+          "stærðfræði"
+        ],
+        "tts": [
+          "n-unda-sammengi"
         ]
       },
       "⋅": {
@@ -1982,6 +2492,26 @@
         ],
         "tts": [
           "stjörnuvirkir"
+        ]
+      },
+      "⋈": {
+        "default": [
+          "eðlileg töflutenging",
+          "tvístæður virkir"
+        ],
+        "tts": [
+          "eðlileg töflutenging"
+        ]
+      },
+      "⋒": {
+        "default": [
+          "mengjavirkir",
+          "sniðmengi",
+          "stærðfræði",
+          "tvöfalt sniðmengi"
+        ],
+        "tts": [
+          "tvöfalt sniðmengi"
         ]
       },
       "⋘": {
@@ -2016,19 +2546,31 @@
       },
       "⋯": {
         "default": [
+          "lárétt úrfellingarmerki á miðlínu",
           "úrfellingarmerki"
+        ],
+        "tts": [
+          "lárétt úrfellingarmerki á miðlínu"
         ]
       },
       "⋰": {
         "default": [
           "stærðfræði",
-          "úrfellingarmerki"
+          "úrfellingarmerki",
+          "úrfellingarmerki á ská upp hægri"
+        ],
+        "tts": [
+          "úrfellingarmerki á ská upp hægri"
         ]
       },
       "⋱": {
         "default": [
           "stærðfræði",
-          "úrfellingarmerki"
+          "úrfellingarmerki",
+          "úrfellingarmerki á ská niður hægri"
+        ],
+        "tts": [
+          "úrfellingarmerki á ská niður hægri"
         ]
       },
       "■": {
@@ -2079,6 +2621,38 @@
           "ferningur með lóðréttri fyllingu"
         ]
       },
+      "▦": {
+        "default": [
+          "ferningur fylltur með hornréttum krossstrikum"
+        ],
+        "tts": [
+          "ferningur fylltur með hornréttum krossstrikum"
+        ]
+      },
+      "▧": {
+        "default": [
+          "ferningur fylltur efra vinstri neðra hægri"
+        ],
+        "tts": [
+          "ferningur fylltur efra vinstri neðra hægri"
+        ]
+      },
+      "▨": {
+        "default": [
+          "ferningur fylltur efra hægri neðra vinstri"
+        ],
+        "tts": [
+          "ferningur fylltur efra hægri neðra vinstri"
+        ]
+      },
+      "▩": {
+        "default": [
+          "ferningur fylltur krossstrikum á ská"
+        ],
+        "tts": [
+          "ferningur fylltur krossstrikum á ská"
+        ]
+      },
       "▬": {
         "default": [
           "fylltur rétthyrningur"
@@ -2105,11 +2679,10 @@
       },
       "▰": {
         "default": [
-          "fylltur sams´íðungur",
           "fylltur samsíðungur"
         ],
         "tts": [
-          "fylltur sams´íðungur"
+          "fylltur samsíðungur"
         ]
       },
       "▲": {
@@ -2332,6 +2905,16 @@
           "hringur með lóðréttri fyllingu"
         ]
       },
+      "◎": {
+        "default": [
+          "sammiðja hringir",
+          "skotmark",
+          "tvöfaldur hringur"
+        ],
+        "tts": [
+          "sammiðja hringir"
+        ]
+      },
       "●": {
         "default": [
           "fylltur hringflötur",
@@ -2381,6 +2964,14 @@
           "fylltur efri fjórðungsbogi hrings til hægri"
         ]
       },
+      "◕": {
+        "default": [
+          "hringur fylltur fyrir utan efri vinstri fjórðung"
+        ],
+        "tts": [
+          "hringur fylltur fyrir utan efri vinstri fjórðung"
+        ]
+      },
       "◖": {
         "default": [
           "fylltur vinstri helmingur hrings"
@@ -2395,6 +2986,55 @@
         ],
         "tts": [
           "fylltur hægri helmingur hrings"
+        ]
+      },
+      "◘": {
+        "default": [
+          "öfugur merkill"
+        ],
+        "tts": [
+          "öfugur merkill"
+        ]
+      },
+      "◙": {
+        "default": [
+          "holur hringur í fylltum ferningi",
+          "öfugur holur hringur"
+        ],
+        "tts": [
+          "holur hringur í fylltum ferningi"
+        ]
+      },
+      "◜": {
+        "default": [
+          "hringbogi í efri vinstri fjórðungi"
+        ],
+        "tts": [
+          "hringbogi í efri vinstri fjórðungi"
+        ]
+      },
+      "◝": {
+        "default": [
+          "hringbogi í efri hægri fjórðungi"
+        ],
+        "tts": [
+          "hringbogi í efri hægri fjórðungi"
+        ]
+      },
+      "◞": {
+        "default": [
+          "hringbogi í neðri hægri fjórðungi"
+        ],
+        "tts": [
+          "hringbogi í neðri hægri fjórðungi"
+        ]
+      },
+      "◟": {
+        "default": [
+          "hringbogi í neðri vinstri fjórðungi"
+        ],
+        "tts": [
+          "hringbogi í neðri vinstri fjórðungi"
         ]
       },
       "◠": {
@@ -2431,7 +3071,6 @@
       },
       "◤": {
         "default": [
-          "fylltu efri þríhyrningur til vinstri",
           "fylltur efri þríhyrningur til vinstri"
         ],
         "tts": [
@@ -2499,10 +3138,70 @@
           "áttundapartsnóta"
         ]
       },
+      "⨧": {
+        "default": [
+          "plús og hnéletrað tveir"
+        ],
+        "tts": [
+          "plús og hnéletrað tveir"
+        ]
+      },
+      "⨯": {
+        "default": [
+          "krossfeldi"
+        ],
+        "tts": [
+          "krossfeldi"
+        ]
+      },
+      "⨼": {
+        "default": [
+          "innfeldi"
+        ],
+        "tts": [
+          "innfeldi"
+        ]
+      },
+      "⩣": {
+        "default": [
+          "röklegt eða tvöfalt undirstrik"
+        ],
+        "tts": [
+          "röklegt eða tvöfalt undirstrik"
+        ]
+      },
+      "⩽": {
+        "default": [
+          "minna en eða jafnt og hallandi"
+        ],
+        "tts": [
+          "minna en eða jafnt og hallandi"
+        ]
+      },
+      "⪍": {
+        "default": [
+          "minna en fyrir ofan svipað eða jafnt"
+        ],
+        "tts": [
+          "minna en fyrir ofan svipað eða jafnt"
+        ]
+      },
       "⪚": {
         "default": [
+          "jafnt eða meira en með tvöfaldri línu",
           "ójöfnuður",
           "stærðfræði"
+        ],
+        "tts": [
+          "jafnt eða meira en með tvöfaldri línu"
+        ]
+      },
+      "⪺": {
+        "default": [
+          "kemur á eftir fyrir ofan ekki næstum jafnt"
+        ],
+        "tts": [
+          "kemur á eftir fyrir ofan ekki næstum jafnt"
         ]
       },
       "♭": {
@@ -3093,6 +3792,26 @@
           "skjálfandi andlit"
         ]
       },
+      "🙂‍↔": {
+        "default": [
+          "hrista höfuð",
+          "hristir höfuðið lárétt",
+          "nei"
+        ],
+        "tts": [
+          "hristir höfuðið lárétt"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "hristir höfuðið lóðrétt",
+          "já",
+          "kinka kolli"
+        ],
+        "tts": [
+          "hristir höfuðið lóðrétt"
+        ]
+      },
       "😌": {
         "default": [
           "andlit",
@@ -3140,6 +3859,18 @@
         ],
         "tts": [
           "sofandi"
+        ]
+      },
+      "🫩": {
+        "default": [
+          "andlit með poka undir augum",
+          "örþreyttur",
+          "syfjaður",
+          "úrvinda",
+          "þreyttur"
+        ],
+        "tts": [
+          "andlit með poka undir augum"
         ]
       },
       "😷": {
@@ -6487,7 +7218,8 @@
       "🧑‍🎄": {
         "default": [
           "frú sveinki",
-          "Sveinki, jól"
+          "jól",
+          "Sveinki"
         ],
         "tts": [
           "frú sveinki"
@@ -7761,18 +8493,6 @@
           "par"
         ]
       },
-      "👪": {
-        "default": [
-          "barn",
-          "faðir",
-          "fjölskylda",
-          "fólk",
-          "móðir"
-        ],
-        "tts": [
-          "fjölskylda"
-        ]
-      },
       "🗣": {
         "default": [
           "andlit",
@@ -7819,6 +8539,60 @@
           "fólk að faðmast"
         ]
       },
+      "👪": {
+        "default": [
+          "barn",
+          "faðir",
+          "fjölskylda",
+          "fólk",
+          "móðir"
+        ],
+        "tts": [
+          "fjölskylda"
+        ]
+      },
+      "🧑‍🧑‍🧒": {
+        "default": [
+          "barn",
+          "fjölskylda: fullorðinn",
+          "fjölskylda: fullorðinn, fullorðinn, barn",
+          "fullorðinn"
+        ],
+        "tts": [
+          "fjölskylda: fullorðinn, fullorðinn, barn"
+        ]
+      },
+      "🧑‍🧑‍🧒‍🧒": {
+        "default": [
+          "barn",
+          "fjölskylda: fullorðinn",
+          "fjölskylda: fullorðinn, fullorðinn, barn, barn",
+          "fullorðinn"
+        ],
+        "tts": [
+          "fjölskylda: fullorðinn, fullorðinn, barn, barn"
+        ]
+      },
+      "🧑‍🧒": {
+        "default": [
+          "barn",
+          "fjölskylda: fullorðinn",
+          "fjölskylda: fullorðinn, barn"
+        ],
+        "tts": [
+          "fjölskylda: fullorðinn, barn"
+        ]
+      },
+      "🧑‍🧒‍🧒": {
+        "default": [
+          "barn",
+          "fjölskylda: fullorðinn",
+          "fjölskylda: fullorðinn, barn, barn"
+        ],
+        "tts": [
+          "fjölskylda: fullorðinn, barn, barn"
+        ]
+      },
       "👣": {
         "default": [
           "fótspor",
@@ -7828,6 +8602,17 @@
         ],
         "tts": [
           "fótspor"
+        ]
+      },
+      "🫆": {
+        "default": [
+          "auðkenni",
+          "fingrafar",
+          "öryggi",
+          "réttarrannsókn"
+        ],
+        "tts": [
+          "fingrafar"
         ]
       },
       "🦰": {
@@ -8718,6 +9503,19 @@
           "vængur"
         ]
       },
+      "🐦‍⬛": {
+        "default": [
+          "fugl",
+          "hrafn",
+          "kráka",
+          "krummi",
+          "svart",
+          "svartur"
+        ],
+        "tts": [
+          "svartur fugl"
+        ]
+      },
       "🪿": {
         "default": [
           "gæs",
@@ -8727,6 +9525,18 @@
         ],
         "tts": [
           "gæs"
+        ]
+      },
+      "🐦‍🔥": {
+        "default": [
+          "eldfugl",
+          "endurfæðing",
+          "endurholdgun",
+          "fantasía",
+          "fönix"
+        ],
+        "tts": [
+          "fönix"
         ]
       },
       "🐸": {
@@ -8923,6 +9733,56 @@
         ],
         "tts": [
           "marglytta"
+        ]
+      },
+      "🦀": {
+        "default": [
+          "krabbi",
+          "stjörnumerki"
+        ],
+        "tts": [
+          "krabbi"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "bisque",
+          "humar",
+          "klær",
+          "matarmikil súpa",
+          "sjávarfang"
+        ],
+        "tts": [
+          "humar"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "rækja",
+          "sjávardýr",
+          "skelfiskur"
+        ],
+        "tts": [
+          "rækja"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "sjávardýr",
+          "smokkfiskur"
+        ],
+        "tts": [
+          "smokkfiskur"
+        ]
+      },
+      "🦪": {
+        "default": [
+          "köfun",
+          "ostra",
+          "perla"
+        ],
+        "tts": [
+          "ostra"
         ]
       },
       "🐌": {
@@ -9372,6 +10232,18 @@
           "sveppur"
         ]
       },
+      "🪾": {
+        "default": [
+          "blaðlaust tré",
+          "nakið",
+          "ólaufgað",
+          "vetur",
+          "þurrkur"
+        ],
+        "tts": [
+          "blaðlaust tré"
+        ]
+      },
       "🍇": {
         "default": [
           "ávöxtur",
@@ -9418,6 +10290,18 @@
         ],
         "tts": [
           "sítróna"
+        ]
+      },
+      "🍋‍🟩": {
+        "default": [
+          "ávöxtur",
+          "hitabeltis",
+          "límóna",
+          "sítrus",
+          "súraldin"
+        ],
+        "tts": [
+          "límóna"
         ]
       },
       "🍌": {
@@ -9725,6 +10609,29 @@
           "baunabelgur"
         ]
       },
+      "🍄‍🟫": {
+        "default": [
+          "brúnn sveppur",
+          "grænmeti",
+          "matur",
+          "náttúra"
+        ],
+        "tts": [
+          "brúnn sveppur"
+        ]
+      },
+      "🫜": {
+        "default": [
+          "garður",
+          "grænmeti",
+          "næpa",
+          "rófa",
+          "rót"
+        ],
+        "tts": [
+          "rótargrænmeti"
+        ]
+      },
       "🍞": {
         "default": [
           "brauð",
@@ -9744,7 +10651,7 @@
           "snúður"
         ],
         "tts": [
-          "Croissant"
+          "smjördeigshorn"
         ]
       },
       "🥖": {
@@ -10248,56 +11155,6 @@
         ],
         "tts": [
           "takeaway-box"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "krabbi",
-          "stjörnumerki"
-        ],
-        "tts": [
-          "krabbi"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "bisque",
-          "humar",
-          "klær",
-          "matarmikil súpa",
-          "sjávarfang"
-        ],
-        "tts": [
-          "humar"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "rækja",
-          "sjávardýr",
-          "skelfiskur"
-        ],
-        "tts": [
-          "rækja"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "sjávardýr",
-          "smokkfiskur"
-        ],
-        "tts": [
-          "smokkfiskur"
-        ]
-      },
-      "🦪": {
-        "default": [
-          "köfun",
-          "ostra",
-          "perla"
-        ],
-        "tts": [
-          "ostra"
         ]
       },
       "🍦": {
@@ -13111,7 +13968,6 @@
           "borði",
           "fagnaður",
           "japanskt",
-          "tanabata-tré",
           "Tanabata-tré",
           "tré"
         ],
@@ -13575,7 +14431,6 @@
       },
       "🛷": {
         "default": [
-          "sleði",
           "Sleði"
         ],
         "tts": [
@@ -14742,6 +15597,19 @@
         ],
         "tts": [
           "flauta"
+        ]
+      },
+      "🪉": {
+        "default": [
+          "amor",
+          "ást",
+          "harpa",
+          "hljóðfæri",
+          "hljómsveit",
+          "tónlist"
+        ],
+        "tts": [
+          "harpa"
         ]
       },
       "📱": {
@@ -16098,6 +16966,20 @@
           "tenglamerki"
         ]
       },
+      "⛓‍💥": {
+        "default": [
+          "brjóta",
+          "fjötrar",
+          "frelsi",
+          "hlekkir",
+          "keðja",
+          "slíta",
+          "slitin keðja"
+        ],
+        "tts": [
+          "slitin keðja"
+        ]
+      },
       "⛓": {
         "default": [
           "keðja"
@@ -16149,6 +17031,18 @@
         ],
         "tts": [
           "stigi"
+        ]
+      },
+      "🪏": {
+        "default": [
+          "grafa",
+          "hola",
+          "malarskófla",
+          "moka",
+          "skófla"
+        ],
+        "tts": [
+          "skófla"
         ]
       },
       "⚗": {
@@ -16688,8 +17582,10 @@
       },
       "🚮": {
         "default": [
+          "merki",
           "merki, rusl í ruslatunnu",
           "rusl",
+          "rusl í ruslatunnu",
           "ruslafata"
         ],
         "tts": [
@@ -17051,6 +17947,14 @@
         ],
         "tts": [
           "ör til vinstri og hægri"
+        ]
+      },
+      "↮": {
+        "default": [
+          "ör vinstri hægri með striki"
+        ],
+        "tts": [
+          "ör vinstri hægri með striki"
         ]
       },
       "↩": {
@@ -18140,6 +19044,18 @@
           "skrásett vörumerki"
         ]
       },
+      "🫟": {
+        "default": [
+          "blettur",
+          "holi",
+          "klessa",
+          "málning",
+          "sletta"
+        ],
+        "tts": [
+          "sletta"
+        ]
+      },
       "🔠": {
         "default": [
           "hástafir",
@@ -18371,7 +19287,9 @@
         "default": [
           "hér",
           "japanska",
+          "kassi",
           "katakana",
+          "katakana koko",
           "katakana koko, kassi"
         ],
         "tts": [
@@ -18381,7 +19299,9 @@
       "🈂": {
         "default": [
           "japanska",
+          "kassi",
           "katakana",
+          "katakana sa",
           "katakana sa, kassi",
           "þjónustugjald"
         ],
@@ -18392,6 +19312,7 @@
       "🈷": {
         "default": [
           "japanska",
+          "kassi",
           "mánaðarleg upphæð",
           "mánaðarleg upphæð, kassi",
           "myndletur"
@@ -19019,6 +19940,16 @@
           "jen"
         ]
       },
+      "₢": {
+        "default": [
+          "BRB",
+          "cruzeiro",
+          "gjaldmiðill"
+        ],
+        "tts": [
+          "cruzeiro"
+        ]
+      },
       "₣": {
         "default": [
           "franki",
@@ -19067,6 +19998,17 @@
           "evra"
         ]
       },
+      "₰": {
+        "default": [
+          "gjaldmiðill",
+          "pfennig",
+          "þýskt penní",
+          "þýskt pfennig"
+        ],
+        "tts": [
+          "þýskt pfennig"
+        ]
+      },
       "₱": {
         "default": [
           "pesi"
@@ -19077,20 +20019,30 @@
       },
       "₳": {
         "default": [
-          "suðlægur"
+          "ARA",
+          "austral",
+          "gjaldmiðill"
         ],
         "tts": [
-          "suðlægur"
+          "austral"
         ]
       },
       "₶": {
         "default": [
-          "gjaldmiðill"
+          "gjaldmiðill",
+          "livre tournois"
+        ],
+        "tts": [
+          "livre tournois"
         ]
       },
       "₷": {
         "default": [
-          "gjaldmiðill"
+          "gjaldmiðill",
+          "spesmilo"
+        ],
+        "tts": [
+          "spesmilo"
         ]
       },
       "₹": {
@@ -19119,20 +20071,6 @@
         ],
         "tts": [
           "bitcoin"
-        ]
-      },
-      "₨": {
-        "default": [
-          "gjaldmiðill",
-          "rúpía"
-        ],
-        "tts": [
-          "rúpía"
-        ]
-      },
-      "﷼": {
-        "default": [
-          "gjaldmiðill"
         ]
       },
       "¹": {
@@ -19164,6 +20102,15 @@
           "brjóstletur þrír"
         ]
       },
+      "₨": {
+        "default": [
+          "gjaldmiðill",
+          "rúpía"
+        ],
+        "tts": [
+          "rúpía"
+        ]
+      },
       "µ": {
         "default": [
           "mál",
@@ -19171,6 +20118,15 @@
         ],
         "tts": [
           "míkró-merki"
+        ]
+      },
+      "﷼": {
+        "default": [
+          "gjaldmiðill",
+          "ríal"
+        ],
+        "tts": [
+          "ríal"
         ]
       }
     }

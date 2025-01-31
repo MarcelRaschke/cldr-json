@@ -2,9 +2,6 @@
   "main": {
     "oc-ES": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "oc",
         "territory": "ES"
       },

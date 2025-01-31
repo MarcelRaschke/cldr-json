@@ -2,9 +2,6 @@
   "main": {
     "he": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "he"
       },
       "localeDisplayNames": {
@@ -81,7 +78,6 @@
           "Jpan": "יפני",
           "Kali": "קאי לי",
           "Kana": "קטקאנה",
-          "Kawi": "Kawi",
           "Khar": "חרושתי",
           "Khmr": "חמרי",
           "Khoj": "חוג׳קי",
@@ -117,7 +113,6 @@
           "Mtei": "מאיטי מאייק",
           "Mult": "מולטיני",
           "Mymr": "מיאנמר",
-          "Nagm": "Nagm",
           "Nand": "ננדינאגרי",
           "Narb": "ערב צפון עתיק",
           "Nbat": "נבטי",

@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "es"
     },
     "annotations": {
@@ -829,12 +826,11 @@
       },
       "🫷🏻": {
         "default": [
+          "a la izquierda",
           "choca esos cinco",
           "detener",
           "empujar",
-          "hacia la izquierda",
           "mano empujando hacia la izquierda",
-          "parar",
           "rechazar",
           "stop",
           "tono de piel claro"
@@ -845,12 +841,11 @@
       },
       "🫷🏼": {
         "default": [
+          "a la izquierda",
           "choca esos cinco",
           "detener",
           "empujar",
-          "hacia la izquierda",
           "mano empujando hacia la izquierda",
-          "parar",
           "rechazar",
           "stop",
           "tono de piel claro medio"
@@ -861,12 +856,11 @@
       },
       "🫷🏽": {
         "default": [
+          "a la izquierda",
           "choca esos cinco",
           "detener",
           "empujar",
-          "hacia la izquierda",
           "mano empujando hacia la izquierda",
-          "parar",
           "rechazar",
           "stop",
           "tono de piel medio"
@@ -877,12 +871,11 @@
       },
       "🫷🏾": {
         "default": [
+          "a la izquierda",
           "choca esos cinco",
           "detener",
           "empujar",
-          "hacia la izquierda",
           "mano empujando hacia la izquierda",
-          "parar",
           "rechazar",
           "stop",
           "tono de piel oscuro medio"
@@ -893,12 +886,11 @@
       },
       "🫷🏿": {
         "default": [
+          "a la izquierda",
           "choca esos cinco",
           "detener",
           "empujar",
-          "hacia la izquierda",
           "mano empujando hacia la izquierda",
-          "parar",
           "rechazar",
           "stop",
           "tono de piel oscuro"
@@ -909,12 +901,11 @@
       },
       "🫸🏻": {
         "default": [
+          "a la derecha",
           "choca esos cinco",
           "detener",
           "empujar",
-          "hacia la derecha",
           "mano empujando hacia la derecha",
-          "parar",
           "rechazar",
           "stop",
           "tono de piel claro"
@@ -925,12 +916,11 @@
       },
       "🫸🏼": {
         "default": [
+          "a la derecha",
           "choca esos cinco",
           "detener",
           "empujar",
-          "hacia la derecha",
           "mano empujando hacia la derecha",
-          "parar",
           "rechazar",
           "stop",
           "tono de piel claro medio"
@@ -941,12 +931,11 @@
       },
       "🫸🏽": {
         "default": [
+          "a la derecha",
           "choca esos cinco",
           "detener",
           "empujar",
-          "hacia la derecha",
           "mano empujando hacia la derecha",
-          "parar",
           "rechazar",
           "stop",
           "tono de piel medio"
@@ -957,12 +946,11 @@
       },
       "🫸🏾": {
         "default": [
+          "a la derecha",
           "choca esos cinco",
           "detener",
           "empujar",
-          "hacia la derecha",
           "mano empujando hacia la derecha",
-          "parar",
           "rechazar",
           "stop",
           "tono de piel oscuro medio"
@@ -973,12 +961,11 @@
       },
       "🫸🏿": {
         "default": [
+          "a la derecha",
           "choca esos cinco",
           "detener",
           "empujar",
-          "hacia la derecha",
           "mano empujando hacia la derecha",
-          "parar",
           "rechazar",
           "stop",
           "tono de piel oscuro"
@@ -14875,8 +14862,12 @@
         "default": [
           "celebración",
           "claus",
+          "cuento",
+          "fantasía",
+          "feliz",
+          "fiestas",
           "Navidad",
-          "papá noel",
+          "padre",
           "Papá Noel",
           "santa",
           "tono de piel claro"
@@ -14889,8 +14880,12 @@
         "default": [
           "celebración",
           "claus",
+          "cuento",
+          "fantasía",
+          "feliz",
+          "fiestas",
           "Navidad",
-          "papá noel",
+          "padre",
           "Papá Noel",
           "santa",
           "tono de piel claro medio"
@@ -14903,8 +14898,12 @@
         "default": [
           "celebración",
           "claus",
+          "cuento",
+          "fantasía",
+          "feliz",
+          "fiestas",
           "Navidad",
-          "papá noel",
+          "padre",
           "Papá Noel",
           "santa",
           "tono de piel medio"
@@ -14917,8 +14916,12 @@
         "default": [
           "celebración",
           "claus",
+          "cuento",
+          "fantasía",
+          "feliz",
+          "fiestas",
           "Navidad",
-          "papá noel",
+          "padre",
           "Papá Noel",
           "santa",
           "tono de piel oscuro medio"
@@ -14931,8 +14934,12 @@
         "default": [
           "celebración",
           "claus",
+          "cuento",
+          "fantasía",
+          "feliz",
+          "fiestas",
           "Navidad",
-          "papá noel",
+          "padre",
           "Papá Noel",
           "santa",
           "tono de piel oscuro"
@@ -14943,11 +14950,16 @@
       },
       "🤶🏻": {
         "default": [
-          "abuela",
-          "mamá",
+          "celebración",
+          "claus",
+          "cuento",
+          "fantasía",
+          "feliz",
+          "fiestas",
+          "madre",
           "Mamá Noel",
           "Navidad",
-          "noel",
+          "santa",
           "tono de piel claro"
         ],
         "tts": [
@@ -14956,11 +14968,16 @@
       },
       "🤶🏼": {
         "default": [
-          "abuela",
-          "mamá",
+          "celebración",
+          "claus",
+          "cuento",
+          "fantasía",
+          "feliz",
+          "fiestas",
+          "madre",
           "Mamá Noel",
           "Navidad",
-          "noel",
+          "santa",
           "tono de piel claro medio"
         ],
         "tts": [
@@ -14969,11 +14986,16 @@
       },
       "🤶🏽": {
         "default": [
-          "abuela",
-          "mamá",
+          "celebración",
+          "claus",
+          "cuento",
+          "fantasía",
+          "feliz",
+          "fiestas",
+          "madre",
           "Mamá Noel",
           "Navidad",
-          "noel",
+          "santa",
           "tono de piel medio"
         ],
         "tts": [
@@ -14982,11 +15004,16 @@
       },
       "🤶🏾": {
         "default": [
-          "abuela",
-          "mamá",
+          "celebración",
+          "claus",
+          "cuento",
+          "fantasía",
+          "feliz",
+          "fiestas",
+          "madre",
           "Mamá Noel",
           "Navidad",
-          "noel",
+          "santa",
           "tono de piel oscuro medio"
         ],
         "tts": [
@@ -14995,11 +15022,16 @@
       },
       "🤶🏿": {
         "default": [
-          "abuela",
-          "mamá",
+          "celebración",
+          "claus",
+          "cuento",
+          "fantasía",
+          "feliz",
+          "fiestas",
+          "madre",
           "Mamá Noel",
           "Navidad",
-          "noel",
+          "santa",
           "tono de piel oscuro"
         ],
         "tts": [
@@ -15008,9 +15040,15 @@
       },
       "🧑🏻‍🎄": {
         "default": [
+          "celebración",
+          "claus",
+          "cuento",
+          "fantasía",
+          "feliz",
+          "fiestas",
           "Navidad",
-          "noel",
           "Noel",
+          "santa",
           "tono de piel claro"
         ],
         "tts": [
@@ -15019,9 +15057,15 @@
       },
       "🧑🏼‍🎄": {
         "default": [
+          "celebración",
+          "claus",
+          "cuento",
+          "fantasía",
+          "feliz",
+          "fiestas",
           "Navidad",
-          "noel",
           "Noel",
+          "santa",
           "tono de piel claro medio"
         ],
         "tts": [
@@ -15030,9 +15074,15 @@
       },
       "🧑🏽‍🎄": {
         "default": [
+          "celebración",
+          "claus",
+          "cuento",
+          "fantasía",
+          "feliz",
+          "fiestas",
           "Navidad",
-          "noel",
           "Noel",
+          "santa",
           "tono de piel medio"
         ],
         "tts": [
@@ -15041,9 +15091,15 @@
       },
       "🧑🏾‍🎄": {
         "default": [
+          "celebración",
+          "claus",
+          "cuento",
+          "fantasía",
+          "feliz",
+          "fiestas",
           "Navidad",
-          "noel",
           "Noel",
+          "santa",
           "tono de piel oscuro medio"
         ],
         "tts": [
@@ -15052,9 +15108,15 @@
       },
       "🧑🏿‍🎄": {
         "default": [
+          "celebración",
+          "claus",
+          "cuento",
+          "fantasía",
+          "feliz",
+          "fiestas",
           "Navidad",
-          "noel",
           "Noel",
+          "santa",
           "tono de piel oscuro"
         ],
         "tts": [
@@ -15208,6 +15270,7 @@
       },
       "🦸🏻‍♀": {
         "default": [
+          "bondad",
           "héroe",
           "heroína",
           "mujer",
@@ -15222,6 +15285,7 @@
       },
       "🦸🏼‍♀": {
         "default": [
+          "bondad",
           "héroe",
           "heroína",
           "mujer",
@@ -15236,6 +15300,7 @@
       },
       "🦸🏽‍♀": {
         "default": [
+          "bondad",
           "héroe",
           "heroína",
           "mujer",
@@ -15250,6 +15315,7 @@
       },
       "🦸🏾‍♀": {
         "default": [
+          "bondad",
           "héroe",
           "heroína",
           "mujer",
@@ -15264,6 +15330,7 @@
       },
       "🦸🏿‍♀": {
         "default": [
+          "bondad",
           "héroe",
           "heroína",
           "mujer",
@@ -16911,6 +16978,285 @@
           "mujer caminando: tono de piel oscuro"
         ]
       },
+      "🚶‍➡": {
+        "default": [
+          "andar",
+          "caminando",
+          "caminar",
+          "derecha",
+          "hacia",
+          "la",
+          "persona caminando"
+        ],
+        "tts": [
+          "persona caminando: hacia la derecha"
+        ]
+      },
+      "🚶🏻‍➡": {
+        "default": [
+          "andar",
+          "caminando",
+          "caminar",
+          "derecha",
+          "hacia",
+          "la",
+          "persona caminando",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "persona caminando: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "🚶🏼‍➡": {
+        "default": [
+          "andar",
+          "caminando",
+          "caminar",
+          "derecha",
+          "hacia",
+          "la",
+          "persona caminando",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "persona caminando: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "🚶🏽‍➡": {
+        "default": [
+          "andar",
+          "caminando",
+          "caminar",
+          "derecha",
+          "hacia",
+          "la",
+          "persona caminando",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "persona caminando: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "🚶🏾‍➡": {
+        "default": [
+          "andar",
+          "caminando",
+          "caminar",
+          "derecha",
+          "hacia",
+          "la",
+          "persona caminando",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "persona caminando: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "🚶🏿‍➡": {
+        "default": [
+          "andar",
+          "caminando",
+          "caminar",
+          "derecha",
+          "hacia",
+          "la",
+          "persona caminando",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "persona caminando: tono de piel oscuro y hacia la derecha"
+        ]
+      },
+      "🚶‍♀‍➡": {
+        "default": [
+          "andar",
+          "caminata",
+          "derecha",
+          "hacia",
+          "la",
+          "marcha",
+          "mujer",
+          "mujer caminando"
+        ],
+        "tts": [
+          "mujer caminando: hacia la derecha"
+        ]
+      },
+      "🚶🏻‍♀‍➡": {
+        "default": [
+          "andar",
+          "caminata",
+          "derecha",
+          "hacia",
+          "la",
+          "marcha",
+          "mujer",
+          "mujer caminando",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "mujer caminando: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "🚶🏼‍♀‍➡": {
+        "default": [
+          "andar",
+          "caminata",
+          "derecha",
+          "hacia",
+          "la",
+          "marcha",
+          "mujer",
+          "mujer caminando",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "mujer caminando: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "🚶🏽‍♀‍➡": {
+        "default": [
+          "andar",
+          "caminata",
+          "derecha",
+          "hacia",
+          "la",
+          "marcha",
+          "mujer",
+          "mujer caminando",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "mujer caminando: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "🚶🏾‍♀‍➡": {
+        "default": [
+          "andar",
+          "caminata",
+          "derecha",
+          "hacia",
+          "la",
+          "marcha",
+          "mujer",
+          "mujer caminando",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "mujer caminando: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "🚶🏿‍♀‍➡": {
+        "default": [
+          "andar",
+          "caminata",
+          "derecha",
+          "hacia",
+          "la",
+          "marcha",
+          "mujer",
+          "mujer caminando",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "mujer caminando: tono de piel oscuro y hacia la derecha"
+        ]
+      },
+      "🚶‍♂‍➡": {
+        "default": [
+          "andar",
+          "caminata",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre caminando",
+          "la",
+          "marcha"
+        ],
+        "tts": [
+          "hombre caminando: hacia la derecha"
+        ]
+      },
+      "🚶🏻‍♂‍➡": {
+        "default": [
+          "andar",
+          "caminata",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre caminando",
+          "la",
+          "marcha",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "hombre caminando: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "🚶🏼‍♂‍➡": {
+        "default": [
+          "andar",
+          "caminata",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre caminando",
+          "la",
+          "marcha",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "hombre caminando: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "🚶🏽‍♂‍➡": {
+        "default": [
+          "andar",
+          "caminata",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre caminando",
+          "la",
+          "marcha",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "hombre caminando: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "🚶🏾‍♂‍➡": {
+        "default": [
+          "andar",
+          "caminata",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre caminando",
+          "la",
+          "marcha",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "hombre caminando: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "🚶🏿‍♂‍➡": {
+        "default": [
+          "andar",
+          "caminata",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre caminando",
+          "la",
+          "marcha",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "hombre caminando: tono de piel oscuro y hacia la derecha"
+        ]
+      },
       "🧍🏻": {
         "default": [
           "de pie",
@@ -17301,6 +17647,291 @@
           "mujer de rodillas: tono de piel oscuro"
         ]
       },
+      "🧎‍➡": {
+        "default": [
+          "arrodillada",
+          "arrodillado",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "la",
+          "persona de rodillas"
+        ],
+        "tts": [
+          "persona de rodillas: hacia la derecha"
+        ]
+      },
+      "🧎🏻‍➡": {
+        "default": [
+          "arrodillada",
+          "arrodillado",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "la",
+          "persona de rodillas",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "persona de rodillas: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "🧎🏼‍➡": {
+        "default": [
+          "arrodillada",
+          "arrodillado",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "la",
+          "persona de rodillas",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "persona de rodillas: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "🧎🏽‍➡": {
+        "default": [
+          "arrodillada",
+          "arrodillado",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "la",
+          "persona de rodillas",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "persona de rodillas: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "🧎🏾‍➡": {
+        "default": [
+          "arrodillada",
+          "arrodillado",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "la",
+          "persona de rodillas",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "persona de rodillas: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "🧎🏿‍➡": {
+        "default": [
+          "arrodillada",
+          "arrodillado",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "la",
+          "persona de rodillas",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "persona de rodillas: tono de piel oscuro y hacia la derecha"
+        ]
+      },
+      "🧎‍♀‍➡": {
+        "default": [
+          "arrodillada",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer de rodillas"
+        ],
+        "tts": [
+          "mujer de rodillas: hacia la derecha"
+        ]
+      },
+      "🧎🏻‍♀‍➡": {
+        "default": [
+          "arrodillada",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer de rodillas",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "mujer de rodillas: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "🧎🏼‍♀‍➡": {
+        "default": [
+          "arrodillada",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer de rodillas",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "mujer de rodillas: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "🧎🏽‍♀‍➡": {
+        "default": [
+          "arrodillada",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer de rodillas",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "mujer de rodillas: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "🧎🏾‍♀‍➡": {
+        "default": [
+          "arrodillada",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer de rodillas",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "mujer de rodillas: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "🧎🏿‍♀‍➡": {
+        "default": [
+          "arrodillada",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer de rodillas",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "mujer de rodillas: tono de piel oscuro y hacia la derecha"
+        ]
+      },
+      "🧎‍♂‍➡": {
+        "default": [
+          "arrodillado",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre de rodillas",
+          "la"
+        ],
+        "tts": [
+          "hombre de rodillas: hacia la derecha"
+        ]
+      },
+      "🧎🏻‍♂‍➡": {
+        "default": [
+          "arrodillado",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre de rodillas",
+          "la",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "hombre de rodillas: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "🧎🏼‍♂‍➡": {
+        "default": [
+          "arrodillado",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre de rodillas",
+          "la",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "hombre de rodillas: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "🧎🏽‍♂‍➡": {
+        "default": [
+          "arrodillado",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre de rodillas",
+          "la",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "hombre de rodillas: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "🧎🏾‍♂‍➡": {
+        "default": [
+          "arrodillado",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre de rodillas",
+          "la",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "hombre de rodillas: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "🧎🏿‍♂‍➡": {
+        "default": [
+          "arrodillado",
+          "arrodillarse",
+          "de rodillas",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre de rodillas",
+          "la",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "hombre de rodillas: tono de piel oscuro y hacia la derecha"
+        ]
+      },
       "🧑🏻‍🦯": {
         "default": [
           "accesibilidad",
@@ -17359,6 +17990,95 @@
         ],
         "tts": [
           "persona con bastón: tono de piel oscuro"
+        ]
+      },
+      "🧑‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "persona con bastón"
+        ],
+        "tts": [
+          "persona con bastón: hacia la derecha"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "persona con bastón",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "persona con bastón: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "🧑🏼‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "persona con bastón",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "persona con bastón: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "persona con bastón",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "persona con bastón: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "persona con bastón",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "persona con bastón: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "ciego",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "persona con bastón",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "persona con bastón: tono de piel oscuro y hacia la derecha"
         ]
       },
       "👨🏻‍🦯": {
@@ -17431,6 +18151,107 @@
           "hombre con bastón: tono de piel oscuro"
         ]
       },
+      "👨‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "bastón",
+          "ciego",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre con bastón",
+          "invidente",
+          "la"
+        ],
+        "tts": [
+          "hombre con bastón: hacia la derecha"
+        ]
+      },
+      "👨🏻‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "bastón",
+          "ciego",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre con bastón",
+          "invidente",
+          "la",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "hombre con bastón: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "👨🏼‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "bastón",
+          "ciego",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre con bastón",
+          "invidente",
+          "la",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "hombre con bastón: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "👨🏽‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "bastón",
+          "ciego",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre con bastón",
+          "invidente",
+          "la",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "hombre con bastón: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "👨🏾‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "bastón",
+          "ciego",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre con bastón",
+          "invidente",
+          "la",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "hombre con bastón: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "👨🏿‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "bastón",
+          "ciego",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre con bastón",
+          "invidente",
+          "la",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "hombre con bastón: tono de piel oscuro y hacia la derecha"
+        ]
+      },
       "👩🏻‍🦯": {
         "default": [
           "accesibilidad",
@@ -17501,6 +18322,107 @@
           "mujer con bastón: tono de piel oscuro"
         ]
       },
+      "👩‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "bastón",
+          "ciega",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "mujer",
+          "mujer con bastón"
+        ],
+        "tts": [
+          "mujer con bastón: hacia la derecha"
+        ]
+      },
+      "👩🏻‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "bastón",
+          "ciega",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "mujer",
+          "mujer con bastón",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "mujer con bastón: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "👩🏼‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "bastón",
+          "ciega",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "mujer",
+          "mujer con bastón",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "mujer con bastón: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "👩🏽‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "bastón",
+          "ciega",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "mujer",
+          "mujer con bastón",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "mujer con bastón: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "👩🏾‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "bastón",
+          "ciega",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "mujer",
+          "mujer con bastón",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "mujer con bastón: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "👩🏿‍🦯‍➡": {
+        "default": [
+          "accesibilidad",
+          "bastón",
+          "ciega",
+          "derecha",
+          "hacia",
+          "invidente",
+          "la",
+          "mujer",
+          "mujer con bastón",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "mujer con bastón: tono de piel oscuro y hacia la derecha"
+        ]
+      },
       "🧑🏻‍🦼": {
         "default": [
           "accesibilidad",
@@ -17554,6 +18476,89 @@
         ],
         "tts": [
           "persona en silla de ruedas eléctrica: tono de piel oscuro"
+        ]
+      },
+      "🧑‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas eléctrica",
+          "silla de ruedas"
+        ],
+        "tts": [
+          "persona en silla de ruedas eléctrica: hacia la derecha"
+        ]
+      },
+      "🧑🏻‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas eléctrica",
+          "silla de ruedas",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "persona en silla de ruedas eléctrica: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "🧑🏼‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas eléctrica",
+          "silla de ruedas",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "persona en silla de ruedas eléctrica: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "🧑🏽‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas eléctrica",
+          "silla de ruedas",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "persona en silla de ruedas eléctrica: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "🧑🏾‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas eléctrica",
+          "silla de ruedas",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "persona en silla de ruedas eléctrica: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "🧑🏿‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas eléctrica",
+          "silla de ruedas",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "persona en silla de ruedas eléctrica: tono de piel oscuro y hacia la derecha"
         ]
       },
       "👨🏻‍🦼": {
@@ -17616,6 +18621,95 @@
           "hombre en silla de ruedas eléctrica: tono de piel oscuro"
         ]
       },
+      "👨‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre en silla de ruedas eléctrica",
+          "la",
+          "silla de ruedas"
+        ],
+        "tts": [
+          "hombre en silla de ruedas eléctrica: hacia la derecha"
+        ]
+      },
+      "👨🏻‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre en silla de ruedas eléctrica",
+          "la",
+          "silla de ruedas",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "hombre en silla de ruedas eléctrica: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "👨🏼‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre en silla de ruedas eléctrica",
+          "la",
+          "silla de ruedas",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "hombre en silla de ruedas eléctrica: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "👨🏽‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre en silla de ruedas eléctrica",
+          "la",
+          "silla de ruedas",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "hombre en silla de ruedas eléctrica: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "👨🏾‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre en silla de ruedas eléctrica",
+          "la",
+          "silla de ruedas",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "hombre en silla de ruedas eléctrica: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "👨🏿‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre en silla de ruedas eléctrica",
+          "la",
+          "silla de ruedas",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "hombre en silla de ruedas eléctrica: tono de piel oscuro y hacia la derecha"
+        ]
+      },
       "👩🏻‍🦼": {
         "default": [
           "accesibilidad",
@@ -17676,6 +18770,95 @@
           "mujer en silla de ruedas eléctrica: tono de piel oscuro"
         ]
       },
+      "👩‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer en silla de ruedas eléctrica",
+          "silla de ruedas"
+        ],
+        "tts": [
+          "mujer en silla de ruedas eléctrica: hacia la derecha"
+        ]
+      },
+      "👩🏻‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer en silla de ruedas eléctrica",
+          "silla de ruedas",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "mujer en silla de ruedas eléctrica: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "👩🏼‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer en silla de ruedas eléctrica",
+          "silla de ruedas",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "mujer en silla de ruedas eléctrica: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "👩🏽‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer en silla de ruedas eléctrica",
+          "silla de ruedas",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "mujer en silla de ruedas eléctrica: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "👩🏾‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer en silla de ruedas eléctrica",
+          "silla de ruedas",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "mujer en silla de ruedas eléctrica: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "👩🏿‍🦼‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer en silla de ruedas eléctrica",
+          "silla de ruedas",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "mujer en silla de ruedas eléctrica: tono de piel oscuro y hacia la derecha"
+        ]
+      },
       "🧑🏻‍🦽": {
         "default": [
           "accesibilidad",
@@ -17729,6 +18912,89 @@
         ],
         "tts": [
           "persona en silla de ruedas manual: tono de piel oscuro"
+        ]
+      },
+      "🧑‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas manual",
+          "silla de ruedas"
+        ],
+        "tts": [
+          "persona en silla de ruedas manual: hacia la derecha"
+        ]
+      },
+      "🧑🏻‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas manual",
+          "silla de ruedas",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "persona en silla de ruedas manual: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "🧑🏼‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas manual",
+          "silla de ruedas",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "persona en silla de ruedas manual: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "🧑🏽‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas manual",
+          "silla de ruedas",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "persona en silla de ruedas manual: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "🧑🏾‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas manual",
+          "silla de ruedas",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "persona en silla de ruedas manual: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "🧑🏿‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "persona en silla de ruedas manual",
+          "silla de ruedas",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "persona en silla de ruedas manual: tono de piel oscuro y hacia la derecha"
         ]
       },
       "👨🏻‍🦽": {
@@ -17791,6 +19057,95 @@
           "hombre en silla de ruedas manual: tono de piel oscuro"
         ]
       },
+      "👨‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre en silla de ruedas manual",
+          "la",
+          "silla de ruedas"
+        ],
+        "tts": [
+          "hombre en silla de ruedas manual: hacia la derecha"
+        ]
+      },
+      "👨🏻‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre en silla de ruedas manual",
+          "la",
+          "silla de ruedas",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "hombre en silla de ruedas manual: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "👨🏼‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre en silla de ruedas manual",
+          "la",
+          "silla de ruedas",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "hombre en silla de ruedas manual: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "👨🏽‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre en silla de ruedas manual",
+          "la",
+          "silla de ruedas",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "hombre en silla de ruedas manual: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "👨🏾‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre en silla de ruedas manual",
+          "la",
+          "silla de ruedas",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "hombre en silla de ruedas manual: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "👨🏿‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre en silla de ruedas manual",
+          "la",
+          "silla de ruedas",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "hombre en silla de ruedas manual: tono de piel oscuro y hacia la derecha"
+        ]
+      },
       "👩🏻‍🦽": {
         "default": [
           "accesibilidad",
@@ -17849,6 +19204,95 @@
         ],
         "tts": [
           "mujer en silla de ruedas manual: tono de piel oscuro"
+        ]
+      },
+      "👩‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer en silla de ruedas manual",
+          "silla de ruedas"
+        ],
+        "tts": [
+          "mujer en silla de ruedas manual: hacia la derecha"
+        ]
+      },
+      "👩🏻‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer en silla de ruedas manual",
+          "silla de ruedas",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "mujer en silla de ruedas manual: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "👩🏼‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer en silla de ruedas manual",
+          "silla de ruedas",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "mujer en silla de ruedas manual: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "👩🏽‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer en silla de ruedas manual",
+          "silla de ruedas",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "mujer en silla de ruedas manual: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "👩🏾‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer en silla de ruedas manual",
+          "silla de ruedas",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "mujer en silla de ruedas manual: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "👩🏿‍🦽‍➡": {
+        "default": [
+          "accesibilidad",
+          "derecha",
+          "hacia",
+          "la",
+          "mujer",
+          "mujer en silla de ruedas manual",
+          "silla de ruedas",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "mujer en silla de ruedas manual: tono de piel oscuro y hacia la derecha"
         ]
       },
       "🏃🏻": {
@@ -18039,6 +19483,285 @@
         ],
         "tts": [
           "mujer corriendo: tono de piel oscuro"
+        ]
+      },
+      "🏃‍➡": {
+        "default": [
+          "carrera",
+          "deporte",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "persona corriendo"
+        ],
+        "tts": [
+          "persona corriendo: hacia la derecha"
+        ]
+      },
+      "🏃🏻‍➡": {
+        "default": [
+          "carrera",
+          "deporte",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "persona corriendo",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "persona corriendo: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "🏃🏼‍➡": {
+        "default": [
+          "carrera",
+          "deporte",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "persona corriendo",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "persona corriendo: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "🏃🏽‍➡": {
+        "default": [
+          "carrera",
+          "deporte",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "persona corriendo",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "persona corriendo: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "🏃🏾‍➡": {
+        "default": [
+          "carrera",
+          "deporte",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "persona corriendo",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "persona corriendo: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "🏃🏿‍➡": {
+        "default": [
+          "carrera",
+          "deporte",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "persona corriendo",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "persona corriendo: tono de piel oscuro y hacia la derecha"
+        ]
+      },
+      "🏃‍♀‍➡": {
+        "default": [
+          "carrera",
+          "correr",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "mujer",
+          "mujer corriendo"
+        ],
+        "tts": [
+          "mujer corriendo: hacia la derecha"
+        ]
+      },
+      "🏃🏻‍♀‍➡": {
+        "default": [
+          "carrera",
+          "correr",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "mujer",
+          "mujer corriendo",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "mujer corriendo: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "🏃🏼‍♀‍➡": {
+        "default": [
+          "carrera",
+          "correr",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "mujer",
+          "mujer corriendo",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "mujer corriendo: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "🏃🏽‍♀‍➡": {
+        "default": [
+          "carrera",
+          "correr",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "mujer",
+          "mujer corriendo",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "mujer corriendo: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "🏃🏾‍♀‍➡": {
+        "default": [
+          "carrera",
+          "correr",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "mujer",
+          "mujer corriendo",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "mujer corriendo: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "🏃🏿‍♀‍➡": {
+        "default": [
+          "carrera",
+          "correr",
+          "derecha",
+          "hacia",
+          "la",
+          "maratón",
+          "mujer",
+          "mujer corriendo",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "mujer corriendo: tono de piel oscuro y hacia la derecha"
+        ]
+      },
+      "🏃‍♂‍➡": {
+        "default": [
+          "carrera",
+          "correr",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre corriendo",
+          "la",
+          "maratón"
+        ],
+        "tts": [
+          "hombre corriendo: hacia la derecha"
+        ]
+      },
+      "🏃🏻‍♂‍➡": {
+        "default": [
+          "carrera",
+          "correr",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre corriendo",
+          "la",
+          "maratón",
+          "tono de piel claro"
+        ],
+        "tts": [
+          "hombre corriendo: tono de piel claro y hacia la derecha"
+        ]
+      },
+      "🏃🏼‍♂‍➡": {
+        "default": [
+          "carrera",
+          "correr",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre corriendo",
+          "la",
+          "maratón",
+          "tono de piel claro medio"
+        ],
+        "tts": [
+          "hombre corriendo: tono de piel claro medio y hacia la derecha"
+        ]
+      },
+      "🏃🏽‍♂‍➡": {
+        "default": [
+          "carrera",
+          "correr",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre corriendo",
+          "la",
+          "maratón",
+          "tono de piel medio"
+        ],
+        "tts": [
+          "hombre corriendo: tono de piel medio y hacia la derecha"
+        ]
+      },
+      "🏃🏾‍♂‍➡": {
+        "default": [
+          "carrera",
+          "correr",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre corriendo",
+          "la",
+          "maratón",
+          "tono de piel oscuro medio"
+        ],
+        "tts": [
+          "hombre corriendo: tono de piel oscuro medio y hacia la derecha"
+        ]
+      },
+      "🏃🏿‍♂‍➡": {
+        "default": [
+          "carrera",
+          "correr",
+          "derecha",
+          "hacia",
+          "hombre",
+          "hombre corriendo",
+          "la",
+          "maratón",
+          "tono de piel oscuro"
+        ],
+        "tts": [
+          "hombre corriendo: tono de piel oscuro y hacia la derecha"
         ]
       },
       "💃🏻": {
@@ -25156,27 +26879,27 @@
       },
       "֏": {
         "tts": [
-          "dram"
+          "dram armenio"
         ]
       },
       "؋": {
         "tts": [
-          "afgani"
+          "afgani afgano"
         ]
       },
       "৳": {
         "tts": [
-          "taka"
+          "taka bangladesí"
         ]
       },
       "฿": {
         "tts": [
-          "bat"
+          "bat tailandés"
         ]
       },
       "៛": {
         "tts": [
-          "riel"
+          "riel camboyano"
         ]
       },
       "₡": {
@@ -25186,12 +26909,7 @@
       },
       "₦": {
         "tts": [
-          "naira"
-        ]
-      },
-      "₧": {
-        "tts": [
-          "peseta española"
+          "naira nigeriano"
         ]
       },
       "₪": {
@@ -25201,17 +26919,17 @@
       },
       "₫": {
         "tts": [
-          "dong"
+          "dong vietnamita"
         ]
       },
       "₭": {
         "tts": [
-          "kip"
+          "kip laosiano"
         ]
       },
       "₮": {
         "tts": [
-          "tugrik"
+          "tugrik mongol"
         ]
       },
       "₲": {
@@ -25221,12 +26939,12 @@
       },
       "₴": {
         "tts": [
-          "grivna"
+          "grivna ucraniana"
         ]
       },
       "₵": {
         "tts": [
-          "cedi"
+          "cedi ghanés"
         ]
       },
       "₸": {
@@ -25246,7 +26964,7 @@
       },
       "₾": {
         "tts": [
-          "lari"
+          "lari georgiano"
         ]
       },
       "0⃣": {
@@ -25327,6 +27045,11 @@
         ],
         "tts": [
           "Teclas: 9"
+        ]
+      },
+      "₧": {
+        "tts": [
+          "peseta española"
         ]
       }
     }

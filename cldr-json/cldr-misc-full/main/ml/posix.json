@@ -2,9 +2,6 @@
   "main": {
     "ml": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ml"
       },
       "posix": {

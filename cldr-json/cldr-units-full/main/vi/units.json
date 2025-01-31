@@ -2,30 +2,27 @@
   "main": {
     "vi": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "vi"
       },
       "units": {
         "long": {
           "10p-1": {
-            "unitPrefixPattern": "đề-xi-{0}"
+            "unitPrefixPattern": "đềxi{0}"
           },
           "10p-2": {
-            "unitPrefixPattern": "xăng-ti-{0}"
+            "unitPrefixPattern": "xenti{0}"
           },
           "10p-3": {
             "unitPrefixPattern": "mili{0}"
           },
           "10p-6": {
-            "unitPrefixPattern": "μ{0}"
+            "unitPrefixPattern": "micrô{0}"
           },
           "10p-9": {
             "unitPrefixPattern": "nano{0}"
           },
           "10p-12": {
-            "unitPrefixPattern": "pico{0}"
+            "unitPrefixPattern": "picô{0}"
           },
           "10p-15": {
             "unitPrefixPattern": "femto{0}"
@@ -39,6 +36,12 @@
           "10p-24": {
             "unitPrefixPattern": "yocto{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "ronto{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "quecto{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "deka{0}"
           },
@@ -46,7 +49,7 @@
             "unitPrefixPattern": "hecto{0}"
           },
           "10p3": {
-            "unitPrefixPattern": "kilo{0}"
+            "unitPrefixPattern": "kilô{0}"
           },
           "10p6": {
             "unitPrefixPattern": "mega{0}"
@@ -68,6 +71,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "yotta{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "ronna{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "quetta{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "kibi{0}"
@@ -105,15 +114,15 @@
             "compoundUnitPattern1-count-other": "{0} khối"
           },
           "times": {
-            "compoundUnitPattern": "{0}⋅{1}"
+            "compoundUnitPattern": "{0}-{1}"
           },
           "acceleration-g-force": {
             "displayName": "lực g",
             "unitPattern-count-other": "{0} lực g"
           },
           "acceleration-meter-per-square-second": {
-            "displayName": "m/s²",
-            "unitPattern-count-other": "{0} m/s²"
+            "displayName": "mét/giây bình phương",
+            "unitPattern-count-other": "{0} mét/giây bình phương"
           },
           "angle-revolution": {
             "displayName": "vòng",
@@ -234,7 +243,7 @@
           },
           "digital-petabyte": {
             "displayName": "petabyte",
-            "unitPattern-count-other": "{0} PB"
+            "unitPattern-count-other": "{0} petabyte"
           },
           "digital-terabyte": {
             "displayName": "terabyte",
@@ -353,8 +362,8 @@
             "unitPattern-count-other": "{0} vôn"
           },
           "energy-kilocalorie": {
-            "displayName": "kilô calo",
-            "unitPattern-count-other": "{0} kilô calo"
+            "displayName": "kilôcalo",
+            "unitPattern-count-other": "{0} kilôcalo"
           },
           "energy-calorie": {
             "displayName": "calo",
@@ -518,12 +527,12 @@
             "unitPattern-count-other": "{0} đơn vị thiên văn"
           },
           "length-furlong": {
-            "displayName": "fur",
-            "unitPattern-count-other": "{0} fur"
+            "displayName": "fulông",
+            "unitPattern-count-other": "{0} fulông"
           },
           "length-fathom": {
-            "displayName": "fm",
-            "unitPattern-count-other": "{0} fth"
+            "displayName": "sải",
+            "unitPattern-count-other": "{0} sải"
           },
           "length-nautical-mile": {
             "displayName": "hải lý",
@@ -534,8 +543,8 @@
             "unitPattern-count-other": "{0} dặm scandinavia"
           },
           "length-point": {
-            "displayName": "đ",
-            "unitPattern-count-other": "{0} đ"
+            "displayName": "điểm",
+            "unitPattern-count-other": "{0} điểm"
           },
           "length-solar-radius": {
             "displayName": "bán kính mặt trời",
@@ -678,12 +687,12 @@
             "unitPattern-count-other": "{0} héctô pascal"
           },
           "pressure-kilopascal": {
-            "displayName": "kPa",
+            "displayName": "kilô pascal",
             "unitPattern-count-other": "{0} kPa"
           },
           "pressure-megapascal": {
-            "displayName": "MPa",
-            "unitPattern-count-other": "{0} MPa"
+            "displayName": "mêga pascal",
+            "unitPattern-count-other": "{0} mêga pascal"
           },
           "speed-kilometer-per-hour": {
             "displayName": "kilômét/giờ",
@@ -701,9 +710,13 @@
             "displayName": "hải lý/giờ",
             "unitPattern-count-other": "{0} hải lý/giờ"
           },
+          "speed-beaufort": {
+            "displayName": "Beaufort",
+            "unitPattern-count-other": "Beaufort {0}"
+          },
           "temperature-generic": {
-            "displayName": "°",
-            "unitPattern-count-other": "{0}°"
+            "displayName": "độ",
+            "unitPattern-count-other": "{0} độ"
           },
           "temperature-celsius": {
             "displayName": "độ C",
@@ -839,12 +852,12 @@
             "unitPattern-count-other": "{0} thùng"
           },
           "volume-dessert-spoon": {
-            "displayName": "thìa ăn tráng miệng",
-            "unitPattern-count-other": "{0} thìa ăn tráng miệng"
+            "displayName": "thìa tráng miệng",
+            "unitPattern-count-other": "{0} thìa tráng miệng"
           },
           "volume-dessert-spoon-imperial": {
-            "displayName": "thìa ăn tráng miệng Anh",
-            "unitPattern-count-other": "{0} thìa ăn tráng miệng Anh"
+            "displayName": "thìa tráng miệng Anh",
+            "unitPattern-count-other": "{0} thìa tráng miệng Anh"
           },
           "volume-drop": {
             "displayName": "giọt",
@@ -852,7 +865,7 @@
           },
           "volume-dram": {
             "displayName": "dram",
-            "unitPattern-count-other": "{0} dram chất lỏng Anh"
+            "unitPattern-count-other": "{0} dram"
           },
           "volume-jigger": {
             "displayName": "jigger",
@@ -866,12 +879,25 @@
             "displayName": "lít Anh",
             "unitPattern-count-other": "{0} lít Anh"
           },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "phần tỷ",
+            "unitPattern-count-other": "{0} phần tỷ"
+          },
+          "duration-night": {
+            "displayName": "đêm",
+            "unitPattern-count-other": "{0} đêm",
+            "perUnitPattern": "{0}/đêm"
+          },
           "coordinateUnit": {
             "displayName": "phương trời",
-            "east": "{0}Đ",
-            "north": "{0}B",
-            "south": "{0}N",
-            "west": "{0}T"
+            "east": "{0} Đông",
+            "north": "{0} Bắc",
+            "south": "{0} Nam",
+            "west": "{0} Tây"
           }
         },
         "short": {
@@ -905,6 +931,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -934,6 +966,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -1157,7 +1195,7 @@
           },
           "duration-quarter": {
             "displayName": "quý",
-            "unitPattern-count-other": "{0} qúy",
+            "unitPattern-count-other": "{0} quý",
             "perUnitPattern": "{0}/quý"
           },
           "duration-month": {
@@ -1195,8 +1233,8 @@
             "unitPattern-count-other": "{0} mili giây"
           },
           "duration-microsecond": {
-            "displayName": "μs",
-            "unitPattern-count-other": "{0} μs"
+            "displayName": "micrô giây",
+            "unitPattern-count-other": "{0} micrô giây"
           },
           "duration-nanosecond": {
             "displayName": "nano giây",
@@ -1225,6 +1263,10 @@
           "energy-calorie": {
             "displayName": "cal",
             "unitPattern-count-other": "{0} cal"
+          },
+          "energy-foodcalorie": {
+            "displayName": "Cal",
+            "unitPattern-count-other": "{0} Cal"
           },
           "energy-kilojoule": {
             "displayName": "kJ",
@@ -1283,20 +1325,20 @@
             "unitPattern-count-other": "{0} em"
           },
           "graphics-pixel": {
-            "displayName": "px",
-            "unitPattern-count-other": "{0} px"
+            "displayName": "pixel",
+            "unitPattern-count-other": "{0} pixel"
           },
           "graphics-megapixel": {
             "displayName": "megapixel",
             "unitPattern-count-other": "{0} MP"
           },
           "graphics-pixel-per-centimeter": {
-            "displayName": "ppcm",
-            "unitPattern-count-other": "{0} ppcm"
+            "displayName": "pixel/cm",
+            "unitPattern-count-other": "{0} pixel/cm"
           },
           "graphics-pixel-per-inch": {
-            "displayName": "ppi",
-            "unitPattern-count-other": "{0} ppi"
+            "displayName": "pixel/inch",
+            "unitPattern-count-other": "{0} pixel/inch"
           },
           "graphics-dot-per-centimeter": {
             "displayName": "dpcm",
@@ -1557,11 +1599,15 @@
           },
           "speed-mile-per-hour": {
             "displayName": "mi/h",
-            "unitPattern-count-other": "{0} mi/h"
+            "unitPattern-count-other": "{0} mph"
           },
           "speed-knot": {
             "displayName": "kn",
             "unitPattern-count-other": "{0} kn"
+          },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
           },
           "temperature-generic": {
             "displayName": "°",
@@ -1628,7 +1674,7 @@
           "volume-liter": {
             "displayName": "l",
             "unitPattern-count-other": "{0} L",
-            "perUnitPattern": "{0}/l"
+            "perUnitPattern": "{0}/L"
           },
           "volume-deciliter": {
             "displayName": "dL",
@@ -1677,7 +1723,7 @@
             "unitPattern-count-other": "{0} pt"
           },
           "volume-cup": {
-            "displayName": "c",
+            "displayName": "tách",
             "unitPattern-count-other": "{0} tách"
           },
           "volume-fluid-ounce": {
@@ -1689,12 +1735,12 @@
             "unitPattern-count-other": "{0} fl oz Anh"
           },
           "volume-tablespoon": {
-            "displayName": "thìa xúp",
-            "unitPattern-count-other": "{0} thìa xúp"
+            "displayName": "muỗng canh",
+            "unitPattern-count-other": "{0} muỗng canh"
           },
           "volume-teaspoon": {
-            "displayName": "tsp",
-            "unitPattern-count-other": "{0} thìa cà phê"
+            "displayName": "muỗng cà phê",
+            "unitPattern-count-other": "{0} muỗng cà phê"
           },
           "volume-barrel": {
             "displayName": "thùng",
@@ -1702,11 +1748,11 @@
           },
           "volume-dessert-spoon": {
             "displayName": "thìa tráng miệng",
-            "unitPattern-count-other": "{0} thìa tm"
+            "unitPattern-count-other": "{0} thìa tráng miệng"
           },
           "volume-dessert-spoon-imperial": {
             "displayName": "thìa tráng miệng Anh",
-            "unitPattern-count-other": "{0} thìa tm Anh"
+            "unitPattern-count-other": "{0} thìa tráng miệng Anh"
           },
           "volume-drop": {
             "displayName": "giọt",
@@ -1727,6 +1773,19 @@
           "volume-quart-imperial": {
             "displayName": "lít Anh",
             "unitPattern-count-other": "{0} lít Anh"
+          },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "phần tỷ",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "đêm",
+            "unitPattern-count-other": "{0} đêm",
+            "perUnitPattern": "{0}/đêm"
           },
           "coordinateUnit": {
             "displayName": "hướng",
@@ -1767,6 +1826,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -1796,6 +1861,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -2019,7 +2090,7 @@
           },
           "duration-quarter": {
             "displayName": "quý",
-            "unitPattern-count-other": "{0} qúy",
+            "unitPattern-count-other": "{0} quý",
             "perUnitPattern": "{0}/quý"
           },
           "duration-month": {
@@ -2057,8 +2128,8 @@
             "unitPattern-count-other": "{0}miligiây"
           },
           "duration-microsecond": {
-            "displayName": "μs",
-            "unitPattern-count-other": "{0} μs"
+            "displayName": "micrô giây",
+            "unitPattern-count-other": "{0} micrô giây"
           },
           "duration-nanosecond": {
             "displayName": "nano giây",
@@ -2087,6 +2158,10 @@
           "energy-calorie": {
             "displayName": "cal",
             "unitPattern-count-other": "{0} cal"
+          },
+          "energy-foodcalorie": {
+            "displayName": "Cal",
+            "unitPattern-count-other": "{0} Cal"
           },
           "energy-kilojoule": {
             "displayName": "kJ",
@@ -2122,7 +2197,7 @@
           },
           "force-kilowatt-hour-per-100-kilometer": {
             "displayName": "kWh/100km",
-            "unitPattern-count-other": "{0}kWh/100km"
+            "unitPattern-count-other": "{0} kWh/100km"
           },
           "frequency-gigahertz": {
             "displayName": "GHz",
@@ -2145,20 +2220,20 @@
             "unitPattern-count-other": "{0} em"
           },
           "graphics-pixel": {
-            "displayName": "px",
-            "unitPattern-count-other": "{0} px"
+            "displayName": "pixel",
+            "unitPattern-count-other": "{0} pixel"
           },
           "graphics-megapixel": {
-            "displayName": "MPMM",
+            "displayName": "MP",
             "unitPattern-count-other": "{0} MP"
           },
           "graphics-pixel-per-centimeter": {
-            "displayName": "ppcm",
-            "unitPattern-count-other": "{0} ppcm"
+            "displayName": "pixel/cm",
+            "unitPattern-count-other": "{0} pixel/cm"
           },
           "graphics-pixel-per-inch": {
-            "displayName": "ppi",
-            "unitPattern-count-other": "{0} ppi"
+            "displayName": "pixel/inch",
+            "unitPattern-count-other": "{0} pixel/inch"
           },
           "graphics-dot-per-centimeter": {
             "displayName": "dpcm",
@@ -2213,7 +2288,7 @@
           },
           "length-mile": {
             "displayName": "dặm",
-            "unitPattern-count-other": "{0}mi"
+            "unitPattern-count-other": "{0} dặm"
           },
           "length-yard": {
             "displayName": "yd",
@@ -2287,12 +2362,12 @@
           },
           "mass-kilogram": {
             "displayName": "kg",
-            "unitPattern-count-other": "{0}kg",
+            "unitPattern-count-other": "{0} kg",
             "perUnitPattern": "{0}/kg"
           },
           "mass-gram": {
             "displayName": "g",
-            "unitPattern-count-other": "{0}g",
+            "unitPattern-count-other": "{0} g",
             "perUnitPattern": "{0}/g"
           },
           "mass-milligram": {
@@ -2318,7 +2393,7 @@
           },
           "mass-ounce": {
             "displayName": "oz",
-            "unitPattern-count-other": "{0}oz",
+            "unitPattern-count-other": "{0} oz",
             "perUnitPattern": "{0}/oz"
           },
           "mass-ounce-troy": {
@@ -2355,7 +2430,7 @@
           },
           "power-kilowatt": {
             "displayName": "kW",
-            "unitPattern-count-other": "{0}kW"
+            "unitPattern-count-other": "{0} kW"
           },
           "power-watt": {
             "displayName": "W",
@@ -2387,7 +2462,7 @@
           },
           "pressure-millibar": {
             "displayName": "mbar",
-            "unitPattern-count-other": "{0}mb"
+            "unitPattern-count-other": "{0} mb"
           },
           "pressure-atmosphere": {
             "displayName": "atm",
@@ -2399,7 +2474,7 @@
           },
           "pressure-hectopascal": {
             "displayName": "hPa",
-            "unitPattern-count-other": "{0}hPa"
+            "unitPattern-count-other": "{0} hPa"
           },
           "pressure-kilopascal": {
             "displayName": "kPa",
@@ -2411,19 +2486,23 @@
           },
           "speed-kilometer-per-hour": {
             "displayName": "km/h",
-            "unitPattern-count-other": "{0}km/h"
+            "unitPattern-count-other": "{0} km/h"
           },
           "speed-meter-per-second": {
             "displayName": "m/s",
-            "unitPattern-count-other": "{0}m/s"
+            "unitPattern-count-other": "{0} m/s"
           },
           "speed-mile-per-hour": {
             "displayName": "mi/h",
-            "unitPattern-count-other": "{0}mph"
+            "unitPattern-count-other": "{0} mph"
           },
           "speed-knot": {
             "displayName": "kn",
             "unitPattern-count-other": "{0} kn"
+          },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
           },
           "temperature-generic": {
             "displayName": "°",
@@ -2539,7 +2618,7 @@
             "unitPattern-count-other": "{0} pt"
           },
           "volume-cup": {
-            "displayName": "c",
+            "displayName": "tách",
             "unitPattern-count-other": "{0} tách"
           },
           "volume-fluid-ounce": {
@@ -2551,12 +2630,12 @@
             "unitPattern-count-other": "{0} fl ozIm"
           },
           "volume-tablespoon": {
-            "displayName": "thìa xúp",
-            "unitPattern-count-other": "{0} thìa xúp"
+            "displayName": "muỗng canh",
+            "unitPattern-count-other": "{0} muỗng canh"
           },
           "volume-teaspoon": {
-            "displayName": "thìa cà phê",
-            "unitPattern-count-other": "{0} thìa cà phê"
+            "displayName": "muỗng cà phê",
+            "unitPattern-count-other": "{0} muỗng cà phê"
           },
           "volume-barrel": {
             "displayName": "thùng",
@@ -2564,11 +2643,11 @@
           },
           "volume-dessert-spoon": {
             "displayName": "thìa tráng miệng",
-            "unitPattern-count-other": "{0} thìa tm"
+            "unitPattern-count-other": "{0} thìa tráng miệng"
           },
           "volume-dessert-spoon-imperial": {
             "displayName": "thìa tráng miệng Anh",
-            "unitPattern-count-other": "{0} thìa tm Anh"
+            "unitPattern-count-other": "{0} thìa tráng miệng Anh"
           },
           "volume-drop": {
             "displayName": "giọt",
@@ -2589,6 +2668,19 @@
           "volume-quart-imperial": {
             "displayName": "lít Anh",
             "unitPattern-count-other": "{0} lít Anh"
+          },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "phần tỷ",
+            "unitPattern-count-other": "{0}ppb"
+          },
+          "duration-night": {
+            "displayName": "đêm",
+            "unitPattern-count-other": "{0} đêm",
+            "perUnitPattern": "{0}/đêm"
           },
           "coordinateUnit": {
             "displayName": "hướng",

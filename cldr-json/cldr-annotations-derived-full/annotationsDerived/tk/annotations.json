@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "tk"
     },
     "annotations": {
@@ -3340,7 +3337,6 @@
       "👧🏻": {
         "default": [
           "açyk deri reňki",
-          "gyz",
           "Gyz",
           "täleýnama",
           "ýaş"
@@ -3351,7 +3347,6 @@
       },
       "👧🏼": {
         "default": [
-          "gyz",
           "Gyz",
           "orta açyk deri reňki",
           "täleýnama",
@@ -3363,7 +3358,6 @@
       },
       "👧🏽": {
         "default": [
-          "gyz",
           "Gyz",
           "orta deri reňki",
           "täleýnama",
@@ -3375,7 +3369,6 @@
       },
       "👧🏾": {
         "default": [
-          "gyz",
           "Gyz",
           "orta goýy deri reňki",
           "täleýnama",
@@ -3388,7 +3381,6 @@
       "👧🏿": {
         "default": [
           "goýy deri reňki",
-          "gyz",
           "Gyz",
           "täleýnama",
           "ýaş"
@@ -4468,8 +4460,8 @@
         "default": [
           "açyk deri reňki",
           "adam",
-          "adam: sakal",
-          "sakal"
+          "sakal",
+          "sakally erkek"
         ],
         "tts": [
           "adam: açyk deri reňki, sakal"
@@ -4478,9 +4470,9 @@
       "🧔🏼‍♂": {
         "default": [
           "adam",
-          "adam: sakal",
           "orta açyk deri reňki",
-          "sakal"
+          "sakal",
+          "sakally erkek"
         ],
         "tts": [
           "adam: orta açyk deri reňki, sakal"
@@ -4489,9 +4481,9 @@
       "🧔🏽‍♂": {
         "default": [
           "adam",
-          "adam: sakal",
           "orta deri reňki",
-          "sakal"
+          "sakal",
+          "sakally erkek"
         ],
         "tts": [
           "adam: orta deri reňki, sakal"
@@ -4500,9 +4492,9 @@
       "🧔🏾‍♂": {
         "default": [
           "adam",
-          "adam: sakal",
           "orta goýy deri reňki",
-          "sakal"
+          "sakal",
+          "sakally erkek"
         ],
         "tts": [
           "adam: orta goýy deri reňki, sakal"
@@ -4511,9 +4503,9 @@
       "🧔🏿‍♂": {
         "default": [
           "adam",
-          "adam: sakal",
           "goýy deri reňki",
-          "sakal"
+          "sakal",
+          "sakally erkek"
         ],
         "tts": [
           "adam: goýy deri reňki, sakal"
@@ -5537,8 +5529,8 @@
         "default": [
           "açyk deri reňki",
           "aýal",
-          "aýal: sakal",
-          "sakal"
+          "sakal",
+          "sakally"
         ],
         "tts": [
           "aýal: açyk deri reňki, sakal"
@@ -5547,9 +5539,9 @@
       "🧔🏼‍♀": {
         "default": [
           "aýal",
-          "aýal: sakal",
           "orta açyk deri reňki",
-          "sakal"
+          "sakal",
+          "sakally"
         ],
         "tts": [
           "aýal: orta açyk deri reňki, sakal"
@@ -5558,9 +5550,9 @@
       "🧔🏽‍♀": {
         "default": [
           "aýal",
-          "aýal: sakal",
           "orta deri reňki",
-          "sakal"
+          "sakal",
+          "sakally"
         ],
         "tts": [
           "aýal: orta deri reňki, sakal"
@@ -5569,9 +5561,9 @@
       "🧔🏾‍♀": {
         "default": [
           "aýal",
-          "aýal: sakal",
           "orta goýy deri reňki",
-          "sakal"
+          "sakal",
+          "sakally"
         ],
         "tts": [
           "aýal: orta goýy deri reňki, sakal"
@@ -5580,9 +5572,9 @@
       "🧔🏿‍♀": {
         "default": [
           "aýal",
-          "aýal: sakal",
           "goýy deri reňki",
-          "sakal"
+          "sakal",
+          "sakally"
         ],
         "tts": [
           "aýal: goýy deri reňki, sakal"
@@ -7785,7 +7777,9 @@
           "el",
           "erkek",
           "gadagan",
+          "oglan",
           "üm",
+          "ýigit",
           "ÝOK ümleýän erkek"
         ],
         "tts": [
@@ -7798,8 +7792,10 @@
           "el",
           "erkek",
           "gadagan",
+          "oglan",
           "orta açyk deri reňki",
           "üm",
+          "ýigit",
           "ÝOK ümleýän erkek"
         ],
         "tts": [
@@ -7812,8 +7808,10 @@
           "el",
           "erkek",
           "gadagan",
+          "oglan",
           "orta deri reňki",
           "üm",
+          "ýigit",
           "ÝOK ümleýän erkek"
         ],
         "tts": [
@@ -7826,8 +7824,10 @@
           "el",
           "erkek",
           "gadagan",
+          "oglan",
           "orta goýy deri reňki",
           "üm",
+          "ýigit",
           "ÝOK ümleýän erkek"
         ],
         "tts": [
@@ -7841,7 +7841,9 @@
           "erkek",
           "gadagan",
           "goýy deri reňki",
+          "oglan",
           "üm",
+          "ýigit",
           "ÝOK ümleýän erkek"
         ],
         "tts": [
@@ -7851,9 +7853,11 @@
       "🙅🏻‍♀": {
         "default": [
           "açyk deri reňki",
+          "aýal",
           "bolanok",
           "el",
           "gadagan",
+          "gyz",
           "üm",
           "ÝOK ümleýän zenan",
           "zenan"
@@ -7864,9 +7868,11 @@
       },
       "🙅🏼‍♀": {
         "default": [
+          "aýal",
           "bolanok",
           "el",
           "gadagan",
+          "gyz",
           "orta açyk deri reňki",
           "üm",
           "ÝOK ümleýän zenan",
@@ -7878,9 +7884,11 @@
       },
       "🙅🏽‍♀": {
         "default": [
+          "aýal",
           "bolanok",
           "el",
           "gadagan",
+          "gyz",
           "orta deri reňki",
           "üm",
           "ÝOK ümleýän zenan",
@@ -7892,9 +7900,11 @@
       },
       "🙅🏾‍♀": {
         "default": [
+          "aýal",
           "bolanok",
           "el",
           "gadagan",
+          "gyz",
           "orta goýy deri reňki",
           "üm",
           "ÝOK ümleýän zenan",
@@ -7906,10 +7916,12 @@
       },
       "🙅🏿‍♀": {
         "default": [
+          "aýal",
           "bolanok",
           "el",
           "gadagan",
           "goýy deri reňki",
+          "gyz",
           "üm",
           "ÝOK ümleýän zenan",
           "zenan"
@@ -9917,6 +9929,7 @@
         "default": [
           "açyk deri reňki",
           "adalat",
+          "aýal",
           "terezi",
           "zenan",
           "zenan kazy"
@@ -9928,6 +9941,7 @@
       "👩🏼‍⚖": {
         "default": [
           "adalat",
+          "aýal",
           "orta açyk deri reňki",
           "terezi",
           "zenan",
@@ -9940,6 +9954,7 @@
       "👩🏽‍⚖": {
         "default": [
           "adalat",
+          "aýal",
           "orta deri reňki",
           "terezi",
           "zenan",
@@ -9952,6 +9967,7 @@
       "👩🏾‍⚖": {
         "default": [
           "adalat",
+          "aýal",
           "orta goýy deri reňki",
           "terezi",
           "zenan",
@@ -9964,6 +9980,7 @@
       "👩🏿‍⚖": {
         "default": [
           "adalat",
+          "aýal",
           "goýy deri reňki",
           "terezi",
           "zenan",
@@ -10505,7 +10522,8 @@
           "fabrik işçisi",
           "işçi",
           "senagat",
-          "ýygnama"
+          "ýygnama",
+          "zawod"
         ],
         "tts": [
           "fabrik işçisi: açyk deri reňki"
@@ -10518,7 +10536,8 @@
           "işçi",
           "orta açyk deri reňki",
           "senagat",
-          "ýygnama"
+          "ýygnama",
+          "zawod"
         ],
         "tts": [
           "fabrik işçisi: orta açyk deri reňki"
@@ -10531,7 +10550,8 @@
           "işçi",
           "orta deri reňki",
           "senagat",
-          "ýygnama"
+          "ýygnama",
+          "zawod"
         ],
         "tts": [
           "fabrik işçisi: orta deri reňki"
@@ -10544,7 +10564,8 @@
           "işçi",
           "orta goýy deri reňki",
           "senagat",
-          "ýygnama"
+          "ýygnama",
+          "zawod"
         ],
         "tts": [
           "fabrik işçisi: orta goýy deri reňki"
@@ -10557,7 +10578,8 @@
           "goýy deri reňki",
           "işçi",
           "senagat",
-          "ýygnama"
+          "ýygnama",
+          "zawod"
         ],
         "tts": [
           "fabrik işçisi: goýy deri reňki"
@@ -10709,8 +10731,10 @@
           "ak ýaka",
           "binagär",
           "dolandyryjy",
-          "edara işçisi",
-          "işewürlik"
+          "edara işgäri",
+          "işewürlik",
+          "ofis",
+          "resmi"
         ],
         "tts": [
           "edara işçisi: açyk deri reňki"
@@ -10721,9 +10745,11 @@
           "ak ýaka",
           "binagär",
           "dolandyryjy",
-          "edara işçisi",
+          "edara işgäri",
           "işewürlik",
-          "orta açyk deri reňki"
+          "ofis",
+          "orta açyk deri reňki",
+          "resmi"
         ],
         "tts": [
           "edara işçisi: orta açyk deri reňki"
@@ -10734,9 +10760,11 @@
           "ak ýaka",
           "binagär",
           "dolandyryjy",
-          "edara işçisi",
+          "edara işgäri",
           "işewürlik",
-          "orta deri reňki"
+          "ofis",
+          "orta deri reňki",
+          "resmi"
         ],
         "tts": [
           "edara işçisi: orta deri reňki"
@@ -10747,9 +10775,11 @@
           "ak ýaka",
           "binagär",
           "dolandyryjy",
-          "edara işçisi",
+          "edara işgäri",
           "işewürlik",
-          "orta goýy deri reňki"
+          "ofis",
+          "orta goýy deri reňki",
+          "resmi"
         ],
         "tts": [
           "edara işçisi: orta goýy deri reňki"
@@ -10760,9 +10790,11 @@
           "ak ýaka",
           "binagär",
           "dolandyryjy",
-          "edara işçisi",
+          "edara işgäri",
           "goýy deri reňki",
-          "işewürlik"
+          "işewürlik",
+          "ofis",
+          "resmi"
         ],
         "tts": [
           "edara işçisi: goýy deri reňki"
@@ -11052,6 +11084,7 @@
         "default": [
           "açyk deri reňki",
           "alym",
+          "aýal",
           "biolog",
           "fizik",
           "himik",
@@ -11065,6 +11098,7 @@
       "👩🏼‍🔬": {
         "default": [
           "alym",
+          "aýal",
           "biolog",
           "fizik",
           "himik",
@@ -11079,6 +11113,7 @@
       "👩🏽‍🔬": {
         "default": [
           "alym",
+          "aýal",
           "biolog",
           "fizik",
           "himik",
@@ -11093,6 +11128,7 @@
       "👩🏾‍🔬": {
         "default": [
           "alym",
+          "aýal",
           "biolog",
           "fizik",
           "himik",
@@ -11107,6 +11143,7 @@
       "👩🏿‍🔬": {
         "default": [
           "alym",
+          "aýal",
           "biolog",
           "fizik",
           "goýy deri reňki",
@@ -14025,7 +14062,8 @@
           "bäbek",
           "emdirýän",
           "erkek",
-          "ideg"
+          "ideg",
+          "süýt berýän"
         ],
         "tts": [
           "bäbegi emdirýän erkek: açyk deri reňki"
@@ -14038,7 +14076,8 @@
           "emdirýän",
           "erkek",
           "ideg",
-          "orta açyk deri reňki"
+          "orta açyk deri reňki",
+          "süýt berýän"
         ],
         "tts": [
           "bäbegi emdirýän erkek: orta açyk deri reňki"
@@ -14051,7 +14090,8 @@
           "emdirýän",
           "erkek",
           "ideg",
-          "orta deri reňki"
+          "orta deri reňki",
+          "süýt berýän"
         ],
         "tts": [
           "bäbegi emdirýän erkek: orta deri reňki"
@@ -14064,7 +14104,8 @@
           "emdirýän",
           "erkek",
           "ideg",
-          "orta goýy deri reňki"
+          "orta goýy deri reňki",
+          "süýt berýän"
         ],
         "tts": [
           "bäbegi emdirýän erkek: orta goýy deri reňki"
@@ -14077,7 +14118,8 @@
           "emdirýän",
           "erkek",
           "goýy deri reňki",
-          "ideg"
+          "ideg",
+          "süýt berýän"
         ],
         "tts": [
           "bäbegi emdirýän erkek: goýy deri reňki"
@@ -14088,9 +14130,11 @@
           "açyk deri reňki",
           "adam",
           "bäbegi emdirýän adam",
-          "bebek",
+          "bäbek",
           "emdirýän",
-          "ideg"
+          "ideg",
+          "süýt",
+          "süýt berýän"
         ],
         "tts": [
           "bäbegi emdirýän adam: açyk deri reňki"
@@ -14100,10 +14144,12 @@
         "default": [
           "adam",
           "bäbegi emdirýän adam",
-          "bebek",
+          "bäbek",
           "emdirýän",
           "ideg",
-          "orta açyk deri reňki"
+          "orta açyk deri reňki",
+          "süýt",
+          "süýt berýän"
         ],
         "tts": [
           "bäbegi emdirýän adam: orta açyk deri reňki"
@@ -14113,10 +14159,12 @@
         "default": [
           "adam",
           "bäbegi emdirýän adam",
-          "bebek",
+          "bäbek",
           "emdirýän",
           "ideg",
-          "orta deri reňki"
+          "orta deri reňki",
+          "süýt",
+          "süýt berýän"
         ],
         "tts": [
           "bäbegi emdirýän adam: orta deri reňki"
@@ -14126,10 +14174,12 @@
         "default": [
           "adam",
           "bäbegi emdirýän adam",
-          "bebek",
+          "bäbek",
           "emdirýän",
           "ideg",
-          "orta goýy deri reňki"
+          "orta goýy deri reňki",
+          "süýt",
+          "süýt berýän"
         ],
         "tts": [
           "bäbegi emdirýän adam: orta goýy deri reňki"
@@ -14139,10 +14189,12 @@
         "default": [
           "adam",
           "bäbegi emdirýän adam",
-          "bebek",
+          "bäbek",
           "emdirýän",
           "goýy deri reňki",
-          "ideg"
+          "ideg",
+          "süýt",
+          "süýt berýän"
         ],
         "tts": [
           "bäbegi emdirýän adam: goýy deri reňki"
@@ -14217,7 +14269,6 @@
         "default": [
           "açyk deri reňki",
           "aýaz",
-          "Aýaz baba",
           "baba",
           "baýramçylyk",
           "kaka",
@@ -14230,7 +14281,6 @@
       "🎅🏼": {
         "default": [
           "aýaz",
-          "Aýaz baba",
           "baba",
           "baýramçylyk",
           "kaka",
@@ -14244,7 +14294,6 @@
       "🎅🏽": {
         "default": [
           "aýaz",
-          "Aýaz baba",
           "baba",
           "baýramçylyk",
           "kaka",
@@ -14258,7 +14307,6 @@
       "🎅🏾": {
         "default": [
           "aýaz",
-          "Aýaz baba",
           "baba",
           "baýramçylyk",
           "kaka",
@@ -14272,7 +14320,6 @@
       "🎅🏿": {
         "default": [
           "aýaz",
-          "Aýaz baba",
           "baba",
           "baýramçylyk",
           "goýy deri reňki",
@@ -14356,8 +14403,15 @@
       "🧑🏻‍🎄": {
         "default": [
           "açyk deri reňki",
-          "Klaus, roždestwo",
-          "maks klaus"
+          "adam",
+          "baýramçylyk",
+          "daus",
+          "mksklaus",
+          "Roždestwo",
+          "santa",
+          "santy",
+          "şatlykly Roždestwo",
+          "şlýapa"
         ],
         "tts": [
           "maks klaus: açyk deri reňki"
@@ -14365,9 +14419,16 @@
       },
       "🧑🏼‍🎄": {
         "default": [
-          "Klaus, roždestwo",
-          "maks klaus",
-          "orta açyk deri reňki"
+          "adam",
+          "baýramçylyk",
+          "daus",
+          "mksklaus",
+          "orta açyk deri reňki",
+          "Roždestwo",
+          "santa",
+          "santy",
+          "şatlykly Roždestwo",
+          "şlýapa"
         ],
         "tts": [
           "maks klaus: orta açyk deri reňki"
@@ -14375,9 +14436,16 @@
       },
       "🧑🏽‍🎄": {
         "default": [
-          "Klaus, roždestwo",
-          "maks klaus",
-          "orta deri reňki"
+          "adam",
+          "baýramçylyk",
+          "daus",
+          "mksklaus",
+          "orta deri reňki",
+          "Roždestwo",
+          "santa",
+          "santy",
+          "şatlykly Roždestwo",
+          "şlýapa"
         ],
         "tts": [
           "maks klaus: orta deri reňki"
@@ -14385,9 +14453,16 @@
       },
       "🧑🏾‍🎄": {
         "default": [
-          "Klaus, roždestwo",
-          "maks klaus",
-          "orta goýy deri reňki"
+          "adam",
+          "baýramçylyk",
+          "daus",
+          "mksklaus",
+          "orta goýy deri reňki",
+          "Roždestwo",
+          "santa",
+          "santy",
+          "şatlykly Roždestwo",
+          "şlýapa"
         ],
         "tts": [
           "maks klaus: orta goýy deri reňki"
@@ -14395,9 +14470,16 @@
       },
       "🧑🏿‍🎄": {
         "default": [
+          "adam",
+          "baýramçylyk",
+          "daus",
           "goýy deri reňki",
-          "Klaus, roždestwo",
-          "maks klaus"
+          "mksklaus",
+          "Roždestwo",
+          "santa",
+          "santy",
+          "şatlykly Roždestwo",
+          "şlýapa"
         ],
         "tts": [
           "maks klaus: goýy deri reňki"
@@ -16138,6 +16220,255 @@
           "ýörap barýan zenan: goýy deri reňki"
         ]
       },
+      "🚶‍➡": {
+        "default": [
+          "saga",
+          "uzyn ýöriş",
+          "ýöräp barýan adam",
+          "ýöremek",
+          "ýöreýän",
+          "ýüzi"
+        ],
+        "tts": [
+          "ýöräp barýan adam: ýüzi saga"
+        ]
+      },
+      "🚶🏻‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "saga",
+          "uzyn ýöriş",
+          "ýöräp barýan adam",
+          "ýöremek",
+          "ýöreýän",
+          "ýüzi"
+        ],
+        "tts": [
+          "ýöräp barýan adam: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🚶🏼‍➡": {
+        "default": [
+          "orta açyk deri reňki",
+          "saga",
+          "uzyn ýöriş",
+          "ýöräp barýan adam",
+          "ýöremek",
+          "ýöreýän",
+          "ýüzi"
+        ],
+        "tts": [
+          "ýöräp barýan adam: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🚶🏽‍➡": {
+        "default": [
+          "orta deri reňki",
+          "saga",
+          "uzyn ýöriş",
+          "ýöräp barýan adam",
+          "ýöremek",
+          "ýöreýän",
+          "ýüzi"
+        ],
+        "tts": [
+          "ýöräp barýan adam: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "🚶🏾‍➡": {
+        "default": [
+          "orta goýy deri reňki",
+          "saga",
+          "uzyn ýöriş",
+          "ýöräp barýan adam",
+          "ýöremek",
+          "ýöreýän",
+          "ýüzi"
+        ],
+        "tts": [
+          "ýöräp barýan adam: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🚶🏿‍➡": {
+        "default": [
+          "goýy deri reňki",
+          "saga",
+          "uzyn ýöriş",
+          "ýöräp barýan adam",
+          "ýöremek",
+          "ýöreýän",
+          "ýüzi"
+        ],
+        "tts": [
+          "ýöräp barýan adam: goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🚶‍♀‍➡": {
+        "default": [
+          "saga",
+          "uzyn ýöriş",
+          "ýörap barýan zenan",
+          "ýöremek",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "ýörap barýan zenan: ýüzi saga"
+        ]
+      },
+      "🚶🏻‍♀‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "saga",
+          "uzyn ýöriş",
+          "ýörap barýan zenan",
+          "ýöremek",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "ýörap barýan zenan: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🚶🏼‍♀‍➡": {
+        "default": [
+          "orta açyk deri reňki",
+          "saga",
+          "uzyn ýöriş",
+          "ýörap barýan zenan",
+          "ýöremek",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "ýörap barýan zenan: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🚶🏽‍♀‍➡": {
+        "default": [
+          "orta deri reňki",
+          "saga",
+          "uzyn ýöriş",
+          "ýörap barýan zenan",
+          "ýöremek",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "ýörap barýan zenan: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "🚶🏾‍♀‍➡": {
+        "default": [
+          "orta goýy deri reňki",
+          "saga",
+          "uzyn ýöriş",
+          "ýörap barýan zenan",
+          "ýöremek",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "ýörap barýan zenan: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🚶🏿‍♀‍➡": {
+        "default": [
+          "goýy deri reňki",
+          "saga",
+          "uzyn ýöriş",
+          "ýörap barýan zenan",
+          "ýöremek",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "ýörap barýan zenan: goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🚶‍♂‍➡": {
+        "default": [
+          "erkek",
+          "saga",
+          "uzyn ýöriş",
+          "ýöräp barýan erkek",
+          "ýöremek",
+          "ýüzi"
+        ],
+        "tts": [
+          "ýöräp barýan erkek: ýüzi saga"
+        ]
+      },
+      "🚶🏻‍♂‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "erkek",
+          "saga",
+          "uzyn ýöriş",
+          "ýöräp barýan erkek",
+          "ýöremek",
+          "ýüzi"
+        ],
+        "tts": [
+          "ýöräp barýan erkek: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🚶🏼‍♂‍➡": {
+        "default": [
+          "erkek",
+          "orta açyk deri reňki",
+          "saga",
+          "uzyn ýöriş",
+          "ýöräp barýan erkek",
+          "ýöremek",
+          "ýüzi"
+        ],
+        "tts": [
+          "ýöräp barýan erkek: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🚶🏽‍♂‍➡": {
+        "default": [
+          "erkek",
+          "orta deri reňki",
+          "saga",
+          "uzyn ýöriş",
+          "ýöräp barýan erkek",
+          "ýöremek",
+          "ýüzi"
+        ],
+        "tts": [
+          "ýöräp barýan erkek: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "🚶🏾‍♂‍➡": {
+        "default": [
+          "erkek",
+          "orta goýy deri reňki",
+          "saga",
+          "uzyn ýöriş",
+          "ýöräp barýan erkek",
+          "ýöremek",
+          "ýüzi"
+        ],
+        "tts": [
+          "ýöräp barýan erkek: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🚶🏿‍♂‍➡": {
+        "default": [
+          "erkek",
+          "goýy deri reňki",
+          "saga",
+          "uzyn ýöriş",
+          "ýöräp barýan erkek",
+          "ýöremek",
+          "ýüzi"
+        ],
+        "tts": [
+          "ýöräp barýan erkek: goýy deri reňki, ýüzi saga"
+        ]
+      },
       "🧍🏻": {
         "default": [
           "açyk deri reňki",
@@ -16468,13 +16799,247 @@
           "dyza çöken zenan: goýy deri reňki"
         ]
       },
+      "🧎‍➡": {
+        "default": [
+          "dyza çök",
+          "dyza çöken",
+          "dyza çöken adam",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "dyza çöken adam: ýüzi saga"
+        ]
+      },
+      "🧎🏻‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "dyza çök",
+          "dyza çöken",
+          "dyza çöken adam",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "dyza çöken adam: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🧎🏼‍➡": {
+        "default": [
+          "dyza çök",
+          "dyza çöken",
+          "dyza çöken adam",
+          "orta açyk deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "dyza çöken adam: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🧎🏽‍➡": {
+        "default": [
+          "dyza çök",
+          "dyza çöken",
+          "dyza çöken adam",
+          "orta deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "dyza çöken adam: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "🧎🏾‍➡": {
+        "default": [
+          "dyza çök",
+          "dyza çöken",
+          "dyza çöken adam",
+          "orta goýy deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "dyza çöken adam: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🧎🏿‍➡": {
+        "default": [
+          "dyza çök",
+          "dyza çöken",
+          "dyza çöken adam",
+          "goýy deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "dyza çöken adam: goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🧎‍♀‍➡": {
+        "default": [
+          "dyza çöken",
+          "dyza çöken zenan",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "dyza çöken zenan: ýüzi saga"
+        ]
+      },
+      "🧎🏻‍♀‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "dyza çöken",
+          "dyza çöken zenan",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "dyza çöken zenan: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🧎🏼‍♀‍➡": {
+        "default": [
+          "dyza çöken",
+          "dyza çöken zenan",
+          "orta açyk deri reňki",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "dyza çöken zenan: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🧎🏽‍♀‍➡": {
+        "default": [
+          "dyza çöken",
+          "dyza çöken zenan",
+          "orta deri reňki",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "dyza çöken zenan: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "🧎🏾‍♀‍➡": {
+        "default": [
+          "dyza çöken",
+          "dyza çöken zenan",
+          "orta goýy deri reňki",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "dyza çöken zenan: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🧎🏿‍♀‍➡": {
+        "default": [
+          "dyza çöken",
+          "dyza çöken zenan",
+          "goýy deri reňki",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "dyza çöken zenan: goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🧎‍♂‍➡": {
+        "default": [
+          "dyza çöken",
+          "dyza çöken erkek",
+          "erkek",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "dyza çöken erkek: ýüzi saga"
+        ]
+      },
+      "🧎🏻‍♂‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "dyza çöken",
+          "dyza çöken erkek",
+          "erkek",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "dyza çöken erkek: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🧎🏼‍♂‍➡": {
+        "default": [
+          "dyza çöken",
+          "dyza çöken erkek",
+          "erkek",
+          "orta açyk deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "dyza çöken erkek: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🧎🏽‍♂‍➡": {
+        "default": [
+          "dyza çöken",
+          "dyza çöken erkek",
+          "erkek",
+          "orta deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "dyza çöken erkek: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "🧎🏾‍♂‍➡": {
+        "default": [
+          "dyza çöken",
+          "dyza çöken erkek",
+          "erkek",
+          "orta goýy deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "dyza çöken erkek: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🧎🏿‍♂‍➡": {
+        "default": [
+          "dyza çöken",
+          "dyza çöken erkek",
+          "erkek",
+          "goýy deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "dyza çöken erkek: goýy deri reňki, ýüzi saga"
+        ]
+      },
       "🧑🏻‍🦯": {
         "default": [
           "açyk deri reňki",
           "ak hasaly kişi",
           "elýeterlilik",
+          "gözi görmeýän",
+          "hasa",
           "kör",
-          "kör hasaly adam"
+          "kör hasaly adam",
+          "taýak"
         ],
         "tts": [
           "kör hasaly adam: açyk deri reňki"
@@ -16484,9 +17049,12 @@
         "default": [
           "ak hasaly kişi",
           "elýeterlilik",
+          "gözi görmeýän",
+          "hasa",
           "kör",
           "kör hasaly adam",
-          "orta açyk deri reňki"
+          "orta açyk deri reňki",
+          "taýak"
         ],
         "tts": [
           "kör hasaly adam: orta açyk deri reňki"
@@ -16496,9 +17064,12 @@
         "default": [
           "ak hasaly kişi",
           "elýeterlilik",
+          "gözi görmeýän",
+          "hasa",
           "kör",
           "kör hasaly adam",
-          "orta deri reňki"
+          "orta deri reňki",
+          "taýak"
         ],
         "tts": [
           "kör hasaly adam: orta deri reňki"
@@ -16508,9 +17079,12 @@
         "default": [
           "ak hasaly kişi",
           "elýeterlilik",
+          "gözi görmeýän",
+          "hasa",
           "kör",
           "kör hasaly adam",
-          "orta goýy deri reňki"
+          "orta goýy deri reňki",
+          "taýak"
         ],
         "tts": [
           "kör hasaly adam: orta goýy deri reňki"
@@ -16521,11 +17095,115 @@
           "ak hasaly kişi",
           "elýeterlilik",
           "goýy deri reňki",
+          "gözi görmeýän",
+          "hasa",
           "kör",
-          "kör hasaly adam"
+          "kör hasaly adam",
+          "taýak"
         ],
         "tts": [
           "kör hasaly adam: goýy deri reňki"
+        ]
+      },
+      "🧑‍🦯‍➡": {
+        "default": [
+          "ak hasaly kişi",
+          "elýeterlilik",
+          "gözi görmeýän",
+          "hasa",
+          "kör",
+          "kör hasaly adam",
+          "saga",
+          "taýak",
+          "ýüzi"
+        ],
+        "tts": [
+          "kör hasaly adam: ýüzi saga"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "ak hasaly kişi",
+          "elýeterlilik",
+          "gözi görmeýän",
+          "hasa",
+          "kör",
+          "kör hasaly adam",
+          "saga",
+          "taýak",
+          "ýüzi"
+        ],
+        "tts": [
+          "kör hasaly adam: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🧑🏼‍🦯‍➡": {
+        "default": [
+          "ak hasaly kişi",
+          "elýeterlilik",
+          "gözi görmeýän",
+          "hasa",
+          "kör",
+          "kör hasaly adam",
+          "orta açyk deri reňki",
+          "saga",
+          "taýak",
+          "ýüzi"
+        ],
+        "tts": [
+          "kör hasaly adam: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "ak hasaly kişi",
+          "elýeterlilik",
+          "gözi görmeýän",
+          "hasa",
+          "kör",
+          "kör hasaly adam",
+          "orta deri reňki",
+          "saga",
+          "taýak",
+          "ýüzi"
+        ],
+        "tts": [
+          "kör hasaly adam: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "ak hasaly kişi",
+          "elýeterlilik",
+          "gözi görmeýän",
+          "hasa",
+          "kör",
+          "kör hasaly adam",
+          "orta goýy deri reňki",
+          "saga",
+          "taýak",
+          "ýüzi"
+        ],
+        "tts": [
+          "kör hasaly adam: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "ak hasaly kişi",
+          "elýeterlilik",
+          "goýy deri reňki",
+          "gözi görmeýän",
+          "hasa",
+          "kör",
+          "kör hasaly adam",
+          "saga",
+          "taýak",
+          "ýüzi"
+        ],
+        "tts": [
+          "kör hasaly adam: goýy deri reňki, ýüzi saga"
         ]
       },
       "👨🏻‍🦯": {
@@ -16588,6 +17266,89 @@
           "kör hasaly erkek: goýy deri reňki"
         ]
       },
+      "👨‍🦯‍➡": {
+        "default": [
+          "elýeterlilik",
+          "erkek",
+          "kör",
+          "kör hasaly erkek",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "kör hasaly erkek: ýüzi saga"
+        ]
+      },
+      "👨🏻‍🦯‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "elýeterlilik",
+          "erkek",
+          "kör",
+          "kör hasaly erkek",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "kör hasaly erkek: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "👨🏼‍🦯‍➡": {
+        "default": [
+          "elýeterlilik",
+          "erkek",
+          "kör",
+          "kör hasaly erkek",
+          "orta açyk deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "kör hasaly erkek: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "👨🏽‍🦯‍➡": {
+        "default": [
+          "elýeterlilik",
+          "erkek",
+          "kör",
+          "kör hasaly erkek",
+          "orta deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "kör hasaly erkek: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "👨🏾‍🦯‍➡": {
+        "default": [
+          "elýeterlilik",
+          "erkek",
+          "kör",
+          "kör hasaly erkek",
+          "orta goýy deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "kör hasaly erkek: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "👨🏿‍🦯‍➡": {
+        "default": [
+          "elýeterlilik",
+          "erkek",
+          "goýy deri reňki",
+          "kör",
+          "kör hasaly erkek",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "kör hasaly erkek: goýy deri reňki, ýüzi saga"
+        ]
+      },
       "👩🏻‍🦯": {
         "default": [
           "açyk deri reňki",
@@ -16648,11 +17409,94 @@
           "kör hasaly zenan: goýy deri reňki"
         ]
       },
+      "👩‍🦯‍➡": {
+        "default": [
+          "elýeterlilik",
+          "kör",
+          "kör hasaly zenan",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "kör hasaly zenan: ýüzi saga"
+        ]
+      },
+      "👩🏻‍🦯‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "elýeterlilik",
+          "kör",
+          "kör hasaly zenan",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "kör hasaly zenan: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "👩🏼‍🦯‍➡": {
+        "default": [
+          "elýeterlilik",
+          "kör",
+          "kör hasaly zenan",
+          "orta açyk deri reňki",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "kör hasaly zenan: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "👩🏽‍🦯‍➡": {
+        "default": [
+          "elýeterlilik",
+          "kör",
+          "kör hasaly zenan",
+          "orta deri reňki",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "kör hasaly zenan: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "👩🏾‍🦯‍➡": {
+        "default": [
+          "elýeterlilik",
+          "kör",
+          "kör hasaly zenan",
+          "orta goýy deri reňki",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "kör hasaly zenan: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "👩🏿‍🦯‍➡": {
+        "default": [
+          "elýeterlilik",
+          "goýy deri reňki",
+          "kör",
+          "kör hasaly zenan",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "kör hasaly zenan: goýy deri reňki, ýüzi saga"
+        ]
+      },
       "🧑🏻‍🦼": {
         "default": [
           "açyk deri reňki",
           "elýeterlilik",
-          "motorly arabajykdaky adam",
+          "maýyp arabasy",
           "tigirçekli oturgyç"
         ],
         "tts": [
@@ -16662,7 +17506,7 @@
       "🧑🏼‍🦼": {
         "default": [
           "elýeterlilik",
-          "motorly arabajykdaky adam",
+          "maýyp arabasy",
           "orta açyk deri reňki",
           "tigirçekli oturgyç"
         ],
@@ -16673,7 +17517,7 @@
       "🧑🏽‍🦼": {
         "default": [
           "elýeterlilik",
-          "motorly arabajykdaky adam",
+          "maýyp arabasy",
           "orta deri reňki",
           "tigirçekli oturgyç"
         ],
@@ -16684,7 +17528,7 @@
       "🧑🏾‍🦼": {
         "default": [
           "elýeterlilik",
-          "motorly arabajykdaky adam",
+          "maýyp arabasy",
           "orta goýy deri reňki",
           "tigirçekli oturgyç"
         ],
@@ -16696,11 +17540,88 @@
         "default": [
           "elýeterlilik",
           "goýy deri reňki",
-          "motorly arabajykdaky adam",
+          "maýyp arabasy",
           "tigirçekli oturgyç"
         ],
         "tts": [
           "motorly arabajykdaky adam: goýy deri reňki"
+        ]
+      },
+      "🧑‍🦼‍➡": {
+        "default": [
+          "elýeterlilik",
+          "maýyp arabasy",
+          "saga",
+          "tigirçekli oturgyç",
+          "ýüzi"
+        ],
+        "tts": [
+          "motorly arabajykdaky adam: ýüzi saga"
+        ]
+      },
+      "🧑🏻‍🦼‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "elýeterlilik",
+          "maýyp arabasy",
+          "saga",
+          "tigirçekli oturgyç",
+          "ýüzi"
+        ],
+        "tts": [
+          "motorly arabajykdaky adam: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🧑🏼‍🦼‍➡": {
+        "default": [
+          "elýeterlilik",
+          "maýyp arabasy",
+          "orta açyk deri reňki",
+          "saga",
+          "tigirçekli oturgyç",
+          "ýüzi"
+        ],
+        "tts": [
+          "motorly arabajykdaky adam: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🧑🏽‍🦼‍➡": {
+        "default": [
+          "elýeterlilik",
+          "maýyp arabasy",
+          "orta deri reňki",
+          "saga",
+          "tigirçekli oturgyç",
+          "ýüzi"
+        ],
+        "tts": [
+          "motorly arabajykdaky adam: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "🧑🏾‍🦼‍➡": {
+        "default": [
+          "elýeterlilik",
+          "maýyp arabasy",
+          "orta goýy deri reňki",
+          "saga",
+          "tigirçekli oturgyç",
+          "ýüzi"
+        ],
+        "tts": [
+          "motorly arabajykdaky adam: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🧑🏿‍🦼‍➡": {
+        "default": [
+          "elýeterlilik",
+          "goýy deri reňki",
+          "maýyp arabasy",
+          "saga",
+          "tigirçekli oturgyç",
+          "ýüzi"
+        ],
+        "tts": [
+          "motorly arabajykdaky adam: goýy deri reňki, ýüzi saga"
         ]
       },
       "👨🏻‍🦼": {
@@ -16763,6 +17684,89 @@
           "motorly maýyp arabasynda erkek: goýy deri reňki"
         ]
       },
+      "👨‍🦼‍➡": {
+        "default": [
+          "elýeterlilik",
+          "erkek",
+          "maýyp arabasy",
+          "motorly maýyp arabasynda erkek",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "motorly maýyp arabasynda erkek: ýüzi saga"
+        ]
+      },
+      "👨🏻‍🦼‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "elýeterlilik",
+          "erkek",
+          "maýyp arabasy",
+          "motorly maýyp arabasynda erkek",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "motorly maýyp arabasynda erkek: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "👨🏼‍🦼‍➡": {
+        "default": [
+          "elýeterlilik",
+          "erkek",
+          "maýyp arabasy",
+          "motorly maýyp arabasynda erkek",
+          "orta açyk deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "motorly maýyp arabasynda erkek: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "👨🏽‍🦼‍➡": {
+        "default": [
+          "elýeterlilik",
+          "erkek",
+          "maýyp arabasy",
+          "motorly maýyp arabasynda erkek",
+          "orta deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "motorly maýyp arabasynda erkek: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "👨🏾‍🦼‍➡": {
+        "default": [
+          "elýeterlilik",
+          "erkek",
+          "maýyp arabasy",
+          "motorly maýyp arabasynda erkek",
+          "orta goýy deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "motorly maýyp arabasynda erkek: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "👨🏿‍🦼‍➡": {
+        "default": [
+          "elýeterlilik",
+          "erkek",
+          "goýy deri reňki",
+          "maýyp arabasy",
+          "motorly maýyp arabasynda erkek",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "motorly maýyp arabasynda erkek: goýy deri reňki, ýüzi saga"
+        ]
+      },
       "👩🏻‍🦼": {
         "default": [
           "açyk deri reňki",
@@ -16823,11 +17827,95 @@
           "motorly maýyp arabasynda zenan: goýy deri reňki"
         ]
       },
+      "👩‍🦼‍➡": {
+        "default": [
+          "elýeterlilik",
+          "maýyp arabasy",
+          "motorly maýyp arabasynda zenan",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "motorly maýyp arabasynda zenan: ýüzi saga"
+        ]
+      },
+      "👩🏻‍🦼‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "elýeterlilik",
+          "maýyp arabasy",
+          "motorly maýyp arabasynda zenan",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "motorly maýyp arabasynda zenan: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "👩🏼‍🦼‍➡": {
+        "default": [
+          "elýeterlilik",
+          "maýyp arabasy",
+          "motorly maýyp arabasynda zenan",
+          "orta açyk deri reňki",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "motorly maýyp arabasynda zenan: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "👩🏽‍🦼‍➡": {
+        "default": [
+          "elýeterlilik",
+          "maýyp arabasy",
+          "motorly maýyp arabasynda zenan",
+          "orta deri reňki",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "motorly maýyp arabasynda zenan: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "👩🏾‍🦼‍➡": {
+        "default": [
+          "elýeterlilik",
+          "maýyp arabasy",
+          "motorly maýyp arabasynda zenan",
+          "orta goýy deri reňki",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "motorly maýyp arabasynda zenan: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "👩🏿‍🦼‍➡": {
+        "default": [
+          "elýeterlilik",
+          "goýy deri reňki",
+          "maýyp arabasy",
+          "motorly maýyp arabasynda zenan",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "motorly maýyp arabasynda zenan: goýy deri reňki, ýüzi saga"
+        ]
+      },
       "🧑🏻‍🦽": {
         "default": [
           "açyk deri reňki",
           "el bilen işleýän tigirçekli oturgyçdaky adam",
           "elýeterlilik",
+          "maýyp arabasy",
           "tigirçekli oturgyç"
         ],
         "tts": [
@@ -16838,6 +17926,7 @@
         "default": [
           "el bilen işleýän tigirçekli oturgyçdaky adam",
           "elýeterlilik",
+          "maýyp arabasy",
           "orta açyk deri reňki",
           "tigirçekli oturgyç"
         ],
@@ -16849,6 +17938,7 @@
         "default": [
           "el bilen işleýän tigirçekli oturgyçdaky adam",
           "elýeterlilik",
+          "maýyp arabasy",
           "orta deri reňki",
           "tigirçekli oturgyç"
         ],
@@ -16860,6 +17950,7 @@
         "default": [
           "el bilen işleýän tigirçekli oturgyçdaky adam",
           "elýeterlilik",
+          "maýyp arabasy",
           "orta goýy deri reňki",
           "tigirçekli oturgyç"
         ],
@@ -16872,10 +17963,94 @@
           "el bilen işleýän tigirçekli oturgyçdaky adam",
           "elýeterlilik",
           "goýy deri reňki",
+          "maýyp arabasy",
           "tigirçekli oturgyç"
         ],
         "tts": [
           "el bilen işleýän tigirçekli oturgyçdaky adam: goýy deri reňki"
+        ]
+      },
+      "🧑‍🦽‍➡": {
+        "default": [
+          "el bilen işleýän tigirçekli oturgyçdaky adam",
+          "elýeterlilik",
+          "maýyp arabasy",
+          "saga",
+          "tigirçekli oturgyç",
+          "ýüzi"
+        ],
+        "tts": [
+          "el bilen işleýän tigirçekli oturgyçdaky adam: ýüzi saga"
+        ]
+      },
+      "🧑🏻‍🦽‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "el bilen işleýän tigirçekli oturgyçdaky adam",
+          "elýeterlilik",
+          "maýyp arabasy",
+          "saga",
+          "tigirçekli oturgyç",
+          "ýüzi"
+        ],
+        "tts": [
+          "el bilen işleýän tigirçekli oturgyçdaky adam: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🧑🏼‍🦽‍➡": {
+        "default": [
+          "el bilen işleýän tigirçekli oturgyçdaky adam",
+          "elýeterlilik",
+          "maýyp arabasy",
+          "orta açyk deri reňki",
+          "saga",
+          "tigirçekli oturgyç",
+          "ýüzi"
+        ],
+        "tts": [
+          "el bilen işleýän tigirçekli oturgyçdaky adam: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🧑🏽‍🦽‍➡": {
+        "default": [
+          "el bilen işleýän tigirçekli oturgyçdaky adam",
+          "elýeterlilik",
+          "maýyp arabasy",
+          "orta deri reňki",
+          "saga",
+          "tigirçekli oturgyç",
+          "ýüzi"
+        ],
+        "tts": [
+          "el bilen işleýän tigirçekli oturgyçdaky adam: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "🧑🏾‍🦽‍➡": {
+        "default": [
+          "el bilen işleýän tigirçekli oturgyçdaky adam",
+          "elýeterlilik",
+          "maýyp arabasy",
+          "orta goýy deri reňki",
+          "saga",
+          "tigirçekli oturgyç",
+          "ýüzi"
+        ],
+        "tts": [
+          "el bilen işleýän tigirçekli oturgyçdaky adam: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🧑🏿‍🦽‍➡": {
+        "default": [
+          "el bilen işleýän tigirçekli oturgyçdaky adam",
+          "elýeterlilik",
+          "goýy deri reňki",
+          "maýyp arabasy",
+          "saga",
+          "tigirçekli oturgyç",
+          "ýüzi"
+        ],
+        "tts": [
+          "el bilen işleýän tigirçekli oturgyçdaky adam: goýy deri reňki, ýüzi saga"
         ]
       },
       "👨🏻‍🦽": {
@@ -16938,6 +18113,89 @@
           "el maýyp arabasynda erkek: goýy deri reňki"
         ]
       },
+      "👨‍🦽‍➡": {
+        "default": [
+          "el maýyp arabasynda erkek",
+          "elýeterlilik",
+          "erkek",
+          "maýyp arabasy",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "el maýyp arabasynda erkek: ýüzi saga"
+        ]
+      },
+      "👨🏻‍🦽‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "el maýyp arabasynda erkek",
+          "elýeterlilik",
+          "erkek",
+          "maýyp arabasy",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "el maýyp arabasynda erkek: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "👨🏼‍🦽‍➡": {
+        "default": [
+          "el maýyp arabasynda erkek",
+          "elýeterlilik",
+          "erkek",
+          "maýyp arabasy",
+          "orta açyk deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "el maýyp arabasynda erkek: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "👨🏽‍🦽‍➡": {
+        "default": [
+          "el maýyp arabasynda erkek",
+          "elýeterlilik",
+          "erkek",
+          "maýyp arabasy",
+          "orta deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "el maýyp arabasynda erkek: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "👨🏾‍🦽‍➡": {
+        "default": [
+          "el maýyp arabasynda erkek",
+          "elýeterlilik",
+          "erkek",
+          "maýyp arabasy",
+          "orta goýy deri reňki",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "el maýyp arabasynda erkek: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "👨🏿‍🦽‍➡": {
+        "default": [
+          "el maýyp arabasynda erkek",
+          "elýeterlilik",
+          "erkek",
+          "goýy deri reňki",
+          "maýyp arabasy",
+          "saga",
+          "ýüzi"
+        ],
+        "tts": [
+          "el maýyp arabasynda erkek: goýy deri reňki, ýüzi saga"
+        ]
+      },
       "👩🏻‍🦽": {
         "default": [
           "açyk deri reňki",
@@ -16998,6 +18256,89 @@
           "el maýyp arabasynda zenan: goýy deri reňki"
         ]
       },
+      "👩‍🦽‍➡": {
+        "default": [
+          "el maýyp arabasynda zenan",
+          "elýeterlilik",
+          "maýyp arabasy",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "el maýyp arabasynda zenan: ýüzi saga"
+        ]
+      },
+      "👩🏻‍🦽‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "el maýyp arabasynda zenan",
+          "elýeterlilik",
+          "maýyp arabasy",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "el maýyp arabasynda zenan: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "👩🏼‍🦽‍➡": {
+        "default": [
+          "el maýyp arabasynda zenan",
+          "elýeterlilik",
+          "maýyp arabasy",
+          "orta açyk deri reňki",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "el maýyp arabasynda zenan: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "👩🏽‍🦽‍➡": {
+        "default": [
+          "el maýyp arabasynda zenan",
+          "elýeterlilik",
+          "maýyp arabasy",
+          "orta deri reňki",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "el maýyp arabasynda zenan: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "👩🏾‍🦽‍➡": {
+        "default": [
+          "el maýyp arabasynda zenan",
+          "elýeterlilik",
+          "maýyp arabasy",
+          "orta goýy deri reňki",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "el maýyp arabasynda zenan: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "👩🏿‍🦽‍➡": {
+        "default": [
+          "el maýyp arabasynda zenan",
+          "elýeterlilik",
+          "goýy deri reňki",
+          "maýyp arabasy",
+          "saga",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "el maýyp arabasynda zenan: goýy deri reňki, ýüzi saga"
+        ]
+      },
       "🏃🏻": {
         "default": [
           "açyk deri reňki",
@@ -17056,9 +18397,13 @@
       "🏃🏻‍♂": {
         "default": [
           "açyk deri reňki",
+          "çalt",
+          "derrew",
           "erkek",
+          "howlukmaç",
           "marafon",
           "ýaryş",
+          "ylga",
           "ylgap barýan erkek",
           "ylgaýan"
         ],
@@ -17068,10 +18413,14 @@
       },
       "🏃🏼‍♂": {
         "default": [
+          "çalt",
+          "derrew",
           "erkek",
+          "howlukmaç",
           "marafon",
           "orta açyk deri reňki",
           "ýaryş",
+          "ylga",
           "ylgap barýan erkek",
           "ylgaýan"
         ],
@@ -17081,10 +18430,14 @@
       },
       "🏃🏽‍♂": {
         "default": [
+          "çalt",
+          "derrew",
           "erkek",
+          "howlukmaç",
           "marafon",
           "orta deri reňki",
           "ýaryş",
+          "ylga",
           "ylgap barýan erkek",
           "ylgaýan"
         ],
@@ -17094,10 +18447,14 @@
       },
       "🏃🏾‍♂": {
         "default": [
+          "çalt",
+          "derrew",
           "erkek",
+          "howlukmaç",
           "marafon",
           "orta goýy deri reňki",
           "ýaryş",
+          "ylga",
           "ylgap barýan erkek",
           "ylgaýan"
         ],
@@ -17107,10 +18464,14 @@
       },
       "🏃🏿‍♂": {
         "default": [
+          "çalt",
+          "derrew",
           "erkek",
           "goýy deri reňki",
+          "howlukmaç",
           "marafon",
           "ýaryş",
+          "ylga",
           "ylgap barýan erkek",
           "ylgaýan"
         ],
@@ -17181,6 +18542,285 @@
         ],
         "tts": [
           "ylgap barýan zenan: goýy deri reňki"
+        ]
+      },
+      "🏃‍➡": {
+        "default": [
+          "marafon",
+          "saga",
+          "ylgap barýan adam",
+          "ylgaýan",
+          "ýüzi"
+        ],
+        "tts": [
+          "ylgap barýan adam: ýüzi saga"
+        ]
+      },
+      "🏃🏻‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "marafon",
+          "saga",
+          "ylgap barýan adam",
+          "ylgaýan",
+          "ýüzi"
+        ],
+        "tts": [
+          "ylgap barýan adam: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🏃🏼‍➡": {
+        "default": [
+          "marafon",
+          "orta açyk deri reňki",
+          "saga",
+          "ylgap barýan adam",
+          "ylgaýan",
+          "ýüzi"
+        ],
+        "tts": [
+          "ylgap barýan adam: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🏃🏽‍➡": {
+        "default": [
+          "marafon",
+          "orta deri reňki",
+          "saga",
+          "ylgap barýan adam",
+          "ylgaýan",
+          "ýüzi"
+        ],
+        "tts": [
+          "ylgap barýan adam: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "🏃🏾‍➡": {
+        "default": [
+          "marafon",
+          "orta goýy deri reňki",
+          "saga",
+          "ylgap barýan adam",
+          "ylgaýan",
+          "ýüzi"
+        ],
+        "tts": [
+          "ylgap barýan adam: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🏃🏿‍➡": {
+        "default": [
+          "goýy deri reňki",
+          "marafon",
+          "saga",
+          "ylgap barýan adam",
+          "ylgaýan",
+          "ýüzi"
+        ],
+        "tts": [
+          "ylgap barýan adam: goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🏃‍♀‍➡": {
+        "default": [
+          "marafon",
+          "saga",
+          "ýaryş",
+          "ylgap barýan zenan",
+          "ylgaýan",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "ylgap barýan zenan: ýüzi saga"
+        ]
+      },
+      "🏃🏻‍♀‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "marafon",
+          "saga",
+          "ýaryş",
+          "ylgap barýan zenan",
+          "ylgaýan",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "ylgap barýan zenan: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🏃🏼‍♀‍➡": {
+        "default": [
+          "marafon",
+          "orta açyk deri reňki",
+          "saga",
+          "ýaryş",
+          "ylgap barýan zenan",
+          "ylgaýan",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "ylgap barýan zenan: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🏃🏽‍♀‍➡": {
+        "default": [
+          "marafon",
+          "orta deri reňki",
+          "saga",
+          "ýaryş",
+          "ylgap barýan zenan",
+          "ylgaýan",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "ylgap barýan zenan: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "🏃🏾‍♀‍➡": {
+        "default": [
+          "marafon",
+          "orta goýy deri reňki",
+          "saga",
+          "ýaryş",
+          "ylgap barýan zenan",
+          "ylgaýan",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "ylgap barýan zenan: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🏃🏿‍♀‍➡": {
+        "default": [
+          "goýy deri reňki",
+          "marafon",
+          "saga",
+          "ýaryş",
+          "ylgap barýan zenan",
+          "ylgaýan",
+          "ýüzi",
+          "zenan"
+        ],
+        "tts": [
+          "ylgap barýan zenan: goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🏃‍♂‍➡": {
+        "default": [
+          "çalt",
+          "derrew",
+          "erkek",
+          "howlukmaç",
+          "marafon",
+          "saga",
+          "ýaryş",
+          "ylga",
+          "ylgap barýan erkek",
+          "ylgaýan",
+          "ýüzi"
+        ],
+        "tts": [
+          "ylgap barýan erkek: ýüzi saga"
+        ]
+      },
+      "🏃🏻‍♂‍➡": {
+        "default": [
+          "açyk deri reňki",
+          "çalt",
+          "derrew",
+          "erkek",
+          "howlukmaç",
+          "marafon",
+          "saga",
+          "ýaryş",
+          "ylga",
+          "ylgap barýan erkek",
+          "ylgaýan",
+          "ýüzi"
+        ],
+        "tts": [
+          "ylgap barýan erkek: açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🏃🏼‍♂‍➡": {
+        "default": [
+          "çalt",
+          "derrew",
+          "erkek",
+          "howlukmaç",
+          "marafon",
+          "orta açyk deri reňki",
+          "saga",
+          "ýaryş",
+          "ylga",
+          "ylgap barýan erkek",
+          "ylgaýan",
+          "ýüzi"
+        ],
+        "tts": [
+          "ylgap barýan erkek: orta açyk deri reňki, ýüzi saga"
+        ]
+      },
+      "🏃🏽‍♂‍➡": {
+        "default": [
+          "çalt",
+          "derrew",
+          "erkek",
+          "howlukmaç",
+          "marafon",
+          "orta deri reňki",
+          "saga",
+          "ýaryş",
+          "ylga",
+          "ylgap barýan erkek",
+          "ylgaýan",
+          "ýüzi"
+        ],
+        "tts": [
+          "ylgap barýan erkek: orta deri reňki, ýüzi saga"
+        ]
+      },
+      "🏃🏾‍♂‍➡": {
+        "default": [
+          "çalt",
+          "derrew",
+          "erkek",
+          "howlukmaç",
+          "marafon",
+          "orta goýy deri reňki",
+          "saga",
+          "ýaryş",
+          "ylga",
+          "ylgap barýan erkek",
+          "ylgaýan",
+          "ýüzi"
+        ],
+        "tts": [
+          "ylgap barýan erkek: orta goýy deri reňki, ýüzi saga"
+        ]
+      },
+      "🏃🏿‍♂‍➡": {
+        "default": [
+          "çalt",
+          "derrew",
+          "erkek",
+          "goýy deri reňki",
+          "howlukmaç",
+          "marafon",
+          "saga",
+          "ýaryş",
+          "ylga",
+          "ylgap barýan erkek",
+          "ylgaýan",
+          "ýüzi"
+        ],
+        "tts": [
+          "ylgap barýan erkek: goýy deri reňki, ýüzi saga"
         ]
       },
       "💃🏻": {

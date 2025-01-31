@@ -2,9 +2,6 @@
   "main": {
     "ko-KP": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ko",
         "territory": "KP"
       },
@@ -40,6 +37,12 @@
           "10p-24": {
             "unitPrefixPattern": "욕토{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "론토{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "퀙토{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "데카{0}"
           },
@@ -69,6 +72,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "요타{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "론나{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "퀘타{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "키비{0}"
@@ -438,15 +447,16 @@
             "unitPattern-count-other": "{0}ppi"
           },
           "graphics-dot-per-centimeter": {
-            "displayName": "dpcm",
-            "unitPattern-count-other": "{0}dpcm"
+            "displayName": "센티미터당 도트 수",
+            "unitPattern-count-other": "센티미터당 {0}도트"
           },
           "graphics-dot-per-inch": {
-            "displayName": "dpi",
-            "unitPattern-count-other": "{0}dpi"
+            "displayName": "인치당 도트 수",
+            "unitPattern-count-other": "인치당 {0}도트"
           },
           "graphics-dot": {
-            "unitPattern-count-other": "{0}dot"
+            "displayName": "도트",
+            "unitPattern-count-other": "{0}도트"
           },
           "length-earth-radius": {
             "displayName": "지구 반경",
@@ -701,6 +711,10 @@
             "displayName": "노트",
             "unitPattern-count-other": "{0}노트"
           },
+          "speed-beaufort": {
+            "displayName": "보퍼트",
+            "unitPattern-count-other": "보퍼트 계급 {0}"
+          },
           "temperature-generic": {
             "displayName": "도",
             "unitPattern-count-other": "{0}도"
@@ -866,6 +880,19 @@
             "displayName": "영국 쿼트",
             "unitPattern-count-other": "{0}영국 쿼트"
           },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0}ppb"
+          },
+          "duration-night": {
+            "displayName": "박",
+            "unitPattern-count-other": "{0}박",
+            "perUnitPattern": "1박당 {0}"
+          },
           "coordinateUnit": {
             "displayName": "방향",
             "east": "동경 {0}",
@@ -905,6 +932,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -934,6 +967,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -1311,7 +1350,8 @@
             "unitPattern-count-other": "{0}dpi"
           },
           "graphics-dot": {
-            "unitPattern-count-other": "{0}dot"
+            "displayName": "도트",
+            "unitPattern-count-other": "{0}도트"
           },
           "length-earth-radius": {
             "displayName": "R⊕",
@@ -1566,6 +1606,10 @@
             "displayName": "kn",
             "unitPattern-count-other": "{0}kn"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "{0}°"
@@ -1731,6 +1775,19 @@
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0}qt Imp."
           },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0}ppb"
+          },
+          "duration-night": {
+            "displayName": "박",
+            "unitPattern-count-other": "{0}박",
+            "perUnitPattern": "{0}/박"
+          },
           "coordinateUnit": {
             "displayName": "쪽",
             "east": "{0}E",
@@ -1770,6 +1827,12 @@
           "10p-24": {
             "unitPrefixPattern": "y{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "da{0}"
           },
@@ -1799,6 +1862,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "Y{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "Ki{0}"
@@ -2000,7 +2069,7 @@
             "unitPattern-count-other": "{0}kb"
           },
           "digital-byte": {
-            "displayName": "byte",
+            "displayName": "B",
             "unitPattern-count-other": "{0}byte"
           },
           "digital-bit": {
@@ -2176,7 +2245,8 @@
             "unitPattern-count-other": "{0}dpi"
           },
           "graphics-dot": {
-            "unitPattern-count-other": "{0}dot"
+            "displayName": "도트",
+            "unitPattern-count-other": "{0}도트"
           },
           "length-earth-radius": {
             "displayName": "R⊕",
@@ -2431,6 +2501,10 @@
             "displayName": "kn",
             "unitPattern-count-other": "{0}kn"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B{0}"
+          },
           "temperature-generic": {
             "displayName": "°",
             "unitPattern-count-other": "{0}°"
@@ -2494,8 +2568,8 @@
             "unitPattern-count-other": "{0}hL"
           },
           "volume-liter": {
-            "displayName": "ℓ",
-            "unitPattern-count-other": "{0}ℓ",
+            "displayName": "리터",
+            "unitPattern-count-other": "{0}L",
             "perUnitPattern": "{0}/L"
           },
           "volume-deciliter": {
@@ -2595,6 +2669,19 @@
           "volume-quart-imperial": {
             "displayName": "qt Imp",
             "unitPattern-count-other": "{0}qt Imp."
+          },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ppb",
+            "unitPattern-count-other": "{0}ppb"
+          },
+          "duration-night": {
+            "displayName": "박",
+            "unitPattern-count-other": "{0}박",
+            "perUnitPattern": "{0}/박"
           },
           "coordinateUnit": {
             "displayName": "쪽",

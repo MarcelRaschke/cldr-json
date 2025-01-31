@@ -2,9 +2,6 @@
   "main": {
     "ps": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ps"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} - مطابقت",
         "enclosed": "{0} - منسلک",
         "extended": "{0} - غځېدلی",
+        "facing-left": "{0} کیڼ لور ته مخامخ",
+        "facing-right": "{0} ښي خوا ته مخامخ",
         "historic": "{0} - تاريخي",
         "miscellaneous": "{0} - متفرقه",
         "other": "{0} - نورو",

@@ -2,9 +2,6 @@
   "main": {
     "tk": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "tk"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — ylalaşyjylyk",
         "enclosed": "{0} — daşy ýapyk",
         "extended": "{0} — giňeldilen",
+        "facing-left": "{0} ýüzi çepe",
+        "facing-right": "{0} ýüzi saga",
         "historic": "{0} — taryhy",
         "miscellaneous": "{0} — dürli",
         "other": "{0} — başga",

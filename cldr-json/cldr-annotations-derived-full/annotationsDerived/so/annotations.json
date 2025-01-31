@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "so"
     },
     "annotations": {
@@ -9436,8 +9433,11 @@
       },
       "🧑🏻‍⚕": {
         "default": [
-          "dhaqtar, shaqaale caafimaad, daryeel caafimaad, kalkaaliso, daweeyaha",
+          "daryeel caafimaad",
+          "daweeyaha",
+          "dhaqtar",
           "jidh fudud",
+          "kalkaaliso",
           "shaqaale caafimaad"
         ],
         "tts": [
@@ -9446,8 +9446,11 @@
       },
       "🧑🏼‍⚕": {
         "default": [
-          "dhaqtar, shaqaale caafimaad, daryeel caafimaad, kalkaaliso, daweeyaha",
+          "daryeel caafimaad",
+          "daweeyaha",
+          "dhaqtar",
           "jidh fudud oo dhexe",
+          "kalkaaliso",
           "shaqaale caafimaad"
         ],
         "tts": [
@@ -9456,8 +9459,11 @@
       },
       "🧑🏽‍⚕": {
         "default": [
-          "dhaqtar, shaqaale caafimaad, daryeel caafimaad, kalkaaliso, daweeyaha",
+          "daryeel caafimaad",
+          "daweeyaha",
+          "dhaqtar",
           "jidh nooc dhexe",
+          "kalkaaliso",
           "shaqaale caafimaad"
         ],
         "tts": [
@@ -9466,8 +9472,11 @@
       },
       "🧑🏾‍⚕": {
         "default": [
-          "dhaqtar, shaqaale caafimaad, daryeel caafimaad, kalkaaliso, daweeyaha",
+          "daryeel caafimaad",
+          "daweeyaha",
+          "dhaqtar",
           "jidh nooc madaw oo dhexe",
+          "kalkaaliso",
           "shaqaale caafimaad"
         ],
         "tts": [
@@ -9476,8 +9485,11 @@
       },
       "🧑🏿‍⚕": {
         "default": [
-          "dhaqtar, shaqaale caafimaad, daryeel caafimaad, kalkaaliso, daweeyaha",
+          "daryeel caafimaad",
+          "daweeyaha",
+          "dhaqtar",
           "jidh madaw",
+          "kalkaaliso",
           "shaqaale caafimaad"
         ],
         "tts": [
@@ -9626,7 +9638,6 @@
       },
       "🧑🏻‍🎓": {
         "default": [
-          "arday",
           "Arday",
           "jidh fudud",
           "qalin jabiye"
@@ -9637,7 +9648,6 @@
       },
       "🧑🏼‍🎓": {
         "default": [
-          "arday",
           "Arday",
           "jidh fudud oo dhexe",
           "qalin jabiye"
@@ -9648,7 +9658,6 @@
       },
       "🧑🏽‍🎓": {
         "default": [
-          "arday",
           "Arday",
           "jidh nooc dhexe",
           "qalin jabiye"
@@ -9659,7 +9668,6 @@
       },
       "🧑🏾‍🎓": {
         "default": [
-          "arday",
           "Arday",
           "jidh nooc madaw oo dhexe",
           "qalin jabiye"
@@ -9670,7 +9678,6 @@
       },
       "🧑🏿‍🎓": {
         "default": [
-          "arday",
           "Arday",
           "jidh madaw",
           "qalin jabiye"
@@ -9982,8 +9989,8 @@
       "🧑🏻‍⚖": {
         "default": [
           "jidh fudud",
-          "qaalli",
-          "qaalli, miisaanka"
+          "miisaanka",
+          "qaalli"
         ],
         "tts": [
           "qaalli: jidh fudud"
@@ -9992,8 +9999,8 @@
       "🧑🏼‍⚖": {
         "default": [
           "jidh fudud oo dhexe",
-          "qaalli",
-          "qaalli, miisaanka"
+          "miisaanka",
+          "qaalli"
         ],
         "tts": [
           "qaalli: jidh fudud oo dhexe"
@@ -10002,8 +10009,8 @@
       "🧑🏽‍⚖": {
         "default": [
           "jidh nooc dhexe",
-          "qaalli",
-          "qaalli, miisaanka"
+          "miisaanka",
+          "qaalli"
         ],
         "tts": [
           "qaalli: jidh nooc dhexe"
@@ -10012,8 +10019,8 @@
       "🧑🏾‍⚖": {
         "default": [
           "jidh nooc madaw oo dhexe",
-          "qaalli",
-          "qaalli, miisaanka"
+          "miisaanka",
+          "qaalli"
         ],
         "tts": [
           "qaalli: jidh nooc madaw oo dhexe"
@@ -10022,8 +10029,8 @@
       "🧑🏿‍⚖": {
         "default": [
           "jidh madaw",
-          "qaalli",
-          "qaalli, miisaanka"
+          "miisaanka",
+          "qaalli"
         ],
         "tts": [
           "qaalli: jidh madaw"
@@ -10152,8 +10159,9 @@
       "🧑🏻‍🌾": {
         "default": [
           "Beeraley",
-          "beeraley. beer ilaaliye, waardiye",
-          "jidh fudud"
+          "beeraley. beer ilaaliye",
+          "jidh fudud",
+          "waardiye"
         ],
         "tts": [
           "Beeraley: jidh fudud"
@@ -10162,8 +10170,9 @@
       "🧑🏼‍🌾": {
         "default": [
           "Beeraley",
-          "beeraley. beer ilaaliye, waardiye",
-          "jidh fudud oo dhexe"
+          "beeraley. beer ilaaliye",
+          "jidh fudud oo dhexe",
+          "waardiye"
         ],
         "tts": [
           "Beeraley: jidh fudud oo dhexe"
@@ -10172,8 +10181,9 @@
       "🧑🏽‍🌾": {
         "default": [
           "Beeraley",
-          "beeraley. beer ilaaliye, waardiye",
-          "jidh nooc dhexe"
+          "beeraley. beer ilaaliye",
+          "jidh nooc dhexe",
+          "waardiye"
         ],
         "tts": [
           "Beeraley: jidh nooc dhexe"
@@ -10182,8 +10192,9 @@
       "🧑🏾‍🌾": {
         "default": [
           "Beeraley",
-          "beeraley. beer ilaaliye, waardiye",
-          "jidh nooc madaw oo dhexe"
+          "beeraley. beer ilaaliye",
+          "jidh nooc madaw oo dhexe",
+          "waardiye"
         ],
         "tts": [
           "Beeraley: jidh nooc madaw oo dhexe"
@@ -10192,8 +10203,9 @@
       "🧑🏿‍🌾": {
         "default": [
           "Beeraley",
-          "beeraley. beer ilaaliye, waardiye",
-          "jidh madaw"
+          "beeraley. beer ilaaliye",
+          "jidh madaw",
+          "waardiye"
         ],
         "tts": [
           "Beeraley: jidh madaw"
@@ -10333,7 +10345,7 @@
         "default": [
           "cunno kariye",
           "jidh fudud",
-          "madaxa sare, cunno kariye"
+          "madaxa sare"
         ],
         "tts": [
           "cunno kariye: jidh fudud"
@@ -10343,7 +10355,7 @@
         "default": [
           "cunno kariye",
           "jidh fudud oo dhexe",
-          "madaxa sare, cunno kariye"
+          "madaxa sare"
         ],
         "tts": [
           "cunno kariye: jidh fudud oo dhexe"
@@ -10353,7 +10365,7 @@
         "default": [
           "cunno kariye",
           "jidh nooc dhexe",
-          "madaxa sare, cunno kariye"
+          "madaxa sare"
         ],
         "tts": [
           "cunno kariye: jidh nooc dhexe"
@@ -10363,7 +10375,7 @@
         "default": [
           "cunno kariye",
           "jidh nooc madaw oo dhexe",
-          "madaxa sare, cunno kariye"
+          "madaxa sare"
         ],
         "tts": [
           "cunno kariye: jidh nooc madaw oo dhexe"
@@ -10373,7 +10385,7 @@
         "default": [
           "cunno kariye",
           "jidh madaw",
-          "madaxa sare, cunno kariye"
+          "madaxa sare"
         ],
         "tts": [
           "cunno kariye: jidh madaw"
@@ -10881,9 +10893,12 @@
       },
       "🧑🏻‍💼": {
         "default": [
-          "ajitekjar, ganacsi, maamule, shaqaale xafiis, white-collar",
+          "ajitekjar",
+          "ganacsi",
           "jidh fudud",
-          "shaqaale xafiis"
+          "maamule",
+          "shaqaale xafiis",
+          "white-collar"
         ],
         "tts": [
           "shaqaale xafiis: jidh fudud"
@@ -10891,9 +10906,12 @@
       },
       "🧑🏼‍💼": {
         "default": [
-          "ajitekjar, ganacsi, maamule, shaqaale xafiis, white-collar",
+          "ajitekjar",
+          "ganacsi",
           "jidh fudud oo dhexe",
-          "shaqaale xafiis"
+          "maamule",
+          "shaqaale xafiis",
+          "white-collar"
         ],
         "tts": [
           "shaqaale xafiis: jidh fudud oo dhexe"
@@ -10901,9 +10919,12 @@
       },
       "🧑🏽‍💼": {
         "default": [
-          "ajitekjar, ganacsi, maamule, shaqaale xafiis, white-collar",
+          "ajitekjar",
+          "ganacsi",
           "jidh nooc dhexe",
-          "shaqaale xafiis"
+          "maamule",
+          "shaqaale xafiis",
+          "white-collar"
         ],
         "tts": [
           "shaqaale xafiis: jidh nooc dhexe"
@@ -10911,9 +10932,12 @@
       },
       "🧑🏾‍💼": {
         "default": [
-          "ajitekjar, ganacsi, maamule, shaqaale xafiis, white-collar",
+          "ajitekjar",
+          "ganacsi",
           "jidh nooc madaw oo dhexe",
-          "shaqaale xafiis"
+          "maamule",
+          "shaqaale xafiis",
+          "white-collar"
         ],
         "tts": [
           "shaqaale xafiis: jidh nooc madaw oo dhexe"
@@ -10921,9 +10945,12 @@
       },
       "🧑🏿‍💼": {
         "default": [
-          "ajitekjar, ganacsi, maamule, shaqaale xafiis, white-collar",
+          "ajitekjar",
+          "ganacsi",
           "jidh madaw",
-          "shaqaale xafiis"
+          "maamule",
+          "shaqaale xafiis",
+          "white-collar"
         ],
         "tts": [
           "shaqaale xafiis: jidh madaw"
@@ -11076,8 +11103,11 @@
       },
       "🧑🏻‍🔬": {
         "default": [
-          "biyolojisti, kimistyahan, injineer, fisikyahan, saynisyahan",
+          "biyolojisti",
+          "fisikyahan",
+          "injineer",
           "jidh fudud",
+          "kimistyahan",
           "saynisyahan"
         ],
         "tts": [
@@ -11086,8 +11116,11 @@
       },
       "🧑🏼‍🔬": {
         "default": [
-          "biyolojisti, kimistyahan, injineer, fisikyahan, saynisyahan",
+          "biyolojisti",
+          "fisikyahan",
+          "injineer",
           "jidh fudud oo dhexe",
+          "kimistyahan",
           "saynisyahan"
         ],
         "tts": [
@@ -11096,8 +11129,11 @@
       },
       "🧑🏽‍🔬": {
         "default": [
-          "biyolojisti, kimistyahan, injineer, fisikyahan, saynisyahan",
+          "biyolojisti",
+          "fisikyahan",
+          "injineer",
           "jidh nooc dhexe",
+          "kimistyahan",
           "saynisyahan"
         ],
         "tts": [
@@ -11106,8 +11142,11 @@
       },
       "🧑🏾‍🔬": {
         "default": [
-          "biyolojisti, kimistyahan, injineer, fisikyahan, saynisyahan",
+          "biyolojisti",
+          "fisikyahan",
+          "injineer",
           "jidh nooc madaw oo dhexe",
+          "kimistyahan",
           "saynisyahan"
         ],
         "tts": [
@@ -11116,8 +11155,11 @@
       },
       "🧑🏿‍🔬": {
         "default": [
-          "biyolojisti, kimistyahan, injineer, fisikyahan, saynisyahan",
+          "biyolojisti",
+          "fisikyahan",
+          "injineer",
           "jidh madaw",
+          "kimistyahan",
           "saynisyahan"
         ],
         "tts": [
@@ -11281,8 +11323,11 @@
       },
       "🧑🏻‍💻": {
         "default": [
+          "horumariye",
           "jidh fudud",
-          "koodhar, horumariye, soo saare, softwaayar, tiknoolajiste",
+          "koodhar",
+          "softwaayar",
+          "soo saare",
           "Tiknoolajiste"
         ],
         "tts": [
@@ -11291,8 +11336,11 @@
       },
       "🧑🏼‍💻": {
         "default": [
+          "horumariye",
           "jidh fudud oo dhexe",
-          "koodhar, horumariye, soo saare, softwaayar, tiknoolajiste",
+          "koodhar",
+          "softwaayar",
+          "soo saare",
           "Tiknoolajiste"
         ],
         "tts": [
@@ -11301,8 +11349,11 @@
       },
       "🧑🏽‍💻": {
         "default": [
+          "horumariye",
           "jidh nooc dhexe",
-          "koodhar, horumariye, soo saare, softwaayar, tiknoolajiste",
+          "koodhar",
+          "softwaayar",
+          "soo saare",
           "Tiknoolajiste"
         ],
         "tts": [
@@ -11311,8 +11362,11 @@
       },
       "🧑🏾‍💻": {
         "default": [
+          "horumariye",
           "jidh nooc madaw oo dhexe",
-          "koodhar, horumariye, soo saare, softwaayar, tiknoolajiste",
+          "koodhar",
+          "softwaayar",
+          "soo saare",
           "Tiknoolajiste"
         ],
         "tts": [
@@ -11321,8 +11375,11 @@
       },
       "🧑🏿‍💻": {
         "default": [
+          "horumariye",
           "jidh madaw",
-          "koodhar, horumariye, soo saare, softwaayar, tiknoolajiste",
+          "koodhar",
+          "softwaayar",
+          "soo saare",
           "Tiknoolajiste"
         ],
         "tts": [
@@ -11332,7 +11389,6 @@
       "👨🏻‍💻": {
         "default": [
           "hindise",
-          "injineer",
           "Injineer",
           "jidh fudud",
           "naag",
@@ -11348,7 +11404,6 @@
       "👨🏼‍💻": {
         "default": [
           "hindise",
-          "injineer",
           "Injineer",
           "jidh fudud oo dhexe",
           "naag",
@@ -11364,7 +11419,6 @@
       "👨🏽‍💻": {
         "default": [
           "hindise",
-          "injineer",
           "Injineer",
           "jidh nooc dhexe",
           "naag",
@@ -11380,7 +11434,6 @@
       "👨🏾‍💻": {
         "default": [
           "hindise",
-          "injineer",
           "Injineer",
           "jidh nooc madaw oo dhexe",
           "naag",
@@ -11396,7 +11449,6 @@
       "👨🏿‍💻": {
         "default": [
           "hindise",
-          "injineer",
           "Injineer",
           "jidh madaw",
           "naag",
@@ -11488,7 +11540,10 @@
         "default": [
           "heesaa",
           "jidh fudud",
-          "jillaa, madadaaliye, rook, heesaa, xidig"
+          "jillaa",
+          "madadaaliye",
+          "rook",
+          "xidig"
         ],
         "tts": [
           "heesaa: jidh fudud"
@@ -11498,7 +11553,10 @@
         "default": [
           "heesaa",
           "jidh fudud oo dhexe",
-          "jillaa, madadaaliye, rook, heesaa, xidig"
+          "jillaa",
+          "madadaaliye",
+          "rook",
+          "xidig"
         ],
         "tts": [
           "heesaa: jidh fudud oo dhexe"
@@ -11508,7 +11566,10 @@
         "default": [
           "heesaa",
           "jidh nooc dhexe",
-          "jillaa, madadaaliye, rook, heesaa, xidig"
+          "jillaa",
+          "madadaaliye",
+          "rook",
+          "xidig"
         ],
         "tts": [
           "heesaa: jidh nooc dhexe"
@@ -11518,7 +11579,10 @@
         "default": [
           "heesaa",
           "jidh nooc madaw oo dhexe",
-          "jillaa, madadaaliye, rook, heesaa, xidig"
+          "jillaa",
+          "madadaaliye",
+          "rook",
+          "xidig"
         ],
         "tts": [
           "heesaa: jidh nooc madaw oo dhexe"
@@ -11528,7 +11592,10 @@
         "default": [
           "heesaa",
           "jidh madaw",
-          "jillaa, madadaaliye, rook, heesaa, xidig"
+          "jillaa",
+          "madadaaliye",
+          "rook",
+          "xidig"
         ],
         "tts": [
           "heesaa: jidh madaw"
@@ -11687,8 +11754,8 @@
       "🧑🏻‍🎨": {
         "default": [
           "fanaan",
-          "fanaan, laxan",
-          "jidh fudud"
+          "jidh fudud",
+          "laxan"
         ],
         "tts": [
           "fanaan: jidh fudud"
@@ -11697,8 +11764,8 @@
       "🧑🏼‍🎨": {
         "default": [
           "fanaan",
-          "fanaan, laxan",
-          "jidh fudud oo dhexe"
+          "jidh fudud oo dhexe",
+          "laxan"
         ],
         "tts": [
           "fanaan: jidh fudud oo dhexe"
@@ -11707,8 +11774,8 @@
       "🧑🏽‍🎨": {
         "default": [
           "fanaan",
-          "fanaan, laxan",
-          "jidh nooc dhexe"
+          "jidh nooc dhexe",
+          "laxan"
         ],
         "tts": [
           "fanaan: jidh nooc dhexe"
@@ -11717,8 +11784,8 @@
       "🧑🏾‍🎨": {
         "default": [
           "fanaan",
-          "fanaan, laxan",
-          "jidh nooc madaw oo dhexe"
+          "jidh nooc madaw oo dhexe",
+          "laxan"
         ],
         "tts": [
           "fanaan: jidh nooc madaw oo dhexe"
@@ -11727,8 +11794,8 @@
       "🧑🏿‍🎨": {
         "default": [
           "fanaan",
-          "fanaan, laxan",
-          "jidh madaw"
+          "jidh madaw",
+          "laxan"
         ],
         "tts": [
           "fanaan: jidh madaw"
@@ -11857,7 +11924,7 @@
       "🧑🏻‍✈": {
         "default": [
           "darawal dayuurad",
-          "darawal dayuurad, dayuurad",
+          "dayuurad",
           "jidh fudud"
         ],
         "tts": [
@@ -11867,7 +11934,7 @@
       "🧑🏼‍✈": {
         "default": [
           "darawal dayuurad",
-          "darawal dayuurad, dayuurad",
+          "dayuurad",
           "jidh fudud oo dhexe"
         ],
         "tts": [
@@ -11877,7 +11944,7 @@
       "🧑🏽‍✈": {
         "default": [
           "darawal dayuurad",
-          "darawal dayuurad, dayuurad",
+          "dayuurad",
           "jidh nooc dhexe"
         ],
         "tts": [
@@ -11887,7 +11954,7 @@
       "🧑🏾‍✈": {
         "default": [
           "darawal dayuurad",
-          "darawal dayuurad, dayuurad",
+          "dayuurad",
           "jidh nooc madaw oo dhexe"
         ],
         "tts": [
@@ -11897,7 +11964,7 @@
       "🧑🏿‍✈": {
         "default": [
           "darawal dayuurad",
-          "darawal dayuurad, dayuurad",
+          "dayuurad",
           "jidh madaw"
         ],
         "tts": [
@@ -13835,7 +13902,7 @@
           "nin",
           "nin niqaaban",
           "nin niqaamaban",
-          "niqaab\\\\"
+          "niqaab\\"
         ],
         "tts": [
           "nin niqaamaban: jidh fudud"
@@ -13847,7 +13914,7 @@
           "nin",
           "nin niqaaban",
           "nin niqaamaban",
-          "niqaab\\\\"
+          "niqaab\\"
         ],
         "tts": [
           "nin niqaamaban: jidh fudud oo dhexe"
@@ -13859,7 +13926,7 @@
           "nin",
           "nin niqaaban",
           "nin niqaamaban",
-          "niqaab\\\\"
+          "niqaab\\"
         ],
         "tts": [
           "nin niqaamaban: jidh nooc dhexe"
@@ -13871,7 +13938,7 @@
           "nin",
           "nin niqaaban",
           "nin niqaamaban",
-          "niqaab\\\\"
+          "niqaab\\"
         ],
         "tts": [
           "nin niqaamaban: jidh nooc madaw oo dhexe"
@@ -13883,7 +13950,7 @@
           "nin",
           "nin niqaaban",
           "nin niqaamaban",
-          "niqaab\\\\"
+          "niqaab\\"
         ],
         "tts": [
           "nin niqaamaban: jidh madaw"
@@ -14196,9 +14263,12 @@
       },
       "👩🏻‍🍼": {
         "default": [
-          "canug, quudin, kalkaalin,naag",
+          "canug",
           "jidh fudud",
-          "naag canug quudineeysa"
+          "kalkaalin",
+          "naag",
+          "naag canug quudineeysa",
+          "quudin"
         ],
         "tts": [
           "naag canug quudineeysa: jidh fudud"
@@ -14206,9 +14276,12 @@
       },
       "👩🏼‍🍼": {
         "default": [
-          "canug, quudin, kalkaalin,naag",
+          "canug",
           "jidh fudud oo dhexe",
-          "naag canug quudineeysa"
+          "kalkaalin",
+          "naag",
+          "naag canug quudineeysa",
+          "quudin"
         ],
         "tts": [
           "naag canug quudineeysa: jidh fudud oo dhexe"
@@ -14216,9 +14289,12 @@
       },
       "👩🏽‍🍼": {
         "default": [
-          "canug, quudin, kalkaalin,naag",
+          "canug",
           "jidh nooc dhexe",
-          "naag canug quudineeysa"
+          "kalkaalin",
+          "naag",
+          "naag canug quudineeysa",
+          "quudin"
         ],
         "tts": [
           "naag canug quudineeysa: jidh nooc dhexe"
@@ -14226,9 +14302,12 @@
       },
       "👩🏾‍🍼": {
         "default": [
-          "canug, quudin, kalkaalin,naag",
+          "canug",
           "jidh nooc madaw oo dhexe",
-          "naag canug quudineeysa"
+          "kalkaalin",
+          "naag",
+          "naag canug quudineeysa",
+          "quudin"
         ],
         "tts": [
           "naag canug quudineeysa: jidh nooc madaw oo dhexe"
@@ -14236,9 +14315,12 @@
       },
       "👩🏿‍🍼": {
         "default": [
-          "canug, quudin, kalkaalin,naag",
+          "canug",
           "jidh madaw",
-          "naag canug quudineeysa"
+          "kalkaalin",
+          "naag",
+          "naag canug quudineeysa",
+          "quudin"
         ],
         "tts": [
           "naag canug quudineeysa: jidh madaw"
@@ -14246,9 +14328,12 @@
       },
       "👨🏻‍🍼": {
         "default": [
-          "canug, quudin, nin, kalkaalin",
+          "canug",
           "jidh fudud",
-          "nin canug quudinaya"
+          "kalkaalin",
+          "nin",
+          "nin canug quudinaya",
+          "quudin"
         ],
         "tts": [
           "nin canug quudinaya: jidh fudud"
@@ -14256,9 +14341,12 @@
       },
       "👨🏼‍🍼": {
         "default": [
-          "canug, quudin, nin, kalkaalin",
+          "canug",
           "jidh fudud oo dhexe",
-          "nin canug quudinaya"
+          "kalkaalin",
+          "nin",
+          "nin canug quudinaya",
+          "quudin"
         ],
         "tts": [
           "nin canug quudinaya: jidh fudud oo dhexe"
@@ -14266,9 +14354,12 @@
       },
       "👨🏽‍🍼": {
         "default": [
-          "canug, quudin, nin, kalkaalin",
+          "canug",
           "jidh nooc dhexe",
-          "nin canug quudinaya"
+          "kalkaalin",
+          "nin",
+          "nin canug quudinaya",
+          "quudin"
         ],
         "tts": [
           "nin canug quudinaya: jidh nooc dhexe"
@@ -14276,9 +14367,12 @@
       },
       "👨🏾‍🍼": {
         "default": [
-          "canug, quudin, nin, kalkaalin",
+          "canug",
           "jidh nooc madaw oo dhexe",
-          "nin canug quudinaya"
+          "kalkaalin",
+          "nin",
+          "nin canug quudinaya",
+          "quudin"
         ],
         "tts": [
           "nin canug quudinaya: jidh nooc madaw oo dhexe"
@@ -14286,9 +14380,12 @@
       },
       "👨🏿‍🍼": {
         "default": [
-          "canug, quudin, nin, kalkaalin",
+          "canug",
           "jidh madaw",
-          "nin canug quudinaya"
+          "kalkaalin",
+          "nin",
+          "nin canug quudinaya",
+          "quudin"
         ],
         "tts": [
           "nin canug quudinaya: jidh madaw"
@@ -14436,7 +14533,6 @@
       },
       "🎅🏻": {
         "default": [
-          "Aabaha ciidda Masiixigga",
           "Aabaha Ciidda Masiixigga",
           "aabaha farxdda",
           "aabe",
@@ -14451,7 +14547,6 @@
       },
       "🎅🏼": {
         "default": [
-          "Aabaha ciidda Masiixigga",
           "Aabaha Ciidda Masiixigga",
           "aabaha farxdda",
           "aabe",
@@ -14466,7 +14561,6 @@
       },
       "🎅🏽": {
         "default": [
-          "Aabaha ciidda Masiixigga",
           "Aabaha Ciidda Masiixigga",
           "aabaha farxdda",
           "aabe",
@@ -14481,7 +14575,6 @@
       },
       "🎅🏾": {
         "default": [
-          "Aabaha ciidda Masiixigga",
           "Aabaha Ciidda Masiixigga",
           "aabaha farxdda",
           "aabe",
@@ -14496,7 +14589,6 @@
       },
       "🎅🏿": {
         "default": [
-          "Aabaha ciidda Masiixigga",
           "Aabaha Ciidda Masiixigga",
           "aabaha farxdda",
           "aabe",
@@ -14581,7 +14673,8 @@
       },
       "🧑🏻‍🎄": {
         "default": [
-          "Claus, ciida masiixiga",
+          "ciida masiixiga",
+          "Claus",
           "jidh fudud",
           "mx claus"
         ],
@@ -14591,7 +14684,8 @@
       },
       "🧑🏼‍🎄": {
         "default": [
-          "Claus, ciida masiixiga",
+          "ciida masiixiga",
+          "Claus",
           "jidh fudud oo dhexe",
           "mx claus"
         ],
@@ -14601,7 +14695,8 @@
       },
       "🧑🏽‍🎄": {
         "default": [
-          "Claus, ciida masiixiga",
+          "ciida masiixiga",
+          "Claus",
           "jidh nooc dhexe",
           "mx claus"
         ],
@@ -14611,7 +14706,8 @@
       },
       "🧑🏾‍🎄": {
         "default": [
-          "Claus, ciida masiixiga",
+          "ciida masiixiga",
+          "Claus",
           "jidh nooc madaw oo dhexe",
           "mx claus"
         ],
@@ -14621,7 +14717,8 @@
       },
       "🧑🏿‍🎄": {
         "default": [
-          "Claus, ciida masiixiga",
+          "ciida masiixiga",
+          "Claus",
           "jidh madaw",
           "mx claus"
         ],
@@ -16394,6 +16491,279 @@
           "haweeney soconaysa: jidh madaw"
         ]
       },
+      "🚶‍➡": {
+        "default": [
+          "jeeda",
+          "midig",
+          "qof soconaya",
+          "socod",
+          "socod dheer",
+          "socodka",
+          "u"
+        ],
+        "tts": [
+          "qof soconaya: midig u jeeda"
+        ]
+      },
+      "🚶🏻‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud",
+          "midig",
+          "qof soconaya",
+          "socod",
+          "socod dheer",
+          "socodka",
+          "u"
+        ],
+        "tts": [
+          "qof soconaya: jidh fudud, midig u jeeda"
+        ]
+      },
+      "🚶🏼‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "midig",
+          "qof soconaya",
+          "socod",
+          "socod dheer",
+          "socodka",
+          "u"
+        ],
+        "tts": [
+          "qof soconaya: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "🚶🏽‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc dhexe",
+          "midig",
+          "qof soconaya",
+          "socod",
+          "socod dheer",
+          "socodka",
+          "u"
+        ],
+        "tts": [
+          "qof soconaya: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "🚶🏾‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "midig",
+          "qof soconaya",
+          "socod",
+          "socod dheer",
+          "socodka",
+          "u"
+        ],
+        "tts": [
+          "qof soconaya: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "🚶🏿‍➡": {
+        "default": [
+          "jeeda",
+          "jidh madaw",
+          "midig",
+          "qof soconaya",
+          "socod",
+          "socod dheer",
+          "socodka",
+          "u"
+        ],
+        "tts": [
+          "qof soconaya: jidh madaw, midig u jeeda"
+        ]
+      },
+      "🚶‍♀‍➡": {
+        "default": [
+          "haweeney soconaysa",
+          "jeeda",
+          "midig",
+          "naag",
+          "naag socota",
+          "socod",
+          "socod dheer",
+          "u"
+        ],
+        "tts": [
+          "haweeney soconaysa: midig u jeeda"
+        ]
+      },
+      "🚶🏻‍♀‍➡": {
+        "default": [
+          "haweeney soconaysa",
+          "jeeda",
+          "jidh fudud",
+          "midig",
+          "naag",
+          "naag socota",
+          "socod",
+          "socod dheer",
+          "u"
+        ],
+        "tts": [
+          "haweeney soconaysa: jidh fudud, midig u jeeda"
+        ]
+      },
+      "🚶🏼‍♀‍➡": {
+        "default": [
+          "haweeney soconaysa",
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "midig",
+          "naag",
+          "naag socota",
+          "socod",
+          "socod dheer",
+          "u"
+        ],
+        "tts": [
+          "haweeney soconaysa: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "🚶🏽‍♀‍➡": {
+        "default": [
+          "haweeney soconaysa",
+          "jeeda",
+          "jidh nooc dhexe",
+          "midig",
+          "naag",
+          "naag socota",
+          "socod",
+          "socod dheer",
+          "u"
+        ],
+        "tts": [
+          "haweeney soconaysa: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "🚶🏾‍♀‍➡": {
+        "default": [
+          "haweeney soconaysa",
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "midig",
+          "naag",
+          "naag socota",
+          "socod",
+          "socod dheer",
+          "u"
+        ],
+        "tts": [
+          "haweeney soconaysa: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "🚶🏿‍♀‍➡": {
+        "default": [
+          "haweeney soconaysa",
+          "jeeda",
+          "jidh madaw",
+          "midig",
+          "naag",
+          "naag socota",
+          "socod",
+          "socod dheer",
+          "u"
+        ],
+        "tts": [
+          "haweeney soconaysa: jidh madaw, midig u jeeda"
+        ]
+      },
+      "🚶‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "midig",
+          "nin",
+          "nin soconaya",
+          "socod",
+          "socod dheer",
+          "u"
+        ],
+        "tts": [
+          "nin soconaya: midig u jeeda"
+        ]
+      },
+      "🚶🏻‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud",
+          "midig",
+          "nin",
+          "nin soconaya",
+          "socod",
+          "socod dheer",
+          "u"
+        ],
+        "tts": [
+          "nin soconaya: jidh fudud, midig u jeeda"
+        ]
+      },
+      "🚶🏼‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "midig",
+          "nin",
+          "nin soconaya",
+          "socod",
+          "socod dheer",
+          "u"
+        ],
+        "tts": [
+          "nin soconaya: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "🚶🏽‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc dhexe",
+          "midig",
+          "nin",
+          "nin soconaya",
+          "socod",
+          "socod dheer",
+          "u"
+        ],
+        "tts": [
+          "nin soconaya: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "🚶🏾‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "midig",
+          "nin",
+          "nin soconaya",
+          "socod",
+          "socod dheer",
+          "u"
+        ],
+        "tts": [
+          "nin soconaya: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "🚶🏿‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jidh madaw",
+          "midig",
+          "nin",
+          "nin soconaya",
+          "socod",
+          "socod dheer",
+          "u"
+        ],
+        "tts": [
+          "nin soconaya: jidh madaw, midig u jeeda"
+        ]
+      },
       "🧍🏻": {
         "default": [
           "istaag",
@@ -16714,6 +17084,255 @@
           "naag jilba dhiganaysa: jidh madaw"
         ]
       },
+      "🧎‍➡": {
+        "default": [
+          "jeeda",
+          "jilba dhiganaya",
+          "jilba dhigo",
+          "midig",
+          "qof jilbaha dhiganaya",
+          "u"
+        ],
+        "tts": [
+          "qof jilbaha dhiganaya: midig u jeeda"
+        ]
+      },
+      "🧎🏻‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud",
+          "jilba dhiganaya",
+          "jilba dhigo",
+          "midig",
+          "qof jilbaha dhiganaya",
+          "u"
+        ],
+        "tts": [
+          "qof jilbaha dhiganaya: jidh fudud, midig u jeeda"
+        ]
+      },
+      "🧎🏼‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "jilba dhiganaya",
+          "jilba dhigo",
+          "midig",
+          "qof jilbaha dhiganaya",
+          "u"
+        ],
+        "tts": [
+          "qof jilbaha dhiganaya: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "🧎🏽‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc dhexe",
+          "jilba dhiganaya",
+          "jilba dhigo",
+          "midig",
+          "qof jilbaha dhiganaya",
+          "u"
+        ],
+        "tts": [
+          "qof jilbaha dhiganaya: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "🧎🏾‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "jilba dhiganaya",
+          "jilba dhigo",
+          "midig",
+          "qof jilbaha dhiganaya",
+          "u"
+        ],
+        "tts": [
+          "qof jilbaha dhiganaya: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "🧎🏿‍➡": {
+        "default": [
+          "jeeda",
+          "jidh madaw",
+          "jilba dhiganaya",
+          "jilba dhigo",
+          "midig",
+          "qof jilbaha dhiganaya",
+          "u"
+        ],
+        "tts": [
+          "qof jilbaha dhiganaya: jidh madaw, midig u jeeda"
+        ]
+      },
+      "🧎‍♀‍➡": {
+        "default": [
+          "jeeda",
+          "jilba dhiganayasa",
+          "midig",
+          "naag",
+          "naag jilba dhiganaysa",
+          "u"
+        ],
+        "tts": [
+          "naag jilba dhiganaysa: midig u jeeda"
+        ]
+      },
+      "🧎🏻‍♀‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud",
+          "jilba dhiganayasa",
+          "midig",
+          "naag",
+          "naag jilba dhiganaysa",
+          "u"
+        ],
+        "tts": [
+          "naag jilba dhiganaysa: jidh fudud, midig u jeeda"
+        ]
+      },
+      "🧎🏼‍♀‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "jilba dhiganayasa",
+          "midig",
+          "naag",
+          "naag jilba dhiganaysa",
+          "u"
+        ],
+        "tts": [
+          "naag jilba dhiganaysa: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "🧎🏽‍♀‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc dhexe",
+          "jilba dhiganayasa",
+          "midig",
+          "naag",
+          "naag jilba dhiganaysa",
+          "u"
+        ],
+        "tts": [
+          "naag jilba dhiganaysa: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "🧎🏾‍♀‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "jilba dhiganayasa",
+          "midig",
+          "naag",
+          "naag jilba dhiganaysa",
+          "u"
+        ],
+        "tts": [
+          "naag jilba dhiganaysa: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "🧎🏿‍♀‍➡": {
+        "default": [
+          "jeeda",
+          "jidh madaw",
+          "jilba dhiganayasa",
+          "midig",
+          "naag",
+          "naag jilba dhiganaysa",
+          "u"
+        ],
+        "tts": [
+          "naag jilba dhiganaysa: jidh madaw, midig u jeeda"
+        ]
+      },
+      "🧎‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jilba dhiganaya",
+          "midig",
+          "nin",
+          "nin jilba dhiganaya",
+          "u"
+        ],
+        "tts": [
+          "nin jilba dhiganaya: midig u jeeda"
+        ]
+      },
+      "🧎🏻‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud",
+          "jilba dhiganaya",
+          "midig",
+          "nin",
+          "nin jilba dhiganaya",
+          "u"
+        ],
+        "tts": [
+          "nin jilba dhiganaya: jidh fudud, midig u jeeda"
+        ]
+      },
+      "🧎🏼‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "jilba dhiganaya",
+          "midig",
+          "nin",
+          "nin jilba dhiganaya",
+          "u"
+        ],
+        "tts": [
+          "nin jilba dhiganaya: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "🧎🏽‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc dhexe",
+          "jilba dhiganaya",
+          "midig",
+          "nin",
+          "nin jilba dhiganaya",
+          "u"
+        ],
+        "tts": [
+          "nin jilba dhiganaya: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "🧎🏾‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "jilba dhiganaya",
+          "midig",
+          "nin",
+          "nin jilba dhiganaya",
+          "u"
+        ],
+        "tts": [
+          "nin jilba dhiganaya: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "🧎🏿‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jidh madaw",
+          "jilba dhiganaya",
+          "midig",
+          "nin",
+          "nin jilba dhiganaya",
+          "u"
+        ],
+        "tts": [
+          "nin jilba dhiganaya: jidh madaw, midig u jeeda"
+        ]
+      },
       "🧑🏻‍🦯": {
         "default": [
           "indhoole",
@@ -16767,6 +17386,89 @@
         ],
         "tts": [
           "qof wata bakoorad cas: jidh madaw"
+        ]
+      },
+      "🧑‍🦯‍➡": {
+        "default": [
+          "indhoole",
+          "jeeda",
+          "marin u helid",
+          "midig",
+          "qof wata bakoorad cas",
+          "u"
+        ],
+        "tts": [
+          "qof wata bakoorad cas: midig u jeeda"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "indhoole",
+          "jeeda",
+          "jidh fudud",
+          "marin u helid",
+          "midig",
+          "qof wata bakoorad cas",
+          "u"
+        ],
+        "tts": [
+          "qof wata bakoorad cas: jidh fudud, midig u jeeda"
+        ]
+      },
+      "🧑🏼‍🦯‍➡": {
+        "default": [
+          "indhoole",
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "marin u helid",
+          "midig",
+          "qof wata bakoorad cas",
+          "u"
+        ],
+        "tts": [
+          "qof wata bakoorad cas: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "indhoole",
+          "jeeda",
+          "jidh nooc dhexe",
+          "marin u helid",
+          "midig",
+          "qof wata bakoorad cas",
+          "u"
+        ],
+        "tts": [
+          "qof wata bakoorad cas: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "indhoole",
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "marin u helid",
+          "midig",
+          "qof wata bakoorad cas",
+          "u"
+        ],
+        "tts": [
+          "qof wata bakoorad cas: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "indhoole",
+          "jeeda",
+          "jidh madaw",
+          "marin u helid",
+          "midig",
+          "qof wata bakoorad cas",
+          "u"
+        ],
+        "tts": [
+          "qof wata bakoorad cas: jidh madaw, midig u jeeda"
         ]
       },
       "👨🏻‍🦯": {
@@ -16829,6 +17531,95 @@
           "nin sita usha cad indhoolaha: jidh madaw"
         ]
       },
+      "👨‍🦯‍➡": {
+        "default": [
+          "awood u yeelid",
+          "indhoole",
+          "jeeda",
+          "midig",
+          "nin",
+          "nin sita usha cad indhoolaha",
+          "u"
+        ],
+        "tts": [
+          "nin sita usha cad indhoolaha: midig u jeeda"
+        ]
+      },
+      "👨🏻‍🦯‍➡": {
+        "default": [
+          "awood u yeelid",
+          "indhoole",
+          "jeeda",
+          "jidh fudud",
+          "midig",
+          "nin",
+          "nin sita usha cad indhoolaha",
+          "u"
+        ],
+        "tts": [
+          "nin sita usha cad indhoolaha: jidh fudud, midig u jeeda"
+        ]
+      },
+      "👨🏼‍🦯‍➡": {
+        "default": [
+          "awood u yeelid",
+          "indhoole",
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "midig",
+          "nin",
+          "nin sita usha cad indhoolaha",
+          "u"
+        ],
+        "tts": [
+          "nin sita usha cad indhoolaha: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "👨🏽‍🦯‍➡": {
+        "default": [
+          "awood u yeelid",
+          "indhoole",
+          "jeeda",
+          "jidh nooc dhexe",
+          "midig",
+          "nin",
+          "nin sita usha cad indhoolaha",
+          "u"
+        ],
+        "tts": [
+          "nin sita usha cad indhoolaha: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "👨🏾‍🦯‍➡": {
+        "default": [
+          "awood u yeelid",
+          "indhoole",
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "midig",
+          "nin",
+          "nin sita usha cad indhoolaha",
+          "u"
+        ],
+        "tts": [
+          "nin sita usha cad indhoolaha: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "👨🏿‍🦯‍➡": {
+        "default": [
+          "awood u yeelid",
+          "indhoole",
+          "jeeda",
+          "jidh madaw",
+          "midig",
+          "nin",
+          "nin sita usha cad indhoolaha",
+          "u"
+        ],
+        "tts": [
+          "nin sita usha cad indhoolaha: jidh madaw, midig u jeeda"
+        ]
+      },
       "👩🏻‍🦯": {
         "default": [
           "awood u yeelid",
@@ -16889,6 +17680,95 @@
           "naag sidata usha cad indhoolaha: jidh madaw"
         ]
       },
+      "👩‍🦯‍➡": {
+        "default": [
+          "awood u yeelid",
+          "indhoole",
+          "jeeda",
+          "midig",
+          "naag",
+          "naag sidata usha cad indhoolaha",
+          "u"
+        ],
+        "tts": [
+          "naag sidata usha cad indhoolaha: midig u jeeda"
+        ]
+      },
+      "👩🏻‍🦯‍➡": {
+        "default": [
+          "awood u yeelid",
+          "indhoole",
+          "jeeda",
+          "jidh fudud",
+          "midig",
+          "naag",
+          "naag sidata usha cad indhoolaha",
+          "u"
+        ],
+        "tts": [
+          "naag sidata usha cad indhoolaha: jidh fudud, midig u jeeda"
+        ]
+      },
+      "👩🏼‍🦯‍➡": {
+        "default": [
+          "awood u yeelid",
+          "indhoole",
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "midig",
+          "naag",
+          "naag sidata usha cad indhoolaha",
+          "u"
+        ],
+        "tts": [
+          "naag sidata usha cad indhoolaha: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "👩🏽‍🦯‍➡": {
+        "default": [
+          "awood u yeelid",
+          "indhoole",
+          "jeeda",
+          "jidh nooc dhexe",
+          "midig",
+          "naag",
+          "naag sidata usha cad indhoolaha",
+          "u"
+        ],
+        "tts": [
+          "naag sidata usha cad indhoolaha: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "👩🏾‍🦯‍➡": {
+        "default": [
+          "awood u yeelid",
+          "indhoole",
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "midig",
+          "naag",
+          "naag sidata usha cad indhoolaha",
+          "u"
+        ],
+        "tts": [
+          "naag sidata usha cad indhoolaha: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "👩🏿‍🦯‍➡": {
+        "default": [
+          "awood u yeelid",
+          "indhoole",
+          "jeeda",
+          "jidh madaw",
+          "midig",
+          "naag",
+          "naag sidata usha cad indhoolaha",
+          "u"
+        ],
+        "tts": [
+          "naag sidata usha cad indhoolaha: jidh madaw, midig u jeeda"
+        ]
+      },
       "🧑🏻‍🦼": {
         "default": [
           "awoood u yeelid",
@@ -16942,6 +17822,89 @@
         ],
         "tts": [
           "qof kufadhiya gaari matoor leh: jidh madaw"
+        ]
+      },
+      "🧑‍🦼‍➡": {
+        "default": [
+          "awoood u yeelid",
+          "jeeda",
+          "midig",
+          "qof kufadhiya gaari matoor leh",
+          "qof saaran gaari matoor leh/ gaari curyaan",
+          "u"
+        ],
+        "tts": [
+          "qof kufadhiya gaari matoor leh: midig u jeeda"
+        ]
+      },
+      "🧑🏻‍🦼‍➡": {
+        "default": [
+          "awoood u yeelid",
+          "jeeda",
+          "jidh fudud",
+          "midig",
+          "qof kufadhiya gaari matoor leh",
+          "qof saaran gaari matoor leh/ gaari curyaan",
+          "u"
+        ],
+        "tts": [
+          "qof kufadhiya gaari matoor leh: jidh fudud, midig u jeeda"
+        ]
+      },
+      "🧑🏼‍🦼‍➡": {
+        "default": [
+          "awoood u yeelid",
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "midig",
+          "qof kufadhiya gaari matoor leh",
+          "qof saaran gaari matoor leh/ gaari curyaan",
+          "u"
+        ],
+        "tts": [
+          "qof kufadhiya gaari matoor leh: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "🧑🏽‍🦼‍➡": {
+        "default": [
+          "awoood u yeelid",
+          "jeeda",
+          "jidh nooc dhexe",
+          "midig",
+          "qof kufadhiya gaari matoor leh",
+          "qof saaran gaari matoor leh/ gaari curyaan",
+          "u"
+        ],
+        "tts": [
+          "qof kufadhiya gaari matoor leh: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "🧑🏾‍🦼‍➡": {
+        "default": [
+          "awoood u yeelid",
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "midig",
+          "qof kufadhiya gaari matoor leh",
+          "qof saaran gaari matoor leh/ gaari curyaan",
+          "u"
+        ],
+        "tts": [
+          "qof kufadhiya gaari matoor leh: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "🧑🏿‍🦼‍➡": {
+        "default": [
+          "awoood u yeelid",
+          "jeeda",
+          "jidh madaw",
+          "midig",
+          "qof kufadhiya gaari matoor leh",
+          "qof saaran gaari matoor leh/ gaari curyaan",
+          "u"
+        ],
+        "tts": [
+          "qof kufadhiya gaari matoor leh: jidh madaw, midig u jeeda"
         ]
       },
       "👨🏻‍🦼": {
@@ -17009,6 +17972,101 @@
           "nin saaran kursi curyaan matoor leh: jidh madaw"
         ]
       },
+      "👨‍🦼‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "kursi curyaan",
+          "midig",
+          "nin",
+          "nin saaran kursi curyaan matoor leh",
+          "nin saaran kursiga curyanka koronto ku shaqeeya",
+          "u"
+        ],
+        "tts": [
+          "nin saaran kursi curyaan matoor leh: midig u jeeda"
+        ]
+      },
+      "👨🏻‍🦼‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "jidh fudud",
+          "kursi curyaan",
+          "midig",
+          "nin",
+          "nin saaran kursi curyaan matoor leh",
+          "nin saaran kursiga curyanka koronto ku shaqeeya",
+          "u"
+        ],
+        "tts": [
+          "nin saaran kursi curyaan matoor leh: jidh fudud, midig u jeeda"
+        ]
+      },
+      "👨🏼‍🦼‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "kursi curyaan",
+          "midig",
+          "nin",
+          "nin saaran kursi curyaan matoor leh",
+          "nin saaran kursiga curyanka koronto ku shaqeeya",
+          "u"
+        ],
+        "tts": [
+          "nin saaran kursi curyaan matoor leh: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "👨🏽‍🦼‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "jidh nooc dhexe",
+          "kursi curyaan",
+          "midig",
+          "nin",
+          "nin saaran kursi curyaan matoor leh",
+          "nin saaran kursiga curyanka koronto ku shaqeeya",
+          "u"
+        ],
+        "tts": [
+          "nin saaran kursi curyaan matoor leh: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "👨🏾‍🦼‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "kursi curyaan",
+          "midig",
+          "nin",
+          "nin saaran kursi curyaan matoor leh",
+          "nin saaran kursiga curyanka koronto ku shaqeeya",
+          "u"
+        ],
+        "tts": [
+          "nin saaran kursi curyaan matoor leh: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "👨🏿‍🦼‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "jidh madaw",
+          "kursi curyaan",
+          "midig",
+          "nin",
+          "nin saaran kursi curyaan matoor leh",
+          "nin saaran kursiga curyanka koronto ku shaqeeya",
+          "u"
+        ],
+        "tts": [
+          "nin saaran kursi curyaan matoor leh: jidh madaw, midig u jeeda"
+        ]
+      },
       "👩🏻‍🦼": {
         "default": [
           "awood u yeelid",
@@ -17074,6 +18132,101 @@
           "gabadh saaran kursi curyaan matoor leh: jidh madaw"
         ]
       },
+      "👩‍🦼‍➡": {
+        "default": [
+          "awood u yeelid",
+          "gabadh saaran kursi curyaan matoor leh",
+          "jeeda",
+          "kursiga curyaanka",
+          "midig",
+          "naag",
+          "naag ku fadhida kursiga curyaanka koronta ku shaqeeya",
+          "u"
+        ],
+        "tts": [
+          "gabadh saaran kursi curyaan matoor leh: midig u jeeda"
+        ]
+      },
+      "👩🏻‍🦼‍➡": {
+        "default": [
+          "awood u yeelid",
+          "gabadh saaran kursi curyaan matoor leh",
+          "jeeda",
+          "jidh fudud",
+          "kursiga curyaanka",
+          "midig",
+          "naag",
+          "naag ku fadhida kursiga curyaanka koronta ku shaqeeya",
+          "u"
+        ],
+        "tts": [
+          "gabadh saaran kursi curyaan matoor leh: jidh fudud, midig u jeeda"
+        ]
+      },
+      "👩🏼‍🦼‍➡": {
+        "default": [
+          "awood u yeelid",
+          "gabadh saaran kursi curyaan matoor leh",
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "kursiga curyaanka",
+          "midig",
+          "naag",
+          "naag ku fadhida kursiga curyaanka koronta ku shaqeeya",
+          "u"
+        ],
+        "tts": [
+          "gabadh saaran kursi curyaan matoor leh: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "👩🏽‍🦼‍➡": {
+        "default": [
+          "awood u yeelid",
+          "gabadh saaran kursi curyaan matoor leh",
+          "jeeda",
+          "jidh nooc dhexe",
+          "kursiga curyaanka",
+          "midig",
+          "naag",
+          "naag ku fadhida kursiga curyaanka koronta ku shaqeeya",
+          "u"
+        ],
+        "tts": [
+          "gabadh saaran kursi curyaan matoor leh: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "👩🏾‍🦼‍➡": {
+        "default": [
+          "awood u yeelid",
+          "gabadh saaran kursi curyaan matoor leh",
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "kursiga curyaanka",
+          "midig",
+          "naag",
+          "naag ku fadhida kursiga curyaanka koronta ku shaqeeya",
+          "u"
+        ],
+        "tts": [
+          "gabadh saaran kursi curyaan matoor leh: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "👩🏿‍🦼‍➡": {
+        "default": [
+          "awood u yeelid",
+          "gabadh saaran kursi curyaan matoor leh",
+          "jeeda",
+          "jidh madaw",
+          "kursiga curyaanka",
+          "midig",
+          "naag",
+          "naag ku fadhida kursiga curyaanka koronta ku shaqeeya",
+          "u"
+        ],
+        "tts": [
+          "gabadh saaran kursi curyaan matoor leh: jidh madaw, midig u jeeda"
+        ]
+      },
       "🧑🏻‍🦽": {
         "default": [
           "awood u yeelid",
@@ -17132,6 +18285,95 @@
         ],
         "tts": [
           "qof ku fadhiya gaari curyaanka gacanta: jidh madaw"
+        ]
+      },
+      "🧑‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "gaari curyaan",
+          "jeeda",
+          "midig",
+          "qof ku fadhiya gaari curyaanka gacanta",
+          "qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta",
+          "u"
+        ],
+        "tts": [
+          "qof ku fadhiya gaari curyaanka gacanta: midig u jeeda"
+        ]
+      },
+      "🧑🏻‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "gaari curyaan",
+          "jeeda",
+          "jidh fudud",
+          "midig",
+          "qof ku fadhiya gaari curyaanka gacanta",
+          "qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta",
+          "u"
+        ],
+        "tts": [
+          "qof ku fadhiya gaari curyaanka gacanta: jidh fudud, midig u jeeda"
+        ]
+      },
+      "🧑🏼‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "gaari curyaan",
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "midig",
+          "qof ku fadhiya gaari curyaanka gacanta",
+          "qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta",
+          "u"
+        ],
+        "tts": [
+          "qof ku fadhiya gaari curyaanka gacanta: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "🧑🏽‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "gaari curyaan",
+          "jeeda",
+          "jidh nooc dhexe",
+          "midig",
+          "qof ku fadhiya gaari curyaanka gacanta",
+          "qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta",
+          "u"
+        ],
+        "tts": [
+          "qof ku fadhiya gaari curyaanka gacanta: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "🧑🏾‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "gaari curyaan",
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "midig",
+          "qof ku fadhiya gaari curyaanka gacanta",
+          "qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta",
+          "u"
+        ],
+        "tts": [
+          "qof ku fadhiya gaari curyaanka gacanta: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "🧑🏿‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "gaari curyaan",
+          "jeeda",
+          "jidh madaw",
+          "midig",
+          "qof ku fadhiya gaari curyaanka gacanta",
+          "qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta",
+          "u"
+        ],
+        "tts": [
+          "qof ku fadhiya gaari curyaanka gacanta: jidh madaw, midig u jeeda"
         ]
       },
       "👨🏻‍🦽": {
@@ -17194,6 +18436,95 @@
           "nin saaran kursiga curyaanka macmac ah: jidh madaw"
         ]
       },
+      "👨‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "kursiga curyaanka",
+          "midig",
+          "nin",
+          "nin saaran kursiga curyaanka macmac ah",
+          "u"
+        ],
+        "tts": [
+          "nin saaran kursiga curyaanka macmac ah: midig u jeeda"
+        ]
+      },
+      "👨🏻‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "jidh fudud",
+          "kursiga curyaanka",
+          "midig",
+          "nin",
+          "nin saaran kursiga curyaanka macmac ah",
+          "u"
+        ],
+        "tts": [
+          "nin saaran kursiga curyaanka macmac ah: jidh fudud, midig u jeeda"
+        ]
+      },
+      "👨🏼‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "kursiga curyaanka",
+          "midig",
+          "nin",
+          "nin saaran kursiga curyaanka macmac ah",
+          "u"
+        ],
+        "tts": [
+          "nin saaran kursiga curyaanka macmac ah: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "👨🏽‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "jidh nooc dhexe",
+          "kursiga curyaanka",
+          "midig",
+          "nin",
+          "nin saaran kursiga curyaanka macmac ah",
+          "u"
+        ],
+        "tts": [
+          "nin saaran kursiga curyaanka macmac ah: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "👨🏾‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "kursiga curyaanka",
+          "midig",
+          "nin",
+          "nin saaran kursiga curyaanka macmac ah",
+          "u"
+        ],
+        "tts": [
+          "nin saaran kursiga curyaanka macmac ah: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "👨🏿‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "jidh madaw",
+          "kursiga curyaanka",
+          "midig",
+          "nin",
+          "nin saaran kursiga curyaanka macmac ah",
+          "u"
+        ],
+        "tts": [
+          "nin saaran kursiga curyaanka macmac ah: jidh madaw, midig u jeeda"
+        ]
+      },
       "👩🏻‍🦽": {
         "default": [
           "awood u yeelid",
@@ -17252,6 +18583,95 @@
         ],
         "tts": [
           "naag fadhida kursiga curyaanka macmal ah: jidh madaw"
+        ]
+      },
+      "👩‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "kursiga curyaanka",
+          "midig",
+          "naag",
+          "naag fadhida kursiga curyaanka macmal ah",
+          "u"
+        ],
+        "tts": [
+          "naag fadhida kursiga curyaanka macmal ah: midig u jeeda"
+        ]
+      },
+      "👩🏻‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "jidh fudud",
+          "kursiga curyaanka",
+          "midig",
+          "naag",
+          "naag fadhida kursiga curyaanka macmal ah",
+          "u"
+        ],
+        "tts": [
+          "naag fadhida kursiga curyaanka macmal ah: jidh fudud, midig u jeeda"
+        ]
+      },
+      "👩🏼‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "kursiga curyaanka",
+          "midig",
+          "naag",
+          "naag fadhida kursiga curyaanka macmal ah",
+          "u"
+        ],
+        "tts": [
+          "naag fadhida kursiga curyaanka macmal ah: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "👩🏽‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "jidh nooc dhexe",
+          "kursiga curyaanka",
+          "midig",
+          "naag",
+          "naag fadhida kursiga curyaanka macmal ah",
+          "u"
+        ],
+        "tts": [
+          "naag fadhida kursiga curyaanka macmal ah: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "👩🏾‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "kursiga curyaanka",
+          "midig",
+          "naag",
+          "naag fadhida kursiga curyaanka macmal ah",
+          "u"
+        ],
+        "tts": [
+          "naag fadhida kursiga curyaanka macmal ah: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "👩🏿‍🦽‍➡": {
+        "default": [
+          "awood u yeelid",
+          "jeeda",
+          "jidh madaw",
+          "kursiga curyaanka",
+          "midig",
+          "naag",
+          "naag fadhida kursiga curyaanka macmal ah",
+          "u"
+        ],
+        "tts": [
+          "naag fadhida kursiga curyaanka macmal ah: jidh madaw, midig u jeeda"
         ]
       },
       "🏃🏻": {
@@ -17437,6 +18857,279 @@
         ],
         "tts": [
           "naag ordaysa: jidh madaw"
+        ]
+      },
+      "🏃‍➡": {
+        "default": [
+          "jeeda",
+          "maratoon",
+          "midig",
+          "orodka",
+          "qof ordaya",
+          "u"
+        ],
+        "tts": [
+          "qof ordaya: midig u jeeda"
+        ]
+      },
+      "🏃🏻‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud",
+          "maratoon",
+          "midig",
+          "orodka",
+          "qof ordaya",
+          "u"
+        ],
+        "tts": [
+          "qof ordaya: jidh fudud, midig u jeeda"
+        ]
+      },
+      "🏃🏼‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "maratoon",
+          "midig",
+          "orodka",
+          "qof ordaya",
+          "u"
+        ],
+        "tts": [
+          "qof ordaya: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "🏃🏽‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc dhexe",
+          "maratoon",
+          "midig",
+          "orodka",
+          "qof ordaya",
+          "u"
+        ],
+        "tts": [
+          "qof ordaya: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "🏃🏾‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "maratoon",
+          "midig",
+          "orodka",
+          "qof ordaya",
+          "u"
+        ],
+        "tts": [
+          "qof ordaya: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "🏃🏿‍➡": {
+        "default": [
+          "jeeda",
+          "jidh madaw",
+          "maratoon",
+          "midig",
+          "orodka",
+          "qof ordaya",
+          "u"
+        ],
+        "tts": [
+          "qof ordaya: jidh madaw, midig u jeeda"
+        ]
+      },
+      "🏃‍♀‍➡": {
+        "default": [
+          "jeeda",
+          "maratoon",
+          "midig",
+          "naag",
+          "naag ordaysa",
+          "orod",
+          "tartan orod",
+          "u"
+        ],
+        "tts": [
+          "naag ordaysa: midig u jeeda"
+        ]
+      },
+      "🏃🏻‍♀‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud",
+          "maratoon",
+          "midig",
+          "naag",
+          "naag ordaysa",
+          "orod",
+          "tartan orod",
+          "u"
+        ],
+        "tts": [
+          "naag ordaysa: jidh fudud, midig u jeeda"
+        ]
+      },
+      "🏃🏼‍♀‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "maratoon",
+          "midig",
+          "naag",
+          "naag ordaysa",
+          "orod",
+          "tartan orod",
+          "u"
+        ],
+        "tts": [
+          "naag ordaysa: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "🏃🏽‍♀‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc dhexe",
+          "maratoon",
+          "midig",
+          "naag",
+          "naag ordaysa",
+          "orod",
+          "tartan orod",
+          "u"
+        ],
+        "tts": [
+          "naag ordaysa: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "🏃🏾‍♀‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "maratoon",
+          "midig",
+          "naag",
+          "naag ordaysa",
+          "orod",
+          "tartan orod",
+          "u"
+        ],
+        "tts": [
+          "naag ordaysa: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "🏃🏿‍♀‍➡": {
+        "default": [
+          "jeeda",
+          "jidh madaw",
+          "maratoon",
+          "midig",
+          "naag",
+          "naag ordaysa",
+          "orod",
+          "tartan orod",
+          "u"
+        ],
+        "tts": [
+          "naag ordaysa: jidh madaw, midig u jeeda"
+        ]
+      },
+      "🏃‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "maratoon",
+          "midig",
+          "nin",
+          "nin ordaya",
+          "orodka",
+          "tartan orod",
+          "u"
+        ],
+        "tts": [
+          "nin ordaya: midig u jeeda"
+        ]
+      },
+      "🏃🏻‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud",
+          "maratoon",
+          "midig",
+          "nin",
+          "nin ordaya",
+          "orodka",
+          "tartan orod",
+          "u"
+        ],
+        "tts": [
+          "nin ordaya: jidh fudud, midig u jeeda"
+        ]
+      },
+      "🏃🏼‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jidh fudud oo dhexe",
+          "maratoon",
+          "midig",
+          "nin",
+          "nin ordaya",
+          "orodka",
+          "tartan orod",
+          "u"
+        ],
+        "tts": [
+          "nin ordaya: jidh fudud oo dhexe, midig u jeeda"
+        ]
+      },
+      "🏃🏽‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc dhexe",
+          "maratoon",
+          "midig",
+          "nin",
+          "nin ordaya",
+          "orodka",
+          "tartan orod",
+          "u"
+        ],
+        "tts": [
+          "nin ordaya: jidh nooc dhexe, midig u jeeda"
+        ]
+      },
+      "🏃🏾‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jidh nooc madaw oo dhexe",
+          "maratoon",
+          "midig",
+          "nin",
+          "nin ordaya",
+          "orodka",
+          "tartan orod",
+          "u"
+        ],
+        "tts": [
+          "nin ordaya: jidh nooc madaw oo dhexe, midig u jeeda"
+        ]
+      },
+      "🏃🏿‍♂‍➡": {
+        "default": [
+          "jeeda",
+          "jidh madaw",
+          "maratoon",
+          "midig",
+          "nin",
+          "nin ordaya",
+          "orodka",
+          "tartan orod",
+          "u"
+        ],
+        "tts": [
+          "nin ordaya: jidh madaw, midig u jeeda"
         ]
       },
       "💃🏻": {
@@ -23276,7 +24969,7 @@
           "calan"
         ],
         "tts": [
-          "calan: Dhul xadeedka Badweynta Hindiya ee Biritishka"
+          "calan: Dhul xadeedka Badweynta Hindiya ee Ingiriiska"
         ]
       },
       "🇮🇶": {
@@ -24204,7 +25897,7 @@
           "calan"
         ],
         "tts": [
-          "calan: Timoor"
+          "calan: Timor-Leste"
         ]
       },
       "🇹🇲": {
@@ -24332,7 +26025,7 @@
           "calan"
         ],
         "tts": [
-          "calan: Faatikaan"
+          "calan: Magaalada Faatikaan"
         ]
       },
       "🇻🇨": {

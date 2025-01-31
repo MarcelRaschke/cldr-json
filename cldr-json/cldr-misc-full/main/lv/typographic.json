@@ -2,9 +2,6 @@
   "main": {
     "lv": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "lv"
       },
       "typographicNames": {
@@ -60,7 +57,6 @@
           "wght-subtype-400": "parasts",
           "wght-subtype-500": "vidējs",
           "wght-subtype-600": "pustrekns",
-          "wght-subtype-600-alt-demi": "pustrekns",
           "wght-subtype-700": "treknraksts",
           "wght-subtype-800": "īpaši trekns",
           "wght-subtype-900": "melns",

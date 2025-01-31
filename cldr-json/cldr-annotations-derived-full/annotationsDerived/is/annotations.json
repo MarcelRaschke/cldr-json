@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "is"
     },
     "annotations": {
@@ -14708,8 +14705,9 @@
       "🧑🏻‍🎄": {
         "default": [
           "frú sveinki",
+          "jól",
           "ljós húðlitur",
-          "Sveinki, jól"
+          "Sveinki"
         ],
         "tts": [
           "frú sveinki: ljós húðlitur"
@@ -14718,8 +14716,9 @@
       "🧑🏼‍🎄": {
         "default": [
           "frú sveinki",
+          "jól",
           "meðalljós húðlitur",
-          "Sveinki, jól"
+          "Sveinki"
         ],
         "tts": [
           "frú sveinki: meðalljós húðlitur"
@@ -14728,8 +14727,9 @@
       "🧑🏽‍🎄": {
         "default": [
           "frú sveinki",
+          "jól",
           "millihúðlitur",
-          "Sveinki, jól"
+          "Sveinki"
         ],
         "tts": [
           "frú sveinki: millihúðlitur"
@@ -14738,8 +14738,9 @@
       "🧑🏾‍🎄": {
         "default": [
           "frú sveinki",
+          "jól",
           "meðaldökkur húðlitur",
-          "Sveinki, jól"
+          "Sveinki"
         ],
         "tts": [
           "frú sveinki: meðaldökkur húðlitur"
@@ -14749,7 +14750,8 @@
         "default": [
           "dökkur húðlitur",
           "frú sveinki",
-          "Sveinki, jól"
+          "jól",
+          "Sveinki"
         ],
         "tts": [
           "frú sveinki: dökkur húðlitur"
@@ -16495,6 +16497,285 @@
           "gangandi kona: dökkur húðlitur"
         ]
       },
+      "🚶‍➡": {
+        "default": [
+          "ganga",
+          "gönguferð",
+          "hægri",
+          "labba",
+          "snýr",
+          "til",
+          "vegfarandi"
+        ],
+        "tts": [
+          "vegfarandi: snýr til hægri"
+        ]
+      },
+      "🚶🏻‍➡": {
+        "default": [
+          "ganga",
+          "gönguferð",
+          "hægri",
+          "labba",
+          "ljós húðlitur",
+          "snýr",
+          "til",
+          "vegfarandi"
+        ],
+        "tts": [
+          "vegfarandi: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🚶🏼‍➡": {
+        "default": [
+          "ganga",
+          "gönguferð",
+          "hægri",
+          "labba",
+          "meðalljós húðlitur",
+          "snýr",
+          "til",
+          "vegfarandi"
+        ],
+        "tts": [
+          "vegfarandi: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🚶🏽‍➡": {
+        "default": [
+          "ganga",
+          "gönguferð",
+          "hægri",
+          "labba",
+          "millihúðlitur",
+          "snýr",
+          "til",
+          "vegfarandi"
+        ],
+        "tts": [
+          "vegfarandi: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "🚶🏾‍➡": {
+        "default": [
+          "ganga",
+          "gönguferð",
+          "hægri",
+          "labba",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til",
+          "vegfarandi"
+        ],
+        "tts": [
+          "vegfarandi: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🚶🏿‍➡": {
+        "default": [
+          "dökkur húðlitur",
+          "ganga",
+          "gönguferð",
+          "hægri",
+          "labba",
+          "snýr",
+          "til",
+          "vegfarandi"
+        ],
+        "tts": [
+          "vegfarandi: dökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🚶‍♀‍➡": {
+        "default": [
+          "ganga",
+          "gangandi kona",
+          "gönguferð",
+          "hægri",
+          "kona",
+          "labba",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "gangandi kona: snýr til hægri"
+        ]
+      },
+      "🚶🏻‍♀‍➡": {
+        "default": [
+          "ganga",
+          "gangandi kona",
+          "gönguferð",
+          "hægri",
+          "kona",
+          "labba",
+          "ljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "gangandi kona: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🚶🏼‍♀‍➡": {
+        "default": [
+          "ganga",
+          "gangandi kona",
+          "gönguferð",
+          "hægri",
+          "kona",
+          "labba",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "gangandi kona: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🚶🏽‍♀‍➡": {
+        "default": [
+          "ganga",
+          "gangandi kona",
+          "gönguferð",
+          "hægri",
+          "kona",
+          "labba",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "gangandi kona: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "🚶🏾‍♀‍➡": {
+        "default": [
+          "ganga",
+          "gangandi kona",
+          "gönguferð",
+          "hægri",
+          "kona",
+          "labba",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "gangandi kona: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🚶🏿‍♀‍➡": {
+        "default": [
+          "dökkur húðlitur",
+          "ganga",
+          "gangandi kona",
+          "gönguferð",
+          "hægri",
+          "kona",
+          "labba",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "gangandi kona: dökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🚶‍♂‍➡": {
+        "default": [
+          "ganga",
+          "gangandi maður",
+          "gönguferð",
+          "hægri",
+          "karl",
+          "labba",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "gangandi maður: snýr til hægri"
+        ]
+      },
+      "🚶🏻‍♂‍➡": {
+        "default": [
+          "ganga",
+          "gangandi maður",
+          "gönguferð",
+          "hægri",
+          "karl",
+          "labba",
+          "ljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "gangandi maður: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🚶🏼‍♂‍➡": {
+        "default": [
+          "ganga",
+          "gangandi maður",
+          "gönguferð",
+          "hægri",
+          "karl",
+          "labba",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "gangandi maður: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🚶🏽‍♂‍➡": {
+        "default": [
+          "ganga",
+          "gangandi maður",
+          "gönguferð",
+          "hægri",
+          "karl",
+          "labba",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "gangandi maður: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "🚶🏾‍♂‍➡": {
+        "default": [
+          "ganga",
+          "gangandi maður",
+          "gönguferð",
+          "hægri",
+          "karl",
+          "labba",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "gangandi maður: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🚶🏿‍♂‍➡": {
+        "default": [
+          "dökkur húðlitur",
+          "ganga",
+          "gangandi maður",
+          "gönguferð",
+          "hægri",
+          "karl",
+          "labba",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "gangandi maður: dökkur húðlitur og snýr til hægri"
+        ]
+      },
       "🧍🏻": {
         "default": [
           "ljós húðlitur",
@@ -16810,6 +17091,243 @@
           "krjúpandi kona: dökkur húðlitur"
         ]
       },
+      "🧎‍➡": {
+        "default": [
+          "hægri",
+          "krjúpa",
+          "krjúpandi",
+          "krjúpandi manneskja",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi manneskja: snýr til hægri"
+        ]
+      },
+      "🧎🏻‍➡": {
+        "default": [
+          "hægri",
+          "krjúpa",
+          "krjúpandi",
+          "krjúpandi manneskja",
+          "ljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi manneskja: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🧎🏼‍➡": {
+        "default": [
+          "hægri",
+          "krjúpa",
+          "krjúpandi",
+          "krjúpandi manneskja",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi manneskja: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🧎🏽‍➡": {
+        "default": [
+          "hægri",
+          "krjúpa",
+          "krjúpandi",
+          "krjúpandi manneskja",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi manneskja: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "🧎🏾‍➡": {
+        "default": [
+          "hægri",
+          "krjúpa",
+          "krjúpandi",
+          "krjúpandi manneskja",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi manneskja: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🧎🏿‍➡": {
+        "default": [
+          "dökkur húðlitur",
+          "hægri",
+          "krjúpa",
+          "krjúpandi",
+          "krjúpandi manneskja",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi manneskja: dökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🧎‍♀‍➡": {
+        "default": [
+          "hægri",
+          "kona",
+          "krjúpandi",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi kona: snýr til hægri"
+        ]
+      },
+      "🧎🏻‍♀‍➡": {
+        "default": [
+          "hægri",
+          "kona",
+          "krjúpandi",
+          "ljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi kona: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🧎🏼‍♀‍➡": {
+        "default": [
+          "hægri",
+          "kona",
+          "krjúpandi",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi kona: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🧎🏽‍♀‍➡": {
+        "default": [
+          "hægri",
+          "kona",
+          "krjúpandi",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi kona: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "🧎🏾‍♀‍➡": {
+        "default": [
+          "hægri",
+          "kona",
+          "krjúpandi",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi kona: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🧎🏿‍♀‍➡": {
+        "default": [
+          "dökkur húðlitur",
+          "hægri",
+          "kona",
+          "krjúpandi",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi kona: dökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🧎‍♂‍➡": {
+        "default": [
+          "hægri",
+          "krjúpandi",
+          "maður",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi maður: snýr til hægri"
+        ]
+      },
+      "🧎🏻‍♂‍➡": {
+        "default": [
+          "hægri",
+          "krjúpandi",
+          "ljós húðlitur",
+          "maður",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi maður: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🧎🏼‍♂‍➡": {
+        "default": [
+          "hægri",
+          "krjúpandi",
+          "maður",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi maður: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🧎🏽‍♂‍➡": {
+        "default": [
+          "hægri",
+          "krjúpandi",
+          "maður",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi maður: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "🧎🏾‍♂‍➡": {
+        "default": [
+          "hægri",
+          "krjúpandi",
+          "maður",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi maður: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🧎🏿‍♂‍➡": {
+        "default": [
+          "dökkur húðlitur",
+          "hægri",
+          "krjúpandi",
+          "maður",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "krjúpandi maður: dökkur húðlitur og snýr til hægri"
+        ]
+      },
       "🧑🏻‍🦯": {
         "default": [
           "aðgengi",
@@ -16868,6 +17386,95 @@
         ],
         "tts": [
           "manneskja með blindrastaf: dökkur húðlitur"
+        ]
+      },
+      "🧑‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "manneskja með blindrastaf",
+          "manneskja með hvítan staf",
+          "sjónlaus",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja með blindrastaf: snýr til hægri"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "ljós húðlitur",
+          "manneskja með blindrastaf",
+          "manneskja með hvítan staf",
+          "sjónlaus",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja með blindrastaf: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🧑🏼‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "manneskja með blindrastaf",
+          "manneskja með hvítan staf",
+          "meðalljós húðlitur",
+          "sjónlaus",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja með blindrastaf: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "manneskja með blindrastaf",
+          "manneskja með hvítan staf",
+          "millihúðlitur",
+          "sjónlaus",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja með blindrastaf: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "manneskja með blindrastaf",
+          "manneskja með hvítan staf",
+          "meðaldökkur húðlitur",
+          "sjónlaus",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja með blindrastaf: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "dökkur húðlitur",
+          "hægri",
+          "manneskja með blindrastaf",
+          "manneskja með hvítan staf",
+          "sjónlaus",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja með blindrastaf: dökkur húðlitur og snýr til hægri"
         ]
       },
       "👨🏻‍🦯": {
@@ -16930,6 +17537,95 @@
           "maður með blindrastaf: dökkur húðlitur"
         ]
       },
+      "👨‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "blindur",
+          "hægri",
+          "maður",
+          "maður með blindrastaf",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður með blindrastaf: snýr til hægri"
+        ]
+      },
+      "👨🏻‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "blindur",
+          "hægri",
+          "ljós húðlitur",
+          "maður",
+          "maður með blindrastaf",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður með blindrastaf: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "👨🏼‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "blindur",
+          "hægri",
+          "maður",
+          "maður með blindrastaf",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður með blindrastaf: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "👨🏽‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "blindur",
+          "hægri",
+          "maður",
+          "maður með blindrastaf",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður með blindrastaf: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "👨🏾‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "blindur",
+          "hægri",
+          "maður",
+          "maður með blindrastaf",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður með blindrastaf: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "👨🏿‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "blindur",
+          "dökkur húðlitur",
+          "hægri",
+          "maður",
+          "maður með blindrastaf",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður með blindrastaf: dökkur húðlitur og snýr til hægri"
+        ]
+      },
       "👩🏻‍🦯": {
         "default": [
           "aðgengi",
@@ -16990,6 +17686,95 @@
           "kona með blindrastaf: dökkur húðlitur"
         ]
       },
+      "👩‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "blind",
+          "hægri",
+          "kona",
+          "kona með blindrastaf",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona með blindrastaf: snýr til hægri"
+        ]
+      },
+      "👩🏻‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "blind",
+          "hægri",
+          "kona",
+          "kona með blindrastaf",
+          "ljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona með blindrastaf: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "👩🏼‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "blind",
+          "hægri",
+          "kona",
+          "kona með blindrastaf",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona með blindrastaf: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "👩🏽‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "blind",
+          "hægri",
+          "kona",
+          "kona með blindrastaf",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona með blindrastaf: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "👩🏾‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "blind",
+          "hægri",
+          "kona",
+          "kona með blindrastaf",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona með blindrastaf: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "👩🏿‍🦯‍➡": {
+        "default": [
+          "aðgengi",
+          "blind",
+          "dökkur húðlitur",
+          "hægri",
+          "kona",
+          "kona með blindrastaf",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona með blindrastaf: dökkur húðlitur og snýr til hægri"
+        ]
+      },
       "🧑🏻‍🦼": {
         "default": [
           "aðgengi",
@@ -17043,6 +17828,89 @@
         ],
         "tts": [
           "manneskja í vélknúnum hjólastól: dökkur húðlitur"
+        ]
+      },
+      "🧑‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "manneskja í vélknúnum hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja í vélknúnum hjólastól: snýr til hægri"
+        ]
+      },
+      "🧑🏻‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "ljós húðlitur",
+          "manneskja í vélknúnum hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja í vélknúnum hjólastól: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🧑🏼‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "manneskja í vélknúnum hjólastól",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja í vélknúnum hjólastól: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🧑🏽‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "manneskja í vélknúnum hjólastól",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja í vélknúnum hjólastól: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "🧑🏾‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "manneskja í vélknúnum hjólastól",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja í vélknúnum hjólastól: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🧑🏿‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "dökkur húðlitur",
+          "hægri",
+          "hjólastóll",
+          "manneskja í vélknúnum hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja í vélknúnum hjólastól: dökkur húðlitur og snýr til hægri"
         ]
       },
       "👨🏻‍🦼": {
@@ -17105,6 +17973,95 @@
           "maður í vélknúnum hjólastól: dökkur húðlitur"
         ]
       },
+      "👨‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "maður",
+          "maður í vélknúnum hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður í vélknúnum hjólastól: snýr til hægri"
+        ]
+      },
+      "👨🏻‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "ljós húðlitur",
+          "maður",
+          "maður í vélknúnum hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður í vélknúnum hjólastól: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "👨🏼‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "maður",
+          "maður í vélknúnum hjólastól",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður í vélknúnum hjólastól: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "👨🏽‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "maður",
+          "maður í vélknúnum hjólastól",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður í vélknúnum hjólastól: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "👨🏾‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "maður",
+          "maður í vélknúnum hjólastól",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður í vélknúnum hjólastól: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "👨🏿‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "dökkur húðlitur",
+          "hægri",
+          "hjólastóll",
+          "maður",
+          "maður í vélknúnum hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður í vélknúnum hjólastól: dökkur húðlitur og snýr til hægri"
+        ]
+      },
       "👩🏻‍🦼": {
         "default": [
           "aðgengi",
@@ -17165,6 +18122,95 @@
           "kona í vélknúnum hjólastól: dökkur húðlitur"
         ]
       },
+      "👩‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "kona",
+          "kona í vélknúnum hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona í vélknúnum hjólastól: snýr til hægri"
+        ]
+      },
+      "👩🏻‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "kona",
+          "kona í vélknúnum hjólastól",
+          "ljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona í vélknúnum hjólastól: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "👩🏼‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "kona",
+          "kona í vélknúnum hjólastól",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona í vélknúnum hjólastól: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "👩🏽‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "kona",
+          "kona í vélknúnum hjólastól",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona í vélknúnum hjólastól: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "👩🏾‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "kona",
+          "kona í vélknúnum hjólastól",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona í vélknúnum hjólastól: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "👩🏿‍🦼‍➡": {
+        "default": [
+          "aðgengi",
+          "dökkur húðlitur",
+          "hægri",
+          "hjólastóll",
+          "kona",
+          "kona í vélknúnum hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona í vélknúnum hjólastól: dökkur húðlitur og snýr til hægri"
+        ]
+      },
       "🧑🏻‍🦽": {
         "default": [
           "aðgengi",
@@ -17218,6 +18264,89 @@
         ],
         "tts": [
           "manneskja í hjólastól: dökkur húðlitur"
+        ]
+      },
+      "🧑‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "manneskja í hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja í hjólastól: snýr til hægri"
+        ]
+      },
+      "🧑🏻‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "ljós húðlitur",
+          "manneskja í hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja í hjólastól: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🧑🏼‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "manneskja í hjólastól",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja í hjólastól: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🧑🏽‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "manneskja í hjólastól",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja í hjólastól: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "🧑🏾‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "manneskja í hjólastól",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja í hjólastól: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🧑🏿‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "dökkur húðlitur",
+          "hægri",
+          "hjólastóll",
+          "manneskja í hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "manneskja í hjólastól: dökkur húðlitur og snýr til hægri"
         ]
       },
       "👨🏻‍🦽": {
@@ -17280,6 +18409,95 @@
           "maður í hjólastól: dökkur húðlitur"
         ]
       },
+      "👨‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "maður",
+          "maður í hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður í hjólastól: snýr til hægri"
+        ]
+      },
+      "👨🏻‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "ljós húðlitur",
+          "maður",
+          "maður í hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður í hjólastól: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "👨🏼‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "maður",
+          "maður í hjólastól",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður í hjólastól: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "👨🏽‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "maður",
+          "maður í hjólastól",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður í hjólastól: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "👨🏾‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "maður",
+          "maður í hjólastól",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður í hjólastól: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "👨🏿‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "dökkur húðlitur",
+          "hægri",
+          "hjólastóll",
+          "maður",
+          "maður í hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "maður í hjólastól: dökkur húðlitur og snýr til hægri"
+        ]
+      },
       "👩🏻‍🦽": {
         "default": [
           "aðgengi",
@@ -17338,6 +18556,95 @@
         ],
         "tts": [
           "kona í hjólastól: dökkur húðlitur"
+        ]
+      },
+      "👩‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "kona",
+          "kona í hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona í hjólastól: snýr til hægri"
+        ]
+      },
+      "👩🏻‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "kona",
+          "kona í hjólastól",
+          "ljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona í hjólastól: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "👩🏼‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "kona",
+          "kona í hjólastól",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona í hjólastól: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "👩🏽‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "kona",
+          "kona í hjólastól",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona í hjólastól: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "👩🏾‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "hægri",
+          "hjólastóll",
+          "kona",
+          "kona í hjólastól",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona í hjólastól: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "👩🏿‍🦽‍➡": {
+        "default": [
+          "aðgengi",
+          "dökkur húðlitur",
+          "hægri",
+          "hjólastóll",
+          "kona",
+          "kona í hjólastól",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "kona í hjólastól: dökkur húðlitur og snýr til hægri"
         ]
       },
       "🏃🏻": {
@@ -17503,6 +18810,255 @@
         ],
         "tts": [
           "hlaupandi kona: dökkur húðlitur"
+        ]
+      },
+      "🏃‍➡": {
+        "default": [
+          "hægri",
+          "hlaup",
+          "hlaupari",
+          "maraþon",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupari: snýr til hægri"
+        ]
+      },
+      "🏃🏻‍➡": {
+        "default": [
+          "hægri",
+          "hlaup",
+          "hlaupari",
+          "ljós húðlitur",
+          "maraþon",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupari: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🏃🏼‍➡": {
+        "default": [
+          "hægri",
+          "hlaup",
+          "hlaupari",
+          "maraþon",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupari: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🏃🏽‍➡": {
+        "default": [
+          "hægri",
+          "hlaup",
+          "hlaupari",
+          "maraþon",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupari: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "🏃🏾‍➡": {
+        "default": [
+          "hægri",
+          "hlaup",
+          "hlaupari",
+          "maraþon",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupari: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🏃🏿‍➡": {
+        "default": [
+          "dökkur húðlitur",
+          "hægri",
+          "hlaup",
+          "hlaupari",
+          "maraþon",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupari: dökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🏃‍♀‍➡": {
+        "default": [
+          "hægri",
+          "hlaup",
+          "hlaupandi kona",
+          "maraþon",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupandi kona: snýr til hægri"
+        ]
+      },
+      "🏃🏻‍♀‍➡": {
+        "default": [
+          "hægri",
+          "hlaup",
+          "hlaupandi kona",
+          "ljós húðlitur",
+          "maraþon",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupandi kona: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🏃🏼‍♀‍➡": {
+        "default": [
+          "hægri",
+          "hlaup",
+          "hlaupandi kona",
+          "maraþon",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupandi kona: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🏃🏽‍♀‍➡": {
+        "default": [
+          "hægri",
+          "hlaup",
+          "hlaupandi kona",
+          "maraþon",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupandi kona: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "🏃🏾‍♀‍➡": {
+        "default": [
+          "hægri",
+          "hlaup",
+          "hlaupandi kona",
+          "maraþon",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupandi kona: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🏃🏿‍♀‍➡": {
+        "default": [
+          "dökkur húðlitur",
+          "hægri",
+          "hlaup",
+          "hlaupandi kona",
+          "maraþon",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupandi kona: dökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🏃‍♂‍➡": {
+        "default": [
+          "hægri",
+          "hlaup",
+          "hlaupandi maður",
+          "maraþon",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupandi maður: snýr til hægri"
+        ]
+      },
+      "🏃🏻‍♂‍➡": {
+        "default": [
+          "hægri",
+          "hlaup",
+          "hlaupandi maður",
+          "ljós húðlitur",
+          "maraþon",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupandi maður: ljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🏃🏼‍♂‍➡": {
+        "default": [
+          "hægri",
+          "hlaup",
+          "hlaupandi maður",
+          "maraþon",
+          "meðalljós húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupandi maður: meðalljós húðlitur og snýr til hægri"
+        ]
+      },
+      "🏃🏽‍♂‍➡": {
+        "default": [
+          "hægri",
+          "hlaup",
+          "hlaupandi maður",
+          "maraþon",
+          "millihúðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupandi maður: millihúðlitur og snýr til hægri"
+        ]
+      },
+      "🏃🏾‍♂‍➡": {
+        "default": [
+          "hægri",
+          "hlaup",
+          "hlaupandi maður",
+          "maraþon",
+          "meðaldökkur húðlitur",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupandi maður: meðaldökkur húðlitur og snýr til hægri"
+        ]
+      },
+      "🏃🏿‍♂‍➡": {
+        "default": [
+          "dökkur húðlitur",
+          "hægri",
+          "hlaup",
+          "hlaupandi maður",
+          "maraþon",
+          "snýr",
+          "til"
+        ],
+        "tts": [
+          "hlaupandi maður: dökkur húðlitur og snýr til hægri"
         ]
       },
       "💃🏻": {
@@ -24290,7 +25846,7 @@
           "fáni"
         ],
         "tts": [
-          "fáni: Svasíland"
+          "fáni: Esvatíní"
         ]
       },
       "🇹🇦": {
@@ -24669,11 +26225,6 @@
           "nígerísk næra"
         ]
       },
-      "₧": {
-        "tts": [
-          "Spænskur peseti"
-        ]
-      },
       "₪": {
         "tts": [
           "nýr ísraelskur sikill"
@@ -24807,6 +26358,11 @@
         ],
         "tts": [
           "takki: 9"
+        ]
+      },
+      "₧": {
+        "tts": [
+          "Spænskur peseti"
         ]
       }
     }

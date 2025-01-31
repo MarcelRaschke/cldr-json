@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "xh"
     },
     "annotations": {
@@ -17029,7 +17026,7 @@
       },
       "₦": {
         "tts": [
-          "I-Naira yaseNigeria"
+          "INaira yaseNigeria"
         ]
       },
       "₪": {
@@ -17064,7 +17061,7 @@
       },
       "₵": {
         "tts": [
-          "I-Cedi yaseGhana"
+          "ICedi yaseGhana"
         ]
       },
       "₸": {

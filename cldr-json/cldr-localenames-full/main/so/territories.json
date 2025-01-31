@@ -2,14 +2,11 @@
   "main": {
     "so": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "so"
       },
       "localeDisplayNames": {
         "territories": {
-          "001": "Dunida",
+          "001": "dunida",
           "002": "Afrika",
           "003": "Waqooyi Ameerika",
           "005": "Koonfur Ameerika",
@@ -87,7 +84,7 @@
           "CG-alt-variant": "Jamhuuriyadda Kongo",
           "CH": "Swiiserlaand",
           "CI": "Ayfori Koost",
-          "CI-alt-variant": "Côte d’Ivoire",
+          "CI-alt-variant": "Ayfori Koost",
           "CK": "Jasiiradda Kook",
           "CL": "Jili",
           "CM": "Kaameruun",
@@ -159,7 +156,9 @@
           "IL": "Israaʼiil",
           "IM": "Jasiiradda Isle of Man",
           "IN": "Hindiya",
-          "IO": "Dhul xadeedka Badweynta Hindiya ee Biritishka",
+          "IO": "Dhul xadeedka Badweynta Hindiya ee Ingiriiska",
+          "IO-alt-biot": "Dhul xadeedka Badweynta Hindiya ee Ingiriiska",
+          "IO-alt-chagos": "Chagos Archipelago",
           "IQ": "Ciraaq",
           "IR": "Iiraan",
           "IS": "Ayslaand",
@@ -280,7 +279,7 @@
           "TH": "Taylaand",
           "TJ": "Tajikistan",
           "TK": "Tokelaaw",
-          "TL": "Timoor",
+          "TL": "Timor-Leste",
           "TL-alt-variant": "Bariga Timor",
           "TM": "Turkmenistan",
           "TN": "Tuniisiya",
@@ -299,7 +298,7 @@
           "US-alt-short": "Maraykanka",
           "UY": "Uruguwaay",
           "UZ": "Usbakistan",
-          "VA": "Faatikaan",
+          "VA": "Magaalada Faatikaan",
           "VC": "St. Finsent & Girenadiins",
           "VE": "Fenisuweela",
           "VG": "Biritish Farjin Island",

@@ -2,9 +2,6 @@
   "main": {
     "fi": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "fi"
       },
       "localeDisplayNames": {
@@ -12,6 +9,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Englanti",
+          "gbsct": "Skotlanti",
+          "gbwls": "Wales"
         },
         "keys": {
           "calendar": "kalenteri",
@@ -44,11 +46,11 @@
             "gregorian": "gregoriaaninen kalenteri",
             "hebrew": "juutalainen kalenteri",
             "indian": "intialainen kalenteri",
-            "islamic": "islamilainen kalenteri",
-            "islamic-civil": "islamilainen siviilikalenteri, perjantai-epookki",
-            "islamic-rgsa": "islamilainen saudiarabialainen kalenteri",
-            "islamic-tbla": "islamilainen matemaattinen kalenteri, torstai-epookki",
-            "islamic-umalqura": "islamilainen Umm al-Qura -kalenteri",
+            "islamic": "hidžra-kalenteri",
+            "islamic-civil": "hidžra-siviilikalenteri (tabulaarinen, perjantaiepookki)",
+            "islamic-rgsa": "hidžra-kalenteri (saudiarabialainen)",
+            "islamic-tbla": "hidžra-matemaattinen kalenteri (tabulaarinen, torstaiepookki)",
+            "islamic-umalqura": "hidžra-kalenteri, Umm al-Qura",
             "iso8601": "ISO 8601 -kalenteri",
             "japanese": "japanilainen kalenteri",
             "persian": "persialainen kalenteri",
@@ -86,7 +88,6 @@
             "phonebook": "puhelinluettelojärjestys",
             "phonetic": "äänteellinen järjestys",
             "pinyin": "pinyin-järjestys",
-            "reformed": "uudistettu järjestys",
             "search": "yleishakujärjestys",
             "searchjl": "haku hangul-alkukonsonantin mukaan",
             "standard": "normaalijärjestys",
@@ -171,7 +172,7 @@
             "jpan": "japanilaiset numerot",
             "jpanfin": "japanilaiset talousnumerot",
             "kali": "kayah li -numerot",
-            "kawi": "kawi",
+            "kawi": "kawilaiset numerot",
             "khmr": "khmeriläiset numerot",
             "knda": "kannadalaiset numerot",
             "lana": "taithamin hora-numerot",
@@ -193,7 +194,7 @@
             "mymr": "burmalaiset numerot",
             "mymrshan": "myanmarin shan-numerot",
             "mymrtlng": "myanmarin tai laing -numerot",
-            "nagm": "nagm",
+            "nagm": "Nagin mundarinumerot",
             "native": "kielen omat numerot",
             "nkoo": "n’ko-numerot",
             "olck": "ol chiki -numerot",
@@ -216,7 +217,7 @@
             "thai": "thainumerot",
             "tibt": "tiibetiläiset numerot",
             "tirh": "tirhuta-numerot",
-            "tnsa": "tnsa",
+            "tnsa": "tangsa-numerot",
             "traditional": "perinteiset numerot",
             "vaii": "vai-numerot",
             "wara": "varang kshiti -numerot",

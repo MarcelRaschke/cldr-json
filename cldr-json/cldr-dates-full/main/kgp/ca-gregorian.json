@@ -2,9 +2,6 @@
   "main": {
     "kgp": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "kgp"
       },
       "dates": {
@@ -372,7 +369,6 @@
                 "MMMEd": "E, d 'ne' MMM",
                 "MMMMd": "d 'ne' MMMM",
                 "MMMMEd": "E, d 'ne' MMMM",
-                "MMMMW-count-one": "'simỹnỹ' W 'ne' MMMM",
                 "MMMMW-count-other": "'simỹnỹ' W 'ne' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
@@ -388,7 +384,6 @@
                 "yMMMMEd": "E, d 'ne' MMMM, y",
                 "yQQQ": "QQQ, y",
                 "yQQQQ": "QQQQ, y",
-                "yw-count-one": "'simỹnỹ' w, Y",
                 "yw-count-other": "'simỹnỹ' w, Y"
               },
               "appendItems": {

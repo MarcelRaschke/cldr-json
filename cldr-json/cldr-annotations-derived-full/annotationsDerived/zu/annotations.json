@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "zu"
     },
     "annotations": {
@@ -849,14 +846,14 @@
       },
       "🫷🏻": {
         "default": [
-          "high five",
-          "leftward",
           "leftwards pushing hand",
-          "push",
-          "refuse",
-          "stop",
+          "linda",
+          "ngakwesobunxele",
+          "phakamisa isandla",
+          "sunduza",
           "uhlobo-1-2",
-          "wait"
+          "ungavumi",
+          "yima"
         ],
         "tts": [
           "leftwards pushing hand: uhlobo-1-2"
@@ -864,14 +861,14 @@
       },
       "🫷🏼": {
         "default": [
-          "high five",
-          "leftward",
           "leftwards pushing hand",
-          "push",
-          "refuse",
-          "stop",
+          "linda",
+          "ngakwesobunxele",
+          "phakamisa isandla",
+          "sunduza",
           "uhlobo-3",
-          "wait"
+          "ungavumi",
+          "yima"
         ],
         "tts": [
           "leftwards pushing hand: uhlobo-3"
@@ -879,14 +876,14 @@
       },
       "🫷🏽": {
         "default": [
-          "high five",
-          "leftward",
           "leftwards pushing hand",
-          "push",
-          "refuse",
-          "stop",
+          "linda",
+          "ngakwesobunxele",
+          "phakamisa isandla",
+          "sunduza",
           "uhlobo-4",
-          "wait"
+          "ungavumi",
+          "yima"
         ],
         "tts": [
           "leftwards pushing hand: uhlobo-4"
@@ -894,14 +891,14 @@
       },
       "🫷🏾": {
         "default": [
-          "high five",
-          "leftward",
           "leftwards pushing hand",
-          "push",
-          "refuse",
-          "stop",
+          "linda",
+          "ngakwesobunxele",
+          "phakamisa isandla",
+          "sunduza",
           "uhlobo-5",
-          "wait"
+          "ungavumi",
+          "yima"
         ],
         "tts": [
           "leftwards pushing hand: uhlobo-5"
@@ -909,14 +906,14 @@
       },
       "🫷🏿": {
         "default": [
-          "high five",
-          "leftward",
           "leftwards pushing hand",
-          "push",
-          "refuse",
-          "stop",
+          "linda",
+          "ngakwesobunxele",
+          "phakamisa isandla",
+          "sunduza",
           "uhlobo-6",
-          "wait"
+          "ungavumi",
+          "yima"
         ],
         "tts": [
           "leftwards pushing hand: uhlobo-6"
@@ -924,14 +921,14 @@
       },
       "🫸🏻": {
         "default": [
-          "high five",
-          "push",
-          "refuse",
-          "rightward",
+          "linda",
+          "ngakwesokudla",
+          "phakamisa isandla",
           "rightwards pushing hand",
-          "stop",
+          "sunduza",
+          "sunduzela ngakwesokudla",
           "uhlobo-1-2",
-          "wait"
+          "yima"
         ],
         "tts": [
           "rightwards pushing hand: uhlobo-1-2"
@@ -939,14 +936,14 @@
       },
       "🫸🏼": {
         "default": [
-          "high five",
-          "push",
-          "refuse",
-          "rightward",
+          "linda",
+          "ngakwesokudla",
+          "phakamisa isandla",
           "rightwards pushing hand",
-          "stop",
+          "sunduza",
+          "sunduzela ngakwesokudla",
           "uhlobo-3",
-          "wait"
+          "yima"
         ],
         "tts": [
           "rightwards pushing hand: uhlobo-3"
@@ -954,14 +951,14 @@
       },
       "🫸🏽": {
         "default": [
-          "high five",
-          "push",
-          "refuse",
-          "rightward",
+          "linda",
+          "ngakwesokudla",
+          "phakamisa isandla",
           "rightwards pushing hand",
-          "stop",
+          "sunduza",
+          "sunduzela ngakwesokudla",
           "uhlobo-4",
-          "wait"
+          "yima"
         ],
         "tts": [
           "rightwards pushing hand: uhlobo-4"
@@ -969,14 +966,14 @@
       },
       "🫸🏾": {
         "default": [
-          "high five",
-          "push",
-          "refuse",
-          "rightward",
+          "linda",
+          "ngakwesokudla",
+          "phakamisa isandla",
           "rightwards pushing hand",
-          "stop",
+          "sunduza",
+          "sunduzela ngakwesokudla",
           "uhlobo-5",
-          "wait"
+          "yima"
         ],
         "tts": [
           "rightwards pushing hand: uhlobo-5"
@@ -984,14 +981,14 @@
       },
       "🫸🏿": {
         "default": [
-          "high five",
-          "push",
-          "refuse",
-          "rightward",
+          "linda",
+          "ngakwesokudla",
+          "phakamisa isandla",
           "rightwards pushing hand",
-          "stop",
+          "sunduza",
+          "sunduzela ngakwesokudla",
           "uhlobo-6",
-          "wait"
+          "yima"
         ],
         "tts": [
           "rightwards pushing hand: uhlobo-6"
@@ -4572,6 +4569,66 @@
           "indoda: uhlobo-6, intshebe"
         ]
       },
+      "🧔🏻‍♂": {
+        "default": [
+          "indoda",
+          "indoda : enezindevu",
+          "indoda enezindevu",
+          "izindevu",
+          "uhlobo-1-2"
+        ],
+        "tts": [
+          "indoda enezindevu: uhlobo-1-2"
+        ]
+      },
+      "🧔🏼‍♂": {
+        "default": [
+          "indoda",
+          "indoda : enezindevu",
+          "indoda enezindevu",
+          "izindevu",
+          "uhlobo-3"
+        ],
+        "tts": [
+          "indoda enezindevu: uhlobo-3"
+        ]
+      },
+      "🧔🏽‍♂": {
+        "default": [
+          "indoda",
+          "indoda : enezindevu",
+          "indoda enezindevu",
+          "izindevu",
+          "uhlobo-4"
+        ],
+        "tts": [
+          "indoda enezindevu: uhlobo-4"
+        ]
+      },
+      "🧔🏾‍♂": {
+        "default": [
+          "indoda",
+          "indoda : enezindevu",
+          "indoda enezindevu",
+          "izindevu",
+          "uhlobo-5"
+        ],
+        "tts": [
+          "indoda enezindevu: uhlobo-5"
+        ]
+      },
+      "🧔🏿‍♂": {
+        "default": [
+          "indoda",
+          "indoda : enezindevu",
+          "indoda enezindevu",
+          "izindevu",
+          "uhlobo-6"
+        ],
+        "tts": [
+          "indoda enezindevu: uhlobo-6"
+        ]
+      },
       "👱🏻‍♂": {
         "default": [
           "indoda",
@@ -5614,6 +5671,71 @@
         ],
         "tts": [
           "umama: uhlobo-6"
+        ]
+      },
+      "🧔🏻‍♀": {
+        "default": [
+          "izindevu",
+          "onezindevu",
+          "uhlobo-1-2",
+          "umama",
+          "umama : onezindevu",
+          "umuntu wesimame : onezindevu"
+        ],
+        "tts": [
+          "umuntu wesimame : uhlobo-1-2, onezindevu"
+        ]
+      },
+      "🧔🏼‍♀": {
+        "default": [
+          "izindevu",
+          "onezindevu",
+          "uhlobo-3",
+          "umama",
+          "umama : onezindevu",
+          "umuntu wesimame : onezindevu"
+        ],
+        "tts": [
+          "umuntu wesimame : uhlobo-3, onezindevu"
+        ]
+      },
+      "🧔🏽‍♀": {
+        "default": [
+          "izindevu",
+          "onezindevu",
+          "uhlobo-4",
+          "umama",
+          "umama : onezindevu",
+          "umuntu wesimame : onezindevu"
+        ],
+        "tts": [
+          "umuntu wesimame : uhlobo-4, onezindevu"
+        ]
+      },
+      "🧔🏾‍♀": {
+        "default": [
+          "izindevu",
+          "onezindevu",
+          "uhlobo-5",
+          "umama",
+          "umama : onezindevu",
+          "umuntu wesimame : onezindevu"
+        ],
+        "tts": [
+          "umuntu wesimame : uhlobo-5, onezindevu"
+        ]
+      },
+      "🧔🏿‍♀": {
+        "default": [
+          "izindevu",
+          "onezindevu",
+          "uhlobo-6",
+          "umama",
+          "umama : onezindevu",
+          "umuntu wesimame : onezindevu"
+        ],
+        "tts": [
+          "umuntu wesimame : uhlobo-6, onezindevu"
         ]
       },
       "👱🏻‍♀": {
@@ -14343,10 +14465,11 @@
       },
       "🧑🏻‍🎄": {
         "default": [
-          "Claus, ukhisimusi",
+          "Claus",
           "mx claus",
           "u-mx claus",
-          "uhlobo-1-2"
+          "uhlobo-1-2",
+          "ukhisimusi"
         ],
         "tts": [
           "u-mx claus: uhlobo-1-2"
@@ -14354,10 +14477,11 @@
       },
       "🧑🏼‍🎄": {
         "default": [
-          "Claus, ukhisimusi",
+          "Claus",
           "mx claus",
           "u-mx claus",
-          "uhlobo-3"
+          "uhlobo-3",
+          "ukhisimusi"
         ],
         "tts": [
           "u-mx claus: uhlobo-3"
@@ -14365,10 +14489,11 @@
       },
       "🧑🏽‍🎄": {
         "default": [
-          "Claus, ukhisimusi",
+          "Claus",
           "mx claus",
           "u-mx claus",
-          "uhlobo-4"
+          "uhlobo-4",
+          "ukhisimusi"
         ],
         "tts": [
           "u-mx claus: uhlobo-4"
@@ -14376,10 +14501,11 @@
       },
       "🧑🏾‍🎄": {
         "default": [
-          "Claus, ukhisimusi",
+          "Claus",
           "mx claus",
           "u-mx claus",
-          "uhlobo-5"
+          "uhlobo-5",
+          "ukhisimusi"
         ],
         "tts": [
           "u-mx claus: uhlobo-5"
@@ -14387,10 +14513,11 @@
       },
       "🧑🏿‍🎄": {
         "default": [
-          "Claus, ukhisimusi",
+          "Claus",
           "mx claus",
           "u-mx claus",
-          "uhlobo-6"
+          "uhlobo-6",
+          "ukhisimusi"
         ],
         "tts": [
           "u-mx claus: uhlobo-6"

@@ -2,9 +2,6 @@
   "main": {
     "uz-Latn": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "uz",
         "script": "Latn"
       },

@@ -2,9 +2,6 @@
   "main": {
     "zu": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "zu"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — Kungasebenziswa",
         "enclosed": "{0} — kakiwe",
         "extended": "{0} — nwetshiwe",
+        "facing-left": "{0} facing left",
+        "facing-right": "{0} facing right",
         "historic": "{0} — komlando",
         "miscellaneous": "{0} — okuxubile",
         "other": "{0} — Okunye",

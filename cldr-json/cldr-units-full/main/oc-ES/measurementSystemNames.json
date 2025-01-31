@@ -2,17 +2,14 @@
   "main": {
     "oc-ES": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "oc",
         "territory": "ES"
       },
       "localeDisplayNames": {
         "measurementSystemNames": {
           "metric": "Metric",
-          "UK": "UK",
-          "US": "US"
+          "UK": "anglosajon",
+          "US": "estadounidenc"
         }
       }
     }

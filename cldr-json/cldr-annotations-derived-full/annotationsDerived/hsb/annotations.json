@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "hsb"
     },
     "annotations": {
@@ -812,6 +809,8 @@
           "čakać",
           "dolěwa",
           "high five",
+          "kiž tłóči dolěwa",
+          "ruka",
           "ruka, kiž tłóči dolěwa",
           "swětła barba kože",
           "tłóčić",
@@ -828,6 +827,8 @@
           "čakać",
           "dolěwa",
           "high five",
+          "kiž tłóči dolěwa",
+          "ruka",
           "ruka, kiž tłóči dolěwa",
           "srěnjoswětła barba kože",
           "tłóčić",
@@ -844,6 +845,8 @@
           "čakać",
           "dolěwa",
           "high five",
+          "kiž tłóči dolěwa",
+          "ruka",
           "ruka, kiž tłóči dolěwa",
           "srěnja barba kože",
           "tłóčić",
@@ -860,6 +863,8 @@
           "čakać",
           "dolěwa",
           "high five",
+          "kiž tłóči dolěwa",
+          "ruka",
           "ruka, kiž tłóči dolěwa",
           "srěnjoćmowa barba kože",
           "tłóčić",
@@ -877,6 +882,8 @@
           "ćmowa barba kože",
           "dolěwa",
           "high five",
+          "kiž tłóči dolěwa",
+          "ruka",
           "ruka, kiž tłóči dolěwa",
           "tłóčić",
           "wotpokazać",
@@ -892,6 +899,8 @@
           "čakać",
           "doprawa",
           "high five",
+          "kiž tłóči doprawa",
+          "ruka",
           "ruka, kiž tłóči doprawa",
           "swětła barba kože",
           "tłóčić",
@@ -908,6 +917,8 @@
           "čakać",
           "doprawa",
           "high five",
+          "kiž tłóči doprawa",
+          "ruka",
           "ruka, kiž tłóči doprawa",
           "srěnjoswětła barba kože",
           "tłóčić",
@@ -924,6 +935,8 @@
           "čakać",
           "doprawa",
           "high five",
+          "kiž tłóči doprawa",
+          "ruka",
           "ruka, kiž tłóči doprawa",
           "srěnja barba kože",
           "tłóčić",
@@ -940,6 +953,8 @@
           "čakać",
           "doprawa",
           "high five",
+          "kiž tłóči doprawa",
+          "ruka",
           "ruka, kiž tłóči doprawa",
           "srěnjoćmowa barba kože",
           "tłóčić",
@@ -957,6 +972,8 @@
           "ćmowa barba kože",
           "doprawa",
           "high five",
+          "kiž tłóči doprawa",
+          "ruka",
           "ruka, kiž tłóči doprawa",
           "tłóčić",
           "wotpokazać",
@@ -1550,7 +1567,9 @@
       "👈🏻": {
         "default": [
           "dolěwa",
+          "kiž pokazuje dolěwa",
           "nalěwo",
+          "pokazowak",
           "pokazowak, kiž pokazuje dolěwa",
           "porst",
           "swětła barba kože",
@@ -1563,7 +1582,9 @@
       "👈🏼": {
         "default": [
           "dolěwa",
+          "kiž pokazuje dolěwa",
           "nalěwo",
+          "pokazowak",
           "pokazowak, kiž pokazuje dolěwa",
           "porst",
           "srěnjoswětła barba kože",
@@ -1576,7 +1597,9 @@
       "👈🏽": {
         "default": [
           "dolěwa",
+          "kiž pokazuje dolěwa",
           "nalěwo",
+          "pokazowak",
           "pokazowak, kiž pokazuje dolěwa",
           "porst",
           "srěnja barba kože",
@@ -1589,7 +1612,9 @@
       "👈🏾": {
         "default": [
           "dolěwa",
+          "kiž pokazuje dolěwa",
           "nalěwo",
+          "pokazowak",
           "pokazowak, kiž pokazuje dolěwa",
           "porst",
           "srěnjoćmowa barba kože",
@@ -1603,7 +1628,9 @@
         "default": [
           "ćmowa barba kože",
           "dolěwa",
+          "kiž pokazuje dolěwa",
           "nalěwo",
+          "pokazowak",
           "pokazowak, kiž pokazuje dolěwa",
           "porst",
           "zadłóń"
@@ -1615,7 +1642,9 @@
       "👉🏻": {
         "default": [
           "doprawa",
+          "kiž pokazuje doprawa",
           "naprawo",
+          "pokazowak",
           "pokazowak, kiž pokazuje doprawa",
           "porst",
           "swětła barba kože",
@@ -1628,7 +1657,9 @@
       "👉🏼": {
         "default": [
           "doprawa",
+          "kiž pokazuje doprawa",
           "naprawo",
+          "pokazowak",
           "pokazowak, kiž pokazuje doprawa",
           "porst",
           "srěnjoswětła barba kože",
@@ -1641,7 +1672,9 @@
       "👉🏽": {
         "default": [
           "doprawa",
+          "kiž pokazuje doprawa",
           "naprawo",
+          "pokazowak",
           "pokazowak, kiž pokazuje doprawa",
           "porst",
           "srěnja barba kože",
@@ -1654,7 +1687,9 @@
       "👉🏾": {
         "default": [
           "doprawa",
+          "kiž pokazuje doprawa",
           "naprawo",
+          "pokazowak",
           "pokazowak, kiž pokazuje doprawa",
           "porst",
           "srěnjoćmowa barba kože",
@@ -1668,7 +1703,9 @@
         "default": [
           "ćmowa barba kože",
           "doprawa",
+          "kiž pokazuje doprawa",
           "naprawo",
+          "pokazowak",
           "pokazowak, kiž pokazuje doprawa",
           "porst",
           "zadłóń"
@@ -1680,9 +1717,12 @@
       "👆🏻": {
         "default": [
           "horje",
+          "kiž pokazuje horje",
+          "pokazowak",
           "pokazowak, kiž pokazuje horje, wotzady",
           "porst",
           "swětła barba kože",
+          "wotzady",
           "zadłóń"
         ],
         "tts": [
@@ -1692,9 +1732,12 @@
       "👆🏼": {
         "default": [
           "horje",
+          "kiž pokazuje horje",
+          "pokazowak",
           "pokazowak, kiž pokazuje horje, wotzady",
           "porst",
           "srěnjoswětła barba kože",
+          "wotzady",
           "zadłóń"
         ],
         "tts": [
@@ -1704,9 +1747,12 @@
       "👆🏽": {
         "default": [
           "horje",
+          "kiž pokazuje horje",
+          "pokazowak",
           "pokazowak, kiž pokazuje horje, wotzady",
           "porst",
           "srěnja barba kože",
+          "wotzady",
           "zadłóń"
         ],
         "tts": [
@@ -1716,9 +1762,12 @@
       "👆🏾": {
         "default": [
           "horje",
+          "kiž pokazuje horje",
+          "pokazowak",
           "pokazowak, kiž pokazuje horje, wotzady",
           "porst",
           "srěnjoćmowa barba kože",
+          "wotzady",
           "zadłóń"
         ],
         "tts": [
@@ -1729,8 +1778,11 @@
         "default": [
           "ćmowa barba kože",
           "horje",
+          "kiž pokazuje horje",
+          "pokazowak",
           "pokazowak, kiž pokazuje horje, wotzady",
           "porst",
+          "wotzady",
           "zadłóń"
         ],
         "tts": [
@@ -1795,6 +1847,8 @@
       "👇🏻": {
         "default": [
           "dele",
+          "kiž pokazuje dele",
+          "pokazowak",
           "pokazowak, kiž pokazuje dele",
           "porst",
           "swětła barba kože",
@@ -1807,6 +1861,8 @@
       "👇🏼": {
         "default": [
           "dele",
+          "kiž pokazuje dele",
+          "pokazowak",
           "pokazowak, kiž pokazuje dele",
           "porst",
           "srěnjoswětła barba kože",
@@ -1819,6 +1875,8 @@
       "👇🏽": {
         "default": [
           "dele",
+          "kiž pokazuje dele",
+          "pokazowak",
           "pokazowak, kiž pokazuje dele",
           "porst",
           "srěnja barba kože",
@@ -1831,6 +1889,8 @@
       "👇🏾": {
         "default": [
           "dele",
+          "kiž pokazuje dele",
+          "pokazowak",
           "pokazowak, kiž pokazuje dele",
           "porst",
           "srěnjoćmowa barba kože",
@@ -1844,6 +1904,8 @@
         "default": [
           "ćmowa barba kože",
           "dele",
+          "kiž pokazuje dele",
+          "pokazowak",
           "pokazowak, kiž pokazuje dele",
           "porst",
           "zadłóń"
@@ -1855,12 +1917,13 @@
       "☝🏻": {
         "default": [
           "horje",
+          "kiž pokazuje horje",
           "pokazowak",
           "pokazowak, kiž pokazuje horje, wotprědka",
           "porst",
           "ruka",
-          "ruka wotprědka",
-          "swětła barba kože"
+          "swětła barba kože",
+          "wotprědka"
         ],
         "tts": [
           "pokazowak, kiž pokazuje horje, wotprědka: swětła barba kože"
@@ -1869,12 +1932,13 @@
       "☝🏼": {
         "default": [
           "horje",
+          "kiž pokazuje horje",
           "pokazowak",
           "pokazowak, kiž pokazuje horje, wotprědka",
           "porst",
           "ruka",
-          "ruka wotprědka",
-          "srěnjoswětła barba kože"
+          "srěnjoswětła barba kože",
+          "wotprědka"
         ],
         "tts": [
           "pokazowak, kiž pokazuje horje, wotprědka: srěnjoswětła barba kože"
@@ -1883,12 +1947,13 @@
       "☝🏽": {
         "default": [
           "horje",
+          "kiž pokazuje horje",
           "pokazowak",
           "pokazowak, kiž pokazuje horje, wotprědka",
           "porst",
           "ruka",
-          "ruka wotprědka",
-          "srěnja barba kože"
+          "srěnja barba kože",
+          "wotprědka"
         ],
         "tts": [
           "pokazowak, kiž pokazuje horje, wotprědka: srěnja barba kože"
@@ -1897,12 +1962,13 @@
       "☝🏾": {
         "default": [
           "horje",
+          "kiž pokazuje horje",
           "pokazowak",
           "pokazowak, kiž pokazuje horje, wotprědka",
           "porst",
           "ruka",
-          "ruka wotprědka",
-          "srěnjoćmowa barba kože"
+          "srěnjoćmowa barba kože",
+          "wotprědka"
         ],
         "tts": [
           "pokazowak, kiž pokazuje horje, wotprědka: srěnjoćmowa barba kože"
@@ -1912,11 +1978,12 @@
         "default": [
           "ćmowa barba kože",
           "horje",
+          "kiž pokazuje horje",
           "pokazowak",
           "pokazowak, kiž pokazuje horje, wotprědka",
           "porst",
           "ruka",
-          "ruka wotprědka"
+          "wotprědka"
         ],
         "tts": [
           "pokazowak, kiž pokazuje horje, wotprědka: ćmowa barba kože"
@@ -1925,9 +1992,11 @@
       "🫵🏻": {
         "default": [
           "dypk",
+          "pokazowak",
           "pokazowak, wusměrjeny na hladaceho",
           "swětła barba kože",
-          "ty"
+          "ty",
+          "wusměrjeny na hladaceho"
         ],
         "tts": [
           "pokazowak, wusměrjeny na hladaceho: swětła barba kože"
@@ -1936,9 +2005,11 @@
       "🫵🏼": {
         "default": [
           "dypk",
+          "pokazowak",
           "pokazowak, wusměrjeny na hladaceho",
           "srěnjoswětła barba kože",
-          "ty"
+          "ty",
+          "wusměrjeny na hladaceho"
         ],
         "tts": [
           "pokazowak, wusměrjeny na hladaceho: srěnjoswětła barba kože"
@@ -1947,9 +2018,11 @@
       "🫵🏽": {
         "default": [
           "dypk",
+          "pokazowak",
           "pokazowak, wusměrjeny na hladaceho",
           "srěnja barba kože",
-          "ty"
+          "ty",
+          "wusměrjeny na hladaceho"
         ],
         "tts": [
           "pokazowak, wusměrjeny na hladaceho: srěnja barba kože"
@@ -1958,9 +2031,11 @@
       "🫵🏾": {
         "default": [
           "dypk",
+          "pokazowak",
           "pokazowak, wusměrjeny na hladaceho",
           "srěnjoćmowa barba kože",
-          "ty"
+          "ty",
+          "wusměrjeny na hladaceho"
         ],
         "tts": [
           "pokazowak, wusměrjeny na hladaceho: srěnjoćmowa barba kože"
@@ -1970,8 +2045,10 @@
         "default": [
           "ćmowa barba kože",
           "dypk",
+          "pokazowak",
           "pokazowak, wusměrjeny na hladaceho",
-          "ty"
+          "ty",
+          "wusměrjeny na hladaceho"
         ],
         "tts": [
           "pokazowak, wusměrjeny na hladaceho: ćmowa barba kože"
@@ -2319,6 +2396,7 @@
       },
       "👏🏻": {
         "default": [
+          "kiž přikleskujetej",
           "přiklesk",
           "přikleskować",
           "ruce",
@@ -2331,6 +2409,7 @@
       },
       "👏🏼": {
         "default": [
+          "kiž přikleskujetej",
           "přiklesk",
           "přikleskować",
           "ruce",
@@ -2343,6 +2422,7 @@
       },
       "👏🏽": {
         "default": [
+          "kiž přikleskujetej",
           "přiklesk",
           "přikleskować",
           "ruce",
@@ -2355,6 +2435,7 @@
       },
       "👏🏾": {
         "default": [
+          "kiž přikleskujetej",
           "přiklesk",
           "přikleskować",
           "ruce",
@@ -2368,6 +2449,7 @@
       "👏🏿": {
         "default": [
           "ćmowa barba kože",
+          "kiž přikleskujetej",
           "přiklesk",
           "přikleskować",
           "ruce",
@@ -2724,6 +2806,7 @@
       },
       "✍🏻": {
         "default": [
+          "kiž pisa",
           "pisać",
           "ruka",
           "ruka, kiž pisa",
@@ -2735,6 +2818,7 @@
       },
       "✍🏼": {
         "default": [
+          "kiž pisa",
           "pisać",
           "ruka",
           "ruka, kiž pisa",
@@ -2746,6 +2830,7 @@
       },
       "✍🏽": {
         "default": [
+          "kiž pisa",
           "pisać",
           "ruka",
           "ruka, kiž pisa",
@@ -2757,6 +2842,7 @@
       },
       "✍🏾": {
         "default": [
+          "kiž pisa",
           "pisać",
           "ruka",
           "ruka, kiž pisa",
@@ -2769,6 +2855,7 @@
       "✍🏿": {
         "default": [
           "ćmowa barba kože",
+          "kiž pisa",
           "pisać",
           "ruka",
           "ruka, kiž pisa"
@@ -3596,6 +3683,7 @@
         "default": [
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3612,6 +3700,7 @@
         "default": [
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3628,6 +3717,7 @@
         "default": [
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3645,6 +3735,7 @@
           "ćmowa barba kože",
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3660,6 +3751,7 @@
         "default": [
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3676,6 +3768,7 @@
         "default": [
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3692,6 +3785,7 @@
         "default": [
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3709,6 +3803,7 @@
           "ćmowa barba kože",
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3724,6 +3819,7 @@
         "default": [
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3740,6 +3836,7 @@
         "default": [
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3756,6 +3853,7 @@
         "default": [
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3773,6 +3871,7 @@
           "ćmowa barba kože",
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3788,6 +3887,7 @@
         "default": [
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3804,6 +3904,7 @@
         "default": [
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3820,6 +3921,7 @@
         "default": [
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3837,6 +3939,7 @@
           "ćmowa barba kože",
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3853,6 +3956,7 @@
           "ćmowa barba kože",
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3869,6 +3973,7 @@
           "ćmowa barba kože",
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3885,6 +3990,7 @@
           "ćmowa barba kože",
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -3901,6 +4007,7 @@
           "ćmowa barba kože",
           "dorosćeny",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -4660,6 +4767,7 @@
       "👨🏻‍❤‍💋‍👨🏻": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4675,6 +4783,7 @@
       "👨🏻‍❤‍💋‍👨🏼": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4691,6 +4800,7 @@
       "👨🏻‍❤‍💋‍👨🏽": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4707,6 +4817,7 @@
       "👨🏻‍❤‍💋‍👨🏾": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4724,6 +4835,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4739,6 +4851,7 @@
       "👨🏼‍❤‍💋‍👨🏻": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4755,6 +4868,7 @@
       "👨🏼‍❤‍💋‍👨🏼": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4770,6 +4884,7 @@
       "👨🏼‍❤‍💋‍👨🏽": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4786,6 +4901,7 @@
       "👨🏼‍❤‍💋‍👨🏾": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4803,6 +4919,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4818,6 +4935,7 @@
       "👨🏽‍❤‍💋‍👨🏻": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4834,6 +4952,7 @@
       "👨🏽‍❤‍💋‍👨🏼": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4850,6 +4969,7 @@
       "👨🏽‍❤‍💋‍👨🏽": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4865,6 +4985,7 @@
       "👨🏽‍❤‍💋‍👨🏾": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4882,6 +5003,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4897,6 +5019,7 @@
       "👨🏾‍❤‍💋‍👨🏻": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4913,6 +5036,7 @@
       "👨🏾‍❤‍💋‍👨🏼": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4929,6 +5053,7 @@
       "👨🏾‍❤‍💋‍👨🏽": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4945,6 +5070,7 @@
       "👨🏾‍❤‍💋‍👨🏾": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4961,6 +5087,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4977,6 +5104,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -4993,6 +5121,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -5009,6 +5138,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -5025,6 +5155,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -5041,6 +5172,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -5805,6 +5937,7 @@
       "👩🏻‍❤‍💋‍👨🏻": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -5821,6 +5954,7 @@
       "👩🏻‍❤‍💋‍👨🏼": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -5838,6 +5972,7 @@
       "👩🏻‍❤‍💋‍👨🏽": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -5855,6 +5990,7 @@
       "👩🏻‍❤‍💋‍👨🏾": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -5873,6 +6009,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -5889,6 +6026,7 @@
       "👩🏼‍❤‍💋‍👨🏻": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -5906,6 +6044,7 @@
       "👩🏼‍❤‍💋‍👨🏼": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -5922,6 +6061,7 @@
       "👩🏼‍❤‍💋‍👨🏽": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -5939,6 +6079,7 @@
       "👩🏼‍❤‍💋‍👨🏾": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -5957,6 +6098,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -5973,6 +6115,7 @@
       "👩🏽‍❤‍💋‍👨🏻": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -5990,6 +6133,7 @@
       "👩🏽‍❤‍💋‍👨🏼": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -6007,6 +6151,7 @@
       "👩🏽‍❤‍💋‍👨🏽": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -6023,6 +6168,7 @@
       "👩🏽‍❤‍💋‍👨🏾": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -6041,6 +6187,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -6057,6 +6204,7 @@
       "👩🏾‍❤‍💋‍👨🏻": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -6074,6 +6222,7 @@
       "👩🏾‍❤‍💋‍👨🏼": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -6091,6 +6240,7 @@
       "👩🏾‍❤‍💋‍👨🏽": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -6108,6 +6258,7 @@
       "👩🏾‍❤‍💋‍👨🏾": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -6125,6 +6276,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -6142,6 +6294,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -6159,6 +6312,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -6176,6 +6330,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -6193,6 +6348,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -6210,6 +6366,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -6225,6 +6382,7 @@
       "👩🏻‍❤‍💋‍👩🏻": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6240,6 +6398,7 @@
       "👩🏻‍❤‍💋‍👩🏼": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6256,6 +6415,7 @@
       "👩🏻‍❤‍💋‍👩🏽": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6272,6 +6432,7 @@
       "👩🏻‍❤‍💋‍👩🏾": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6289,6 +6450,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6304,6 +6466,7 @@
       "👩🏼‍❤‍💋‍👩🏻": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6320,6 +6483,7 @@
       "👩🏼‍❤‍💋‍👩🏼": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6335,6 +6499,7 @@
       "👩🏼‍❤‍💋‍👩🏽": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6351,6 +6516,7 @@
       "👩🏼‍❤‍💋‍👩🏾": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6368,6 +6534,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6383,6 +6550,7 @@
       "👩🏽‍❤‍💋‍👩🏻": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6399,6 +6567,7 @@
       "👩🏽‍❤‍💋‍👩🏼": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6415,6 +6584,7 @@
       "👩🏽‍❤‍💋‍👩🏽": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6430,6 +6600,7 @@
       "👩🏽‍❤‍💋‍👩🏾": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6447,6 +6618,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6462,6 +6634,7 @@
       "👩🏾‍❤‍💋‍👩🏻": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6478,6 +6651,7 @@
       "👩🏾‍❤‍💋‍👩🏼": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6494,6 +6668,7 @@
       "👩🏾‍❤‍💋‍👩🏽": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6510,6 +6685,7 @@
       "👩🏾‍❤‍💋‍👩🏾": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6526,6 +6702,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6542,6 +6719,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6558,6 +6736,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6574,6 +6753,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6590,6 +6770,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -6606,6 +6787,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -7726,7 +7908,9 @@
         "default": [
           "čoło moršćić",
           "gesta",
+          "kiž moršći čoło",
           "swětła barba kože",
+          "wosoba",
           "wosoba, kiž moršći čoło"
         ],
         "tts": [
@@ -7737,7 +7921,9 @@
         "default": [
           "čoło moršćić",
           "gesta",
+          "kiž moršći čoło",
           "srěnjoswětła barba kože",
+          "wosoba",
           "wosoba, kiž moršći čoło"
         ],
         "tts": [
@@ -7748,7 +7934,9 @@
         "default": [
           "čoło moršćić",
           "gesta",
+          "kiž moršći čoło",
           "srěnja barba kože",
+          "wosoba",
           "wosoba, kiž moršći čoło"
         ],
         "tts": [
@@ -7759,7 +7947,9 @@
         "default": [
           "čoło moršćić",
           "gesta",
+          "kiž moršći čoło",
           "srěnjoćmowa barba kože",
+          "wosoba",
           "wosoba, kiž moršći čoło"
         ],
         "tts": [
@@ -7771,6 +7961,8 @@
           "ćmowa barba kože",
           "čoło moršćić",
           "gesta",
+          "kiž moršći čoło",
+          "wosoba",
           "wosoba, kiž moršći čoło"
         ],
         "tts": [
@@ -7781,6 +7973,7 @@
         "default": [
           "čoło moršćić",
           "gesta",
+          "kiž moršći čoło",
           "muž",
           "muž, kiž moršći čoło",
           "swětła barba kože"
@@ -7793,6 +7986,7 @@
         "default": [
           "čoło moršćić",
           "gesta",
+          "kiž moršći čoło",
           "muž",
           "muž, kiž moršći čoło",
           "srěnjoswětła barba kože"
@@ -7805,6 +7999,7 @@
         "default": [
           "čoło moršćić",
           "gesta",
+          "kiž moršći čoło",
           "muž",
           "muž, kiž moršći čoło",
           "srěnja barba kože"
@@ -7817,6 +8012,7 @@
         "default": [
           "čoło moršćić",
           "gesta",
+          "kiž moršći čoło",
           "muž",
           "muž, kiž moršći čoło",
           "srěnjoćmowa barba kože"
@@ -7830,6 +8026,7 @@
           "ćmowa barba kože",
           "čoło moršćić",
           "gesta",
+          "kiž moršći čoło",
           "muž",
           "muž, kiž moršći čoło"
         ],
@@ -7840,6 +8037,7 @@
       "🙍🏻‍♀": {
         "default": [
           "čoło moršćić",
+          "kiž moršći čoło",
           "swětła barba kože",
           "wobličo",
           "žona",
@@ -7852,6 +8050,7 @@
       "🙍🏼‍♀": {
         "default": [
           "čoło moršćić",
+          "kiž moršći čoło",
           "srěnjoswětła barba kože",
           "wobličo",
           "žona",
@@ -7864,6 +8063,7 @@
       "🙍🏽‍♀": {
         "default": [
           "čoło moršćić",
+          "kiž moršći čoło",
           "srěnja barba kože",
           "wobličo",
           "žona",
@@ -7876,6 +8076,7 @@
       "🙍🏾‍♀": {
         "default": [
           "čoło moršćić",
+          "kiž moršći čoło",
           "srěnjoćmowa barba kože",
           "wobličo",
           "žona",
@@ -7889,6 +8090,7 @@
         "default": [
           "ćmowa barba kože",
           "čoło moršćić",
+          "kiž moršći čoło",
           "wobličo",
           "žona",
           "žona, kiž moršći čoło"
@@ -7899,9 +8101,11 @@
       },
       "🙎🏻": {
         "default": [
+          "kiž kózlika wjaza",
           "kózlika wjazać",
           "plunč pójšeć",
           "swětła barba kože",
+          "wosoba",
           "wosoba, kiž kózlika wjaza"
         ],
         "tts": [
@@ -7910,9 +8114,11 @@
       },
       "🙎🏼": {
         "default": [
+          "kiž kózlika wjaza",
           "kózlika wjazać",
           "plunč pójšeć",
           "srěnjoswětła barba kože",
+          "wosoba",
           "wosoba, kiž kózlika wjaza"
         ],
         "tts": [
@@ -7921,9 +8127,11 @@
       },
       "🙎🏽": {
         "default": [
+          "kiž kózlika wjaza",
           "kózlika wjazać",
           "plunč pójšeć",
           "srěnja barba kože",
+          "wosoba",
           "wosoba, kiž kózlika wjaza"
         ],
         "tts": [
@@ -7932,9 +8140,11 @@
       },
       "🙎🏾": {
         "default": [
+          "kiž kózlika wjaza",
           "kózlika wjazać",
           "plunč pójšeć",
           "srěnjoćmowa barba kože",
+          "wosoba",
           "wosoba, kiž kózlika wjaza"
         ],
         "tts": [
@@ -7944,8 +8154,10 @@
       "🙎🏿": {
         "default": [
           "ćmowa barba kože",
+          "kiž kózlika wjaza",
           "kózlika wjazać",
           "plunč pójšeć",
+          "wosoba",
           "wosoba, kiž kózlika wjaza"
         ],
         "tts": [
@@ -7954,6 +8166,7 @@
       },
       "🙎🏻‍♂": {
         "default": [
+          "kiž kózlika wjaza",
           "kózlika wjazać",
           "muž",
           "muž, kiž kózlika wjaza",
@@ -7967,6 +8180,7 @@
       },
       "🙎🏼‍♂": {
         "default": [
+          "kiž kózlika wjaza",
           "kózlika wjazać",
           "muž",
           "muž, kiž kózlika wjaza",
@@ -7980,6 +8194,7 @@
       },
       "🙎🏽‍♂": {
         "default": [
+          "kiž kózlika wjaza",
           "kózlika wjazać",
           "muž",
           "muž, kiž kózlika wjaza",
@@ -7993,6 +8208,7 @@
       },
       "🙎🏾‍♂": {
         "default": [
+          "kiž kózlika wjaza",
           "kózlika wjazać",
           "muž",
           "muž, kiž kózlika wjaza",
@@ -8007,6 +8223,7 @@
       "🙎🏿‍♂": {
         "default": [
           "ćmowa barba kože",
+          "kiž kózlika wjaza",
           "kózlika wjazać",
           "muž",
           "muž, kiž kózlika wjaza",
@@ -8019,6 +8236,7 @@
       },
       "🙎🏻‍♀": {
         "default": [
+          "kiž kózlika wjaza",
           "kózlika wjazać",
           "plunč pójšeć",
           "swětła barba kože",
@@ -8032,6 +8250,7 @@
       },
       "🙎🏼‍♀": {
         "default": [
+          "kiž kózlika wjaza",
           "kózlika wjazać",
           "plunč pójšeć",
           "srěnjoswětła barba kože",
@@ -8045,6 +8264,7 @@
       },
       "🙎🏽‍♀": {
         "default": [
+          "kiž kózlika wjaza",
           "kózlika wjazać",
           "plunč pójšeć",
           "srěnja barba kože",
@@ -8058,6 +8278,7 @@
       },
       "🙎🏾‍♀": {
         "default": [
+          "kiž kózlika wjaza",
           "kózlika wjazać",
           "plunč pójšeć",
           "srěnjoćmowa barba kože",
@@ -8072,6 +8293,7 @@
       "🙎🏿‍♀": {
         "default": [
           "ćmowa barba kože",
+          "kiž kózlika wjaza",
           "kózlika wjazać",
           "plunč pójšeć",
           "wobličo",
@@ -9070,12 +9292,14 @@
       "🙇🏻": {
         "default": [
           "gesta",
+          "kiž so pokłoni",
           "pokornosć",
           "ponižnosć",
           "so pokłonić",
           "so schilić",
           "swětła barba kože",
           "wo wodaće prosyć",
+          "wosoba",
           "wosoba, kiž so pokłoni"
         ],
         "tts": [
@@ -9085,12 +9309,14 @@
       "🙇🏼": {
         "default": [
           "gesta",
+          "kiž so pokłoni",
           "pokornosć",
           "ponižnosć",
           "so pokłonić",
           "so schilić",
           "srěnjoswětła barba kože",
           "wo wodaće prosyć",
+          "wosoba",
           "wosoba, kiž so pokłoni"
         ],
         "tts": [
@@ -9100,12 +9326,14 @@
       "🙇🏽": {
         "default": [
           "gesta",
+          "kiž so pokłoni",
           "pokornosć",
           "ponižnosć",
           "so pokłonić",
           "so schilić",
           "srěnja barba kože",
           "wo wodaće prosyć",
+          "wosoba",
           "wosoba, kiž so pokłoni"
         ],
         "tts": [
@@ -9115,12 +9343,14 @@
       "🙇🏾": {
         "default": [
           "gesta",
+          "kiž so pokłoni",
           "pokornosć",
           "ponižnosć",
           "so pokłonić",
           "so schilić",
           "srěnjoćmowa barba kože",
           "wo wodaće prosyć",
+          "wosoba",
           "wosoba, kiž so pokłoni"
         ],
         "tts": [
@@ -9131,11 +9361,13 @@
         "default": [
           "ćmowa barba kože",
           "gesta",
+          "kiž so pokłoni",
           "pokornosć",
           "ponižnosć",
           "so pokłonić",
           "so schilić",
           "wo wodaće prosyć",
+          "wosoba",
           "wosoba, kiž so pokłoni"
         ],
         "tts": [
@@ -9145,6 +9377,7 @@
       "🙇🏻‍♂": {
         "default": [
           "gesta",
+          "kiž so pokłoni",
           "muž",
           "muž, kiž so pokłoni",
           "pokornosć",
@@ -9161,6 +9394,7 @@
       "🙇🏼‍♂": {
         "default": [
           "gesta",
+          "kiž so pokłoni",
           "muž",
           "muž, kiž so pokłoni",
           "pokornosć",
@@ -9177,6 +9411,7 @@
       "🙇🏽‍♂": {
         "default": [
           "gesta",
+          "kiž so pokłoni",
           "muž",
           "muž, kiž so pokłoni",
           "pokornosć",
@@ -9193,6 +9428,7 @@
       "🙇🏾‍♂": {
         "default": [
           "gesta",
+          "kiž so pokłoni",
           "muž",
           "muž, kiž so pokłoni",
           "pokornosć",
@@ -9210,6 +9446,7 @@
         "default": [
           "ćmowa barba kože",
           "gesta",
+          "kiž so pokłoni",
           "muž",
           "muž, kiž so pokłoni",
           "pokornosć",
@@ -9225,6 +9462,7 @@
       "🙇🏻‍♀": {
         "default": [
           "gesta",
+          "kiž so pokłoni",
           "pokornosć",
           "ponižnosć",
           "so pokłonić",
@@ -9241,6 +9479,7 @@
       "🙇🏼‍♀": {
         "default": [
           "gesta",
+          "kiž so pokłoni",
           "pokornosć",
           "ponižnosć",
           "so pokłonić",
@@ -9257,6 +9496,7 @@
       "🙇🏽‍♀": {
         "default": [
           "gesta",
+          "kiž so pokłoni",
           "pokornosć",
           "ponižnosć",
           "so pokłonić",
@@ -9273,6 +9513,7 @@
       "🙇🏾‍♀": {
         "default": [
           "gesta",
+          "kiž so pokłoni",
           "pokornosć",
           "ponižnosć",
           "so pokłonić",
@@ -9290,6 +9531,7 @@
         "default": [
           "ćmowa barba kože",
           "gesta",
+          "kiž so pokłoni",
           "pokornosć",
           "ponižnosć",
           "so pokłonić",
@@ -9304,10 +9546,12 @@
       },
       "🤦🏻": {
         "default": [
+          "kiž so za hłowu přimnje",
           "rozhorjenosć",
           "swětła barba kože",
           "to so mi wěrić njecha",
           "wobličo",
+          "wosoba",
           "wosoba, kiž so za hłowu přimnje",
           "zadwělowanosć"
         ],
@@ -9317,10 +9561,12 @@
       },
       "🤦🏼": {
         "default": [
+          "kiž so za hłowu přimnje",
           "rozhorjenosć",
           "srěnjoswětła barba kože",
           "to so mi wěrić njecha",
           "wobličo",
+          "wosoba",
           "wosoba, kiž so za hłowu přimnje",
           "zadwělowanosć"
         ],
@@ -9330,10 +9576,12 @@
       },
       "🤦🏽": {
         "default": [
+          "kiž so za hłowu přimnje",
           "rozhorjenosć",
           "srěnja barba kože",
           "to so mi wěrić njecha",
           "wobličo",
+          "wosoba",
           "wosoba, kiž so za hłowu přimnje",
           "zadwělowanosć"
         ],
@@ -9343,10 +9591,12 @@
       },
       "🤦🏾": {
         "default": [
+          "kiž so za hłowu přimnje",
           "rozhorjenosć",
           "srěnjoćmowa barba kože",
           "to so mi wěrić njecha",
           "wobličo",
+          "wosoba",
           "wosoba, kiž so za hłowu přimnje",
           "zadwělowanosć"
         ],
@@ -9357,9 +9607,11 @@
       "🤦🏿": {
         "default": [
           "ćmowa barba kože",
+          "kiž so za hłowu přimnje",
           "rozhorjenosć",
           "to so mi wěrić njecha",
           "wobličo",
+          "wosoba",
           "wosoba, kiž so za hłowu přimnje",
           "zadwělowanosć"
         ],
@@ -9369,6 +9621,8 @@
       },
       "🤦🏻‍♂": {
         "default": [
+          "kiž so za hłowu přimnje",
+          "muž",
           "muž, kiž so za hłowu přimnje",
           "rozhorjenosć",
           "swětła barba kože",
@@ -9382,6 +9636,8 @@
       },
       "🤦🏼‍♂": {
         "default": [
+          "kiž so za hłowu přimnje",
+          "muž",
           "muž, kiž so za hłowu přimnje",
           "rozhorjenosć",
           "srěnjoswětła barba kože",
@@ -9395,6 +9651,8 @@
       },
       "🤦🏽‍♂": {
         "default": [
+          "kiž so za hłowu přimnje",
+          "muž",
           "muž, kiž so za hłowu přimnje",
           "rozhorjenosć",
           "srěnja barba kože",
@@ -9408,6 +9666,8 @@
       },
       "🤦🏾‍♂": {
         "default": [
+          "kiž so za hłowu přimnje",
+          "muž",
           "muž, kiž so za hłowu přimnje",
           "rozhorjenosć",
           "srěnjoćmowa barba kože",
@@ -9422,6 +9682,8 @@
       "🤦🏿‍♂": {
         "default": [
           "ćmowa barba kože",
+          "kiž so za hłowu přimnje",
+          "muž",
           "muž, kiž so za hłowu přimnje",
           "rozhorjenosć",
           "to so mi wěrić njecha",
@@ -9434,11 +9696,13 @@
       },
       "🤦🏻‍♀": {
         "default": [
+          "kiž so za hłowu přimnje",
           "rozhorjenosć",
           "swětła barba kože",
           "to so mi wěrić njecha",
           "wobličo",
           "zadwělowanosć",
+          "žona",
           "žona, kiž so za hłowu přimnje"
         ],
         "tts": [
@@ -9447,11 +9711,13 @@
       },
       "🤦🏼‍♀": {
         "default": [
+          "kiž so za hłowu přimnje",
           "rozhorjenosć",
           "srěnjoswětła barba kože",
           "to so mi wěrić njecha",
           "wobličo",
           "zadwělowanosć",
+          "žona",
           "žona, kiž so za hłowu přimnje"
         ],
         "tts": [
@@ -9460,11 +9726,13 @@
       },
       "🤦🏽‍♀": {
         "default": [
+          "kiž so za hłowu přimnje",
           "rozhorjenosć",
           "srěnja barba kože",
           "to so mi wěrić njecha",
           "wobličo",
           "zadwělowanosć",
+          "žona",
           "žona, kiž so za hłowu přimnje"
         ],
         "tts": [
@@ -9473,11 +9741,13 @@
       },
       "🤦🏾‍♀": {
         "default": [
+          "kiž so za hłowu přimnje",
           "rozhorjenosć",
           "srěnjoćmowa barba kože",
           "to so mi wěrić njecha",
           "wobličo",
           "zadwělowanosć",
+          "žona",
           "žona, kiž so za hłowu přimnje"
         ],
         "tts": [
@@ -9487,10 +9757,12 @@
       "🤦🏿‍♀": {
         "default": [
           "ćmowa barba kože",
+          "kiž so za hłowu přimnje",
           "rozhorjenosć",
           "to so mi wěrić njecha",
           "wobličo",
           "zadwělowanosć",
+          "žona",
           "žona, kiž so za hłowu přimnje"
         ],
         "tts": [
@@ -9500,8 +9772,10 @@
       "🤷🏻": {
         "default": [
           "dwěle",
+          "kiž z ramjenjomaj suknje",
           "smorže",
           "swětła barba kože",
+          "wosoba",
           "wosoba, kiž z ramjenjomaj suknje",
           "wšojedne",
           "žane zdaće"
@@ -9513,8 +9787,10 @@
       "🤷🏼": {
         "default": [
           "dwěle",
+          "kiž z ramjenjomaj suknje",
           "smorže",
           "srěnjoswětła barba kože",
+          "wosoba",
           "wosoba, kiž z ramjenjomaj suknje",
           "wšojedne",
           "žane zdaće"
@@ -9526,8 +9802,10 @@
       "🤷🏽": {
         "default": [
           "dwěle",
+          "kiž z ramjenjomaj suknje",
           "smorže",
           "srěnja barba kože",
+          "wosoba",
           "wosoba, kiž z ramjenjomaj suknje",
           "wšojedne",
           "žane zdaće"
@@ -9539,8 +9817,10 @@
       "🤷🏾": {
         "default": [
           "dwěle",
+          "kiž z ramjenjomaj suknje",
           "smorže",
           "srěnjoćmowa barba kože",
+          "wosoba",
           "wosoba, kiž z ramjenjomaj suknje",
           "wšojedne",
           "žane zdaće"
@@ -9553,7 +9833,9 @@
         "default": [
           "ćmowa barba kože",
           "dwěle",
+          "kiž z ramjenjomaj suknje",
           "smorže",
+          "wosoba",
           "wosoba, kiž z ramjenjomaj suknje",
           "wšojedne",
           "žane zdaće"
@@ -9565,6 +9847,8 @@
       "🤷🏻‍♂": {
         "default": [
           "dwěle",
+          "kiž z ramjenjomaj suknje",
+          "muž",
           "muž, kiž z ramjenjomaj suknje",
           "smorže",
           "swětła barba kože",
@@ -9578,6 +9862,8 @@
       "🤷🏼‍♂": {
         "default": [
           "dwěle",
+          "kiž z ramjenjomaj suknje",
+          "muž",
           "muž, kiž z ramjenjomaj suknje",
           "smorže",
           "srěnjoswětła barba kože",
@@ -9591,6 +9877,8 @@
       "🤷🏽‍♂": {
         "default": [
           "dwěle",
+          "kiž z ramjenjomaj suknje",
+          "muž",
           "muž, kiž z ramjenjomaj suknje",
           "smorže",
           "srěnja barba kože",
@@ -9604,6 +9892,8 @@
       "🤷🏾‍♂": {
         "default": [
           "dwěle",
+          "kiž z ramjenjomaj suknje",
+          "muž",
           "muž, kiž z ramjenjomaj suknje",
           "smorže",
           "srěnjoćmowa barba kože",
@@ -9618,6 +9908,8 @@
         "default": [
           "ćmowa barba kože",
           "dwěle",
+          "kiž z ramjenjomaj suknje",
+          "muž",
           "muž, kiž z ramjenjomaj suknje",
           "smorže",
           "wšojedne",
@@ -9630,10 +9922,12 @@
       "🤷🏻‍♀": {
         "default": [
           "dwěle",
+          "kiž z ramjenjomaj suknje",
           "smorže",
           "swětła barba kože",
           "wšojedne",
           "žane zdaće",
+          "žona",
           "žona, kiž z ramjenjomaj suknje"
         ],
         "tts": [
@@ -9643,10 +9937,12 @@
       "🤷🏼‍♀": {
         "default": [
           "dwěle",
+          "kiž z ramjenjomaj suknje",
           "smorže",
           "srěnjoswětła barba kože",
           "wšojedne",
           "žane zdaće",
+          "žona",
           "žona, kiž z ramjenjomaj suknje"
         ],
         "tts": [
@@ -9656,10 +9952,12 @@
       "🤷🏽‍♀": {
         "default": [
           "dwěle",
+          "kiž z ramjenjomaj suknje",
           "smorže",
           "srěnja barba kože",
           "wšojedne",
           "žane zdaće",
+          "žona",
           "žona, kiž z ramjenjomaj suknje"
         ],
         "tts": [
@@ -9669,10 +9967,12 @@
       "🤷🏾‍♀": {
         "default": [
           "dwěle",
+          "kiž z ramjenjomaj suknje",
           "smorže",
           "srěnjoćmowa barba kože",
           "wšojedne",
           "žane zdaće",
+          "žona",
           "žona, kiž z ramjenjomaj suknje"
         ],
         "tts": [
@@ -9683,9 +9983,11 @@
         "default": [
           "ćmowa barba kože",
           "dwěle",
+          "kiž z ramjenjomaj suknje",
           "smorže",
           "wšojedne",
           "žane zdaće",
+          "žona",
           "žona, kiž z ramjenjomaj suknje"
         ],
         "tts": [
@@ -14688,6 +14990,7 @@
           "ćěšenk",
           "ćěšić",
           "k jědźi dawać",
+          "kiž dawa ćěšenkej mloko",
           "swětła barba kože",
           "žona",
           "žona, kiž dawa ćěšenkej mloko"
@@ -14702,6 +15005,7 @@
           "ćěšenk",
           "ćěšić",
           "k jědźi dawać",
+          "kiž dawa ćěšenkej mloko",
           "srěnjoswětła barba kože",
           "žona",
           "žona, kiž dawa ćěšenkej mloko"
@@ -14716,6 +15020,7 @@
           "ćěšenk",
           "ćěšić",
           "k jědźi dawać",
+          "kiž dawa ćěšenkej mloko",
           "srěnja barba kože",
           "žona",
           "žona, kiž dawa ćěšenkej mloko"
@@ -14730,6 +15035,7 @@
           "ćěšenk",
           "ćěšić",
           "k jědźi dawać",
+          "kiž dawa ćěšenkej mloko",
           "srěnjoćmowa barba kože",
           "žona",
           "žona, kiž dawa ćěšenkej mloko"
@@ -14745,6 +15051,7 @@
           "ćěšić",
           "ćmowa barba kože",
           "k jědźi dawać",
+          "kiž dawa ćěšenkej mloko",
           "žona",
           "žona, kiž dawa ćěšenkej mloko"
         ],
@@ -14757,6 +15064,7 @@
           "baby",
           "ćěšenk",
           "k jědźi dawać",
+          "kiž dawa ćěšenkej mloko",
           "muž",
           "muž, kiž dawa ćěšenkej mloko",
           "swětła barba kože"
@@ -14770,6 +15078,7 @@
           "baby",
           "ćěšenk",
           "k jědźi dawać",
+          "kiž dawa ćěšenkej mloko",
           "muž",
           "muž, kiž dawa ćěšenkej mloko",
           "srěnjoswětła barba kože"
@@ -14783,6 +15092,7 @@
           "baby",
           "ćěšenk",
           "k jědźi dawać",
+          "kiž dawa ćěšenkej mloko",
           "muž",
           "muž, kiž dawa ćěšenkej mloko",
           "srěnja barba kože"
@@ -14796,6 +15106,7 @@
           "baby",
           "ćěšenk",
           "k jědźi dawać",
+          "kiž dawa ćěšenkej mloko",
           "muž",
           "muž, kiž dawa ćěšenkej mloko",
           "srěnjoćmowa barba kože"
@@ -14810,6 +15121,7 @@
           "ćěšenk",
           "ćmowa barba kože",
           "k jědźi dawać",
+          "kiž dawa ćěšenkej mloko",
           "muž",
           "muž, kiž dawa ćěšenkej mloko"
         ],
@@ -14822,6 +15134,7 @@
           "baby",
           "ćěšenk",
           "k jědźi dawać",
+          "kiž dawa ćěšenkej mloko",
           "swětła barba kože",
           "wosoba",
           "wosoba, kiž dawa ćěšenkej mloko"
@@ -14835,6 +15148,7 @@
           "baby",
           "ćěšenk",
           "k jědźi dawać",
+          "kiž dawa ćěšenkej mloko",
           "srěnjoswětła barba kože",
           "wosoba",
           "wosoba, kiž dawa ćěšenkej mloko"
@@ -14848,6 +15162,7 @@
           "baby",
           "ćěšenk",
           "k jědźi dawać",
+          "kiž dawa ćěšenkej mloko",
           "srěnja barba kože",
           "wosoba",
           "wosoba, kiž dawa ćěšenkej mloko"
@@ -14861,6 +15176,7 @@
           "baby",
           "ćěšenk",
           "k jědźi dawać",
+          "kiž dawa ćěšenkej mloko",
           "srěnjoćmowa barba kože",
           "wosoba",
           "wosoba, kiž dawa ćěšenkej mloko"
@@ -14875,6 +15191,7 @@
           "ćěšenk",
           "ćmowa barba kože",
           "k jědźi dawać",
+          "kiž dawa ćěšenkej mloko",
           "wosoba",
           "wosoba, kiž dawa ćěšenkej mloko"
         ],
@@ -16500,10 +16817,12 @@
       "💆🏻": {
         "default": [
           "hłowa",
+          "kiž dóstanje masažu hłowy",
           "masaža",
           "salon",
           "swětła barba kože",
           "wobličo",
+          "wosoba",
           "wosoba, kiž dóstanje masažu hłowy"
         ],
         "tts": [
@@ -16513,10 +16832,12 @@
       "💆🏼": {
         "default": [
           "hłowa",
+          "kiž dóstanje masažu hłowy",
           "masaža",
           "salon",
           "srěnjoswětła barba kože",
           "wobličo",
+          "wosoba",
           "wosoba, kiž dóstanje masažu hłowy"
         ],
         "tts": [
@@ -16526,10 +16847,12 @@
       "💆🏽": {
         "default": [
           "hłowa",
+          "kiž dóstanje masažu hłowy",
           "masaža",
           "salon",
           "srěnja barba kože",
           "wobličo",
+          "wosoba",
           "wosoba, kiž dóstanje masažu hłowy"
         ],
         "tts": [
@@ -16539,10 +16862,12 @@
       "💆🏾": {
         "default": [
           "hłowa",
+          "kiž dóstanje masažu hłowy",
           "masaža",
           "salon",
           "srěnjoćmowa barba kože",
           "wobličo",
+          "wosoba",
           "wosoba, kiž dóstanje masažu hłowy"
         ],
         "tts": [
@@ -16553,9 +16878,11 @@
         "default": [
           "ćmowa barba kože",
           "hłowa",
+          "kiž dóstanje masažu hłowy",
           "masaža",
           "salon",
           "wobličo",
+          "wosoba",
           "wosoba, kiž dóstanje masažu hłowy"
         ],
         "tts": [
@@ -16565,7 +16892,9 @@
       "💆🏻‍♂": {
         "default": [
           "hłowa",
+          "kiž dóstanje masažu hłowy",
           "masaža",
+          "muž",
           "muž, kiž dóstanje masažu hłowy",
           "salon",
           "swětła barba kože",
@@ -16578,7 +16907,9 @@
       "💆🏼‍♂": {
         "default": [
           "hłowa",
+          "kiž dóstanje masažu hłowy",
           "masaža",
+          "muž",
           "muž, kiž dóstanje masažu hłowy",
           "salon",
           "srěnjoswětła barba kože",
@@ -16591,7 +16922,9 @@
       "💆🏽‍♂": {
         "default": [
           "hłowa",
+          "kiž dóstanje masažu hłowy",
           "masaža",
+          "muž",
           "muž, kiž dóstanje masažu hłowy",
           "salon",
           "srěnja barba kože",
@@ -16604,7 +16937,9 @@
       "💆🏾‍♂": {
         "default": [
           "hłowa",
+          "kiž dóstanje masažu hłowy",
           "masaža",
+          "muž",
           "muž, kiž dóstanje masažu hłowy",
           "salon",
           "srěnjoćmowa barba kože",
@@ -16618,7 +16953,9 @@
         "default": [
           "ćmowa barba kože",
           "hłowa",
+          "kiž dóstanje masažu hłowy",
           "masaža",
+          "muž",
           "muž, kiž dóstanje masažu hłowy",
           "salon",
           "wobličo"
@@ -16630,10 +16967,12 @@
       "💆🏻‍♀": {
         "default": [
           "hłowa",
+          "kiž dóstanje masažu hłowy",
           "masaža",
           "salon",
           "swětła barba kože",
           "wobličo",
+          "žona",
           "žona, kiž dóstanje masažu hłowy"
         ],
         "tts": [
@@ -16643,10 +16982,12 @@
       "💆🏼‍♀": {
         "default": [
           "hłowa",
+          "kiž dóstanje masažu hłowy",
           "masaža",
           "salon",
           "srěnjoswětła barba kože",
           "wobličo",
+          "žona",
           "žona, kiž dóstanje masažu hłowy"
         ],
         "tts": [
@@ -16656,10 +16997,12 @@
       "💆🏽‍♀": {
         "default": [
           "hłowa",
+          "kiž dóstanje masažu hłowy",
           "masaža",
           "salon",
           "srěnja barba kože",
           "wobličo",
+          "žona",
           "žona, kiž dóstanje masažu hłowy"
         ],
         "tts": [
@@ -16669,10 +17012,12 @@
       "💆🏾‍♀": {
         "default": [
           "hłowa",
+          "kiž dóstanje masažu hłowy",
           "masaža",
           "salon",
           "srěnjoćmowa barba kože",
           "wobličo",
+          "žona",
           "žona, kiž dóstanje masažu hłowy"
         ],
         "tts": [
@@ -16683,9 +17028,11 @@
         "default": [
           "ćmowa barba kože",
           "hłowa",
+          "kiž dóstanje masažu hłowy",
           "masaža",
           "salon",
           "wobličo",
+          "žona",
           "žona, kiž dóstanje masažu hłowy"
         ],
         "tts": [
@@ -16697,8 +17044,10 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kiž da sej włosy třihać",
           "swětła barba kože",
           "třihanje włosow",
+          "wosoba",
           "wosoba, kiž da sej włosy třihać"
         ],
         "tts": [
@@ -16710,8 +17059,10 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kiž da sej włosy třihać",
           "srěnjoswětła barba kože",
           "třihanje włosow",
+          "wosoba",
           "wosoba, kiž da sej włosy třihać"
         ],
         "tts": [
@@ -16723,8 +17074,10 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kiž da sej włosy třihać",
           "srěnja barba kože",
           "třihanje włosow",
+          "wosoba",
           "wosoba, kiž da sej włosy třihać"
         ],
         "tts": [
@@ -16736,8 +17089,10 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kiž da sej włosy třihać",
           "srěnjoćmowa barba kože",
           "třihanje włosow",
+          "wosoba",
           "wosoba, kiž da sej włosy třihać"
         ],
         "tts": [
@@ -16750,7 +17105,9 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kiž da sej włosy třihać",
           "třihanje włosow",
+          "wosoba",
           "wosoba, kiž da sej włosy třihać"
         ],
         "tts": [
@@ -16762,6 +17119,7 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kiž da sej włosy třihać",
           "muž",
           "muž, kiž da sej włosy třihać",
           "nožicy",
@@ -16777,6 +17135,7 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kiž da sej włosy třihać",
           "muž",
           "muž, kiž da sej włosy třihać",
           "nožicy",
@@ -16792,6 +17151,7 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kiž da sej włosy třihać",
           "muž",
           "muž, kiž da sej włosy třihać",
           "nožicy",
@@ -16807,6 +17167,7 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kiž da sej włosy třihać",
           "muž",
           "muž, kiž da sej włosy třihać",
           "nožicy",
@@ -16823,6 +17184,7 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kiž da sej włosy třihać",
           "muž",
           "muž, kiž da sej włosy třihać",
           "nožicy",
@@ -16837,6 +17199,7 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kiž da sej włosy třihać",
           "nožicy",
           "swětła barba kože",
           "třihanje włosow",
@@ -16852,6 +17215,7 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kiž da sej włosy třihać",
           "nožicy",
           "srěnjoswětła barba kože",
           "třihanje włosow",
@@ -16867,6 +17231,7 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kiž da sej włosy třihać",
           "nožicy",
           "srěnja barba kože",
           "třihanje włosow",
@@ -16882,6 +17247,7 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kiž da sej włosy třihać",
           "nožicy",
           "srěnjoćmowa barba kože",
           "třihanje włosow",
@@ -16898,6 +17264,7 @@
           "frizer",
           "frizerka",
           "frizura",
+          "kiž da sej włosy třihać",
           "nožicy",
           "třihanje włosow",
           "žona",
@@ -16911,11 +17278,13 @@
         "default": [
           "běhać",
           "ducy",
+          "kiž je pěši po puću",
           "pěši hić",
           "pěšk",
           "pěška",
           "pućować",
           "swětła barba kože",
+          "wosoba",
           "wosoba, kiž je pěši po puću"
         ],
         "tts": [
@@ -16926,11 +17295,13 @@
         "default": [
           "běhać",
           "ducy",
+          "kiž je pěši po puću",
           "pěši hić",
           "pěšk",
           "pěška",
           "pućować",
           "srěnjoswětła barba kože",
+          "wosoba",
           "wosoba, kiž je pěši po puću"
         ],
         "tts": [
@@ -16941,11 +17312,13 @@
         "default": [
           "běhać",
           "ducy",
+          "kiž je pěši po puću",
           "pěši hić",
           "pěšk",
           "pěška",
           "pućować",
           "srěnja barba kože",
+          "wosoba",
           "wosoba, kiž je pěši po puću"
         ],
         "tts": [
@@ -16956,11 +17329,13 @@
         "default": [
           "běhać",
           "ducy",
+          "kiž je pěši po puću",
           "pěši hić",
           "pěšk",
           "pěška",
           "pućować",
           "srěnjoćmowa barba kože",
+          "wosoba",
           "wosoba, kiž je pěši po puću"
         ],
         "tts": [
@@ -16972,10 +17347,12 @@
           "běhać",
           "ćmowa barba kože",
           "ducy",
+          "kiž je pěši po puću",
           "pěši hić",
           "pěšk",
           "pěška",
           "pućować",
+          "wosoba",
           "wosoba, kiž je pěši po puću"
         ],
         "tts": [
@@ -17130,6 +17507,303 @@
         ],
         "tts": [
           "pěška: ćmowa barba kože"
+        ]
+      },
+      "🚶‍➡": {
+        "default": [
+          "běhać",
+          "doprawa",
+          "ducy",
+          "kiž je pěši po puću",
+          "pěši hić",
+          "pěšk",
+          "pěška",
+          "pućować",
+          "wosoba",
+          "wosoba, kiž je pěši po puću"
+        ],
+        "tts": [
+          "wosoba, kiž je pěši po puću: doprawa"
+        ]
+      },
+      "🚶🏻‍➡": {
+        "default": [
+          "běhać",
+          "doprawa",
+          "ducy",
+          "kiž je pěši po puću",
+          "pěši hić",
+          "pěšk",
+          "pěška",
+          "pućować",
+          "swětła barba kože",
+          "wosoba",
+          "wosoba, kiž je pěši po puću"
+        ],
+        "tts": [
+          "wosoba, kiž je pěši po puću: swětła barba kože, doprawa"
+        ]
+      },
+      "🚶🏼‍➡": {
+        "default": [
+          "běhać",
+          "doprawa",
+          "ducy",
+          "kiž je pěši po puću",
+          "pěši hić",
+          "pěšk",
+          "pěška",
+          "pućować",
+          "srěnjoswětła barba kože",
+          "wosoba",
+          "wosoba, kiž je pěši po puću"
+        ],
+        "tts": [
+          "wosoba, kiž je pěši po puću: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "🚶🏽‍➡": {
+        "default": [
+          "běhać",
+          "doprawa",
+          "ducy",
+          "kiž je pěši po puću",
+          "pěši hić",
+          "pěšk",
+          "pěška",
+          "pućować",
+          "srěnja barba kože",
+          "wosoba",
+          "wosoba, kiž je pěši po puću"
+        ],
+        "tts": [
+          "wosoba, kiž je pěši po puću: srěnja barba kože, doprawa"
+        ]
+      },
+      "🚶🏾‍➡": {
+        "default": [
+          "běhać",
+          "doprawa",
+          "ducy",
+          "kiž je pěši po puću",
+          "pěši hić",
+          "pěšk",
+          "pěška",
+          "pućować",
+          "srěnjoćmowa barba kože",
+          "wosoba",
+          "wosoba, kiž je pěši po puću"
+        ],
+        "tts": [
+          "wosoba, kiž je pěši po puću: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "🚶🏿‍➡": {
+        "default": [
+          "běhać",
+          "ćmowa barba kože",
+          "doprawa",
+          "ducy",
+          "kiž je pěši po puću",
+          "pěši hić",
+          "pěšk",
+          "pěška",
+          "pućować",
+          "wosoba",
+          "wosoba, kiž je pěši po puću"
+        ],
+        "tts": [
+          "wosoba, kiž je pěši po puću: ćmowa barba kože, doprawa"
+        ]
+      },
+      "🚶‍♀‍➡": {
+        "default": [
+          "běhać",
+          "doprawa",
+          "ducy",
+          "hić",
+          "pěši hić",
+          "pěška",
+          "pućować",
+          "so wuchodźować"
+        ],
+        "tts": [
+          "pěška: doprawa"
+        ]
+      },
+      "🚶🏻‍♀‍➡": {
+        "default": [
+          "běhać",
+          "doprawa",
+          "ducy",
+          "hić",
+          "pěši hić",
+          "pěška",
+          "pućować",
+          "so wuchodźować",
+          "swětła barba kože"
+        ],
+        "tts": [
+          "pěška: swětła barba kože, doprawa"
+        ]
+      },
+      "🚶🏼‍♀‍➡": {
+        "default": [
+          "běhać",
+          "doprawa",
+          "ducy",
+          "hić",
+          "pěši hić",
+          "pěška",
+          "pućować",
+          "so wuchodźować",
+          "srěnjoswětła barba kože"
+        ],
+        "tts": [
+          "pěška: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "🚶🏽‍♀‍➡": {
+        "default": [
+          "běhać",
+          "doprawa",
+          "ducy",
+          "hić",
+          "pěši hić",
+          "pěška",
+          "pućować",
+          "so wuchodźować",
+          "srěnja barba kože"
+        ],
+        "tts": [
+          "pěška: srěnja barba kože, doprawa"
+        ]
+      },
+      "🚶🏾‍♀‍➡": {
+        "default": [
+          "běhać",
+          "doprawa",
+          "ducy",
+          "hić",
+          "pěši hić",
+          "pěška",
+          "pućować",
+          "so wuchodźować",
+          "srěnjoćmowa barba kože"
+        ],
+        "tts": [
+          "pěška: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "🚶🏿‍♀‍➡": {
+        "default": [
+          "běhać",
+          "ćmowa barba kože",
+          "doprawa",
+          "ducy",
+          "hić",
+          "pěši hić",
+          "pěška",
+          "pućować",
+          "so wuchodźować"
+        ],
+        "tts": [
+          "pěška: ćmowa barba kože, doprawa"
+        ]
+      },
+      "🚶‍♂‍➡": {
+        "default": [
+          "běhać",
+          "doprawa",
+          "ducy",
+          "hić",
+          "pěši hić",
+          "pěšk",
+          "pućować",
+          "so wuchodźować"
+        ],
+        "tts": [
+          "pěšk: doprawa"
+        ]
+      },
+      "🚶🏻‍♂‍➡": {
+        "default": [
+          "běhać",
+          "doprawa",
+          "ducy",
+          "hić",
+          "pěši hić",
+          "pěšk",
+          "pućować",
+          "so wuchodźować",
+          "swětła barba kože"
+        ],
+        "tts": [
+          "pěšk: swětła barba kože, doprawa"
+        ]
+      },
+      "🚶🏼‍♂‍➡": {
+        "default": [
+          "běhać",
+          "doprawa",
+          "ducy",
+          "hić",
+          "pěši hić",
+          "pěšk",
+          "pućować",
+          "so wuchodźować",
+          "srěnjoswětła barba kože"
+        ],
+        "tts": [
+          "pěšk: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "🚶🏽‍♂‍➡": {
+        "default": [
+          "běhać",
+          "doprawa",
+          "ducy",
+          "hić",
+          "pěši hić",
+          "pěšk",
+          "pućować",
+          "so wuchodźować",
+          "srěnja barba kože"
+        ],
+        "tts": [
+          "pěšk: srěnja barba kože, doprawa"
+        ]
+      },
+      "🚶🏾‍♂‍➡": {
+        "default": [
+          "běhać",
+          "doprawa",
+          "ducy",
+          "hić",
+          "pěši hić",
+          "pěšk",
+          "pućować",
+          "so wuchodźować",
+          "srěnjoćmowa barba kože"
+        ],
+        "tts": [
+          "pěšk: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "🚶🏿‍♂‍➡": {
+        "default": [
+          "běhać",
+          "ćmowa barba kože",
+          "doprawa",
+          "ducy",
+          "hić",
+          "pěši hić",
+          "pěšk",
+          "pućować",
+          "so wuchodźować"
+        ],
+        "tts": [
+          "pěšk: ćmowa barba kože, doprawa"
         ]
       },
       "🧍🏻": {
@@ -17472,6 +18146,231 @@
           "klečaca žona: ćmowa barba kože"
         ]
       },
+      "🧎‍➡": {
+        "default": [
+          "doprawa",
+          "klečaca wosoba",
+          "klečeć",
+          "so poklaknyć"
+        ],
+        "tts": [
+          "klečaca wosoba: doprawa"
+        ]
+      },
+      "🧎🏻‍➡": {
+        "default": [
+          "doprawa",
+          "klečaca wosoba",
+          "klečeć",
+          "so poklaknyć",
+          "swětła barba kože"
+        ],
+        "tts": [
+          "klečaca wosoba: swětła barba kože, doprawa"
+        ]
+      },
+      "🧎🏼‍➡": {
+        "default": [
+          "doprawa",
+          "klečaca wosoba",
+          "klečeć",
+          "so poklaknyć",
+          "srěnjoswětła barba kože"
+        ],
+        "tts": [
+          "klečaca wosoba: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "🧎🏽‍➡": {
+        "default": [
+          "doprawa",
+          "klečaca wosoba",
+          "klečeć",
+          "so poklaknyć",
+          "srěnja barba kože"
+        ],
+        "tts": [
+          "klečaca wosoba: srěnja barba kože, doprawa"
+        ]
+      },
+      "🧎🏾‍➡": {
+        "default": [
+          "doprawa",
+          "klečaca wosoba",
+          "klečeć",
+          "so poklaknyć",
+          "srěnjoćmowa barba kože"
+        ],
+        "tts": [
+          "klečaca wosoba: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "🧎🏿‍➡": {
+        "default": [
+          "ćmowa barba kože",
+          "doprawa",
+          "klečaca wosoba",
+          "klečeć",
+          "so poklaknyć"
+        ],
+        "tts": [
+          "klečaca wosoba: ćmowa barba kože, doprawa"
+        ]
+      },
+      "🧎‍♀‍➡": {
+        "default": [
+          "doprawa",
+          "klečaca žona",
+          "klečeć",
+          "so poklaknyć",
+          "žona"
+        ],
+        "tts": [
+          "klečaca žona: doprawa"
+        ]
+      },
+      "🧎🏻‍♀‍➡": {
+        "default": [
+          "doprawa",
+          "klečaca žona",
+          "klečeć",
+          "so poklaknyć",
+          "swětła barba kože",
+          "žona"
+        ],
+        "tts": [
+          "klečaca žona: swětła barba kože, doprawa"
+        ]
+      },
+      "🧎🏼‍♀‍➡": {
+        "default": [
+          "doprawa",
+          "klečaca žona",
+          "klečeć",
+          "so poklaknyć",
+          "srěnjoswětła barba kože",
+          "žona"
+        ],
+        "tts": [
+          "klečaca žona: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "🧎🏽‍♀‍➡": {
+        "default": [
+          "doprawa",
+          "klečaca žona",
+          "klečeć",
+          "so poklaknyć",
+          "srěnja barba kože",
+          "žona"
+        ],
+        "tts": [
+          "klečaca žona: srěnja barba kože, doprawa"
+        ]
+      },
+      "🧎🏾‍♀‍➡": {
+        "default": [
+          "doprawa",
+          "klečaca žona",
+          "klečeć",
+          "so poklaknyć",
+          "srěnjoćmowa barba kože",
+          "žona"
+        ],
+        "tts": [
+          "klečaca žona: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "🧎🏿‍♀‍➡": {
+        "default": [
+          "ćmowa barba kože",
+          "doprawa",
+          "klečaca žona",
+          "klečeć",
+          "so poklaknyć",
+          "žona"
+        ],
+        "tts": [
+          "klečaca žona: ćmowa barba kože, doprawa"
+        ]
+      },
+      "🧎‍♂‍➡": {
+        "default": [
+          "doprawa",
+          "klečacy muž",
+          "klečeć",
+          "muž",
+          "so poklaknyć"
+        ],
+        "tts": [
+          "klečacy muž: doprawa"
+        ]
+      },
+      "🧎🏻‍♂‍➡": {
+        "default": [
+          "doprawa",
+          "klečacy muž",
+          "klečeć",
+          "muž",
+          "so poklaknyć",
+          "swětła barba kože"
+        ],
+        "tts": [
+          "klečacy muž: swětła barba kože, doprawa"
+        ]
+      },
+      "🧎🏼‍♂‍➡": {
+        "default": [
+          "doprawa",
+          "klečacy muž",
+          "klečeć",
+          "muž",
+          "so poklaknyć",
+          "srěnjoswětła barba kože"
+        ],
+        "tts": [
+          "klečacy muž: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "🧎🏽‍♂‍➡": {
+        "default": [
+          "doprawa",
+          "klečacy muž",
+          "klečeć",
+          "muž",
+          "so poklaknyć",
+          "srěnja barba kože"
+        ],
+        "tts": [
+          "klečacy muž: srěnja barba kože, doprawa"
+        ]
+      },
+      "🧎🏾‍♂‍➡": {
+        "default": [
+          "doprawa",
+          "klečacy muž",
+          "klečeć",
+          "muž",
+          "so poklaknyć",
+          "srěnjoćmowa barba kože"
+        ],
+        "tts": [
+          "klečacy muž: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "🧎🏿‍♂‍➡": {
+        "default": [
+          "ćmowa barba kože",
+          "doprawa",
+          "klečacy muž",
+          "klečeć",
+          "muž",
+          "so poklaknyć"
+        ],
+        "tts": [
+          "klečacy muž: ćmowa barba kože, doprawa"
+        ]
+      },
       "🧑🏻‍🦯": {
         "default": [
           "bjezbarjernosć",
@@ -17535,6 +18434,89 @@
         ],
         "tts": [
           "wosoba z kijom za slepych: ćmowa barba kože"
+        ]
+      },
+      "🧑‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "pomocny srědk",
+          "slepy",
+          "wosoba z kijom za slepych",
+          "z kijom chodźić"
+        ],
+        "tts": [
+          "wosoba z kijom za slepych: doprawa"
+        ]
+      },
+      "🧑🏻‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "pomocny srědk",
+          "slepy",
+          "swětła barba kože",
+          "wosoba z kijom za slepych",
+          "z kijom chodźić"
+        ],
+        "tts": [
+          "wosoba z kijom za slepych: swětła barba kože, doprawa"
+        ]
+      },
+      "🧑🏼‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "pomocny srědk",
+          "slepy",
+          "srěnjoswětła barba kože",
+          "wosoba z kijom za slepych",
+          "z kijom chodźić"
+        ],
+        "tts": [
+          "wosoba z kijom za slepych: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "🧑🏽‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "pomocny srědk",
+          "slepy",
+          "srěnja barba kože",
+          "wosoba z kijom za slepych",
+          "z kijom chodźić"
+        ],
+        "tts": [
+          "wosoba z kijom za slepych: srěnja barba kože, doprawa"
+        ]
+      },
+      "🧑🏾‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "pomocny srědk",
+          "slepy",
+          "srěnjoćmowa barba kože",
+          "wosoba z kijom za slepych",
+          "z kijom chodźić"
+        ],
+        "tts": [
+          "wosoba z kijom za slepych: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "🧑🏿‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "ćmowa barba kože",
+          "doprawa",
+          "pomocny srědk",
+          "slepy",
+          "wosoba z kijom za slepych",
+          "z kijom chodźić"
+        ],
+        "tts": [
+          "wosoba z kijom za slepych: ćmowa barba kože, doprawa"
         ]
       },
       "👨🏻‍🦯": {
@@ -17602,6 +18584,89 @@
           "muž z kijom za slepych: ćmowa barba kože"
         ]
       },
+      "👨‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "muž z kijom za slepych",
+          "pomocny srědk",
+          "slepy",
+          "z kijom chodźić"
+        ],
+        "tts": [
+          "muž z kijom za slepych: doprawa"
+        ]
+      },
+      "👨🏻‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "muž z kijom za slepych",
+          "pomocny srědk",
+          "slepy",
+          "swětła barba kože",
+          "z kijom chodźić"
+        ],
+        "tts": [
+          "muž z kijom za slepych: swětła barba kože, doprawa"
+        ]
+      },
+      "👨🏼‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "muž z kijom za slepych",
+          "pomocny srědk",
+          "slepy",
+          "srěnjoswětła barba kože",
+          "z kijom chodźić"
+        ],
+        "tts": [
+          "muž z kijom za slepych: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "👨🏽‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "muž z kijom za slepych",
+          "pomocny srědk",
+          "slepy",
+          "srěnja barba kože",
+          "z kijom chodźić"
+        ],
+        "tts": [
+          "muž z kijom za slepych: srěnja barba kože, doprawa"
+        ]
+      },
+      "👨🏾‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "muž z kijom za slepych",
+          "pomocny srědk",
+          "slepy",
+          "srěnjoćmowa barba kože",
+          "z kijom chodźić"
+        ],
+        "tts": [
+          "muž z kijom za slepych: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "👨🏿‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "ćmowa barba kože",
+          "doprawa",
+          "muž z kijom za slepych",
+          "pomocny srědk",
+          "slepy",
+          "z kijom chodźić"
+        ],
+        "tts": [
+          "muž z kijom za slepych: ćmowa barba kože, doprawa"
+        ]
+      },
       "👩🏻‍🦯": {
         "default": [
           "bjezbarjernosć",
@@ -17667,6 +18732,89 @@
           "žona z kijom za slepych: ćmowa barba kože"
         ]
       },
+      "👩‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "pomocny srědk",
+          "slepa",
+          "z kijom chodźić",
+          "žona z kijom za slepych"
+        ],
+        "tts": [
+          "žona z kijom za slepych: doprawa"
+        ]
+      },
+      "👩🏻‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "pomocny srědk",
+          "slepa",
+          "swětła barba kože",
+          "z kijom chodźić",
+          "žona z kijom za slepych"
+        ],
+        "tts": [
+          "žona z kijom za slepych: swětła barba kože, doprawa"
+        ]
+      },
+      "👩🏼‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "pomocny srědk",
+          "slepa",
+          "srěnjoswětła barba kože",
+          "z kijom chodźić",
+          "žona z kijom za slepych"
+        ],
+        "tts": [
+          "žona z kijom za slepych: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "👩🏽‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "pomocny srědk",
+          "slepa",
+          "srěnja barba kože",
+          "z kijom chodźić",
+          "žona z kijom za slepych"
+        ],
+        "tts": [
+          "žona z kijom za slepych: srěnja barba kože, doprawa"
+        ]
+      },
+      "👩🏾‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "pomocny srědk",
+          "slepa",
+          "srěnjoćmowa barba kože",
+          "z kijom chodźić",
+          "žona z kijom za slepych"
+        ],
+        "tts": [
+          "žona z kijom za slepych: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "👩🏿‍🦯‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "ćmowa barba kože",
+          "doprawa",
+          "pomocny srědk",
+          "slepa",
+          "z kijom chodźić",
+          "žona z kijom za slepych"
+        ],
+        "tts": [
+          "žona z kijom za slepych: ćmowa barba kože, doprawa"
+        ]
+      },
       "🧑🏻‍🦼": {
         "default": [
           "inwalida",
@@ -17725,6 +18873,83 @@
         ],
         "tts": [
           "wosoba w elektriskim jězbnym stole: ćmowa barba kože"
+        ]
+      },
+      "🧑‍🦼‍➡": {
+        "default": [
+          "doprawa",
+          "inwalida",
+          "jězbny stoł",
+          "pomocny srědk",
+          "wosoba w elektriskim jězbnym stole"
+        ],
+        "tts": [
+          "wosoba w elektriskim jězbnym stole: doprawa"
+        ]
+      },
+      "🧑🏻‍🦼‍➡": {
+        "default": [
+          "doprawa",
+          "inwalida",
+          "jězbny stoł",
+          "pomocny srědk",
+          "swětła barba kože",
+          "wosoba w elektriskim jězbnym stole"
+        ],
+        "tts": [
+          "wosoba w elektriskim jězbnym stole: swětła barba kože, doprawa"
+        ]
+      },
+      "🧑🏼‍🦼‍➡": {
+        "default": [
+          "doprawa",
+          "inwalida",
+          "jězbny stoł",
+          "pomocny srědk",
+          "srěnjoswětła barba kože",
+          "wosoba w elektriskim jězbnym stole"
+        ],
+        "tts": [
+          "wosoba w elektriskim jězbnym stole: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "🧑🏽‍🦼‍➡": {
+        "default": [
+          "doprawa",
+          "inwalida",
+          "jězbny stoł",
+          "pomocny srědk",
+          "srěnja barba kože",
+          "wosoba w elektriskim jězbnym stole"
+        ],
+        "tts": [
+          "wosoba w elektriskim jězbnym stole: srěnja barba kože, doprawa"
+        ]
+      },
+      "🧑🏾‍🦼‍➡": {
+        "default": [
+          "doprawa",
+          "inwalida",
+          "jězbny stoł",
+          "pomocny srědk",
+          "srěnjoćmowa barba kože",
+          "wosoba w elektriskim jězbnym stole"
+        ],
+        "tts": [
+          "wosoba w elektriskim jězbnym stole: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "🧑🏿‍🦼‍➡": {
+        "default": [
+          "ćmowa barba kože",
+          "doprawa",
+          "inwalida",
+          "jězbny stoł",
+          "pomocny srědk",
+          "wosoba w elektriskim jězbnym stole"
+        ],
+        "tts": [
+          "wosoba w elektriskim jězbnym stole: ćmowa barba kože, doprawa"
         ]
       },
       "👨🏻‍🦼": {
@@ -17797,6 +19022,95 @@
           "muž w elektriskim jězbnym stole: ćmowa barba kože"
         ]
       },
+      "👨‍🦼‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "muž",
+          "muž w elektriskim jězbnym stole",
+          "pomocny srědk"
+        ],
+        "tts": [
+          "muž w elektriskim jězbnym stole: doprawa"
+        ]
+      },
+      "👨🏻‍🦼‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "muž",
+          "muž w elektriskim jězbnym stole",
+          "pomocny srědk",
+          "swětła barba kože"
+        ],
+        "tts": [
+          "muž w elektriskim jězbnym stole: swětła barba kože, doprawa"
+        ]
+      },
+      "👨🏼‍🦼‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "muž",
+          "muž w elektriskim jězbnym stole",
+          "pomocny srědk",
+          "srěnjoswětła barba kože"
+        ],
+        "tts": [
+          "muž w elektriskim jězbnym stole: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "👨🏽‍🦼‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "muž",
+          "muž w elektriskim jězbnym stole",
+          "pomocny srědk",
+          "srěnja barba kože"
+        ],
+        "tts": [
+          "muž w elektriskim jězbnym stole: srěnja barba kože, doprawa"
+        ]
+      },
+      "👨🏾‍🦼‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "muž",
+          "muž w elektriskim jězbnym stole",
+          "pomocny srědk",
+          "srěnjoćmowa barba kože"
+        ],
+        "tts": [
+          "muž w elektriskim jězbnym stole: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "👨🏿‍🦼‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "ćmowa barba kože",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "muž",
+          "muž w elektriskim jězbnym stole",
+          "pomocny srědk"
+        ],
+        "tts": [
+          "muž w elektriskim jězbnym stole: ćmowa barba kože, doprawa"
+        ]
+      },
       "👩🏻‍🦼": {
         "default": [
           "bjezbarjernosć",
@@ -17867,6 +19181,95 @@
           "žona w elektriskim jězbnym stole: ćmowa barba kože"
         ]
       },
+      "👩‍🦼‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidna",
+          "jězbny stoł",
+          "pomocny srědk",
+          "žona",
+          "žona w elektriskim jězbnym stole"
+        ],
+        "tts": [
+          "žona w elektriskim jězbnym stole: doprawa"
+        ]
+      },
+      "👩🏻‍🦼‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidna",
+          "jězbny stoł",
+          "pomocny srědk",
+          "swětła barba kože",
+          "žona",
+          "žona w elektriskim jězbnym stole"
+        ],
+        "tts": [
+          "žona w elektriskim jězbnym stole: swětła barba kože, doprawa"
+        ]
+      },
+      "👩🏼‍🦼‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidna",
+          "jězbny stoł",
+          "pomocny srědk",
+          "srěnjoswětła barba kože",
+          "žona",
+          "žona w elektriskim jězbnym stole"
+        ],
+        "tts": [
+          "žona w elektriskim jězbnym stole: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "👩🏽‍🦼‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidna",
+          "jězbny stoł",
+          "pomocny srědk",
+          "srěnja barba kože",
+          "žona",
+          "žona w elektriskim jězbnym stole"
+        ],
+        "tts": [
+          "žona w elektriskim jězbnym stole: srěnja barba kože, doprawa"
+        ]
+      },
+      "👩🏾‍🦼‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidna",
+          "jězbny stoł",
+          "pomocny srědk",
+          "srěnjoćmowa barba kože",
+          "žona",
+          "žona w elektriskim jězbnym stole"
+        ],
+        "tts": [
+          "žona w elektriskim jězbnym stole: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "👩🏿‍🦼‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "ćmowa barba kože",
+          "doprawa",
+          "inwalidna",
+          "jězbny stoł",
+          "pomocny srědk",
+          "žona",
+          "žona w elektriskim jězbnym stole"
+        ],
+        "tts": [
+          "žona w elektriskim jězbnym stole: ćmowa barba kože, doprawa"
+        ]
+      },
       "🧑🏻‍🦽": {
         "default": [
           "bjezbarjernosć",
@@ -17930,6 +19333,89 @@
         ],
         "tts": [
           "wosoba w jězbnym stole: ćmowa barba kože"
+        ]
+      },
+      "🧑‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "pomocny srědk",
+          "wosoba w jězbnym stole"
+        ],
+        "tts": [
+          "wosoba w jězbnym stole: doprawa"
+        ]
+      },
+      "🧑🏻‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "pomocny srědk",
+          "swětła barba kože",
+          "wosoba w jězbnym stole"
+        ],
+        "tts": [
+          "wosoba w jězbnym stole: swětła barba kože, doprawa"
+        ]
+      },
+      "🧑🏼‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "pomocny srědk",
+          "srěnjoswětła barba kože",
+          "wosoba w jězbnym stole"
+        ],
+        "tts": [
+          "wosoba w jězbnym stole: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "🧑🏽‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "pomocny srědk",
+          "srěnja barba kože",
+          "wosoba w jězbnym stole"
+        ],
+        "tts": [
+          "wosoba w jězbnym stole: srěnja barba kože, doprawa"
+        ]
+      },
+      "🧑🏾‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "pomocny srědk",
+          "srěnjoćmowa barba kože",
+          "wosoba w jězbnym stole"
+        ],
+        "tts": [
+          "wosoba w jězbnym stole: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "🧑🏿‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "ćmowa barba kože",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "pomocny srědk",
+          "wosoba w jězbnym stole"
+        ],
+        "tts": [
+          "wosoba w jězbnym stole: ćmowa barba kože, doprawa"
         ]
       },
       "👨🏻‍🦽": {
@@ -18002,6 +19488,95 @@
           "muž w jězbnym stole: ćmowa barba kože"
         ]
       },
+      "👨‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "muž",
+          "muž w jězbnym stole",
+          "pomocny srědk"
+        ],
+        "tts": [
+          "muž w jězbnym stole: doprawa"
+        ]
+      },
+      "👨🏻‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "muž",
+          "muž w jězbnym stole",
+          "pomocny srědk",
+          "swětła barba kože"
+        ],
+        "tts": [
+          "muž w jězbnym stole: swětła barba kože, doprawa"
+        ]
+      },
+      "👨🏼‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "muž",
+          "muž w jězbnym stole",
+          "pomocny srědk",
+          "srěnjoswětła barba kože"
+        ],
+        "tts": [
+          "muž w jězbnym stole: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "👨🏽‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "muž",
+          "muž w jězbnym stole",
+          "pomocny srědk",
+          "srěnja barba kože"
+        ],
+        "tts": [
+          "muž w jězbnym stole: srěnja barba kože, doprawa"
+        ]
+      },
+      "👨🏾‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "muž",
+          "muž w jězbnym stole",
+          "pomocny srědk",
+          "srěnjoćmowa barba kože"
+        ],
+        "tts": [
+          "muž w jězbnym stole: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "👨🏿‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "ćmowa barba kože",
+          "doprawa",
+          "inwalidny",
+          "jězbny stoł",
+          "muž",
+          "muž w jězbnym stole",
+          "pomocny srědk"
+        ],
+        "tts": [
+          "muž w jězbnym stole: ćmowa barba kože, doprawa"
+        ]
+      },
       "👩🏻‍🦽": {
         "default": [
           "bjezbarjernosć",
@@ -18070,6 +19645,95 @@
         ],
         "tts": [
           "žona w jězbnym stole: ćmowa barba kože"
+        ]
+      },
+      "👩‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidna",
+          "jězbny stoł",
+          "pomocny srědk",
+          "žona",
+          "žona w jězbnym stole"
+        ],
+        "tts": [
+          "žona w jězbnym stole: doprawa"
+        ]
+      },
+      "👩🏻‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidna",
+          "jězbny stoł",
+          "pomocny srědk",
+          "swětła barba kože",
+          "žona",
+          "žona w jězbnym stole"
+        ],
+        "tts": [
+          "žona w jězbnym stole: swětła barba kože, doprawa"
+        ]
+      },
+      "👩🏼‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidna",
+          "jězbny stoł",
+          "pomocny srědk",
+          "srěnjoswětła barba kože",
+          "žona",
+          "žona w jězbnym stole"
+        ],
+        "tts": [
+          "žona w jězbnym stole: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "👩🏽‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidna",
+          "jězbny stoł",
+          "pomocny srědk",
+          "srěnja barba kože",
+          "žona",
+          "žona w jězbnym stole"
+        ],
+        "tts": [
+          "žona w jězbnym stole: srěnja barba kože, doprawa"
+        ]
+      },
+      "👩🏾‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "doprawa",
+          "inwalidna",
+          "jězbny stoł",
+          "pomocny srědk",
+          "srěnjoćmowa barba kože",
+          "žona",
+          "žona w jězbnym stole"
+        ],
+        "tts": [
+          "žona w jězbnym stole: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "👩🏿‍🦽‍➡": {
+        "default": [
+          "bjezbarjernosć",
+          "ćmowa barba kože",
+          "doprawa",
+          "inwalidna",
+          "jězbny stoł",
+          "pomocny srědk",
+          "žona",
+          "žona w jězbnym stole"
+        ],
+        "tts": [
+          "žona w jězbnym stole: ćmowa barba kože, doprawa"
         ]
       },
       "🏃🏻": {
@@ -18297,6 +19961,291 @@
           "běhaca žona: ćmowa barba kože"
         ]
       },
+      "🏃‍➡": {
+        "default": [
+          "běhać",
+          "běhaca wosoba",
+          "běhar",
+          "běharka",
+          "běžeć",
+          "doprawa",
+          "maraton",
+          "sport"
+        ],
+        "tts": [
+          "běhaca wosoba: doprawa"
+        ]
+      },
+      "🏃🏻‍➡": {
+        "default": [
+          "běhać",
+          "běhaca wosoba",
+          "běhar",
+          "běharka",
+          "běžeć",
+          "doprawa",
+          "maraton",
+          "sport",
+          "swětła barba kože"
+        ],
+        "tts": [
+          "běhaca wosoba: swětła barba kože, doprawa"
+        ]
+      },
+      "🏃🏼‍➡": {
+        "default": [
+          "běhać",
+          "běhaca wosoba",
+          "běhar",
+          "běharka",
+          "běžeć",
+          "doprawa",
+          "maraton",
+          "sport",
+          "srěnjoswětła barba kože"
+        ],
+        "tts": [
+          "běhaca wosoba: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "🏃🏽‍➡": {
+        "default": [
+          "běhać",
+          "běhaca wosoba",
+          "běhar",
+          "běharka",
+          "běžeć",
+          "doprawa",
+          "maraton",
+          "sport",
+          "srěnja barba kože"
+        ],
+        "tts": [
+          "běhaca wosoba: srěnja barba kože, doprawa"
+        ]
+      },
+      "🏃🏾‍➡": {
+        "default": [
+          "běhać",
+          "běhaca wosoba",
+          "běhar",
+          "běharka",
+          "běžeć",
+          "doprawa",
+          "maraton",
+          "sport",
+          "srěnjoćmowa barba kože"
+        ],
+        "tts": [
+          "běhaca wosoba: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "🏃🏿‍➡": {
+        "default": [
+          "běhać",
+          "běhaca wosoba",
+          "běhar",
+          "běharka",
+          "běžeć",
+          "ćmowa barba kože",
+          "doprawa",
+          "maraton",
+          "sport"
+        ],
+        "tts": [
+          "běhaca wosoba: ćmowa barba kože, doprawa"
+        ]
+      },
+      "🏃‍♀‍➡": {
+        "default": [
+          "běhać",
+          "běhaca žona",
+          "běharka",
+          "běžeć",
+          "doprawa",
+          "joggować",
+          "joggowarka",
+          "maraton"
+        ],
+        "tts": [
+          "běhaca žona: doprawa"
+        ]
+      },
+      "🏃🏻‍♀‍➡": {
+        "default": [
+          "běhać",
+          "běhaca žona",
+          "běharka",
+          "běžeć",
+          "doprawa",
+          "joggować",
+          "joggowarka",
+          "maraton",
+          "swětła barba kože"
+        ],
+        "tts": [
+          "běhaca žona: swětła barba kože, doprawa"
+        ]
+      },
+      "🏃🏼‍♀‍➡": {
+        "default": [
+          "běhać",
+          "běhaca žona",
+          "běharka",
+          "běžeć",
+          "doprawa",
+          "joggować",
+          "joggowarka",
+          "maraton",
+          "srěnjoswětła barba kože"
+        ],
+        "tts": [
+          "běhaca žona: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "🏃🏽‍♀‍➡": {
+        "default": [
+          "běhać",
+          "běhaca žona",
+          "běharka",
+          "běžeć",
+          "doprawa",
+          "joggować",
+          "joggowarka",
+          "maraton",
+          "srěnja barba kože"
+        ],
+        "tts": [
+          "běhaca žona: srěnja barba kože, doprawa"
+        ]
+      },
+      "🏃🏾‍♀‍➡": {
+        "default": [
+          "běhać",
+          "běhaca žona",
+          "běharka",
+          "běžeć",
+          "doprawa",
+          "joggować",
+          "joggowarka",
+          "maraton",
+          "srěnjoćmowa barba kože"
+        ],
+        "tts": [
+          "běhaca žona: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "🏃🏿‍♀‍➡": {
+        "default": [
+          "běhać",
+          "běhaca žona",
+          "běharka",
+          "běžeć",
+          "ćmowa barba kože",
+          "doprawa",
+          "joggować",
+          "joggowarka",
+          "maraton"
+        ],
+        "tts": [
+          "běhaca žona: ćmowa barba kože, doprawa"
+        ]
+      },
+      "🏃‍♂‍➡": {
+        "default": [
+          "běhać",
+          "běhacy muž",
+          "běhar",
+          "běžeć",
+          "doprawa",
+          "joggować",
+          "joggowar",
+          "maraton"
+        ],
+        "tts": [
+          "běhacy muž: doprawa"
+        ]
+      },
+      "🏃🏻‍♂‍➡": {
+        "default": [
+          "běhać",
+          "běhacy muž",
+          "běhar",
+          "běžeć",
+          "doprawa",
+          "joggować",
+          "joggowar",
+          "maraton",
+          "swětła barba kože"
+        ],
+        "tts": [
+          "běhacy muž: swětła barba kože, doprawa"
+        ]
+      },
+      "🏃🏼‍♂‍➡": {
+        "default": [
+          "běhać",
+          "běhacy muž",
+          "běhar",
+          "běžeć",
+          "doprawa",
+          "joggować",
+          "joggowar",
+          "maraton",
+          "srěnjoswětła barba kože"
+        ],
+        "tts": [
+          "běhacy muž: srěnjoswětła barba kože, doprawa"
+        ]
+      },
+      "🏃🏽‍♂‍➡": {
+        "default": [
+          "běhać",
+          "běhacy muž",
+          "běhar",
+          "běžeć",
+          "doprawa",
+          "joggować",
+          "joggowar",
+          "maraton",
+          "srěnja barba kože"
+        ],
+        "tts": [
+          "běhacy muž: srěnja barba kože, doprawa"
+        ]
+      },
+      "🏃🏾‍♂‍➡": {
+        "default": [
+          "běhać",
+          "běhacy muž",
+          "běhar",
+          "běžeć",
+          "doprawa",
+          "joggować",
+          "joggowar",
+          "maraton",
+          "srěnjoćmowa barba kože"
+        ],
+        "tts": [
+          "běhacy muž: srěnjoćmowa barba kože, doprawa"
+        ]
+      },
+      "🏃🏿‍♂‍➡": {
+        "default": [
+          "běhać",
+          "běhacy muž",
+          "běhar",
+          "běžeć",
+          "ćmowa barba kože",
+          "doprawa",
+          "joggować",
+          "joggowar",
+          "maraton"
+        ],
+        "tts": [
+          "běhacy muž: ćmowa barba kože, doprawa"
+        ]
+      },
       "💃🏻": {
         "default": [
           "reje",
@@ -18419,7 +20368,9 @@
       },
       "🕴🏻": {
         "default": [
+          "kiž so znošuje",
           "muž",
+          "muž we wobleku",
           "muž we wobleku, kiž so znošuje",
           "so znošować",
           "swětła barba kože",
@@ -18432,7 +20383,9 @@
       },
       "🕴🏼": {
         "default": [
+          "kiž so znošuje",
           "muž",
+          "muž we wobleku",
           "muž we wobleku, kiž so znošuje",
           "so znošować",
           "srěnjoswětła barba kože",
@@ -18445,7 +20398,9 @@
       },
       "🕴🏽": {
         "default": [
+          "kiž so znošuje",
           "muž",
+          "muž we wobleku",
           "muž we wobleku, kiž so znošuje",
           "so znošować",
           "srěnja barba kože",
@@ -18458,7 +20413,9 @@
       },
       "🕴🏾": {
         "default": [
+          "kiž so znošuje",
           "muž",
+          "muž we wobleku",
           "muž we wobleku, kiž so znošuje",
           "so znošować",
           "srěnjoćmowa barba kože",
@@ -18472,7 +20429,9 @@
       "🕴🏿": {
         "default": [
           "ćmowa barba kože",
+          "kiž so znošuje",
           "muž",
+          "muž we wobleku",
           "muž we wobleku, kiž so znošuje",
           "so znošować",
           "wobchod",
@@ -18948,7 +20907,9 @@
           "golf",
           "hrajer golfa",
           "hrajerka golfa",
+          "kiž hraje golf",
           "swětła barba kože",
+          "wosoba",
           "wosoba, kiž hraje golf"
         ],
         "tts": [
@@ -18961,7 +20922,9 @@
           "golf",
           "hrajer golfa",
           "hrajerka golfa",
+          "kiž hraje golf",
           "srěnjoswětła barba kože",
+          "wosoba",
           "wosoba, kiž hraje golf"
         ],
         "tts": [
@@ -18974,7 +20937,9 @@
           "golf",
           "hrajer golfa",
           "hrajerka golfa",
+          "kiž hraje golf",
           "srěnja barba kože",
+          "wosoba",
           "wosoba, kiž hraje golf"
         ],
         "tts": [
@@ -18987,7 +20952,9 @@
           "golf",
           "hrajer golfa",
           "hrajerka golfa",
+          "kiž hraje golf",
           "srěnjoćmowa barba kože",
+          "wosoba",
           "wosoba, kiž hraje golf"
         ],
         "tts": [
@@ -19001,6 +20968,8 @@
           "golf",
           "hrajer golfa",
           "hrajerka golfa",
+          "kiž hraje golf",
+          "wosoba",
           "wosoba, kiž hraje golf"
         ],
         "tts": [
@@ -19894,8 +21863,10 @@
       },
       "🏋🏻": {
         "default": [
+          "kiž zběha wahi",
           "swětła barba kože",
           "waha",
+          "wosoba",
           "wosoba, kiž zběha wahi"
         ],
         "tts": [
@@ -19904,8 +21875,10 @@
       },
       "🏋🏼": {
         "default": [
+          "kiž zběha wahi",
           "srěnjoswětła barba kože",
           "waha",
+          "wosoba",
           "wosoba, kiž zběha wahi"
         ],
         "tts": [
@@ -19914,8 +21887,10 @@
       },
       "🏋🏽": {
         "default": [
+          "kiž zběha wahi",
           "srěnja barba kože",
           "waha",
+          "wosoba",
           "wosoba, kiž zběha wahi"
         ],
         "tts": [
@@ -19924,8 +21899,10 @@
       },
       "🏋🏾": {
         "default": [
+          "kiž zběha wahi",
           "srěnjoćmowa barba kože",
           "waha",
+          "wosoba",
           "wosoba, kiž zběha wahi"
         ],
         "tts": [
@@ -19935,7 +21912,9 @@
       "🏋🏿": {
         "default": [
           "ćmowa barba kože",
+          "kiž zběha wahi",
           "waha",
+          "wosoba",
           "wosoba, kiž zběha wahi"
         ],
         "tts": [
@@ -20054,11 +22033,13 @@
       },
       "🚴🏻": {
         "default": [
+          "kiž kolesuje",
           "koleso",
           "kolesować",
           "kolesowar",
           "kolesowarka",
           "swětła barba kože",
+          "wosoba",
           "wosoba, kiž kolesuje"
         ],
         "tts": [
@@ -20067,11 +22048,13 @@
       },
       "🚴🏼": {
         "default": [
+          "kiž kolesuje",
           "koleso",
           "kolesować",
           "kolesowar",
           "kolesowarka",
           "srěnjoswětła barba kože",
+          "wosoba",
           "wosoba, kiž kolesuje"
         ],
         "tts": [
@@ -20080,11 +22063,13 @@
       },
       "🚴🏽": {
         "default": [
+          "kiž kolesuje",
           "koleso",
           "kolesować",
           "kolesowar",
           "kolesowarka",
           "srěnja barba kože",
+          "wosoba",
           "wosoba, kiž kolesuje"
         ],
         "tts": [
@@ -20093,11 +22078,13 @@
       },
       "🚴🏾": {
         "default": [
+          "kiž kolesuje",
           "koleso",
           "kolesować",
           "kolesowar",
           "kolesowarka",
           "srěnjoćmowa barba kože",
+          "wosoba",
           "wosoba, kiž kolesuje"
         ],
         "tts": [
@@ -20107,10 +22094,12 @@
       "🚴🏿": {
         "default": [
           "ćmowa barba kože",
+          "kiž kolesuje",
           "koleso",
           "kolesować",
           "kolesowar",
           "kolesowarka",
+          "wosoba",
           "wosoba, kiž kolesuje"
         ],
         "tts": [
@@ -20230,10 +22219,12 @@
       "🚵🏻": {
         "default": [
           "hórske koleso",
+          "kiž jězdźi z mountainbikom",
           "kolesować",
           "mountainbike",
           "mountainbikowanje",
           "swětła barba kože",
+          "wosoba",
           "wosoba, kiž jězdźi z mountainbikom"
         ],
         "tts": [
@@ -20243,10 +22234,12 @@
       "🚵🏼": {
         "default": [
           "hórske koleso",
+          "kiž jězdźi z mountainbikom",
           "kolesować",
           "mountainbike",
           "mountainbikowanje",
           "srěnjoswětła barba kože",
+          "wosoba",
           "wosoba, kiž jězdźi z mountainbikom"
         ],
         "tts": [
@@ -20256,10 +22249,12 @@
       "🚵🏽": {
         "default": [
           "hórske koleso",
+          "kiž jězdźi z mountainbikom",
           "kolesować",
           "mountainbike",
           "mountainbikowanje",
           "srěnja barba kože",
+          "wosoba",
           "wosoba, kiž jězdźi z mountainbikom"
         ],
         "tts": [
@@ -20269,10 +22264,12 @@
       "🚵🏾": {
         "default": [
           "hórske koleso",
+          "kiž jězdźi z mountainbikom",
           "kolesować",
           "mountainbike",
           "mountainbikowanje",
           "srěnjoćmowa barba kože",
+          "wosoba",
           "wosoba, kiž jězdźi z mountainbikom"
         ],
         "tts": [
@@ -20283,9 +22280,11 @@
         "default": [
           "ćmowa barba kože",
           "hórske koleso",
+          "kiž jězdźi z mountainbikom",
           "kolesować",
           "mountainbike",
           "mountainbikowanje",
+          "wosoba",
           "wosoba, kiž jězdźi z mountainbikom"
         ],
         "tts": [
@@ -20435,6 +22434,7 @@
       "🤸🏻": {
         "default": [
           "gymnastika",
+          "kiž so nabok přemjetuje",
           "přizemne zwučowanja",
           "so přemjetować",
           "sport",
@@ -20449,6 +22449,7 @@
       "🤸🏼": {
         "default": [
           "gymnastika",
+          "kiž so nabok přemjetuje",
           "přizemne zwučowanja",
           "so přemjetować",
           "sport",
@@ -20463,6 +22464,7 @@
       "🤸🏽": {
         "default": [
           "gymnastika",
+          "kiž so nabok přemjetuje",
           "přizemne zwučowanja",
           "so přemjetować",
           "sport",
@@ -20477,6 +22479,7 @@
       "🤸🏾": {
         "default": [
           "gymnastika",
+          "kiž so nabok přemjetuje",
           "přizemne zwučowanja",
           "so přemjetować",
           "sport",
@@ -20492,6 +22495,7 @@
         "default": [
           "ćmowa barba kože",
           "gymnastika",
+          "kiž so nabok přemjetuje",
           "přizemne zwučowanja",
           "so přemjetować",
           "sport",
@@ -20505,6 +22509,7 @@
       "🤸🏻‍♂": {
         "default": [
           "gymnastika",
+          "kiž so nabok přemjetuje",
           "muž",
           "muž, kiž so nabok přemjetuje",
           "přizemne zwučowanja",
@@ -20519,6 +22524,7 @@
       "🤸🏼‍♂": {
         "default": [
           "gymnastika",
+          "kiž so nabok přemjetuje",
           "muž",
           "muž, kiž so nabok přemjetuje",
           "přizemne zwučowanja",
@@ -20533,6 +22539,7 @@
       "🤸🏽‍♂": {
         "default": [
           "gymnastika",
+          "kiž so nabok přemjetuje",
           "muž",
           "muž, kiž so nabok přemjetuje",
           "přizemne zwučowanja",
@@ -20547,6 +22554,7 @@
       "🤸🏾‍♂": {
         "default": [
           "gymnastika",
+          "kiž so nabok přemjetuje",
           "muž",
           "muž, kiž so nabok přemjetuje",
           "přizemne zwučowanja",
@@ -20562,6 +22570,7 @@
         "default": [
           "ćmowa barba kože",
           "gymnastika",
+          "kiž so nabok přemjetuje",
           "muž",
           "muž, kiž so nabok přemjetuje",
           "přizemne zwučowanja",
@@ -20575,6 +22584,7 @@
       "🤸🏻‍♀": {
         "default": [
           "gymnastika",
+          "kiž so nabok přemjetuje",
           "přizemne zwučowanja",
           "so přemjetować",
           "sport",
@@ -20589,6 +22599,7 @@
       "🤸🏼‍♀": {
         "default": [
           "gymnastika",
+          "kiž so nabok přemjetuje",
           "přizemne zwučowanja",
           "so přemjetować",
           "sport",
@@ -20603,6 +22614,7 @@
       "🤸🏽‍♀": {
         "default": [
           "gymnastika",
+          "kiž so nabok přemjetuje",
           "přizemne zwučowanja",
           "so přemjetować",
           "sport",
@@ -20617,6 +22629,7 @@
       "🤸🏾‍♀": {
         "default": [
           "gymnastika",
+          "kiž so nabok přemjetuje",
           "přizemne zwučowanja",
           "so přemjetować",
           "sport",
@@ -20632,6 +22645,7 @@
         "default": [
           "ćmowa barba kože",
           "gymnastika",
+          "kiž so nabok přemjetuje",
           "přizemne zwučowanja",
           "so přemjetować",
           "sport",
@@ -20644,9 +22658,11 @@
       },
       "🤽🏻": {
         "default": [
+          "kiž hraje wodobul",
           "sport",
           "swětła barba kože",
           "woda",
+          "wosoba",
           "wosoba, kiž hraje wodobul"
         ],
         "tts": [
@@ -20655,9 +22671,11 @@
       },
       "🤽🏼": {
         "default": [
+          "kiž hraje wodobul",
           "sport",
           "srěnjoswětła barba kože",
           "woda",
+          "wosoba",
           "wosoba, kiž hraje wodobul"
         ],
         "tts": [
@@ -20666,9 +22684,11 @@
       },
       "🤽🏽": {
         "default": [
+          "kiž hraje wodobul",
           "sport",
           "srěnja barba kože",
           "woda",
+          "wosoba",
           "wosoba, kiž hraje wodobul"
         ],
         "tts": [
@@ -20677,9 +22697,11 @@
       },
       "🤽🏾": {
         "default": [
+          "kiž hraje wodobul",
           "sport",
           "srěnjoćmowa barba kože",
           "woda",
+          "wosoba",
           "wosoba, kiž hraje wodobul"
         ],
         "tts": [
@@ -20689,8 +22711,10 @@
       "🤽🏿": {
         "default": [
           "ćmowa barba kože",
+          "kiž hraje wodobul",
           "sport",
           "woda",
+          "wosoba",
           "wosoba, kiž hraje wodobul"
         ],
         "tts": [
@@ -20820,8 +22844,10 @@
       "🤾🏻": {
         "default": [
           "bul",
+          "kiž hraje mjetańcu",
           "mjetańca",
           "swětła barba kože",
+          "wosoba",
           "wosoba, kiž hraje mjetańcu"
         ],
         "tts": [
@@ -20831,8 +22857,10 @@
       "🤾🏼": {
         "default": [
           "bul",
+          "kiž hraje mjetańcu",
           "mjetańca",
           "srěnjoswětła barba kože",
+          "wosoba",
           "wosoba, kiž hraje mjetańcu"
         ],
         "tts": [
@@ -20842,8 +22870,10 @@
       "🤾🏽": {
         "default": [
           "bul",
+          "kiž hraje mjetańcu",
           "mjetańca",
           "srěnja barba kože",
+          "wosoba",
           "wosoba, kiž hraje mjetańcu"
         ],
         "tts": [
@@ -20853,8 +22883,10 @@
       "🤾🏾": {
         "default": [
           "bul",
+          "kiž hraje mjetańcu",
           "mjetańca",
           "srěnjoćmowa barba kože",
+          "wosoba",
           "wosoba, kiž hraje mjetańcu"
         ],
         "tts": [
@@ -20865,7 +22897,9 @@
         "default": [
           "bul",
           "ćmowa barba kože",
+          "kiž hraje mjetańcu",
           "mjetańca",
+          "wosoba",
           "wosoba, kiž hraje mjetańcu"
         ],
         "tts": [
@@ -20985,7 +23019,9 @@
       "🤹🏻": {
         "default": [
           "balansa",
+          "kiž žonglěruje",
           "swětła barba kože",
+          "wosoba",
           "wosoba, kiž žonglěruje",
           "wušikny",
           "žongler",
@@ -20999,7 +23035,9 @@
       "🤹🏼": {
         "default": [
           "balansa",
+          "kiž žonglěruje",
           "srěnjoswětła barba kože",
+          "wosoba",
           "wosoba, kiž žonglěruje",
           "wušikny",
           "žongler",
@@ -21013,7 +23051,9 @@
       "🤹🏽": {
         "default": [
           "balansa",
+          "kiž žonglěruje",
           "srěnja barba kože",
+          "wosoba",
           "wosoba, kiž žonglěruje",
           "wušikny",
           "žongler",
@@ -21027,7 +23067,9 @@
       "🤹🏾": {
         "default": [
           "balansa",
+          "kiž žonglěruje",
           "srěnjoćmowa barba kože",
+          "wosoba",
           "wosoba, kiž žonglěruje",
           "wušikny",
           "žongler",
@@ -21042,6 +23084,8 @@
         "default": [
           "balansa",
           "ćmowa barba kože",
+          "kiž žonglěruje",
+          "wosoba",
           "wosoba, kiž žonglěruje",
           "wušikny",
           "žongler",
@@ -21339,10 +23383,12 @@
       },
       "🛀🏻": {
         "default": [
+          "kiž so kupa",
           "kupjel",
           "so kupać",
           "swětła barba kože",
           "wanja",
+          "wosoba",
           "wosoba, kiž so kupa"
         ],
         "tts": [
@@ -21351,10 +23397,12 @@
       },
       "🛀🏼": {
         "default": [
+          "kiž so kupa",
           "kupjel",
           "so kupać",
           "srěnjoswětła barba kože",
           "wanja",
+          "wosoba",
           "wosoba, kiž so kupa"
         ],
         "tts": [
@@ -21363,10 +23411,12 @@
       },
       "🛀🏽": {
         "default": [
+          "kiž so kupa",
           "kupjel",
           "so kupać",
           "srěnja barba kože",
           "wanja",
+          "wosoba",
           "wosoba, kiž so kupa"
         ],
         "tts": [
@@ -21375,10 +23425,12 @@
       },
       "🛀🏾": {
         "default": [
+          "kiž so kupa",
           "kupjel",
           "so kupać",
           "srěnjoćmowa barba kože",
           "wanja",
+          "wosoba",
           "wosoba, kiž so kupa"
         ],
         "tts": [
@@ -21388,9 +23440,11 @@
       "🛀🏿": {
         "default": [
           "ćmowa barba kože",
+          "kiž so kupa",
           "kupjel",
           "so kupać",
           "wanja",
+          "wosoba",
           "wosoba, kiž so kupa"
         ],
         "tts": [
@@ -22925,6 +24979,7 @@
       "💏🏻": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -22939,6 +24994,7 @@
       "💏🏼": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -22953,6 +25009,7 @@
       "💏🏽": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -22967,6 +25024,7 @@
       "💏🏾": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -22982,6 +25040,7 @@
         "default": [
           "ćmowa barba kože",
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",
@@ -22995,6 +25054,7 @@
       "👩‍❤‍💋‍👨": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -23010,6 +25070,7 @@
       "👨‍❤‍💋‍👨": {
         "default": [
           "hubka",
+          "kiž so koši",
           "muž",
           "porik",
           "porik, kiž so koši",
@@ -23024,6 +25085,7 @@
       "👩‍❤‍💋‍👩": {
         "default": [
           "hubka",
+          "kiž so koši",
           "porik",
           "porik, kiž so koši",
           "sej hubku dać",

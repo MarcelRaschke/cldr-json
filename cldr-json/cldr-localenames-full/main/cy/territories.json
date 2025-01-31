@@ -2,9 +2,6 @@
   "main": {
     "cy": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "cy"
       },
       "localeDisplayNames": {
@@ -160,6 +157,8 @@
           "IM": "Ynys Manaw",
           "IN": "India",
           "IO": "Tiriogaeth Brydeinig Cefnfor India",
+          "IO-alt-biot": "Tiriogaeth Brydeinig Cefnfor India",
+          "IO-alt-chagos": "Ynysfor Chagos",
           "IQ": "Irac",
           "IR": "Iran",
           "IS": "Gwlad yr Iâ",
@@ -294,8 +293,8 @@
           "UA": "Wcráin",
           "UG": "Uganda",
           "UM": "Ynysoedd Pellennig UDA",
-          "UN": "y Cenhedloedd Unedig",
-          "UN-alt-short": "UN",
+          "UN": "Y Cenhedloedd Unedig",
+          "UN-alt-short": "CU",
           "US": "Yr Unol Daleithiau",
           "US-alt-short": "UDA",
           "UY": "Uruguay",

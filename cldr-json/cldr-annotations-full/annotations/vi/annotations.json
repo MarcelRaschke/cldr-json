@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "vi"
     },
     "annotations": {
@@ -1544,6 +1541,7 @@
       },
       "∂": {
         "default": [
+          "vi phân",
           "vi phân riêng phần"
         ],
         "tts": [
@@ -1560,7 +1558,9 @@
       },
       "∅": {
         "default": [
-          "tập hợp rỗng"
+          "tập hợp rỗng",
+          "toán học",
+          "toán tử tập hợp"
         ],
         "tts": [
           "tập hợp rỗng"
@@ -1598,7 +1598,8 @@
       },
       "∉": {
         "default": [
-          "không thuộc"
+          "không thuộc",
+          "thuộc"
         ],
         "tts": [
           "không thuộc"
@@ -1606,7 +1607,8 @@
       },
       "∋": {
         "default": [
-          "chứa"
+          "chứa",
+          "thuộc"
         ],
         "tts": [
           "chứa"
@@ -1614,7 +1616,10 @@
       },
       "∎": {
         "default": [
-          "chứng minh kết thúc"
+          "chứng minh kết thúc",
+          "halmos",
+          "q.e.d.",
+          "qed"
         ],
         "tts": [
           "chứng minh kết thúc"
@@ -1622,6 +1627,8 @@
       },
       "∏": {
         "default": [
+          "logic",
+          "tích",
           "tích đa phân"
         ],
         "tts": [
@@ -1630,6 +1637,8 @@
       },
       "∑": {
         "default": [
+          "toán học",
+          "tổng",
           "tổng đa phân"
         ],
         "tts": [
@@ -1690,7 +1699,9 @@
       },
       "≮": {
         "default": [
-          "không nhỏ hơn"
+          "bất đẳng thức",
+          "không nhỏ hơn",
+          "toán học"
         ],
         "tts": [
           "không nhỏ hơn"
@@ -1728,7 +1739,9 @@
       },
       "≯": {
         "default": [
-          "không lớn hơn"
+          "bất đẳng thức",
+          "không lớn hơn",
+          "toán học"
         ],
         "tts": [
           "không lớn hơn"
@@ -1784,6 +1797,7 @@
       },
       "∓": {
         "default": [
+          "cộng trừ",
           "trừ hoặc cộng"
         ],
         "tts": [
@@ -1792,7 +1806,9 @@
       },
       "∕": {
         "default": [
-          "dấu gạch chéo phân chia"
+          "dấu gạch chéo",
+          "dấu gạch chéo phân chia",
+          "nét"
         ],
         "tts": [
           "dấu gạch chéo phân chia"
@@ -1800,7 +1816,9 @@
       },
       "⁄": {
         "default": [
-          "dấu gạch chéo phân số"
+          "dấu gạch chéo",
+          "dấu gạch chéo phân số",
+          "nét"
         ],
         "tts": [
           "dấu gạch chéo phân số"
@@ -1808,6 +1826,7 @@
       },
       "∗": {
         "default": [
+          "dấu sao",
           "toán tử dấu hoa thị"
         ],
         "tts": [
@@ -1816,6 +1835,8 @@
       },
       "∘": {
         "default": [
+          "hàm hợp",
+          "toán tử",
           "vòng toán tử"
         ],
         "tts": [
@@ -1824,6 +1845,7 @@
       },
       "∙": {
         "default": [
+          "toán tử",
           "toán tử dấu đầu dòng"
         ],
         "tts": [
@@ -1845,6 +1867,7 @@
       },
       "∝": {
         "default": [
+          "tính cân xứng",
           "tỷ lệ"
         ],
         "tts": [
@@ -1862,7 +1885,8 @@
       },
       "∟": {
         "default": [
-          "góc vuông"
+          "góc vuông",
+          "toán học"
         ],
         "tts": [
           "góc vuông"
@@ -1870,7 +1894,8 @@
       },
       "∠": {
         "default": [
-          "góc"
+          "góc",
+          "nhọn"
         ],
         "tts": [
           "góc"
@@ -1878,7 +1903,8 @@
       },
       "∣": {
         "default": [
-          "chia ra"
+          "chia ra",
+          "số chia"
         ],
         "tts": [
           "chia ra"
@@ -1894,6 +1920,7 @@
       },
       "∧": {
         "default": [
+          "chữ V ngược",
           "logic và"
         ],
         "tts": [
@@ -1921,6 +1948,7 @@
       },
       "∫": {
         "default": [
+          "giải tích",
           "tích phân"
         ],
         "tts": [
@@ -1929,6 +1957,7 @@
       },
       "∬": {
         "default": [
+          "giải tích",
           "tích phân kép"
         ],
         "tts": [
@@ -1945,7 +1974,8 @@
       },
       "∴": {
         "default": [
-          "do đó"
+          "do đó",
+          "logic"
         ],
         "tts": [
           "do đó"
@@ -1953,6 +1983,7 @@
       },
       "∵": {
         "default": [
+          "logic",
           "vì"
         ],
         "tts": [
@@ -1969,6 +2000,7 @@
       },
       "∷": {
         "default": [
+          "tính cân xứng",
           "tỷ lệ thức"
         ],
         "tts": [
@@ -1977,6 +2009,7 @@
       },
       "∼": {
         "default": [
+          "toán tử",
           "toán tử tương ứng"
         ],
         "tts": [
@@ -1985,6 +2018,7 @@
       },
       "∽": {
         "default": [
+          "dấu ngã",
           "dấu ngã ngược"
         ],
         "tts": [
@@ -2001,7 +2035,9 @@
       },
       "≃": {
         "default": [
-          "gần bằng"
+          "gần bằng",
+          "tiệm cận",
+          "toán học"
         ],
         "tts": [
           "gần bằng"
@@ -2009,6 +2045,10 @@
       },
       "≅": {
         "default": [
+          "bằng",
+          "đẳng tích",
+          "đồng dạng",
+          "toán học",
           "xấp xỉ bằng"
         ],
         "tts": [
@@ -2028,7 +2068,9 @@
       },
       "≌": {
         "default": [
-          "như nhau"
+          "bằng",
+          "như nhau",
+          "toán học"
         ],
         "tts": [
           "như nhau"
@@ -2044,6 +2086,8 @@
       },
       "≖": {
         "default": [
+          "bằng",
+          "toán học",
           "tương đương"
         ],
         "tts": [
@@ -2064,6 +2108,8 @@
       },
       "≣": {
         "default": [
+          "bằng",
+          "toán học",
           "tương đồng"
         ],
         "tts": [
@@ -2094,7 +2140,9 @@
       },
       "≦": {
         "default": [
-          "nhỏ hơn bằng"
+          "bất đẳng thức",
+          "nhỏ hơn bằng",
+          "toán học"
         ],
         "tts": [
           "nhỏ hơn bằng"
@@ -2102,7 +2150,9 @@
       },
       "≧": {
         "default": [
-          "lớn hơn bằng"
+          "bất đẳng thức",
+          "lớn hơn bằng",
+          "toán học"
         ],
         "tts": [
           "lớn hơn bằng"
@@ -2110,7 +2160,9 @@
       },
       "≪": {
         "default": [
-          "ít hơn rất nhiều so với"
+          "bất đẳng thức",
+          "ít hơn rất nhiều so với",
+          "toán học"
         ],
         "tts": [
           "ít hơn rất nhiều so với"
@@ -2118,7 +2170,9 @@
       },
       "≫": {
         "default": [
-          "lớn hơn nhiều"
+          "bất đẳng thức",
+          "lớn hơn nhiều",
+          "toán học"
         ],
         "tts": [
           "lớn hơn nhiều"
@@ -2134,7 +2188,9 @@
       },
       "≳": {
         "default": [
-          "lớn hơn tương đương"
+          "bất đẳng thức",
+          "lớn hơn tương đương",
+          "toán học"
         ],
         "tts": [
           "lớn hơn tương đương"
@@ -2142,7 +2198,9 @@
       },
       "≺": {
         "default": [
-          "đứng trước"
+          "đứng trước",
+          "toán học",
+          "toán tử tập hợp"
         ],
         "tts": [
           "đứng trước"
@@ -2150,7 +2208,9 @@
       },
       "≻": {
         "default": [
-          "đứng sau"
+          "đứng sau",
+          "toán học",
+          "toán tử tập hợp"
         ],
         "tts": [
           "đứng sau"
@@ -2158,10 +2218,12 @@
       },
       "⊁": {
         "default": [
-          "không đứng saau"
+          "không đứng sau",
+          "toán học",
+          "toán tử tập hợp"
         ],
         "tts": [
-          "không đứng saau"
+          "không đứng sau"
         ]
       },
       "⊂": {
@@ -2176,7 +2238,9 @@
       },
       "⊃": {
         "default": [
-          "tập cha"
+          "tập cha",
+          "toán học",
+          "toán tử tập hợp"
         ],
         "tts": [
           "tập cha"
@@ -2192,7 +2256,9 @@
       },
       "⊇": {
         "default": [
-          "tập cha bằng"
+          "bằng",
+          "tập cha bằng",
+          "toán học"
         ],
         "tts": [
           "tập cha bằng"
@@ -2200,31 +2266,35 @@
       },
       "⊕": {
         "default": [
-          "tổng trực tiếp"
+          "cộng",
+          "dấu cộng trong vòng tròn"
         ],
         "tts": [
-          "tổng trực tiếp"
+          "dấu cộng trong vòng tròn"
         ]
       },
       "⊖": {
         "default": [
-          "hiệu số đối xứng"
+          "dấu trừ trong vòng tròn",
+          "hiệu số đối xứng",
+          "phép co"
         ],
         "tts": [
-          "hiệu số đối xứng"
+          "dấu trừ trong vòng tròn"
         ]
       },
       "⊗": {
         "default": [
-          "tích tenxơ"
+          "dấu nhân trong vòng tròn",
+          "tenxơ",
+          "tích"
         ],
         "tts": [
-          "tích tenxơ"
+          "dấu nhân trong vòng tròn"
         ]
       },
       "⊘": {
         "default": [
-          "dấu chia",
           "dấu chia trong vòng tròn",
           "giống phép chia",
           "toán học"
@@ -2235,47 +2305,58 @@
       },
       "⊙": {
         "default": [
-          "toán tử chấm tròn"
+          "toán tử",
+          "toán tử dấu chấm trong vòng tròn",
+          "XNOR"
         ],
         "tts": [
-          "toán tử chấm tròn"
+          "toán tử dấu chấm trong vòng tròn"
         ]
       },
       "⊚": {
         "default": [
-          "toán tử vòng tròn"
+          "toán tử hình khuyên trong vòng tròn"
         ],
         "tts": [
-          "toán tử vòng tròn"
+          "toán tử hình khuyên trong vòng tròn"
         ]
       },
       "⊛": {
         "default": [
-          "toán tử hoa thị tròn"
+          "hoa thị",
+          "toán tử",
+          "toán tử hoa thị trong vòng tròn"
         ],
         "tts": [
-          "toán tử hoa thị tròn"
+          "toán tử hoa thị trong vòng tròn"
         ]
       },
       "⊞": {
         "default": [
-          "phép cộng"
+          "dấu cộng trong hình vuông",
+          "giống phép cộng",
+          "toán học"
         ],
         "tts": [
-          "phép cộng"
+          "dấu cộng trong hình vuông"
         ]
       },
       "⊟": {
         "default": [
-          "phép trừ"
+          "dấu trừ trong hình vuông",
+          "giống phép trừ",
+          "toán học"
         ],
         "tts": [
-          "phép trừ"
+          "dấu trừ trong hình vuông"
         ]
       },
       "⊥": {
         "default": [
-          "chữ T lộn ngược"
+          "chữ T lộn ngược",
+          "đinh bẹt",
+          "sai",
+          "T ngược"
         ],
         "tts": [
           "chữ T lộn ngược"
@@ -2291,7 +2372,9 @@
       },
       "⊰": {
         "default": [
-          "đứng trước trong hệ thức"
+          "đứng trước trong hệ thức",
+          "toán học",
+          "toán tử tập hợp"
         ],
         "tts": [
           "đứng trước trong hệ thức"
@@ -2299,7 +2382,9 @@
       },
       "⊱": {
         "default": [
-          "đứng sau trong hệ thức"
+          "đứng sau trong hệ thức",
+          "toán học",
+          "toán tử tập hợp"
         ],
         "tts": [
           "đứng sau trong hệ thức"
@@ -2307,7 +2392,9 @@
       },
       "⋭": {
         "default": [
-          "không chứa như nhóm con bình thường bằng"
+          "không chứa như nhóm con bình thường bằng",
+          "lý thuyết nhóm",
+          "toán học"
         ],
         "tts": [
           "không chứa như nhóm con bình thường bằng"
@@ -2323,7 +2410,10 @@
       },
       "⊹": {
         "default": [
-          "ma trận liên hợp hermitian"
+          "ma trận liên hợp hermitian",
+          "ma trận tự liên hợp",
+          "ma trận vuông",
+          "toán học"
         ],
         "tts": [
           "ma trận liên hợp hermitian"
@@ -2331,7 +2421,9 @@
       },
       "⊿": {
         "default": [
-          "tam giác vuông"
+          "tam giác có góc vuông",
+          "tam giác vuông",
+          "toán học"
         ],
         "tts": [
           "tam giác vuông"
@@ -2339,7 +2431,9 @@
       },
       "⋁": {
         "default": [
-          "logic hoặc đa phân"
+          "logic",
+          "logic hoặc đa phân",
+          "tuyển"
         ],
         "tts": [
           "logic hoặc đa phân"
@@ -2347,7 +2441,10 @@
       },
       "⋂": {
         "default": [
-          "giao đa phân"
+          "giao",
+          "giao đa phân",
+          "toán học",
+          "toán tử tập hợp"
         ],
         "tts": [
           "giao đa phân"
@@ -2355,7 +2452,10 @@
       },
       "⋃": {
         "default": [
-          "hợp đa phân"
+          "hợp",
+          "hợp đa phân",
+          "toán học",
+          "toán tử tập hợp"
         ],
         "tts": [
           "hợp đa phân"
@@ -2363,6 +2463,7 @@
       },
       "⋅": {
         "default": [
+          "toán tử",
           "toán tử dấu chấm"
         ],
         "tts": [
@@ -2371,15 +2472,18 @@
       },
       "⋆": {
         "default": [
-          "toán tử nhân"
+          "toán tử",
+          "toán tử dấu sao"
         ],
         "tts": [
-          "toán tử nhân"
+          "toán tử dấu sao"
         ]
       },
       "⋈": {
         "default": [
-          "phép nối tự nhiên"
+          "hình nơ",
+          "phép nối tự nhiên",
+          "toán tử nhị phân"
         ],
         "tts": [
           "phép nối tự nhiên"
@@ -2387,7 +2491,10 @@
       },
       "⋒": {
         "default": [
-          "giao kép"
+          "giao",
+          "giao kép",
+          "toán học",
+          "toán tử tập hợp"
         ],
         "tts": [
           "giao kép"
@@ -2395,7 +2502,9 @@
       },
       "⋘": {
         "default": [
-          "ít hơn rất nhiều"
+          "bất đẳng thức",
+          "ít hơn rất nhiều",
+          "toán học"
         ],
         "tts": [
           "ít hơn rất nhiều"
@@ -2403,7 +2512,9 @@
       },
       "⋙": {
         "default": [
-          "lớn hơn rất nhiều"
+          "bất đẳng thức",
+          "lớn hơn rất nhiều",
+          "toán học"
         ],
         "tts": [
           "lớn hơn rất nhiều"
@@ -2411,7 +2522,9 @@
       },
       "⋮": {
         "default": [
-          "dấu ba chấm dọc"
+          "dấu ba chấm",
+          "dấu ba chấm dọc",
+          "toán học"
         ],
         "tts": [
           "dấu ba chấm dọc"
@@ -2419,6 +2532,7 @@
       },
       "⋯": {
         "default": [
+          "dấu ba chấm",
           "dấu ba chấm ngang đường trung tuyến"
         ],
         "tts": [
@@ -2427,7 +2541,9 @@
       },
       "⋰": {
         "default": [
-          "dấu ba chấm chéo phải trên"
+          "dấu ba chấm",
+          "dấu ba chấm chéo phải trên",
+          "toán học"
         ],
         "tts": [
           "dấu ba chấm chéo phải trên"
@@ -2435,7 +2551,9 @@
       },
       "⋱": {
         "default": [
-          "dấu ba chấm chéo phải xuống"
+          "dấu ba chấm",
+          "dấu ba chấm chéo phải xuống",
+          "toán học"
         ],
         "tts": [
           "dấu ba chấm chéo phải xuống"
@@ -2731,7 +2849,11 @@
       },
       "◉": {
         "default": [
-          "hình tròn rỗng chứa hình tròn đặc"
+          "dấu chấm trong vòng tròn",
+          "hình tròn đồng tâm đặc",
+          "hình tròn rỗng chứa hình tròn đặc",
+          "mắt cá",
+          "quận"
         ],
         "tts": [
           "hình tròn rỗng chứa hình tròn đặc"
@@ -2775,7 +2897,9 @@
       },
       "◎": {
         "default": [
-          "hình tròn đồng tâm"
+          "đích",
+          "hình tròn đồng tâm",
+          "hình tròn kép"
         ],
         "tts": [
           "hình tròn đồng tâm"
@@ -2864,6 +2988,7 @@
       },
       "◙": {
         "default": [
+          "hình tròn rỗng ngược",
           "hình vuông đặc chứa hình tròn rỗng"
         ],
         "tts": [
@@ -2920,18 +3045,18 @@
       },
       "◢": {
         "default": [
-          "hình tam giác phia dưới bên phải đặc"
+          "hình tam giác phía dưới bên phải đặc"
         ],
         "tts": [
-          "hình tam giác phia dưới bên phải đặc"
+          "hình tam giác phía dưới bên phải đặc"
         ]
       },
       "◣": {
         "default": [
-          "hình tam giác phia dưới bên trái đặc"
+          "hình tam giác phía dưới bên trái đặc"
         ],
         "tts": [
-          "hình tam giác phia dưới bên trái đặc"
+          "hình tam giác phía dưới bên trái đặc"
         ]
       },
       "◤": {
@@ -3054,7 +3179,9 @@
       },
       "⪚": {
         "default": [
-          "dấu bằng kép hoặc lớn hơn"
+          "bất đẳng thức",
+          "dấu bằng kép hoặc lớn hơn",
+          "toán học"
         ],
         "tts": [
           "dấu bằng kép hoặc lớn hơn"
@@ -3091,22 +3218,21 @@
       },
       "😀": {
         "default": [
+          "cười toe toét",
           "mặt",
-          "mặt cười toét",
-          "toe toét"
+          "mặt cười toe toét"
         ],
         "tts": [
-          "mặt cười toét"
+          "mặt cười toe toét"
         ]
       },
       "😃": {
         "default": [
           "cười",
+          "há to",
           "mặt",
-          "mặt cười miệng há với mắt to",
-          "mặt cười tươi với hai mắt mở to",
-          "miệng",
-          "mở"
+          "mặt cười mắt mở to",
+          "miệng"
         ],
         "tts": [
           "mặt cười miệng há với mắt to"
@@ -3128,18 +3254,20 @@
       "😁": {
         "default": [
           "cười",
+          "cười nhe răng và mắt cười",
           "mắt",
-          "mặt",
-          "mặt cười toét mắt cười",
-          "toe toét"
+          "mặt"
         ],
         "tts": [
-          "mặt cười toét mắt cười"
+          "mặt cười nhe răng và mắt cười"
         ]
       },
       "😆": {
         "default": [
           "cười",
+          "cười ngặt nghẽo",
+          "cười ngoác miệng",
+          "cười như được mùa",
           "cười to",
           "hài lòng",
           "mặt",
@@ -3152,20 +3280,27 @@
       },
       "😅": {
         "default": [
-          "cười",
+          "căng thẳng",
+          "chán nản",
+          "cười nhe răng",
+          "hào hứng",
           "lạnh",
+          "lo lắng",
           "mặt",
-          "mặt cười miệng há mồ hôi",
+          "miệng",
+          "mỉm cười",
           "mở",
           "mồ hôi"
         ],
         "tts": [
-          "mặt cười miệng há mồ hôi"
+          "mặt cười toát mồ hôi"
         ]
       },
       "🤣": {
         "default": [
           "cười",
+          "cười chảy nước mắt",
+          "cười sung sướng",
           "lăn",
           "mặt",
           "mặt cười lăn cười bò",
@@ -3178,9 +3313,12 @@
       "😂": {
         "default": [
           "cười",
+          "cười chảy nước mắt",
+          "hài thật",
           "mặt",
           "mặt cười với nước mắt vui sướng",
           "nước mắt",
+          "vui đấy",
           "vui sướng"
         ],
         "tts": [
@@ -3231,14 +3369,17 @@
       },
       "😊": {
         "default": [
-          "cười",
+          "cười mỉm",
           "đỏ mặt",
+          "hài lòng",
           "mắt",
           "mặt",
-          "mặt mỉm cười với hai mắt híp lại"
+          "mặt tươi cười với đôi mắt biết cười",
+          "mỉm cười",
+          "vui mừng"
         ],
         "tts": [
-          "mặt mỉm cười với hai mắt híp lại"
+          "mặt cười híp mắt"
         ]
       },
       "😇": {
@@ -3268,6 +3409,7 @@
       "😍": {
         "default": [
           "cười",
+          "lãng mạn",
           "mắt",
           "mặt",
           "mặt cười mắt hình trái tim",
@@ -3439,6 +3581,7 @@
       "🤭": {
         "default": [
           "mặt với tay che miệng",
+          "tay che miệng cười",
           "xin lỗi"
         ],
         "tts": [
@@ -3608,10 +3751,13 @@
       },
       "🙄": {
         "default": [
+          "cái gì vậy",
           "đu đưa",
+          "không quan tâm",
           "mắt",
           "mặt",
-          "mặt có mắt đu đưa"
+          "mặt có mắt đu đưa",
+          "sao cũng được"
         ],
         "tts": [
           "mặt có mắt đu đưa"
@@ -3630,9 +3776,13 @@
       "😮‍💨": {
         "default": [
           "huýt sáo",
+          "kiệt sức",
           "mặt thở ra",
+          "mệt mỏi",
           "rên rỉ",
           "thì thầm",
+          "thở dài",
+          "thở hắt ra",
           "thở hổn hển",
           "thở ra"
         ],
@@ -3653,14 +3803,39 @@
       },
       "🫨": {
         "default": [
+          "choáng",
           "động đất",
+          "hốt hoảng",
           "lắc",
           "mặt",
+          "ngạc nhiên",
           "rung",
-          "sốc"
+          "sốc",
+          "sửng sốt",
+          "wow"
         ],
         "tts": [
           "mặt lắc"
+        ]
+      },
+      "🙂‍↔": {
+        "default": [
+          "không",
+          "lắc",
+          "lắc đầu"
+        ],
+        "tts": [
+          "lắc đầu"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "có",
+          "gật",
+          "gật đầu"
+        ],
+        "tts": [
+          "gật đầu"
         ]
       },
       "😌": {
@@ -3686,7 +3861,9 @@
       },
       "😪": {
         "default": [
+          "buồn",
           "buồn ngủ",
+          "khóc",
           "mặt",
           "mặt buồn ngủ"
         ],
@@ -3706,13 +3883,28 @@
       },
       "😴": {
         "default": [
+          "không quan tâm",
           "mặt",
           "mặt đang ngủ",
+          "mệt mỏi",
           "ngủ",
+          "ngủ ngoan",
+          "sao cũng được",
           "zzz"
         ],
         "tts": [
           "mặt đang ngủ"
+        ]
+      },
+      "🫩": {
+        "default": [
+          "buồn ngủ",
+          "kiệt sức",
+          "mặt có túi mắt",
+          "mệt mỏi"
+        ],
+        "tts": [
+          "mặt có túi mắt"
         ]
       },
       "😷": {
@@ -3775,6 +3967,7 @@
       },
       "🤧": {
         "default": [
+          "cúm",
           "hắt hơi",
           "mặt",
           "mặt hắt hơi",
@@ -3827,7 +4020,9 @@
         "default": [
           "chóng mặt",
           "mặt",
-          "mặt chóng mặt"
+          "mặt chóng mặt",
+          "mệt",
+          "ốm"
         ],
         "tts": [
           "mặt chóng mặt"
@@ -3835,7 +4030,9 @@
       },
       "😵‍💫": {
         "default": [
+          "bối rối",
           "chóng mặt",
+          "khó hiểu",
           "mặt có đôi mắt xoắn ốc",
           "rắc rối",
           "thôi miên",
@@ -3848,7 +4045,8 @@
       "🤯": {
         "default": [
           "bị sốc",
-          "đầu nổ tung"
+          "đầu nổ tung",
+          "nổ"
         ],
         "tts": [
           "đầu nổ tung"
@@ -3869,10 +4067,13 @@
       "🥳": {
         "default": [
           "buổi tiệc",
+          "hào hứng",
           "lễ kỷ niệm",
           "mặt tiệc tùng",
           "mũ",
-          "sừng"
+          "sinh nhật",
+          "sừng",
+          "tiệc tùng"
         ],
         "tts": [
           "mặt tiệc tùng"
@@ -3881,11 +4082,16 @@
       "🥸": {
         "default": [
           "ẩn danh",
+          "gián điệp",
           "kính",
+          "lông mày",
           "mặt",
           "mặt trá hình",
           "mũi",
-          "ngụy trang"
+          "người",
+          "ngụy trang",
+          "râu",
+          "ria mép"
         ],
         "tts": [
           "mặt trá hình"
@@ -3906,10 +4112,13 @@
       },
       "🤓": {
         "default": [
+          "bốn mắt",
+          "chuyên gia",
           "đam mê",
           "mặt",
           "mặt mọt sách",
-          "mọt sách"
+          "mọt sách",
+          "thông minh"
         ],
         "tts": [
           "mặt mọt sách"
@@ -3917,8 +4126,10 @@
       },
       "🧐": {
         "default": [
+          "giàu có",
           "mặt với kính một mắt",
-          "ngột ngạt"
+          "ngột ngạt",
+          "thượng lưu"
         ],
         "tts": [
           "mặt với kính một mắt"
@@ -3970,6 +4181,7 @@
         "default": [
           "cau mày",
           "mặt",
+          "mặt buồn",
           "mặt cau mày"
         ],
         "tts": [
@@ -4155,9 +4367,11 @@
       },
       "😣": {
         "default": [
+          "đau đầu",
           "kiên nhẫn",
           "mặt",
-          "mặt kiên nhẫn"
+          "mặt kiên nhẫn",
+          "tập trung"
         ],
         "tts": [
           "mặt kiên nhẫn"
@@ -4207,10 +4421,15 @@
       },
       "🥱": {
         "default": [
+          "buồn ngủ",
           "chán",
+          "không quan tâm",
           "mặt đang ngáp",
+          "mặt ngáp",
           "mệt mỏi",
-          "ngáp"
+          "ngáp",
+          "ngủ thôi",
+          "sao cũng được"
         ],
         "tts": [
           "mặt đang ngáp"
@@ -4220,8 +4439,10 @@
         "default": [
           "chiến thắng",
           "hân hoan",
+          "không vui",
           "mặt",
-          "mặt có mũi đang phì hơi"
+          "mặt có mũi đang phì hơi",
+          "tức giận"
         ],
         "tts": [
           "mặt có mũi đang phì hơi"
@@ -4255,7 +4476,9 @@
       "🤬": {
         "default": [
           "chửi rủa",
-          "mặt có các ký hiệu trên miệng"
+          "chửi thề",
+          "mặt có các ký hiệu trên miệng",
+          "tức giận"
         ],
         "tts": [
           "mặt có các ký hiệu trên miệng"
@@ -4307,6 +4530,7 @@
           "đầu lâu xương chéo",
           "mặt",
           "quái vật",
+          "sọ",
           "xương chéo"
         ],
         "tts": [
@@ -4645,6 +4869,8 @@
       "💕": {
         "default": [
           "hai trái tim",
+          "hẹn hò",
+          "hôn",
           "yêu"
         ],
         "tts": [
@@ -4674,6 +4900,8 @@
       "💔": {
         "default": [
           "bị vỡ",
+          "buồn",
+          "cô đơn",
           "trái tim tan vỡ",
           "vỡ"
         ],
@@ -4710,6 +4938,8 @@
       },
       "❤": {
         "default": [
+          "cảm xúc",
+          "tình yêu",
           "trái tim",
           "trái tim màu đỏ"
         ],
@@ -4741,8 +4971,11 @@
       },
       "💛": {
         "default": [
+          "cảm xúc",
           "màu vàng",
-          "trái tim màu vàng"
+          "trái tim",
+          "trái tim màu vàng",
+          "yêu"
         ],
         "tts": [
           "trái tim màu vàng"
@@ -4768,11 +5001,17 @@
       },
       "🩵": {
         "default": [
+          "143",
+          "cảm xúc",
+          "đặc biệt",
+          "dễ thương",
+          "thích",
           "trái tim",
           "trái tim màu xanh dương nhạt",
           "xanh dương nhạt",
           "xanh lơ",
-          "xanh mòng két"
+          "xanh mòng két",
+          "yêu"
         ],
         "tts": [
           "trái tim màu xanh dương nhạt"
@@ -4810,11 +5049,15 @@
       },
       "🩶": {
         "default": [
+          "143",
           "bạc",
+          "cảm xúc",
+          "đặc biệt",
           "trái tim",
           "trái tim màu xám",
           "xám",
-          "xám đen"
+          "xám đen",
+          "yêu"
         ],
         "tts": [
           "trái tim màu xám"
@@ -4864,8 +5107,10 @@
       },
       "💥": {
         "default": [
+          "bom",
           "bùng nổ",
           "hài hước",
+          "nổ",
           "va chạm"
         ],
         "tts": [
@@ -4886,8 +5131,11 @@
         "default": [
           "bắn tung tóe",
           "giọt mồ hôi",
+          "giọt nước",
           "hài hước",
-          "mồ hôi"
+          "mồ hôi",
+          "nước",
+          "tập thể dục"
         ],
         "tts": [
           "giọt mồ hôi"
@@ -4974,7 +5222,10 @@
       "💤": {
         "default": [
           "buồn ngủ",
+          "đang ngủ",
           "hài hước",
+          "mệt",
+          "ngất rồi",
           "ngủ"
         ],
         "tts": [
@@ -4983,9 +5234,14 @@
       },
       "👋": {
         "default": [
+          "chào",
+          "chào nhé",
+          "có ai ở đó không?",
           "đang vẫy",
           "tay",
-          "vẫy"
+          "vẫy",
+          "vẫy tay nè",
+          "xin chào"
         ],
         "tts": [
           "vẫy tay"
@@ -5003,6 +5259,7 @@
       },
       "🖐": {
         "default": [
+          "dừng",
           "ngón tay",
           "tay",
           "tay xòe ngón giơ lên",
@@ -5015,6 +5272,7 @@
       "✋": {
         "default": [
           "bàn tay giơ lên",
+          "dừng lại",
           "tay"
         ],
         "tts": [
@@ -5081,12 +5339,16 @@
       },
       "🫷": {
         "default": [
+          "bàn tay",
           "bàn tay đẩy sang trái",
+          "chặn",
           "chờ",
           "đập tay",
           "đẩy",
+          "dừng",
           "dừng lại",
           "sang trái",
+          "thôi",
           "từ chối"
         ],
         "tts": [
@@ -5095,12 +5357,16 @@
       },
       "🫸": {
         "default": [
+          "bàn tay",
           "bàn tay đẩy sang phải",
+          "chặn",
           "chờ",
           "đập tay",
           "đẩy",
+          "dừng",
           "dừng lại",
           "sang phải",
+          "thôi",
           "từ chối"
         ],
         "tts": [
@@ -5110,8 +5376,12 @@
       "👌": {
         "default": [
           "bàn tay làm dấu OK",
+          "chắc chắn rồi",
+          "được",
           "ok",
-          "tay"
+          "OK nha",
+          "tay",
+          "tuyệt"
         ],
         "tts": [
           "bàn tay làm dấu OK"
@@ -5119,12 +5389,16 @@
       },
       "🤌": {
         "default": [
+          "cái gì",
           "cử chỉ tay",
           "khum lại",
+          "kiên nhẫn",
           "mỉa mai",
           "ngón tay",
           "ngón tay khum lại",
-          "thẩm vấn"
+          "tay",
+          "thẩm vấn",
+          "thư giãn"
         ],
         "tts": [
           "ngón tay khum lại"
@@ -5132,6 +5406,7 @@
       },
       "🤏": {
         "default": [
+          "ít",
           "số lượng nhỏ",
           "tay chụm"
         ],
@@ -5142,6 +5417,7 @@
       "✌": {
         "default": [
           "chiến thắng",
+          "chữ v",
           "tay",
           "tay chiến thắng",
           "v"
@@ -5178,6 +5454,7 @@
       "🤟": {
         "default": [
           "anh yêu em",
+          "ba ngón tay",
           "cử chỉ yêu nhau",
           "tay"
         ],
@@ -5308,6 +5585,7 @@
         "default": [
           "-1",
           "dấu ra hiệu từ chối",
+          "không thích",
           "ngón tay cái",
           "tay",
           "xuống"
@@ -5319,6 +5597,7 @@
       "✊": {
         "default": [
           "cú đấm",
+          "đoàn kết",
           "nắm đấm giơ lên",
           "nắm tay",
           "siết chặt",
@@ -5404,6 +5683,7 @@
       },
       "🤲": {
         "default": [
+          "cầu nguyện",
           "hai bàn tay chạm vào nhau",
           "lời cầu nguyện"
         ],
@@ -5508,7 +5788,8 @@
           "chân",
           "Chân",
           "chân tay",
-          "đá"
+          "đá",
+          "gập chân"
         ],
         "tts": [
           "Chân"
@@ -5518,7 +5799,8 @@
         "default": [
           "bàn chân",
           "đá",
-          "dậm mạnh"
+          "dậm mạnh",
+          "mắt cá chân"
         ],
         "tts": [
           "bàn chân"
@@ -5526,7 +5808,9 @@
       },
       "👂": {
         "default": [
+          "âm thanh",
           "cơ thể",
+          "nghe",
           "tai"
         ],
         "tts": [
@@ -5566,8 +5850,12 @@
         "default": [
           "cơ quan",
           "cơ quan tim",
+          "giải phẫu",
           "khoa tim mạch",
+          "màu đỏ",
           "nhịp tim",
+          "trái tim",
+          "trái tim thật",
           "trung tâm"
         ],
         "tts": [
@@ -5581,6 +5869,7 @@
           "hô hấp",
           "hơi thở",
           "phổi",
+          "thở",
           "thở ra"
         ],
         "tts": [
@@ -5590,7 +5879,9 @@
       "🦷": {
         "default": [
           "nha sĩ",
-          "răng"
+          "răng",
+          "trắng",
+          "trắng ngọc"
         ],
         "tts": [
           "răng"
@@ -5599,7 +5890,9 @@
       "🦴": {
         "default": [
           "bộ xương",
-          "xương"
+          "chó",
+          "xương",
+          "xương đòn"
         ],
         "tts": [
           "xương"
@@ -5618,7 +5911,8 @@
       "👁": {
         "default": [
           "cơ thể",
-          "mắt"
+          "mắt",
+          "một mắt"
         ],
         "tts": [
           "mắt"
@@ -5635,6 +5929,9 @@
       },
       "👄": {
         "default": [
+          "cơ thể",
+          "hôn",
+          "làm đẹp",
           "miệng",
           "môi"
         ],
@@ -5659,7 +5956,8 @@
       "👶": {
         "default": [
           "trẻ con",
-          "trẻ em"
+          "trẻ em",
+          "trẻ sơ sinh"
         ],
         "tts": [
           "trẻ con"
@@ -5687,6 +5985,7 @@
       },
       "👧": {
         "default": [
+          "bím tóc",
           "cô gái",
           "con gái",
           "cung hoàng đạo",
@@ -5711,8 +6010,8 @@
       "👱": {
         "default": [
           "người tóc vàng hoe",
-          "người: tóc vàng hoe",
-          "tóc vàng hoe"
+          "tóc",
+          "vàng hoe"
         ],
         "tts": [
           "người tóc vàng hoe"
@@ -5730,8 +6029,7 @@
       "🧔": {
         "default": [
           "người",
-          "người có râu",
-          "người: râu",
+          "người đàn ông có râu",
           "râu"
         ],
         "tts": [
@@ -5804,6 +6102,7 @@
         "default": [
           "cụ ông",
           "đàn ông",
+          "đầu hói",
           "già",
           "người lớn"
         ],
@@ -5824,9 +6123,14 @@
       },
       "🙍": {
         "default": [
+          "bực tức",
+          "buồn bã",
           "cau mày",
           "cử chỉ",
-          "người đang cau mày"
+          "khó chịu",
+          "không vui",
+          "người đang cau mày",
+          "thất vọng"
         ],
         "tts": [
           "người đang cau mày"
@@ -5857,8 +6161,12 @@
       "🙎": {
         "default": [
           "bĩu môi",
+          "cáu kỉnh",
           "cử chỉ",
-          "người đang bĩu môi"
+          "hờn dỗi",
+          "người đang bĩu môi",
+          "nhăn nhó",
+          "thất vọng"
         ],
         "tts": [
           "người đang bĩu môi"
@@ -5890,7 +6198,9 @@
         "default": [
           "cấm",
           "cử chỉ",
+          "không bao giờ",
           "không cho phép",
+          "không đời nào",
           "người ra hiệu phản đối",
           "tay"
         ],
@@ -5927,9 +6237,11 @@
       "🙆": {
         "default": [
           "cử chỉ",
+          "đồng ý",
           "người ra hiệu đồng ý",
           "ok",
-          "tay"
+          "tay",
+          "thể dục"
         ],
         "tts": [
           "người ra hiệu đồng ý"
@@ -5963,11 +6275,15 @@
       "💁": {
         "default": [
           "giúp",
+          "hất tóc",
           "mách nước",
+          "mỉa mai",
+          "nghiêm túc",
           "người ra hiệu trợ giúp",
           "tay",
           "thông tin",
-          "tươi tắn"
+          "tươi tắn",
+          "vuốt tóc"
         ],
         "tts": [
           "người ra hiệu trợ giúp"
@@ -5997,11 +6313,16 @@
       },
       "🙋": {
         "default": [
+          "chọn tôi đi",
           "cử chỉ",
+          "giơ tay",
           "nâng lên",
           "người giơ cao tay",
           "người vui vẻ giơ cao tay",
+          "ở bên này",
           "tay",
+          "tôi có thể giúp",
+          "tôi muốn hỏi",
           "vui vẻ"
         ],
         "tts": [
@@ -6068,11 +6389,15 @@
       },
       "🙇": {
         "default": [
+          "cầu xin",
           "cử chỉ",
           "cúi người",
+          "hối tiếc",
           "lấy làm tiếc",
           "lời xin lỗi",
-          "người đang cúi đầu"
+          "người đang cúi đầu",
+          "tha thứ",
+          "tội nghiệp"
         ],
         "tts": [
           "người đang cúi đầu"
@@ -6107,9 +6432,13 @@
       "🤦": {
         "default": [
           "hoài nghi",
+          "không tin nổi",
+          "lại nữa rồi",
           "lòng bàn tay",
           "mặt",
+          "người dùng tay che mặt",
           "người lấy tay che mặt",
+          "tay che mặt",
           "tức giận"
         ],
         "tts": [
@@ -6119,10 +6448,14 @@
       "🤦‍♂": {
         "default": [
           "hoài nghi",
+          "không tin nổi",
+          "lắc đầu",
+          "lại nữa rồi",
           "nam",
           "người đàn ông lấy tay che mặt",
           "người lấy tay che mặt",
           "tay che mặt",
+          "thở dài thườn thượt",
           "tức giận"
         ],
         "tts": [
@@ -6132,10 +6465,14 @@
       "🤦‍♀": {
         "default": [
           "hoài nghi",
+          "không tin nổi",
+          "lắc đầu",
+          "lại nữa rồi",
           "người lấy tay che mặt",
           "người phụ nữ lấy tay che mặt",
           "nữ",
           "tay che mặt",
+          "thở dài thườn thượt",
           "tức giận"
         ],
         "tts": [
@@ -6144,10 +6481,14 @@
       },
       "🤷": {
         "default": [
+          "ai mà biết được",
+          "có thể",
           "hững hờ",
+          "không biết",
           "nghi ngờ",
           "người nhún vai",
           "nhún vai",
+          "sao cũng được",
           "thờ ơ"
         ],
         "tts": [
@@ -6156,11 +6497,15 @@
       },
       "🤷‍♂": {
         "default": [
+          "chắc vậy",
+          "có thể",
+          "không biết",
           "nam",
           "nghi ngờ",
           "người đàn ông",
           "người đàn ông nhún vai",
           "nhún vai",
+          "sao cũng được",
           "sự thờ ơ",
           "vô minh"
         ],
@@ -6170,11 +6515,15 @@
       },
       "🤷‍♀": {
         "default": [
+          "chắc vậy",
+          "có thể",
+          "không biết",
           "nghi ngờ",
           "người phụ nữ nhún vai",
           "nhún vai",
           "nữ",
           "phụ nữ",
+          "sao cũng được",
           "sự thờ ơ",
           "vô minh"
         ],
@@ -6689,6 +7038,7 @@
       },
       "👨‍🚀": {
         "default": [
+          "không gian",
           "nam",
           "phi hành gia",
           "phi hành gia nam",
@@ -6700,7 +7050,9 @@
       },
       "👩‍🚀": {
         "default": [
+          "không gian",
           "nữ",
+          "nữ phi hành gia",
           "phi hành gia",
           "phi hành gia nữ",
           "tên lửa"
@@ -6742,8 +7094,13 @@
       },
       "👮": {
         "default": [
+          "bắt giữ",
+          "bị tóm",
           "cảnh sát",
+          "cảnh sát nằm vùng",
           "công an",
+          "dừng xe",
+          "luật",
           "sĩ quan"
         ],
         "tts": [
@@ -6764,10 +7121,16 @@
       },
       "👮‍♀": {
         "default": [
+          "bắt giữ",
+          "bị tóm",
           "cảnh sát",
+          "cảnh sát nằm vùng",
           "cảnh sát nữ",
           "công an",
+          "luật pháp",
           "nữ",
+          "nữ cảnh sát",
+          "ra tòa",
           "sĩ quan"
         ],
         "tts": [
@@ -6810,7 +7173,10 @@
       },
       "💂": {
         "default": [
-          "bảo vệ"
+          "bảo vệ",
+          "cung điện buckingham",
+          "london",
+          "mũ bảo hiểm"
         ],
         "tts": [
           "bảo vệ"
@@ -6830,6 +7196,8 @@
         "default": [
           "bảo vệ",
           "bảo vệ nữ",
+          "cung điện Buckingham",
+          "London",
           "nữ"
         ],
         "tts": [
@@ -6839,7 +7207,11 @@
       "🥷": {
         "default": [
           "ẩn",
+          "chiến tranh",
           "đấu sĩ",
+          "kẻ sát nhân",
+          "kỹ năng",
+          "người",
           "ninja",
           "tàng hình"
         ],
@@ -6852,6 +7224,9 @@
           "công nhân",
           "công nhân xây dựng",
           "mũ",
+          "mũ bảo hiểm",
+          "sửa chữa",
+          "tu sửa",
           "xây dựng"
         ],
         "tts": [
@@ -6874,6 +7249,7 @@
           "công nhân",
           "công nhân xây dựng nữ",
           "nữ",
+          "nữ công nhân xây dựng",
           "xây dựng"
         ],
         "tts": [
@@ -6894,7 +7270,12 @@
       },
       "🤴": {
         "default": [
-          "hoàng tử"
+          "cổ tích",
+          "giả tưởng",
+          "hoàng gia",
+          "hoàng tử",
+          "vua",
+          "vương miện"
         ],
         "tts": [
           "hoàng tử"
@@ -6902,9 +7283,12 @@
       },
       "👸": {
         "default": [
+          "cổ tích",
           "công chúa",
-          "truyện cổ tích",
-          "tưởng tượng"
+          "giả tưởng",
+          "hoàng gia",
+          "hoàng hậu",
+          "vương miện"
         ],
         "tts": [
           "công chúa"
@@ -6912,6 +7296,7 @@
       },
       "👳": {
         "default": [
+          "khăn turban",
           "khăn xếp",
           "người đội khăn xếp"
         ],
@@ -6986,19 +7371,21 @@
       },
       "🤵‍♀": {
         "default": [
+          "bộ vest",
           "người phụ nữ",
-          "người phụ nữ mặc tuxedo",
-          "tuxedo"
+          "người phụ nữ mặc bộ vest"
         ],
         "tts": [
-          "người phụ nữ mặc tuxedo"
+          "người phụ nữ mặc bộ vest"
         ]
       },
       "👰": {
         "default": [
           "cô dâu",
+          "cô dâu với khăn voan",
           "cưới",
           "khăn voan",
+          "mạng che mặt",
           "người",
           "người đội khăn voan"
         ],
@@ -7030,7 +7417,8 @@
         "default": [
           "mang thai",
           "người phụ nữ có thai",
-          "phụ nữ"
+          "phụ nữ",
+          "phụ nữ mang thai"
         ],
         "tts": [
           "người phụ nữ có thai"
@@ -7065,6 +7453,7 @@
           "cho bú",
           "cho con bú",
           "em bé",
+          "nuôi con bằng sữa mẹ",
           "vú"
         ],
         "tts": [
@@ -7075,9 +7464,15 @@
         "default": [
           "cho bú",
           "cho con bú",
+          "đàn ông",
           "em bé",
+          "mẹ",
+          "người",
           "người phụ nữ cho con bú",
-          "phụ nữ"
+          "phụ nữ",
+          "tình yêu",
+          "trẻ em",
+          "trẻ sơ sinh"
         ],
         "tts": [
           "người phụ nữ cho con bú"
@@ -7085,11 +7480,16 @@
       },
       "👨‍🍼": {
         "default": [
+          "bố",
           "cho bú",
           "cho con bú",
+          "đàn ông",
           "em bé",
+          "nam",
           "người",
-          "người cho con bú"
+          "người cho con bú",
+          "người đàn ông cho con bú",
+          "tình yêu"
         ],
         "tts": [
           "người cho con bú"
@@ -7097,12 +7497,17 @@
       },
       "🧑‍🍼": {
         "default": [
+          "bố",
           "cho bú",
           "cho con bú",
+          "đàn ông",
           "em bé",
+          "mẹ",
           "người",
           "người cho con bú",
-          "người cho em bé bú"
+          "người cho em bé bú",
+          "phụ nữ",
+          "trẻ sơ sinh"
         ],
         "tts": [
           "người cho em bé bú"
@@ -7149,7 +7554,12 @@
       "🧑‍🎄": {
         "default": [
           "bà già Noel",
-          "Noel, giáng sinh"
+          "chúc mừng giáng sinh",
+          "giáng sinh",
+          "mũ",
+          "người",
+          "Noel",
+          "ông già noel"
         ],
         "tts": [
           "bà già Noel"
@@ -7158,6 +7568,8 @@
       "🦸": {
         "default": [
           "anh hùng",
+          "người",
+          "người dơi",
           "nữ anh hùng",
           "siêu anh hùng",
           "siêu năng lực",
@@ -7195,10 +7607,13 @@
       "🦹": {
         "default": [
           "ác",
+          "độc ác",
+          "người",
           "nhân vật phản diện",
           "nhân vật siêu phản diện",
           "siêu năng lực",
-          "tội phạm"
+          "tội phạm",
+          "xấu xa"
         ],
         "tts": [
           "nhân vật siêu phản diện"
@@ -7234,9 +7649,14 @@
         "default": [
           "bà cốt",
           "đạo sĩ",
+          "đồng cốt",
+          "kỳ ảo",
           "pháp sư",
+          "phép thuật",
           "phù thủy",
-          "thầy phù thuỷ"
+          "thần chú",
+          "thầy phù thuỷ",
+          "triệu hồi"
         ],
         "tts": [
           "pháp sư"
@@ -7264,8 +7684,12 @@
       },
       "🧚": {
         "default": [
+          "cánh tiên",
+          "kỳ ảo",
           "Oberon",
           "Puck",
+          "thần thoại",
+          "thần tiên",
           "tiên",
           "Titania"
         ],
@@ -7294,8 +7718,15 @@
       },
       "🧛": {
         "default": [
+          "bất tử",
+          "đáng sợ",
           "Dracula",
+          "halloween",
+          "hóa trang",
           "ma cà rồng",
+          "máu",
+          "răng nanh",
+          "siêu nhiên",
           "xác sống"
         ],
         "tts": [
@@ -7325,8 +7756,12 @@
         "default": [
           "chàng tiên cá",
           "công chúa cá",
+          "đinh ba",
           "nàng tiên cá",
-          "người cá"
+          "người cá",
+          "sinh vật biển",
+          "thần thoại",
+          "truyện cổ tích"
         ],
         "tts": [
           "người cá"
@@ -7352,8 +7787,13 @@
       },
       "🧝": {
         "default": [
+          "cổ tích",
+          "kỳ ảo",
           "phép thuật",
-          "yêu ma"
+          "thần bí",
+          "tộc tiên",
+          "yêu ma",
+          "yêu tinh"
         ],
         "tts": [
           "yêu ma"
@@ -7379,8 +7819,14 @@
       },
       "🧞": {
         "default": [
+          "chà đèn thần",
+          "đèn thần",
+          "điều ước",
+          "huyền bí",
+          "kỳ ảo",
           "ma thần",
-          "thần"
+          "thần",
+          "thần đèn"
         ],
         "tts": [
           "thần"
@@ -7406,8 +7852,12 @@
       },
       "🧟": {
         "default": [
+          "halloween",
+          "kinh dị",
+          "tận thế",
           "xác chết sống lại",
-          "xác sống"
+          "xác sống",
+          "zombie"
         ],
         "tts": [
           "xác chết sống lại"
@@ -7446,9 +7896,13 @@
       },
       "💆": {
         "default": [
+          "đau đầu",
           "mặt",
+          "mát xa",
           "người được xoa bóp mặt",
           "thẩm mĩ viện",
+          "thư giãn",
+          "trị liệu",
           "xoa bóp"
         ],
         "tts": [
@@ -7482,9 +7936,14 @@
       "💇": {
         "default": [
           "cắt tóc",
+          "làm đẹp",
           "người được cắt tóc",
+          "phong cách",
+          "salon",
           "thợ cắt tóc",
+          "tỉa tóc",
           "tiệm",
+          "tiệm cắt tóc",
           "vẻ đẹp"
         ],
         "tts": [
@@ -7513,10 +7972,14 @@
       },
       "🚶": {
         "default": [
+          "dáng đi",
           "đang đi bộ",
           "đi bộ",
+          "đi bộ leo núi",
           "đi lang thang",
-          "người đi bộ"
+          "đi thong dong",
+          "người đi bộ",
+          "tản bộ"
         ],
         "tts": [
           "người đi bộ"
@@ -7709,7 +8172,11 @@
         "default": [
           "chạy bộ",
           "chạy đua maratông",
-          "người chạy"
+          "chạy nhanh",
+          "đang đến",
+          "người chạy",
+          "tốc độ",
+          "vội vã"
         ],
         "tts": [
           "người chạy"
@@ -7743,6 +8210,7 @@
         "default": [
           "khiêu vũ",
           "người phụ nữ đang khiêu vũ",
+          "nhảy",
           "phụ nữ"
         ],
         "tts": [
@@ -7772,7 +8240,13 @@
       },
       "👯": {
         "default": [
+          "bản sao",
+          "bạn tâm giao",
+          "bạn thân",
+          "bộ đôi",
           "những người đeo tai thỏ",
+          "phụ nữ đeo tai thỏ",
+          "sinh đôi",
           "tai thỏ",
           "tiệc tùng",
           "vũ công"
@@ -7807,9 +8281,14 @@
       },
       "🧖": {
         "default": [
+          "mát xa",
           "người ở trong phòng xông hơi",
+          "người phụ nữ trong phòng xông hơi",
           "nhà tắm hơi",
-          "phòng xông hơi"
+          "phòng xông hơi",
+          "sang chảnh",
+          "spa",
+          "thư giãn"
         ],
         "tts": [
           "người ở trong phòng xông hơi"
@@ -7837,8 +8316,13 @@
       },
       "🧗": {
         "default": [
+          "leo núi",
+          "leo trèo",
           "người đang leo núi",
-          "người leo trèo"
+          "người leo trèo",
+          "người phụ nữ leo núi",
+          "nhà leo núi",
+          "núi"
         ],
         "tts": [
           "người đang leo núi"
@@ -7908,9 +8392,15 @@
       },
       "🏌": {
         "default": [
+          "bóng golf",
+          "gạt bóng",
+          "golf",
           "gôn",
+          "người chơi golf",
           "người chơi gôn",
-          "quả bóng"
+          "PGA",
+          "quả bóng",
+          "sân tập gôn"
         ],
         "tts": [
           "người chơi gôn"
@@ -7938,8 +8428,13 @@
       },
       "🏄": {
         "default": [
+          "bãi biển",
+          "biển",
           "lướt sóng",
-          "người lướt sóng"
+          "người lướt sóng",
+          "sóng",
+          "thể thao",
+          "vận động viên lướt sóng"
         ],
         "tts": [
           "người lướt sóng"
@@ -7967,9 +8462,14 @@
       },
       "🚣": {
         "default": [
+          "bè",
+          "câu cá",
+          "hồ",
           "người chèo thuyền",
+          "sông",
           "thuyền",
-          "thuyền có mái chèo"
+          "thuyền có mái chèo",
+          "xuồng"
         ],
         "tts": [
           "người chèo thuyền"
@@ -7999,8 +8499,13 @@
       },
       "🏊": {
         "default": [
+          "ba môn phối hợp",
           "bơi",
-          "người bơi"
+          "bơi tự do",
+          "người bơi",
+          "người đàn ông bơi lội",
+          "thể thao",
+          "vận động viên bơi lội"
         ],
         "tts": [
           "người bơi"
@@ -8020,7 +8525,8 @@
         "default": [
           "bơi",
           "người phụ nữ đang bơi",
-          "phụ nữ"
+          "phụ nữ",
+          "thể thao"
         ],
         "tts": [
           "người phụ nữ đang bơi"
@@ -8028,8 +8534,14 @@
       },
       "⛹": {
         "default": [
+          "bóng rổ",
+          "cầu thủ bóng rổ",
+          "ném sọt rổ",
           "người chơi bóng",
-          "quả bóng"
+          "nhồi bóng",
+          "quả bóng",
+          "vận động viên",
+          "vô địch"
         ],
         "tts": [
           "người chơi bóng"
@@ -8057,9 +8569,16 @@
       },
       "🏋": {
         "default": [
+          "cử tạ",
+          "nâng tạ",
           "người cử tạ",
           "người nâng",
-          "trọng lượng"
+          "tập luyện",
+          "tập thể dục",
+          "thanh tạ",
+          "thể hình",
+          "trọng lượng",
+          "vận động viên cử tạ"
         ],
         "tts": [
           "người cử tạ"
@@ -8090,6 +8609,8 @@
           "đạp xe",
           "người đạp xe",
           "người đi xe đạp",
+          "thể thao",
+          "vận động viên đua xe đạp",
           "xe đạp"
         ],
         "tts": [
@@ -8126,6 +8647,9 @@
           "người đi xe đạp",
           "người đi xe đạp leo núi",
           "núi",
+          "thể thao",
+          "vận động viên",
+          "vận động viên đua xe đạp",
           "xe đạp"
         ],
         "tts": [
@@ -8160,9 +8684,13 @@
       },
       "🤸": {
         "default": [
+          "hào hứng",
+          "lăng nghiêng",
           "người nhào lộn",
           "nhào lộn",
-          "thể dục"
+          "thể dục",
+          "thể dục dụng cụ",
+          "vui vẻ"
         ],
         "tts": [
           "người nhào lộn"
@@ -8170,10 +8698,14 @@
       },
       "🤸‍♂": {
         "default": [
+          "hào hứng",
+          "lăng nghiêng",
           "người đàn ông",
           "người đàn ông nhào lộn",
           "nhào lộn",
-          "thể dục"
+          "thể dục",
+          "thể dục dụng cụ",
+          "vui vẻ"
         ],
         "tts": [
           "người đàn ông nhào lộn"
@@ -8181,10 +8713,14 @@
       },
       "🤸‍♀": {
         "default": [
+          "hào hứng",
+          "lăng nghiêng",
           "người phụ nữ nhào lộn",
           "nhào lộn",
           "phụ nữ",
-          "thể dục"
+          "thể dục",
+          "thể dục dụng cụ",
+          "vui vẻ"
         ],
         "tts": [
           "người phụ nữ nhào lộn"
@@ -8192,8 +8728,11 @@
       },
       "🤼": {
         "default": [
+          "đấu vật",
           "đô vật",
+          "giải đấu vật",
           "người chơi vật",
+          "trên võ đài",
           "vật"
         ],
         "tts": [
@@ -8203,7 +8742,11 @@
       "🤼‍♂": {
         "default": [
           "đàn ông",
+          "đấu vật",
+          "đô vật",
+          "nam đô vật",
           "những người đàn ông chơi vật",
+          "trên võ đài",
           "vật"
         ],
         "tts": [
@@ -8212,8 +8755,12 @@
       },
       "🤼‍♀": {
         "default": [
+          "đấu vật",
+          "đô vật",
           "những người phụ nữ chơi vật",
+          "nữ đô vật",
           "phụ nữ",
+          "trên võ đài",
           "vật"
         ],
         "tts": [
@@ -8222,9 +8769,12 @@
       },
       "🤽": {
         "default": [
+          "bơi lội",
           "bóng",
+          "người chơi bóng dưới nước",
           "người chơi bóng nước",
-          "nước"
+          "nước",
+          "thể thao dưới nước"
         ],
         "tts": [
           "người chơi bóng nước"
@@ -8232,8 +8782,10 @@
       },
       "🤽‍♂": {
         "default": [
+          "bơi",
           "đàn ông",
           "người đàn ông chơi bóng nước",
+          "thể thao dưới nước",
           "thủy cầu"
         ],
         "tts": [
@@ -8242,8 +8794,10 @@
       },
       "🤽‍♀": {
         "default": [
+          "bơi",
           "người phụ nữ chơi bóng nước",
           "phụ nữ",
+          "thể thao dưới nước",
           "thủy cầu"
         ],
         "tts": [
@@ -8252,9 +8806,16 @@
       },
       "🤾": {
         "default": [
+          "bắt bóng",
           "bóng",
           "bóng ném",
-          "người chơi bóng ném"
+          "lốp bóng",
+          "ném bóng",
+          "người chơi bóng ném",
+          "phát bóng",
+          "thể thao",
+          "vận động viên",
+          "vận động viên bóng ném"
         ],
         "tts": [
           "người chơi bóng ném"
@@ -8272,9 +8833,15 @@
       },
       "🤾‍♀": {
         "default": [
+          "bắt bóng",
           "bóng ném",
+          "lốp bóng",
+          "ném bóng",
           "người phụ nữ chơi bóng ném",
-          "phụ nữ"
+          "phát bóng",
+          "phụ nữ",
+          "thể thao",
+          "vận động viên"
         ],
         "tts": [
           "người phụ nữ chơi bóng ném"
@@ -8283,8 +8850,11 @@
       "🤹": {
         "default": [
           "cân bằng",
+          "đa năng",
           "đa nhiệm",
+          "giữ thăng bằng",
           "kỹ năng",
+          "người đàn ông tung hứng",
           "người tung hứng",
           "tung hứng"
         ],
@@ -8294,8 +8864,10 @@
       },
       "🤹‍♂": {
         "default": [
+          "đa năng",
           "đa nhiệm",
           "đàn ông",
+          "giữ thăng bằng",
           "người đàn ông tung hứng",
           "tung hứng"
         ],
@@ -8316,9 +8888,15 @@
       },
       "🧘": {
         "default": [
+          "an lạc",
+          "bắt chéo chân",
           "người ngồi kiết già",
+          "người ở tư thế hoa sen",
+          "thanh bình",
           "thiền",
-          "yoga"
+          "thư giãn",
+          "yoga",
+          "yogi"
         ],
         "tts": [
           "người ngồi kiết già"
@@ -8356,9 +8934,13 @@
       },
       "🛌": {
         "default": [
+          "chợp mắt",
           "khách sạn",
+          "mệt mỏi",
           "ngủ",
-          "người trên giường"
+          "ngủ ngoan nhé",
+          "người trên giường",
+          "say giấc"
         ],
         "tts": [
           "người trên giường"
@@ -8380,7 +8962,9 @@
       },
       "👭": {
         "default": [
+          "bạn tốt nhất",
           "cặp đôi",
+          "cặp đôi đồng tính nữ",
           "hai người phụ nữ nắm tay",
           "phụ nữ",
           "tay"
@@ -8394,6 +8978,7 @@
           "cầm",
           "cặp đôi",
           "đàn ông",
+          "nắm tay",
           "người đàn ông và phụ nữ nắm tay",
           "phụ nữ",
           "tay"
@@ -8405,6 +8990,7 @@
       "👬": {
         "default": [
           "cặp đôi",
+          "cặp đôi đồng tính nam",
           "cặp song sinh",
           "hai người đàn ông nắm tay",
           "hai người đàn ông nắm tay nhau",
@@ -8419,7 +9005,9 @@
       "💏": {
         "default": [
           "cặp đôi",
-          "nụ hôn"
+          "hẹn hò",
+          "nụ hôn",
+          "yêu"
         ],
         "tts": [
           "nụ hôn"
@@ -8433,14 +9021,6 @@
         ],
         "tts": [
           "cặp đôi với trái tim"
-        ]
-      },
-      "👪": {
-        "default": [
-          "gia đình"
-        ],
-        "tts": [
-          "gia đình"
         ]
       },
       "🗣": {
@@ -8482,21 +9062,86 @@
           "hai người ôm nhau",
           "ôm",
           "tạm biệt",
+          "tình bạn",
+          "tình yêu",
           "xin chào"
         ],
         "tts": [
           "hai người ôm nhau"
         ]
       },
+      "👪": {
+        "default": [
+          "gia đình",
+          "trẻ em"
+        ],
+        "tts": [
+          "gia đình"
+        ]
+      },
+      "🧑‍🧑‍🧒": {
+        "default": [
+          "gia đình: người lớn",
+          "gia đình: người lớn, người lớn, trẻ em",
+          "người lớn",
+          "trẻ em"
+        ],
+        "tts": [
+          "gia đình: người lớn, người lớn, trẻ em"
+        ]
+      },
+      "🧑‍🧑‍🧒‍🧒": {
+        "default": [
+          "gia đình: người lớn",
+          "gia đình: người lớn, người lớn, trẻ em, trẻ em",
+          "người lớn",
+          "trẻ em"
+        ],
+        "tts": [
+          "gia đình: người lớn, người lớn, trẻ em, trẻ em"
+        ]
+      },
+      "🧑‍🧒": {
+        "default": [
+          "gia đình: người lớn",
+          "gia đình: người lớn, trẻ em",
+          "trẻ em"
+        ],
+        "tts": [
+          "gia đình: người lớn, trẻ em"
+        ]
+      },
+      "🧑‍🧒‍🧒": {
+        "default": [
+          "gia đình: người lớn",
+          "gia đình: người lớn, trẻ em, trẻ em",
+          "trẻ em"
+        ],
+        "tts": [
+          "gia đình: người lớn, trẻ em, trẻ em"
+        ]
+      },
       "👣": {
         "default": [
           "các dấu chân",
+          "chân trần",
           "dấu chân",
           "in dấu",
           "quần áo"
         ],
         "tts": [
           "dấu chân"
+        ]
+      },
+      "🫆": {
+        "default": [
+          "danh tính",
+          "dấu vân tay",
+          "pháp y",
+          "sự an toàn"
+        ],
+        "tts": [
+          "dấu vân tay"
         ]
       },
       "🦰": {
@@ -8554,6 +9199,7 @@
       },
       "🐒": {
         "default": [
+          "chuối",
           "con khỉ",
           "khỉ"
         ],
@@ -8563,6 +9209,7 @@
       },
       "🦍": {
         "default": [
+          "động vật",
           "khỉ đột"
         ],
         "tts": [
@@ -8571,6 +9218,7 @@
       },
       "🦧": {
         "default": [
+          "động vật",
           "đười ươi",
           "vượn người"
         ],
@@ -8581,6 +9229,7 @@
       "🐶": {
         "default": [
           "cún",
+          "động vật",
           "mặt",
           "thú cưng"
         ],
@@ -8626,7 +9275,8 @@
       "🐩": {
         "default": [
           "chó xù",
-          "cún"
+          "cún",
+          "động vật"
         ],
         "tts": [
           "chó xù"
@@ -8645,14 +9295,16 @@
       "🦊": {
         "default": [
           "cáo",
+          "động vật",
           "mặt"
         ],
         "tts": [
-          "mặt cáo"
+          "cáo"
         ]
       },
       "🦝": {
         "default": [
+          "động vật",
           "gấu trúc",
           "tinh nghịch",
           "tò mò"
@@ -8663,6 +9315,7 @@
       },
       "🐱": {
         "default": [
+          "động vật",
           "mặt",
           "mèo",
           "thú cưng"
@@ -8673,6 +9326,7 @@
       },
       "🐈": {
         "default": [
+          "động vật",
           "mèo",
           "thú cưng"
         ],
@@ -8683,6 +9337,8 @@
       "🐈‍⬛": {
         "default": [
           "đen",
+          "động vật",
+          "meo",
           "mèo",
           "vận đen"
         ],
@@ -8704,6 +9360,8 @@
       },
       "🐯": {
         "default": [
+          "dã thú",
+          "động vật",
           "hổ",
           "mặt"
         ],
@@ -8713,7 +9371,10 @@
       },
       "🐅": {
         "default": [
-          "hổ"
+          "dã thú",
+          "động vật",
+          "hổ",
+          "sở thú"
         ],
         "tts": [
           "hổ"
@@ -8722,7 +9383,9 @@
       "🐆": {
         "default": [
           "báo hoa mai",
-          "con báo"
+          "con báo",
+          "động vật",
+          "động vật ăn thịt"
         ],
         "tts": [
           "báo hoa mai"
@@ -8743,7 +9406,8 @@
           "động vật có vú",
           "gạc",
           "nai sừng tấm",
-          "nai sừng tấm Bắc Mỹ"
+          "nai sừng tấm Bắc Mỹ",
+          "nai sừng xám"
         ],
         "tts": [
           "nai sừng tấm Bắc Mỹ"
@@ -8779,7 +9443,7 @@
           "mặt kỳ lân"
         ],
         "tts": [
-          "mặt kỳ lân"
+          "kỳ lân"
         ]
       },
       "🦓": {
@@ -8793,6 +9457,7 @@
       },
       "🦌": {
         "default": [
+          "động vật",
           "hươu"
         ],
         "tts": [
@@ -8803,6 +9468,7 @@
         "default": [
           "bò rừng",
           "đàn",
+          "động vật",
           "trâu"
         ],
         "tts": [
@@ -8822,6 +9488,7 @@
       "🐂": {
         "default": [
           "bò đực",
+          "bò mộng",
           "cung hoàng đạo",
           "cung kim ngưu"
         ],
@@ -8831,8 +9498,10 @@
       },
       "🐃": {
         "default": [
+          "động vật",
           "nước",
-          "trâu nước"
+          "trâu nước",
+          "vườn thú"
         ],
         "tts": [
           "trâu nước"
@@ -8840,7 +9509,11 @@
       },
       "🐄": {
         "default": [
-          "bò cái"
+          "bò cái",
+          "bò sữa",
+          "động vật",
+          "sữa",
+          "trang trại"
         ],
         "tts": [
           "bò cái"
@@ -8848,8 +9521,12 @@
       },
       "🐷": {
         "default": [
+          "động vật",
           "lợn",
-          "mặt lợn"
+          "mặt lợn",
+          "thịt lợn",
+          "thịt xông khói",
+          "trang trại"
         ],
         "tts": [
           "mặt lợn"
@@ -8857,8 +9534,12 @@
       },
       "🐖": {
         "default": [
-          "heo nái",
-          "lợn"
+          "động vật",
+          "lợn",
+          "lợn nái",
+          "thịt lợn",
+          "thịt xông khói",
+          "trang trại"
         ],
         "tts": [
           "lợn"
@@ -8866,7 +9547,8 @@
       },
       "🐗": {
         "default": [
-          "con heo",
+          "động vật",
+          "lợn",
           "lợn rừng"
         ],
         "tts": [
@@ -8897,8 +9579,13 @@
       },
       "🐑": {
         "default": [
+          "bồng bềnh",
           "cái",
-          "cừu"
+          "cừu",
+          "cừu non",
+          "động vật",
+          "lông cừu",
+          "nông trại"
         ],
         "tts": [
           "cừu cái"
@@ -8908,7 +9595,10 @@
         "default": [
           "cung hoàng đạo",
           "cung ma kết",
-          "dê"
+          "dê",
+          "động vật",
+          "nông trại",
+          "sữa"
         ],
         "tts": [
           "dê"
@@ -8918,7 +9608,9 @@
         "default": [
           "cái bướu",
           "con lạc đà",
-          "lạc đà"
+          "động vật",
+          "lạc đà",
+          "sa mạc"
         ],
         "tts": [
           "lạc đà"
@@ -8928,8 +9620,10 @@
         "default": [
           "cái bướu",
           "con lạc đà",
+          "động vật",
           "lạc đà bactrian",
-          "lạc đà hai bướu"
+          "lạc đà hai bướu",
+          "sa mạc"
         ],
         "tts": [
           "lạc đà hai bướu"
@@ -8937,6 +9631,7 @@
       },
       "🦙": {
         "default": [
+          "động vật",
           "lạc đà alpaca",
           "lạc đà guanaco",
           "lạc đà không bướu",
@@ -8958,6 +9653,7 @@
       },
       "🐘": {
         "default": [
+          "động vật",
           "voi"
         ],
         "tts": [
@@ -8967,6 +9663,7 @@
       "🦣": {
         "default": [
           "có lông",
+          "động vật",
           "lớn",
           "ngà",
           "tuyệt chủng",
@@ -8978,6 +9675,7 @@
       },
       "🦏": {
         "default": [
+          "động vật",
           "tê giác"
         ],
         "tts": [
@@ -8986,6 +9684,7 @@
       },
       "🦛": {
         "default": [
+          "động vật",
           "hà mã"
         ],
         "tts": [
@@ -8995,6 +9694,7 @@
       "🐭": {
         "default": [
           "chuột",
+          "động vật",
           "mặt"
         ],
         "tts": [
@@ -9003,7 +9703,8 @@
       },
       "🐁": {
         "default": [
-          "chuột"
+          "chuột",
+          "động vật"
         ],
         "tts": [
           "chuột"
@@ -9011,7 +9712,8 @@
       },
       "🐀": {
         "default": [
-          "chuột cống"
+          "chuột cống",
+          "động vật"
         ],
         "tts": [
           "chuột cống"
@@ -9031,6 +9733,7 @@
       "🐰": {
         "default": [
           "con thỏ",
+          "động vật",
           "mặt",
           "thỏ",
           "thú cưng"
@@ -9042,6 +9745,7 @@
       "🐇": {
         "default": [
           "con thỏ",
+          "động vật",
           "thỏ",
           "thú cưng"
         ],
@@ -9060,7 +9764,9 @@
       },
       "🦫": {
         "default": [
+          "động vật",
           "hải ly",
+          "răng",
           "xây đập"
         ],
         "tts": [
@@ -9079,6 +9785,7 @@
       "🦇": {
         "default": [
           "dơi",
+          "động vật",
           "ma cà rồng"
         ],
         "tts": [
@@ -9087,19 +9794,23 @@
       },
       "🐻": {
         "default": [
+          "động vật",
+          "gầm",
           "gấu",
-          "mặt"
+          "gấu xám",
+          "mặt",
+          "mật ong"
         ],
         "tts": [
-          "mặt gấu"
+          "gấu"
         ]
       },
       "🐻‍❄": {
         "default": [
           "bắc cực",
+          "động vật",
           "gấu",
-          "Gấu trắng Bắc cực",
-          "Gấu trắng Bắc Cực",
+          "gấu bắc cực",
           "trắng"
         ],
         "tts": [
@@ -9109,7 +9820,10 @@
       "🐨": {
         "default": [
           "con gấu",
-          "gấu túi"
+          "động vật",
+          "gấu túi",
+          "koala",
+          "úc"
         ],
         "tts": [
           "gấu túi"
@@ -9149,6 +9863,7 @@
       "🦨": {
         "default": [
           "chồn hôi Mỹ",
+          "động vật",
           "mùi hôi"
         ],
         "tts": [
@@ -9170,6 +9885,7 @@
       "🦡": {
         "default": [
           "con lửng",
+          "động vật",
           "lửng mật",
           "quấy rầy"
         ],
@@ -9191,7 +9907,8 @@
       "🦃": {
         "default": [
           "chim",
-          "gà tây"
+          "gà tây",
+          "tạ ơn"
         ],
         "tts": [
           "gà tây"
@@ -9200,6 +9917,7 @@
       "🐔": {
         "default": [
           "chim",
+          "động vật",
           "gà"
         ],
         "tts": [
@@ -9209,6 +9927,7 @@
       "🐓": {
         "default": [
           "chim",
+          "động vật",
           "gà trống"
         ],
         "tts": [
@@ -9249,7 +9968,8 @@
       },
       "🐦": {
         "default": [
-          "chim"
+          "chim",
+          "động vật"
         ],
         "tts": [
           "chim"
@@ -9258,7 +9978,9 @@
       "🐧": {
         "default": [
           "chim",
-          "chim cánh cụt"
+          "chim cánh cụt",
+          "động vật",
+          "nam cực"
         ],
         "tts": [
           "chim cánh cụt"
@@ -9287,6 +10009,7 @@
       "🦆": {
         "default": [
           "chim",
+          "động vật",
           "vịt"
         ],
         "tts": [
@@ -9308,6 +10031,7 @@
         "default": [
           "chim",
           "cú",
+          "động vật",
           "khôn ngoan"
         ],
         "tts": [
@@ -9317,6 +10041,9 @@
       "🦤": {
         "default": [
           "chim cưu",
+          "động vật",
+          "gà",
+          "gà dodo",
           "lớn",
           "Mauritius",
           "tuyệt chủng"
@@ -9374,26 +10101,67 @@
       "🪽": {
         "default": [
           "bay",
+          "bay lên",
           "cánh",
           "chim",
           "hàng không",
           "thần thoại",
+          "thiên đường",
           "thiên thần"
         ],
         "tts": [
           "cánh"
         ]
       },
+      "🐦‍⬛": {
+        "default": [
+          "chim",
+          "chim hoét đen",
+          "con quạ",
+          "động vật",
+          "họ quạ",
+          "loài quạ",
+          "màu đen",
+          "mỏ",
+          "quạ"
+        ],
+        "tts": [
+          "chim hoét đen"
+        ]
+      },
       "🪿": {
         "default": [
+          "cầm điểu",
           "chim",
           "con gà",
           "con ngỗng",
+          "con vịt",
+          "đàn",
+          "đàn ngỗng",
+          "động vật",
           "kêu",
-          "khờ dại"
+          "khờ dại",
+          "ngây ngô"
         ],
         "tts": [
           "con ngỗng"
+        ]
+      },
+      "🐦‍🔥": {
+        "default": [
+          "bất tử",
+          "chim lửa",
+          "chim phượng hoàng",
+          "đầu thai",
+          "dục hỏa trùng sinh",
+          "phượng hoàng",
+          "tái sinh",
+          "thăng thiên",
+          "tưởng tượng",
+          "vinh quang"
+        ],
+        "tts": [
+          "phượng hoàng"
         ]
       },
       "🐸": {
@@ -9402,12 +10170,14 @@
           "mặt"
         ],
         "tts": [
-          "mặt ếch"
+          "ếch"
         ]
       },
       "🐊": {
         "default": [
-          "cá sấu"
+          "cá sấu",
+          "động vật",
+          "sở thú"
         ],
         "tts": [
           "cá sấu"
@@ -9416,6 +10186,7 @@
       "🐢": {
         "default": [
           "con rùa",
+          "động vật",
           "rùa",
           "rùa nước ngọt"
         ],
@@ -9426,6 +10197,7 @@
       "🦎": {
         "default": [
           "bò sát",
+          "động vật",
           "thằn lằn"
         ],
         "tts": [
@@ -9436,6 +10208,7 @@
         "default": [
           "chòm sao xà phu",
           "cung hoàng đạo",
+          "động vật",
           "rắn",
           "vật mang"
         ],
@@ -9456,6 +10229,8 @@
       },
       "🐉": {
         "default": [
+          "động vật",
+          "hiệp sĩ",
           "rồng",
           "truyện cổ tích"
         ],
@@ -9476,6 +10251,7 @@
       },
       "🦖": {
         "default": [
+          "khủng long",
           "khủng long bạo chúa",
           "Khủng long bạo chúa"
         ],
@@ -9485,9 +10261,11 @@
       },
       "🐳": {
         "default": [
+          "bãi biển",
           "cá voi",
-          "cá voi đang phun nước",
-          "mặt",
+          "đại dương",
+          "động vật",
+          "khuôn mặt",
           "phun nước"
         ],
         "tts": [
@@ -9496,7 +10274,10 @@
       },
       "🐋": {
         "default": [
-          "cá voi"
+          "bờ biển",
+          "cá voi",
+          "đại dương",
+          "động vật"
         ],
         "tts": [
           "cá voi"
@@ -9504,8 +10285,11 @@
       },
       "🐬": {
         "default": [
+          "bãi biển",
           "cá heo",
-          "chân chèo"
+          "chân chèo",
+          "đại dương",
+          "động vật"
         ],
         "tts": [
           "cá heo"
@@ -9514,6 +10298,9 @@
       "🦭": {
         "default": [
           "chó biển",
+          "đại dương",
+          "động vật",
+          "hải cẩu",
           "sư tử biển"
         ],
         "tts": [
@@ -9534,6 +10321,7 @@
         "default": [
           "cá",
           "cá nhiệt đới",
+          "động vật",
           "nhiệt đới"
         ],
         "tts": [
@@ -9543,7 +10331,9 @@
       "🐡": {
         "default": [
           "cá",
-          "cá nóc"
+          "cá bơn",
+          "cá nóc",
+          "động vật"
         ],
         "tts": [
           "cá nóc"
@@ -9552,7 +10342,8 @@
       "🦈": {
         "default": [
           "cá",
-          "cá mập"
+          "cá mập",
+          "động vật"
         ],
         "tts": [
           "cá mập"
@@ -9560,7 +10351,10 @@
       },
       "🐙": {
         "default": [
-          "bạch tuộc"
+          "bạch tuộc",
+          "đại dương",
+          "động vật",
+          "sinh vật"
         ],
         "tts": [
           "bạch tuộc"
@@ -9568,6 +10362,8 @@
       },
       "🐚": {
         "default": [
+          "bãi biển",
+          "động vật",
           "vỏ",
           "vỏ xoắn ốc",
           "xoắn ốc"
@@ -9591,17 +10387,79 @@
           "biển",
           "bỏng",
           "chích",
+          "động vật",
           "không xương sống",
           "ối",
-          "sứa"
+          "sinh vật biển",
+          "sinh vật phù du",
+          "sứa",
+          "thủy sinh",
+          "xúc tu"
         ],
         "tts": [
           "sứa"
         ]
       },
+      "🦀": {
+        "default": [
+          "cua",
+          "cung cự giải",
+          "cung hoàng đạo"
+        ],
+        "tts": [
+          "cua"
+        ]
+      },
+      "🦞": {
+        "default": [
+          "càng",
+          "động vật",
+          "hải sản",
+          "tôm hùm",
+          "xúp tôm cua"
+        ],
+        "tts": [
+          "tôm hùm"
+        ]
+      },
+      "🦐": {
+        "default": [
+          "nhỏ",
+          "thức ăn",
+          "tôm",
+          "tôm cua"
+        ],
+        "tts": [
+          "tôm"
+        ]
+      },
+      "🦑": {
+        "default": [
+          "động vật",
+          "mực ống",
+          "thân mềm",
+          "thức ăn"
+        ],
+        "tts": [
+          "mực ống"
+        ]
+      },
+      "🦪": {
+        "default": [
+          "hàu",
+          "lặn",
+          "ngọc trai"
+        ],
+        "tts": [
+          "hàu"
+        ]
+      },
       "🐌": {
         "default": [
-          "ốc sên"
+          "động vật",
+          "ốc sên",
+          "thiên nhiên",
+          "vườn"
         ],
         "tts": [
           "ốc sên"
@@ -9619,8 +10477,10 @@
       },
       "🐛": {
         "default": [
-          "con bọ",
-          "côn trùng"
+          "bọ",
+          "côn trùng",
+          "động vật",
+          "vườn"
         ],
         "tts": [
           "con bọ"
@@ -9629,7 +10489,9 @@
       "🐜": {
         "default": [
           "côn trùng",
-          "kiến"
+          "động vật",
+          "kiến",
+          "vườn"
         ],
         "tts": [
           "kiến"
@@ -9639,6 +10501,8 @@
         "default": [
           "con ong",
           "côn trùng",
+          "động vật",
+          "mùa xuân",
           "ong mật"
         ],
         "tts": [
@@ -9649,7 +10513,8 @@
         "default": [
           "bọ",
           "bọ cánh cứng",
-          "côn trùng"
+          "côn trùng",
+          "động vật"
         ],
         "tts": [
           "bọ cánh cứng"
@@ -9660,7 +10525,8 @@
           "bọ cánh cứng",
           "bọ rùa",
           "con bọ rùa",
-          "côn trùng"
+          "côn trùng",
+          "thiên nhiên"
         ],
         "tts": [
           "bọ rùa"
@@ -9668,8 +10534,12 @@
       },
       "🦗": {
         "default": [
+          "bọ",
+          "bộ cánh thẳng",
           "châu chấu",
-          "dế"
+          "côn trùng",
+          "dế",
+          "động vật"
         ],
         "tts": [
           "dế"
@@ -9678,7 +10548,8 @@
       "🪳": {
         "default": [
           "con gián",
-          "côn trùng"
+          "côn trùng",
+          "động vật"
         ],
         "tts": [
           "con gián"
@@ -9717,6 +10588,7 @@
           "bệnh",
           "con muỗi",
           "côn trùng",
+          "đốt",
           "muỗi",
           "sốt",
           "sốt rét",
@@ -9731,6 +10603,7 @@
           "bệnh",
           "con ruồi",
           "côn trùng",
+          "động vật",
           "giòi",
           "thối rữa"
         ],
@@ -9740,6 +10613,7 @@
       },
       "🪱": {
         "default": [
+          "động vật",
           "giun",
           "giun đất",
           "giun đốt",
@@ -9753,6 +10627,7 @@
       "🦠": {
         "default": [
           "Amip",
+          "khoa học",
           "vi khuẩn",
           "vi rút",
           "vi trùng"
@@ -9763,8 +10638,14 @@
       },
       "💐": {
         "default": [
-          "bó",
-          "hoa"
+          "bó hoa",
+          "cây",
+          "hẹn hò",
+          "hoa",
+          "kỷ niệm",
+          "lãng mạn",
+          "sinh nhật",
+          "tình yêu"
         ],
         "tts": [
           "bó hoa"
@@ -9814,8 +10695,14 @@
       },
       "🌹": {
         "default": [
+          "cây",
           "hoa",
-          "hoa hồng"
+          "hoa hồng",
+          "màu đỏ",
+          "sang trọng",
+          "tình yêu",
+          "valentine",
+          "vẻ đẹp"
         ],
         "tts": [
           "hoa hồng"
@@ -9833,7 +10720,8 @@
       "🌺": {
         "default": [
           "hoa",
-          "hoa dâm bụt"
+          "hoa dâm bụt",
+          "thực vật"
         ],
         "tts": [
           "hoa dâm bụt"
@@ -9843,7 +10731,8 @@
         "default": [
           "hoa",
           "hoa hướng dương",
-          "mặt trời"
+          "mặt trời",
+          "thực vật"
         ],
         "tts": [
           "hoa hướng dương"
@@ -9851,6 +10740,7 @@
       },
       "🌼": {
         "default": [
+          "bồ công anh",
           "hoa",
           "thực vật"
         ],
@@ -9861,7 +10751,8 @@
       "🌷": {
         "default": [
           "hoa",
-          "hoa tulip"
+          "hoa tulip",
+          "thực vật"
         ],
         "tts": [
           "hoa tulip"
@@ -9870,12 +10761,21 @@
       "🪻": {
         "default": [
           "bluebonnet",
+          "bụi hoa",
+          "cây",
           "đậu lupin",
           "hoa",
+          "hoa dạ lan hương",
           "hoa len mũ xanh",
           "hoa mõm sói",
+          "hoa oải hương",
+          "hoa tiên ông",
+          "hoa tử đinh hương",
           "lục bình",
-          "oải hương"
+          "màu chàm",
+          "mùa xuân",
+          "oải hương",
+          "tím"
         ],
         "tts": [
           "lục bình"
@@ -9883,8 +10783,11 @@
       },
       "🌱": {
         "default": [
+          "cây giống",
           "cây non",
-          "non"
+          "nảy mầm",
+          "non",
+          "thực vật"
         ],
         "tts": [
           "cây non"
@@ -9892,13 +10795,13 @@
       },
       "🪴": {
         "default": [
-          "cây trồng trong chậu",
+          "chậu cây",
+          "mọc",
           "nhà",
-          "nhàm chán",
           "nuôi dưỡng",
-          "phát triển",
-          "trồng",
-          "vô dụng"
+          "thực vật",
+          "trang trí",
+          "trồng trong chậu"
         ],
         "tts": [
           "cây trồng trong chậu"
@@ -9907,8 +10810,10 @@
       "🌲": {
         "default": [
           "cây",
+          "cây thông",
           "cây thường xanh",
-          "thực vật"
+          "giáng sinh",
+          "rừng"
         ],
         "tts": [
           "cây thường xanh"
@@ -9937,6 +10842,9 @@
       "🌵": {
         "default": [
           "cây xương rồng",
+          "hạn hán",
+          "sa mạc",
+          "thiên nhiên",
           "thực vật"
         ],
         "tts": [
@@ -9965,6 +10873,7 @@
       },
       "☘": {
         "default": [
+          "Ai-len",
           "cỏ ba lá",
           "thực vật"
         ],
@@ -10043,6 +10952,23 @@
           "nấm"
         ]
       },
+      "🪾": {
+        "default": [
+          "cằn cỗi",
+          "cây",
+          "cây chết",
+          "gỗ",
+          "hạn hán",
+          "mùa đông",
+          "nhánh cây",
+          "thân cây",
+          "trần",
+          "trụi lá"
+        ],
+        "tts": [
+          "cây trụi lá"
+        ]
+      },
       "🍇": {
         "default": [
           "chùm nho",
@@ -10084,17 +11010,37 @@
       "🍋": {
         "default": [
           "chanh",
-          "hoa quả",
-          "thực vật"
+          "chanh tây",
+          "chua",
+          "họ cam quýt",
+          "hoa quả"
         ],
         "tts": [
-          "chanh"
+          "chanh tây"
+        ]
+      },
+      "🍋‍🟩": {
+        "default": [
+          "chanh ta",
+          "họ cam quýt",
+          "hoa quả",
+          "margarita",
+          "mojito",
+          "nhiệt đới",
+          "nước ép",
+          "nước sốt",
+          "tequila",
+          "vị chua"
+        ],
+        "tts": [
+          "chanh ta"
         ]
       },
       "🍌": {
         "default": [
           "chuối",
-          "hoa quả"
+          "hoa quả",
+          "kali"
         ],
         "tts": [
           "chuối"
@@ -10103,7 +11049,8 @@
       "🍍": {
         "default": [
           "dứa",
-          "hoa quả"
+          "hoa quả",
+          "nhiệt đới"
         ],
         "tts": [
           "dứa"
@@ -10160,8 +11107,10 @@
       "🍒": {
         "default": [
           "anh đào",
+          "hoa quả",
           "màu đỏ",
           "quả mọng",
+          "thực vật",
           "trái cây"
         ],
         "tts": [
@@ -10180,9 +11129,11 @@
       },
       "🫐": {
         "default": [
+          "hoa quả",
           "màu xanh",
           "quả mọng",
-          "quả việt quất"
+          "quả việt quất",
+          "thực phẩm"
         ],
         "tts": [
           "quả việt quất"
@@ -10291,7 +11242,8 @@
         "default": [
           "ớt",
           "ớt chuông",
-          "rau"
+          "rau",
+          "thức ăn"
         ],
         "tts": [
           "ớt chuông"
@@ -10314,6 +11266,7 @@
           "cải thìa",
           "cải xoăn",
           "rau diếp",
+          "salat",
           "xanh lá"
         ],
         "tts": [
@@ -10322,7 +11275,9 @@
       },
       "🥦": {
         "default": [
+          "bông cải xanh",
           "cải bắp dại",
+          "hoa lơ",
           "xúp lơ xanh"
         ],
         "tts": [
@@ -10384,7 +11339,10 @@
           "củ",
           "củ gừng",
           "gia vị",
-          "rễ"
+          "rễ",
+          "sức khỏe",
+          "thảo mộc",
+          "tự nhiên"
         ],
         "tts": [
           "củ gừng"
@@ -10403,10 +11361,44 @@
           "đậu Hà Lan"
         ]
       },
+      "🍄‍🟫": {
+        "default": [
+          "ăn chay",
+          "cây nấm nâu",
+          "nấm",
+          "nấm màu nâu",
+          "nhân nấm",
+          "nhân pizza",
+          "rau",
+          "thức ăn",
+          "tự nhiên"
+        ],
+        "tts": [
+          "nấm màu nâu"
+        ]
+      },
+      "🫜": {
+        "default": [
+          "củ cải",
+          "củ cải đường",
+          "rau",
+          "rễ",
+          "vườn"
+        ],
+        "tts": [
+          "rau củ"
+        ]
+      },
       "🍞": {
         "default": [
           "bánh mì",
-          "ổ bánh mì"
+          "bánh mì nướng",
+          "lúa mì",
+          "ngũ cốc",
+          "nhà hàng",
+          "ổ bánh mì",
+          "thực phẩm",
+          "tinh bột"
         ],
         "tts": [
           "bánh mì"
@@ -10438,10 +11430,13 @@
       "🫓": {
         "default": [
           "arepa",
+          "bánh mì",
+          "bánh mì dẹt",
           "bánh mỳ cắt",
           "bánh mỳ cắt lát",
           "lavash",
-          "pita"
+          "pita",
+          "thực phẩm"
         ],
         "tts": [
           "bánh mỳ cắt lát"
@@ -10480,6 +11475,7 @@
       "🧇": {
         "default": [
           "bánh quế",
+          "bữa sáng",
           "cứng cỏi",
           "thiếu quyết đoán"
         ],
@@ -10509,8 +11505,10 @@
       "🍗": {
         "default": [
           "chân",
-          "đùi gia cầm",
+          "đói",
+          "đùi gà",
           "gà",
+          "gà tây",
           "gia cầm",
           "xương"
         ],
@@ -10551,6 +11549,8 @@
       },
       "🍟": {
         "default": [
+          "đồ ăn",
+          "đồ ăn nhanh",
           "khoai tây chiên",
           "kiểu pháp"
         ],
@@ -10608,7 +11608,9 @@
         "default": [
           "bánh tamale",
           "cuốn",
-          "Mexico"
+          "Mexico",
+          "pamonha",
+          "thực phẩm"
         ],
         "tts": [
           "bánh tamale"
@@ -10616,13 +11618,12 @@
       },
       "🥙": {
         "default": [
-          "bánh mì kẹp thịt",
           "bánh mỳ dẹt",
           "bánh mỳ gyro",
-          "bánh mỳ kẹp thịt nướng",
+          "bánh mỳ kẹp thịt",
           "đồ ăn",
-          "nhồi",
-          "viên bột đậu rán"
+          "falafel",
+          "nhồi"
         ],
         "tts": [
           "bánh mì kẹp thịt"
@@ -10630,8 +11631,8 @@
       },
       "🧆": {
         "default": [
-          "bánh rán nhân gà",
-          "đậu gà",
+          "đậu hồi",
+          "falafel",
           "thịt viên"
         ],
         "tts": [
@@ -10640,7 +11641,8 @@
       },
       "🥚": {
         "default": [
-          "thức ăn",
+          "bữa sáng",
+          "đồ ăn",
           "trứng"
         ],
         "tts": [
@@ -10675,7 +11677,8 @@
         "default": [
           "hầm",
           "nồi",
-          "nồi thức ăn"
+          "nồi thức ăn",
+          "súp"
         ],
         "tts": [
           "nồi thức ăn"
@@ -10683,12 +11686,13 @@
       },
       "🫕": {
         "default": [
-          "lẩu pho mai",
+          "lẩu phô mai",
+          "nấu chảy",
           "nồi",
           "phô mai",
           "sô cô la",
-          "tan chảy",
-          "Thụy Sĩ"
+          "thức ăn",
+          "trượt tuyết"
         ],
         "tts": [
           "lẩu pho mai"
@@ -10696,9 +11700,12 @@
       },
       "🥣": {
         "default": [
-          "bát và thìa",
+          "bát",
           "bữa sáng",
-          "ngũ cốc"
+          "cháo",
+          "ngũ cốc",
+          "thìa",
+          "yến mạch"
         ],
         "tts": [
           "bát và thìa"
@@ -10717,7 +11724,8 @@
       },
       "🍿": {
         "default": [
-          "bỏng ngô"
+          "bỏng ngô",
+          "phim"
         ],
         "tts": [
           "bỏng ngô"
@@ -10744,8 +11752,9 @@
       },
       "🥫": {
         "default": [
+          "đóng hộp",
           "hộp",
-          "thực phẩm đóng hộp"
+          "thực phẩm"
         ],
         "tts": [
           "thực phẩm đóng hộp"
@@ -10763,9 +11772,9 @@
       },
       "🍘": {
         "default": [
-          "bánh gạo",
           "bánh quy giòn",
-          "gạo"
+          "gạo",
+          "thực phẩm"
         ],
         "tts": [
           "bánh gạo"
@@ -10804,10 +11813,13 @@
       "🍜": {
         "default": [
           "bát",
-          "bát mì",
-          "hấp",
-          "mì dẹt",
-          "mì ramen"
+          "đũa",
+          "mỳ",
+          "mỳ ramen",
+          "nóng hổi",
+          "phở",
+          "súp",
+          "thức ăn"
         ],
         "tts": [
           "bát mì"
@@ -10815,8 +11827,11 @@
       },
       "🍝": {
         "default": [
-          "mì ống",
-          "spaghetti"
+          "nhà hàng",
+          "pasta",
+          "spaghetti",
+          "thịt viên",
+          "thức ăn"
         ],
         "tts": [
           "spaghetti"
@@ -10824,6 +11839,7 @@
       },
       "🍠": {
         "default": [
+          "đồ ăn",
           "khoai",
           "khoai lang nướng",
           "ngọt",
@@ -10847,7 +11863,8 @@
       },
       "🍣": {
         "default": [
-          "sushi"
+          "sushi",
+          "thực phẩm"
         ],
         "tts": [
           "sushi"
@@ -10878,8 +11895,10 @@
       },
       "🥮": {
         "default": [
+          "bánh",
           "bánh trung thu",
           "lễ hội",
+          "mặt trăng",
           "mùa thu"
         ],
         "tts": [
@@ -10918,63 +11937,15 @@
       },
       "🥡": {
         "default": [
-          "hộp đựng đồ ăn mang đi",
-          "hộp đựng đồ ăn Trung Quốc"
+          "cái xô",
+          "đũa",
+          "giao hàng",
+          "hàu",
+          "hộp",
+          "mang đi đồ ăn"
         ],
         "tts": [
           "hộp đựng đồ ăn mang đi"
-        ]
-      },
-      "🦀": {
-        "default": [
-          "cua",
-          "cung cự giải",
-          "cung hoàng đạo"
-        ],
-        "tts": [
-          "cua"
-        ]
-      },
-      "🦞": {
-        "default": [
-          "càng",
-          "hải sản",
-          "tôm hùm",
-          "xúp tôm cua"
-        ],
-        "tts": [
-          "tôm hùm"
-        ]
-      },
-      "🦐": {
-        "default": [
-          "nhỏ",
-          "thức ăn",
-          "tôm",
-          "tôm cua"
-        ],
-        "tts": [
-          "tôm"
-        ]
-      },
-      "🦑": {
-        "default": [
-          "mực ống",
-          "thân mềm",
-          "thức ăn"
-        ],
-        "tts": [
-          "mực ống"
-        ]
-      },
-      "🦪": {
-        "default": [
-          "hàu",
-          "lặn",
-          "ngọc trai"
-        ],
-        "tts": [
-          "hàu"
         ]
       },
       "🍦": {
@@ -11038,7 +12009,8 @@
           "lễ kỷ niệm",
           "món tráng miệng",
           "ngọt",
-          "sinh nhật"
+          "sinh nhật",
+          "tráng miệng"
         ],
         "tts": [
           "bánh sinh nhật"
@@ -11057,9 +12029,11 @@
       },
       "🧁": {
         "default": [
+          "bánh ngọt",
           "bánh nướng nhỏ",
           "ngọt",
-          "tiệm bánh"
+          "tiệm bánh",
+          "tráng miệng"
         ],
         "tts": [
           "bánh nướng nhỏ"
@@ -11067,9 +12041,14 @@
       },
       "🥧": {
         "default": [
-          "bánh ngọt",
-          "bánh nướng",
-          "bột nhồi"
+          "bánh",
+          "bí đỏ",
+          "bột nhào",
+          "miếng bánh",
+          "nhồi bánh",
+          "táo",
+          "thịt",
+          "trái cây"
         ],
         "tts": [
           "bánh nướng"
@@ -11133,9 +12112,11 @@
       "🍼": {
         "default": [
           "bình",
-          "bình sữa trẻ em",
           "em bé",
+          "mới sinh",
+          "sinh",
           "sữa",
+          "trẻ sơ sinh",
           "uống"
         ],
         "tts": [
@@ -11154,13 +12135,14 @@
       },
       "☕": {
         "default": [
+          "buổi sáng",
           "cà phê",
-          "chưng",
+          "caffeine",
+          "chai",
           "đồ uống",
-          "đồ uống nóng",
           "nóng",
-          "trà",
-          "uống"
+          "nóng hổi",
+          "trà"
         ],
         "tts": [
           "đồ uống nóng"
@@ -11169,9 +12151,10 @@
       "🫖": {
         "default": [
           "ấm trà",
-          "nồi",
+          "đồ uống",
+          "thực phẩm",
           "trà",
-          "uống"
+          "ủ"
         ],
         "tts": [
           "ấm trà"
@@ -11314,9 +12297,13 @@
       },
       "🥤": {
         "default": [
-          "cốc và ống hút",
+          "cốc",
+          "mạch nha",
+          "nước",
           "nước ép",
-          "soda"
+          "ống hút",
+          "soda",
+          "uống"
         ],
         "tts": [
           "cốc và ống hút"
@@ -11327,16 +12314,20 @@
           "bong bóng",
           "ngọc trai",
           "sữa",
-          "trà"
+          "trà",
+          "trân châu"
         ],
         "tts": [
-          "trà sữa"
+          "trà sữa trân châu"
         ]
       },
       "🧃": {
         "default": [
-          "hộp đồ uống",
-          "hộp nước trái cây"
+          "đồ uống",
+          "hộp",
+          "ngọt",
+          "nước ép",
+          "ống hút"
         ],
         "tts": [
           "hộp đồ uống"
@@ -11345,9 +12336,7 @@
       "🧉": {
         "default": [
           "đồ uống",
-          "nước uống",
-          "trà nhựa ruồi",
-          "uống"
+          "trà nhựa ruồi"
         ],
         "tts": [
           "trà nhựa ruồi"
@@ -11366,8 +12355,7 @@
       },
       "🥢": {
         "default": [
-          "đũa",
-          "đũa Nhật"
+          "đũa"
         ],
         "tts": [
           "đũa"
@@ -11387,10 +12375,20 @@
       },
       "🍴": {
         "default": [
+          "ăn",
+          "ăn sáng",
+          "bữa sáng",
+          "bữa tối",
+          "bữa trưa",
+          "cho ăn",
           "dao",
           "dĩa",
-          "dĩa và dao",
-          "nấu nướng"
+          "đồ ăn",
+          "đói",
+          "nấu ăn",
+          "ngon",
+          "ngon miệng",
+          "nhà hàng"
         ],
         "tts": [
           "dĩa và dao"
@@ -11461,8 +12459,8 @@
         "default": [
           "Châu Mỹ",
           "địa cầu",
-          "địa cầu thể hiện Châu Mỹ",
           "thế giới",
+          "thể hiện",
           "trái đất"
         ],
         "tts": [
@@ -11472,10 +12470,11 @@
       "🌏": {
         "default": [
           "Châu Á",
+          "Châu Á-Châu Úc",
           "Châu Úc",
           "địa cầu",
-          "địa cầu thể hiện Châu Á-Châu Úc",
           "thế giới",
+          "thể hiện",
           "trái đất"
         ],
         "tts": [
@@ -11484,11 +12483,13 @@
       },
       "🌐": {
         "default": [
-          "địa cầu có đường kinh tuyến",
+          "địa cầu",
+          "Internet",
           "kinh tuyến",
-          "quả địa cầu",
           "thế giới",
-          "trái đất"
+          "trái đất",
+          "ttoàn thế giới",
+          "web"
         ],
         "tts": [
           "địa cầu có đường kinh tuyến"
@@ -11548,7 +12549,8 @@
         "default": [
           "núi",
           "núi lửa",
-          "phun trào"
+          "phun trào",
+          "thiên nhiên"
         ],
         "tts": [
           "núi lửa"
@@ -11627,6 +12629,7 @@
       },
       "🏗": {
         "default": [
+          "cần cẩu",
           "công trường xây dựng",
           "xây dựng"
         ],
@@ -11718,8 +12721,11 @@
       },
       "🏢": {
         "default": [
+          "công việc",
+          "dạng lập phương",
+          "thành phố",
           "tòa nhà",
-          "tòa nhà văn phòng"
+          "văn phòng"
         ],
         "tts": [
           "tòa nhà văn phòng"
@@ -11860,6 +12866,9 @@
       "🗽": {
         "default": [
           "bức tượng",
+          "new",
+          "ny",
+          "nyc",
           "tự do",
           "Tượng Nữ thần Tự do"
         ],
@@ -11869,6 +12878,7 @@
       },
       "⛪": {
         "default": [
+          "cầu nguyện",
           "cây thánh giá",
           "Đạo cơ đốc",
           "nhà thờ",
@@ -11902,7 +12912,7 @@
       },
       "🕍": {
         "default": [
-          "chùa",
+          "đền",
           "do thái",
           "giáo đường Do thái",
           "người do thái",
@@ -11916,6 +12926,7 @@
         "default": [
           "đền thờ",
           "đền thờ Nhật Bản",
+          "thần đạo",
           "tôn giáo"
         ],
         "tts": [
@@ -11994,7 +13005,8 @@
         "default": [
           "bình minh",
           "buổi sáng",
-          "mặt trời"
+          "mặt trời",
+          "thiên nhiên"
         ],
         "tts": [
           "bình minh"
@@ -12047,8 +13059,8 @@
       "🎠": {
         "default": [
           "đu quay ngựa",
-          "ngựa",
-          "ngựa đu quay"
+          "giải trí",
+          "ngựa"
         ],
         "tts": [
           "ngựa đu quay"
@@ -12168,8 +13180,9 @@
       },
       "🚇": {
         "default": [
-          "tàu điện ngầm",
-          "xe điện ngầm"
+          "di chuyển",
+          "tàu điện",
+          "tàu điện ngầm"
         ],
         "tts": [
           "tàu điện ngầm"
@@ -12237,6 +13250,7 @@
       },
       "🚌": {
         "default": [
+          "trường học",
           "xe buýt",
           "xe cộ"
         ],
@@ -12268,7 +13282,8 @@
       "🚐": {
         "default": [
           "xe buýt",
-          "xe buýt nhỏ"
+          "xe buýt nhỏ",
+          "xe cộ"
         ],
         "tts": [
           "xe buýt nhỏ"
@@ -12276,6 +13291,7 @@
       },
       "🚑": {
         "default": [
+          "xe cấp cứu",
           "xe cộ",
           "xe cứu thương"
         ],
@@ -12318,7 +13334,10 @@
       },
       "🚕": {
         "default": [
+          "lái xe",
+          "màu vàng",
           "taxi",
+          "xe",
           "xe cộ"
         ],
         "tts": [
@@ -12357,7 +13376,9 @@
       "🚙": {
         "default": [
           "giải trí",
+          "ô tô",
           "tiện ích thể thao",
+          "xe cộ",
           "xe thể thao đa dụng"
         ],
         "tts": [
@@ -12367,6 +13388,8 @@
       "🛻": {
         "default": [
           "nhận hàng",
+          "ô tô",
+          "vận tải",
           "xe bán tải",
           "xe tải"
         ],
@@ -12386,8 +13409,12 @@
       },
       "🚛": {
         "default": [
-          "bán",
-          "đầu kéo rơ-moóc",
+          "di chuyển",
+          "lái xe",
+          "nối",
+          "ô tô",
+          "xe bán tải",
+          "xe cộ",
           "xe tải"
         ],
         "tts": [
@@ -12492,7 +13519,9 @@
         "default": [
           "con lăn",
           "giày trượt",
-          "giày trượt patin"
+          "giày trượt patin",
+          "thể thao",
+          "trượt patin"
         ],
         "tts": [
           "giày trượt patin"
@@ -12539,9 +13568,11 @@
         "default": [
           "bơm",
           "bơm nhiên liệu",
+          "diesel",
+          "gas",
           "khí",
           "nhiên liệu",
-          "trạm"
+          "trạm bơm"
         ],
         "tts": [
           "bơm nhiên liệu"
@@ -12697,6 +13728,7 @@
       },
       "🚢": {
         "default": [
+          "di chuyển",
           "hành khách",
           "tàu thủy",
           "thuyền"
@@ -12707,8 +13739,11 @@
       },
       "✈": {
         "default": [
+          "bay",
+          "di chuyển",
           "máy bay",
-          "xe cộ"
+          "phi cơ",
+          "tàu bay"
         ],
         "tts": [
           "máy bay"
@@ -12717,8 +13752,8 @@
       "🛩": {
         "default": [
           "máy bay",
-          "máy bay nhỏ",
-          "xe cộ"
+          "nhỏ",
+          "tàu bay"
         ],
         "tts": [
           "máy bay nhỏ"
@@ -12762,7 +13797,8 @@
       },
       "💺": {
         "default": [
-          "cái ghế"
+          "chỗ ngồi",
+          "ghế"
         ],
         "tts": [
           "cái ghế"
@@ -12821,8 +13857,10 @@
       },
       "🚀": {
         "default": [
-          "tên lửa",
-          "vũ trụ"
+          "di chuyển",
+          "không gian",
+          "phóng",
+          "tên lửa"
         ],
         "tts": [
           "tên lửa"
@@ -12831,6 +13869,7 @@
       "🛸": {
         "default": [
           "đĩa bay",
+          "người ngoài hành tinh",
           "UFO"
         ],
         "tts": [
@@ -12851,7 +13890,8 @@
         "default": [
           "đóng gói",
           "du lịch",
-          "hành lý"
+          "hành lý",
+          "vali kéo"
         ],
         "tts": [
           "hành lý"
@@ -12861,7 +13901,9 @@
         "default": [
           "bộ định thời",
           "cát",
-          "đồng hồ cát đã chảy hết"
+          "đồng hồ cát",
+          "đồng hồ cát đã chảy hết",
+          "đồng hồ hẹn giờ"
         ],
         "tts": [
           "đồng hồ cát đã chảy hết"
@@ -12881,7 +13923,8 @@
       "⌚": {
         "default": [
           "đồng hồ",
-          "đồng hồ đeo tay"
+          "đồng hồ đeo tay",
+          "thời gian"
         ],
         "tts": [
           "đồng hồ đeo tay"
@@ -12891,7 +13934,9 @@
         "default": [
           "báo thức",
           "đồng hồ",
-          "đồng hồ báo thức"
+          "đồng hồ báo thức",
+          "muộn",
+          "thời gian"
         ],
         "tts": [
           "đồng hồ báo thức"
@@ -12900,7 +13945,8 @@
       "⏱": {
         "default": [
           "đồng hồ",
-          "đồng hồ bấm giờ"
+          "đồng hồ bấm giờ",
+          "thời gian"
         ],
         "tts": [
           "đồng hồ bấm giờ"
@@ -12918,7 +13964,8 @@
       "🕰": {
         "default": [
           "đồng hồ",
-          "đồng hồ để bàn"
+          "đồng hồ để bàn",
+          "thời gian"
         ],
         "tts": [
           "đồng hồ để bàn"
@@ -13058,6 +14105,7 @@
       },
       "🕔": {
         "default": [
+          "00",
           "5",
           "5:00",
           "đồng hồ",
@@ -13083,6 +14131,7 @@
       },
       "🕕": {
         "default": [
+          "00",
           "6",
           "6:00",
           "đồng hồ",
@@ -13108,6 +14157,7 @@
       },
       "🕖": {
         "default": [
+          "00",
           "7",
           "7:00",
           "bảy",
@@ -13133,6 +14183,7 @@
       },
       "🕗": {
         "default": [
+          "00",
           "8",
           "8:00",
           "đồng hồ",
@@ -13158,6 +14209,7 @@
       },
       "🕘": {
         "default": [
+          "00",
           "9",
           "9:00",
           "chín",
@@ -13184,6 +14236,7 @@
       },
       "🕙": {
         "default": [
+          "00",
           "10",
           "10:00",
           "đồng hồ",
@@ -13209,6 +14262,7 @@
       },
       "🕚": {
         "default": [
+          "00",
           "11",
           "11:00",
           "đồng hồ",
@@ -13308,6 +14362,7 @@
       "🌘": {
         "default": [
           "cuối tháng",
+          "không gian",
           "lưỡi liềm",
           "mặt trăng",
           "trăng lưỡi liềm cuối tháng"
@@ -13371,7 +14426,9 @@
         "default": [
           "mặt trời",
           "nắng",
+          "nóng",
           "sáng",
+          "thời tiết",
           "tia"
         ],
         "tts": [
@@ -13392,10 +14449,12 @@
       },
       "🌞": {
         "default": [
+          "bãi biển",
           "mặt",
           "mặt trời",
           "mặt trời có hình mặt người",
-          "sáng"
+          "sáng",
+          "thời tiết"
         ],
         "tts": [
           "mặt trời có hình mặt người"
@@ -13403,10 +14462,14 @@
       },
       "🪐": {
         "default": [
+          "Hành tinh",
           "hành tinh có vành đai bao quanh",
           "sao thổ",
+          "sao Thổ",
           "thần nông",
-          "thổ tinh"
+          "Thần Nông",
+          "thổ tinh",
+          "Thổ tinh"
         ],
         "tts": [
           "hành tinh có vành đai bao quanh"
@@ -13414,7 +14477,9 @@
       },
       "⭐": {
         "default": [
-          "ngôi sao"
+          "ngôi sao",
+          "sao",
+          "thiên văn"
         ],
         "tts": [
           "ngôi sao"
@@ -13454,7 +14519,9 @@
       },
       "☁": {
         "default": [
+          "âm u",
           "đám mây",
+          "mây",
           "thời tiết"
         ],
         "tts": [
@@ -13474,6 +14541,7 @@
       "⛈": {
         "default": [
           "đám mây kèm chớp và mưa",
+          "đám mây với tia chớp và mưa",
           "mây",
           "mưa",
           "sấm"
@@ -13538,7 +14606,8 @@
         "default": [
           "đám mây với tia chớp",
           "mây",
-          "sét"
+          "sét",
+          "thời tiết"
         ],
         "tts": [
           "đám mây với tia chớp"
@@ -13548,7 +14617,8 @@
         "default": [
           "cơn lốc",
           "lốc xoáy",
-          "mây"
+          "mây",
+          "thời tiết"
         ],
         "tts": [
           "lốc xoáy"
@@ -13557,7 +14627,8 @@
       "🌫": {
         "default": [
           "mây",
-          "sương mù"
+          "sương mù",
+          "thời tiết"
         ],
         "tts": [
           "sương mù"
@@ -13589,7 +14660,12 @@
       "🌈": {
         "default": [
           "cầu vồng",
-          "mưa"
+          "chuyển giới",
+          "đồng tính",
+          "lưỡng tính",
+          "mưa",
+          "thời tiết",
+          "tự nhiên"
         ],
         "tts": [
           "cầu vồng"
@@ -13609,6 +14685,7 @@
       "☂": {
         "default": [
           "cái ô",
+          "che mưa",
           "mưa",
           "quần áo"
         ],
@@ -13621,6 +14698,7 @@
           "cái ô với những giọt nước mưa",
           "chiếc ô",
           "mưa",
+          "ô che mưa",
           "quần áo",
           "rơi"
         ],
@@ -13633,7 +14711,8 @@
           "cái ô trên mặt đất",
           "chiếc ô",
           "mặt trời",
-          "mưa"
+          "mưa",
+          "nắng"
         ],
         "tts": [
           "cái ô trên mặt đất"
@@ -13645,7 +14724,8 @@
           "điện",
           "điện cao thế",
           "nguy hiểm",
-          "sét"
+          "sét",
+          "tự nhiên"
         ],
         "tts": [
           "điện cao thế"
@@ -13655,6 +14735,7 @@
         "default": [
           "bông tuyết",
           "lạnh",
+          "thời tiết",
           "tuyết"
         ],
         "tts": [
@@ -13749,6 +14830,7 @@
       },
       "🎆": {
         "default": [
+          "giải trí",
           "lễ kỷ niệm",
           "pháo hoa"
         ],
@@ -13781,6 +14863,7 @@
       "✨": {
         "default": [
           "ánh lấp lánh",
+          "kỳ diệu",
           "lấp lánh",
           "ngôi sao"
         ],
@@ -13791,7 +14874,8 @@
       "🎈": {
         "default": [
           "bóng bay",
-          "lễ kỷ niệm"
+          "lễ kỷ niệm",
+          "sinh nhật"
         ],
         "tts": [
           "bóng bay"
@@ -13811,6 +14895,7 @@
       "🎊": {
         "default": [
           "bóng hoa giấy",
+          "bữa tiệc",
           "lễ kỷ niệm",
           "quả bóng"
         ],
@@ -13964,8 +15049,11 @@
       },
       "🏆": {
         "default": [
+          "chiến thắng",
           "cúp",
-          "giải thưởng"
+          "giải thưởng",
+          "thể thao",
+          "vô địch"
         ],
         "tts": [
           "cúp"
@@ -13973,8 +15061,11 @@
       },
       "🏅": {
         "default": [
+          "chiến thắng",
           "huy chương",
-          "huy chương thể thao"
+          "huy chương thể thao",
+          "huy chương vàng",
+          "vô địch"
         ],
         "tts": [
           "huy chương thể thao"
@@ -14016,7 +15107,10 @@
       "⚽": {
         "default": [
           "bóng đá",
-          "quả bóng"
+          "quả bóng",
+          "thể thao",
+          "thể thao vua",
+          "túc cầu"
         ],
         "tts": [
           "bóng đá"
@@ -14025,7 +15119,8 @@
       "⚾": {
         "default": [
           "bóng chày",
-          "quả bóng"
+          "quả bóng",
+          "thể thao"
         ],
         "tts": [
           "bóng chày"
@@ -14036,7 +15131,8 @@
           "bao tay",
           "bóng",
           "bóng mềm",
-          "ném bóng dưới vai"
+          "ném bóng dưới vai",
+          "thể thao"
         ],
         "tts": [
           "bóng mềm"
@@ -14046,6 +15142,7 @@
         "default": [
           "bóng rổ",
           "quả bóng",
+          "thể thao",
           "vòng"
         ],
         "tts": [
@@ -14077,7 +15174,8 @@
         "default": [
           "bóng bầu dục",
           "bóng đá",
-          "quả bóng"
+          "quả bóng",
+          "thể thao"
         ],
         "tts": [
           "bóng bầu dục"
@@ -14152,7 +15250,8 @@
           "bóng",
           "bóng vợt",
           "gậy",
-          "gôn"
+          "gôn",
+          "thể thao"
         ],
         "tts": [
           "bóng vợt"
@@ -14208,6 +15307,7 @@
       },
       "🥅": {
         "default": [
+          "gôn",
           "khung thành",
           "lưới"
         ],
@@ -14219,7 +15319,8 @@
         "default": [
           "cờ trong lỗ",
           "gôn",
-          "lỗ"
+          "lỗ",
+          "thể thao"
         ],
         "tts": [
           "cờ trong lỗ"
@@ -14238,7 +15339,9 @@
         "default": [
           "cá",
           "cần câu",
-          "cần câu cá"
+          "cần câu cá",
+          "giải trí",
+          "thể thao"
         ],
         "tts": [
           "cần câu cá"
@@ -14261,7 +15364,8 @@
           "áo chạy bộ",
           "áo sơ mi",
           "chạy bộ",
-          "khăn quàng vai"
+          "khăn quàng vai",
+          "vận động viên"
         ],
         "tts": [
           "áo chạy bộ"
@@ -14269,6 +15373,7 @@
       },
       "🎿": {
         "default": [
+          "thể thao",
           "trượt tuyết",
           "tuyết",
           "ván trượt tuyết"
@@ -14280,6 +15385,7 @@
       "🛷": {
         "default": [
           "đi xe trượt tuyết",
+          "tuyết",
           "xe trượt tuyết"
         ],
         "tts": [
@@ -14383,7 +15489,9 @@
       },
       "🎮": {
         "default": [
+          "giải trí",
           "tay điều khiển",
+          "thiết bị điều khiển",
           "trò chơi",
           "trò chơi điện tử"
         ],
@@ -14403,6 +15511,7 @@
       },
       "🎰": {
         "default": [
+          "cờ bạc",
           "khe",
           "máy giật xèng",
           "trò chơi"
@@ -14414,8 +15523,10 @@
       "🎲": {
         "default": [
           "con xúc xắc",
+          "gieo xúc xắc",
           "trò chơi",
-          "trò xúc xắc"
+          "trò xúc xắc",
+          "xúc xắc"
         ],
         "tts": [
           "trò xúc xắc"
@@ -14447,7 +15558,12 @@
       "🪅": {
         "default": [
           "buổi tiệc",
+          "kẹo",
+          "kỷ niệm",
+          "lễ hội",
           "lễ kỷ niệm",
+          "người Mexico",
+          "pinata",
           "piñata"
         ],
         "tts": [
@@ -14469,9 +15585,13 @@
       },
       "🪆": {
         "default": [
+          "babooshka",
+          "baboushka",
+          "babushka",
           "búp bê",
+          "búp bê lồng",
           "búp bê matryoshka",
-          "làm tổ",
+          "lồng nhau",
           "nước Nga"
         ],
         "tts": [
@@ -14630,6 +15750,7 @@
       "🧶": {
         "default": [
           "cuộn",
+          "cuộn len",
           "đan",
           "đan bằng kim móc",
           "sợi"
@@ -14701,6 +15822,7 @@
           "an toàn",
           "áo",
           "áo bảo hộ",
+          "cứu hộ",
           "khẩn cấp"
         ],
         "tts": [
@@ -14709,8 +15831,10 @@
       },
       "👔": {
         "default": [
+          "áo sơ mi",
           "cà vạt",
-          "quần áo"
+          "quần áo",
+          "trang trọng"
         ],
         "tts": [
           "cà vạt"
@@ -14741,7 +15865,9 @@
       "🧣": {
         "default": [
           "cổ",
-          "khăn quàng"
+          "khăn quàng",
+          "lạnh",
+          "ủ ấm"
         ],
         "tts": [
           "khăn quàng"
@@ -14759,7 +15885,8 @@
       "🧥": {
         "default": [
           "áo choàng",
-          "áo khoác"
+          "áo khoác",
+          "lạnh"
         ],
         "tts": [
           "áo khoác"
@@ -14777,6 +15904,7 @@
       },
       "👗": {
         "default": [
+          "mua sắm",
           "quần áo",
           "váy"
         ],
@@ -14797,6 +15925,7 @@
         "default": [
           "đầm",
           "quần áo",
+          "sari",
           "trang phục",
           "váy",
           "xari"
@@ -14828,6 +15957,7 @@
       "🩳": {
         "default": [
           "bộ đồ tắm",
+          "quần bơi",
           "quần dài",
           "quần lót",
           "quần soóc"
@@ -14839,6 +15969,7 @@
       "👙": {
         "default": [
           "áo tắm hai mảnh",
+          "bể bơi",
           "bơi",
           "quần áo"
         ],
@@ -14864,6 +15995,7 @@
           "nóng",
           "quạt",
           "quạt giấy",
+          "tán tỉnh",
           "vỗ cánh"
         ],
         "tts": [
@@ -14874,6 +16006,7 @@
         "default": [
           "đồng tiền",
           "quần áo",
+          "tiền xu",
           "ví"
         ],
         "tts": [
@@ -14882,6 +16015,7 @@
       },
       "👜": {
         "default": [
+          "mua sắm",
           "quần áo",
           "túi",
           "túi xách",
@@ -15032,8 +16166,9 @@
       "🪮": {
         "default": [
           "Afro",
+          "chải",
+          "kiểu tóc afro",
           "lược",
-          "lược Afro Pick",
           "pick",
           "tóc"
         ],
@@ -15043,6 +16178,7 @@
       },
       "👑": {
         "default": [
+          "gia đình hoàng gia",
           "nữ hoàng",
           "quần áo",
           "vua",
@@ -15088,6 +16224,7 @@
       },
       "🧢": {
         "default": [
+          "mũ",
           "mũ bóng chày",
           "mũ lưỡi trai"
         ],
@@ -15179,7 +16316,9 @@
       "🔈": {
         "default": [
           "âm lượng loa thấp",
-          "nhẹ"
+          "âm thanh",
+          "nhẹ",
+          "nhỏ"
         ],
         "tts": [
           "âm lượng loa thấp"
@@ -15188,6 +16327,7 @@
       "🔉": {
         "default": [
           "âm lượng loa trung bình",
+          "âm thanh",
           "trung bình"
         ],
         "tts": [
@@ -15236,7 +16376,9 @@
       },
       "🔔": {
         "default": [
-          "cái chuông"
+          "cái chuông",
+          "giờ nghỉ",
+          "nhà thờ"
         ],
         "tts": [
           "cái chuông"
@@ -15318,8 +16460,11 @@
       },
       "🎤": {
         "default": [
+          "âm thanh",
+          "hát",
           "karaoke",
-          "micrô"
+          "micrô",
+          "nhạc"
         ],
         "tts": [
           "micrô"
@@ -15327,6 +16472,7 @@
       },
       "🎧": {
         "default": [
+          "âm thanh",
           "tai nghe"
         ],
         "tts": [
@@ -15354,8 +16500,11 @@
       },
       "🪗": {
         "default": [
+          "accordion",
+          "âm nhạc",
           "buổi hòa nhạc",
           "hộp bóp",
+          "nhạc cụ",
           "phong cầm"
         ],
         "tts": [
@@ -15408,6 +16557,7 @@
         "default": [
           "âm nhạc",
           "có dây",
+          "đàn",
           "đàn banjo"
         ],
         "tts": [
@@ -15428,6 +16578,7 @@
         "default": [
           "conga",
           "đập",
+          "nhạc cụ",
           "nhịp",
           "trống",
           "trống dài"
@@ -15443,6 +16594,8 @@
           "lục lạc",
           "maraca",
           "nhạc cụ",
+          "nhảy",
+          "tiệc tùng",
           "trống"
         ],
         "tts": [
@@ -15451,8 +16604,13 @@
       },
       "🪈": {
         "default": [
+          "âm nhạc",
+          "ban nhạc",
+          "ban nhạc diễu hành",
+          "dàn nhạc giao hưởng",
           "máy ghi âm",
           "nhạc",
+          "nhạc cụ",
           "nhạc cụ hơi bằng gỗ",
           "ống sáo",
           "ống tiêu",
@@ -15460,6 +16618,18 @@
         ],
         "tts": [
           "sáo"
+        ]
+      },
+      "🪉": {
+        "default": [
+          "âm nhạc",
+          "dàn nhạc",
+          "nhạc cụ",
+          "thần tình yêu",
+          "tình yêu"
+        ],
+        "tts": [
+          "đàn hạc"
         ]
       },
       "📱": {
@@ -15514,6 +16684,7 @@
       },
       "📠": {
         "default": [
+          "fax",
           "máy fax"
         ],
         "tts": [
@@ -15560,6 +16731,7 @@
       },
       "🖥": {
         "default": [
+          "màn hình",
           "máy tính",
           "máy tính để bàn"
         ],
@@ -15659,6 +16831,8 @@
       },
       "🎥": {
         "default": [
+          "bollywood",
+          "hollywood",
           "máy quay phim",
           "phim",
           "rạp chiếu phim"
@@ -15693,6 +16867,7 @@
       "🎬": {
         "default": [
           "bảng clapper",
+          "diễn",
           "phim"
         ],
         "tts": [
@@ -15843,6 +17018,7 @@
       "📕": {
         "default": [
           "đóng",
+          "giáo dục",
           "sách"
         ],
         "tts": [
@@ -15861,8 +17037,10 @@
       },
       "📗": {
         "default": [
+          "giáo dục",
           "sách",
           "sách màu lục",
+          "thư viện",
           "xanh lục"
         ],
         "tts": [
@@ -15891,7 +17069,12 @@
       },
       "📚": {
         "default": [
-          "sách"
+          "đọc",
+          "học tập",
+          "sách",
+          "thư viện",
+          "tri thức",
+          "trường học"
         ],
         "tts": [
           "sách"
@@ -15948,7 +17131,8 @@
       "📰": {
         "default": [
           "báo",
-          "tạp chí"
+          "tạp chí",
+          "tin tức"
         ],
         "tts": [
           "báo"
@@ -15957,6 +17141,7 @@
       "🗞": {
         "default": [
           "báo",
+          "báo giấy",
           "cuộn",
           "tạp chí",
           "tờ báo được cuộn tròn"
@@ -16006,7 +17191,10 @@
       "🪙": {
         "default": [
           "bạc",
+          "đô la",
           "đồng tiền",
+          "euro",
+          "giàu",
           "kho báu",
           "kim loại",
           "tiền",
@@ -16082,6 +17270,8 @@
       },
       "💳": {
         "default": [
+          "ngân hàng",
+          "thanh toán",
           "thẻ",
           "thẻ tín dụng",
           "tiền",
@@ -16097,6 +17287,7 @@
           "chứng từ",
           "ghi sổ sách",
           "giấy tờ chứng thực",
+          "hóa đơn",
           "kế toán"
         ],
         "tts": [
@@ -16267,7 +17458,8 @@
       },
       "✏": {
         "default": [
-          "bút chì"
+          "bút chì",
+          "văn phòng phẩm"
         ],
         "tts": [
           "bút chì"
@@ -16276,6 +17468,7 @@
       "✒": {
         "default": [
           "bút",
+          "bút mực",
           "ngòi",
           "ngòi bút đen"
         ],
@@ -16329,7 +17522,8 @@
       },
       "💼": {
         "default": [
-          "cặp tài liệu"
+          "cặp tài liệu",
+          "văn phòng"
         ],
         "tts": [
           "cặp tài liệu"
@@ -16455,7 +17649,9 @@
       },
       "📋": {
         "default": [
-          "bảng ghi nhớ"
+          "bảng ghi nhớ",
+          "ghi chú",
+          "việc cần làm"
         ],
         "tts": [
           "bảng ghi nhớ"
@@ -16502,7 +17698,8 @@
         "default": [
           "cạnh thẳng",
           "thước kẻ",
-          "thước thẳng"
+          "thước thẳng",
+          "toán"
         ],
         "tts": [
           "thước thẳng"
@@ -16561,7 +17758,8 @@
       "🔒": {
         "default": [
           "đóng",
-          "khóa"
+          "khóa",
+          "riêng tư"
         ],
         "tts": [
           "khóa"
@@ -16626,7 +17824,8 @@
       "🔨": {
         "default": [
           "búa",
-          "dụng cụ"
+          "dụng cụ",
+          "sửa chữa"
         ],
         "tts": [
           "búa"
@@ -16636,6 +17835,7 @@
         "default": [
           "bổ",
           "bổ đôi",
+          "chặt",
           "chém",
           "gỗ",
           "rìu",
@@ -16647,6 +17847,7 @@
       },
       "⛏": {
         "default": [
+          "búa",
           "búa chim",
           "dụng cụ",
           "khai mỏ"
@@ -16682,6 +17883,7 @@
         "default": [
           "dao",
           "dao găm",
+          "nguy hiểm",
           "vũ khí"
         ],
         "tts": [
@@ -16702,7 +17904,9 @@
       "💣": {
         "default": [
           "bom",
-          "hài hước"
+          "hài hước",
+          "nguy hiểm",
+          "nổ"
         ],
         "tts": [
           "bom"
@@ -16712,8 +17916,11 @@
         "default": [
           "australia",
           "bật lại",
+          "boomerang",
           "bumơrang",
-          "dội lại"
+          "dội lại",
+          "thổ dân",
+          "vũ khí"
         ],
         "tts": [
           "bumơrang"
@@ -16743,6 +17950,7 @@
       },
       "🪚": {
         "default": [
+          "cắt",
           "cưa",
           "cưa mộc",
           "dụng cụ",
@@ -16766,6 +17974,7 @@
       "🪛": {
         "default": [
           "bắt vít",
+          "đầu phẳng",
           "dụng cụ",
           "tua vít"
         ],
@@ -16836,9 +18045,24 @@
           "mắt xích"
         ]
       },
+      "⛓‍💥": {
+        "default": [
+          "bẻ gãy",
+          "còng tay",
+          "đứt",
+          "làm đứt",
+          "tự do",
+          "xích",
+          "xích bị đứt"
+        ],
+        "tts": [
+          "xích bị đứt"
+        ]
+      },
       "⛓": {
         "default": [
-          "dây xích"
+          "dây xích",
+          "xích"
         ],
         "tts": [
           "dây xích"
@@ -16859,6 +18083,7 @@
       },
       "🧰": {
         "default": [
+          "cơ khí",
           "dụng cụ",
           "hòm",
           "hộp dụng cụ",
@@ -16870,6 +18095,8 @@
       },
       "🧲": {
         "default": [
+          "âm dương",
+          "chữ u",
           "móng ngựa",
           "nam châm",
           "sức hút",
@@ -16888,6 +18115,18 @@
         ],
         "tts": [
           "thang"
+        ]
+      },
+      "🪏": {
+        "default": [
+          "đào",
+          "lỗ",
+          "thuổng",
+          "xẻng",
+          "xúc"
+        ],
+        "tts": [
+          "xẻng"
         ]
       },
       "⚗": {
@@ -16944,7 +18183,8 @@
           "dụng cụ",
           "khoa học",
           "kính hiển vi",
-          "kính hiển vị"
+          "kính hiển vị",
+          "thí nghiệm"
         ],
         "tts": [
           "kính hiển vi"
@@ -16977,7 +18217,8 @@
           "kim",
           "ống tiêm",
           "thuốc",
-          "tiêm"
+          "tiêm",
+          "vắc-xin"
         ],
         "tts": [
           "ống tiêm"
@@ -16985,6 +18226,7 @@
       },
       "🩸": {
         "default": [
+          "chấn thương",
           "chu kỳ kinh nguyệt",
           "giọt máu",
           "hiến máu",
@@ -17000,7 +18242,8 @@
           "bác sĩ",
           "bệnh",
           "thuốc",
-          "viên thuốc"
+          "viên thuốc",
+          "vitamin"
         ],
         "tts": [
           "viên thuốc"
@@ -17009,7 +18252,8 @@
       "🩹": {
         "default": [
           "băng dán y tế",
-          "băng dính"
+          "băng dính",
+          "băng vết thương"
         ],
         "tts": [
           "băng dính"
@@ -17053,7 +18297,9 @@
       },
       "🚪": {
         "default": [
-          "cửa"
+          "cửa",
+          "cửa sau",
+          "cửa trước"
         ],
         "tts": [
           "cửa"
@@ -17075,7 +18321,9 @@
           "gương",
           "gương phản xạ",
           "phản ánh",
-          "phản xạ"
+          "phản chiếu",
+          "phản xạ",
+          "trang điểm"
         ],
         "tts": [
           "gương"
@@ -17169,7 +18417,8 @@
           "bẫy",
           "bẩy",
           "bẫy chuột",
-          "mồi"
+          "mồi",
+          "pho mát"
         ],
         "tts": [
           "bẫy chuột"
@@ -17179,6 +18428,7 @@
         "default": [
           "cạo râu",
           "dao cạo",
+          "dao cạo râu",
           "sắc"
         ],
         "tts": [
@@ -17212,7 +18462,8 @@
           "cây chổi",
           "làm sạch",
           "phù thủy",
-          "quét"
+          "quét",
+          "quét dọn"
         ],
         "tts": [
           "cây chổi"
@@ -17344,6 +18595,7 @@
       },
       "🪦": {
         "default": [
+          "an nghỉ",
           "bia mộ",
           "mộ",
           "nghĩa địa",
@@ -17404,11 +18656,14 @@
       },
       "🪧": {
         "default": [
+          "bảng",
           "bảng hiệu",
           "biển hiệu",
           "cọc",
           "phản đối",
-          "thể hiện"
+          "thẻ",
+          "thể hiện",
+          "thông báo"
         ],
         "tts": [
           "bảng hiệu"
@@ -17463,7 +18718,9 @@
       "♿": {
         "default": [
           "biểu tượng xe lăn",
-          "lối vào"
+          "lối vào",
+          "người khuyết tật",
+          "xe lăn"
         ],
         "tts": [
           "biểu tượng xe lăn"
@@ -17565,7 +18822,8 @@
       },
       "⚠": {
         "default": [
-          "cảnh báo"
+          "cảnh báo",
+          "thận trọng"
         ],
         "tts": [
           "cảnh báo"
@@ -17788,6 +19046,7 @@
         "default": [
           "chiều hướng",
           "chính",
+          "hướng tây",
           "mũi tên",
           "mũi tên trái",
           "tây"
@@ -17811,6 +19070,8 @@
       "↕": {
         "default": [
           "mũi tên",
+          "mũi tên hai chiều",
+          "mũi tên hai hướng",
           "mũi tên lên xuống"
         ],
         "tts": [
@@ -17820,6 +19081,8 @@
       "↔": {
         "default": [
           "mũi tên",
+          "mũi tên hai chiều",
+          "mũi tên hai hướng",
           "mũi tên trái phải"
         ],
         "tts": [
@@ -17884,9 +19147,11 @@
       },
       "🔄": {
         "default": [
+          "làm mới",
           "mũi tên",
           "ngược chiều kim đồng",
-          "nút mũi tên ngược chiều kim đồng hồ"
+          "nút mũi tên ngược chiều kim đồng hồ",
+          "tua lại"
         ],
         "tts": [
           "nút mũi tên ngược chiều kim đồng hồ"
@@ -17990,6 +19255,7 @@
       "☸": {
         "default": [
           "bánh xe",
+          "đạo phật",
           "pháp",
           "pháp luân",
           "phật giáo",
@@ -18077,7 +19343,11 @@
       "🪯": {
         "default": [
           "biểu tượng khanda",
+          "Deg Tegh Fateh",
+          "đức tin",
+          "Khalsa",
           "Sikh",
+          "Sikh giáo",
           "tôn giáo"
         ],
         "tts": [
@@ -18087,8 +19357,11 @@
       "♈": {
         "default": [
           "Bạch Dương",
+          "chòm sao",
+          "chòm sao Bạch Dương",
           "cung hoàng đạo",
-          "cừu đực"
+          "cừu đực",
+          "lá số tử vi"
         ],
         "tts": [
           "Bạch Dương"
@@ -18097,8 +19370,10 @@
       "♉": {
         "default": [
           "bò đực",
+          "chòm sao",
           "cung hoàng đạo",
-          "Kim Ngưu"
+          "Kim Ngưu",
+          "lá số tử vi"
         ],
         "tts": [
           "Kim Ngưu"
@@ -18107,6 +19382,7 @@
       "♊": {
         "default": [
           "cung hoàng đạo",
+          "lá số tử vi",
           "song sinh",
           "Song Tử"
         ],
@@ -18118,7 +19394,8 @@
         "default": [
           "con cua",
           "Cự Giải",
-          "cung hoàng đạo"
+          "cung hoàng đạo",
+          "lá số tử vi"
         ],
         "tts": [
           "Cự Giải"
@@ -18127,6 +19404,7 @@
       "♌": {
         "default": [
           "cung hoàng đạo",
+          "lá số tử vi",
           "sư tử",
           "Sư Tử"
         ],
@@ -18137,6 +19415,7 @@
       "♍": {
         "default": [
           "cung hoàng đạo",
+          "lá số tử vi",
           "Xử Nữ"
         ],
         "tts": [
@@ -18149,6 +19428,7 @@
           "cân đối",
           "công bằng",
           "cung hoàng đạo",
+          "lá số tử vi",
           "Thiên Bình"
         ],
         "tts": [
@@ -18158,8 +19438,10 @@
       "♏": {
         "default": [
           "bọ cạp",
+          "Bọ Cạp",
           "cung bọ cạp",
           "cung hoàng đạo",
+          "lá số tử vi",
           "Thiên Yết"
         ],
         "tts": [
@@ -18169,6 +19451,7 @@
       "♐": {
         "default": [
           "cung hoàng đạo",
+          "lá số tử vi",
           "người bắn cung",
           "Nhân Mã"
         ],
@@ -18180,6 +19463,7 @@
         "default": [
           "con dê",
           "cung hoàng đạo",
+          "lá số tử vi",
           "Ma Kết"
         ],
         "tts": [
@@ -18190,6 +19474,7 @@
         "default": [
           "Bảo Bình",
           "cung hoàng đạo",
+          "lá số tử vi",
           "người mang",
           "nước"
         ],
@@ -18201,7 +19486,7 @@
         "default": [
           "con cá",
           "cung hoàng đạo",
-          "song ngư",
+          "lá số tử vi",
           "Song Ngư"
         ],
         "tts": [
@@ -18268,9 +19553,11 @@
         "default": [
           "kép",
           "mũi tên",
+          "mũi tên kép",
           "nhanh",
           "nút tua đi nhanh",
-          "phía trước"
+          "phía trước",
+          "tua đi"
         ],
         "tts": [
           "nút tua đi nhanh"
@@ -18317,6 +19604,7 @@
         "default": [
           "kép",
           "mũi tên",
+          "mũi tên kép",
           "nút tua lại nhanh",
           "tua lại"
         ],
@@ -18352,6 +19640,7 @@
         "default": [
           "kép",
           "mũi tên",
+          "mũi tên kép",
           "nút lên nhanh"
         ],
         "tts": [
@@ -18374,6 +19663,7 @@
         "default": [
           "kép",
           "mũi tên",
+          "mũi tên kép",
           "nút xuống nhanh",
           "xuống"
         ],
@@ -18426,6 +19716,7 @@
         "default": [
           "bộ phim",
           "máy ảnh",
+          "máy quay",
           "phim ảnh",
           "rạp chiếu phim"
         ],
@@ -18467,10 +19758,17 @@
       },
       "🛜": {
         "default": [
+          "băng thông rộng",
+          "bộ định tuyến",
+          "điện thoại thông minh",
+          "hotspot",
           "internet",
+          "kết nối",
           "không dây",
           "mạng",
-          "máy tính"
+          "mạng lan",
+          "máy tính",
+          "wifi"
         ],
         "tts": [
           "không dây"
@@ -18644,6 +19942,7 @@
         "default": [
           "cảm thán",
           "chấm",
+          "chấm than",
           "dấu",
           "dấu chấm than màu trắng",
           "mờ"
@@ -18657,6 +19956,7 @@
           "!",
           "cảm thán",
           "chấm",
+          "chấm than",
           "dấu",
           "dấu chấm than",
           "dấu chấm than đỏ"
@@ -18720,6 +20020,7 @@
       },
       "⚜": {
         "default": [
+          "hiệp sĩ",
           "hoa bách hợp",
           "hoa diên vĩ"
         ],
@@ -18777,6 +20078,7 @@
           "chọn",
           "dấu",
           "dấu chọn đậm màu trắng",
+          "dấu tích",
           "nút"
         ],
         "tts": [
@@ -18787,6 +20089,8 @@
         "default": [
           "✓",
           "chọn",
+          "dấu tích",
+          "hoàn thành",
           "hộp",
           "hộp kiểm có dấu chọn"
         ],
@@ -18798,7 +20102,9 @@
         "default": [
           "✓",
           "chọn",
-          "dấu"
+          "dấu",
+          "dấu kiểm",
+          "dấu tích"
         ],
         "tts": [
           "dấu chọn"
@@ -18819,6 +20125,7 @@
       "❎": {
         "default": [
           "dấu",
+          "dấu nhân",
           "hình vuông",
           "nút dấu gạch chéo"
         ],
@@ -18840,7 +20147,8 @@
           "cong",
           "kép",
           "vòng lặp",
-          "vòng lặp đôi"
+          "vòng lặp đôi",
+          "vòng lặp kép"
         ],
         "tts": [
           "vòng lặp đôi"
@@ -18867,6 +20175,7 @@
       },
       "✴": {
         "default": [
+          "ngôi sao",
           "ngôi sao tám cánh"
         ],
         "tts": [
@@ -18905,6 +20214,18 @@
         ],
         "tts": [
           "nhãn hiệu"
+        ]
+      },
+      "🫟": {
+        "default": [
+          "bắn tung tóe",
+          "ngày lễ",
+          "sơn",
+          "tràn",
+          "vết ố"
+        ],
+        "tts": [
+          "bắn tung tóe"
         ]
       },
       "🔠": {
@@ -18970,6 +20291,7 @@
         "default": [
           "a",
           "nhóm máu",
+          "nhóm máu A",
           "nút A (nhóm máu)"
         ],
         "tts": [
@@ -18980,6 +20302,7 @@
         "default": [
           "ab",
           "nhóm máu",
+          "nhóm máu AB",
           "nút AB (nhóm máu)"
         ],
         "tts": [
@@ -18990,6 +20313,7 @@
         "default": [
           "b",
           "nhóm máu",
+          "nhóm máu B",
           "nút B (nhóm máu)"
         ],
         "tts": [
@@ -19008,6 +20332,7 @@
       "🆒": {
         "default": [
           "cool",
+          "mát",
           "nút COOL"
         ],
         "tts": [
@@ -19054,6 +20379,7 @@
       },
       "🆕": {
         "default": [
+          "mới",
           "new",
           "nút NEW"
         ],
@@ -19073,6 +20399,8 @@
       "🅾": {
         "default": [
           "nhóm máu",
+          "nhóm máu O",
+          "nút O",
           "nút O (nhóm máu)",
           "o"
         ],
@@ -19274,6 +20602,7 @@
       "㊗": {
         "default": [
           "“chúc mừng”",
+          "\"chúc mừng\" bằng tiếng Nhật",
           "chữ tượng hình",
           "nút Tiếng Nhật “chúc mừng”",
           "Tiếng Nhật"
@@ -19286,6 +20615,7 @@
         "default": [
           "“bí mật”",
           "chữ tượng hình",
+          "nút \"bí mật\" tiếng Nhật",
           "nút Tiếng Nhật “bí mật”",
           "Tiếng Nhật"
         ],
@@ -19468,6 +20798,7 @@
         "default": [
           "hình vuông",
           "hình vuông màu xanh da trời",
+          "màu lam",
           "màu xanh da trời",
           "ô vuông"
         ],
@@ -19561,7 +20892,9 @@
       "▪": {
         "default": [
           "hình học",
+          "hình màu đen",
           "hình vuông",
+          "hình vuông màu đen",
           "hình vuông nhỏ màu đen"
         ],
         "tts": [
@@ -19571,7 +20904,9 @@
       "▫": {
         "default": [
           "hình học",
+          "hình màu trắng",
           "hình vuông",
+          "hình vuông màu trắng",
           "hình vuông nhỏ màu trắng"
         ],
         "tts": [
@@ -19692,8 +21027,10 @@
       "🏁": {
         "default": [
           "ca rô",
+          "chiến thắng",
           "cờ ô vuông",
-          "cuộc đua"
+          "cuộc đua",
+          "thể thao"
         ],
         "tts": [
           "cờ ô vuông"
@@ -19701,8 +21038,10 @@
       },
       "🚩": {
         "default": [
+          "cờ",
           "cờ tam giác",
-          "đánh dấu"
+          "đánh dấu",
+          "xây dựng"
         ],
         "tts": [
           "cờ tam giác"
@@ -19741,7 +21080,10 @@
       "🏳‍🌈": {
         "default": [
           "cầu vồng",
-          "cờ cầu vồng"
+          "chuyển giới",
+          "cờ cầu vồng",
+          "đồng tính",
+          "song tính"
         ],
         "tts": [
           "cờ cầu vồng"
@@ -19750,7 +21092,9 @@
       "🏳‍⚧": {
         "default": [
           "cờ",
+          "cờ màu xanh",
           "cờ màu xanh, hồng và trắng",
+          "hồng và trắng",
           "người chuyển giới"
         ],
         "tts": [
@@ -19805,9 +21149,9 @@
         "default": [
           "CNY",
           "JPY",
+          "nhân dân tệ",
           "tiền tệ",
-          "Yên Nhật",
-          "yuan"
+          "Yên Nhật"
         ],
         "tts": [
           "Yên Nhật"
@@ -19815,7 +21159,9 @@
       },
       "₢": {
         "default": [
-          "cruzeiro"
+          "BRB",
+          "cruzeiro",
+          "tiền tệ"
         ],
         "tts": [
           "cruzeiro"
@@ -19823,7 +21169,9 @@
       },
       "₣": {
         "default": [
-          "đồng franc Pháp"
+          "đồng franc",
+          "đồng franc Pháp",
+          "tiền tệ"
         ],
         "tts": [
           "đồng franc Pháp"
@@ -19831,10 +21179,11 @@
       },
       "₤": {
         "default": [
-          "lia"
+          "lira",
+          "tiền tệ"
         ],
         "tts": [
-          "lia"
+          "lira"
         ]
       },
       "₥": {
@@ -19868,6 +21217,8 @@
       },
       "₰": {
         "default": [
+          "pfennig",
+          "tiền tệ",
           "xu Đức"
         ],
         "tts": [
@@ -19884,7 +21235,9 @@
       },
       "₳": {
         "default": [
-          "austral"
+          "ARA",
+          "austral",
+          "tiền tệ"
         ],
         "tts": [
           "austral"
@@ -19892,7 +21245,8 @@
       },
       "₶": {
         "default": [
-          "đồng livre"
+          "đồng livre",
+          "tiền tệ"
         ],
         "tts": [
           "đồng livre"
@@ -19900,7 +21254,8 @@
       },
       "₷": {
         "default": [
-          "đồng spesmilo"
+          "đồng spesmilo",
+          "tiền tệ"
         ],
         "tts": [
           "đồng spesmilo"
@@ -19934,22 +21289,6 @@
           "bitcoin"
         ]
       },
-      "₨": {
-        "default": [
-          "rupee"
-        ],
-        "tts": [
-          "rupee"
-        ]
-      },
-      "﷼": {
-        "default": [
-          "rial"
-        ],
-        "tts": [
-          "rial"
-        ]
-      },
       "¹": {
         "default": [
           "một",
@@ -19981,6 +21320,15 @@
           "mũ ba"
         ]
       },
+      "₨": {
+        "default": [
+          "rupee",
+          "tiền tệ"
+        ],
+        "tts": [
+          "rupee"
+        ]
+      },
       "µ": {
         "default": [
           "đo lường",
@@ -19988,6 +21336,15 @@
         ],
         "tts": [
           "ký hiệu micro"
+        ]
+      },
+      "﷼": {
+        "default": [
+          "rial",
+          "tiền tệ"
+        ],
+        "tts": [
+          "rial"
         ]
       }
     }

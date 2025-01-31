@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "hi",
       "script": "Latn"
     },
@@ -339,9 +336,7 @@
           "arroba",
           "at mark",
           "at sign",
-          "at-sign",
-          "commercial at",
-          "strudel"
+          "at-sign"
         ],
         "tts": [
           "at-sign"
@@ -401,20 +396,26 @@
           "xor sign"
         ]
       },
+      "¨": {
+        "default": [
+          "diaeresis",
+          "umlaut"
+        ]
+      },
       "↚": {
         "default": [
-          "leftwards arrow stroke"
+          "stroke ke saath leftwards arrow"
         ],
         "tts": [
-          "leftwards arrow stroke"
+          "stroke ke saath leftwards arrow"
         ]
       },
       "↛": {
         "default": [
-          "rightwards arrow stroke"
+          "stroke ke saath rightwards arrow"
         ],
         "tts": [
-          "rightwards arrow stroke"
+          "stroke ke saath rightwards arrow"
         ]
       },
       "↞": {
@@ -451,18 +452,18 @@
       },
       "↢": {
         "default": [
-          "leftwards arrow tail"
+          "tail wala leftwards arrow"
         ],
         "tts": [
-          "leftwards arrow tail"
+          "tail wala leftwards arrow"
         ]
       },
       "↣": {
         "default": [
-          "rightwards arrow tail"
+          "tail wala rightwards arrow"
         ],
         "tts": [
-          "rightwards arrow tail"
+          "tail wala rightwards arrow"
         ]
       },
       "↨": {
@@ -475,18 +476,18 @@
       },
       "↫": {
         "default": [
-          "leftwards arrow loop"
+          "loop wala leftwards arrow"
         ],
         "tts": [
-          "leftwards arrow loop"
+          "loop wala leftwards arrow"
         ]
       },
       "↬": {
         "default": [
-          "rightwards arrow loop"
+          "loop wala rightwards arrow"
         ],
         "tts": [
-          "rightwards arrow loop"
+          "loop wala rightwards arrow"
         ]
       },
       "↭": {
@@ -499,50 +500,50 @@
       },
       "↰": {
         "default": [
-          "upwards arrow tip leftwards"
+          "leftwards tip wala upwards arrow"
         ],
         "tts": [
-          "upwards arrow tip leftwards"
+          "leftwards tip wala upwards arrow"
         ]
       },
       "↱": {
         "default": [
-          "upwards arrow tip rightwards"
+          "rightwards tip wala upwards arrow"
         ],
         "tts": [
-          "upwards arrow tip rightwards"
+          "rightwards tip wala upwards arrow"
         ]
       },
       "↲": {
         "default": [
-          "downwards arrow tip leftwards"
+          "leftwards tip wala downwards arrow"
         ],
         "tts": [
-          "downwards arrow tip leftwards"
+          "leftwards tip wala downwards arrow"
         ]
       },
       "↳": {
         "default": [
-          "downwards arrow tip rightwards"
+          "rightwards tip wala downwards arrow"
         ],
         "tts": [
-          "downwards arrow tip rightwards"
+          "rightwards tip wala downwards arrow"
         ]
       },
       "↴": {
         "default": [
-          "rightwards arrow corner downwards"
+          "downwards corner wala rightwards arrow"
         ],
         "tts": [
-          "rightwards arrow corner downwards"
+          "downwards corner wala rightwards arrow"
         ]
       },
       "↵": {
         "default": [
-          "downwards arrow corner leftwards"
+          "downwards corner wala leftwards arrow"
         ],
         "tts": [
-          "downwards arrow corner leftwards"
+          "downwards corner wala leftwards arrow"
         ]
       },
       "↶": {
@@ -665,36 +666,60 @@
           "downwards harpoon barb leftwards"
         ]
       },
-      "⇍": {
+      "⇇": {
         "default": [
-          "leftwards double arrow stroke"
+          "leftwards arrows kaa pair"
         ],
         "tts": [
-          "leftwards double arrow stroke"
+          "leftwards arrows kaa pair"
+        ]
+      },
+      "⇈": {
+        "default": [
+          "upwards arrows kaa pair"
+        ],
+        "tts": [
+          "upwards arrows kaa pair"
+        ]
+      },
+      "⇉": {
+        "default": [
+          "rightwards arrows kaa pair"
+        ],
+        "tts": [
+          "rightwards arrows kaa pair"
+        ]
+      },
+      "⇊": {
+        "default": [
+          "downwards arrows kaa pair"
+        ],
+        "tts": [
+          "downwards arrows kaa pair"
+        ]
+      },
+      "⇍": {
+        "default": [
+          "strike kiya gaya leftwards double arrow"
+        ],
+        "tts": [
+          "strike kiya gaya leftwards double arrow"
         ]
       },
       "⇏": {
         "default": [
-          "rightwards double arrow stroke"
+          "strike kiya gaya rightwards double arrow"
         ],
         "tts": [
-          "rightwards double arrow stroke"
-        ]
-      },
-      "⇔": {
-        "default": [
-          "left right double arrow"
-        ],
-        "tts": [
-          "left right double arrow"
+          "strike kiya gaya rightwards double arrow"
         ]
       },
       "⇎": {
         "default": [
-          "left right double arrow stroke"
+          "strike kiya gaya left-right double arrow"
         ],
         "tts": [
-          "left right double arrow stroke"
+          "strike kiya gaya left-right double arrow"
         ]
       },
       "⇖": {
@@ -731,18 +756,18 @@
       },
       "⇞": {
         "default": [
-          "upwards arrow double stroke"
+          "double strike kiya gaya upwards arrow"
         ],
         "tts": [
-          "upwards arrow double stroke"
+          "double strike kiya gaya upwards arrow"
         ]
       },
       "⇟": {
         "default": [
-          "downwards arrow double stroke"
+          "double strike kiya gaya downwards arrow"
         ],
         "tts": [
-          "downwards arrow double stroke"
+          "double strike kiya gaya downwards arrow"
         ]
       },
       "⇤": {
@@ -763,10 +788,10 @@
       },
       "⇵": {
         "default": [
-          "downwards arrow leftwards upwards arrow"
+          "downwards aur upwards arrows"
         ],
         "tts": [
-          "downwards arrow leftwards upwards arrow"
+          "downwards aur upwards arrows"
         ]
       },
       "∀": {
@@ -791,6 +816,9 @@
         "default": [
           "there exists",
           "Vahan maujood hota hai"
+        ],
+        "tts": [
+          "vahan maujood hota hai"
         ]
       },
       "∅": {
@@ -815,10 +843,11 @@
       "∉": {
         "default": [
           "element",
+          "element nahi",
           "koi element nahi"
         ],
         "tts": [
-          "koi element nahi"
+          "element nahi"
         ]
       },
       "∋": {
@@ -863,7 +892,8 @@
         "default": [
           "baraabar na hona",
           "isse kam nahi",
-          "mathematics"
+          "mathematics",
+          "not equal"
         ],
         "tts": [
           "isse kam nahi"
@@ -881,7 +911,7 @@
         "default": [
           "baraabar na hona",
           "baraabar nahi",
-          "Baraabar nahi"
+          "not equal"
         ],
         "tts": [
           "baraabar nahi"
@@ -901,7 +931,8 @@
         "default": [
           "baraabar na hona",
           "isse bada nahi",
-          "mathematics"
+          "mathematics",
+          "not equal"
         ],
         "tts": [
           "isse bada nahi"
@@ -954,6 +985,7 @@
       },
       "∴": {
         "default": [
+          "hence",
           "isliye",
           "logic"
         ],
@@ -982,6 +1014,7 @@
       },
       "≅": {
         "default": [
+          "almost equal",
           "approximately equal",
           "baraabri",
           "congruence",
@@ -1004,8 +1037,12 @@
       },
       "≒": {
         "default": [
-          "approximately equal the image",
-          "approximately image ke baraabar"
+          "approximately",
+          "approximately baraabar",
+          "approximately equal"
+        ],
+        "tts": [
+          "approximately image ke equal"
         ]
       },
       "≣": {
@@ -1066,21 +1103,23 @@
       "≪": {
         "default": [
           "baraabri na hona",
+          "isse kaafi kam",
           "ke comparision mein kaafi kam",
           "mathematics"
         ],
         "tts": [
-          "ke comparision mein kaafi kam"
+          "isse kaafi kam"
         ]
       },
       "≫": {
         "default": [
           "inequality",
+          "isse kaafi zyaada",
           "ke comparision mein kaafi zyaada",
           "mathematics"
         ],
         "tts": [
-          "ke comparision mein kaafi zyaada"
+          "isse kaafi zyaada"
         ]
       },
       "≬": {
@@ -1236,7 +1275,7 @@
           "normal subgroup equal ke taur par shaamil nahi karta"
         ],
         "tts": [
-          "normal subgroup equal ke taur par shaamil nahi karta"
+          "normal subgroup equal ke taur par nahi"
         ]
       },
       "⊶": {
@@ -1245,6 +1284,32 @@
         ],
         "tts": [
           "original"
+        ]
+      },
+      "⋘": {
+        "default": [
+          "baraabar nahi",
+          "inequality",
+          "isse bahut kam",
+          "mathematics",
+          "not equal",
+          "very much less-than"
+        ],
+        "tts": [
+          "isse bahut kam"
+        ]
+      },
+      "⋙": {
+        "default": [
+          "baraabar nahi",
+          "inequality",
+          "isse bahut zyaada",
+          "mathematics",
+          "not equal",
+          "very much greater-than"
+        ],
+        "tts": [
+          "isse bahut zyaada"
         ]
       },
       "⋰": {
@@ -1279,12 +1344,18 @@
       },
       "▢": {
         "default": [
-          "hollow square with rounded corners"
+          "rounded corners wala hollow square"
+        ],
+        "tts": [
+          "rounded corners wala hollow square"
         ]
       },
       "▣": {
         "default": [
-          "hollow square containing filled square"
+          "hollow square mein ek filled square"
+        ],
+        "tts": [
+          "hollow square mein ek filled square"
         ]
       },
       "▤": {
@@ -1313,18 +1384,18 @@
       },
       "▧": {
         "default": [
-          "square upper left lower right fill"
+          "upper left se lower right filled square"
         ],
         "tts": [
-          "square upper left lower right fill"
+          "upper left se lower right filled square"
         ]
       },
       "▨": {
         "default": [
-          "square upper right lower left fill"
+          "upper right se lower left filled square"
         ],
         "tts": [
-          "square upper right lower left fill"
+          "upper right se lower left filled square"
         ]
       },
       "▩": {
@@ -1359,7 +1430,6 @@
         "default": [
           "arrow",
           "filled",
-          "oopar point karta hua filled triangle",
           "Oopar point karta hua filled triangle",
           "triangle",
           "up"
@@ -1555,10 +1625,30 @@
       },
       "◕": {
         "default": [
-          "circle all but upper left quadrant filled"
+          "upper left quadrant ko chhodkar poora filled cirle"
         ],
         "tts": [
-          "circle all but upper left quadrant filled"
+          "upper left quadrant chhodkar filled circle"
+        ]
+      },
+      "◖": {
+        "default": [
+          "half filled left circle",
+          "left se half black circle",
+          "left se half filled circle"
+        ],
+        "tts": [
+          "half filled left circle"
+        ]
+      },
+      "◗": {
+        "default": [
+          "half filled right circle",
+          "right se half black circle",
+          "right se half filled circle"
+        ],
+        "tts": [
+          "half filled right circle"
         ]
       },
       "◙": {
@@ -1651,10 +1741,10 @@
       },
       "◷": {
         "default": [
-          "hollow circle with upper right quadrant"
+          "hollow upper right quadrant wala hollow circle"
         ],
         "tts": [
-          "hollow circle with upper right quadrant"
+          "upper right quadrant wala hollow circle"
         ]
       },
       "◿": {
@@ -1698,10 +1788,10 @@
       },
       "⩣": {
         "default": [
-          "logical or double underbar"
+          "logical yaa double underbar"
         ],
         "tts": [
-          "logical or double underbar"
+          "logical yaa double underbar"
         ]
       },
       "⩽": {
@@ -1728,6 +1818,26 @@
         ],
         "tts": [
           "double-line equal greater-than"
+        ]
+      },
+      "♯": {
+        "default": [
+          "diesis",
+          "music",
+          "note",
+          "sharp"
+        ]
+      },
+      "😀": {
+        "default": [
+          "cheerful",
+          "grin",
+          "grinning",
+          "happy",
+          "happy face",
+          "laugh",
+          "laughing",
+          "nice"
         ]
       },
       "😃": {
@@ -1767,6 +1877,20 @@
           "smile karti aankhon wala beaming face"
         ]
       },
+      "😆": {
+        "default": [
+          "eyes",
+          "grinning",
+          "grinning face",
+          "haha",
+          "hahaha",
+          "happy",
+          "happy face",
+          "laugh",
+          "lol",
+          "rofl"
+        ]
+      },
       "😅": {
         "default": [
           "cold",
@@ -1778,6 +1902,20 @@
         ],
         "tts": [
           "sweating wala grinning face"
+        ]
+      },
+      "🤣": {
+        "default": [
+          "funny",
+          "haha",
+          "happy",
+          "hehe",
+          "hilarious",
+          "joy",
+          "laugh",
+          "lol",
+          "rofl",
+          "rolling"
         ]
       },
       "😂": {
@@ -1792,6 +1930,19 @@
           "face"
         ]
       },
+      "🫠": {
+        "default": [
+          "embarrassed",
+          "haha",
+          "heat",
+          "hot",
+          "liquid",
+          "lol",
+          "melting",
+          "sarcasm",
+          "sarcastic"
+        ]
+      },
       "😊": {
         "default": [
           "blush",
@@ -1802,6 +1953,19 @@
         ],
         "tts": [
           "smiling eyes wala smiling face"
+        ]
+      },
+      "😇": {
+        "default": [
+          "angel",
+          "blessed",
+          "fairy",
+          "fairytale",
+          "fantasy",
+          "halo",
+          "happy",
+          "innocent",
+          "peaceful"
         ]
       },
       "🥰": {
@@ -1838,6 +2002,20 @@
         ],
         "tts": [
           "kiss deta face"
+        ]
+      },
+      "😗": {
+        "default": [
+          "143",
+          "date",
+          "dating",
+          "face",
+          "flirt",
+          "ily",
+          "kiss",
+          "love",
+          "smooch",
+          "you"
         ]
       },
       "😚": {
@@ -1955,7 +2133,6 @@
           "awe",
           "disbelief",
           "embarrass",
-          "khuli aankhein aur mouth par haath wala face",
           "khuli aankhein aur munh par haath",
           "scared",
           "surprise"
@@ -1975,6 +2152,20 @@
           "fingers ke beech se jhaankta face"
         ]
       },
+      "🫡": {
+        "default": [
+          "good",
+          "luck",
+          "ma’am",
+          "OK",
+          "respect",
+          "salute",
+          "saluting",
+          "sir",
+          "troops",
+          "yes"
+        ]
+      },
       "🤨": {
         "default": [
           "distrust",
@@ -1983,6 +2174,34 @@
         ],
         "tts": [
           "raised eyebrow wala face"
+        ]
+      },
+      "😐": {
+        "default": [
+          "awkward",
+          "blank",
+          "expressionless",
+          "fine",
+          "jealous",
+          "neutral",
+          "straight",
+          "unhappy",
+          "unimpressed",
+          "whatever"
+        ]
+      },
+      "😑": {
+        "default": [
+          "awkward",
+          "blank",
+          "expressionless",
+          "fine",
+          "jealous",
+          "neutral",
+          "straight",
+          "unhappy",
+          "unimpressed",
+          "whatever"
         ]
       },
       "😶": {
@@ -1997,6 +2216,20 @@
           "bina mouth wala face"
         ]
       },
+      "🫥": {
+        "default": [
+          "depressed",
+          "disappear",
+          "dotted",
+          "face",
+          "hidden",
+          "hide",
+          "introvert",
+          "invisible",
+          "whatever",
+          "wtv"
+        ]
+      },
       "😶‍🌫": {
         "default": [
           "absentminded",
@@ -2006,6 +2239,30 @@
         ],
         "tts": [
           "baadlon mein face"
+        ]
+      },
+      "😏": {
+        "default": [
+          "boss",
+          "face",
+          "flirt",
+          "kidding",
+          "shade",
+          "slick",
+          "snicker suspicious",
+          "swag"
+        ]
+      },
+      "😒": {
+        "default": [
+          "bored",
+          "jealous",
+          "pissed",
+          "ugh",
+          "uhh",
+          "unhappy",
+          "weird",
+          "whatever"
         ]
       },
       "🙄": {
@@ -2018,6 +2275,88 @@
         ],
         "tts": [
           "rolling eyes wala face"
+        ]
+      },
+      "😮‍💨": {
+        "default": [
+          "breathe out fast",
+          "exhale karta face",
+          "groan",
+          "relief",
+          "whisper",
+          "whistle"
+        ],
+        "tts": [
+          "exhale karta face"
+        ]
+      },
+      "🫨": {
+        "default": [
+          "crazy",
+          "earthquake",
+          "face",
+          "omg",
+          "panic",
+          "shaking",
+          "shock",
+          "surprise",
+          "vibrate",
+          "wow"
+        ]
+      },
+      "🙂‍↔": {
+        "default": [
+          "left right head shaking",
+          "left-right sir hilaana",
+          "nahi",
+          "no",
+          "shake"
+        ],
+        "tts": [
+          "left right head shaking"
+        ]
+      },
+      "🙂‍↕": {
+        "default": [
+          "haan",
+          "nod",
+          "oopar-neeche sir hilaana",
+          "yes"
+        ],
+        "tts": [
+          "oopar-neeche sir hilaana"
+        ]
+      },
+      "😔": {
+        "default": [
+          "bored",
+          "died",
+          "disappointed",
+          "face",
+          "losing",
+          "lost",
+          "pensive",
+          "sad",
+          "sucks"
+        ]
+      },
+      "😴": {
+        "default": [
+          "bedtime",
+          "goodnight",
+          "nap",
+          "night",
+          "sleep",
+          "sleeping",
+          "tired",
+          "whatever",
+          "yawn",
+          "zzz"
+        ]
+      },
+      "🫩": {
+        "tts": [
+          "baggy under eyes wala face"
         ]
       },
       "😷": {
@@ -2064,6 +2403,19 @@
           "vomit"
         ]
       },
+      "🤮": {
+        "default": [
+          "barf",
+          "ew",
+          "face",
+          "gross",
+          "puke",
+          "sick",
+          "spew",
+          "vomit",
+          "vomiting"
+        ]
+      },
       "😵": {
         "default": [
           "crossed-out eyes",
@@ -2089,6 +2441,32 @@
           "spiral eyes wala face"
         ]
       },
+      "🥳": {
+        "default": [
+          "bday",
+          "birthday",
+          "celebrate",
+          "celebration",
+          "excited",
+          "happy",
+          "hat",
+          "hooray",
+          "party"
+        ]
+      },
+      "🥸": {
+        "default": [
+          "disguise",
+          "eyebrow",
+          "glasses",
+          "glasses on eyes",
+          "incognito",
+          "moustache",
+          "naak",
+          "nose",
+          "spy"
+        ]
+      },
       "😎": {
         "default": [
           "bright",
@@ -2111,6 +2489,18 @@
           "stuffy"
         ]
       },
+      "😕": {
+        "default": [
+          "boring",
+          "confused",
+          "dunno",
+          "face",
+          "frown",
+          "hm",
+          "sad",
+          "sorry"
+        ]
+      },
       "🫤": {
         "default": [
           "diagonal mouth wala face",
@@ -2123,6 +2513,18 @@
           "diagonal mouth wala face"
         ]
       },
+      "😟": {
+        "default": [
+          "anxious",
+          "butterflies",
+          "face",
+          "nervous",
+          "sad",
+          "stressed",
+          "surprised",
+          "worried"
+        ]
+      },
       "😮": {
         "default": [
           "face",
@@ -2133,6 +2535,34 @@
         ],
         "tts": [
           "open mouth wala face"
+        ]
+      },
+      "😳": {
+        "default": [
+          "amazed",
+          "awkward",
+          "crazy",
+          "disbelief",
+          "embarrassed",
+          "flushed",
+          "heat",
+          "hot",
+          "impressed",
+          "wow"
+        ]
+      },
+      "🥺": {
+        "default": [
+          "begging",
+          "big",
+          "eyes",
+          "face",
+          "mercy",
+          "please",
+          "pretty",
+          "puppy",
+          "sad",
+          "why"
         ]
       },
       "🥹": {
@@ -2241,6 +2671,33 @@
           "sweating wala udaas face"
         ]
       },
+      "😩": {
+        "default": [
+          "crying",
+          "fail",
+          "feels",
+          "hungry",
+          "mad",
+          "nooo",
+          "sad",
+          "sleepy",
+          "tired",
+          "unhappy"
+        ]
+      },
+      "🥱": {
+        "default": [
+          "bedtime",
+          "bored",
+          "goodnight",
+          "nap",
+          "sleepy",
+          "tired",
+          "whatever",
+          "yawn",
+          "zzz"
+        ]
+      },
       "😤": {
         "default": [
           "face",
@@ -2250,6 +2707,31 @@
         ],
         "tts": [
           "nose se steam nikalti dikhaane wala face"
+        ]
+      },
+      "😡": {
+        "default": [
+          "angry",
+          "gussa",
+          "gusse mein laal",
+          "mad",
+          "maddening",
+          "rage",
+          "unhappy",
+          "upset"
+        ]
+      },
+      "😠": {
+        "default": [
+          "angry",
+          "blame",
+          "face",
+          "frustrated",
+          "gussa",
+          "mad",
+          "rage",
+          "unhappy",
+          "upset"
         ]
       },
       "🤬": {
@@ -2287,6 +2769,17 @@
           "horns wala angry face"
         ]
       },
+      "💀": {
+        "default": [
+          "body",
+          "dead",
+          "death",
+          "monster",
+          "skeleton face",
+          "skull",
+          "yolo"
+        ]
+      },
       "☠": {
         "default": [
           "crossbones",
@@ -2298,6 +2791,83 @@
         ],
         "tts": [
           "skull aur crossbones"
+        ]
+      },
+      "💩": {
+        "default": [
+          "comic",
+          "dung",
+          "monster",
+          "pile",
+          "poo",
+          "poop",
+          "smelly",
+          "smh",
+          "stinky",
+          "turd"
+        ]
+      },
+      "👹": {
+        "default": [
+          "creature",
+          "devil",
+          "fairy",
+          "fairytale",
+          "fantasy",
+          "mask",
+          "monster",
+          "scary"
+        ]
+      },
+      "👺": {
+        "default": [
+          "angry",
+          "creature",
+          "face",
+          "fairy",
+          "fairytale",
+          "fantasy",
+          "mask",
+          "mean",
+          "monster"
+        ]
+      },
+      "👻": {
+        "default": [
+          "boo",
+          "creature",
+          "excited",
+          "fairy",
+          "fairytale",
+          "fantasy",
+          "ghost",
+          "halloween",
+          "silly"
+        ]
+      },
+      "👽": {
+        "default": [
+          "alien",
+          "creature",
+          "extraterrestrial",
+          "face",
+          "fantasy",
+          "monster",
+          "space",
+          "ufo"
+        ]
+      },
+      "👾": {
+        "default": [
+          "alien",
+          "creature",
+          "extraterrestrial",
+          "fantasy",
+          "game",
+          "monster",
+          "pixelated",
+          "space",
+          "ufo"
         ]
       },
       "😸": {
@@ -2341,14 +2911,12 @@
       },
       "😼": {
         "default": [
+          "ajeeb smile karti billi",
           "cat",
-          "cat with wry smile",
-          "dissapointment ke saath smile karti cat",
+          "cat-face",
           "Dissapointment ke saath smile karti cat",
-          "face",
           "ironic",
-          "smile",
-          "wry"
+          "ironic smile wali cat"
         ],
         "tts": [
           "Dissapointment ke saath smile karti cat"
@@ -2356,7 +2924,6 @@
       },
       "🙈": {
         "default": [
-          "bura na dekhne wala monkey",
           "Bura na dekhne wala monkey",
           "evil",
           "face",
@@ -2413,6 +2980,20 @@
           "ribbon wala heart"
         ]
       },
+      "💖": {
+        "default": [
+          "143",
+          "emotion",
+          "excited",
+          "good",
+          "heart",
+          "ily",
+          "kisses",
+          "morning",
+          "night",
+          "sparkle"
+        ]
+      },
       "💗": {
         "default": [
           "excited",
@@ -2454,6 +3035,73 @@
           "exclamation sign wala heart"
         ]
       },
+      "❤‍🔥": {
+        "default": [
+          "burn",
+          "burning heart",
+          "heart",
+          "love",
+          "lust",
+          "sacred heart"
+        ],
+        "tts": [
+          "burning heart"
+        ]
+      },
+      "❤‍🩹": {
+        "default": [
+          "healthier",
+          "improving",
+          "improving heart",
+          "mending",
+          "recovering",
+          "recovering heart",
+          "well"
+        ],
+        "tts": [
+          "recovering heart"
+        ]
+      },
+      "🩷": {
+        "default": [
+          "143",
+          "adorable",
+          "cute",
+          "emotion",
+          "heart",
+          "ily",
+          "like",
+          "love",
+          "pink heart",
+          "special"
+        ]
+      },
+      "🩵": {
+        "default": [
+          "143",
+          "blue",
+          "blue sky",
+          "cyan",
+          "emotion",
+          "heart",
+          "ily",
+          "love",
+          "teal"
+        ]
+      },
+      "💯": {
+        "default": [
+          "100",
+          "100%",
+          "Absolute",
+          "agree",
+          "full marks",
+          "hundred",
+          "point",
+          "score",
+          "TRUE"
+        ]
+      },
       "💦": {
         "default": [
           "comic",
@@ -2463,6 +3111,20 @@
         ],
         "tts": [
           "sweating ke droplets"
+        ]
+      },
+      "💨": {
+        "default": [
+          "cloud",
+          "comic",
+          "dashing",
+          "door",
+          "fart",
+          "fast",
+          "go",
+          "gone",
+          "running",
+          "smoke"
         ]
       },
       "👁‍🗨": {
@@ -2476,6 +3138,19 @@
         ],
         "tts": [
           "speech bubble mein eye"
+        ]
+      },
+      "💭": {
+        "default": [
+          "balloon",
+          "bubble",
+          "cloud",
+          "comic",
+          "dream",
+          "idea",
+          "invention",
+          "thoughts",
+          "wonder"
         ]
       },
       "👋": {
@@ -2521,6 +3196,46 @@
           "utha hua haath"
         ]
       },
+      "🫴": {
+        "default": [
+          "beckon",
+          "catch",
+          "come",
+          "hold",
+          "know",
+          "lift",
+          "offer",
+          "palm",
+          "tell"
+        ]
+      },
+      "🫷": {
+        "default": [
+          "block",
+          "halt",
+          "high",
+          "hold",
+          "no",
+          "pause",
+          "push",
+          "refuse",
+          "stop",
+          "wait"
+        ]
+      },
+      "🫸": {
+        "default": [
+          "block",
+          "halt",
+          "high",
+          "hold",
+          "pause",
+          "push",
+          "refuse",
+          "stop",
+          "wait"
+        ]
+      },
       "👌": {
         "default": [
           "haath",
@@ -2558,6 +3273,19 @@
         ],
         "tts": [
           "victory dikhaata haath"
+        ]
+      },
+      "🫰": {
+        "default": [
+          "<3",
+          "crossed",
+          "expensive",
+          "how much",
+          "index",
+          "money",
+          "price",
+          "pricey",
+          "snap"
         ]
       },
       "🤘": {
@@ -2661,6 +3389,33 @@
           "viewer ki taraf pont karti index finger"
         ]
       },
+      "👊": {
+        "default": [
+          "absolutely",
+          "agree",
+          "boom",
+          "bro",
+          "correct",
+          "fist",
+          "oncoming",
+          "punch",
+          "rock"
+        ]
+      },
+      "👏": {
+        "default": [
+          "applause",
+          "approval",
+          "awesome",
+          "clap",
+          "congrats",
+          "congratulations",
+          "excited",
+          "good job",
+          "great",
+          "welldone"
+        ]
+      },
       "🙌": {
         "default": [
           "celebration",
@@ -2717,6 +3472,20 @@
           "likhta hua haath"
         ]
       },
+      "💪": {
+        "default": [
+          "arm",
+          "biceps",
+          "bodybuilder",
+          "bro",
+          "gains",
+          "gym",
+          "muscle",
+          "ripped",
+          "strong",
+          "weightlift"
+        ]
+      },
       "🦻": {
         "default": [
           "accessibility",
@@ -2736,6 +3505,32 @@
           "pulse"
         ]
       },
+      "👀": {
+        "default": [
+          "eyes",
+          "googly eyes",
+          "googly look",
+          "looking",
+          "omg",
+          "peep",
+          "see",
+          "seeing"
+        ]
+      },
+      "🫦": {
+        "default": [
+          "anxious",
+          "biting",
+          "fear",
+          "flirt",
+          "flirting",
+          "lips",
+          "lipstick",
+          "nervous",
+          "uncomfortable",
+          "worried"
+        ]
+      },
       "👱": {
         "default": [
           "blond",
@@ -2744,22 +3539,48 @@
           "person: blond hair"
         ]
       },
+      "🧔‍♂": {
+        "default": [
+          "aadmi",
+          "daadhi",
+          "male: beard"
+        ],
+        "tts": [
+          "male: beard"
+        ]
+      },
       "👱‍♂": {
         "default": [
           "blond",
-          "blond-hair wala man",
+          "blond-hair wala aadmi",
           "hair",
-          "man",
-          "man: blond hair"
+          "male: blond hair",
+          "man"
+        ],
+        "tts": [
+          "male: blond hair"
+        ]
+      },
+      "🧔‍♀": {
+        "default": [
+          "aurat",
+          "daadhi",
+          "female: beard"
+        ],
+        "tts": [
+          "female: beard"
         ]
       },
       "👱‍♀": {
         "default": [
-          "blond-hair wali woman",
+          "blond-hair wali mahila",
           "blonde",
+          "female: blond hair",
           "hair",
-          "woman",
-          "woman: blond hair"
+          "woman"
+        ],
+        "tts": [
+          "female: blond hair"
         ]
       },
       "🙍": {
@@ -2968,6 +3789,29 @@
           "haath uthaati mahila"
         ]
       },
+      "🧏‍♂": {
+        "default": [
+          "deaf",
+          "hearing-impaired",
+          "man",
+          "sun na paane wala",
+          "sun na paane wala aadmi"
+        ],
+        "tts": [
+          "sun na paane wala aadmi"
+        ]
+      },
+      "🧏‍♀": {
+        "default": [
+          "deaf",
+          "hearing-impaired",
+          "sun na paane wali mahila",
+          "woman"
+        ],
+        "tts": [
+          "sun na paane wali mahila"
+        ]
+      },
       "🙇": {
         "default": [
           "apology",
@@ -3096,10 +3940,306 @@
           "scales"
         ]
       },
+      "👨‍🏭": {
+        "default": [
+          "assembly",
+          "factory",
+          "industry worker",
+          "male",
+          "man",
+          "worker"
+        ],
+        "tts": [
+          "male factory worker"
+        ]
+      },
+      "👩‍🏭": {
+        "default": [
+          "assembly",
+          "factory",
+          "female",
+          "industry worker",
+          "woman",
+          "worker"
+        ],
+        "tts": [
+          "female factory worker"
+        ]
+      },
+      "👨‍🔬": {
+        "default": [
+          "biologist",
+          "chemist",
+          "engineer",
+          "male scientist",
+          "man",
+          "physicist",
+          "scientist"
+        ],
+        "tts": [
+          "male scientist"
+        ]
+      },
+      "👨‍💻": {
+        "default": [
+          "coder",
+          "developer",
+          "inventor",
+          "male technologist",
+          "man",
+          "software",
+          "technologist"
+        ],
+        "tts": [
+          "male technologist"
+        ]
+      },
+      "👩‍💻": {
+        "default": [
+          "coder",
+          "developer",
+          "female technologist",
+          "inventor",
+          "software",
+          "technologist",
+          "woman"
+        ],
+        "tts": [
+          "female technologist"
+        ]
+      },
+      "👨‍🎤": {
+        "default": [
+          "actor",
+          "entertainer",
+          "male singer",
+          "man",
+          "rock",
+          "singer",
+          "star"
+        ],
+        "tts": [
+          "male singer"
+        ]
+      },
+      "👩‍🎤": {
+        "default": [
+          "actor",
+          "entertainer",
+          "female singer",
+          "rock",
+          "singer",
+          "star",
+          "woman"
+        ],
+        "tts": [
+          "female singer"
+        ]
+      },
+      "👨‍🎨": {
+        "default": [
+          "artist",
+          "male artist",
+          "man",
+          "palette"
+        ],
+        "tts": [
+          "male artist"
+        ]
+      },
+      "👩‍🎨": {
+        "default": [
+          "artist",
+          "female artist",
+          "palette",
+          "woman"
+        ],
+        "tts": [
+          "female artist"
+        ]
+      },
+      "👨‍✈": {
+        "default": [
+          "male pilot",
+          "man",
+          "pilot",
+          "plane"
+        ],
+        "tts": [
+          "male pilot"
+        ]
+      },
+      "👩‍✈": {
+        "default": [
+          "female pilot",
+          "pilot",
+          "plane",
+          "woman"
+        ],
+        "tts": [
+          "female pilot"
+        ]
+      },
+      "👨‍🚀": {
+        "default": [
+          "astronaut",
+          "male astronaut",
+          "man",
+          "rocket"
+        ],
+        "tts": [
+          "male astronaut"
+        ]
+      },
+      "👩‍🚀": {
+        "default": [
+          "astronaut",
+          "female astronaut",
+          "rocket",
+          "woman"
+        ],
+        "tts": [
+          "female astronaut"
+        ]
+      },
       "🧑‍🚒": {
         "default": [
           "firefighter",
           "firetruck"
+        ]
+      },
+      "👨‍🚒": {
+        "default": [
+          "firefighter",
+          "firetruck",
+          "male firefighter",
+          "man"
+        ],
+        "tts": [
+          "male firefighter"
+        ]
+      },
+      "👩‍🚒": {
+        "default": [
+          "female firefighter",
+          "firefighter",
+          "firetruck",
+          "woman"
+        ],
+        "tts": [
+          "female firefighter"
+        ]
+      },
+      "👮‍♂": {
+        "default": [
+          "cop",
+          "male police officer",
+          "man",
+          "officer",
+          "police"
+        ],
+        "tts": [
+          "male police officer"
+        ]
+      },
+      "👮‍♀": {
+        "default": [
+          "cop",
+          "female police officer",
+          "officer",
+          "police",
+          "woman"
+        ],
+        "tts": [
+          "female police officer"
+        ]
+      },
+      "🕵‍♂": {
+        "default": [
+          "detective",
+          "male detective",
+          "man",
+          "spy"
+        ],
+        "tts": [
+          "male detective"
+        ]
+      },
+      "🕵‍♀": {
+        "default": [
+          "detective",
+          "female detective",
+          "mahila jaasoos",
+          "spy",
+          "woman"
+        ],
+        "tts": [
+          "female detective"
+        ]
+      },
+      "💂‍♂": {
+        "default": [
+          "guard",
+          "male guard",
+          "man"
+        ],
+        "tts": [
+          "male guard"
+        ]
+      },
+      "💂‍♀": {
+        "default": [
+          "female guard",
+          "guard",
+          "woman"
+        ],
+        "tts": [
+          "female guard"
+        ]
+      },
+      "🥷": {
+        "default": [
+          "fighter",
+          "hidden",
+          "ninja",
+          "secret",
+          "skills",
+          "soldier",
+          "thief",
+          "war"
+        ]
+      },
+      "👷": {
+        "default": [
+          "build",
+          "construction",
+          "fix",
+          "hat",
+          "rebuild",
+          "repair",
+          "worker"
+        ]
+      },
+      "👷‍♂": {
+        "default": [
+          "construction",
+          "male construction worker",
+          "man",
+          "worker"
+        ],
+        "tts": [
+          "male construction worker"
+        ]
+      },
+      "👷‍♀": {
+        "default": [
+          "construction",
+          "female construction worker",
+          "woman",
+          "worker"
+        ],
+        "tts": [
+          "female construction worker"
         ]
       },
       "🫅": {
@@ -3214,6 +4354,17 @@
           "Ghoonghat mein bride"
         ]
       },
+      "👰‍♂": {
+        "default": [
+          "aadmi",
+          "ghoonghat",
+          "Ghoonghat mein aadmi",
+          "parde mein aadmi"
+        ],
+        "tts": [
+          "Ghoonghat mein aadmi"
+        ]
+      },
       "👰‍♀": {
         "default": [
           "parde mein dulhan",
@@ -3258,6 +4409,91 @@
         ],
         "tts": [
           "baby ko feed karta vyakti"
+        ]
+      },
+      "🎅": {
+        "default": [
+          "Christmas",
+          "fairy",
+          "father",
+          "holiday",
+          "merry",
+          "santa",
+          "santa claus",
+          "xmas",
+          "Xmas celebration"
+        ]
+      },
+      "🤶": {
+        "default": [
+          "Christmas",
+          "claus",
+          "fairy",
+          "holiday",
+          "lady santa",
+          "merry xmas",
+          "mother santa",
+          "xmas",
+          "xmas celebration"
+        ]
+      },
+      "🧑‍🎄": {
+        "default": [
+          "celebration",
+          "Christmas",
+          "fairy",
+          "holiday",
+          "merry xmas",
+          "Mx",
+          "santa",
+          "santa claus",
+          "xmas"
+        ]
+      },
+      "🧙": {
+        "default": [
+          "fantasy",
+          "magic",
+          "play",
+          "sorcerer",
+          "summon",
+          "witch",
+          "wizard"
+        ]
+      },
+      "🧙‍♀": {
+        "default": [
+          "fantasy",
+          "magic",
+          "play",
+          "sorcerer",
+          "summon",
+          "witch",
+          "wizard",
+          "woman"
+        ]
+      },
+      "🧚‍♂": {
+        "default": [
+          "fairy",
+          "fairytale",
+          "fantasy",
+          "flying man",
+          "myth",
+          "tale",
+          "wings"
+        ]
+      },
+      "🧜‍♂": {
+        "default": [
+          "creature",
+          "folklore",
+          "merman",
+          "Neptune",
+          "ocean",
+          "sea",
+          "siren",
+          "trident"
         ]
       },
       "💆": {
@@ -4200,6 +5436,19 @@
           "haath pakde do aadmi"
         ]
       },
+      "💏": {
+        "default": [
+          "anniversary",
+          "babe",
+          "couple",
+          "dating",
+          "heart",
+          "kiss",
+          "love",
+          "romance",
+          "together"
+        ]
+      },
       "💑": {
         "default": [
           "couple",
@@ -4263,6 +5512,30 @@
           "white"
         ]
       },
+      "🐕‍🦺": {
+        "default": [
+          "accessibility",
+          "assistance",
+          "dog",
+          "help",
+          "service",
+          "seva"
+        ]
+      },
+      "🦁": {
+        "default": [
+          "animal",
+          "Leo",
+          "lion",
+          "order",
+          "power",
+          "raashi",
+          "roar",
+          "sher",
+          "strong",
+          "zodiac"
+        ]
+      },
       "🐪": {
         "default": [
           "camel",
@@ -4324,6 +5597,26 @@
           "front face karta baby chick"
         ]
       },
+      "🪿": {
+        "default": [
+          "batakh",
+          "bird",
+          "duck",
+          "flock",
+          "fowl",
+          "gaggle",
+          "silly"
+        ]
+      },
+      "🐦‍🔥": {
+        "default": [
+          "fantasy",
+          "firebird",
+          "phoenix",
+          "punarjanm",
+          "rebirth"
+        ]
+      },
       "🐳": {
         "default": [
           "face",
@@ -4335,6 +5628,29 @@
           "spout karti whale"
         ]
       },
+      "🪼": {
+        "default": [
+          "aquarium",
+          "aquatic",
+          "jellyfish",
+          "marine",
+          "ocean",
+          "sea",
+          "sea life",
+          "sting",
+          "water life"
+        ]
+      },
+      "🪷": {
+        "default": [
+          "Buddhism",
+          "flower",
+          "Hinduism",
+          "kamal",
+          "lotus",
+          "purity"
+        ]
+      },
       "🥀": {
         "default": [
           "flower",
@@ -4342,6 +5658,19 @@
         ],
         "tts": [
           "murjhaaya hua phool"
+        ]
+      },
+      "🪻": {
+        "default": [
+          "bluebonnet",
+          "hyacinth",
+          "indigo",
+          "lavender",
+          "lupine",
+          "purple flower",
+          "shrub",
+          "snapdragon",
+          "violet"
         ]
       },
       "🪴": {
@@ -4405,7 +5734,6 @@
       },
       "🪹": {
         "default": [
-          "khaali nest",
           "Khaali nest",
           "nesting"
         ],
@@ -4420,6 +5748,36 @@
         ],
         "tts": [
           "eggs wala nest"
+        ]
+      },
+      "🪾": {
+        "default": [
+          "bare",
+          "barren",
+          "branches",
+          "dead tree",
+          "drought",
+          "no leaf tree",
+          "tree",
+          "trunk",
+          "winter",
+          "wood"
+        ],
+        "tts": [
+          "bina leaves kaa tree"
+        ]
+      },
+      "🍋‍🟩": {
+        "default": [
+          "citrus",
+          "fruit",
+          "khatta",
+          "lime",
+          "neebu",
+          "tropical"
+        ],
+        "tts": [
+          "neebu"
         ]
       },
       "🥥": {
@@ -4448,6 +5806,20 @@
         "default": [
           "flavoring",
           "onion"
+        ]
+      },
+      "🍄‍🟫": {
+        "default": [
+          "food",
+          "fungus",
+          "mushroom",
+          "shiitake",
+          "shroom",
+          "sprout",
+          "toppings",
+          "truffle",
+          "vegetarian",
+          "veggie"
         ]
       },
       "🥞": {
@@ -4506,6 +5878,18 @@
         ],
         "tts": [
           "stuffed paraantha"
+        ]
+      },
+      "🍳": {
+        "default": [
+          "breakfast",
+          "cooking",
+          "easy breakfast",
+          "egg",
+          "egg-fry",
+          "frying",
+          "frying pan",
+          "omelette"
         ]
       },
       "🥘": {
@@ -4633,6 +6017,51 @@
         ],
         "tts": [
           "cork khulti hui bottle"
+        ]
+      },
+      "🍷": {
+        "default": [
+          "bar",
+          "beverage",
+          "booze",
+          "club",
+          "drink",
+          "party",
+          "wine glass"
+        ]
+      },
+      "🍸": {
+        "default": [
+          "bar",
+          "beverage glass",
+          "booze",
+          "club",
+          "cocktail",
+          "cocktail glass",
+          "drinks",
+          "martini"
+        ]
+      },
+      "🍹": {
+        "default": [
+          "alcohol",
+          "bar",
+          "booze",
+          "club",
+          "cocktail",
+          "drink",
+          "party",
+          "tropical drink"
+        ]
+      },
+      "🍺": {
+        "default": [
+          "bar",
+          "beer mug",
+          "booze",
+          "drinking",
+          "drinks",
+          "party"
         ]
       },
       "🍻": {
@@ -4807,6 +6236,17 @@
         "default": [
           "classical",
           "classical building"
+        ]
+      },
+      "🏠": {
+        "default": [
+          "building",
+          "cottage",
+          "home",
+          "house",
+          "simple house",
+          "suburb",
+          "suburban"
         ]
       },
       "🏡": {
@@ -5253,6 +6693,18 @@
           "lightning wale baadal"
         ]
       },
+      "🌈": {
+        "default": [
+          "lgbt",
+          "lgbtq",
+          "lgbtqia",
+          "pride",
+          "rainbow",
+          "trans",
+          "transgender",
+          "weather"
+        ]
+      },
       "🌂": {
         "default": [
           "band umbrella",
@@ -5344,7 +6796,6 @@
           "pistol",
           "revolver",
           "tool",
-          "water",
           "weapon"
         ],
         "tts": [
@@ -5409,6 +6860,20 @@
           "frame ki gai picture"
         ]
       },
+      "🎨": {
+        "default": [
+          "art",
+          "artist",
+          "colorful",
+          "colours",
+          "creative",
+          "entertainment",
+          "museum",
+          "painter",
+          "painting",
+          "palette"
+        ]
+      },
       "🥽": {
         "default": [
           "eyes ki protection",
@@ -5427,6 +6892,32 @@
       "👔": {
         "tts": [
           "necktie"
+        ]
+      },
+      "👕": {
+        "default": [
+          "casual clothes",
+          "clothing",
+          "dress",
+          "shirt",
+          "shopping",
+          "t-shirt",
+          "tshirt",
+          "weekend"
+        ]
+      },
+      "👖": {
+        "default": [
+          "blue jeans",
+          "casuals",
+          "clothes",
+          "clothing",
+          "denim",
+          "jeans",
+          "pants",
+          "shopping",
+          "trousers",
+          "weekend"
         ]
       },
       "🩱": {
@@ -5452,6 +6943,19 @@
           "underwear"
         ]
       },
+      "👚": {
+        "default": [
+          "blouse",
+          "clothes",
+          "clothing",
+          "collared shirt",
+          "dress",
+          "lady",
+          "shirt",
+          "shopping",
+          "women shirt"
+        ]
+      },
       "🩴": {
         "default": [
           "beach sandals",
@@ -5463,6 +6967,31 @@
         ],
         "tts": [
           "thong sandal"
+        ]
+      },
+      "👞": {
+        "default": [
+          "feet",
+          "footwear",
+          "kick",
+          "men shoes",
+          "shoe",
+          "shoes",
+          "shopping"
+        ]
+      },
+      "👟": {
+        "default": [
+          "athletic",
+          "clothes",
+          "clothing",
+          "fast",
+          "running",
+          "shoe",
+          "shoes",
+          "shopping",
+          "sneaker",
+          "tennis"
         ]
       },
       "🥿": {
@@ -5826,7 +7355,6 @@
       },
       "📈": {
         "default": [
-          "badhat dikhaata chart",
           "Badhat dikhaata chart",
           "chart",
           "graph",
@@ -5843,7 +7371,6 @@
           "chart",
           "down",
           "graph",
-          "kami dikhaata chart",
           "Kami dikhaata chart",
           "trend"
         ],
@@ -5976,6 +7503,14 @@
           "kataar"
         ]
       },
+      "🪃": {
+        "default": [
+          "boomerang",
+          "effect",
+          "rebound",
+          "repercussion"
+        ]
+      },
       "🏹": {
         "default": [
           "archer",
@@ -6032,6 +7567,21 @@
         ],
         "tts": [
           "white cane"
+        ]
+      },
+      "⛓‍💥": {
+        "default": [
+          "aazaadi",
+          "break",
+          "chain",
+          "cuffs",
+          "freedom",
+          "tooti hui zanjeer",
+          "tootna",
+          "zanjeer"
+        ],
+        "tts": [
+          "tooti hui zanjeer"
         ]
       },
       "💉": {
@@ -6263,12 +7813,24 @@
           "under 18 ko permission nahi"
         ]
       },
-      "↮": {
+      "↙": {
         "default": [
-          "left right arrow stroke"
+          "arrow",
+          "intercardinal",
+          "left-down arrow",
+          "left-down direction",
+          "southwest"
         ],
         "tts": [
-          "left right arrow stroke"
+          "left-down arrow"
+        ]
+      },
+      "↮": {
+        "default": [
+          "stroke ke saath left-right arrow"
+        ],
+        "tts": [
+          "stroke ke saath left-right arrow"
         ]
       },
       "↩": {
@@ -6315,9 +7877,6 @@
           "arrow",
           "counterclockwise",
           "withershins"
-        ],
-        "tts": [
-          "anticlockwise arrows button"
         ]
       },
       "🛐": {
@@ -6467,7 +8026,6 @@
           "exclamation",
           "exclamation question mark",
           "interrobang",
-          "punctuation",
           "question mark"
         ]
       },
@@ -6575,7 +8133,6 @@
       "🔺": {
         "default": [
           "geometric",
-          "oopar point karta red triangle",
           "Oopar point karta red triangle",
           "red"
         ],
@@ -6587,7 +8144,6 @@
         "default": [
           "down",
           "geometric",
-          "neeche point karta red triangle",
           "Neeche point karta red triangle",
           "red"
         ],
@@ -6628,6 +8184,19 @@
         "default": [
           "waving",
           "white flag"
+        ]
+      },
+      "🏳‍🌈": {
+        "default": [
+          "bisexual",
+          "gay",
+          "lesbian",
+          "lgbtq",
+          "lgbtqia",
+          "pride",
+          "rainbow",
+          "trans",
+          "transgender"
         ]
       },
       "🏳‍⚧": {

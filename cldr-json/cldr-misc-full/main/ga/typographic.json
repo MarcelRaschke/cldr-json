@@ -2,9 +2,6 @@
   "main": {
     "ga": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ga"
       },
       "typographicNames": {
@@ -43,7 +40,6 @@
           "wdth-subtype-112.5-alt-extended": "leath-shínte",
           "wdth-subtype-112.5-alt-wide": "leath-leathan",
           "wdth-subtype-125": "sínte",
-          "wdth-subtype-125-alt-extended": "sínte",
           "wdth-subtype-125-alt-wide": "leathan",
           "wdth-subtype-150": "an-leathnaithe",
           "wdth-subtype-150-alt-extended": "an-sínte",

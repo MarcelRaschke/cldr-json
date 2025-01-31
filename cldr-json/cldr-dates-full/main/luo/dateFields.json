@@ -2,9 +2,6 @@
   "main": {
     "luo": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "luo"
       },
       "dates": {

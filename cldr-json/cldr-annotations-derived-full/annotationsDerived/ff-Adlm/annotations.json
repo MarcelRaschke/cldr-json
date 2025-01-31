@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "ff",
       "script": "Adlm"
     },
@@ -317,7 +314,7 @@
           "𞤼𞤵𞤼𞤢𞤱𞤢𞤤"
         ],
         "tts": [
-          "𞤼𞤵𞤼𞤢𞤱𞤢𞤤: ‮𞤄𞤮𞤼𞤧𞤵𞤱𞤢𞥄𞤲𞤢"
+          "𞤼𞤵𞤼𞤢𞤱𞤢𞤤: 𞤄𞤮𞤼𞤧𞤵𞤱𞤢𞥄𞤲𞤢"
         ]
       },
       "🇧🇾": {

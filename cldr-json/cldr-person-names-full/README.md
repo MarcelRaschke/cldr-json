@@ -2,7 +2,7 @@
 
 Personal Name Formatting (tech preview)
 
-This package contains the complete set of locales, including what is in the `cldr-person-names-modern` package.
+This package contains all locales.
 
 
 [![NPM version](https://img.shields.io/npm/v/cldr-person-names-full.svg?style=flat)](https://www.npmjs.org/package/cldr-person-names-full)
@@ -21,9 +21,9 @@ the data contained here, please file a new ticket at [Unicode Jira](https://unic
 
 ## License
 
-Copyright © 1991-2022 Unicode, Inc.
+Copyright © 1991-2024 Unicode, Inc.
 [Terms of Use](http://www.unicode.org/copyright.html)
 
-SPDX-License-Identifier: Unicode-DFS-2016
+SPDX-License-Identifier: Unicode-3.0
 
 A copy of the license is included as [LICENSE](./LICENSE).

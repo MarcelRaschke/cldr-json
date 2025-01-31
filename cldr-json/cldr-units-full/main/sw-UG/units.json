@@ -2,9 +2,6 @@
   "main": {
     "sw-UG": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sw",
         "territory": "UG"
       },
@@ -40,6 +37,12 @@
           "10p-24": {
             "unitPrefixPattern": "yokto{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "deka{0}"
           },
@@ -69,6 +72,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "yotta{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "kibi{0}"
@@ -405,7 +414,6 @@
           },
           "electric-ohm": {
             "displayName": "ohm",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
@@ -847,9 +855,12 @@
             "unitPattern-count-one": "noti {0}",
             "unitPattern-count-other": "noti {0}"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
@@ -1052,6 +1063,22 @@
             "unitPattern-count-one": "kwati {0} ya Uingereza",
             "unitPattern-count-other": "kwati {0} za Uingereza"
           },
+          "speed-light-speed": {
+            "displayName": "mwanga",
+            "unitPattern-count-one": "mwanga {0}",
+            "unitPattern-count-other": "mianga {0}"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "sehemu kwa kila bilioni",
+            "unitPattern-count-one": "sehemu {0} kwa kila bilioni",
+            "unitPattern-count-other": "sehemu {0} kwa kila bilioni"
+          },
+          "duration-night": {
+            "displayName": "usiku",
+            "unitPattern-count-one": "usiku {0}",
+            "unitPattern-count-other": "usiku {0}",
+            "perUnitPattern": "{0} kila usiku"
+          },
           "coordinateUnit": {
             "displayName": "sehemu kuu za dira",
             "east": "{0} Mashariki",
@@ -1091,8 +1118,14 @@
           "10p-24": {
             "unitPrefixPattern": "yokto{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
-            "unitPrefixPattern": "deka{0}"
+            "unitPrefixPattern": "de{0}"
           },
           "10p2": {
             "unitPrefixPattern": "hekta{0}"
@@ -1120,6 +1153,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "yotta{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "kibi{0}"
@@ -1256,7 +1295,6 @@
           },
           "concentr-milligram-ofglucose-per-deciliter": {
             "displayName": "mg/dL",
-            "unitPattern-count-one": "{0} mg/dL",
             "unitPattern-count-other": "{0} mg/dL"
           },
           "concentr-millimole-per-liter": {
@@ -1453,7 +1491,6 @@
           },
           "electric-ohm": {
             "displayName": "ohm",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
@@ -1893,24 +1930,24 @@
             "unitPattern-count-one": "noti {0}",
             "unitPattern-count-other": "noti {0}"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
             "displayName": "nyuzi",
-            "unitPattern-count-one": "{0}°C",
             "unitPattern-count-other": "{0}°C"
           },
           "temperature-fahrenheit": {
             "displayName": "nyuzi za farenheiti",
-            "unitPattern-count-one": "{0}°F",
             "unitPattern-count-other": "{0}°F"
           },
           "temperature-kelvin": {
             "displayName": "K",
-            "unitPattern-count-one": "{0} K",
             "unitPattern-count-other": "{0} K"
           },
           "torque-pound-force-foot": {
@@ -2098,6 +2135,21 @@
             "unitPattern-count-one": "qt Imp. {0}",
             "unitPattern-count-other": "qt Imp. {0}"
           },
+          "speed-light-speed": {
+            "displayName": "mwanga",
+            "unitPattern-count-one": "mwanga {0}",
+            "unitPattern-count-other": "mianga {0}"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "sehemu kwa bilioni",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "usiku",
+            "unitPattern-count-one": "usiku {0}",
+            "unitPattern-count-other": "usiku {0}",
+            "perUnitPattern": "{0}/usiku"
+          },
           "coordinateUnit": {
             "displayName": "mwelekeo",
             "east": "{0} Mashariki",
@@ -2137,6 +2189,12 @@
           "10p-24": {
             "unitPrefixPattern": "yokto{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "deka{0}"
           },
@@ -2166,6 +2224,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "yotta{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "kibi{0}"
@@ -2302,7 +2366,6 @@
           },
           "concentr-milligram-ofglucose-per-deciliter": {
             "displayName": "mg/dL",
-            "unitPattern-count-one": "{0} mg/dL",
             "unitPattern-count-other": "{0} mg/dL"
           },
           "concentr-millimole-per-liter": {
@@ -2499,7 +2562,6 @@
           },
           "electric-ohm": {
             "displayName": "ohm",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
@@ -2941,24 +3003,24 @@
             "unitPattern-count-one": "noti {0}",
             "unitPattern-count-other": "noti {0}"
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
             "displayName": "°C",
-            "unitPattern-count-one": "{0}°C",
             "unitPattern-count-other": "{0}°C"
           },
           "temperature-fahrenheit": {
             "displayName": "nyuzi za farenheiti",
-            "unitPattern-count-one": "{0}°F",
             "unitPattern-count-other": "{0}°F"
           },
           "temperature-kelvin": {
             "displayName": "K",
-            "unitPattern-count-one": "{0} K",
             "unitPattern-count-other": "{0} K"
           },
           "torque-pound-force-foot": {
@@ -3145,6 +3207,21 @@
             "displayName": "qt Imp",
             "unitPattern-count-one": "qt Imp. {0}",
             "unitPattern-count-other": "qt Imp. {0}"
+          },
+          "speed-light-speed": {
+            "displayName": "mwanga",
+            "unitPattern-count-one": "mwanga {0}",
+            "unitPattern-count-other": "mianga {0}"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "sehemu kwa kila bilioni",
+            "unitPattern-count-other": "{0} ppb"
+          },
+          "duration-night": {
+            "displayName": "usiku",
+            "unitPattern-count-one": "usiku {0}",
+            "unitPattern-count-other": "usiku {0}",
+            "perUnitPattern": "{0}/usiku"
           },
           "coordinateUnit": {
             "displayName": "mwelekeo",

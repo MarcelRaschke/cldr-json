@@ -2,9 +2,6 @@
   "main": {
     "da-GL": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "da",
         "territory": "GL"
       },
@@ -21,7 +18,7 @@
           "opsz-subtype-8": "overskrift",
           "opsz-subtype-12": "tekst",
           "opsz-subtype-18": "titel",
-          "opsz-subtype-72": "visning",
+          "opsz-subtype-72": "fremhævelse",
           "opsz-subtype-144": "plakat",
           "slnt-subtype--12": "bagud hældende",
           "slnt-subtype-0": "oprejst",

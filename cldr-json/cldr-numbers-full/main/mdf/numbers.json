@@ -2,9 +2,6 @@
   "main": {
     "mdf": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "mdf"
       },
       "numbers": {

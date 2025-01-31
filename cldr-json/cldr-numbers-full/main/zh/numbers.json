@@ -2,9 +2,6 @@
   "main": {
     "zh": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "zh"
       },
       "numbers": {
@@ -162,7 +159,7 @@
             }
           },
           "currencyPatternAppendISO": "{0} ¤¤",
-          "unitPattern-count-other": "{0}{1}"
+          "unitPattern-count-other": "{0} {1}"
         },
         "currencyFormats-numberSystem-latn": {
           "currencySpacing": {

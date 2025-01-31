@@ -1,9 +1,6 @@
 {
   "annotationsDerived": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "pcm"
     },
     "annotations": {
@@ -14777,7 +14774,8 @@
       },
       "🧑🏻‍🎄": {
         "default": [
-          "Klọz, Krísmas",
+          "Klọz",
+          "Krísmas",
           "Laít Skín Ton",
           "Mx Klọz"
         ],
@@ -14787,7 +14785,8 @@
       },
       "🧑🏼‍🎄": {
         "default": [
-          "Klọz, Krísmas",
+          "Klọz",
+          "Krísmas",
           "Mídíọ́m-Laít Skín Ton",
           "Mx Klọz"
         ],
@@ -14797,7 +14796,8 @@
       },
       "🧑🏽‍🎄": {
         "default": [
-          "Klọz, Krísmas",
+          "Klọz",
+          "Krísmas",
           "Mídíọ́m Skín Ton",
           "Mx Klọz"
         ],
@@ -14807,7 +14807,8 @@
       },
       "🧑🏾‍🎄": {
         "default": [
-          "Klọz, Krísmas",
+          "Klọz",
+          "Krísmas",
           "Mídíọ́m Dák Skín Ton",
           "Mx Klọz"
         ],
@@ -14818,7 +14819,8 @@
       "🧑🏿‍🎄": {
         "default": [
           "Dák Skín Ton",
-          "Klọz, Krísmas",
+          "Klọz",
+          "Krísmas",
           "Mx Klọz"
         ],
         "tts": [
@@ -23447,7 +23449,7 @@
           "Flag"
         ],
         "tts": [
-          "Flag: Guam"
+          "Flag: Guám"
         ]
       },
       "🇬🇼": {
@@ -23583,7 +23585,7 @@
           "Flag"
         ],
         "tts": [
-          "Flag: Iran"
+          "Flag: Irán"
         ]
       },
       "🇮🇸": {
@@ -23631,7 +23633,7 @@
           "Flag"
         ],
         "tts": [
-          "Flag: Japan"
+          "Flag: Japán"
         ]
       },
       "🇰🇪": {
@@ -23727,7 +23729,7 @@
           "Flag"
         ],
         "tts": [
-          "Flag: Laos"
+          "Flag: Láos"
         ]
       },
       "🇱🇧": {
@@ -24095,7 +24097,7 @@
           "Flag"
         ],
         "tts": [
-          "Flag: Oman"
+          "Flag: Omán"
         ]
       },
       "🇵🇦": {
@@ -24199,7 +24201,7 @@
           "Flag"
         ],
         "tts": [
-          "Flag: Palau"
+          "Flag: Paláu"
         ]
       },
       "🇵🇾": {
@@ -24287,7 +24289,7 @@
           "Flag"
         ],
         "tts": [
-          "Flag: Sudan"
+          "Flag: Sudán"
         ]
       },
       "🇸🇪": {
@@ -24447,7 +24449,7 @@
           "Flag"
         ],
         "tts": [
-          "Flag: Chad"
+          "Flag: Chád"
         ]
       },
       "🇹🇫": {
@@ -24551,7 +24553,7 @@
           "Flag"
         ],
         "tts": [
-          "Flag: Taiwan"
+          "Flag: Taíwán"
         ]
       },
       "🇹🇿": {

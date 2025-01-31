@@ -2,9 +2,6 @@
   "main": {
     "so-KE": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "so",
         "territory": "KE"
       },

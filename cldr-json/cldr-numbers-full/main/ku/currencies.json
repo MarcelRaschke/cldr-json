@@ -2,1335 +2,931 @@
   "main": {
     "ku": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ku"
       },
       "numbers": {
         "currencies": {
-          "ADP": {
-            "displayName": "ADP",
-            "symbol": "ADP"
-          },
           "AED": {
-            "displayName": "AED",
-            "symbol": "AED"
-          },
-          "AFA": {
-            "displayName": "AFA",
-            "symbol": "AFA"
+            "displayName": "dîrhemê mîrgehên erebî yên yekbûyî",
+            "displayName-count-one": "dîrhemê MEYî",
+            "displayName-count-other": "dîrhemên MEYî"
           },
           "AFN": {
-            "displayName": "AFN",
-            "symbol": "AFN",
+            "displayName": "efxanîyê efxanistanî",
+            "displayName-count-one": "efxanîyê efxanistanî",
+            "displayName-count-other": "efxanîyên efxanistanî",
             "symbol-alt-narrow": "؋"
           },
-          "ALK": {
-            "displayName": "ALK",
-            "symbol": "ALK"
-          },
           "ALL": {
-            "displayName": "ALL",
-            "symbol": "ALL"
+            "displayName": "lekê arnawidî",
+            "displayName-count-one": "lekê arnawidî",
+            "displayName-count-other": "lekên arnawidî"
           },
           "AMD": {
-            "displayName": "AMD",
-            "symbol": "AMD",
+            "displayName": "dramê ermenî",
+            "displayName-count-one": "dramê ermenî",
+            "displayName-count-other": "dramên ermenî",
             "symbol-alt-narrow": "֏"
           },
           "ANG": {
-            "displayName": "ANG",
-            "symbol": "ANG"
+            "displayName": "guldenê antîlê yê holandî",
+            "displayName-count-one": "guldenê antîlê yê holandî",
+            "displayName-count-other": "guldenên antîlê yê holandî"
           },
           "AOA": {
-            "displayName": "AOA",
-            "symbol": "AOA",
+            "displayName": "kwanzayê angolayî",
+            "displayName-count-one": "kwanzayê angolayî",
+            "displayName-count-other": "kwanzayên angolayî",
             "symbol-alt-narrow": "Kz"
           },
-          "AOK": {
-            "displayName": "AOK",
-            "symbol": "AOK"
-          },
-          "AON": {
-            "displayName": "AON",
-            "symbol": "AON"
-          },
-          "AOR": {
-            "displayName": "AOR",
-            "symbol": "AOR"
-          },
-          "ARA": {
-            "displayName": "ARA",
-            "symbol": "ARA"
-          },
-          "ARL": {
-            "displayName": "ARL",
-            "symbol": "ARL"
-          },
-          "ARM": {
-            "displayName": "ARM",
-            "symbol": "ARM"
-          },
-          "ARP": {
-            "displayName": "ARP",
-            "symbol": "ARP"
-          },
           "ARS": {
-            "displayName": "ARS",
-            "symbol": "ARS",
+            "displayName": "pesoyê arjantînî",
+            "displayName-count-one": "pesoyê arjantînî",
+            "displayName-count-other": "pesoyên arjantînî",
             "symbol-alt-narrow": "$"
           },
-          "ATS": {
-            "displayName": "ATS",
-            "symbol": "ATS"
-          },
           "AUD": {
-            "displayName": "AUD",
+            "displayName": "dolarê awistralyayî",
+            "displayName-count-one": "dolarê awistralyayî",
+            "displayName-count-other": "dolarên awistralyayî",
             "symbol": "A$",
             "symbol-alt-narrow": "$"
           },
           "AWG": {
-            "displayName": "AWG",
-            "symbol": "AWG"
-          },
-          "AZM": {
-            "displayName": "AZM",
-            "symbol": "AZM"
+            "displayName": "florînê arubayî",
+            "displayName-count-one": "florînê arubayî",
+            "displayName-count-other": "florînên arubayî"
           },
           "AZN": {
-            "displayName": "AZN",
-            "symbol": "AZN",
+            "displayName": "manatê azerbeycanî",
             "symbol-alt-narrow": "₼"
           },
-          "BAD": {
-            "displayName": "BAD",
-            "symbol": "BAD"
-          },
           "BAM": {
-            "displayName": "BAM",
-            "symbol": "BAM",
+            "displayName": "markê konvertibl ê bosna hersekî",
+            "displayName-count-one": "markê konvertibl ê bosna hersekî",
+            "displayName-count-other": "markên konvertibl ê bosna hersekî",
             "symbol-alt-narrow": "KM"
           },
-          "BAN": {
-            "displayName": "BAN",
-            "symbol": "BAN"
-          },
           "BBD": {
-            "displayName": "BBD",
-            "symbol": "BBD",
+            "displayName": "dolarê barbadosî",
+            "displayName-count-one": "dolarê barbadosî",
+            "displayName-count-other": "dolarên barbadosî",
             "symbol-alt-narrow": "$"
           },
           "BDT": {
-            "displayName": "BDT",
-            "symbol": "BDT",
+            "displayName": "takayê bengladeşî",
+            "displayName-count-one": "takayê bengladeşî",
+            "displayName-count-other": "takayên bengladeşî",
             "symbol-alt-narrow": "৳"
           },
-          "BEC": {
-            "displayName": "BEC",
-            "symbol": "BEC"
-          },
-          "BEF": {
-            "displayName": "BEF",
-            "symbol": "BEF"
-          },
-          "BEL": {
-            "displayName": "BEL",
-            "symbol": "BEL"
-          },
-          "BGL": {
-            "displayName": "BGL",
-            "symbol": "BGL"
-          },
-          "BGM": {
-            "displayName": "BGM",
-            "symbol": "BGM"
-          },
           "BGN": {
-            "displayName": "BGN",
-            "symbol": "BGN"
-          },
-          "BGO": {
-            "displayName": "BGO",
-            "symbol": "BGO"
+            "displayName": "levê bulgarî",
+            "displayName-count-one": "levê bulgarî",
+            "displayName-count-other": "levên bulgarî"
           },
           "BHD": {
-            "displayName": "BHD",
-            "symbol": "BHD"
+            "displayName": "dînarê behreynê",
+            "displayName-count-one": "dînarê behreynê",
+            "displayName-count-other": "dînarên behreynê"
           },
           "BIF": {
-            "displayName": "BIF",
-            "symbol": "BIF"
+            "displayName": "frankê birûndîyî",
+            "displayName-count-one": "frankê birûndîyî",
+            "displayName-count-other": "frankên birûndîyî"
           },
           "BMD": {
-            "displayName": "BMD",
-            "symbol": "BMD",
+            "displayName": "dolarê bermûdayî",
+            "displayName-count-one": "dolarê bermûdayî",
+            "displayName-count-other": "dolarên bermûdayî",
             "symbol-alt-narrow": "$"
           },
           "BND": {
-            "displayName": "BND",
-            "symbol": "BND",
+            "displayName": "dolarê brûneyî",
+            "displayName-count-one": "dolarê brûneyî",
+            "displayName-count-other": "dolarên brûneyî",
             "symbol-alt-narrow": "$"
           },
           "BOB": {
-            "displayName": "BOB",
-            "symbol": "BOB",
+            "displayName": "bolîvyanoyê bolîvyayî",
+            "displayName-count-one": "bolîvyanoyê bolîvyayî",
+            "displayName-count-other": "bolîvyanoyên bolîvyayî",
             "symbol-alt-narrow": "Bs"
           },
-          "BOL": {
-            "displayName": "BOL",
-            "symbol": "BOL"
-          },
-          "BOP": {
-            "displayName": "BOP",
-            "symbol": "BOP"
-          },
-          "BOV": {
-            "displayName": "BOV",
-            "symbol": "BOV"
-          },
-          "BRB": {
-            "displayName": "BRB",
-            "symbol": "BRB"
-          },
-          "BRC": {
-            "displayName": "BRC",
-            "symbol": "BRC"
-          },
-          "BRE": {
-            "displayName": "BRE",
-            "symbol": "BRE"
-          },
           "BRL": {
-            "displayName": "BRL",
+            "displayName": "realê brezîlyayî",
+            "displayName-count-one": "realê brezîlyayî",
+            "displayName-count-other": "realên brezîlyayî",
             "symbol": "R$",
             "symbol-alt-narrow": "R$"
           },
-          "BRN": {
-            "displayName": "BRN",
-            "symbol": "BRN"
-          },
-          "BRR": {
-            "displayName": "BRR",
-            "symbol": "BRR"
-          },
-          "BRZ": {
-            "displayName": "BRZ",
-            "symbol": "BRZ"
-          },
           "BSD": {
-            "displayName": "BSD",
-            "symbol": "BSD",
+            "displayName": "dolarê bahamayî",
+            "displayName-count-one": "dolarê bahamayî",
+            "displayName-count-other": "dolarên bahamayî",
             "symbol-alt-narrow": "$"
           },
           "BTN": {
-            "displayName": "BTN",
-            "symbol": "BTN"
-          },
-          "BUK": {
-            "displayName": "BUK",
-            "symbol": "BUK"
+            "displayName": "ngultrumê bûtanî",
+            "displayName-count-one": "ngultrumê bûtanî",
+            "displayName-count-other": "ngultrumên bûtanî"
           },
           "BWP": {
-            "displayName": "BWP",
-            "symbol": "BWP",
+            "displayName": "pulayê botswanayî",
+            "displayName-count-one": "pulayê botswanayî",
+            "displayName-count-other": "pulayên botswanayî",
             "symbol-alt-narrow": "P"
           },
-          "BYB": {
-            "displayName": "BYB",
-            "symbol": "BYB"
-          },
           "BYN": {
-            "displayName": "BYN",
-            "symbol": "BYN"
-          },
-          "BYR": {
-            "displayName": "BYR",
-            "symbol": "BYR"
+            "displayName": "rûbleyê belarûsî",
+            "displayName-count-one": "rûbleyê belarûsî",
+            "displayName-count-other": "rûbleyên belarûsî"
           },
           "BZD": {
-            "displayName": "BZD",
-            "symbol": "BZD",
+            "displayName": "dolarê belîzeyî",
+            "displayName-count-one": "dolarê belîzeyî",
+            "displayName-count-other": "dolarên belîzeyî",
             "symbol-alt-narrow": "$"
           },
           "CAD": {
-            "displayName": "CAD",
+            "displayName": "dolarê kanadayî",
+            "displayName-count-one": "dolarê kanadayî",
+            "displayName-count-other": "dolarên kanadayî",
             "symbol": "CA$",
             "symbol-alt-narrow": "$"
           },
           "CDF": {
-            "displayName": "CDF",
-            "symbol": "CDF"
-          },
-          "CHE": {
-            "displayName": "CHE",
-            "symbol": "CHE"
+            "displayName": "frankê kongoyî",
+            "displayName-count-one": "frankê kongoyî",
+            "displayName-count-other": "frankên kongoyî"
           },
           "CHF": {
-            "displayName": "CHF",
-            "symbol": "CHF"
-          },
-          "CHW": {
-            "displayName": "CHW",
-            "symbol": "CHW"
-          },
-          "CLE": {
-            "displayName": "CLE",
-            "symbol": "CLE"
-          },
-          "CLF": {
-            "displayName": "CLF",
-            "symbol": "CLF"
+            "displayName": "frankê swîsrî",
+            "displayName-count-one": "frankê swîsrî",
+            "displayName-count-other": "frankên swîsrî"
           },
           "CLP": {
-            "displayName": "CLP",
-            "symbol": "CLP",
+            "displayName": "pesoyê şîlîyê",
+            "displayName-count-one": "pesoyê şîlîyê",
+            "displayName-count-other": "pesoyên şîlîyê",
             "symbol-alt-narrow": "$"
           },
           "CNH": {
-            "displayName": "CNH",
-            "symbol": "CNH"
-          },
-          "CNX": {
-            "displayName": "CNX",
-            "symbol": "CNX"
+            "displayName": "yûanê çînî (offshore)",
+            "displayName-count-one": "yûanê çînî (offshore)",
+            "displayName-count-other": "yûanên çînî (offshore)"
           },
           "CNY": {
-            "displayName": "CNY",
+            "displayName": "yûanê çînî",
+            "displayName-count-one": "yûanê çînî",
+            "displayName-count-other": "yûanên çînî",
             "symbol": "CN¥",
             "symbol-alt-narrow": "¥"
           },
           "COP": {
-            "displayName": "COP",
-            "symbol": "COP",
+            "displayName": "pesoyê kolombîyayî",
+            "displayName-count-one": "pesoyê kolombîyayî",
+            "displayName-count-other": "pesoyên kolombîyayî",
             "symbol-alt-narrow": "$"
           },
-          "COU": {
-            "displayName": "COU",
-            "symbol": "COU"
-          },
           "CRC": {
-            "displayName": "CRC",
-            "symbol": "CRC",
+            "displayName": "kolonê kosta rîkayî",
+            "displayName-count-one": "kolonê kosta rîkayî",
+            "displayName-count-other": "kolonên kosta rîkayî",
             "symbol-alt-narrow": "₡"
           },
-          "CSD": {
-            "displayName": "CSD",
-            "symbol": "CSD"
-          },
-          "CSK": {
-            "displayName": "CSK",
-            "symbol": "CSK"
-          },
           "CUC": {
-            "displayName": "CUC",
-            "symbol": "CUC",
+            "displayName": "pesoyên konvertibl ê kubayî",
+            "displayName-count-one": "pesoyê konvertibl ê kubayî",
+            "displayName-count-other": "pesoyên konvertibl ê kubayî",
             "symbol-alt-narrow": "$"
           },
           "CUP": {
-            "displayName": "CUP",
-            "symbol": "CUP",
+            "displayName": "pesoyê kubayî",
+            "displayName-count-one": "pesoyê kubayî",
+            "displayName-count-other": "pesoyên kubayî",
             "symbol-alt-narrow": "$"
           },
           "CVE": {
-            "displayName": "CVE",
-            "symbol": "CVE"
-          },
-          "CYP": {
-            "displayName": "CYP",
-            "symbol": "CYP"
+            "displayName": "eskudoyê kape verdeyî",
+            "displayName-count-one": "eskudoyê kape verdeyî",
+            "displayName-count-other": "eskudoyên kape verdeyî"
           },
           "CZK": {
-            "displayName": "CZK",
-            "symbol": "CZK",
+            "displayName": "kronê çekî",
+            "displayName-count-one": "kronê çekî",
+            "displayName-count-other": "kronên çekî",
             "symbol-alt-narrow": "Kč"
           },
-          "DDM": {
-            "displayName": "DDM",
-            "symbol": "DDM"
-          },
-          "DEM": {
-            "displayName": "DEM",
-            "symbol": "DEM"
-          },
           "DJF": {
-            "displayName": "DJF",
-            "symbol": "DJF"
+            "displayName": "frankê cîbûtîyî",
+            "displayName-count-one": "frankê cîbûtîyî",
+            "displayName-count-other": "frankên cîbûtîyî"
           },
           "DKK": {
-            "displayName": "DKK",
-            "symbol": "DKK",
+            "displayName": "kronê danîmarkî",
+            "displayName-count-one": "kronê danîmarkî",
+            "displayName-count-other": "kronên danîmarkî",
             "symbol-alt-narrow": "kr"
           },
           "DOP": {
-            "displayName": "DOP",
-            "symbol": "DOP",
+            "displayName": "pesoyê domînîkî",
+            "displayName-count-one": "pesoyê domînîkî",
+            "displayName-count-other": "pesoyên domînîkî",
             "symbol-alt-narrow": "$"
           },
           "DZD": {
-            "displayName": "DZD",
-            "symbol": "DZD"
-          },
-          "ECS": {
-            "displayName": "ECS",
-            "symbol": "ECS"
-          },
-          "ECV": {
-            "displayName": "ECV",
-            "symbol": "ECV"
-          },
-          "EEK": {
-            "displayName": "EEK",
-            "symbol": "EEK"
+            "displayName": "dînarê cezayîrî",
+            "displayName-count-one": "dînarê cezayîrî",
+            "displayName-count-other": "dînarên cezayîrî"
           },
           "EGP": {
-            "displayName": "EGP",
-            "symbol": "EGP",
+            "displayName": "lîreyê misirî",
+            "displayName-count-one": "lîreyê misirî",
+            "displayName-count-other": "lîreyên misirî",
             "symbol-alt-narrow": "E£"
           },
           "ERN": {
-            "displayName": "ERN",
-            "symbol": "ERN"
-          },
-          "ESA": {
-            "displayName": "ESA",
-            "symbol": "ESA"
-          },
-          "ESB": {
-            "displayName": "ESB",
-            "symbol": "ESB"
+            "displayName": "nakfayê erîtreyî",
+            "displayName-count-one": "nakfayê erîtreyî",
+            "displayName-count-other": "nakfayên erîtreyî"
           },
           "ESP": {
-            "displayName": "ESP",
-            "symbol": "ESP",
             "symbol-alt-narrow": "₧"
           },
           "ETB": {
-            "displayName": "ETB",
-            "symbol": "ETB"
+            "displayName": "bîrê etyopyayî",
+            "displayName-count-one": "bîrê etyopyayî",
+            "displayName-count-other": "bîrên etyopyayî"
           },
           "EUR": {
             "displayName": "ewro",
-            "displayName-count-one": "ewro",
-            "displayName-count-other": "ewro",
             "symbol": "€",
             "symbol-alt-narrow": "€"
           },
-          "FIM": {
-            "displayName": "FIM",
-            "symbol": "FIM"
-          },
           "FJD": {
-            "displayName": "FJD",
-            "symbol": "FJD",
+            "displayName": "dolarê fîjîyî",
+            "displayName-count-one": "dolarê fîjîyî",
+            "displayName-count-other": "dolarên fîjîyî",
             "symbol-alt-narrow": "$"
           },
           "FKP": {
-            "displayName": "FKP",
-            "symbol": "FKP",
+            "displayName": "paundê giravên falklandê",
+            "displayName-count-one": "paundê giravên falklandê",
+            "displayName-count-other": "paundên giravên falklandê",
             "symbol-alt-narrow": "£"
           },
-          "FRF": {
-            "displayName": "FRF",
-            "symbol": "FRF"
-          },
           "GBP": {
-            "displayName": "GBP",
+            "displayName": "sterlînê brîtanî",
+            "displayName-count-one": "sterlînê brîtanî",
+            "displayName-count-other": "sterlînên brîtanî",
             "symbol": "£",
             "symbol-alt-narrow": "£"
           },
-          "GEK": {
-            "displayName": "GEK",
-            "symbol": "GEK"
-          },
           "GEL": {
-            "displayName": "GEL",
-            "symbol": "GEL",
+            "displayName": "larîyê gurcistanî",
+            "displayName-count-one": "larîyê gurcistanî",
+            "displayName-count-other": "larîyên gurcistanî",
             "symbol-alt-narrow": "₾"
           },
-          "GHC": {
-            "displayName": "GHC",
-            "symbol": "GHC"
-          },
           "GHS": {
-            "displayName": "GHS",
-            "symbol": "GHS",
+            "displayName": "cedîyê ganayî",
+            "displayName-count-one": "cedîyê ganayî",
+            "displayName-count-other": "cedîyên ganayî",
             "symbol-alt-narrow": "GH₵"
           },
           "GIP": {
-            "displayName": "GIP",
-            "symbol": "GIP",
+            "displayName": "poundê gîbraltarê",
+            "displayName-count-one": "poundê gîbraltarê",
+            "displayName-count-other": "poundên gîbraltarê",
             "symbol-alt-narrow": "£"
           },
           "GMD": {
-            "displayName": "GMD",
-            "symbol": "GMD"
+            "displayName": "dalasîyê gambîyayî",
+            "displayName-count-one": "dalasîyê gambîyayî",
+            "displayName-count-other": "dalasîyên gambîyayî"
           },
           "GNF": {
-            "displayName": "GNF",
-            "symbol": "GNF",
+            "displayName": "frankê gîneyî",
+            "displayName-count-one": "frankê gîneyî",
+            "displayName-count-other": "frankên gîneyî",
             "symbol-alt-narrow": "FG"
           },
-          "GNS": {
-            "displayName": "GNS",
-            "symbol": "GNS"
-          },
-          "GQE": {
-            "displayName": "GQE",
-            "symbol": "GQE"
-          },
-          "GRD": {
-            "displayName": "GRD",
-            "symbol": "GRD"
-          },
           "GTQ": {
-            "displayName": "GTQ",
-            "symbol": "GTQ",
+            "displayName": "quertzalê guatemalayî",
+            "displayName-count-one": "quertzalê guatemalayî",
+            "displayName-count-other": "quertzalên guatemalayî",
             "symbol-alt-narrow": "Q"
           },
-          "GWE": {
-            "displayName": "GWE",
-            "symbol": "GWE"
-          },
-          "GWP": {
-            "displayName": "GWP",
-            "symbol": "GWP"
-          },
           "GYD": {
-            "displayName": "GYD",
-            "symbol": "GYD",
+            "displayName": "dolarê guayanayî",
+            "displayName-count-one": "dolarê guayanayî",
+            "displayName-count-other": "dolarên guayanayî",
             "symbol-alt-narrow": "$"
           },
           "HKD": {
-            "displayName": "HKD",
+            "displayName": "dolarê hong kongî",
+            "displayName-count-one": "dolarê hong kongî",
+            "displayName-count-other": "dolarên hong kongî",
             "symbol": "HK$",
             "symbol-alt-narrow": "$"
           },
           "HNL": {
-            "displayName": "HNL",
-            "symbol": "HNL",
+            "displayName": "lempîrayê hondurasî",
+            "displayName-count-one": "lempîrayê hondurasî",
+            "displayName-count-other": "lempîrayên hondurasî",
             "symbol-alt-narrow": "L"
           },
-          "HRD": {
-            "displayName": "HRD",
-            "symbol": "HRD"
-          },
           "HRK": {
-            "displayName": "HRK",
-            "symbol": "HRK",
+            "displayName": "kûnayê xirwatî",
+            "displayName-count-one": "kûnayê xirwatî",
+            "displayName-count-other": "kûnayên xirwatî",
             "symbol-alt-narrow": "kn"
           },
           "HTG": {
-            "displayName": "HTG",
-            "symbol": "HTG"
+            "displayName": "gûrdeyê haîtîyî",
+            "displayName-count-one": "gûrdeyê haîtîyî",
+            "displayName-count-other": "gûrdeyên haîtîyî"
           },
           "HUF": {
-            "displayName": "HUF",
-            "symbol": "HUF",
+            "displayName": "forîntê macarî",
+            "displayName-count-one": "forîntê macarî",
+            "displayName-count-other": "forîntên macarî",
             "symbol-alt-narrow": "Ft"
           },
           "IDR": {
-            "displayName": "IDR",
-            "symbol": "IDR",
+            "displayName": "rûpîyê endonezî",
+            "displayName-count-one": "rûpîyê endonezî",
+            "displayName-count-other": "rûpîyên endonezî",
             "symbol-alt-narrow": "Rp"
           },
-          "IEP": {
-            "displayName": "IEP",
-            "symbol": "IEP"
-          },
-          "ILP": {
-            "displayName": "ILP",
-            "symbol": "ILP"
-          },
-          "ILR": {
-            "displayName": "ILR",
-            "symbol": "ILR"
-          },
           "ILS": {
-            "displayName": "ILS",
+            "displayName": "şekelê nû yê îsraîlî",
+            "displayName-count-one": "şekelê nû yê îsraîlî",
+            "displayName-count-other": "şekelên nû yê îsraîlî",
             "symbol": "₪",
             "symbol-alt-narrow": "₪"
           },
           "INR": {
-            "displayName": "INR",
+            "displayName": "rûpîyê hindistanî",
+            "displayName-count-one": "rûpîyê hindistanî",
+            "displayName-count-other": "rûpîyên hindistanî",
             "symbol": "₹",
             "symbol-alt-narrow": "₹"
           },
           "IQD": {
-            "displayName": "IQD",
-            "symbol": "IQD"
+            "displayName": "dînarê îraqî",
+            "displayName-count-one": "dînarê îraqî",
+            "displayName-count-other": "dînarên îraqî"
           },
           "IRR": {
-            "displayName": "IRR",
-            "symbol": "IRR"
-          },
-          "ISJ": {
-            "displayName": "ISJ",
-            "symbol": "ISJ"
+            "displayName": "rîyalê îranî",
+            "displayName-count-one": "rîyalê îranî",
+            "displayName-count-other": "rîyalên îranî"
           },
           "ISK": {
-            "displayName": "ISK",
-            "symbol": "ISK",
+            "displayName": "kronê îslandayî",
+            "displayName-count-one": "kronê îslandayî",
+            "displayName-count-other": "kronên îslandayî",
             "symbol-alt-narrow": "kr"
           },
-          "ITL": {
-            "displayName": "ITL",
-            "symbol": "ITL"
-          },
           "JMD": {
-            "displayName": "JMD",
-            "symbol": "JMD",
+            "displayName": "dolarê jamaîkayî",
+            "displayName-count-one": "dolarê jamaîkayî",
+            "displayName-count-other": "dolarên jamaîkayî",
             "symbol-alt-narrow": "$"
           },
           "JOD": {
-            "displayName": "JOD",
-            "symbol": "JOD"
+            "displayName": "dînarê urdunî",
+            "displayName-count-one": "dînarê urdunî",
+            "displayName-count-other": "dînarên urdunî"
           },
           "JPY": {
-            "displayName": "JPY",
+            "displayName": "yenê japonî",
+            "displayName-count-one": "yenê japonî",
+            "displayName-count-other": "yenên japonî",
             "symbol": "JP¥",
             "symbol-alt-narrow": "¥"
           },
           "KES": {
-            "displayName": "KES",
-            "symbol": "KES"
+            "displayName": "şîlîngê kenyayî",
+            "displayName-count-one": "şîlîngê kenyayî",
+            "displayName-count-other": "şîlîngên kenyayî"
           },
           "KGS": {
-            "displayName": "KGS",
-            "symbol": "KGS"
+            "displayName": "somê qirxizistanî",
+            "displayName-count-one": "somê qirxizistanî",
+            "displayName-count-other": "somên qirxizistanî",
+            "symbol-alt-narrow": "⃀"
           },
           "KHR": {
-            "displayName": "KHR",
-            "symbol": "KHR",
+            "displayName": "rîelê kamboçyayî",
+            "displayName-count-one": "rîelê kamboçyayî",
+            "displayName-count-other": "rîelên kamboçyayî",
             "symbol-alt-narrow": "៛"
           },
           "KMF": {
-            "displayName": "KMF",
-            "symbol": "KMF",
+            "displayName": "frankê komoranî",
+            "displayName-count-one": "frankê komoranî",
+            "displayName-count-other": "frankên komoranî",
             "symbol-alt-narrow": "CF"
           },
           "KPW": {
-            "displayName": "KPW",
-            "symbol": "KPW",
+            "displayName": "wonê koreya bakurî",
+            "displayName-count-one": "wonê koreya bakurî",
+            "displayName-count-other": "wonên koreya bakurî",
             "symbol-alt-narrow": "₩"
           },
-          "KRH": {
-            "displayName": "KRH",
-            "symbol": "KRH"
-          },
-          "KRO": {
-            "displayName": "KRO",
-            "symbol": "KRO"
-          },
           "KRW": {
-            "displayName": "KRW",
+            "displayName": "wonê koreya başûrî",
+            "displayName-count-one": "wonê koreya başûrî",
+            "displayName-count-other": "wonên koreya başûrî",
             "symbol": "₩",
             "symbol-alt-narrow": "₩"
           },
           "KWD": {
-            "displayName": "KWD",
-            "symbol": "KWD"
+            "displayName": "dînarê kuweytî",
+            "displayName-count-one": "dînarê kuweytî",
+            "displayName-count-other": "dînarên kuweytî"
           },
           "KYD": {
-            "displayName": "KYD",
-            "symbol": "KYD",
+            "displayName": "dolarê giravên keymanî",
+            "displayName-count-one": "dolarê giravên keymanî",
+            "displayName-count-other": "dolarên giravên keymanî",
             "symbol-alt-narrow": "$"
           },
           "KZT": {
-            "displayName": "KZT",
-            "symbol": "KZT",
+            "displayName": "tengeyê qazaxistanî",
+            "displayName-count-one": "tengeyê qazaxistanî",
+            "displayName-count-other": "tengeyên qazaxistanî",
             "symbol-alt-narrow": "₸"
           },
           "LAK": {
-            "displayName": "LAK",
-            "symbol": "LAK",
+            "displayName": "kîpê laosî",
+            "displayName-count-one": "kîpê laosî",
+            "displayName-count-other": "kîpên laosî",
             "symbol-alt-narrow": "₭"
           },
           "LBP": {
-            "displayName": "LBP",
-            "symbol": "LBP",
+            "displayName": "lîreyê libnanî",
+            "displayName-count-one": "lîreyê libnanî",
+            "displayName-count-other": "lîreyên libnanî",
             "symbol-alt-narrow": "L£"
           },
           "LKR": {
-            "displayName": "LKR",
-            "symbol": "LKR",
+            "displayName": "rûpîyê srî lankayî",
+            "displayName-count-one": "rûpîyê srî lankayî",
+            "displayName-count-other": "rûpîyên srî lankayî",
             "symbol-alt-narrow": "Rs"
           },
           "LRD": {
-            "displayName": "LRD",
-            "symbol": "LRD",
+            "displayName": "dolarê lîberyayî",
+            "displayName-count-one": "dolarê lîberyayî",
+            "displayName-count-other": "dolarên lîberyayî",
             "symbol-alt-narrow": "$"
           },
           "LSL": {
-            "displayName": "LSL",
-            "symbol": "LSL"
+            "displayName": "lotîyê lesothoyî",
+            "displayName-count-one": "lotîyê lesothoyî",
+            "displayName-count-other": "lotîyên lesothoyî"
           },
           "LTL": {
-            "displayName": "LTL",
-            "symbol": "LTL",
             "symbol-alt-narrow": "Lt"
           },
-          "LTT": {
-            "displayName": "LTT",
-            "symbol": "LTT"
-          },
-          "LUC": {
-            "displayName": "LUC",
-            "symbol": "LUC"
-          },
-          "LUF": {
-            "displayName": "LUF",
-            "symbol": "LUF"
-          },
-          "LUL": {
-            "displayName": "LUL",
-            "symbol": "LUL"
-          },
           "LVL": {
-            "displayName": "LVL",
-            "symbol": "LVL",
             "symbol-alt-narrow": "Ls"
           },
-          "LVR": {
-            "displayName": "LVR",
-            "symbol": "LVR"
-          },
           "LYD": {
-            "displayName": "LYD",
-            "symbol": "LYD"
+            "displayName": "dînarê lîbyayî",
+            "displayName-count-one": "dînarê lîbyayî",
+            "displayName-count-other": "dînarên lîbyayî"
           },
           "MAD": {
-            "displayName": "MAD",
-            "symbol": "MAD"
-          },
-          "MAF": {
-            "displayName": "MAF",
-            "symbol": "MAF"
-          },
-          "MCF": {
-            "displayName": "MCF",
-            "symbol": "MCF"
-          },
-          "MDC": {
-            "displayName": "MDC",
-            "symbol": "MDC"
+            "displayName": "dîrhemê fasî",
+            "displayName-count-one": "dîrhemê fasî",
+            "displayName-count-other": "dîrhemên fasî"
           },
           "MDL": {
-            "displayName": "MDL",
-            "symbol": "MDL"
+            "displayName": "leyê moldovayî",
+            "displayName-count-one": "leyê moldovayî",
+            "displayName-count-other": "leyên moldovayî"
           },
           "MGA": {
-            "displayName": "MGA",
-            "symbol": "MGA",
+            "displayName": "frankê madagaskarî",
+            "displayName-count-one": "frankê madagaskarî",
+            "displayName-count-other": "frankên madagaskarî",
             "symbol-alt-narrow": "Ar"
           },
-          "MGF": {
-            "displayName": "MGF",
-            "symbol": "MGF"
-          },
           "MKD": {
-            "displayName": "MKD",
-            "symbol": "MKD"
-          },
-          "MKN": {
-            "displayName": "MKN",
-            "symbol": "MKN"
-          },
-          "MLF": {
-            "displayName": "MLF",
-            "symbol": "MLF"
+            "displayName": "dînarê makedonî",
+            "displayName-count-one": "dînarê makedonî",
+            "displayName-count-other": "dînarên makedonî"
           },
           "MMK": {
-            "displayName": "MMK",
-            "symbol": "MMK",
+            "displayName": "kyatê myanmarî",
+            "displayName-count-one": "kyatê myanmarî",
+            "displayName-count-other": "kyatên myanmarî",
             "symbol-alt-narrow": "K"
           },
           "MNT": {
-            "displayName": "MNT",
-            "symbol": "MNT",
+            "displayName": "togrokê moxolî",
+            "displayName-count-one": "togrokê moxolî",
+            "displayName-count-other": "togrokên moxolî",
             "symbol-alt-narrow": "₮"
           },
           "MOP": {
-            "displayName": "MOP",
-            "symbol": "MOP"
-          },
-          "MRO": {
-            "displayName": "MRO",
-            "symbol": "MRO"
+            "displayName": "patakayê makaoyî",
+            "displayName-count-one": "patakayê makaoyî",
+            "displayName-count-other": "patakaynê makaoyî"
           },
           "MRU": {
-            "displayName": "MRU",
-            "symbol": "MRU"
-          },
-          "MTL": {
-            "displayName": "MTL",
-            "symbol": "MTL"
-          },
-          "MTP": {
-            "displayName": "MTP",
-            "symbol": "MTP"
+            "displayName": "ouguîayê morîtanyayî",
+            "displayName-count-one": "ouguîayê morîtanyayî",
+            "displayName-count-other": "ouguîayên morîtanyayî"
           },
           "MUR": {
-            "displayName": "MUR",
-            "symbol": "MUR",
+            "displayName": "rûpîyê maûrîtîûsê",
+            "displayName-count-one": "rûpîyê maûrîtîûsê",
+            "displayName-count-other": "rûpîyên maûrîtîûsê",
             "symbol-alt-narrow": "Rs"
           },
-          "MVP": {
-            "displayName": "MVP",
-            "symbol": "MVP"
-          },
           "MVR": {
-            "displayName": "MVR",
-            "symbol": "MVR"
+            "displayName": "rûfîyaayê maldîvayî",
+            "displayName-count-one": "rûfîyaayê maldîvayî",
+            "displayName-count-other": "rûfîyaayên maldîvayî"
           },
           "MWK": {
-            "displayName": "MWK",
-            "symbol": "MWK"
+            "displayName": "kwaçayê malawîyê",
+            "displayName-count-one": "kwaçayê malawîyê",
+            "displayName-count-other": "kwaçayên malawîyê"
           },
           "MXN": {
-            "displayName": "MXN",
+            "displayName": "pesoyê meksîkayî",
+            "displayName-count-one": "pesoyê meksîkayî",
+            "displayName-count-other": "pesoyên meksîkayî",
             "symbol": "MX$",
             "symbol-alt-narrow": "$"
           },
-          "MXP": {
-            "displayName": "MXP",
-            "symbol": "MXP"
-          },
-          "MXV": {
-            "displayName": "MXV",
-            "symbol": "MXV"
-          },
           "MYR": {
-            "displayName": "MYR",
-            "symbol": "MYR",
+            "displayName": "ringgitê malezyayî",
+            "displayName-count-one": "ringgitê malezyayî",
+            "displayName-count-other": "ringgitên malezyayî",
             "symbol-alt-narrow": "RM"
           },
-          "MZE": {
-            "displayName": "MZE",
-            "symbol": "MZE"
-          },
-          "MZM": {
-            "displayName": "MZM",
-            "symbol": "MZM"
-          },
           "MZN": {
-            "displayName": "MZN",
-            "symbol": "MZN"
+            "displayName": "meticalê mozambîkî",
+            "displayName-count-one": "meticalê mozambîkî",
+            "displayName-count-other": "meticalên mozambîkî"
           },
           "NAD": {
-            "displayName": "NAD",
-            "symbol": "NAD",
+            "displayName": "dolarê namîbyayî",
+            "displayName-count-one": "dolarê namîbyayî",
+            "displayName-count-other": "dolarên namîbyayî",
             "symbol-alt-narrow": "$"
           },
           "NGN": {
-            "displayName": "NGN",
-            "symbol": "NGN",
+            "displayName": "naîrayê nîjeryayî",
+            "displayName-count-one": "naîrayê nîjeryayî",
+            "displayName-count-other": "naîrayên nîjeryayî",
             "symbol-alt-narrow": "₦"
           },
-          "NIC": {
-            "displayName": "NIC",
-            "symbol": "NIC"
-          },
           "NIO": {
-            "displayName": "NIO",
-            "symbol": "NIO",
+            "displayName": "kordobayê nîkaraguayî",
+            "displayName-count-one": "kordobayê nîkaraguayî",
+            "displayName-count-other": "kordobayên nîkaraguayî",
             "symbol-alt-narrow": "C$"
           },
-          "NLG": {
-            "displayName": "NLG",
-            "symbol": "NLG"
-          },
           "NOK": {
-            "displayName": "NOK",
-            "symbol": "NOK",
+            "displayName": "kronê norweçî",
+            "displayName-count-one": "kronê norweçî",
+            "displayName-count-other": "kronên norweçî",
             "symbol-alt-narrow": "kr"
           },
           "NPR": {
-            "displayName": "NPR",
-            "symbol": "NPR",
+            "displayName": "rûpîyê nepalî",
+            "displayName-count-one": "rûpîyê nepalî",
+            "displayName-count-other": "rûpîyên nepalî",
             "symbol-alt-narrow": "Rs"
           },
           "NZD": {
-            "displayName": "NZD",
+            "displayName": "dolarê zelandayî",
+            "displayName-count-one": "dolarê zelandayî",
+            "displayName-count-other": "dolarên zelandayî",
             "symbol": "NZ$",
             "symbol-alt-narrow": "$"
           },
           "OMR": {
-            "displayName": "OMR",
-            "symbol": "OMR"
+            "displayName": "rîyalê umanî",
+            "displayName-count-one": "rîyalê umanî",
+            "displayName-count-other": "rîyalên umanî"
           },
           "PAB": {
-            "displayName": "PAB",
-            "symbol": "PAB"
-          },
-          "PEI": {
-            "displayName": "PEI",
-            "symbol": "PEI"
+            "displayName": "balboayê panamayî",
+            "displayName-count-one": "balboayê panamayî",
+            "displayName-count-other": "balboayên panamayî"
           },
           "PEN": {
-            "displayName": "PEN",
-            "symbol": "PEN"
-          },
-          "PES": {
-            "displayName": "PES",
-            "symbol": "PES"
+            "displayName": "solê perûyî",
+            "displayName-count-one": "solê perûyî",
+            "displayName-count-other": "solên perûyî"
           },
           "PGK": {
-            "displayName": "PGK",
-            "symbol": "PGK"
+            "displayName": "kînayê gîneya nû ya papûayî",
+            "displayName-count-one": "kînayê gîneya nû ya papûayî",
+            "displayName-count-other": "kînayên gîneya nû ya papûayî"
           },
           "PHP": {
-            "displayName": "PHP",
+            "displayName": "pesoyê fîlîpînî",
+            "displayName-count-one": "pesoyê fîlîpînî",
+            "displayName-count-other": "pesoyên fîlîpînî",
             "symbol": "₱",
             "symbol-alt-narrow": "₱"
           },
           "PKR": {
-            "displayName": "PKR",
-            "symbol": "PKR",
+            "displayName": "rûpîyê pakistanî",
+            "displayName-count-one": "rûpîyê pakistanî",
+            "displayName-count-other": "rûpîyên pakistanî",
             "symbol-alt-narrow": "Rs"
           },
           "PLN": {
-            "displayName": "PLN",
-            "symbol": "PLN",
+            "displayName": "zlotîyê polonyayî",
+            "displayName-count-one": "zlotîyê polonyayî",
+            "displayName-count-other": "zlotîyên polonyayî",
             "symbol-alt-narrow": "zł"
           },
-          "PLZ": {
-            "displayName": "PLZ",
-            "symbol": "PLZ"
-          },
-          "PTE": {
-            "displayName": "PTE",
-            "symbol": "PTE"
-          },
           "PYG": {
-            "displayName": "PYG",
-            "symbol": "PYG",
+            "displayName": "gûaranîyê paragûayî",
+            "displayName-count-one": "gûaranîyê paragûayî",
+            "displayName-count-other": "gûaranîyên paragûayî",
             "symbol-alt-narrow": "₲"
           },
           "QAR": {
-            "displayName": "QAR",
-            "symbol": "QAR"
-          },
-          "RHD": {
-            "displayName": "RHD",
-            "symbol": "RHD"
-          },
-          "ROL": {
-            "displayName": "ROL",
-            "symbol": "ROL"
+            "displayName": "rîyalê qeterî",
+            "displayName-count-one": "rîyalê qeterî",
+            "displayName-count-other": "rîyalên qeterî"
           },
           "RON": {
-            "displayName": "RON",
-            "symbol": "RON",
+            "displayName": "leyê romanyayî",
+            "displayName-count-one": "leyê romanyayî",
+            "displayName-count-other": "leyên romanyayî",
             "symbol-alt-narrow": "lei"
           },
           "RSD": {
-            "displayName": "RSD",
-            "symbol": "RSD"
+            "displayName": "dînarê sirbî",
+            "displayName-count-one": "dînarê sirbî",
+            "displayName-count-other": "dînarên sirbî"
           },
           "RUB": {
-            "displayName": "RUB",
-            "symbol": "RUB",
+            "displayName": "rubleyê rûsî",
+            "displayName-count-one": "rubleyê rûsî",
+            "displayName-count-other": "rubleyên rûsî",
             "symbol-alt-narrow": "₽"
           },
-          "RUR": {
-            "displayName": "RUR",
-            "symbol": "RUR"
-          },
           "RWF": {
-            "displayName": "RWF",
-            "symbol": "RWF",
+            "displayName": "frankê rwandayî",
+            "displayName-count-one": "frankê rwandayî",
+            "displayName-count-other": "frankên rwandayî",
             "symbol-alt-narrow": "RF"
           },
           "SAR": {
-            "displayName": "SAR",
-            "symbol": "SAR"
+            "displayName": "rîyalê siûdî",
+            "displayName-count-one": "rîyalê siûdî",
+            "displayName-count-other": "rîyalên siûdî"
           },
           "SBD": {
-            "displayName": "SBD",
-            "symbol": "SBD",
+            "displayName": "dolarê giravên solomonî",
+            "displayName-count-one": "dolarê giravên solomonî",
+            "displayName-count-other": "dolarên giravên solomonî",
             "symbol-alt-narrow": "$"
           },
           "SCR": {
-            "displayName": "SCR",
-            "symbol": "SCR"
-          },
-          "SDD": {
-            "displayName": "SDD",
-            "symbol": "SDD"
+            "displayName": "rûpîyê seyşelerî",
+            "displayName-count-one": "rûpîyê seyşelerî",
+            "displayName-count-other": "rûpîyên seyşelerî"
           },
           "SDG": {
-            "displayName": "SDG",
-            "symbol": "SDG"
-          },
-          "SDP": {
-            "displayName": "SDP",
-            "symbol": "SDP"
+            "displayName": "lîreyê sûdanî",
+            "displayName-count-one": "lîreyê sûdanî",
+            "displayName-count-other": "lîreyên sûdanî"
           },
           "SEK": {
-            "displayName": "SEK",
-            "symbol": "SEK",
+            "displayName": "kronê swêdî",
+            "displayName-count-one": "kronê swêdî",
+            "displayName-count-other": "kronên swêdî",
             "symbol-alt-narrow": "kr"
           },
           "SGD": {
-            "displayName": "SGD",
-            "symbol": "SGD",
+            "displayName": "dolarê sîngapurî",
+            "displayName-count-one": "dolarê sîngapurî",
+            "displayName-count-other": "dolarên sîngapurî",
             "symbol-alt-narrow": "$"
           },
           "SHP": {
-            "displayName": "SHP",
-            "symbol": "SHP",
+            "displayName": "lîreyê saînt helenayî",
+            "displayName-count-one": "lîreyê saînt helenayî",
+            "displayName-count-other": "lîreyên saînt helenayî",
             "symbol-alt-narrow": "£"
-          },
-          "SIT": {
-            "displayName": "SIT",
-            "symbol": "SIT"
-          },
-          "SKK": {
-            "displayName": "SKK",
-            "symbol": "SKK"
           },
           "SLE": {
-            "displayName": "SLE",
-            "symbol": "SLE"
+            "displayName": "leoneyê sîera leoneyî",
+            "displayName-count-one": "leoneyê sîera leoneyî",
+            "displayName-count-other": "leoneyên sîera leoneyî"
           },
           "SLL": {
-            "displayName": "SLL",
-            "symbol": "SLL"
+            "displayName": "leoneyê sîera leoneyî (1964—2022)",
+            "displayName-count-one": "leoneyê sîera leoneyî (1964—2022)",
+            "displayName-count-other": "leoneyên sîera leoneyî (1964—2022)"
           },
           "SOS": {
-            "displayName": "SOS",
-            "symbol": "SOS"
+            "displayName": "şîlîngê somalî",
+            "displayName-count-one": "şîlîngê somalî",
+            "displayName-count-other": "şîlîngên somalî"
           },
           "SRD": {
-            "displayName": "SRD",
-            "symbol": "SRD",
+            "displayName": "dolarê surînamî",
+            "displayName-count-one": "dolarê surînamî",
+            "displayName-count-other": "dolarên surînamî",
             "symbol-alt-narrow": "$"
           },
-          "SRG": {
-            "displayName": "SRG",
-            "symbol": "SRG"
-          },
           "SSP": {
-            "displayName": "SSP",
-            "symbol": "SSP",
+            "displayName": "lîreyê sûdana başûrî",
+            "displayName-count-one": "lîreyê sûdana başûrî",
+            "displayName-count-other": "lîreyên sûdana başûrî",
             "symbol-alt-narrow": "£"
           },
-          "STD": {
-            "displayName": "STD",
-            "symbol": "STD"
-          },
           "STN": {
-            "displayName": "STN",
-            "symbol": "STN",
+            "displayName": "dobrayê sao tome û principeyî",
+            "displayName-count-one": "dobrayê sao tome û principeyî",
+            "displayName-count-other": "dobrayên sao tome û principeyî",
             "symbol-alt-narrow": "Db"
           },
-          "SUR": {
-            "displayName": "SUR",
-            "symbol": "SUR"
-          },
-          "SVC": {
-            "displayName": "SVC",
-            "symbol": "SVC"
-          },
           "SYP": {
-            "displayName": "SYP",
-            "symbol": "SYP",
+            "displayName": "lîreyê sûrî",
+            "displayName-count-one": "lîreyê sûrî",
+            "displayName-count-other": "lîreyên sûrî",
             "symbol-alt-narrow": "£"
           },
           "SZL": {
-            "displayName": "SZL",
-            "symbol": "SZL"
+            "displayName": "lîlangenîyê swazîlî",
+            "displayName-count-one": "lîlangenîyê swazîlî",
+            "displayName-count-other": "lîlangenîyên swazîlî"
           },
           "THB": {
-            "displayName": "THB",
-            "symbol": "THB",
+            "displayName": "bahtê taylandî",
+            "displayName-count-one": "bahtê taylandî",
+            "displayName-count-other": "bahtên taylandî",
             "symbol-alt-narrow": "฿"
           },
-          "TJR": {
-            "displayName": "TJR",
-            "symbol": "TJR"
-          },
           "TJS": {
-            "displayName": "TJS",
-            "symbol": "TJS"
-          },
-          "TMM": {
-            "displayName": "TMM",
-            "symbol": "TMM"
+            "displayName": "somonê tacikistanî",
+            "displayName-count-one": "somonê tacikistanî",
+            "displayName-count-other": "somonên tacikistanî"
           },
           "TMT": {
-            "displayName": "TMT",
-            "symbol": "TMT"
+            "displayName": "manatê tirkmenî",
+            "displayName-count-one": "manatê tirkmenî",
+            "displayName-count-other": "manatên tirkmenî"
           },
           "TND": {
-            "displayName": "TND",
-            "symbol": "TND"
+            "displayName": "dînarê tûnisî",
+            "displayName-count-one": "dînarê tûnisî",
+            "displayName-count-other": "dînarên tûnisî"
           },
           "TOP": {
-            "displayName": "TOP",
-            "symbol": "TOP",
+            "displayName": "paʻangayê tonganî",
+            "displayName-count-one": "paʻangayê tonganî",
+            "displayName-count-other": "paʻangayên tonganî",
             "symbol-alt-narrow": "T$"
           },
-          "TPE": {
-            "displayName": "TPE",
-            "symbol": "TPE"
-          },
-          "TRL": {
-            "displayName": "TRL",
-            "symbol": "TRL"
-          },
           "TRY": {
-            "displayName": "TRY",
+            "displayName": "lîreyê tirkî",
+            "displayName-count-one": "lîreyê tirkî",
+            "displayName-count-other": "lîreyên tirkî",
             "symbol": "₺",
             "symbol-alt-narrow": "₺",
             "symbol-alt-variant": "TL"
           },
           "TTD": {
-            "displayName": "TTD",
-            "symbol": "TTD",
+            "displayName": "dolarê trinidad û tobagoyî",
+            "displayName-count-one": "dolarê trinidad û tobagoyî",
+            "displayName-count-other": "dolarên trinidad û tobagoyî",
             "symbol-alt-narrow": "$"
           },
           "TWD": {
-            "displayName": "TWD",
+            "displayName": "dolarê taywanî",
+            "displayName-count-one": "dolarê taywanî",
+            "displayName-count-other": "dolarên taywanî",
             "symbol": "NT$",
             "symbol-alt-narrow": "$"
           },
           "TZS": {
-            "displayName": "TZS",
-            "symbol": "TZS"
+            "displayName": "şîlîngê tanzanî",
+            "displayName-count-one": "şîlîngê tanzanî",
+            "displayName-count-other": "şîlîngên tanzanî"
           },
           "UAH": {
-            "displayName": "UAH",
-            "symbol": "UAH",
+            "displayName": "grîvnayê ûkraynî",
+            "displayName-count-one": "grîvnayê ûkraynî",
+            "displayName-count-other": "grîvnayên ûkraynî",
             "symbol-alt-narrow": "₴"
           },
-          "UAK": {
-            "displayName": "UAK",
-            "symbol": "UAK"
-          },
-          "UGS": {
-            "displayName": "UGS",
-            "symbol": "UGS"
-          },
           "UGX": {
-            "displayName": "UGX",
-            "symbol": "UGX"
+            "displayName": "şîlîngê ûgandayî",
+            "displayName-count-one": "şîlîngê ûgandayî",
+            "displayName-count-other": "şîlîngên ûgandayî"
           },
           "USD": {
-            "displayName": "USD",
-            "symbol": "US$",
+            "displayName": "dolarê amerîkî",
+            "displayName-count-one": "dolarê amerîkî",
+            "displayName-count-other": "dolarên amerîkî",
+            "symbol": "$",
             "symbol-alt-narrow": "$"
-          },
-          "USN": {
-            "displayName": "USN",
-            "symbol": "USN"
-          },
-          "USS": {
-            "displayName": "USS",
-            "symbol": "USS"
-          },
-          "UYI": {
-            "displayName": "UYI",
-            "symbol": "UYI"
-          },
-          "UYP": {
-            "displayName": "UYP",
-            "symbol": "UYP"
           },
           "UYU": {
-            "displayName": "UYU",
-            "symbol": "UYU",
+            "displayName": "pesoyê ûrûgûayî",
+            "displayName-count-one": "pesoyê ûrûgûayî",
+            "displayName-count-other": "pesoyên ûrûgûayî",
             "symbol-alt-narrow": "$"
           },
-          "UYW": {
-            "displayName": "UYW",
-            "symbol": "UYW"
-          },
           "UZS": {
-            "displayName": "UZS",
-            "symbol": "UZS"
-          },
-          "VEB": {
-            "displayName": "VEB",
-            "symbol": "VEB"
-          },
-          "VED": {
-            "displayName": "VED",
-            "symbol": "VED"
+            "displayName": "somê ozbekî",
+            "displayName-count-one": "somê ozbekî",
+            "displayName-count-other": "somên ozbekî"
           },
           "VEF": {
-            "displayName": "VEF",
-            "symbol": "VEF",
             "symbol-alt-narrow": "Bs"
           },
           "VES": {
-            "displayName": "VES",
-            "symbol": "VES"
+            "displayName": "bolîvarê venezuelayî",
+            "displayName-count-one": "bolîvarê venezuelayî",
+            "displayName-count-other": "bolîvarên venezuelayî"
           },
           "VND": {
-            "displayName": "VND",
+            "displayName": "dongê vîetnamî",
+            "displayName-count-one": "dongê vîetnamî",
+            "displayName-count-other": "dongên vîetnamî",
             "symbol": "₫",
             "symbol-alt-narrow": "₫"
           },
-          "VNN": {
-            "displayName": "VNN",
-            "symbol": "VNN"
-          },
           "VUV": {
-            "displayName": "VUV",
-            "symbol": "VUV"
+            "displayName": "vatûyê vanûatûyî",
+            "displayName-count-one": "vatûyê vanûatûyî",
+            "displayName-count-other": "vatûyên vanûatûyî"
           },
           "WST": {
-            "displayName": "WST",
-            "symbol": "WST"
+            "displayName": "talayê somonî",
+            "displayName-count-one": "talayê somonî",
+            "displayName-count-other": "talayên somonî"
           },
           "XAF": {
-            "displayName": "XAF",
+            "displayName": "frenkê CFA yê afrîkaya navîn",
+            "displayName-count-one": "frenkê CFA yê afrîkaya navîn",
+            "displayName-count-other": "frenkên CFA yê afrîkaya navîn",
             "symbol": "FCFA"
           },
-          "XAG": {
-            "displayName": "XAG",
-            "symbol": "XAG"
-          },
-          "XAU": {
-            "displayName": "XAU",
-            "symbol": "XAU"
-          },
-          "XBA": {
-            "displayName": "XBA",
-            "symbol": "XBA"
-          },
-          "XBB": {
-            "displayName": "XBB",
-            "symbol": "XBB"
-          },
-          "XBC": {
-            "displayName": "XBC",
-            "symbol": "XBC"
-          },
-          "XBD": {
-            "displayName": "XBD",
-            "symbol": "XBD"
-          },
           "XCD": {
-            "displayName": "XCD",
+            "displayName": "dolarê karayîba rojhilatî",
+            "displayName-count-one": "dolarê karayîba rojhilatî",
+            "displayName-count-other": "dolarên karayîba rojhilatî",
             "symbol": "EC$",
             "symbol-alt-narrow": "$"
           },
-          "XDR": {
-            "displayName": "XDR",
-            "symbol": "XDR"
-          },
-          "XEU": {
-            "displayName": "XEU",
-            "symbol": "XEU"
-          },
-          "XFO": {
-            "displayName": "XFO",
-            "symbol": "XFO"
-          },
-          "XFU": {
-            "displayName": "XFU",
-            "symbol": "XFU"
+          "XCG": {
+            "symbol": "Cg."
           },
           "XOF": {
-            "displayName": "XOF",
+            "displayName": "frankê CFA yê afrîkaya başûrî",
+            "displayName-count-one": "frankê CFA yê afrîkaya başûrî",
+            "displayName-count-other": "frankên CFA yê afrîkaya başûrî",
             "symbol": "F CFA"
           },
-          "XPD": {
-            "displayName": "XPD",
-            "symbol": "XPD"
-          },
           "XPF": {
-            "displayName": "XPF",
+            "displayName": "frankê CFPî",
+            "displayName-count-one": "frankê CFPî",
+            "displayName-count-other": "frankên CFPî",
             "symbol": "CFPF"
           },
-          "XPT": {
-            "displayName": "XPT",
-            "symbol": "XPT"
-          },
-          "XRE": {
-            "displayName": "XRE",
-            "symbol": "XRE"
-          },
-          "XSU": {
-            "displayName": "XSU",
-            "symbol": "XSU"
-          },
-          "XTS": {
-            "displayName": "XTS",
-            "symbol": "XTS"
-          },
-          "XUA": {
-            "displayName": "XUA",
-            "symbol": "XUA"
-          },
           "XXX": {
-            "displayName": "XXX",
+            "displayName": "(yekeya pereyî ya nenas)",
+            "displayName-count-one": "yekeya pereyî ya nenas",
+            "displayName-count-other": "(yekeyên pereyî yên nenas)",
             "symbol": "¤"
           },
-          "YDD": {
-            "displayName": "YDD",
-            "symbol": "YDD"
-          },
           "YER": {
-            "displayName": "YER",
-            "symbol": "YER"
-          },
-          "YUD": {
-            "displayName": "YUD",
-            "symbol": "YUD"
-          },
-          "YUM": {
-            "displayName": "YUM",
-            "symbol": "YUM"
-          },
-          "YUN": {
-            "displayName": "YUN",
-            "symbol": "YUN"
-          },
-          "YUR": {
-            "displayName": "YUR",
-            "symbol": "YUR"
-          },
-          "ZAL": {
-            "displayName": "ZAL",
-            "symbol": "ZAL"
+            "displayName": "rîyalê yemenî",
+            "displayName-count-one": "rîyalê yemenî",
+            "displayName-count-other": "rîyalên yemenî"
           },
           "ZAR": {
-            "displayName": "ZAR",
-            "symbol": "ZAR",
+            "displayName": "randê afrîkaya başûrî",
+            "displayName-count-one": "randê afrîkaya başûrî",
+            "displayName-count-other": "randên afrîkaya başûrî",
             "symbol-alt-narrow": "R"
           },
-          "ZMK": {
-            "displayName": "ZMK",
-            "symbol": "ZMK"
-          },
           "ZMW": {
-            "displayName": "ZMW",
-            "symbol": "ZMW",
+            "displayName": "kwaçayê zambîyayî",
+            "displayName-count-one": "kwaçayê zambîyayî",
+            "displayName-count-other": "kwaçayên zambîyayî",
             "symbol-alt-narrow": "ZK"
-          },
-          "ZRN": {
-            "displayName": "ZRN",
-            "symbol": "ZRN"
-          },
-          "ZRZ": {
-            "displayName": "ZRZ",
-            "symbol": "ZRZ"
-          },
-          "ZWD": {
-            "displayName": "ZWD",
-            "symbol": "ZWD"
-          },
-          "ZWL": {
-            "displayName": "ZWL",
-            "symbol": "ZWL"
-          },
-          "ZWR": {
-            "displayName": "ZWR",
-            "symbol": "ZWR"
           }
         }
       }

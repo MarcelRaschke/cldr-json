@@ -2,9 +2,6 @@
   "main": {
     "gl": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "gl"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} (compatibilidade)",
         "enclosed": "{0} (incluíd.)",
         "extended": "{0} (ampliad.)",
+        "facing-left": "{0} cara á esquerda",
+        "facing-right": "{0} cara á dereita",
         "historic": "{0} (históric.)",
         "miscellaneous": "{0} (variad.)",
         "other": "{0} (outr.)",

@@ -2,9 +2,6 @@
   "main": {
     "sv": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "sv"
       },
       "dates": {
@@ -324,7 +321,6 @@
             },
             "timeSkeletons": {
               "full": "HHmmsszzzz",
-              "full-alt-variant": "HHmmsszzzz",
               "long": "HHmmssz",
               "medium": "HHmmss",
               "short": "HHmm"
@@ -398,11 +394,11 @@
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
                 "Bh": {
-                  "B": "h B – h B",
+                  "B": "h B – h B",
                   "h": "h – h B"
                 },
                 "Bhm": {
-                  "B": "h:mm B – h:mm B",
+                  "B": "h:mm B – h:mm B",
                   "h": "h:mm – h:mm B",
                   "m": "h:mm – h:mm B"
                 },

@@ -2,9 +2,6 @@
   "main": {
     "ka": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "ka"
       },
       "units": {
@@ -39,6 +36,12 @@
           "10p-24": {
             "unitPrefixPattern": "იოქტო{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "რონტო{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "ქვექტო{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "დეკა{0}"
           },
@@ -68,6 +71,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "იოტა{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "რონა{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "ქვეტა{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "კიბი{0}"
@@ -842,9 +851,13 @@
             "unitPattern-count-one": "{0} კვანძი",
             "unitPattern-count-other": "{0} კვანძი"
           },
+          "speed-beaufort": {
+            "displayName": "ბოფორტი",
+            "unitPattern-count-one": "ბოფორტი {0}",
+            "unitPattern-count-other": "ბოფორტი {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
@@ -1047,6 +1060,21 @@
             "unitPattern-count-one": "{0} ბრიტანული კვარტი",
             "unitPattern-count-other": "{0} ბრიტანული კვარტი"
           },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ნაწილი მილიარდზე",
+            "unitPattern-count-one": "{0} ნაწილი მილიარდზე",
+            "unitPattern-count-other": "{0} ნაწილი მილიარდზე"
+          },
+          "duration-night": {
+            "displayName": "ღამე",
+            "unitPattern-count-one": "{0} ღამე",
+            "unitPattern-count-other": "{0} ღამე",
+            "perUnitPattern": "{0}/ღამე"
+          },
           "coordinateUnit": {
             "displayName": "კარდინალური მიმართულება",
             "east": "{0} აღმოსავლეთით",
@@ -1086,6 +1114,12 @@
           "10p-24": {
             "unitPrefixPattern": "იოქტო{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "რ{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "ქ{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "დეკა{0}"
           },
@@ -1116,6 +1150,12 @@
           "10p24": {
             "unitPrefixPattern": "ი{0}"
           },
+          "10p27": {
+            "unitPrefixPattern": "რა{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "ქა{0}"
+          },
           "1024p1": {
             "unitPrefixPattern": "კი{0}"
           },
@@ -1145,12 +1185,10 @@
           },
           "power2": {
             "compoundUnitPattern1": "{0}²",
-            "compoundUnitPattern1-count-one": "{0}²",
             "compoundUnitPattern1-count-other": "{0}²"
           },
           "power3": {
             "compoundUnitPattern1": "{0}³",
-            "compoundUnitPattern1-count-one": "{0}³",
             "compoundUnitPattern1-count-other": "{0}³"
           },
           "times": {
@@ -1178,7 +1216,6 @@
           },
           "angle-degree": {
             "displayName": "გრადუსი",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "angle-arc-minute": {
@@ -1268,17 +1305,14 @@
           },
           "concentr-permillion": {
             "displayName": "ნაწილი/მილიონზე",
-            "unitPattern-count-one": "{0} ppm",
             "unitPattern-count-other": "{0} ppm"
           },
           "concentr-percent": {
             "displayName": "%",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "‰",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
@@ -1326,7 +1360,6 @@
           },
           "digital-gigabyte": {
             "displayName": "GB",
-            "unitPattern-count-one": "{0} GB",
             "unitPattern-count-other": "{0} GB"
           },
           "digital-gigabit": {
@@ -1336,7 +1369,6 @@
           },
           "digital-megabyte": {
             "displayName": "MB",
-            "unitPattern-count-one": "{0} MB",
             "unitPattern-count-other": "{0} MB"
           },
           "digital-megabit": {
@@ -1571,9 +1603,9 @@
             "unitPattern-count-other": "{0} წერტ/დუიმზე"
           },
           "graphics-dot": {
-            "displayName": "წერტილი",
-            "unitPattern-count-one": "{0} წერტილი",
-            "unitPattern-count-other": "{0} წერტილი"
+            "displayName": "წერტ.",
+            "unitPattern-count-one": "{0} წერტ.",
+            "unitPattern-count-other": "{0} წერტ."
           },
           "length-earth-radius": {
             "displayName": "⊕ რადიუსი",
@@ -1887,24 +1919,24 @@
             "unitPattern-count-one": "{0} კვძ.",
             "unitPattern-count-other": "{0} კვძ."
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
             "displayName": "°C",
-            "unitPattern-count-one": "{0}°C",
             "unitPattern-count-other": "{0}°C"
           },
           "temperature-fahrenheit": {
             "displayName": "°F",
-            "unitPattern-count-one": "{0}°F",
             "unitPattern-count-other": "{0}°F"
           },
           "temperature-kelvin": {
             "displayName": "K",
-            "unitPattern-count-one": "{0} K",
             "unitPattern-count-other": "{0} K"
           },
           "torque-pound-force-foot": {
@@ -2092,6 +2124,21 @@
             "unitPattern-count-one": "{0} ბრიტ. კვარტი",
             "unitPattern-count-other": "{0} ბრიტ. კვარტი"
           },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ნაწილი/მილიარდზე",
+            "unitPattern-count-one": "{0} ნ/მ",
+            "unitPattern-count-other": "{0} ნ/მ"
+          },
+          "duration-night": {
+            "displayName": "ღამე",
+            "unitPattern-count-one": "{0} ღამე",
+            "unitPattern-count-other": "{0} ღამე",
+            "perUnitPattern": "{0}/ღამე"
+          },
           "coordinateUnit": {
             "displayName": "მიმართულება",
             "east": "{0}აღმ.",
@@ -2131,6 +2178,12 @@
           "10p-24": {
             "unitPrefixPattern": "იოქტო{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "რ{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "ქ{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "დეკა{0}"
           },
@@ -2161,6 +2214,12 @@
           "10p24": {
             "unitPrefixPattern": "ი{0}"
           },
+          "10p27": {
+            "unitPrefixPattern": "რა{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "ქა{0}"
+          },
           "1024p1": {
             "unitPrefixPattern": "კი{0}"
           },
@@ -2190,12 +2249,10 @@
           },
           "power2": {
             "compoundUnitPattern1": "{0}²",
-            "compoundUnitPattern1-count-one": "{0}²",
             "compoundUnitPattern1-count-other": "{0}²"
           },
           "power3": {
             "compoundUnitPattern1": "{0}³",
-            "compoundUnitPattern1-count-one": "{0}³",
             "compoundUnitPattern1-count-other": "{0}³"
           },
           "times": {
@@ -2223,7 +2280,6 @@
           },
           "angle-degree": {
             "displayName": "გრადუსი",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "angle-arc-minute": {
@@ -2313,17 +2369,14 @@
           },
           "concentr-permillion": {
             "displayName": "ნაწილი/მილიონზე",
-            "unitPattern-count-one": "{0} ppm",
             "unitPattern-count-other": "{0} ppm"
           },
           "concentr-percent": {
             "displayName": "%",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "‰",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
@@ -2371,7 +2424,6 @@
           },
           "digital-gigabyte": {
             "displayName": "GB",
-            "unitPattern-count-one": "{0} GB",
             "unitPattern-count-other": "{0} GB"
           },
           "digital-gigabit": {
@@ -2381,7 +2433,6 @@
           },
           "digital-megabyte": {
             "displayName": "MB",
-            "unitPattern-count-one": "{0} MB",
             "unitPattern-count-other": "{0} MB"
           },
           "digital-megabit": {
@@ -2616,9 +2667,9 @@
             "unitPattern-count-other": "{0} წერტ/დუიმზე"
           },
           "graphics-dot": {
-            "displayName": "წერტილი",
-            "unitPattern-count-one": "{0} წერტილი",
-            "unitPattern-count-other": "{0} წერტილი"
+            "displayName": "წერტ.",
+            "unitPattern-count-one": "{0} წერტ.",
+            "unitPattern-count-other": "{0} წერტ."
           },
           "length-earth-radius": {
             "displayName": "⊕ რადიუსი",
@@ -2774,18 +2825,18 @@
           },
           "mass-milligram": {
             "displayName": "მგ",
-            "unitPattern-count-one": "{0} მგ",
-            "unitPattern-count-other": "{0} მგ"
+            "unitPattern-count-one": "{0}მგ",
+            "unitPattern-count-other": "{0}მგ"
           },
           "mass-microgram": {
             "displayName": "მკგ",
-            "unitPattern-count-one": "{0} მკგ",
-            "unitPattern-count-other": "{0} მკგ"
+            "unitPattern-count-one": "{0}მკგ",
+            "unitPattern-count-other": "{0}მკგ"
           },
           "mass-ton": {
             "displayName": "ტონა",
-            "unitPattern-count-one": "{0} ტ",
-            "unitPattern-count-other": "{0} ტ"
+            "unitPattern-count-one": "{0}ტ",
+            "unitPattern-count-other": "{0}ტ"
           },
           "mass-stone": {
             "displayName": "სტოუნი",
@@ -2932,24 +2983,24 @@
             "unitPattern-count-one": "{0} კვძ.",
             "unitPattern-count-other": "{0} კვძ."
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
             "displayName": "°C",
-            "unitPattern-count-one": "{0}°C",
             "unitPattern-count-other": "{0}°C"
           },
           "temperature-fahrenheit": {
             "displayName": "°F",
-            "unitPattern-count-one": "{0}°F",
             "unitPattern-count-other": "{0}°F"
           },
           "temperature-kelvin": {
             "displayName": "K",
-            "unitPattern-count-one": "{0} K",
             "unitPattern-count-other": "{0} K"
           },
           "torque-pound-force-foot": {
@@ -3136,6 +3187,21 @@
             "displayName": "ბრიტ. კვარტი",
             "unitPattern-count-one": "{0} ბრიტ. კვარტი",
             "unitPattern-count-other": "{0} ბრიტ. კვარტი"
+          },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "ნ/მ",
+            "unitPattern-count-one": "{0} ნ/მ",
+            "unitPattern-count-other": "{0} ნ/მ"
+          },
+          "duration-night": {
+            "displayName": "ღამე",
+            "unitPattern-count-one": "{0} ღამე",
+            "unitPattern-count-other": "{0} ღამე",
+            "perUnitPattern": "{0}/ღამე"
           },
           "coordinateUnit": {
             "displayName": "მიმართულება",

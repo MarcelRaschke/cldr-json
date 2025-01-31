@@ -1,9 +1,6 @@
 {
   "annotations": {
     "identity": {
-      "version": {
-        "_cldrVersion": "42"
-      },
       "language": "kab"
     },
     "annotations": {
@@ -385,7 +382,8 @@
       },
       "🎈": {
         "default": [
-          "asfugel"
+          "asfugel",
+          "tacuffut"
         ]
       },
       "🎀": {
@@ -418,6 +416,7 @@
       "🎴": {
         "default": [
           "takarḍa",
+          "tikarḍiwin n wurra n ujeǧǧig",
           "urar"
         ]
       },
@@ -588,6 +587,7 @@
       },
       "✏": {
         "default": [
+          "aɣnib",
           "imru"
         ]
       },

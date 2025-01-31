@@ -2,9 +2,6 @@
   "main": {
     "es-CO": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "es",
         "territory": "CO"
       },
@@ -116,7 +113,7 @@
                   "sun": "D",
                   "mon": "L",
                   "tue": "M",
-                  "wed": "M",
+                  "wed": "m",
                   "thu": "J",
                   "fri": "V",
                   "sat": "S"
@@ -234,7 +231,7 @@
                 },
                 "narrow": {
                   "am": "a. m.",
-                  "noon": "del mediodía",
+                  "noon": "m.",
                   "pm": "p. m.",
                   "morning1": "de la madrugada",
                   "morning2": "de la mañana",
@@ -243,7 +240,7 @@
                 },
                 "wide": {
                   "am": "a. m.",
-                  "noon": "del mediodía",
+                  "noon": "m.",
                   "pm": "p. m.",
                   "morning1": "de la madrugada",
                   "morning2": "de la mañana",
@@ -272,7 +269,7 @@
                 },
                 "wide": {
                   "am": "a. m.",
-                  "noon": "mediodía",
+                  "noon": "m.",
                   "pm": "p. m.",
                   "morning1": "madrugada",
                   "morning2": "mañana",
@@ -391,11 +388,11 @@
               "intervalFormats": {
                 "intervalFormatFallback": "{0} ‘al’ {1}",
                 "Bh": {
-                  "B": "h B – h B",
+                  "B": "h B – h B",
                   "h": "h–h B"
                 },
                 "Bhm": {
-                  "B": "h:mm B – h:mm B",
+                  "B": "h:mm B – h:mm B",
                   "h": "h:mm–h:mm B",
                   "m": "h:mm–h:mm B"
                 },

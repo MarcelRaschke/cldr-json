@@ -2,9 +2,6 @@
   "main": {
     "kk": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "kk"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — үйлесімді",
         "enclosed": "{0} — енгізілген",
         "extended": "{0} — кеңейтілген",
+        "facing-left": "{0} солға қаратылған",
+        "facing-right": "{0} оңға қаратылған",
         "historic": "{0} — тарихи",
         "miscellaneous": "{0} — әртүрлі",
         "other": "{0} — басқа",

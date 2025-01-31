@@ -2,9 +2,6 @@
   "main": {
     "nb": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "nb"
       },
       "numbers": {
@@ -107,7 +104,7 @@
               "insertBetween": " "
             }
           },
-          "standard": "¤ #,##0.00;¤ -#,##0.00",
+          "standard": "#,##0.00 ¤;-#,##0.00 ¤",
           "standard-noCurrency": "#,##0.00",
           "accounting": "¤ #,##0.00;(¤ #,##0.00)",
           "accounting-noCurrency": "#,##0.00;(#,##0.00)",
@@ -140,7 +137,6 @@
             }
           },
           "currencyPatternAppendISO": "{0} ¤¤",
-          "unitPattern-count-one": "{0} {1}",
           "unitPattern-count-other": "{0} {1}"
         },
         "miscPatterns-numberSystem-latn": {

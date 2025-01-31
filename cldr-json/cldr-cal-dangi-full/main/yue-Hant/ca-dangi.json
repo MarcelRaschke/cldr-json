@@ -2,9 +2,6 @@
   "main": {
     "yue-Hant": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "yue",
         "script": "Hant"
       },
@@ -1075,8 +1072,14 @@
               "short": "U/M/d"
             },
             "dateSkeletons": {
-              "full": "UMMMEEEEd",
-              "long": "UMMMd",
+              "full": {
+                "_value": "UMMMEEEEd",
+                "_numbers": "d=hanidays"
+              },
+              "long": {
+                "_value": "UMMMd",
+                "_numbers": "d=hanidays"
+              },
               "medium": "UMMMd",
               "short": "UMd"
             },
@@ -1162,11 +1165,11 @@
               "intervalFormats": {
                 "intervalFormatFallback": "{0}至{1}",
                 "Bh": {
-                  "B": "h B – h B",
+                  "B": "h B – h B",
                   "h": "h–h B"
                 },
                 "Bhm": {
-                  "B": "h:mm B – h:mm B",
+                  "B": "h:mm B – h:mm B",
                   "h": "h:mm–h:mm B",
                   "m": "h:mm–h:mm B"
                 },

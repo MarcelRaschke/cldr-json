@@ -2,9 +2,6 @@
   "main": {
     "th": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "th"
       },
       "characterLabelPatterns": {
@@ -13,6 +10,8 @@
         "compatibility": "{0} — ความเข้ากันได้",
         "enclosed": "{0} — ล้อมรอบ",
         "extended": "{0} — ขยาย",
+        "facing-left": "{0} หันซ้าย",
+        "facing-right": "{0} หันขวา",
         "historic": "{0} — โบราณ",
         "miscellaneous": "{0} — อื่นๆ",
         "other": "{0} — อื่นๆ",

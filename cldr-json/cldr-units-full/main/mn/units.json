@@ -2,15 +2,12 @@
   "main": {
     "mn": {
       "identity": {
-        "version": {
-          "_cldrVersion": "42"
-        },
         "language": "mn"
       },
       "units": {
         "long": {
           "10p-1": {
-            "unitPrefixPattern": "деси{0}"
+            "unitPrefixPattern": "деци{0}"
           },
           "10p-2": {
             "unitPrefixPattern": "сенти{0}"
@@ -38,6 +35,12 @@
           },
           "10p-24": {
             "unitPrefixPattern": "ёокто{0}"
+          },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
           },
           "10p1": {
             "unitPrefixPattern": "дека{0}"
@@ -68,6 +71,12 @@
           },
           "10p24": {
             "unitPrefixPattern": "ёотта{0}"
+          },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
           },
           "1024p1": {
             "unitPrefixPattern": "киби{0}"
@@ -519,6 +528,11 @@
             "unitPattern-count-one": "{0} цэг/см",
             "unitPattern-count-other": "{0} цэг/см"
           },
+          "graphics-dot-per-inch": {
+            "displayName": "цэг/инч",
+            "unitPattern-count-one": "{0} цэг/инч",
+            "unitPattern-count-other": "{0} цэг/инч"
+          },
           "graphics-dot": {
             "displayName": "цэг",
             "unitPattern-count-one": "{0} цэг",
@@ -605,9 +619,9 @@
             "unitPattern-count-other": "{0} гэрлийн жил"
           },
           "length-astronomical-unit": {
-            "displayName": "сансрын нэгж",
-            "unitPattern-count-one": "{0} сансрын нэгж",
-            "unitPattern-count-other": "{0} сансрын нэгж"
+            "displayName": "одон орны нэгж",
+            "unitPattern-count-one": "{0} одон орны нэгж",
+            "unitPattern-count-other": "{0} одон орны нэгж"
           },
           "length-furlong": {
             "displayName": "фурлонг",
@@ -838,9 +852,12 @@
             "unitPattern-count-one": "{0} занг.",
             "unitPattern-count-other": "{0} занг."
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
@@ -1042,6 +1059,21 @@
             "unitPattern-count-one": "{0} том куарт",
             "unitPattern-count-other": "{0} том куарт"
           },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "мкг/кг",
+            "unitPattern-count-one": "{0} мкг/кг",
+            "unitPattern-count-other": "{0} мкг/кг"
+          },
+          "duration-night": {
+            "displayName": "шөнө",
+            "unitPattern-count-one": "{0} шөнө",
+            "unitPattern-count-other": "{0} шөнө",
+            "perUnitPattern": "{0}/шөнөдөө"
+          },
           "coordinateUnit": {
             "displayName": "зүг чиг",
             "east": "зүүн уртрагийн {0}",
@@ -1081,6 +1113,12 @@
           "10p-24": {
             "unitPrefixPattern": "ё{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "да{0}"
           },
@@ -1111,6 +1149,12 @@
           "10p24": {
             "unitPrefixPattern": "Ё{0}"
           },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
+          },
           "1024p1": {
             "unitPrefixPattern": "Ки{0}"
           },
@@ -1140,12 +1184,10 @@
           },
           "power2": {
             "compoundUnitPattern1": "{0}²",
-            "compoundUnitPattern1-count-one": "{0}²",
             "compoundUnitPattern1-count-other": "{0}²"
           },
           "power3": {
             "compoundUnitPattern1": "{0}³",
-            "compoundUnitPattern1-count-one": "{0}³",
             "compoundUnitPattern1-count-other": "{0}³"
           },
           "times": {
@@ -1263,17 +1305,15 @@
           },
           "concentr-permillion": {
             "displayName": "хувь/сая",
-            "unitPattern-count-one": "{0}x10⁻⁶",
+            "unitPattern-count-one": "саяны {0} хувь",
             "unitPattern-count-other": "{0}x10⁻⁶"
           },
           "concentr-percent": {
             "displayName": "хувь",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "мянганы хувь",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
@@ -1445,7 +1485,6 @@
           },
           "electric-ohm": {
             "displayName": "Ω",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
@@ -1556,6 +1595,11 @@
             "unitPattern-count-one": "{0} цэг/см",
             "unitPattern-count-other": "{0} цэг/см"
           },
+          "graphics-dot-per-inch": {
+            "displayName": "цэг/инч",
+            "unitPattern-count-one": "{0} цэг/инч",
+            "unitPattern-count-other": "{0} цэг/инч"
+          },
           "graphics-dot": {
             "displayName": "цэг",
             "unitPattern-count-one": "{0} цэг",
@@ -1641,9 +1685,9 @@
             "unitPattern-count-other": "{0} гэрл.жил"
           },
           "length-astronomical-unit": {
-            "displayName": "сн",
-            "unitPattern-count-one": "{0} сн",
-            "unitPattern-count-other": "{0} сн"
+            "displayName": "о.о.н",
+            "unitPattern-count-one": "{0} о.о.н",
+            "unitPattern-count-other": "{0} о.о.н"
           },
           "length-furlong": {
             "displayName": "фурлонг",
@@ -1682,8 +1726,9 @@
             "unitPattern-count-other": "{0} cd"
           },
           "light-lumen": {
-            "displayName": "lm",
-            "unitPattern-count-other": "{0} lm"
+            "displayName": "люмен",
+            "unitPattern-count-one": "{0} люмен",
+            "unitPattern-count-other": "{0} люмен"
           },
           "light-solar-luminosity": {
             "displayName": "нарны гэрлийн урсгал",
@@ -1866,19 +1911,20 @@
             "unitPattern-count-one": "{0} занг.",
             "unitPattern-count-other": "{0} занг."
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
             "displayName": "C хэм",
-            "unitPattern-count-one": "{0}°C",
             "unitPattern-count-other": "{0}°C"
           },
           "temperature-fahrenheit": {
             "displayName": "F хэм",
-            "unitPattern-count-one": "{0}°F",
             "unitPattern-count-other": "{0}°F"
           },
           "temperature-kelvin": {
@@ -2069,6 +2115,21 @@
             "unitPattern-count-one": "{0} том куарт",
             "unitPattern-count-other": "{0} том куарт"
           },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "мкг/кг",
+            "unitPattern-count-one": "{0} мкг/кг",
+            "unitPattern-count-other": "{0} мкг/кг"
+          },
+          "duration-night": {
+            "displayName": "шөнө",
+            "unitPattern-count-one": "{0} шөнө",
+            "unitPattern-count-other": "{0} шөнө",
+            "perUnitPattern": "{0}/шөнө"
+          },
           "coordinateUnit": {
             "displayName": "зүг",
             "east": "{0} з.у",
@@ -2108,6 +2169,12 @@
           "10p-24": {
             "unitPrefixPattern": "ё{0}"
           },
+          "10p-27": {
+            "unitPrefixPattern": "r{0}"
+          },
+          "10p-30": {
+            "unitPrefixPattern": "q{0}"
+          },
           "10p1": {
             "unitPrefixPattern": "да{0}"
           },
@@ -2138,6 +2205,12 @@
           "10p24": {
             "unitPrefixPattern": "Ё{0}"
           },
+          "10p27": {
+            "unitPrefixPattern": "R{0}"
+          },
+          "10p30": {
+            "unitPrefixPattern": "Q{0}"
+          },
           "1024p1": {
             "unitPrefixPattern": "Ки{0}"
           },
@@ -2167,12 +2240,10 @@
           },
           "power2": {
             "compoundUnitPattern1": "{0}²",
-            "compoundUnitPattern1-count-one": "{0}²",
             "compoundUnitPattern1-count-other": "{0}²"
           },
           "power3": {
             "compoundUnitPattern1": "{0}³",
-            "compoundUnitPattern1-count-one": "{0}³",
             "compoundUnitPattern1-count-other": "{0}³"
           },
           "times": {
@@ -2295,12 +2366,10 @@
           },
           "concentr-percent": {
             "displayName": "%",
-            "unitPattern-count-one": "{0}%",
             "unitPattern-count-other": "{0}%"
           },
           "concentr-permille": {
             "displayName": "‰",
-            "unitPattern-count-one": "{0}‰",
             "unitPattern-count-other": "{0}‰"
           },
           "concentr-permyriad": {
@@ -2472,7 +2541,6 @@
           },
           "electric-ohm": {
             "displayName": "Ω",
-            "unitPattern-count-one": "{0} Ω",
             "unitPattern-count-other": "{0} Ω"
           },
           "electric-volt": {
@@ -2673,9 +2741,9 @@
             "unitPattern-count-other": "{0} гэрл.жил"
           },
           "length-astronomical-unit": {
-            "displayName": "au",
-            "unitPattern-count-one": "{0}au",
-            "unitPattern-count-other": "{0}au"
+            "displayName": "о.о.н",
+            "unitPattern-count-one": "{0}о.о.н",
+            "unitPattern-count-other": "{0}о.о.н"
           },
           "length-furlong": {
             "displayName": "фурлонг",
@@ -2901,14 +2969,16 @@
             "unitPattern-count-one": "{0} занг.",
             "unitPattern-count-other": "{0} занг."
           },
+          "speed-beaufort": {
+            "displayName": "Bft",
+            "unitPattern-count-other": "B {0}"
+          },
           "temperature-generic": {
             "displayName": "°",
-            "unitPattern-count-one": "{0}°",
             "unitPattern-count-other": "{0}°"
           },
           "temperature-celsius": {
             "displayName": "°C",
-            "unitPattern-count-one": "{0}°C",
             "unitPattern-count-other": "{0}°C"
           },
           "temperature-fahrenheit": {
@@ -3103,6 +3173,21 @@
             "displayName": "том куарт",
             "unitPattern-count-one": "{0} том куарт",
             "unitPattern-count-other": "{0} том куарт"
+          },
+          "speed-light-speed": {
+            "displayName": "light",
+            "unitPattern-count-other": "{0} light"
+          },
+          "concentr-portion-per-1e9": {
+            "displayName": "мкг/кг",
+            "unitPattern-count-one": "{0} мкг/кг",
+            "unitPattern-count-other": "{0} мкг/кг"
+          },
+          "duration-night": {
+            "displayName": "шөнө",
+            "unitPattern-count-one": "{0}шөнө",
+            "unitPattern-count-other": "{0}шөнө",
+            "perUnitPattern": "{0}/шөнө"
           },
           "coordinateUnit": {
             "displayName": "зүг",
