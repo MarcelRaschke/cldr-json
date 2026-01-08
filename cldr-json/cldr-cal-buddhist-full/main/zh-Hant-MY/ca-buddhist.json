@@ -327,7 +327,7 @@
               "short": "ahmm"
             },
             "dateTimeFormats": {
-              "full": "{1}{0}",
+              "full": "{1} {0}",
               "long": "{1} {0}",
               "medium": "{1} {0}",
               "short": "{1} {0}",
@@ -546,7 +546,7 @@
             },
             "dateTimeFormats-atTime": {
               "standard": {
-                "full": "{1}{0}",
+                "full": "{1} {0}",
                 "long": "{1} {0}",
                 "medium": "{1} {0}",
                 "short": "{1} {0}"
@@ -554,7 +554,7 @@
             },
             "dateTimeFormats-relative": {
               "standard": {
-                "full": "{1}{0}",
+                "full": "{1} {0}",
                 "long": "{1}{0}",
                 "medium": "{1}{0}",
                 "short": "{1}{0}"

@@ -21,7 +21,7 @@ the data contained here, please file a new ticket at [Unicode Jira](https://unic
 
 ## License
 
-Copyright © 1991-2025 Unicode, Inc.
+Copyright © 1991-2026 Unicode, Inc.
 [Terms of Use](http://www.unicode.org/copyright.html)
 
 SPDX-License-Identifier: Unicode-3.0
